@@ -146,10 +146,20 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - review_started_at: 2026-05-30T23:06:18.370811+00:00
 - active_wizard: wizard-agente
 - active_step: 1
-- active_wizard: wizard-conectar
-- active_step: 5
-- awaiting: wizard_conectar_github_token
+- active_wizard: none
+- active_step: complete
+- awaiting: none
+- primeira_vitoria_tipo: post
+- primeira_vitoria_tema: Por que investir em vídeos profissionais ajuda empresas locais a venderem mais e passarem mais confiança
+- primeira_vitoria_plataforma: Instagram
+- primeira_vitoria_file: content/drafts/primeira-vitoria-post-2026-05-31.md
+- first_win_completed: true
 - tavily_configured: true
+- github_token_configured: true
+- chromium_installed: true
+- backup_active: true
+- backup_repo: https://github.com/davijadielson-blip/davijadielson-blip-workspace-backup
+- backup_cron_id: a764912a-4a5b-4c29-9a77-ea79d6cd8efc
 - wizard_aluno_nome_completo: Jadielson Davi
 - wizard_aluno_como_chamar: Jadielson
 - wizard_aluno_apelido: Jal
@@ -165,7 +175,11 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - wizard_agente_anti_pattern: nunca fala português de Portugal
 - agente_configured: true
 - nome_agente: Lôh
-- onboarding_current_step: 5
+- onboarding_current_step: complete
+- conectado: true
+- onboarding_completed: true
+- kit_archived_at: 2026-05-31T01:31:00Z
+- kit_archive_path: archive/starter-kit-onboarding-2026-05-31/
 - workspace_organizado: true
 - autonomia_liberada: true
 - exec_policy: ask=off/security=full
@@ -180,3 +194,6 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - 2026-05-31: Workspace organizado. Criou/atualizou estrutura com content/, memory/, archive/, MAPA.md raiz, mapas locais e registries; personalizou mapas para o contexto de produção audiovisual/agência do Jadielson.
 - 2026-05-31: Iniciou passo 5 (conectar superpoderes). Detecção: .env ausente; Chromium já instalado; faltam Search API e GitHub token.
 - 2026-05-31: Configurou Tavily Search API em .env e validou com HTTP 200; secrets reload executado. Audit mostrou plaintext legado em tokens do OpenClaw/Telegram, sem relação com Tavily.
+- 2026-05-31: Configurou GitHub token em .env e validou com HTTP 200 (@davijadielson-blip). Criou repo privado davijadielson-blip-workspace-backup, fez primeiro push (commit f28a886) e ativou cron diário de backup às 03:00 America/Maceio. Confirmado: .env não está trackeado.
+- 2026-05-31: Concluiu primeira vitória: post para Instagram salvo em content/drafts/primeira-vitoria-post-2026-05-31.md.
+- 2026-05-31: Jornada do Starter Kit concluída. Arquivou 7 itens de instalação em archive/starter-kit-onboarding-2026-05-31/ mantendo arquivos ativos e skills no workspace.
