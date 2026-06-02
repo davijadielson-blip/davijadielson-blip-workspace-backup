@@ -200,6 +200,7 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - 2026-06-02: OpenAI API Key configurada via cofre seguro `/data/.openclaw/secrets.json` como `providers.openai.apiKey`; validação HTTP 200 em `/v1/models`. Flag operacional: `whisper_configured=true` para fins do Starter Kit, embora a chave não esteja no `.env`.
 - 2026-06-02: Corrigida segurança do Telegram removendo wildcard `*` da allowlist de grupos; grupos agora aceitam comandos apenas do ID `7654417048`. Backup da config: `/data/.openclaw/openclaw.json.bak-20260602T030821Z`. Também alinhado o CLI do usuário via `/data/.local/bin/openclaw -> /data/.npm-global/bin/openclaw`; shell de login agora usa OpenClaw `2026.5.28`, com Gateway `2026.5.28` e probe OK.
 - 2026-06-02: Corrigida falha dos tópicos do grupo LÓGIKA: o tópico 5 estava preso em Gemini (`google/gemini-3.1-pro-preview`) e falhava por cota 429; foi movido para `openai-codex/gpt-5.5`. Também corrigido o `systemPrompt` dos tópicos, que conflitava com `messages.groupChat.visibleReplies=message_tool`; agora instrui usar `message(action=send)` para respostas visíveis em tópicos.
+- 2026-06-02: Após validação de Telegram/tópicos/áudio/busca, Jadielson decidiu deixar WhatsApp para depois. Workspace organizado e backup enviado ao repo privado `davijadielson-blip-workspace-backup`; commit principal `81b6e4f` registra a recuperação dos tópicos Telegram. `.env`, temporários e `vaults/` ficaram fora do backup.
 
 ## Segundo Cérebro / Obsidian — regra permanente de operação
 
