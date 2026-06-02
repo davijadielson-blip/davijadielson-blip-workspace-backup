@@ -5,5 +5,7 @@
 *.pem
 *-credentials.json
 .tmp-*
+tmp-*
+vaults/
 node_modules/
 .DS_Store

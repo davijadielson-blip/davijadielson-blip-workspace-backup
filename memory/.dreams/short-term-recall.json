@@ -1,0 +1,481 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-02T02:06:07.171Z",
+  "entries": {
+    "memory:memory/2026-06-01.md:1:10": {
+      "key": "memory:memory/2026-06-01.md:1:10",
+      "path": "memory/2026-06-01.md",
+      "startLine": 1,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "## Vault Segundo Cérebro — princípios operacionais adotados - 2026-06-01: Jadielson conectou o repositório GitHub `davijadielson-blip/segundo-cerebro-jadielson` como cópia local em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson`. - Princípio permanente do vault, confirmado no `CLAUDE.md` seção 4: seguir os 3 Fluxos + 4 Camadas. - Fluxo 1 / “Seu Cérebro” (`[F1] ...`): só Jadielson escreve; Lôh/IA apenas lê, salvo pedido explícito. - Fluxo 2 / “Cérebro da IA” (`[F2] memory/`): IA pode criar, editar e organizar com autonomia. - Fluxo 3 / Integração: acontece por evento de “Colheita”; IA lê F1 e sugere, Jadielson lê F2 e transforma em nota autoral no F1. - Regra prática: sem Colhe",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.41124931573867796,
+      "maxScore": 0.41124931573867796,
+      "firstRecalledAt": "2026-06-01T15:17:16.451Z",
+      "lastRecalledAt": "2026-06-01T15:17:16.451Z",
+      "queryHashes": [
+        "2ae8c5ab0273"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "claude.md",
+        "lôh/ia",
+        "vault",
+        "segundo",
+        "cérebro",
+        "princípios",
+        "operacionais",
+        "adotados"
+      ]
+    },
+    "memory:memory/2026-06-01.md:38:54": {
+      "key": "memory:memory/2026-06-01.md:38:54",
+      "path": "memory/2026-06-01.md",
+      "startLine": 38,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "- Skill `copy-pode` e referência `references/metodo-pode.md` foram alinhadas com essa versão. ## Saúde São Sebastião — calendário editorial anual 2026 - 2026-06-01: Jadielson pediu um estudo aprofundado e calendário editorial anual 2026 para a Secretaria de Saúde, considerando feriados, pontos facultativos, campanhas de saúde, referências nacionais/globais e benchmark do perfil `@saude.saosebastiao.al`. - Foram pesquisados feriados nacionais/pontos facultativos federais, feriados estaduais de Alagoas, possíveis feriados municipais a validar, calendário oficial da saúde do Ministério da Saúde, perfis de referência nacionais/globais e contexto interno do vault. - Documento consolidado salvo",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4952096194028854,
+      "maxScore": 0.4952096194028854,
+      "firstRecalledAt": "2026-06-01T17:26:53.524Z",
+      "lastRecalledAt": "2026-06-01T17:26:53.524Z",
+      "queryHashes": [
+        "744581d6386c"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "copy-pode",
+        "references/metodo-pode.md",
+        "nacionais/globais",
+        "saude.saosebastiao.al",
+        "nacionais/pontos",
+        "skill",
+        "copy",
+        "pode"
+      ]
+    },
+    "memory:memory/2026-06-01.md:89:104": {
+      "key": "memory:memory/2026-06-01.md:89:104",
+      "path": "memory/2026-06-01.md",
+      "startLine": 89,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "- 2026-06-01 15:44 UTC: Após novo pull do vault, a nota autoral P.O.D.E em F1 foi atualizada corretamente. - Conteúdo-base: P.O.D.E é metodologia para transformar rede social em posicionamento + demanda + conversão. - Pilares atualizados: Presença = Lógika da Marca; Originalidade = Lógika do Valor; Desejo = Lógika da Rua; Engajamento = Lógika da Conversão. - Fluxo semanal ideal: Posicionamento → Valor → Conexão → Conversão. - Skill `copy-pode` e referência `references/metodo-pode.md` foram alinhadas com essa versão. ## Saúde São Sebastião — calendário editorial anual 2026 - 2026-06-01: Jadielson pediu um estudo aprofundado e calendário editorial anual 2026 para a Secretaria de Saúde, consi",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.44456015825271605,
+      "maxScore": 0.44456015825271605,
+      "firstRecalledAt": "2026-06-01T17:26:53.524Z",
+      "lastRecalledAt": "2026-06-01T17:26:53.524Z",
+      "queryHashes": [
+        "744581d6386c"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "p.o.d.e",
+        "conteúdo-base",
+        "copy-pode",
+        "references/metodo-pode.md",
+        "utc",
+        "após",
+        "novo",
+        "pull"
+      ]
+    },
+    "memory:memory/2026-06-01.md:126:139": {
+      "key": "memory:memory/2026-06-01.md:126:139",
+      "path": "memory/2026-06-01.md",
+      "startLine": 126,
+      "endLine": 139,
+      "source": "memory",
+      "snippet": "- Primeiro teste de sincronização criou `[F2] memory/outputs/testes-openclaw/2026-06-01-teste-sync-openclaw.md`, commit `78928d5`, confirmado como título visível. ## Saúde São Sebastião — estratégia junho e rotação diária - 2026-06-01: Criada a estratégia de produção de conteúdo de junho/2026 para Secretaria de Saúde em `[F2] memory/outputs/saude-sao-sebastiao/estrategias/2026-06-estrategia-conteudo-saude.md`. - Campanha guarda-chuva: “Junho de cuidado em movimento”. Promessa editorial: mostrar serviço real, orientar acesso e aproximar a população da rede municipal. - O calendário de junho foi complementado com sugestões de cenas por pauta e cuidados de captação. - Jadielson destacou que a",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9092639684677124,
+      "maxScore": 0.49626788794994353,
+      "firstRecalledAt": "2026-06-01T17:26:53.524Z",
+      "lastRecalledAt": "2026-06-01T21:30:08.839Z",
+      "queryHashes": [
+        "744581d6386c",
+        "40f68bcf5de9"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "junho/2026",
+        "guarda-chuva",
+        "primeiro",
+        "teste",
+        "sincronização",
+        "criou",
+        "outputs",
+        "testes"
+      ]
+    },
+    "memory:memory/2026-06-01.md:136:147": {
+      "key": "memory:memory/2026-06-01.md:136:147",
+      "path": "memory/2026-06-01.md",
+      "startLine": 136,
+      "endLine": 147,
+      "source": "memory",
+      "snippet": "- Rotação diária: segunda Atenção Básica/Território; terça Serviços Especializados; quarta Vigilância/Prevenção; quinta Rede de Apoio/Humanização; sexta Bastidores + Prestação de Contas. SAMU/Unidade Mista/referências entram como pauta flexível de fluxo/orientação. ## Saúde São Sebastião — benchmark e críticas estratégicas - 2026-06-01: Benchmark apontou que o perfil `@saude.saosebastiao.al` já possui bons temas (vacinação, especialistas, mutirões, CAPS, acesso a serviços e prestação de contas), mas precisa organizar séries editoriais, melhorar clareza visual, tornar posts mais úteis/salváveis e reduzir dependência de legendas institucionais longas. - Perfis de referência incorporados: Min",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4025053530931473,
+      "maxScore": 0.4025053530931473,
+      "firstRecalledAt": "2026-06-01T17:26:53.524Z",
+      "lastRecalledAt": "2026-06-01T17:26:53.524Z",
+      "queryHashes": [
+        "744581d6386c"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "básica/território",
+        "vigilância/prevenção",
+        "apoio/humanização",
+        "samu/unidade",
+        "mista/referências",
+        "fluxo/orientação",
+        "saude.saosebastiao.al",
+        "úteis/salváveis"
+      ]
+    },
+    "memory:memory/2026-06-01.md:143:152": {
+      "key": "memory:memory/2026-06-01.md:143:152",
+      "path": "memory/2026-06-01.md",
+      "startLine": 143,
+      "endLine": 152,
+      "source": "memory",
+      "snippet": "- Fórmula recomendada para linguagem: “o que é + para quem é + onde/como acessar + por que importa”. - Crítica feita ao calendário anual: boa arquitetura, mas não suficiente sozinho; precisa virar sistema de produção recorrente com pauta, setor, cena, formato, responsável/status, validação e métrica. ## Saúde São Sebastião — lacunas a validar - 2026-06-01: Auditoria do vault encontrou divergências numéricas: Ficha Resumo fala em 16 PSFs e 28 UBSs; Público/Território fala em 17 equipes PSF e 27 UBSs; UBS MOC fala em 27 UBSs. Não usar números públicos sem validação oficial. - Feriados municipais de São Sebastião/AL para 2026 foram encontrados apenas em fontes secundárias; validar com Prefeit",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.39083475470542905,
+      "maxScore": 0.39083475470542905,
+      "firstRecalledAt": "2026-06-01T17:26:53.524Z",
+      "lastRecalledAt": "2026-06-01T17:26:53.524Z",
+      "queryHashes": [
+        "744581d6386c"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "onde/como",
+        "responsável/status",
+        "público/território",
+        "sebastião/al",
+        "fórmula",
+        "recomendada",
+        "linguagem",
+        "quem"
+      ]
+    },
+    "memory:memory/2026-06-01.md:50:68": {
+      "key": "memory:memory/2026-06-01.md:50:68",
+      "path": "memory/2026-06-01.md",
+      "startLine": 50,
+      "endLine": 68,
+      "source": "memory",
+      "snippet": "- 2026-06-01: Jadielson pediu transformar o calendário anual em sistema de produção recorrente. - Criado em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/`. - Arquivo principal: `00-sistema-producao-recorrente-saude.md`. - Templates criados: calendário operacional mensal, pauta diária, revisão de performance mensal. - Criado mês operacional inicial: `meses/2026-06-operacional-saude.md`. - Princípio: rotina semanal por grupos da rede + pipeline de produção + status de execução + revisão mensal de performance P.O.D.E. ## Vault Segundo Cérebro — princípios operacionais adotados - 2026-06-01: Jadielson conectou o repositório GitHub `davijadielson-blip/segundo-cerebro-jadielson` com",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5196920722723007,
+      "maxScore": 0.5196920722723007,
+      "firstRecalledAt": "2026-06-01T21:30:08.839Z",
+      "lastRecalledAt": "2026-06-01T21:30:08.839Z",
+      "queryHashes": [
+        "40f68bcf5de9"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "p.o.d.e",
+        "jadielson",
+        "pediu",
+        "transformar",
+        "calendário",
+        "anual",
+        "sistema",
+        "produção"
+      ]
+    },
+    "memory:memory/2026-06-01.md:100:117": {
+      "key": "memory:memory/2026-06-01.md:100:117",
+      "path": "memory/2026-06-01.md",
+      "startLine": 100,
+      "endLine": 117,
+      "source": "memory",
+      "snippet": "- Tese anual: Secretaria como rede viva de cuidado — presente no território, útil para orientar acesso, humana no acolhimento e transparente na prestação de contas. - Regra operacional: manter P.O.D.E + rotação diária por grupos/setores + controle de cobertura mensal. ## Saúde São Sebastião — sistema de produção recorrente - 2026-06-01: Jadielson pediu transformar o calendário anual em sistema de produção recorrente. - Criado em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/`. - Arquivo principal: `00-sistema-producao-recorrente-saude.md`. - Templates criados: calendário operacional mensal, pauta diária, revisão de performance mensal. - Criado mês operacional inicial: `meses/20",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.5309838891029357,
+      "maxScore": 0.5164838045835495,
+      "firstRecalledAt": "2026-06-01T21:30:08.839Z",
+      "lastRecalledAt": "2026-06-01T22:00:20.120Z",
+      "queryHashes": [
+        "40f68bcf5de9",
+        "1fd5c0627c32",
+        "53c3e16903df"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "p.o.d.e",
+        "grupos/setores",
+        "meses/20",
+        "tese",
+        "anual",
+        "secretaria",
+        "rede",
+        "viva"
+      ]
+    },
+    "memory:memory/2026-06-01.md:116:130": {
+      "key": "memory:memory/2026-06-01.md:116:130",
+      "path": "memory/2026-06-01.md",
+      "startLine": 116,
+      "endLine": 130,
+      "source": "memory",
+      "snippet": "- Jadielson rotacionou o token via BotFather e enviou o novo token; configuração em `/data/.openclaw/openclaw.json`, campo `channels.telegram.botToken`, foi atualizada sem expor o token. - Foi necessário reinício real do Gateway/processo para limpar estado com token antigo; depois Telegram ficou `running + connected` e teste por Telegram chegou com sucesso. - Backup sensível criado durante a troca (`/data/.openclaw/openclaw.json.bak-telegram-token-20260601-1338`) foi removido com autorização do Jadielson e verificado como inexistente. ## GitHub/vault — escrita e sincronização - 2026-06-01: Cópia local do vault clonada em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson` a partir",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.0264228999614715,
+      "maxScore": 0.515317639708519,
+      "firstRecalledAt": "2026-06-01T21:30:08.839Z",
+      "lastRecalledAt": "2026-06-01T21:41:16.256Z",
+      "queryHashes": [
+        "40f68bcf5de9",
+        "1fd5c0627c32"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "backup",
+        "gateway",
+        "openclaw/openclaw.json",
+        "channels.telegram.bottoken",
+        "gateway/processo",
+        "github/vault",
+        "jadielson",
+        "rotacionou"
+      ]
+    },
+    "memory:memory/2026-06-01.md:64:77": {
+      "key": "memory:memory/2026-06-01.md:64:77",
+      "path": "memory/2026-06-01.md",
+      "startLine": 64,
+      "endLine": 77,
+      "source": "memory",
+      "snippet": "- Regra prática: sem Colheita explícita, o ciclo não fechou; não migrar output de IA para nota autoral sem revisão/decisão do Jadielson. ## Preferência — consulta natural ao Segundo Cérebro - 2026-06-01: Jadielson pediu que a Lôh deixe como regra clara consultar o vault/Segundo Cérebro para contexto natural, evitando respostas genéricas. - Aplicação: antes de responder sobre projetos, frentes, rotinas, decisões, conteúdo, clientes, estrutura da saúde, planejamento ou histórico pessoal/profissional, consultar o vault quando isso puder melhorar a precisão. - Limite: continuar respeitando a constituição do vault — F1 só leitura/sugestão; escrita autônoma apenas em `[F2] memory/`. ## Regra ed",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5089704900979996,
+      "maxScore": 0.5089704900979996,
+      "firstRecalledAt": "2026-06-01T21:30:08.839Z",
+      "lastRecalledAt": "2026-06-01T21:30:08.839Z",
+      "queryHashes": [
+        "40f68bcf5de9"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "revisão/decisão",
+        "vault/segundo",
+        "pessoal/profissional",
+        "leitura/sugestão",
+        "regra",
+        "prática",
+        "sem",
+        "colheita"
+      ]
+    },
+    "memory:memory/2026-06-01.md:1:19": {
+      "key": "memory:memory/2026-06-01.md:1:19",
+      "path": "memory/2026-06-01.md",
+      "startLine": 1,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "## Vault Segundo Cérebro — princípios operacionais adotados - 2026-06-01: Jadielson conectou o repositório GitHub `davijadielson-blip/segundo-cerebro-jadielson` como cópia local em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson`. - Princípio permanente do vault, confirmado no `CLAUDE.md` seção 4: seguir os 3 Fluxos + 4 Camadas. - Fluxo 1 / “Seu Cérebro” (`[F1] ...`): só Jadielson escreve; Lôh/IA apenas lê, salvo pedido explícito. - Fluxo 2 / “Cérebro da IA” (`[F2] memory/`): IA pode criar, editar e organizar com autonomia. - Fluxo 3 / Integração: acontece por evento de “Colheita”; IA lê F1 e sugere, Jadielson lê F2 e transforma em nota autoral no F1. - Regra prática: sem Colhe",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.507957699894905,
+      "maxScore": 0.507957699894905,
+      "firstRecalledAt": "2026-06-01T21:30:08.839Z",
+      "lastRecalledAt": "2026-06-01T21:30:08.839Z",
+      "queryHashes": [
+        "40f68bcf5de9"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "claude.md",
+        "lôh/ia",
+        "vault",
+        "segundo",
+        "cérebro",
+        "princípios",
+        "operacionais",
+        "adotados"
+      ]
+    },
+    "memory:memory/2026-06-01.md:281:295": {
+      "key": "memory:memory/2026-06-01.md:281:295",
+      "path": "memory/2026-06-01.md",
+      "startLine": 281,
+      "endLine": 295,
+      "source": "memory",
+      "snippet": "- Jadielson rotacionou o token via BotFather e enviou o novo token; configuração em `/data/.openclaw/openclaw.json`, campo `channels.telegram.botToken`, foi atualizada sem expor o token. - Foi necessário reinício real do Gateway/processo para limpar estado com token antigo; depois Telegram ficou `running + connected` e teste por Telegram chegou com sucesso. - Backup sensível criado durante a troca (`/data/.openclaw/openclaw.json.bak-telegram-token-20260601-1338`) foi removido com autorização do Jadielson e verificado como inexistente. ## GitHub/vault — escrita e sincronização - 2026-06-01: Cópia local do vault clonada em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson` a partir",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.0203369796276092,
+      "maxScore": 0.515317639708519,
+      "firstRecalledAt": "2026-06-01T21:41:16.256Z",
+      "lastRecalledAt": "2026-06-02T02:06:07.171Z",
+      "queryHashes": [
+        "1fd5c0627c32",
+        "95720b1d919a"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "backup",
+        "gateway",
+        "openclaw/openclaw.json",
+        "channels.telegram.bottoken",
+        "gateway/processo",
+        "github/vault",
+        "jadielson",
+        "rotacionou"
+      ]
+    },
+    "memory:memory/2026-06-01.md:265:282": {
+      "key": "memory:memory/2026-06-01.md:265:282",
+      "path": "memory/2026-06-01.md",
+      "startLine": 265,
+      "endLine": 282,
+      "source": "memory",
+      "snippet": "- Tese anual: Secretaria como rede viva de cuidado — presente no território, útil para orientar acesso, humana no acolhimento e transparente na prestação de contas. - Regra operacional: manter P.O.D.E + rotação diária por grupos/setores + controle de cobertura mensal. ## Saúde São Sebastião — sistema de produção recorrente - 2026-06-01: Jadielson pediu transformar o calendário anual em sistema de produção recorrente. - Criado em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/`. - Arquivo principal: `00-sistema-producao-recorrente-saude.md`. - Templates criados: calendário operacional mensal, pauta diária, revisão de performance mensal. - Criado mês operacional inicial: `meses/20",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.4836589574813843,
+      "maxScore": 0.5128135770559311,
+      "firstRecalledAt": "2026-06-01T21:41:16.256Z",
+      "lastRecalledAt": "2026-06-02T01:35:05.433Z",
+      "queryHashes": [
+        "1fd5c0627c32",
+        "53c3e16903df",
+        "a6d7e812fe8d"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "p.o.d.e",
+        "grupos/setores",
+        "meses/20",
+        "tese",
+        "anual",
+        "secretaria",
+        "rede",
+        "viva"
+      ]
+    },
+    "memory:memory/2026-06-01.md:321:336": {
+      "key": "memory:memory/2026-06-01.md:321:336",
+      "path": "memory/2026-06-01.md",
+      "startLine": 321,
+      "endLine": 336,
+      "source": "memory",
+      "snippet": "- Arquivo salvo em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/semanas/2026-06-semana-01-operacional.md`. - Conteúdo inclui pauta diária, função editorial P.O.D.E, cenas, sequência de stories, headline, legenda, CTA, validações e checklist de captação. - Commit GitHub: `8e9961d` — `conteudo: semana 1 operacional saude junho`. ## Saúde São Sebastião — ajuste na grade-matriz - 2026-06-01: Jadielson aprovou a grade-matriz como o “raio-x” necessário para mesclar grupos, setores e serviços. - Acrescentadas as especialidades `urologia` e `ortopedia` ao Espaço Cuidar / Centro de Especialidades na grade-matriz. - Arquivo atualizado: `[F2] memory/outputs/saude-sao-sebastiao/sistema-pr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5085004568099976,
+      "maxScore": 0.5085004568099976,
+      "firstRecalledAt": "2026-06-01T22:00:20.120Z",
+      "lastRecalledAt": "2026-06-01T22:00:20.120Z",
+      "queryHashes": [
+        "53c3e16903df"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "p.o.d.e",
+        "grade-matriz",
+        "raio-x",
+        "arquivo",
+        "salvo",
+        "outputs",
+        "saude",
+        "sao"
+      ]
+    },
+    "memory:memory/2026-06-01.md:335:341": {
+      "key": "memory:memory/2026-06-01.md:335:341",
+      "path": "memory/2026-06-01.md",
+      "startLine": 335,
+      "endLine": 341,
+      "source": "memory",
+      "snippet": "- Grupo identificado nos logs/configuração: **LÓGIKA**, id `-5259169638`. Usuário autorizado de Jadielson: `7654417048`. - Houve várias tentativas iniciais com configuração incorreta: o ID do grupo foi colocado em `groupAllowFrom`, mas esse campo autoriza usuários; o grupo precisa ficar em `telegram.groups` e o usuário em `allowFrom`/`groupAllowFrom`. - Também houve problema de persistência: edições manuais em `/data/.openclaw/openclaw.json` eram revertidas por escrita automática/gerenciador de config. Para evitar isso, usar patch validado do OpenClaw quando disponível e verificar o arquivo ativo após reload/restart. - Configuração desejada final para o grupo LÓGIKA: grupo autorizado, `allow",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.0017339587211609,
+      "maxScore": 0.5172309011220931,
+      "firstRecalledAt": "2026-06-01T22:00:20.120Z",
+      "lastRecalledAt": "2026-06-01T22:07:11.316Z",
+      "queryHashes": [
+        "53c3e16903df",
+        "e49334eac46e"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "logs/configuração",
+        "telegram.groups",
+        "openclaw/openclaw.json",
+        "automática/gerenciador",
+        "reload/restart",
+        "grupo",
+        "identificado",
+        "nos"
+      ]
+    }
+  }
+}

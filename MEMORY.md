@@ -197,3 +197,34 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - 2026-05-31: Configurou GitHub token em .env e validou com HTTP 200 (@davijadielson-blip). Criou repo privado davijadielson-blip-workspace-backup, fez primeiro push (commit f28a886) e ativou cron diário de backup às 03:00 America/Maceio. Confirmado: .env não está trackeado.
 - 2026-05-31: Concluiu primeira vitória: post para Instagram salvo em content/drafts/primeira-vitoria-post-2026-05-31.md.
 - 2026-05-31: Jornada do Starter Kit concluída. Arquivou 7 itens de instalação em archive/starter-kit-onboarding-2026-05-31/ mantendo arquivos ativos e skills no workspace.
+- 2026-06-02: OpenAI API Key configurada via cofre seguro `/data/.openclaw/secrets.json` como `providers.openai.apiKey`; validação HTTP 200 em `/v1/models`. Flag operacional: `whisper_configured=true` para fins do Starter Kit, embora a chave não esteja no `.env`.
+- 2026-06-02: Corrigida segurança do Telegram removendo wildcard `*` da allowlist de grupos; grupos agora aceitam comandos apenas do ID `7654417048`. Backup da config: `/data/.openclaw/openclaw.json.bak-20260602T030821Z`. Também alinhado o CLI do usuário via `/data/.local/bin/openclaw -> /data/.npm-global/bin/openclaw`; shell de login agora usa OpenClaw `2026.5.28`, com Gateway `2026.5.28` e probe OK.
+- 2026-06-02: Corrigida falha dos tópicos do grupo LÓGIKA: o tópico 5 estava preso em Gemini (`google/gemini-3.1-pro-preview`) e falhava por cota 429; foi movido para `openai-codex/gpt-5.5`. Também corrigido o `systemPrompt` dos tópicos, que conflitava com `messages.groupChat.visibleReplies=message_tool`; agora instrui usar `message(action=send)` para respostas visíveis em tópicos.
+
+## Segundo Cérebro / Obsidian — regra permanente de operação
+
+- 2026-06-01: O vault Obsidian `segundo-cerebro-jadielson` foi clonado em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson` a partir de `https://github.com/davijadielson-blip/segundo-cerebro-jadielson`.
+- Operar o vault obedecendo a constituição em `CLAUDE.md`, especialmente seção 4: **3 Fluxos + 4 Camadas**.
+- **Fluxo 1 / Seu Cérebro**: pastas `[F1] ...` são notas autorais do Jadielson. A Lôh/IA só lê e sugere; não escreve, move ou edita sem pedido explícito.
+- **Fluxo 2 / Cérebro da IA**: `[F2] memory/` é a área onde IA pode trabalhar com autonomia: contexto, sessões, outputs, agentes, databases etc.
+- **Fluxo 3 / Integração / Colheita**: IA lê F1 para contextualizar e produz/sugere em F2; Jadielson decide e cria nota autoral em F1. Sem Colheita explícita, o ciclo não fechou.
+- Regra de ouro: “A IA é bibliotecária. Jadielson é o autor.”
+
+## Preferência operacional — usar o Segundo Cérebro como contexto natural
+
+- 2026-06-01: Jadielson quer que a Lôh consulte o vault `segundo-cerebro-jadielson` como fonte natural de contexto para evitar respostas genéricas.
+- Regra: para assuntos de projetos, frentes de trabalho, rotinas, decisões, conteúdo, clientes, saúde/secretaria, planejamento ou histórico pessoal/profissional, consultar o vault quando isso puder melhorar a resposta.
+- Limite permanente: respeitar a constituição do vault — `[F1]` é leitura/sugestão; escrita autônoma apenas em `[F2] memory/`, salvo pedido explícito.
+
+## Regra editorial permanente — consultar contexto e salvar outputs
+
+- 2026-06-01: Para qualquer demanda de conteúdo, legenda, headline/manchete, calendário editorial, roteiro ou pauta, consultar o vault `segundo-cerebro-jadielson` para contexto natural antes de produzir, quando aplicável.
+- Ordem de consulta recomendada por frente: `[F1] 5-Frentes/<frente>/11 - CONTEXTO EDITORIAL`; `[F1] 5-Frentes/<frente>/12 - BANCO DE REFERENCIAS` ou `12 - REFERENCIAS EDITORIAIS`; bancos de ideias/pauta/rede/referências da frente; e apoios em `[F2] memory/databases/`.
+- Sempre salvar legendas, headlines/manchetes e outputs editoriais produzidos pela Lôh em `[F2] memory/outputs/`, preferencialmente em subpasta da frente correspondente.
+- Não escrever em F1 sem pedido explícito; F1 serve como contexto autoral do Jadielson.
+
+## Método editorial padrão — Copy P.O.D.E
+
+- 2026-06-01: Para criações de copy, legenda, headline, roteiro, pauta e textos editoriais, usar a skill `copy-pode` como método padrão.
+- Base estratégica: P.O.D.E = **Presença • Originalidade • Desejo • Engajamento**.
+- A nota autoral indicada por Jadielson em `[F1] 5-Frentes/Logika-Creative/Estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md` estava vazia na inspeção inicial; a versão operacional foi consolidada em F2/skill e deve ser refinada conforme o método for testado no mercado.
