@@ -73,6 +73,23 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
   - Estimativa: 1h.
   - Depende de: T3.2.
 
+### Fase 4: Base mestre Produção & Agenda
+
+- [x] **T4.1** — Criar database mestre “Produção & Agenda — LÓGIKA”.
+  - Verificação: database criada e lida pela API.
+  - Estimativa: 30min.
+  - Depende de: decisão de Jadielson sobre unificação.
+
+- [x] **T4.2** — Atualizar Central LÓGIKA com decisão v0.3.
+  - Verificação: blocos de decisão v0.3 adicionados na Central.
+  - Estimativa: 15min.
+  - Depende de: T4.1.
+
+- [ ] **T4.3** — Planejar migração por amostra.
+  - Verificação: plano de migração com 3 a 5 registros-teste antes de qualquer migração em massa.
+  - Estimativa: 45min.
+  - Depende de: T4.2.
+
 ## Dependências externas
 
 - Permissão de escrita da integração Notion quando for necessário criar/editar páginas.
@@ -91,7 +108,7 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
 - Fundação Notion validada.
 - Central LÓGIKA rascunho criada.
 - Plano executivo criado e em execução.
-- Central LÓGIKA v0.2 criada no Notion e verificada. Próximo: revisão humana e depois auditoria de divergências entre calendários editoriais.
+- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada. Próximo: planejar migração por amostra antes de qualquer migração em massa.
 
 ---
 

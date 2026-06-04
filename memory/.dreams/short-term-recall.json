@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T19:48:13.062Z",
+  "updatedAt": "2026-06-04T20:25:27.604Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -537,6 +537,37 @@
         "openclaw/openclaw.json",
         "openclaw/openclaw.json.bak",
         "jadielson"
+      ]
+    },
+    "memory:memory/2026-06-04.md:22:34": {
+      "key": "memory:memory/2026-06-04.md:22:34",
+      "path": "memory/2026-06-04.md",
+      "startLine": 22,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "- Regra consolidada em `agentes/ARQUITETURA-AGENTES.md` v0.3: cada grupo terá seu General próprio; a Central Pessoal tem General local, a LÓGIKA deverá ter General local, e futuras frentes também podem ter Generais locais. - A Lôh entra como camada macro para memória, backup, configuração, integração entre grupos, segurança, parede-d'água e decisões transversais. - O General local coordena triagem, prioridades internas, encaminhamento para especialistas e aciona a Lôh quando a questão ultrapassar o grupo. ## Notion LÓGIKA — integração e primeira central operacional - 2026-06-04: Jadielson autorizou a Lôh a organizar o Notion empresarial com liberdade, mantendo segurança: sem excluir nada e",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6485374440286737,
+      "maxScore": 0.6485374440286737,
+      "firstRecalledAt": "2026-06-04T20:25:27.604Z",
+      "lastRecalledAt": "2026-06-04T20:25:27.604Z",
+      "queryHashes": [
+        "59e8fd69fc94"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "agentes/arquitetura-agentes.md",
+        "v0.3",
+        "parede-d",
+        "regra",
+        "consolidada",
+        "agentes",
+        "arquitetura"
       ]
     }
   }
