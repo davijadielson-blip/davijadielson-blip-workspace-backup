@@ -110,6 +110,28 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
   - Estimativa: 10min.
   - Depende de: decisão de Jadielson.
 
+### Fase 5: Inbox oficial e rotina Jarvis
+
+- [x] **T5.1** — Criar nova database `Inbox / Captura Geral — LÓGIKA`.
+  - Verificação: database criada e lida pela API.
+  - Estimativa: 20min.
+  - Depende de: decisão de Jadielson.
+
+- [x] **T5.2** — Arquivar antiga Captura Geral de teste.
+  - Verificação: database antiga marcada como `archived: true` via API.
+  - Estimativa: 10min.
+  - Depende de: T5.1 e autorização de Jadielson.
+
+- [x] **T5.3** — Atualizar Central LÓGIKA com Inbox oficial.
+  - Verificação: Central recebeu seção v0.5 com link da nova Inbox e rotina Jarvis.
+  - Estimativa: 10min.
+  - Depende de: T5.2.
+
+- [x] **T5.4** — Agendar revisão diária da Inbox.
+  - Verificação: cron `jarvis-revisao-inbox-logika-seg-sab` criado para segunda a sábado às 08:00 America/Maceio.
+  - Estimativa: 10min.
+  - Depende de: T5.3.
+
 ## Dependências externas
 
 - Permissão de escrita da integração Notion quando for necessário criar/editar páginas.
@@ -128,7 +150,7 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
 - Fundação Notion validada.
 - Central LÓGIKA rascunho criada.
 - Plano executivo criado e em execução.
-- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado. Migração por amostra executada com 4 registros. Regra de entrada definida: tudo novo entra primeiro em Inbox / Captura Geral e depois é triado para o destino adequado.
+- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado. Migração por amostra executada com 4 registros. Regra de entrada definida: tudo novo entra primeiro na nova Inbox / Captura Geral — LÓGIKA e depois é triado. Antiga Captura Geral foi arquivada. Rotina Jarvis agendada de segunda a sábado às 08:00.
 
 ---
 
