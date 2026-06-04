@@ -255,3 +255,9 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - Script de sincronização criado: `/data/.openclaw/workspace/scripts/sync-segundo-cerebro.sh`.
 - Cron diário criado: `sync-segundo-cerebro-jadielson`, id `a6a8ede9-b9f1-46ed-9072-4c0d145ab6c9`, agenda `10 3 * * *` em `America/Maceio`.
 - O cron puxa mudanças do GitHub/Obsidian com `git pull --ff-only` e envia mudanças locais do vault quando existirem; em conflito Git, deve parar e pedir orientação.
+
+## Arquitetura de agentes — Lôh gerente geral + General por grupo
+
+- 2026-06-04: Jadielson definiu a hierarquia correta da arquitetura de agentes: **Lôh** é a gerente geral da arquitetura inteira; o **General** é coordenador local de cada grupo, não um agente universal único.
+- Cada grupo deve ter seu próprio General: Central Pessoal, LÓGIKA e futuras frentes/grupos. O General local coordena demandas internas e encaminha para especialistas; a Lôh coordena decisões transversais, memória, backup, configuração, segurança, integração entre grupos e parede-d'água.
+- Documento atualizado: `/data/.openclaw/workspace/agentes/ARQUITETURA-AGENTES.md` v0.3.
