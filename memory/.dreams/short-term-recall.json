@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T22:19:11.620Z",
+  "updatedAt": "2026-06-04T23:01:47.991Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -134,18 +134,20 @@
       "endLine": 147,
       "source": "memory",
       "snippet": "- Rotação diária: segunda Atenção Básica/Território; terça Serviços Especializados; quarta Vigilância/Prevenção; quinta Rede de Apoio/Humanização; sexta Bastidores + Prestação de Contas. SAMU/Unidade Mista/referências entram como pauta flexível de fluxo/orientação. ## Saúde São Sebastião — benchmark e críticas estratégicas - 2026-06-01: Benchmark apontou que o perfil `@saude.saosebastiao.al` já possui bons temas (vacinação, especialistas, mutirões, CAPS, acesso a serviços e prestação de contas), mas precisa organizar séries editoriais, melhorar clareza visual, tornar posts mais úteis/salváveis e reduzir dependência de legendas institucionais longas. - Perfis de referência incorporados: Min",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4025053530931473,
+      "totalScore": 0.7855497300624847,
       "maxScore": 0.4025053530931473,
       "firstRecalledAt": "2026-06-01T17:26:53.524Z",
-      "lastRecalledAt": "2026-06-01T17:26:53.524Z",
+      "lastRecalledAt": "2026-06-04T23:01:47.991Z",
       "queryHashes": [
-        "744581d6386c"
+        "744581d6386c",
+        "a948cf5ab757"
       ],
       "recallDays": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-04"
       ],
       "conceptTags": [
         "básica/território",
@@ -692,6 +694,37 @@
         "skill.md",
         "wizard-conectar",
         "v2.1"
+      ]
+    },
+    "memory:memory/2026-06-01.md:301:312": {
+      "key": "memory:memory/2026-06-01.md:301:312",
+      "path": "memory/2026-06-01.md",
+      "startLine": 301,
+      "endLine": 312,
+      "source": "memory",
+      "snippet": "- Rotação diária: segunda Atenção Básica/Território; terça Serviços Especializados; quarta Vigilância/Prevenção; quinta Rede de Apoio/Humanização; sexta Bastidores + Prestação de Contas. SAMU/Unidade Mista/referências entram como pauta flexível de fluxo/orientação. ## Saúde São Sebastião — benchmark e críticas estratégicas - 2026-06-01: Benchmark apontou que o perfil `@saude.saosebastiao.al` já possui bons temas (vacinação, especialistas, mutirões, CAPS, acesso a serviços e prestação de contas), mas precisa organizar séries editoriais, melhorar clareza visual, tornar posts mais úteis/salváveis e reduzir dependência de legendas institucionais longas. - Perfis de referência incorporados: Min",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38304437696933746,
+      "maxScore": 0.38304437696933746,
+      "firstRecalledAt": "2026-06-04T23:01:47.991Z",
+      "lastRecalledAt": "2026-06-04T23:01:47.991Z",
+      "queryHashes": [
+        "a948cf5ab757"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "básica/território",
+        "vigilância/prevenção",
+        "apoio/humanização",
+        "samu/unidade",
+        "mista/referências",
+        "fluxo/orientação",
+        "saude.saosebastiao.al",
+        "úteis/salváveis"
       ]
     }
   }
