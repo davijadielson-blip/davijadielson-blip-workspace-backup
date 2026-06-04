@@ -1,0 +1,491 @@
+{
+  "Captura Geral": [
+    {
+      "id": "36b207e6-f145-812e-a649-c8b69b9655ed",
+      "url": "https://app.notion.com/p/ULTRASSOM-HOJE-as-no-espa-o-cuidar-36b207e6f145812ea649c8b69b9655ed",
+      "title": "ULTRASSOM HOJE as no espaço cuidar",
+      "props": {
+        "Pessoas": [],
+        "Tipo": "Captura",
+        "Origem": "Telegram",
+        "Frente": "Geral",
+        "Data": "2026-05-25T13:00:00.000-03:00",
+        "Recorrência": null,
+        "Status": "A fazer"
+      }
+    },
+    {
+      "id": "362207e6-f145-81a8-badf-f0f5ba069816",
+      "url": "https://app.notion.com/p/Editar-v-deo-vereador-Francisco-Euz-bio-neste-domingo-362207e6f14581a8badff0f5ba069816",
+      "title": "Editar vídeo vereador Francisco Euzébio neste domingo",
+      "props": {
+        "Pessoas": [],
+        "Tipo": "Tarefa",
+        "Origem": "Telegram",
+        "Frente": "Câmara Municipal",
+        "Data": "2026-05-17",
+        "Recorrência": null,
+        "Status": "A fazer"
+      }
+    },
+    {
+      "id": "35e207e6-f145-81c0-95a6-c19c9a543459",
+      "url": "https://app.notion.com/p/revisar-briefing-L-gika-at-sexta-35e207e6f14581c095a6c19c9a543459",
+      "title": "revisar briefing Lógika até sexta",
+      "props": {
+        "Pessoas": [],
+        "Tipo": "Tarefa",
+        "Origem": "Claude.ai",
+        "Frente": "Lógika Creative",
+        "Data": "2026-05-15",
+        "Recorrência": null,
+        "Status": "A fazer"
+      }
+    },
+    {
+      "id": "36b207e6-f145-81f6-b4ec-d07b150d22c9",
+      "url": "https://app.notion.com/p/Gostei-da-5-36b207e6f14581f6b4ecd07b150d22c9",
+      "title": "Gostei da 5",
+      "props": {
+        "Pessoas": [],
+        "Tipo": "Captura",
+        "Origem": "Telegram",
+        "Frente": "Geral",
+        "Data": null,
+        "Recorrência": null,
+        "Status": "A fazer"
+      }
+    },
+    {
+      "id": "362207e6-f145-817f-a60a-d6181b468bf6",
+      "url": "https://app.notion.com/p/362207e6f145817fa60ad6181b468bf6",
+      "title": "(sem título)",
+      "props": {
+        "Pessoas": [],
+        "Tipo": "Compromisso",
+        "Origem": "Telegram",
+        "Frente": "Geral",
+        "Data": null,
+        "Recorrência": null,
+        "Status": "A fazer"
+      }
+    }
+  ],
+  "Calendário Editorial": [
+    {
+      "id": "333207e6-f145-805e-aaba-c51d7733a830",
+      "url": "https://app.notion.com/p/333207e6f145805eaabac51d7733a830",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "abertura unidade 1, unidade 2, serviço técnico, noturno, fechamento",
+        "ROTEIROS/BRIEFENG": "tema do dia, dado útil, orientação, serviço relacionado, CTA para mês seguinte",
+        "Plataforma ": [],
+        "Formato de Post": [
+          "Story",
+          "Carrossel",
+          "Post Estático"
+        ],
+        "Data da Publicacao ": "2026-05-12T09:00:00.000-03:00",
+        "CRIATIVO": "Fechamento educativo do mês com gancho para maio",
+        "Data da captura": null,
+        "Linhas Editoriais_": "VALOR",
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "333207e6-f145-80eb-908c-eedd4d8140bf",
+      "url": "https://app.notion.com/p/333207e6f14580eb908ceedd4d8140bf",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "abertura do setor/programa, atendimento, dado forte, impacto para a população, presença institucional",
+        "ROTEIROS/BRIEFENG": "abertura unidade 1, unidade 2, serviço técnico, noturno, fechamento",
+        "Plataforma ": [],
+        "Formato de Post": [
+          "Story"
+        ],
+        "Data da Publicacao ": "2026-04-29",
+        "CRIATIVO": "Captação em lote para banco de maio",
+        "Data da captura": null,
+        "Linhas Editoriais_": "CONEXÃO",
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "333207e6-f145-80ea-aaa0-cb75fd48b0a5",
+      "url": "https://app.notion.com/p/333207e6f14580eaaaa0cb75fd48b0a5",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "CEO / Saúde Bucal / Dentinho Feliz + Secretário",
+        "ROTEIROS/BRIEFENG": "abertura do setor/programa, atendimento, dado forte, impacto para a população, presença institucional",
+        "Plataforma ": [],
+        "Formato de Post": [
+          "Story",
+          "Reels",
+          "Carrossel"
+        ],
+        "Data da Publicacao ": "2026-04-28",
+        "CRIATIVO": "Serviço especializado e continuidade do cuidado",
+        "Data da captura": null,
+        "Linhas Editoriais_": "PRESENÇA",
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "333207e6-f145-8025-b46a-e54dd8eb3b8f",
+      "url": "https://app.notion.com/p/333207e6f1458025b46ae54dd8eb3b8f",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "Recepção + resultados + marcações + 1 UBS",
+        "ROTEIROS/BRIEFENG": "recepção, retirada/entrega, orientação documental, unidade em ação, enquete",
+        "Plataforma ": [],
+        "Formato de Post": [
+          "Story"
+        ],
+        "Data da Publicacao ": "2026-04-27",
+        "CRIATIVO": "Fechamento de mês com fluxo real de atendimento",
+        "Data da captura": null,
+        "Linhas Editoriais_": "PRESENÇA",
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "333207e6-f145-80ef-86c2-c618d0a00549",
+      "url": "https://app.notion.com/p/333207e6f14580ef86c2c618d0a00549",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "CAPS / Academia da Saúde / ação em grupo",
+        "ROTEIROS/BRIEFENG": "abertura, atividade em grupo, detalhe humano, fala curta, fechamento",
+        "Plataforma ": [],
+        "Formato de Post": [
+          "Story",
+          "Reels",
+          "Carrossel"
+        ],
+        "Data da Publicacao ": "2026-04-24",
+        "CRIATIVO": "Vínculo, acolhimento e impacto coletivo",
+        "Data da captura": null,
+        "Linhas Editoriais_": "CONEXÃO",
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "333207e6-f145-8043-be0d-da3df5cd697a",
+      "url": "https://app.notion.com/p/333207e6f1458043be0dda3df5cd697a",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "UBS com ação temática / campanha do mês",
+        "ROTEIROS/BRIEFENG": "tema do dia, ação/palestra, orientação, benefício, CTA",
+        "Plataforma ": [],
+        "Formato de Post": [
+          "Story",
+          "Carrossel"
+        ],
+        "Data da Publicacao ": "2026-04-23",
+        "CRIATIVO": "Post educativo e preventivo",
+        "Data da captura": null,
+        "Linhas Editoriais_": "VALOR",
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "333207e6-f145-805d-a4e4-cfb9a4e0ce13",
+      "url": "https://app.notion.com/p/333207e6f145805da4e4cfb9a4e0ce13",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "Gestão + Assistência Farmacêutica + Almoxarifado + PNI/CPD + UBS noturna",
+        "ROTEIROS/BRIEFENG": "abertura do setor, operação interna, detalhe técnico, por que isso importa, cobertura noturna",
+        "Plataforma ": [],
+        "Formato de Post": [
+          "Story"
+        ],
+        "Data da Publicacao ": "2026-04-22",
+        "CRIATIVO": "Captação em lote dos bastidores que sustentam a rede",
+        "Data da captura": null,
+        "Linhas Editoriais_": "VALOR",
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "333207e6-f145-806f-8523-f0c006759273",
+      "url": "https://app.notion.com/p/333207e6f145806f8523f0c006759273",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "FERIADO",
+        "Plataforma ": [],
+        "Formato de Post": [],
+        "Data da Publicacao ": "2026-04-21",
+        "Data da captura": null,
+        "Linhas Editoriais_": null,
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "333207e6-f145-80f2-8f4e-e81cfa853081",
+      "url": "https://app.notion.com/p/333207e6f14580f28f4ee81cfa853081",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "Recepção + agenda do Espaço Cuidar + 1 UBS",
+        "ROTEIROS/BRIEFENG": "agenda da semana, recepção, marcações, atendimento na UBS, caixinha",
+        "Plataforma ": [],
+        "Formato de Post": [
+          "Story"
+        ],
+        "Data da Publicacao ": "2026-04-20",
+        "CRIATIVO": "Abertura da semana com organização de agenda e serviço rodando",
+        "Data da captura": null,
+        "Linhas Editoriais_": "PRESENÇA",
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    },
+    {
+      "id": "33a207e6-f145-80c7-b221-e2e755d8e4e6",
+      "url": "https://app.notion.com/p/33a207e6f14580c7b221e2e755d8e4e6",
+      "title": "(sem título)",
+      "props": {
+        "SETOR": "Espaço Cuidar - Pequenas cirurgias",
+        "Plataforma ": [],
+        "Formato de Post": [],
+        "Data da Publicacao ": "2026-04-19",
+        "CRIATIVO": "fazer registros de mais um dia de mutirao de minicirurgias",
+        "Data da captura": null,
+        "Linhas Editoriais_": null,
+        "Prazo de Entrega Antecipada": null,
+        "Status": "A INICIAR",
+        "Setor Responsável": [],
+        "Data do Evento": null
+      }
+    }
+  ],
+  "Agenda Saúde": [
+    {
+      "id": "356207e6-f145-805b-9cd6-fdc77b2b5350",
+      "url": "https://app.notion.com/p/OFTALMOLOGISTA-356207e6f145805b9cd6fdc77b2b5350",
+      "title": "OFTALMOLOGISTA ",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Confirmado",
+        "Data do Evento": "2026-05-06T07:00:00.000-03:00",
+        "Prioridade": null,
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "33b207e6-f145-8016-af6d-c2628624ccb7",
+      "url": "https://app.notion.com/p/TREINAMENTO-NA-UNIDADE-MISTA-33b207e6f1458016af6dc2628624ccb7",
+      "title": "TREINAMENTO NA UNIDADE MISTA",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "Data do Evento": "2026-04-10T08:30:00.000-03:00",
+        "Local": "UNIDADE MISTA",
+        "Prioridade": null,
+        "Horário": "8H-11H30",
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "33b207e6-f145-809d-a509-eb2bd467fd3b",
+      "url": "https://app.notion.com/p/TREINAMENTO-PARA-T-CNICOS-E-ENFERMEIROS-SOBRE-PARADA-CARDIORESPIRATORIA-33b207e6f145809da509eb2bd467fd3b",
+      "title": "TREINAMENTO PARA TÉCNICOS E ENFERMEIROS SOBRE PARADA CARDIORESPIRATORIA ",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "Data do Evento": "2026-04-08T08:30:00.000-03:00",
+        "Local": "UNIDADE MISTA",
+        "Prioridade": null,
+        "Horário": "8H-11H30",
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "334207e6-f145-8095-9050-e7ac6b08fa4c",
+      "url": "https://app.notion.com/p/MISSA-CAPS-334207e6f14580959050e7ac6b08fa4c",
+      "title": "MISSA CAPS",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "Data do Evento": "2026-04-01T09:00:00.000-03:00",
+        "Local": "CAPS\n",
+        "Prioridade": null,
+        "Horário": "9h - 11h",
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "32f207e6-f145-804d-b11c-e776706b5721",
+      "url": "https://app.notion.com/p/Reuni-o-com-Coordenadores-e-Secret-rios-32f207e6f145804db11ce776706b5721",
+      "title": "Reunião com Coordenadores e Secretários",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "RESUMO E ROTEIROS": "Evento: Reunião com Coordenadores e Secretários\nObjetivo da comunicação: Informar sobre a reunião e engajar a comunidade na participação das ações da Secretaria",
+        "Data do Evento": "2026-03-31T08:00:00.000-03:00",
+        "Local": "Sede da Secretaria de Saúde ",
+        "Prioridade": null,
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "32c207e6-f145-8017-94c1-d60554b8d7f5",
+      "url": "https://app.notion.com/p/LAGOA-SECA-MAR-0-LILAS-mutir-o-com-citologia-testes-r-pidos-vacina-o-e-palestra-sobre-sa-de-d-32c207e6f145801794c1d60554b8d7f5",
+      "title": " LAGOA SECA - MARÇ0 LILAS - mutirão com citologia, testes rápidos, vacinação e palestra sobre saúde da mulher. (1)",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "RESUMO E ROTEIROS": "Evento: LAGOA SECA - MARÇO LILÁS\nObjetivo da comunicação: Cobertura do mutirão com citologia, testes rápidos, vacinação e palestra sobre saúde da mulher.\nHeadli",
+        "Data do Evento": "2026-03-26T08:00:00.000-03:00",
+        "Local": "PSF LAGOA SECA (Coord. Edjane – ação integrada):",
+        "Prioridade": null,
+        "Horário": "8H-11H",
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "32c207e6-f145-80e8-a683-f0ff21fb4fae",
+      "url": "https://app.notion.com/p/MARACUJ-MAR-0-LILAS-mutir-o-com-citologia-testes-r-pidos-vacina-o-e-palestra-sobre-sa-de-da--32c207e6f14580e8a683f0ff21fb4fae",
+      "title": "MARACUJÁ - MARÇ0 LILAS - mutirão com citologia, testes rápidos, vacinação e palestra sobre saúde da mulher.\n",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "RESUMO E ROTEIROS": "Evento: MARACUJÁ - MARÇ0 LILASObjetivo da comunicação: Cobertura do mutirão com citologia, testes rápidos, vacinação e palestra sobre saúde da mulher.Headline p",
+        "Data do Evento": "2026-03-25T08:00:00.000-03:00",
+        "Local": "PSF Maracujá (Coord. Edjane – ação integrada):",
+        "Prioridade": null,
+        "Horário": "8H-11H",
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "320207e6-f145-80a1-9154-d132bb78d972",
+      "url": "https://app.notion.com/p/EVENTO-DA-MULHER-ACADEMIA-DE-SA-DE-320207e6f14580a19154d132bb78d972",
+      "title": "EVENTO DA MULHER - ACADEMIA DE SAÚDE",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "Data do Evento": "2026-03-17T15:30:00.000-03:00",
+        "Local": "CANA BRAVA",
+        "Prioridade": null,
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "325207e6-f145-809d-97d1-e4480ed276c6",
+      "url": "https://app.notion.com/p/ENTREGA-DE-KITS-DE-PROTECAO-SOLAR-PARA-COORDENACOES-CENTRAL-FARMACEUTICA-325207e6f145809d97d1e4480ed276c6",
+      "title": "ENTREGA DE KITS DE PROTECAO SOLAR PARA COORDENACOES - CENTRAL FARMACEUTICA",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "RESUMO E ROTEIROS": "### Sugestões de Roteiros:\n1. Abertura do Evento: Breve introdução sobre a importância da proteção solar e a entrega dos kits.\n2. Demonstração dos Kits: Mostrar",
+        "Data do Evento": "2026-03-17T09:00:00.000-03:00",
+        "Prioridade": null,
+        "Setor Responsável": []
+      }
+    },
+    {
+      "id": "31e207e6-f145-8010-a6a7-dbd8c1082fcf",
+      "url": "https://app.notion.com/p/PALESTRA-SOBRE-O-DIA-DA-MULHER-NA-UBS-MESTRA-CLARICE-31e207e6f1458010a6a7dbd8c1082fcf",
+      "title": "PALESTRA SOBRE O DIA DA MULHER NA UBS MESTRA CLARICE",
+      "props": {
+        "Tipo de Ação": null,
+        "Status": "Finalizado",
+        "RESUMO E ROTEIROS": "Evento: Palestra sobre o Dia da Mulher na UBS Mestra Clarice\nObjetivo da comunicação: Cobertura do evento que celebra o Dia da Mulher e promove a saúde e bem-es",
+        "Data do Evento": "2026-03-11T13:30:00.000-03:00",
+        "Prioridade": null,
+        "Setor Responsável": []
+      }
+    }
+  ],
+  "Ideias": [
+    {
+      "id": "33a207e6-f145-80e9-90a2-ded16f9b6fe2",
+      "url": "https://app.notion.com/p/Pneumologista-M-trica-de-atendimentos-33a207e6f14580e990a2ded16f9b6fe2",
+      "title": "Pneumologista - Métrica de atendimentos",
+      "props": {
+        "Descricao": "319 - de janeira 2025 até 06/04 \nNeste ano de fevereiro até 04/04 85",
+        "Categorias": null,
+        "Data Prevista": null
+      }
+    },
+    {
+      "id": "33a207e6-f145-80e1-a2a2-dcafa40fdd5d",
+      "url": "https://app.notion.com/p/Rota-da-semana-atualizada-06-a-10-de-abril-33a207e6f14580e1a2a2dcafa40fdd5d",
+      "title": "Rota da semana atualizada | 06 a 10 de abril\n",
+      "props": {
+        "Descricao": "06/04 — Segunda\nSetores\n• \nRecepção da Secretaria / Regulação\n\n• \nEspaço Cuidar — Pediatra\n• Caixinha de perguntas\nStories / headlines novas\nStory 1 — Recepção\n",
+        "Categorias": "Guia",
+        "Data Prevista": null
+      }
+    },
+    {
+      "id": "32f207e6-f145-80e5-8337-edaefda2de2c",
+      "url": "https://app.notion.com/p/COMO-MARCAR-EXAMES-E-CONSULTAS-NA-RECEPCAO-DA-SECRETARIA-E-ESPA-O-CUIDAR-32f207e6f14580e58337edaefda2de2c",
+      "title": "COMO MARCAR EXAMES E CONSULTAS NA RECEPCAO DA SECRETARIA E ESPAÇO CUIDAR",
+      "props": {
+        "Descricao": "FAZER VIDEO OU CARD ",
+        "Categorias": null,
+        "Descrição": "### Resumo\n\nO documento aborda como marcar exames e consultas na recepção da Secretaria e Espaço Cuidar. Esse tema é crucial para garantir que os pacientes tenh",
+        "Data Prevista": null
+      }
+    },
+    {
+      "id": "328207e6-f145-8085-a676-ff26d3a7a7e7",
+      "url": "https://app.notion.com/p/Marca-es-de-exames-e-Consultas-328207e6f1458085a676ff26d3a7a7e7",
+      "title": "Marcações de exames e Consultas",
+      "props": {
+        "Descricao": "  • Recepção: ",
+        "Categorias": null,
+        "Descrição": "### Resumo\n\nO documento apresenta um guia abrangente sobre a marcação de consultas, exames e procedimentos na Secretaria de Saúde. A estrutura é dividida em vár",
+        "Data Prevista": null
+      }
+    },
+    {
+      "id": "316207e6-f145-8056-a8b5-f0287bb18d7c",
+      "url": "https://app.notion.com/p/MAPA-DE-PRODU-O-FEED-SECRETARIA-DE-SA-DE-316207e6f1458056a8b5f0287bb18d7c",
+      "title": "🗺️ MAPA DE PRODUÇÃO — FEED (SECRETARIA DE SAÚDE)",
+      "props": {
+        "Descricao": "🎯 OBJETIVO DO MAPA: Garantir os 3 posts semanais do feed. Reduzir improviso. Centralizar captação em um único dia. Trabalhar sempre 1 semana à frente",
+        "Categorias": null,
+        "Descrição": "Resumo do Mapa de Produção — Feed (Secretaria de Saúde)\nO Mapa de Produção apresenta uma estratégia clara para garantir a criação de três postagens semanais no ",
+        "Data Prevista": null
+      }
+    },
+    {
+      "id": "316207e6-f145-80e1-9ed9-e39df10c69d3",
+      "url": "https://app.notion.com/p/INSTAGRAM-SA-DE-USAR-UM-MODELO-DE-STORIES-QUE-INDIQUE-PARA-OS-USU-RIOS-COMO-USAR-O-SERVI-O-316207e6f14580e19ed9e39df10c69d3",
+      "title": "INSTAGRAM SAÚDE - USAR UM MODELO DE STORIES QUE INDIQUE PARA OS USUÁRIOS COMO USAR O SERVIÇO. ",
+      "props": {
+        "Descricao": "Mostrar o serviço é importante; mas, mais importante ainda é deixar o usuário ciente de como e como ele pode usar.",
+        "Categorias": "Para fazer",
+        "Descrição": "Resumo:\nO tema central deste documento é a importância de educar os usuários sobre como utilizar um serviço através de stories no Instagram. Mostrar o serviço é",
+        "Data Prevista": null
+      }
+    }
+  ]
+}
