@@ -128,9 +128,14 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
   - Depende de: T5.2.
 
 - [x] **T5.4** — Agendar revisão diária da Inbox.
-  - Verificação: cron `jarvis-revisao-inbox-logika-seg-sab` criado para segunda a sábado às 08:00 America/Maceio.
+  - Verificação: cron `jarvis-revisao-inbox-logika-seg-sab` ajustado para segunda a sábado às 17:00 America/Maceio.
   - Estimativa: 10min.
   - Depende de: T5.3.
+
+- [x] **T5.5** — Ajustar rotina Jarvis para 17h.
+  - Verificação: cron atualizado para `0 17 * * 1-6` em `America/Maceio`.
+  - Estimativa: 5min.
+  - Depende de: decisão de Jadielson.
 
 ## Dependências externas
 
@@ -150,7 +155,7 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
 - Fundação Notion validada.
 - Central LÓGIKA rascunho criada.
 - Plano executivo criado e em execução.
-- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado. Migração por amostra executada com 4 registros. Regra de entrada definida: tudo novo entra primeiro na nova Inbox / Captura Geral — LÓGIKA e depois é triado. Antiga Captura Geral foi arquivada. Rotina Jarvis agendada de segunda a sábado às 08:00.
+- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado. Migração por amostra executada com 4 registros. Regra de entrada definida: tudo novo entra primeiro na nova Inbox / Captura Geral — LÓGIKA e depois é triado. Antiga Captura Geral foi arquivada. Rotina Jarvis ajustada para segunda a sábado às 17:00, após a secretária deixar a pauta/entradas do dia pela manhã.
 
 ---
 
