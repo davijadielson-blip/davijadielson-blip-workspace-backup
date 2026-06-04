@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T20:25:27.604Z",
+  "updatedAt": "2026-06-04T21:52:22.200Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -568,6 +568,37 @@
         "consolidada",
         "agentes",
         "arquitetura"
+      ]
+    },
+    "memory:memory/2026-06-02.md:40:49": {
+      "key": "memory:memory/2026-06-02.md:40:49",
+      "path": "memory/2026-06-02.md",
+      "startLine": 40,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "- Validado audio/Whisper no topico 5 do grupo LOGIKA: audio \"Lo, teste de audio do Starter Kit\" foi transcrito corretamente. - Validada busca atual/Tavily a partir de pedido por audio: pesquisa sobre noticia atual de marketing digital retornou fontes recentes e resposta visivel no Telegram. - Estado apos testes: Telegram OK, audio OK, busca atual OK, OpenAI API OK, Tavily API OK, Gateway/OpenClaw 2026.5.28 OK, security audit sem criticos. - Pendente operacional real: WhatsApp segue `UNLINKED` ate pareamento com numero; organizar/commitar workspace e manter backups limpos. - Reforco em conversa direta: audio de Jadielson chegou como `audio/ogg` e foi transcrito; logs recentes mostram entrada",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3648969531059265,
+      "maxScore": 0.3648969531059265,
+      "firstRecalledAt": "2026-06-04T21:52:22.200Z",
+      "lastRecalledAt": "2026-06-04T21:52:22.200Z",
+      "queryHashes": [
+        "a96a5b4a838d"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "gateway",
+        "openai",
+        "audio/whisper",
+        "atual/tavily",
+        "gateway/openclaw",
+        "2026.5.28"
       ]
     }
   }

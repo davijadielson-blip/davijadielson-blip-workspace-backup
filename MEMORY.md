@@ -148,7 +148,7 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - selected_at: 2026-05-30T23:03:57.655458+00:00
 - aguardando_confirmacao_review: false
 - mode: review
-- upgrade_in_progress: true
+- upgrade_in_progress: false
 - review_started_at: 2026-05-30T23:06:18.370811+00:00
 - active_wizard: wizard-agente
 - active_step: 1
