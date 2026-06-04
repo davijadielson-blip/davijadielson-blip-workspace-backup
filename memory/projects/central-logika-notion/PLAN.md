@@ -160,3 +160,9 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
 ---
 
 *Atualizar este arquivo conforme execução. Não criar arquivo novo — versionar este.*
+
+## Nota arquitetural — Secretária Agenda e Execução
+
+Jadielson corrigiu que a “Secretária — Agenda e Execução” não deve ser entendida como pessoa/agente que apenas alimenta a Inbox do Notion. Ela será uma camada operacional diária mais ampla, responsável por organizar o que Jadielson terá naquele dia ou nos próximos dias, usando várias integrações futuras: Google Agenda, Trello, e-mail, WhatsApp, Notion etc.
+
+Neste plano, a Inbox / Captura Geral — LÓGIKA permanece como entrada do Notion, mas não representa todo o escopo da Secretária.
