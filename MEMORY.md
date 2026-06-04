@@ -261,3 +261,4 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - 2026-06-04: Jadielson definiu a hierarquia correta da arquitetura de agentes: **Lôh** é a gerente geral da arquitetura inteira; o **General** é coordenador local de cada grupo, não um agente universal único.
 - Cada grupo deve ter seu próprio General: Central Pessoal, LÓGIKA e futuras frentes/grupos. O General local coordena demandas internas e encaminha para especialistas; a Lôh coordena decisões transversais, memória, backup, configuração, segurança, integração entre grupos e parede-d'água.
 - Documento atualizado: `/data/.openclaw/workspace/agentes/ARQUITETURA-AGENTES.md` v0.3.
+- 2026-06-04: Jadielson escolheu **Alfred** como nome do General/coordenador local da **Central Pessoal**. Alfred deve operar como coordenador discreto da casa pessoal: triagem, organização, encaminhamento para especialistas e acionamento da Lôh quando a demanda for transversal ou de arquitetura.

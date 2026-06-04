@@ -43,6 +43,8 @@ Decisão corrigida por Jadielson em 2026-06-04: a arquitetura deve operar com **
 2. **General — coordenador local de cada grupo**  
    Cada grupo deve ter seu próprio General. O General não é um único agente universal; ele é o coordenador daquele grupo específico. Assim, a Central Pessoal tem seu General, a LÓGIKA deve ter seu General, e futuros grupos/frentes também podem ter seus próprios Generais.
 
+   Decisão de nomenclatura em 2026-06-04: o General local da **Central Pessoal** se chamará **Alfred**. Alfred é o coordenador discreto da casa pessoal: triagem, organização, encaminhamento para especialistas, síntese de prioridades e acionamento da Lôh quando a questão ultrapassar a Central Pessoal.
+
 Regra prática:
 
 - Quando houver dúvida dentro de um grupo sobre qual especialista deve responder, o **General daquele grupo** organiza e encaminha.
