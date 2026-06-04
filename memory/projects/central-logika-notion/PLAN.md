@@ -95,6 +95,11 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
   - Estimativa: 10min.
   - Depende de: revisão de Jadielson.
 
+- [x] **T4.6** — Adicionar campo `Link de origem`.
+  - Verificação: propriedade URL criada para rastrear item/página original.
+  - Estimativa: 10min.
+  - Depende de: revisão de Jadielson.
+
 - [ ] **T4.3** — Planejar migração por amostra.
   - Verificação: plano de migração com 3 a 5 registros-teste antes de qualquer migração em massa.
   - Estimativa: 45min.
