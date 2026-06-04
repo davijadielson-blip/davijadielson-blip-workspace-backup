@@ -1,5 +1,11 @@
 # MEMORY.md
 
+## Regra operacional — salvar e backup instantâneo
+
+- 2026-06-04: Jadielson definiu que, em trabalhos importantes de arquitetura, configuração, agentes, documentos e decisões operacionais, a Lôh deve **sempre cuidar de salvar em arquivo e fazer backup instantâneo** após alterações relevantes.
+- Regra prática: ao criar/editar documento importante, registrar a mudança no arquivo correto e rodar o backup manual do workspace quando houver alterações versionáveis, sem esperar apenas o cron diário.
+
+
 ## Auto-conhecimento do agente
 
 Fonte principal: `https://docs.openclaw.ai/llms-full.txt`, lido em 2026-05-30. Estado local conferido com `openclaw status`, `openclaw channels list --all` e `openclaw plugins list`.
