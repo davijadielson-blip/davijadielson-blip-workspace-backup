@@ -35,23 +35,27 @@ Cada tópico do Telegram deve ter:
 
 ### 2.2. General como coordenador/orquestrador
 
-Decisão de Jadielson em 2026-06-04: o **General** deve ser o agente coordenador e orquestrador **em todas as situações**, não apenas dentro da Central Pessoal.
+Decisão de Jadielson em 2026-06-04: o **General** deve ser o agente coordenador e orquestrador **em todas as situações**. Esta é uma regra universal da arquitetura, valendo para **Central Pessoal, LÓGIKA e qualquer outro grupo/frente que venha a existir**.
+
+O General não é apenas um agente local da Central Pessoal. Ele é a camada de coordenação da arquitetura inteira.
 
 Regra prática:
 
 - Quando houver dúvida sobre qual agente deve responder, o General organiza e encaminha.
-- Quando uma demanda atravessar mais de uma área, o General coordena a divisão.
-- Quando houver conflito de prioridade, o General ajuda a decidir ordem, dependências e próximo passo.
+- Quando uma demanda atravessar mais de uma área, grupo ou frente, o General coordena a divisão.
+- Quando houver conflito de prioridade entre Central Pessoal, LÓGIKA ou outros grupos futuros, o General ajuda a decidir ordem, dependências e próximo passo.
 - Quando um grupo/tópico ainda não tiver persona calibrada, o General assume a triagem inicial.
+- Quando surgir uma nova frente, o General ajuda a desenhar a estrutura antes de criar especialistas.
 - O General não substitui os especialistas: ele distribui, resume, cobra contexto e mantém visão sistêmica.
 
-Isso vale para:
+Escopo universal:
 
-- LÓGIKA
 - Central Pessoal
+- LÓGIKA
 - futuras frentes/grupos
 - rotinas com cron
 - decisões operacionais de configuração
+- qualquer arquitetura nova de agentes
 
 ### 2.3. Entrevista antes da configuração final
 
