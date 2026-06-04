@@ -85,6 +85,11 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
   - Estimativa: 15min.
   - Depende de: T4.1.
 
+- [x] **T4.4** — Simplificar schema da base mestre.
+  - Verificação: `Data principal` e `Status produção` removidos; `Status geral` renomeado para `Status`.
+  - Estimativa: 15min.
+  - Depende de: revisão de Jadielson.
+
 - [ ] **T4.3** — Planejar migração por amostra.
   - Verificação: plano de migração com 3 a 5 registros-teste antes de qualquer migração em massa.
   - Estimativa: 45min.
@@ -108,7 +113,7 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
 - Fundação Notion validada.
 - Central LÓGIKA rascunho criada.
 - Plano executivo criado e em execução.
-- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada. Próximo: planejar migração por amostra antes de qualquer migração em massa.
+- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado conforme revisão de Jadielson. Próximo: planejar migração por amostra antes de qualquer migração em massa.
 
 ---
 
