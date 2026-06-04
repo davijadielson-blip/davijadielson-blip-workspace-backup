@@ -137,6 +137,23 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
   - Estimativa: 5min.
   - Depende de: decisão de Jadielson.
 
+### Fase 6: Teste de Inbox e views
+
+- [x] **T6.1** — Criar entradas de teste na Inbox.
+  - Verificação: 3 páginas `[TESTE]` criadas na Inbox e retornadas por query da rotina.
+  - Estimativa: 15min.
+  - Depende de: Inbox oficial.
+
+- [x] **T6.2** — Criar views operacionais.
+  - Verificação: 6 views criadas via Notion API: 4 na Inbox e 2 na Produção & Agenda.
+  - Estimativa: 20min.
+  - Depende de: databases oficiais.
+
+- [x] **T6.3** — Atualizar Central LÓGIKA com views/teste.
+  - Verificação: Central recebeu seção v0.6 com lista de views e resultado do teste.
+  - Estimativa: 10min.
+  - Depende de: T6.1 e T6.2.
+
 ## Dependências externas
 
 - Permissão de escrita da integração Notion quando for necessário criar/editar páginas.
@@ -155,7 +172,7 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
 - Fundação Notion validada.
 - Central LÓGIKA rascunho criada.
 - Plano executivo criado e em execução.
-- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado. Migração por amostra executada com 4 registros. Regra de entrada definida: tudo novo entra primeiro na nova Inbox / Captura Geral — LÓGIKA e depois é triado. Antiga Captura Geral foi arquivada. Rotina Jarvis ajustada para segunda a sábado às 17:00, após a secretária deixar a pauta/entradas do dia pela manhã.
+- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado. Migração por amostra executada com 4 registros. Regra de entrada definida: tudo novo entra primeiro na nova Inbox / Captura Geral — LÓGIKA e depois é triado. Antiga Captura Geral foi arquivada. Rotina Jarvis ajustada para segunda a sábado às 17:00. Inbox testada com 3 entradas; views operacionais criadas. Definição completa da Secretária — Agenda e Execução ficará para depois das próximas integrações.
 
 ---
 

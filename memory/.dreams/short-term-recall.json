@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T21:52:22.200Z",
+  "updatedAt": "2026-06-04T22:19:11.620Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -599,6 +599,99 @@
         "atual/tavily",
         "gateway/openclaw",
         "2026.5.28"
+      ]
+    },
+    "memory:memory/2026-06-04.md:100:115": {
+      "key": "memory:memory/2026-06-04.md:100:115",
+      "path": "memory/2026-06-04.md",
+      "startLine": 100,
+      "endLine": 115,
+      "source": "memory",
+      "snippet": "- Database antiga `📥 Captura Geral` arquivada via API, URL: https://app.notion.com/p/242f2506a972451d80209bd593bdb006 - Campos da nova Inbox: Título, Tipo de entrada, Frente/Cliente, Status de triagem, Destino, Data, Origem, Prioridade, Resumo/Observações, Link/Arquivo, Link do destino, Responsável, Criado em, Última edição. - Central LÓGIKA atualizada com decisão v0.5: nova Inbox oficial, antiga arquivada e rotina Jarvis. - Cron criado: `jarvis-revisao-inbox-logika-seg-sab`, id `e900c3d9-6ce4-4921-94bc-d096a7a2a94c`, agenda `0 8 * * 1-6` em `America/Maceio`, entrega por Telegram para Jadielson. - Regra: Jarvis revisa de segunda a sábado; se o item estiver claro, destina/sugere destino; se",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.45128262937068936,
+      "maxScore": 0.45128262937068936,
+      "firstRecalledAt": "2026-06-04T22:19:11.620Z",
+      "lastRecalledAt": "2026-06-04T22:19:11.620Z",
+      "queryHashes": [
+        "b7c30d0d070e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "frente/cliente",
+        "resumo/observações",
+        "link/arquivo",
+        "v0.5",
+        "1-6",
+        "america/maceio",
+        "destina/sugere",
+        "database"
+      ]
+    },
+    "memory:memory/2026-06-04.md:86:101": {
+      "key": "memory:memory/2026-06-04.md:86:101",
+      "path": "memory/2026-06-04.md",
+      "startLine": 86,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "- Verificação: consulta da base mestre retornou as 4 amostras com `Frente/Cliente`, `Tipo`, `Tipo de conteúdo`, `Status`, `Origem` e `Link de origem` preenchidos. ## Notion LÓGIKA — regra de entrada única pela Inbox - 2026-06-04: Jadielson confirmou que tudo novo deve entrar primeiro em `Captura Geral`/`Inbox`, para depois ser triado e encaminhado ao destino adequado. - Nome recomendado consolidado: `Inbox / Captura Geral`, mantendo o sentido operacional de inbox sem perder o histórico da database existente. - Central LÓGIKA atualizada com decisão v0.4: entrada única pela Inbox. - Regra operacional: não criar direto na base mestre quando a informação ainda estiver bruta/incompleta; após tr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.425786280632019,
+      "maxScore": 0.425786280632019,
+      "firstRecalledAt": "2026-06-04T22:19:11.620Z",
+      "lastRecalledAt": "2026-06-04T22:19:11.620Z",
+      "queryHashes": [
+        "b7c30d0d070e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "frente/cliente",
+        "v0.4",
+        "bruta/incompleta",
+        "verificação",
+        "consulta",
+        "base",
+        "mestre",
+        "retornou"
+      ]
+    },
+    "memory:memory/2026-06-04.md:110:124": {
+      "key": "memory:memory/2026-06-04.md:110:124",
+      "path": "memory/2026-06-04.md",
+      "startLine": 110,
+      "endLine": 124,
+      "source": "memory",
+      "snippet": "- Cron `jarvis-revisao-inbox-logika-seg-sab` atualizado: id `e900c3d9-6ce4-4921-94bc-d096a7a2a94c`, agenda `0 17 * * 1-6` em `America/Maceio`. - A rotina mantém o escopo: consultar Inbox, sugerir/destinar itens claros, indagar Jadielson quando faltar informação, sem excluir nada nem alterar estrutura. ## Starter Kit v2.5.7 — reanálise de pendências - 2026-06-04: Jadielson enviou o zip `starter-kit-openclaw-v2.5.7` e pediu reanálise de pendências do kit. - Resultado: nenhuma pendência crítica de instalação no workspace ativo; todas as skills do kit estão presentes e os `SKILL.md` batem com o zip v2.5.7, incluindo `wizard-conectar` v2.1 com correção Tavily. - Arquivos raiz essenciais existem",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.39731358289718627,
+      "maxScore": 0.39731358289718627,
+      "firstRecalledAt": "2026-06-04T22:19:11.620Z",
+      "lastRecalledAt": "2026-06-04T22:19:11.620Z",
+      "queryHashes": [
+        "b7c30d0d070e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "1-6",
+        "america/maceio",
+        "sugerir/destinar",
+        "v2.5.7",
+        "starter-kit-openclaw-v2.5.7",
+        "skill.md",
+        "wizard-conectar",
+        "v2.1"
       ]
     }
   }
