@@ -90,6 +90,11 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
   - Estimativa: 15min.
   - Depende de: revisão de Jadielson.
 
+- [x] **T4.5** — Adicionar campo `Tipo de conteúdo`.
+  - Verificação: propriedade multi_select criada com formatos como Reels, Stories, vídeo institucional e vídeo comercial.
+  - Estimativa: 10min.
+  - Depende de: revisão de Jadielson.
+
 - [ ] **T4.3** — Planejar migração por amostra.
   - Verificação: plano de migração com 3 a 5 registros-teste antes de qualquer migração em massa.
   - Estimativa: 45min.
