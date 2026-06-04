@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T02:06:07.171Z",
+  "updatedAt": "2026-06-04T19:48:13.062Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -475,6 +475,68 @@
         "grupo",
         "identificado",
         "nos"
+      ]
+    },
+    "memory:memory/2026-06-04.md:22:25": {
+      "key": "memory:memory/2026-06-04.md:22:25",
+      "path": "memory/2026-06-04.md",
+      "startLine": 22,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "- Regra consolidada em `agentes/ARQUITETURA-AGENTES.md` v0.3: cada grupo terá seu General próprio; a Central Pessoal tem General local, a LÓGIKA deverá ter General local, e futuras frentes também podem ter Generais locais. - A Lôh entra como camada macro para memória, backup, configuração, integração entre grupos, segurança, parede-d'água e decisões transversais. - O General local coordena triagem, prioridades internas, encaminhamento para especialistas e aciona a Lôh quando a questão ultrapassar o grupo.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4109515786170959,
+      "maxScore": 0.4109515786170959,
+      "firstRecalledAt": "2026-06-04T19:48:13.062Z",
+      "lastRecalledAt": "2026-06-04T19:48:13.062Z",
+      "queryHashes": [
+        "eee9f7bb9c87"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "agentes/arquitetura-agentes.md",
+        "v0.3",
+        "parede-d",
+        "regra",
+        "consolidada",
+        "agentes",
+        "arquitetura"
+      ]
+    },
+    "memory:memory/2026-06-04.md:10:23": {
+      "key": "memory:memory/2026-06-04.md:10:23",
+      "path": "memory/2026-06-04.md",
+      "startLine": 10,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "- Jadielson pediu para salvar tudo antes da pausa. Estado: workspace restaurado, backup contínuo ativo, Segundo Cérebro conectado/sync ativo, WhatsApp dedicado pausado aguardando aparelho para escanear QR. ## Política de execução — autonomia ampliada - 2026-06-04 18:35 UTC: Jadielson confirmou que quer o agente com independência/autonomia ampla para tarefas locais e técnicas, inclusive com “super poderes”. - Foi aplicado o comando `openclaw exec-policy preset yolo`. - Resultado efetivo exibido: `tools.exec` com `security=full` e `ask=off`; config alterada em `/data/.openclaw/openclaw.json`, com backup em `/data/.openclaw/openclaw.json.bak`. - Limite operacional mantido por preferência do J",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3591313630342483,
+      "maxScore": 0.3591313630342483,
+      "firstRecalledAt": "2026-06-04T19:48:13.062Z",
+      "lastRecalledAt": "2026-06-04T19:48:13.062Z",
+      "queryHashes": [
+        "eee9f7bb9c87"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "conectado/sync",
+        "independência/autonomia",
+        "exec-policy",
+        "tools.exec",
+        "openclaw/openclaw.json",
+        "openclaw/openclaw.json.bak",
+        "jadielson"
       ]
     }
   }

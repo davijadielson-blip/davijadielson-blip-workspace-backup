@@ -1,0 +1,320 @@
+{
+  "generated_at": "2026-06-04T19:56:12Z",
+  "databases": [
+    {
+      "title": "Calendário Editorial ",
+      "id": "1d8207e6-f145-8153-99c1-f5ae2b4e4e23",
+      "url": "https://app.notion.com/p/1d8207e6f145815399c1f5ae2b4e4e23",
+      "properties": {
+        "SETOR": "rich_text",
+        "MOVIMENTAÇÃO": "last_edited_by",
+        "ID": "unique_id",
+        "ROTEIROS/BRIEFENG": "rich_text",
+        "Plataforma ": "multi_select",
+        "Caixa de seleção": "checkbox",
+        "PUBLICADO": "checkbox",
+        "Formato de Post": "multi_select",
+        "Data da Publicacao ": "date",
+        "Responsável pelo projeto ": "people",
+        "CRIATIVO": "rich_text",
+        "PARA AVALIAÇÃO": "url",
+        "ARQUIVOS": "files",
+        "Data da captura": "date",
+        "Referências": "url",
+        "Linhas Editoriais_": "select",
+        "Referência": "rich_text",
+        "Prazo de Entrega Antecipada": "date",
+        "Status": "status",
+        "Observações": "rich_text",
+        "Linhas Editoriais ": "title",
+        "Setor Responsável": "multi_select",
+        "Presença do Secretário?": "checkbox",
+        "Local": "rich_text",
+        "Data do Evento": "date",
+        "RESUMO E ROTEIROS": "rich_text",
+        "Presença do Prefeito?": "checkbox",
+        "Observações adicionais": "rich_text"
+      },
+      "sample": {
+        "count_returned": 20,
+        "has_more": true,
+        "titles_preview": [
+          "(sem título)",
+          "(sem título)",
+          "(sem título)",
+          "(sem título)",
+          "(sem título)",
+          "(sem título)",
+          "(sem título)",
+          "(sem título)"
+        ],
+        "select_status_distribution": {
+          "Status": {
+            "A INICIAR": 15,
+            "PUBLICADO": 4,
+            "ABORTADO": 1
+          },
+          "Formato de Post": {
+            "Story": 15,
+            "Reels": 6,
+            "Carrossel": 6,
+            "Post Estático": 3
+          },
+          "Linhas Editoriais_": {
+            "PRESENÇA": 7,
+            "CONEXÃO": 5,
+            "VALOR": 4
+          }
+        },
+        "date_fields_seen": {
+          "Data da Publicacao ": [
+            "2026-03-30",
+            "2026-03-30T07:00:00.000-03:00",
+            "2026-03-31T09:00:00.000-03:00",
+            "2026-03-31T10:00:00.000-03:00",
+            "2026-04-07T08:30:00.000-03:00"
+          ]
+        }
+      }
+    },
+    {
+      "title": "📥 Captura Geral",
+      "id": "242f2506-a972-451d-8020-9bd593bdb006",
+      "url": "https://app.notion.com/p/242f2506a972451d80209bd593bdb006",
+      "properties": {
+        "Pessoas": "multi_select",
+        "Tipo": "select",
+        "Local": "rich_text",
+        "Criado em": "created_time",
+        "Origem": "select",
+        "Frente": "select",
+        "Data": "date",
+        "Recorrência": "select",
+        "gcal_event_id": "rich_text",
+        "Status": "select",
+        "Duração": "number",
+        "Notas": "rich_text",
+        "sincronizado": "checkbox",
+        "Título": "title"
+      },
+      "sample": {
+        "count_returned": 5,
+        "has_more": false,
+        "titles_preview": [
+          "Gostei da 5",
+          "ULTRASSOM HOJE as no espaço cuidar",
+          "Editar vídeo vereador Francisco Euzébio neste domingo",
+          "(sem título)",
+          "revisar briefing Lógika até sexta"
+        ],
+        "select_status_distribution": {
+          "Tipo": {
+            "Captura": 2,
+            "Tarefa": 2,
+            "Compromisso": 1
+          },
+          "Origem": {
+            "Telegram": 4,
+            "Claude.ai": 1
+          },
+          "Frente": {
+            "Geral": 3,
+            "Câmara Municipal": 1,
+            "Lógika Creative": 1
+          },
+          "Status": {
+            "A fazer": 5
+          }
+        },
+        "date_fields_seen": {
+          "Data": [
+            "2026-05-15",
+            "2026-05-17",
+            "2026-05-25T13:00:00.000-03:00"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Agenda de Eventos - Secretaria Municipal de Saúde",
+      "id": "30d207e6-f145-809d-838a-cdf7bb477adf",
+      "url": "https://app.notion.com/p/30d207e6f145809d838acdf7bb477adf",
+      "properties": {
+        "Presença do Prefeito?": "checkbox",
+        "Tipo de Ação": "select",
+        "Status": "status",
+        "RESUMO E ROTEIROS": "rich_text",
+        "Público esperado": "number",
+        "Presença do Secretário?": "checkbox",
+        "Data do Evento": "date",
+        "Necessita cobertura da ASCOM?": "checkbox",
+        "Local": "rich_text",
+        "Observações adicionais": "rich_text",
+        "Materiais necessários": "rich_text",
+        "Coordenador Responsável": "rich_text",
+        "Prioridade": "select",
+        "Horário": "rich_text",
+        "Setor Responsável": "multi_select",
+        "Nome da Ação ou Evento": "title"
+      },
+      "sample": {
+        "count_returned": 18,
+        "has_more": false,
+        "titles_preview": [
+          "OFTALMOLOGISTA ",
+          "COLETA DOS POTES COLETOR",
+          "CADASTRO E DISTRIBUICAO DOS POTES DE COLETOR",
+          "INTEGRACAO DOS AGENTEE",
+          "REUNIAO SOBRE A IMPLANTACAO DO PROGRAMA DE CONTROLE A ESQUISTOSSOMOSE",
+          "TREINAMENTO NA UNIDADE MISTA",
+          "TREINAMENTO PARA TÉCNICOS E ENFERMEIROS SOBRE PARADA CARDIORESPIRATORIA ",
+          "MISSA CAPS"
+        ],
+        "select_status_distribution": {
+          "Status": {
+            "Confirmado": 1,
+            "Em planejamento": 4,
+            "Finalizado": 12,
+            "Cancelado": 1
+          },
+          "Tipo de Ação": {
+            "Atendimento especial": 1,
+            "Reunião": 1,
+            "Evento": 1
+          },
+          "Prioridade": {
+            "Alta": 3
+          },
+          "Setor Responsável": {
+            "Espaço Cuidar": 1,
+            "Urgência e Emergência": 1,
+            "Comunicação": 1,
+            "CAPS": 1
+          }
+        },
+        "date_fields_seen": {
+          "Data do Evento": [
+            "2026-03-03",
+            "2026-03-05T11:30:00.000+00:00",
+            "2026-03-05T14:00:00.000-03:00",
+            "2026-03-10",
+            "2026-03-11T13:30:00.000-03:00"
+          ]
+        }
+      }
+    },
+    {
+      "title": "📆 Calendário Editorial SINDSS",
+      "id": "5ca1a34c-342b-406a-8c71-4b8b63e0a1f5",
+      "url": "https://app.notion.com/p/5ca1a34c342b406a8c714b8b63e0a1f5",
+      "properties": {
+        "Formato de Post": "multi_select",
+        "Data do Evento": "date",
+        "PUBLICADO": "checkbox",
+        "SETOR": "rich_text",
+        "Data da Publicacao ": "date",
+        "Prazo de Entrega Antecipada": "date",
+        "ROTEIROS/BRIEFENG": "rich_text",
+        "Observações": "rich_text",
+        "Plataforma ": "multi_select",
+        "CRIATIVO": "rich_text",
+        "Status": "status",
+        "PARA AVALIAÇÃO": "url",
+        "ARQUIVOS": "files",
+        "Linhas Editoriais ": "title"
+      },
+      "sample": {
+        "count_returned": 0,
+        "has_more": false,
+        "titles_preview": [],
+        "select_status_distribution": {},
+        "date_fields_seen": {}
+      }
+    },
+    {
+      "title": "📆 Calendário Editorial Câmara",
+      "id": "52a83dbb-9d10-40b6-87c3-687013d92138",
+      "url": "https://app.notion.com/p/52a83dbb9d1040b687c3687013d92138",
+      "properties": {
+        "Observações": "rich_text",
+        "ROTEIROS/BRIEFENG": "rich_text",
+        "Plataforma ": "multi_select",
+        "Prazo de Entrega Antecipada": "date",
+        "Data do Evento": "date",
+        "PUBLICADO": "checkbox",
+        "CRIATIVO": "rich_text",
+        "PARA AVALIAÇÃO": "url",
+        "Status": "status",
+        "SETOR": "rich_text",
+        "Formato de Post": "multi_select",
+        "Data da Publicacao ": "date",
+        "ARQUIVOS": "files",
+        "Linhas Editoriais ": "title"
+      },
+      "sample": {
+        "count_returned": 0,
+        "has_more": false,
+        "titles_preview": [],
+        "select_status_distribution": {},
+        "date_fields_seen": {}
+      }
+    },
+    {
+      "title": "🚀 Cockpit Diretor",
+      "id": "e6d0b774-ebe0-4761-a61b-1a30e16db091",
+      "url": "https://app.notion.com/p/e6d0b774ebe04761a61b1a30e16db091",
+      "properties": {
+        "Notas": "rich_text",
+        "Bateu meta?": "formula",
+        "Hora estimada (min)": "number",
+        "Frente": "select",
+        "Data": "date",
+        "Bloco": "select",
+        "Hora real (min)": "number",
+        "Status": "select",
+        "Atividade": "title"
+      },
+      "sample": {
+        "count_returned": 0,
+        "has_more": false,
+        "titles_preview": [],
+        "select_status_distribution": {},
+        "date_fields_seen": {}
+      }
+    },
+    {
+      "title": "Ideias",
+      "id": "312207e6-f145-8126-9ed5-d5c4cbce1b7f",
+      "url": "https://app.notion.com/p/312207e6f14581269ed5d5c4cbce1b7f",
+      "properties": {
+        "Criado em": "created_time",
+        "Descricao": "rich_text",
+        "Categorias": "select",
+        "Última edição por": "last_edited_by",
+        "Descrição": "rich_text",
+        "Atribuir": "people",
+        "Data Prevista": "date",
+        "Nome": "title"
+      },
+      "sample": {
+        "count_returned": 6,
+        "has_more": false,
+        "titles_preview": [
+          "Pneumologista - Métrica de atendimentos",
+          "Rota da semana atualizada | 06 a 10 de abril\n",
+          "COMO MARCAR EXAMES E CONSULTAS NA RECEPCAO DA SECRETARIA E ESPAÇO CUIDAR",
+          "Marcações de exames e Consultas",
+          "🗺️ MAPA DE PRODUÇÃO — FEED (SECRETARIA DE SAÚDE)",
+          "INSTAGRAM SAÚDE - USAR UM MODELO DE STORIES QUE INDIQUE PARA OS USUÁRIOS COMO USAR O SERVIÇO. "
+        ],
+        "select_status_distribution": {
+          "Categorias": {
+            "Guia": 1,
+            "Para fazer": 1
+          }
+        },
+        "date_fields_seen": {}
+      }
+    }
+  ]
+}
