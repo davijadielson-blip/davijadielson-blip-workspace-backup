@@ -105,6 +105,11 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
   - Estimativa: 45min.
   - Depende de: T4.2.
 
+- [x] **T4.7** — Consolidar regra de entrada única pela Inbox.
+  - Verificação: Central LÓGIKA atualizada com decisão v0.4; regra `Inbox / Captura Geral → triagem → destino adequado` documentada.
+  - Estimativa: 10min.
+  - Depende de: decisão de Jadielson.
+
 ## Dependências externas
 
 - Permissão de escrita da integração Notion quando for necessário criar/editar páginas.
@@ -123,7 +128,7 @@ Transformar o Notion empresarial da LÓGIKA em uma estrutura operacional clara p
 - Fundação Notion validada.
 - Central LÓGIKA rascunho criada.
 - Plano executivo criado e em execução.
-- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado. Migração por amostra executada com 4 registros. Próximo: revisar visualmente as amostras e definir regra de entrada para novos itens.
+- Central LÓGIKA v0.3 atualizada; database mestre Produção & Agenda — LÓGIKA criada e schema simplificado. Migração por amostra executada com 4 registros. Regra de entrada definida: tudo novo entra primeiro em Inbox / Captura Geral e depois é triado para o destino adequado.
 
 ---
 
