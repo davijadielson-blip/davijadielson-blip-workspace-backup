@@ -239,3 +239,13 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - Primeiro push pós-restauração concluído em 2026-06-04 com commit `47a3b26`.
 - Cron diário recriado: `backup-workspace-github`, id `c7047ea0-2872-4253-bef8-9a1bb823cb44`, agenda `0 3 * * *` em `America/Maceio`.
 - Recomendação de segurança: quando possível, revogar o token exposto no chat e gerar outro fine-grained/read-write só para este repo, atualizando `.env`.
+
+## Segundo Cérebro — acesso e sincronização reativados em 2026-06-04
+
+- 2026-06-04: Após restauração do workspace, o repo privado `davijadielson-blip/segundo-cerebro-jadielson` foi validado com o mesmo token GitHub e clonado novamente em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson`.
+- O vault continua fora do backup do workspace por `.gitignore` (`vaults/`), porque é um repositório próprio.
+- Acesso operacional autorizado por Jadielson: usar o vault como contexto e backup/sincronização.
+- Regra de operação mantida: `[F1]` é leitura/sugestão; Lôh não escreve autonomamente em F1. Escrita autônoma preferencial em `[F2] memory/`, especialmente outputs/contextos gerados pela IA.
+- Script de sincronização criado: `/data/.openclaw/workspace/scripts/sync-segundo-cerebro.sh`.
+- Cron diário criado: `sync-segundo-cerebro-jadielson`, id `a6a8ede9-b9f1-46ed-9072-4c0d145ab6c9`, agenda `10 3 * * *` em `America/Maceio`.
+- O cron puxa mudanças do GitHub/Obsidian com `git pull --ff-only` e envia mudanças locais do vault quando existirem; em conflito Git, deve parar e pedir orientação.
