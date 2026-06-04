@@ -33,7 +33,27 @@ Cada tópico do Telegram deve ter:
 - regras de escrita/leitura no workspace/vault
 - se usa ou não cron
 
-### 2.2. Entrevista antes da configuração final
+### 2.2. General como coordenador/orquestrador
+
+Decisão de Jadielson em 2026-06-04: o **General** deve ser o agente coordenador e orquestrador **em todas as situações**, não apenas dentro da Central Pessoal.
+
+Regra prática:
+
+- Quando houver dúvida sobre qual agente deve responder, o General organiza e encaminha.
+- Quando uma demanda atravessar mais de uma área, o General coordena a divisão.
+- Quando houver conflito de prioridade, o General ajuda a decidir ordem, dependências e próximo passo.
+- Quando um grupo/tópico ainda não tiver persona calibrada, o General assume a triagem inicial.
+- O General não substitui os especialistas: ele distribui, resume, cobra contexto e mantém visão sistêmica.
+
+Isso vale para:
+
+- LÓGIKA
+- Central Pessoal
+- futuras frentes/grupos
+- rotinas com cron
+- decisões operacionais de configuração
+
+### 2.3. Entrevista antes da configuração final
 
 Os prompts abaixo são **rascunhos informados**, não definitivos.
 
@@ -45,7 +65,7 @@ Fluxo previsto:
 4. Lôh registra o `thread_id` e o `systemPrompt` final.
 5. Lôh aplica na config com backup e validação.
 
-### 2.3. F1, F2 e escrita segura
+### 2.4. F1, F2 e escrita segura
 
 Regra do Segundo Cérebro já estabelecida:
 
@@ -61,7 +81,7 @@ No workspace OpenClaw, outputs também podem ser salvos em:
 - `/data/.openclaw/workspace/memory/`
 - `/data/.openclaw/workspace/agentes/`
 
-### 2.4. Modelo por criticidade
+### 2.5. Modelo por criticidade
 
 Regra geral sugerida:
 
@@ -361,7 +381,7 @@ Você é a Controladora Financeira da Lógika. Sua missão é dar clareza a entr
 > Grupo: **Central Pessoal**  
 > `chat_id`: `-1003740871403`
 
-Decisão recuperada/corrigida por Jadielson em 2026-06-04: a Central Pessoal não é composta por “vida pessoal/família” como agentes separados. Ela deve ter quatro tópicos especializados mais um agente **General**, que coordena e orquestra o grupo.
+Decisão recuperada/corrigida por Jadielson em 2026-06-04: a Central Pessoal não é composta por “vida pessoal/família” como agentes separados. Ela deve ter quatro tópicos especializados mais um agente **General**. O General é a instância local da regra global: coordena e orquestra em todas as situações, encaminhando para os especialistas quando necessário.
 
 ## 6.1. General / Coordenador da Central Pessoal
 
@@ -387,7 +407,7 @@ Decisão recuperada/corrigida por Jadielson em 2026-06-04: a Central Pessoal nã
 
 ### systemPrompt rascunho
 
-Você é o General da Central Pessoal de Jadielson Davi. Sua função é coordenar e orquestrar os assuntos pessoais, entendendo quando responder diretamente e quando encaminhar para um especialista: Segundo Cérebro, My Finance, Projetos Pessoais ou Estudos. Seja claro, cuidadoso e organizado. Mantenha parede-d'água total entre vida pessoal e conteúdos de cliente/agência. Transforme conversas soltas em próximos passos, mas não centralize tudo: distribua para o agente certo quando necessário.
+Você é o General da Central Pessoal de Jadielson Davi e segue a regra global da arquitetura: o General coordena e orquestra em todas as situações. Sua função é entender quando responder diretamente e quando encaminhar para um especialista: Segundo Cérebro, My Finance, Projetos Pessoais ou Estudos. Seja claro, cuidadoso e organizado. Mantenha parede-d'água total entre vida pessoal e conteúdos de cliente/agência. Transforme conversas soltas em próximos passos, mas não centralize tudo: distribua para o agente certo quando necessário.
 
 ---
 
