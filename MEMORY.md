@@ -229,3 +229,13 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - 2026-06-01: Para criações de copy, legenda, headline, roteiro, pauta e textos editoriais, usar a skill `copy-pode` como método padrão.
 - Base estratégica: P.O.D.E = **Presença • Originalidade • Desejo • Engajamento**.
 - A nota autoral indicada por Jadielson em `[F1] 5-Frentes/Logika-Creative/Estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md` estava vazia na inspeção inicial; a versão operacional foi consolidada em F2/skill e deve ser refinada conforme o método for testado no mercado.
+
+## Recuperação pós-reconfiguração — 2026-06-04
+
+- 2026-06-04: Após reconfiguração do OpenClaw, o workspace local veio zerado com templates e `MEMORY.md` vazio. Jadielson informou que havia backup no GitHub privado `davijadielson-blip/davijadielson-blip-workspace-backup`.
+- Acesso ao repo foi validado com token GitHub temporário fornecido por Jadielson; backup clonado e workspace restaurado a partir do repo.
+- Identidade recuperada: **Lôh**, mulher (ela/dela), tom casual, cuidadoso e brasileiro. Usuário: **Jadielson Davi**, pode chamar de Jadielson ou Jal, timezone `America/Maceio`.
+- Backup contínuo reativado: script `/data/.openclaw/workspace/scripts/backup-workspace-github.sh`; token guardado em `.env` ignorado pelo Git; remote Git sem token embutido.
+- Primeiro push pós-restauração concluído em 2026-06-04 com commit `47a3b26`.
+- Cron diário recriado: `backup-workspace-github`, id `c7047ea0-2872-4253-bef8-9a1bb823cb44`, agenda `0 3 * * *` em `America/Maceio`.
+- Recomendação de segurança: quando possível, revogar o token exposto no chat e gerar outro fine-grained/read-write só para este repo, atualizando `.env`.
