@@ -71,7 +71,14 @@ Apps disponíveis:
 - Trello
 - Miro
 
-Uso: gestão visual/projetos. Não é responsabilidade principal de Redes Sociais & Métricas.
+Uso: este MCP não é responsabilidade principal de Redes Sociais & Métricas.
+
+**Trello** fica sob domínio operacional da **Clara/Secretária**, porque algumas produções da LÓGIKA com designers acontecem por lá. Clara pode consultar quadros, listas, cards, checklists, anexos e responsáveis; organizar acompanhamento; registrar status e pendências. Ações de criação/edição/movimentação/arquivamento exigem comando claro; exclusões ou mudanças estruturais exigem confirmação explícita.
+
+**Miro** fica híbrido para criação de mapas mentais, estruturas de projetos, fluxos e arquitetura visual de ideias:
+- Clara apoia quando for mapa operacional/produtivo;
+- Jarvis supervisiona quando for estrutura estratégica da LÓGIKA;
+- Lôh entra quando for arquitetura de agentes, sistema, integrações ou desenho técnico sensível.
 
 ## Regra de atuação do agente 871
 
