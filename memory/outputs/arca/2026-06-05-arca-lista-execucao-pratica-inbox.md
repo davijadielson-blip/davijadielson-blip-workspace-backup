@@ -354,3 +354,40 @@ Com essa resposta, a Arca consegue montar a lista de execução real, sem depend
 ### Regra operacional atual
 
 Não criar projetos, não migrar itens para outros agentes e não mover/arquivar arquivos do F0 por enquanto. Apenas manter estas respostas como contexto para a próxima etapa da triagem.
+
+---
+
+## 10. Segunda rodada de entendimento — classificação mais precisa
+
+> Registrado em 2026-06-05. Ainda em modo **guardar/classificar**, sem criar projetos, migrar agentes ou mover arquivos do F0.
+
+1. **Quiel, Kauã e Lídio**  
+   São clientes diferentes. Todos querem gravar videoclipe. Jadielson ficou de passar orçamento há bastante tempo, desde o início do ano.  
+   **Classificação:** LÓGIKA / Comercial / Videoclipes / Orçamentos pendentes.
+
+2. **Beto Saara**  
+   Demanda paga. A esposa dele é cantora. Falta definir o que será feito e quanto cobrar.  
+   **Classificação:** LÓGIKA / Comercial / Videoclipe ou mídia musical / Orçamento a definir.
+
+3. **Plano de Serviços**  
+   Deve fazer parte do comercial da LÓGIKA. Será onde ficará a grade e as esteiras de produtos/serviços.  
+   **Classificação:** LÓGIKA / Comercial / Grade e Esteiras de Produtos.
+
+4. **VENDE-C**  
+   Curso online sobre estratégia de venda. Falta revisar e aplicar nos clientes que Jadielson deve prospectar e apresentar, buscando maior conversão em vendas.  
+   **Classificação:** LÓGIKA / Comercial / Método de Vendas e Prospecção.
+
+5. **ASCOM / Secretaria**  
+   Deve ficar como demanda da cliente **Secretaria de Saúde**.  
+   **Classificação:** Cliente Secretaria de Saúde / Conteúdo ou atendimento institucional.
+
+### Conclusão desta rodada
+
+A maior parte dos itens externos que pareciam soltos, na verdade, pertence ao eixo **Comercial da LÓGIKA**. O núcleo principal é:
+
+- organizar orçamentos antigos de videoclipes;
+- definir proposta para Beto Saara;
+- concluir a grade/esteiras de serviços;
+- aplicar o aprendizado do VENDE-C na prospecção e conversão.
+
+A Secretaria de Saúde deve ficar como cliente/frente própria, não misturada com Central Pessoal nem com comercial geral da LÓGIKA.
