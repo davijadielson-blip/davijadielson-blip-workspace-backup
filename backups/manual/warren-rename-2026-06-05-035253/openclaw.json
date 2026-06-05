@@ -1,0 +1,170 @@
+{
+  "agents": {
+    "defaults": {
+      "heartbeat": {
+        "isolatedSession": true,
+        "lightContext": true
+      },
+      "model": {
+        "primary": "openai-codex/gpt-5.5"
+      },
+      "models": {
+        "openai-codex/gpt-5.5": {
+          "alias": "ChatGPT 5.5 (Codex)"
+        },
+        "openai/gpt-4.1": {
+          "alias": "ChatGPT 4.1"
+        },
+        "openai/gpt-5.1-codex": {
+          "alias": "ChatGPT 5.1 Codex"
+        },
+        "openai/gpt-5.2": {
+          "alias": "ChatGPT 5.2"
+        },
+        "openai/gpt-5.4": {
+          "alias": "ChatGPT 5.4"
+        },
+        "openai/gpt-5.4-pro": {
+          "alias": "ChatGPT 5.4 Pro"
+        },
+        "openai/gpt-5.5": {
+          "alias": "ChatGPT 5.5"
+        }
+      }
+    },
+    "list": [
+      {
+        "id": "main",
+        "name": "main"
+      },
+      {
+        "id": "my-finance",
+        "name": "My Finance",
+        "model": "openai-codex/gpt-5.5",
+        "systemPromptOverride": "Você é o My Finance, agente de finanças pessoais da Central Pessoal de Jadielson Davi. Você é supervisionado por Alfred, General local da Central Pessoal, e integrado à Lôh, gerente geral da arquitetura. Sua missão é dar clareza, calma e organização às finanças pessoais: orçamento, contas, dívidas, vencimentos, receitas pessoais, prioridades e metas. Fale em português brasileiro com tom cuidadoso, conservador, prático e direto, sem linguagem de coach financeiro. Mantenha parede-d'água total entre finanças pessoais e finanças da LÓGIKA/empresa. Não execute transações, não prometa rendimento, não faça especulação e não exponha dados sensíveis. Quando receber dados financeiros, organize em resumo seguro, peça apenas o contexto necessário e transforme a conversa em próximos passos simples. Quando a demanda envolver empresa, cliente, configuração, memória central, integrações ou decisão transversal, encaminhe para Alfred/Lôh conforme o caso."
+      }
+    ]
+  },
+  "auth": {
+    "profiles": {
+      "openai-codex:davijadielson@gmail.com": {
+        "mode": "oauth",
+        "provider": "openai-codex"
+      }
+    }
+  },
+  "browser": {
+    "defaultProfile": "openclaw",
+    "headless": true,
+    "noSandbox": true
+  },
+  "channels": {
+    "telegram": {
+      "allowFrom": [
+        "7654417048"
+      ],
+      "botToken": "8820799885:AAHiSVr17KUwPfjT4tCkcL-3-5_oEaS_Ql4",
+      "dmPolicy": "allowlist",
+      "enabled": true,
+      "groups": {
+        "-1003740871403": {
+          "groupPolicy": "open",
+          "requireMention": false,
+          "topics": {
+            "12": {
+              "agentId": "my-finance",
+              "requireMention": false,
+              "groupPolicy": "open"
+            }
+          }
+        }
+      }
+    },
+    "whatsapp": {
+      "allowFrom": [],
+      "dmPolicy": "allowlist",
+      "enabled": true,
+      "groupAllowFrom": [],
+      "groupPolicy": "allowlist",
+      "selfChatMode": true
+    }
+  },
+  "commands": {
+    "bash": true,
+    "native": "auto",
+    "nativeSkills": "auto",
+    "ownerAllowFrom": [
+      "telegram:7654417048"
+    ],
+    "restart": true
+  },
+  "gateway": {
+    "auth": {
+      "mode": "token",
+      "token": "${OPENCLAW_GATEWAY_TOKEN}"
+    },
+    "controlUi": {},
+    "mode": "local",
+    "remote": {
+      "token": "${OPENCLAW_GATEWAY_TOKEN}"
+    }
+  },
+  "hooks": {
+    "token": "${OPENCLAW_HOOKS_TOKEN}"
+  },
+  "meta": {
+    "lastTouchedAt": "2026-06-05T03:26:54.598Z",
+    "lastTouchedVersion": "2026.5.6"
+  },
+  "models": {
+    "mode": "merge"
+  },
+  "plugins": {
+    "allow": [
+      "whatsapp",
+      "telegram",
+      "discord",
+      "slack",
+      "openai",
+      "browser"
+    ],
+    "bundledDiscovery": "compat",
+    "entries": {
+      "discord": {
+        "enabled": true
+      },
+      "slack": {
+        "enabled": true
+      },
+      "telegram": {
+        "enabled": true
+      },
+      "whatsapp": {
+        "enabled": true
+      },
+      "openai": {
+        "enabled": true
+      },
+      "browser": {
+        "enabled": true
+      }
+    }
+  },
+  "skills": {
+    "entries": {
+      "hhmail": {
+        "enabled": true
+      },
+      "hostinger-mcp": {
+        "enabled": true
+      }
+    }
+  },
+  "update": {
+    "auto": {
+      "enabled": false
+    },
+    "channel": "stable",
+    "checkOnStart": false
+  }
+}
