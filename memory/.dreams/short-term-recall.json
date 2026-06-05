@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T00:25:57.191Z",
+  "updatedAt": "2026-06-05T00:32:11.838Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -517,18 +517,20 @@
       "endLine": 23,
       "source": "memory",
       "snippet": "- Jadielson pediu para salvar tudo antes da pausa. Estado: workspace restaurado, backup contínuo ativo, Segundo Cérebro conectado/sync ativo, WhatsApp dedicado pausado aguardando aparelho para escanear QR. ## Política de execução — autonomia ampliada - 2026-06-04 18:35 UTC: Jadielson confirmou que quer o agente com independência/autonomia ampla para tarefas locais e técnicas, inclusive com “super poderes”. - Foi aplicado o comando `openclaw exec-policy preset yolo`. - Resultado efetivo exibido: `tools.exec` com `security=full` e `ask=off`; config alterada em `/data/.openclaw/openclaw.json`, com backup em `/data/.openclaw/openclaw.json.bak`. - Limite operacional mantido por preferência do J",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3591313630342483,
+      "totalScore": 0.7159303337335585,
       "maxScore": 0.3591313630342483,
       "firstRecalledAt": "2026-06-04T19:48:13.062Z",
-      "lastRecalledAt": "2026-06-04T19:48:13.062Z",
+      "lastRecalledAt": "2026-06-05T00:32:11.838Z",
       "queryHashes": [
-        "eee9f7bb9c87"
+        "eee9f7bb9c87",
+        "f4b566e4adf4"
       ],
       "recallDays": [
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-05"
       ],
       "conceptTags": [
         "backup",

@@ -224,3 +224,18 @@ Para critério de curso/Starter Kit: pode considerar quase quitado.
 Para critério de aplicação real na agência: ainda faltam WhatsApp, Jarvis operacional, Notion estabilizado e Mission Control mínimo.
 
 Minha recomendação é não reabrir o curso inteiro. Tratar agora como fase de fechamento operacional, com foco no que gera uso diário e reduz risco.
+
+## Atualização de prioridade após resposta do Jadielson
+
+Após a devolutiva do Jadielson em 2026-06-05, a fila recomendada foi ajustada:
+
+1. Configurar todos os agentes ainda hoje, começando pela **Central Pessoal**.
+2. Deixar **WhatsApp** para mais tarde.
+3. Deixar ajuste de **segurança/exec full** para depois, sem travar a configuração dos agentes.
+4. Prosseguir com **LÓGIKA/Jarvis** após avançar na Central Pessoal.
+5. Manter **Notion/Inbox LÓGIKA** em andamento, sem bloquear a configuração dos agentes.
+6. Deixar **Mission Control** para depois, pois agora é considerado mais estético do que essencial.
+7. Definir **Heartbeat** corretamente como parte da configuração operacional.
+8. Deixar **update OpenClaw/systemd/autostart** para depois.
+
+Prioridade prática revisada: **arquitetura de agentes > Central Pessoal primeiro > Heartbeat definido > LÓGIKA/Jarvis depois > canais/update/painéis depois**.
