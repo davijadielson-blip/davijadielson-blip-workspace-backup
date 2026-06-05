@@ -320,3 +320,37 @@ A Arca recomenda começar com uma pergunta única, para destravar o bloco mais u
 > Jadielson, dos itens externos, quais ainda estão pendentes hoje: orçamento Quiel/Kauã/Lídio, Beto Saara, ASCOM, cirurgião 02/06 e BBMD?
 
 Com essa resposta, a Arca consegue montar a lista de execução real, sem depender de suposição.
+
+---
+
+## 9. Respostas de Jadielson ao checkpoint — guardar, sem executar ainda
+
+> Registrado em 2026-06-05. Jadielson pediu explicitamente para **não criar ainda**; apenas guardar, porque muitas coisas podem e devem migrar depois para outros agentes.
+
+1. **Orçamentos para Quiel/Kauã/Lídio**  
+   Ainda não foram enviados. Devem entrar em uma lista à parte.
+
+2. **Beto Saara**  
+   Ainda pendente. Ele havia falado que gostaria que Jadielson fizesse a mídia da mulher dele, que é cantora.
+
+3. **Dados para ASCOM**  
+   Ainda precisa juntar e mandar. Provavelmente na próxima semana.
+
+4. **Triagem cirurgião 02/06**  
+   Já aconteceu. Jadielson já fez e publicou.
+
+5. **BBMD**  
+   Significa ir ao banco e ver a conta da mãe de Jadielson, Maria Davi (MD). Tratar como pendência pessoal/familiar ligada a banco, não como automação financeira.
+
+6. **VENDE-C**  
+   Curso online sobre estratégia de venda. Jadielson praticamente concluiu, mas ainda precisa revisar e colocar em prática.
+
+7. **PLANE / Plano de Serviços**  
+   É uma pendência real: Jadielson começou há algum tempo a traçar planos de serviços, ainda não concluiu e precisa disso para começar a rodar e aumentar o faturamento.
+
+8. **CNPJ / XTiles**  
+   É o CNPJ da empresa de Jadielson. XTiles é uma plataforma tipo Notion onde ele tem algumas informações.
+
+### Regra operacional atual
+
+Não criar projetos, não migrar itens para outros agentes e não mover/arquivar arquivos do F0 por enquanto. Apenas manter estas respostas como contexto para a próxima etapa da triagem.
