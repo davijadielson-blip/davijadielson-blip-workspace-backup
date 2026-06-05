@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T21:01:31.207Z",
+  "updatedAt": "2026-06-05T21:07:18.581Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -1922,17 +1922,18 @@
       "endLine": 457,
       "source": "memory",
       "snippet": "- Pendências: decidir se a ideia de Reels institucional da Câmara vira pauta de produção; informar/colar o link ou referência da campanha SINDSS. ## Zapier MCP — três servidores cadastrados - 2026-06-05 20:20 UTC: Jadielson separou pelo menos três MCP servers no Zapier e enviou as URLs/token de conexão no chat privado. - Segurança: as URLs/tokens não foram registradas nesta memória e não devem ser exibidas em respostas, commits ou logs públicos. - Backup prévio da configuração criado: `/data/.openclaw/openclaw.json.bak-zapier-mcp-20260605T201849Z`. - Configuração aplicada em `/data/.openclaw/openclaw.json` com `mcp.servers`: `zapier-1`, `zapier-2`, `zapier-3`, usando transporte remoto `str",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.1275808811187744,
-      "maxScore": 0.3828963011503219,
+      "totalScore": 1.5360361993312837,
+      "maxScore": 0.40845531821250913,
       "firstRecalledAt": "2026-06-05T20:25:45.813Z",
-      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
+      "lastRecalledAt": "2026-06-05T21:07:18.581Z",
       "queryHashes": [
         "45499bd00512",
         "c6b0263c90cd",
-        "d64c49bec05a"
+        "d64c49bec05a",
+        "c2805ae91bd0"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1986,17 +1987,18 @@
       "endLine": 448,
       "source": "memory",
       "snippet": "- Decisão aceita pela Lôh: Notion fica principalmente para grade de produção e execução; Vault/GitHub/workspace ficam para análises, textos leves, índices, bancos de contexto e outputs dos agentes. - Proposta de tópicos/agentes sob Jarvis: Referências/Inspirações, Redes Sociais & Métricas (Meta Business/Analytics etc.), Bases Públicas & Dados Oficiais, CRM & Banco de Clientes. - Google Drive será a base operacional da Secretária para CRM, banco de clientes, documentos, planilhas, relatórios e arquivos migrados do OneDrive. - Jadielson decidiu criar apenas a pasta principal no Drive e jogar os arquivos; Clara/Secretária deverá organizar depois, respeitando limites de segurança e sem exclusão",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.1295726031064985,
-      "maxScore": 0.39105640947818754,
+      "totalScore": 1.5788790315389631,
+      "maxScore": 0.44930642843246454,
       "firstRecalledAt": "2026-06-05T20:25:45.813Z",
-      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
+      "lastRecalledAt": "2026-06-05T21:07:18.581Z",
       "queryHashes": [
         "45499bd00512",
         "f054b89d8b03",
-        "d64c49bec05a"
+        "d64c49bec05a",
+        "c2805ae91bd0"
       ],
       "recallDays": [
         "2026-06-05"
@@ -2246,6 +2248,68 @@
       "lastRecalledAt": "2026-06-05T21:01:31.207Z",
       "queryHashes": [
         "d64c49bec05a"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "topicos.md",
+        "topicos-coordenacao.md",
+        "tópicos",
+        "telegram",
+        "criados",
+        "grupo",
+        "lógika",
+        "redes"
+      ]
+    },
+    "memory:memory/2026-06-05.md:519:526": {
+      "key": "memory:memory/2026-06-05.md:519:526",
+      "path": "memory/2026-06-05.md",
+      "startLine": 519,
+      "endLine": 526,
+      "source": "memory",
+      "snippet": "- `zapier-youtube`: YouTube com ações `Find Video`, `Get Report`, API GET, e ações sensíveis de playlist/upload/thumbnail/API mutável. - `zapier-3`: Facebook Pages e Instagram for Business. Instagram tem publicação de foto/vídeo, API GET e API mutável; Facebook Pages tem ações de publicação/perfil/vídeo e `Page Post Insights` para métricas, embora classificada pelo Zapier como write_action. - `zapier-1`: Google AI Studio/Gemini. - `zapier-2`: Trello e Miro. - Mensagem de treinamento enviada no tópico `871` da LÓGIKA: Telegram messageId `875`. - Documento criado para Jarvis: `/data/.openclaw/workspace-jarvis/INTEGRACOES-MCP-REDES.md`. - Regra definida: tópico 871 opera por padrão em l",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.42152934074401854,
+      "maxScore": 0.42152934074401854,
+      "firstRecalledAt": "2026-06-05T21:07:18.581Z",
+      "lastRecalledAt": "2026-06-05T21:07:18.581Z",
+      "queryHashes": [
+        "c2805ae91bd0"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "zapier-youtube",
+        "playlist/upload/thumbnail/api",
+        "zapier-3",
+        "foto/vídeo",
+        "publicação/perfil/vídeo",
+        "write-action",
+        "zapier-1",
+        "studio/gemini"
+      ]
+    },
+    "memory:memory/2026-06-05.md:504:520": {
+      "key": "memory:memory/2026-06-05.md:504:520",
+      "path": "memory/2026-06-05.md",
+      "startLine": 504,
+      "endLine": 520,
+      "source": "memory",
+      "snippet": "- Tópicos Telegram criados no grupo LÓGIKA (`-1003645702069`): `871 — Redes Sociais & Métricas` e `872 — Bases Públicas & Dados Oficiais`. - Configuração OpenClaw atualizada: tópicos `871` e `872` mapeados para `agentId=jarvis`, `groupPolicy=open`, `requireMention=false`, com prompts específicos para limites de social analytics e dados oficiais. - Documentos Jarvis atualizados: `TOPICOS.md` e `TOPICOS_COORDENACAO.md`. ## LÓGIKA — mensagens iniciais dos tópicos de pesquisa - 2026-06-05 20:52 UTC: mensagens iniciais enviadas nos novos tópicos da LÓGIKA: - `871 — Redes Sociais & Métricas`: Telegram messageId `873`. - `872 — Bases Públicas & Dados Oficiais`: Telegram messageId `874`. - As",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4001713126897812,
+      "maxScore": 0.4001713126897812,
+      "firstRecalledAt": "2026-06-05T21:07:18.581Z",
+      "lastRecalledAt": "2026-06-05T21:07:18.581Z",
+      "queryHashes": [
+        "c2805ae91bd0"
       ],
       "recallDays": [
         "2026-06-05"
