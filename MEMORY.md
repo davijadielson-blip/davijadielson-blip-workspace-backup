@@ -25,3 +25,15 @@
 - Jadielson definiu o grupo como uma **empresa organizada por departamentos**, com modelo híbrido.
 - Base recomendada: departamentos para rotinas permanentes e agentes/frentes por missão para projetos específicos.
 - Jarvis deve coordenar, treinar e supervisionar os departamentos/tópicos, sem assumir a execução principal de cada missão.
+
+## Frente 872 — Bases Públicas & Dados Oficiais
+
+- Em 2026-06-05, Jadielson solicitou salvar uma curadoria inicial de fontes para a frente **872 — Bases Públicas & Dados Oficiais**.
+- O inventário detalhado está em `memory/872_bases_publicas_dados_oficiais.md`.
+- A regra operacional salva: priorizar fontes oficiais para dados públicos; usar veículos jornalísticos para clipping/repercussão; usar Kadaza e agregadores apenas como descoberta; usar ferramentas de IA como benchmark/laboratório.
+
+## Princípio de contexto de qualidade
+
+- A LÓGIKA quer construir uma estrutura de qualidade para contextos.
+- Cada agente/departamento deve salvar definições, briefings, entregas, pendências, aprendizados e referências no lugar coerente.
+- Objetivo: evitar perda de contexto no chat, melhorar continuidade, reduzir retrabalho e permitir respostas mais ricas, específicas e seguras.
