@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T16:27:30.911Z",
+  "updatedAt": "2026-06-05T19:03:18.399Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -932,17 +932,18 @@
       "endLine": 214,
       "source": "memory",
       "snippet": "- Escopos finais para empresa e pessoal: Calendar com escrita (`calendar`), Docs com escrita (`documents`), Sheets com escrita (`spreadsheets`), Gmail somente leitura (`gmail.readonly`) e Drive somente leitura (`drive.readonly`). - Validação: `gog auth list --check` mostrou tokens legíveis para empresa e pessoal com serviços `calendar,docs,drive,gmail,sheets`; a conta Lôh permanece com `calendar,contacts,docs,drive,gmail,sheets` em leitura. - Teste Calendar: empresa respondeu `No events`; pessoal retornou evento futuro, confirmando leitura funcional. Detalhes pessoais não foram registrados por privacidade. - Regra operacional: autonomia da Secretária pode incluir criar/alterar eventos e alte",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.2094032019376755,
+      "totalScore": 1.6317275792360306,
       "maxScore": 0.4464228510856628,
       "firstRecalledAt": "2026-06-05T03:15:24.969Z",
-      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "lastRecalledAt": "2026-06-05T19:03:18.399Z",
       "queryHashes": [
         "7de9cdd8218a",
         "257e95507b2a",
-        "b3039f93f9dc"
+        "b3039f93f9dc",
+        "951db99073d5"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1503,17 +1504,18 @@
       "endLine": 162,
       "source": "memory",
       "snippet": "- Inbox — Por Frente/Cliente. - Produção & Agenda — Esta semana. - Produção & Agenda — Por cliente. - Central LÓGIKA atualizada com decisão v0.6 e registro das views/teste. - Observação: rotina manual do cron foi enfileirada para teste, mas o histórico do cron ainda não retornou entrada imediata; validação direta pela API passou. ## Google Workspace via gog CLI — conta restrita Lôh - 2026-06-04: Jadielson autorizou instalar e configurar o `gog` CLI para Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, Contacts), com princípio A5/A10: agente confirma antes de enviar e-mail, criar evento ou fazer ações de escrita. - `gog` não estava instalado; instalado via Homebrew (`openclaw/t",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.2190769463777542,
+      "totalScore": 1.6090346574783325,
       "maxScore": 0.42891456484794616,
       "firstRecalledAt": "2026-06-05T16:05:31.097Z",
-      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "lastRecalledAt": "2026-06-05T19:03:18.399Z",
       "queryHashes": [
         "cb7f18295d9e",
         "257e95507b2a",
-        "b3039f93f9dc"
+        "b3039f93f9dc",
+        "951db99073d5"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1567,16 +1569,17 @@
       "endLine": 348,
       "source": "memory",
       "snippet": "- 2026-06-05 16:06 UTC: Jadielson reportou que Clara recebeu autorização operacional do Jarvis para acessar/auditar centrais integradas, mas respondeu que não tinha acesso técnico porque o navegador logado não conectava, o navegador gerenciado pedia login e ela “não encontrou conector Workspace”. - Diagnóstico da Lôh: o conector Google Workspace existe e está funcional via `gog`; Clara estava tentando pelo caminho errado (browser/Chrome) e não tinha instrução explícita no seu tópico/workspace. - Validação técnica executada: `gog auth list --check` confirmou contas `davijadielson@gmail.com`, `logikacreative.mkt@gmail.com`, `loh.open.logika@gmail.com`; teste de Calendar pessoal funcionou; test",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.9015277683734894,
+      "totalScore": 1.2921709716320038,
       "maxScore": 0.467364627122879,
       "firstRecalledAt": "2026-06-05T16:27:23.659Z",
-      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "lastRecalledAt": "2026-06-05T19:03:18.399Z",
       "queryHashes": [
         "257e95507b2a",
-        "b3039f93f9dc"
+        "b3039f93f9dc",
+        "951db99073d5"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1757,15 +1760,16 @@
       "endLine": 87,
       "source": "memory",
       "snippet": "- 1 `Calendário Editorial antigo` (`1d8207e6-f145-8153-99c1-f5ae2b4e4e23`). - 1 `Agenda de Eventos - Secretaria Municipal de Saúde` (`30d207e6-f145-809d-838a-cdf7bb477adf`). - 1 `Ideias antiga` (`312207e6-f145-8126-9ed5-d5c4cbce1b7f`). - Resultado verificado: - Arquivadas com sucesso: 26 `Método CIPA`, 6 `Calendário 2024`, 1 `Ideias antiga` = 33 databases. - Não arquivadas por permissão insuficiente de teamspace: `Calendário Editorial antigo` e `Agenda de Eventos - Secretaria Municipal de Saúde`. - Mensagem Notion nos bloqueios: `Cannot change teamspace pages: insufficient permissions`. - Próxima ação: Jadielson precisa arquivar manualmente essas 2 no Notion ou ajustar permissão da",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.38792810440063474,
-      "maxScore": 0.38792810440063474,
+      "totalScore": 0.7867897659540176,
+      "maxScore": 0.3988616615533829,
       "firstRecalledAt": "2026-06-05T16:27:30.911Z",
-      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "lastRecalledAt": "2026-06-05T19:03:18.399Z",
       "queryHashes": [
-        "b3039f93f9dc"
+        "b3039f93f9dc",
+        "951db99073d5"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1779,6 +1783,99 @@
         "99c1",
         "f5ae2b4e4e23",
         "agenda"
+      ]
+    },
+    "memory:memory/2026-06-05.md:388:397": {
+      "key": "memory:memory/2026-06-05.md:388:397",
+      "path": "memory/2026-06-05.md",
+      "startLine": 388,
+      "endLine": 397,
+      "source": "memory",
+      "snippet": "- Estado comunicado a Jadielson: Google Workspace da LÓGIKA (`logikacreative.mkt@gmail.com`) está validado com Drive `drive.readonly` amplo para auditoria estrutural; Clara/Jarvis instruídos; sem permissão destrutiva para editar, mover, excluir, renomear ou compartilhar arquivos do Drive. - Salvamento final confirmado antes da compactação: workspace principal e workspace Jarvis sem alterações pendentes; commits relevantes informados ao usuário: - principal: `77a7994 memory: fecha salvamento clara drive readonly`. - Jarvis: `009a4eb docs: registra drive readonly logika`. - Jadielson perguntou se Notion, GitHub e Vault também estavam liberados. Resposta operacional dada: - Notion: libera",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4286817491054535,
+      "maxScore": 0.4286817491054535,
+      "firstRecalledAt": "2026-06-05T19:03:18.399Z",
+      "lastRecalledAt": "2026-06-05T19:03:18.399Z",
+      "queryHashes": [
+        "951db99073d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "logikacreative.mkt",
+        "gmail.com",
+        "drive.readonly",
+        "clara/jarvis",
+        "estado",
+        "comunicado",
+        "jadielson",
+        "google"
+      ]
+    },
+    "memory:memory/2026-06-05.md:84:101": {
+      "key": "memory:memory/2026-06-05.md:84:101",
+      "path": "memory/2026-06-05.md",
+      "startLine": 84,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "- `Central de Comando dos Agentes` — página Notion: https://www.notion.so/Central-de-Comando-dos-Agentes-250207e6f1458054aa08f29f0eeb4793?source=copy_link - `Arsenal de Prompts Validados` — página Notion: https://www.notion.so/Arsenal-de-Prompts-Validados-c36207e6f14583a09d4b81a5de2129a9?source=copy_link - Validação via API: ambos os links são páginas, não databases diretamente, e estão acessíveis/ativas. - Child databases encontradas e também reservadas: - Dentro de `Central de Comando dos Agentes`: database `Equipe`, ID `250207e6-f145-81f7-bea2-cfb5ece48962`. - Dentro de `Arsenal de Prompts Validados`: child database `New database`, ID `c0b207e6-f145-831f-a746-0143af00a62a`; apesar",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4029615134000778,
+      "maxScore": 0.4029615134000778,
+      "firstRecalledAt": "2026-06-05T19:03:18.399Z",
+      "lastRecalledAt": "2026-06-05T19:03:18.399Z",
+      "queryHashes": [
+        "951db99073d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "copy-link",
+        "acessíveis/ativas",
+        "central",
+        "comando",
+        "dos",
+        "agentes",
+        "página",
+        "notion"
+      ]
+    },
+    "memory:memory/2026-06-04.md:172:185": {
+      "key": "memory:memory/2026-06-04.md:172:185",
+      "path": "memory/2026-06-04.md",
+      "startLine": 172,
+      "endLine": 185,
+      "source": "memory",
+      "snippet": "- Complemento 2026-06-04 23:02 UTC: Jadielson pediu para guardar a mesma referência também para **vendas**. Uso futuro: exemplo de pauta/argumento comercial para mostrar à Secretaria de Saúde como campanhas simples de conscientização podem gerar valor público, conteúdo útil e aproximação com a população. ## Referência LÓGIKA — WhatsApp / novidades de produto - 2026-06-04 23:02 UTC: Jadielson enviou no grupo LÓGIKA, tópico “Referências/Inspiracões”, o link `https://www.instagram.com/reel/DZKy_7lFZ4m/?igsh=ZnFnZm10aHRvdGJh` com a anotação “Novidades no WhatsApp”. - Uso futuro: guardar como referência para ideias de conteúdo, vendas, atendimento, automação e posicionamento sobre recursos/novi",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.39302603900432587,
+      "maxScore": 0.39302603900432587,
+      "firstRecalledAt": "2026-06-05T19:03:18.399Z",
+      "lastRecalledAt": "2026-06-05T19:03:18.399Z",
+      "queryHashes": [
+        "951db99073d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "pauta/argumento",
+        "referências/inspiracões",
+        "recursos/novi",
+        "complemento",
+        "utc",
+        "jadielson",
+        "pediu",
+        "guardar"
       ]
     }
   }
