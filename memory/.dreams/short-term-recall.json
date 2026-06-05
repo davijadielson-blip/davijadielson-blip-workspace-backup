@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T20:49:12.716Z",
+  "updatedAt": "2026-06-05T21:01:31.207Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -1922,15 +1922,17 @@
       "endLine": 457,
       "source": "memory",
       "snippet": "- Pendências: decidir se a ideia de Reels institucional da Câmara vira pauta de produção; informar/colar o link ou referência da campanha SINDSS. ## Zapier MCP — três servidores cadastrados - 2026-06-05 20:20 UTC: Jadielson separou pelo menos três MCP servers no Zapier e enviou as URLs/token de conexão no chat privado. - Segurança: as URLs/tokens não foram registradas nesta memória e não devem ser exibidas em respostas, commits ou logs públicos. - Backup prévio da configuração criado: `/data/.openclaw/openclaw.json.bak-zapier-mcp-20260605T201849Z`. - Configuração aplicada em `/data/.openclaw/openclaw.json` com `mcp.servers`: `zapier-1`, `zapier-2`, `zapier-3`, usando transporte remoto `str",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.37926414608955383,
-      "maxScore": 0.37926414608955383,
+      "totalScore": 1.1275808811187744,
+      "maxScore": 0.3828963011503219,
       "firstRecalledAt": "2026-06-05T20:25:45.813Z",
-      "lastRecalledAt": "2026-06-05T20:25:45.813Z",
+      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
       "queryHashes": [
-        "45499bd00512"
+        "45499bd00512",
+        "c6b0263c90cd",
+        "d64c49bec05a"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1984,16 +1986,17 @@
       "endLine": 448,
       "source": "memory",
       "snippet": "- Decisão aceita pela Lôh: Notion fica principalmente para grade de produção e execução; Vault/GitHub/workspace ficam para análises, textos leves, índices, bancos de contexto e outputs dos agentes. - Proposta de tópicos/agentes sob Jarvis: Referências/Inspirações, Redes Sociais & Métricas (Meta Business/Analytics etc.), Bases Públicas & Dados Oficiais, CRM & Banco de Clientes. - Google Drive será a base operacional da Secretária para CRM, banco de clientes, documentos, planilhas, relatórios e arquivos migrados do OneDrive. - Jadielson decidiu criar apenas a pasta principal no Drive e jogar os arquivos; Clara/Secretária deverá organizar depois, respeitando limites de segurança e sem exclusão",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7504388213157653,
+      "totalScore": 1.1295726031064985,
       "maxScore": 0.39105640947818754,
       "firstRecalledAt": "2026-06-05T20:25:45.813Z",
-      "lastRecalledAt": "2026-06-05T20:49:12.716Z",
+      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
       "queryHashes": [
         "45499bd00512",
-        "f054b89d8b03"
+        "f054b89d8b03",
+        "d64c49bec05a"
       ],
       "recallDays": [
         "2026-06-05"
@@ -2069,6 +2072,193 @@
         "sociais",
         "começar",
         "links"
+      ]
+    },
+    "memory:memory/2026-06-05.md:485:494": {
+      "key": "memory:memory/2026-06-05.md:485:494",
+      "path": "memory/2026-06-05.md",
+      "startLine": 485,
+      "endLine": 494,
+      "source": "memory",
+      "snippet": "- Pendente operacional: testar ação segura/readonly do MCP YouTube quando as tools expostas estiverem disponíveis/listadas no runtime. ## 2026-06-05 20:48 UTC — Flush pré-compactação: Zapier/YouTube/Tavily/Central de Pesquisa - Tavily foi ativado/restaurado como provider de busca web do OpenClaw; validação final indicou `web_search` usando provider `tavily`. Chave tratada como segredo; não registrar em memória/commits/respostas. - Zapier MCPs configurados para frentes separadas: `zapier-1`, `zapier-2`, `zapier-3` e `zapier-youtube` dedicado. Tokens tratados como segredo; não registrar valores. - Houve regressões após restart em que config ativa apareceu sem MCPs/Tavily; foram restaurados",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7557664215564728,
+      "maxScore": 0.3888506263494491,
+      "firstRecalledAt": "2026-06-05T20:56:20.830Z",
+      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
+      "queryHashes": [
+        "c6b0263c90cd",
+        "d64c49bec05a"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "segura/readonly",
+        "disponíveis/listadas",
+        "pré-compactação",
+        "zapier/youtube/tavily/central",
+        "ativado/restaurado",
+        "web-search",
+        "memória/commits/respostas",
+        "zapier-1"
+      ]
+    },
+    "memory:memory/2026-06-05.md:475:490": {
+      "key": "memory:memory/2026-06-05.md:475:490",
+      "path": "memory/2026-06-05.md",
+      "startLine": 475,
+      "endLine": 490,
+      "source": "memory",
+      "snippet": "- Servidor MCP criado: `zapier-youtube`, com transporte remoto `streamable-http`. - Validação: `openclaw config validate` OK; Gateway recarregado; `openclaw mcp list` mostra `zapier-1`, `zapier-2`, `zapier-3` e `zapier-youtube`. - Pendente: em próxima etapa, listar ações disponíveis do MCP YouTube e fazer teste seguro/readonly. ## Zapier MCP YouTube — validação final e persistência - 2026-06-05 20:45 UTC: validação pós-restart do `zapier-youtube` encontrou novamente a config ativa sem MCPs/Tavily, indicando rollback/regressão de persistência após recarga. - Correção aplicada: a Lôh reaplicou os MCPs usando o comando próprio `openclaw mcp set` para `zapier-1`, `zapier-2`, `zapier-3` e `zapi",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3883242040872574,
+      "maxScore": 0.3883242040872574,
+      "firstRecalledAt": "2026-06-05T20:56:20.830Z",
+      "lastRecalledAt": "2026-06-05T20:56:20.830Z",
+      "queryHashes": [
+        "c6b0263c90cd"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "gateway",
+        "zapier-youtube",
+        "streamable-http",
+        "zapier-1",
+        "zapier-2",
+        "zapier-3",
+        "seguro/readonly",
+        "pós-restart"
+      ]
+    },
+    "memory:memory/2026-06-05.md:453:467": {
+      "key": "memory:memory/2026-06-05.md:453:467",
+      "path": "memory/2026-06-05.md",
+      "startLine": 453,
+      "endLine": 467,
+      "source": "memory",
+      "snippet": "- Pendente: nomear cada MCP server conforme função real (ex.: redes sociais/métricas, CRM/Drive/Sheets, automações gerais) e fazer teste funcional de uma ação segura/readonly do Zapier. ## Zapier MCP — checkpoint pós-restart - 2026-06-05 20:23 UTC: após solicitação de validação pós-restart, a primeira checagem mostrou regressão temporária: a config ativa estava sem `mcp.servers` e sem Tavily. - A Lôh restaurou os blocos de MCP Zapier e Tavily a partir de backup/configuração local, sem imprimir tokens ou chave. - Validação após restauração: `openclaw config validate` OK; `openclaw mcp list` lista `zapier-1`, `zapier-2`, `zapier-3`; `openclaw status` mostra Gateway alcançável e Telegram OK.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3782871961593628,
+      "maxScore": 0.3782871961593628,
+      "firstRecalledAt": "2026-06-05T20:56:20.830Z",
+      "lastRecalledAt": "2026-06-05T20:56:20.830Z",
+      "queryHashes": [
+        "c6b0263c90cd"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "gateway",
+        "sociais/métricas",
+        "crm/drive/sheets",
+        "segura/readonly",
+        "pós-restart",
+        "mcp.servers",
+        "backup/configuração"
+      ]
+    },
+    "memory:memory/2026-06-05.md:465:480": {
+      "key": "memory:memory/2026-06-05.md:465:480",
+      "path": "memory/2026-06-05.md",
+      "startLine": 465,
+      "endLine": 480,
+      "source": "memory",
+      "snippet": "- 2026-06-05 20:38 UTC: Jadielson pediu para guardar no banco de dados do Vault as informações sobre a conta Google da LÓGIKA poder gerenciar vários canais YouTube de clientes/hospedados, especialmente conectando ao projeto de ganhar dinheiro com canal monetizado no YouTube. - A Lôh respeitou a Constituição do Vault: não editou a nota autoral F1 do projeto; criou apoio em F2. - Arquivo criado: `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson/[F2] memory/projects/ganhar-dinheiro-canal-youtube/estrategia-canais-clientes-logika.md`. - Conteúdo registrado: modelo de conta Google LÓGIKA como central gestora, permissões seguras, uso de Zapier/MCP para YouTube, relação com Drive/Secretár",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3593858122825622,
+      "maxScore": 0.3593858122825622,
+      "firstRecalledAt": "2026-06-05T20:56:20.830Z",
+      "lastRecalledAt": "2026-06-05T20:56:20.830Z",
+      "queryHashes": [
+        "c6b0263c90cd"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "clientes/hospedados",
+        "zapier/mcp",
+        "drive/secretár",
+        "utc",
+        "jadielson",
+        "pediu",
+        "guardar",
+        "banco"
+      ]
+    },
+    "memory:memory/2026-06-05.md:497:507": {
+      "key": "memory:memory/2026-06-05.md:497:507",
+      "path": "memory/2026-06-05.md",
+      "startLine": 497,
+      "endLine": 507,
+      "source": "memory",
+      "snippet": "- No Vault Segundo Cérebro, respeitando regra F1 somente autoral, foi criada nota F2 vinculada ao projeto “GANHAR DINHEIRO COM CANAL NO YOUTUBE”: `[F2] memory/projects/ganhar-dinheiro-canal-youtube/estrategia-canais-clientes-logika.md`. Conteúdo: LÓGIKA como central gestora de canais, permissões seguras, Zapier/MCP para YouTube, Drive/Secretária, próximos passos para serviço/monetização. - Commits finais informados ao usuário nesta sequência incluíram: `3093669` Tavily, `b84d2c1` Zapier MCP, `97b28a2` validação pós-restart, `c119f88` workspace, `8b67182` vault estratégia YouTube, `e394a1f` MCP YouTube, `a5707f3` validação MCP YouTube persistente. ## LÓGIKA — novos tópicos de pesquisa e deci",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36503528654575346,
+      "maxScore": 0.36503528654575346,
+      "firstRecalledAt": "2026-06-05T21:01:31.207Z",
+      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
+      "queryHashes": [
+        "d64c49bec05a"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "zapier/mcp",
+        "drive/secretária",
+        "serviço/monetização",
+        "pós-restart",
+        "vault",
+        "segundo",
+        "cérebro",
+        "respeitando"
+      ]
+    },
+    "memory:memory/2026-06-05.md:504:514": {
+      "key": "memory:memory/2026-06-05.md:504:514",
+      "path": "memory/2026-06-05.md",
+      "startLine": 504,
+      "endLine": 514,
+      "source": "memory",
+      "snippet": "- Tópicos Telegram criados no grupo LÓGIKA (`-1003645702069`): `871 — Redes Sociais & Métricas` e `872 — Bases Públicas & Dados Oficiais`. - Configuração OpenClaw atualizada: tópicos `871` e `872` mapeados para `agentId=jarvis`, `groupPolicy=open`, `requireMention=false`, com prompts específicos para limites de social analytics e dados oficiais. - Documentos Jarvis atualizados: `TOPICOS.md` e `TOPICOS_COORDENACAO.md`. ## LÓGIKA — mensagens iniciais dos tópicos de pesquisa - 2026-06-05 20:52 UTC: mensagens iniciais enviadas nos novos tópicos da LÓGIKA: - `871 — Redes Sociais & Métricas`: Telegram messageId `873`. - `872 — Bases Públicas & Dados Oficiais`: Telegram messageId `874`. - As",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3611648291349411,
+      "maxScore": 0.3611648291349411,
+      "firstRecalledAt": "2026-06-05T21:01:31.207Z",
+      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
+      "queryHashes": [
+        "d64c49bec05a"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "topicos.md",
+        "topicos-coordenacao.md",
+        "tópicos",
+        "telegram",
+        "criados",
+        "grupo",
+        "lógika",
+        "redes"
       ]
     }
   }
