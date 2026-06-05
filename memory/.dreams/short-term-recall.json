@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T07:24:44.854Z",
+  "updatedAt": "2026-06-05T08:16:10.596Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -1106,6 +1106,99 @@
         "name",
         "warren",
         "tópico"
+      ]
+    },
+    "memory:memory/2026-06-05.md:248:253": {
+      "key": "memory:memory/2026-06-05.md:248:253",
+      "path": "memory/2026-06-05.md",
+      "startLine": 248,
+      "endLine": 253,
+      "source": "memory",
+      "snippet": "## Correção Jarvis — tópico exigia menção - 2026-06-05 07:31 UTC: Alfred voltou após `channels.telegram.groupPolicy=open`, mas Jarvis ainda não respondia no tópico `https://t.me/c/3645702069/1`. - Log pós-reload: tentativa da LÓGIKA `-1003645702069` em `2026-06-05T07:25:00Z` foi descartada por `reason: no-mention`, não por `not-allowed` nem erro de modelo. - Ação: no arquivo `/data/.openclaw/openclaw.json`, alterado `channels.telegram.groups.-1003645702069.topics.1.requireMention=false`, mantendo o grupo LÓGIKA com `requireMention=true` por segurança fora do tópico dedicado. Backup da config: `/data/.openclaw/openclaw.json.bak-20260605T073223Z`; restart seguro solicitado.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.422148910164833,
+      "maxScore": 0.422148910164833,
+      "firstRecalledAt": "2026-06-05T08:16:10.596Z",
+      "lastRecalledAt": "2026-06-05T08:16:10.596Z",
+      "queryHashes": [
+        "575c27a04682"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "channels.telegram.grouppolicy",
+        "t.me/c/3645702069/1",
+        "pós-reload",
+        "2026-06-05t07",
+        "no-mention",
+        "not-allowed",
+        "openclaw/openclaw.json"
+      ]
+    },
+    "memory:memory/2026-06-05.md:208:222": {
+      "key": "memory:memory/2026-06-05.md:208:222",
+      "path": "memory/2026-06-05.md",
+      "startLine": 208,
+      "endLine": 222,
+      "source": "memory",
+      "snippet": "- 2026-06-05 06:50 UTC: Jadielson pediu no tópico Alfred que fossem configurados os tópicos enviados por link, para que ajudem como agentes conforme o tema do título, sem pressa e sem pedir permissão. - Links recebidos: `224`, `221`, `222`, `219`, `218`, `11` no grupo `Central Pessoal` (`chat_id: -1003740871403`). - Limitação: links `t.me/c/...` são privados; o navegador abriu apenas aviso de grupo privado, sem exibir os títulos. Para não travar, a configuração inicial usa agente genérico por título. - Config aplicada em `/data/.openclaw/openclaw.json` com backup prévio `/data/.openclaw/openclaw.json.bak-central-topicos-20260605T065441Z`: - `alfred` no tópico `1`. - `my-finance`/Warren n",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4051918506622314,
+      "maxScore": 0.4051918506622314,
+      "firstRecalledAt": "2026-06-05T08:16:10.596Z",
+      "lastRecalledAt": "2026-06-05T08:16:10.596Z",
+      "queryHashes": [
+        "575c27a04682"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "chat-id",
+        "t.me/c",
+        "openclaw/openclaw.json",
+        "my-finance",
+        "utc",
+        "jadielson",
+        "pediu"
+      ]
+    },
+    "memory:memory/2026-06-05.md:237:251": {
+      "key": "memory:memory/2026-06-05.md:237:251",
+      "path": "memory/2026-06-05.md",
+      "startLine": 237,
+      "endLine": 251,
+      "source": "memory",
+      "snippet": "- Após Jadielson marcar a bot e enviar “oi” em cada tópico, os `topic_name` reais foram capturados nos logs de runtime: - `224`: Identidade, estilo de vida e visão de futuro → `agentId = identidade-visao-futuro`. - `221`: Liberdade, Lazer, Hobbies e Ócio Criativo → `agentId = liberdade-lazer-ocio`. - `222`: Autoconhecimento → `agentId = autoconhecimento`. - `219`: Saúde, Corpo e Energia → `agentId = saude-corpo-energia`. - `218`: Familia e Relacionamentos → `agentId = familia-relacionamentos`. - `11`: Espiiritualidade e Propósitos → `agentId = espiritualidade-propositos`. - Config alterada diretamente em `/data/.openclaw/openclaw.json`, com backup prévio `/data/.openclaw/openclaw",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4011260449886322,
+      "maxScore": 0.4011260449886322,
+      "firstRecalledAt": "2026-06-05T08:16:10.596Z",
+      "lastRecalledAt": "2026-06-05T08:16:10.596Z",
+      "queryHashes": [
+        "575c27a04682"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "topic-name",
+        "identidade-visao-futuro",
+        "liberdade-lazer-ocio",
+        "saude-corpo-energia",
+        "familia-relacionamentos",
+        "espiritualidade-propositos",
+        "openclaw/openclaw.json"
       ]
     }
   }
