@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T03:58:48.878Z",
+  "updatedAt": "2026-06-05T06:50:24.834Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -982,6 +982,99 @@
         "agents.list",
         "ascom",
         "secretaria"
+      ]
+    },
+    "memory:memory/2026-06-05.md:192:205": {
+      "key": "memory:memory/2026-06-05.md:192:205",
+      "path": "memory/2026-06-05.md",
+      "startLine": 192,
+      "endLine": 205,
+      "source": "memory",
+      "snippet": "- `agents.list[].id = my-finance` - `agents.list[].name = Warren` - tópico Telegram `-1003740871403:topic:12` com `agentId = my-finance`, `requireMention = false`, `groupPolicy = open`. - Ping curto enviado no tópico Warren/My Finance e aviso enviado no tópico Alfred. ## Warren — correção de respostas visíveis automáticas - 2026-06-05 03:59 UTC: verificação mostrou que, após restart, a config ativa voltou sem `messages.groupChat.visibleReplies`, sem `my-finance`/Warren e sem o tópico 12 roteado. - A Lôh reaplicou a configuração diretamente no config ativo, validou com `openclaw config validate`, reiniciou o Gateway e confirmou após restart: - `messages.groupChat.visibleReplies = au",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4089213043451309,
+      "maxScore": 0.4089213043451309,
+      "firstRecalledAt": "2026-06-05T06:50:24.834Z",
+      "lastRecalledAt": "2026-06-05T06:50:24.834Z",
+      "queryHashes": [
+        "c94a0a951e7f"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "gateway",
+        "agents.list",
+        "my-finance",
+        "warren/my",
+        "finance",
+        "name",
+        "warren",
+        "tópico"
+      ]
+    },
+    "memory:memory/2026-06-05.md:178:198": {
+      "key": "memory:memory/2026-06-05.md:178:198",
+      "path": "memory/2026-06-05.md",
+      "startLine": 178,
+      "endLine": 198,
+      "source": "memory",
+      "snippet": "- ASCOM/Secretaria → Cliente Secretaria de Saúde / Conteúdo ou atendimento institucional. - Regra mantida: por enquanto guardar e classificar; não criar/migrar/mover arquivos sem nova autorização de Jadielson. ## Central Pessoal — Warren / Finanças pessoais - 2026-06-05 UTC: Jadielson informou no tópico Alfred que quer chamar o agente de finanças pessoais de **Warren**. - Diagnóstico: o roteamento do tópico `My Finance` (`topic_id: 12`) para `agent_id: my-finance` estava ativo e havia sessão respondendo, mas o nome ainda estava como My Finance e Jadielson reportou que não estava vendo resposta. - Ação: config validada e ajustada para `agents.list[].id = my-finance`, `name = Warren`, `sys",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3868409425020218,
+      "maxScore": 0.3868409425020218,
+      "firstRecalledAt": "2026-06-05T06:50:24.834Z",
+      "lastRecalledAt": "2026-06-05T06:50:24.834Z",
+      "queryHashes": [
+        "c94a0a951e7f"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "ascom/secretaria",
+        "criar/migrar/mover",
+        "topic-id",
+        "agent-id",
+        "my-finance",
+        "agents.list",
+        "ascom",
+        "secretaria"
+      ]
+    },
+    "memory:memory/2026-06-05.md:142:158": {
+      "key": "memory:memory/2026-06-05.md:142:158",
+      "path": "memory/2026-06-05.md",
+      "startLine": 142,
+      "endLine": 158,
+      "source": "memory",
+      "snippet": "- 2026-06-05 UTC: Jadielson avisou no tópico Alfred que chamou a Lôh no tópico `My Finance` e orientou que o debate/definição do agente aconteça pelo Alfred, enquanto o tópico próprio deve ficar configurado. - Contexto Telegram confirmado pelos logs: grupo `Central Pessoal` (`chat_id: -1003740871403`), tópico `My Finance` (`topic_id/thread_id: 12`). - My Finance registrado como agente especialista de finanças pessoais da Central Pessoal, supervisionado por Alfred e integrado à Lôh. - Arquivos atualizados/criados: - `agentes/ARQUITETURA-AGENTES.md` - `agentes/central-pessoal/my-finance.md` - `memory/projects/arquitetura-agentes-central-pessoal/PLAN.md` - Regra inicial: My Finance separa",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36029606759548183,
+      "maxScore": 0.36029606759548183,
+      "firstRecalledAt": "2026-06-05T06:50:24.834Z",
+      "lastRecalledAt": "2026-06-05T06:50:24.834Z",
+      "queryHashes": [
+        "c94a0a951e7f"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "debate/definição",
+        "chat-id",
+        "topic-id/thread-id",
+        "atualizados/criados",
+        "agentes/arquitetura-agentes.md",
+        "utc",
+        "jadielson",
+        "avisou"
       ]
     }
   }

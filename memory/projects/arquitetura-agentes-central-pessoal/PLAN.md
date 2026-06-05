@@ -75,11 +75,13 @@ Configurar a Central Pessoal como primeiro grupo operacional da arquitetura de a
   - Verificação: config/schema/documentação consultados antes de alteração.
   - Estimativa: 20-40min.
   - Depende de: T1.2 e prompts finais.
+  - Progresso: schema consultado em `channels.telegram.groups.*.topics.*` e `agents.list.*`; campos relevantes confirmados: `agentId`, `systemPrompt`, `requireMention`, `groupPolicy`, `agents.list[].systemPromptOverride`.
 
 - [ ] **T4.2** — Aplicar configuração com backup.
   - Verificação: config validada/recarregada, agentes respondendo nos tópicos corretos.
   - Estimativa: 30-60min.
   - Depende de: T4.1.
+  - Progresso: configuração inicial aplicada em 2026-06-05 para Alfred (`1`), Warren (`12`), Arca (`13`) e links enviados (`224`, `221`, `222`, `219`, `218`, `11`) com `central-topic-agent` por título. Backup de config criado antes da alteração.
 
 ## Dependências externas
 
@@ -104,7 +106,8 @@ Configurar a Central Pessoal como primeiro grupo operacional da arquitetura de a
 - Alfred registrado anteriormente como tópico `thread_id/topic_id: 1` no documento de arquitetura.
 - Arca definido por Jadielson como agente especialista do Segundo Cérebro no tópico `thread_id/topic_id: 13`.
 - My Finance confirmado como especialista de finanças pessoais no tópico `thread_id/topic_id: 12`; prompt inicial salvo em `agentes/ARQUITETURA-AGENTES.md`.
-- Próximo passo recomendado: calibrar My Finance no próprio tópico e capturar/registrar IDs dos especialistas restantes.
+- Links enviados por Jadielson em 2026-06-05 foram configurados tecnicamente como tópicos temáticos por título: `224`, `221`, `222`, `219`, `218`, `11`, todos apontando inicialmente para `central-topic-agent`.
+- Próximo passo recomendado: quando Jadielson voltar, revisar o título real de cada tópico e decidir quais continuam genéricos por título e quais ganham persona fixa/nome próprio.
 
 ---
 
