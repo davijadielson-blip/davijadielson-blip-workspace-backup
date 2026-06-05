@@ -32,11 +32,13 @@ Configurar a Central Pessoal como primeiro grupo operacional da arquitetura de a
   - Verificação: lista final aprovada por Jadielson.
   - Estimativa: 10min.
   - Depende de: nenhuma.
+  - Progresso: Alfred confirmado como General da Central Pessoal; Arca confirmado como agente do Segundo Cérebro.
 
 - [ ] **T1.2** — Capturar `thread_id/topic_id` de cada tópico da Central Pessoal.
   - Verificação: cada agente com tópico registrado em `agentes/ARQUITETURA-AGENTES.md`.
   - Estimativa: 15-30min.
   - Depende de: Jadielson mandar mensagem em cada tópico ou informar os IDs.
+  - Progresso: Alfred registrado como `topic_id: 1`; Arca / Segundo Cérebro registrado como `topic_id: 13`.
 
 ### Fase 2: Prompts e limites
 
@@ -100,7 +102,8 @@ Configurar a Central Pessoal como primeiro grupo operacional da arquitetura de a
 - Alfred já foi definido por Jadielson como General da Central Pessoal.
 - Chat da Central Pessoal conhecido: `-1003740871403`.
 - Alfred registrado anteriormente como tópico `thread_id/topic_id: 1` no documento de arquitetura.
-- Próximo passo recomendado: confirmar nomes finais dos 5 tópicos e capturar/registrar IDs dos especialistas.
+- Arca definido por Jadielson como agente especialista do Segundo Cérebro no tópico `thread_id/topic_id: 13`.
+- Próximo passo recomendado: confirmar nomes finais dos demais tópicos e capturar/registrar IDs dos especialistas restantes.
 
 ---
 
