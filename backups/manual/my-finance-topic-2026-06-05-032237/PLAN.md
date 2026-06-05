@@ -38,7 +38,7 @@ Configurar a Central Pessoal como primeiro grupo operacional da arquitetura de a
   - Verificação: cada agente com tópico registrado em `agentes/ARQUITETURA-AGENTES.md`.
   - Estimativa: 15-30min.
   - Depende de: Jadielson mandar mensagem em cada tópico ou informar os IDs.
-  - Progresso: Alfred registrado como `topic_id: 1`; Arca / Segundo Cérebro registrado como `topic_id: 13`; My Finance registrado como `topic_id: 12`.
+  - Progresso: Alfred registrado como `topic_id: 1`; Arca / Segundo Cérebro registrado como `topic_id: 13`.
 
 ### Fase 2: Prompts e limites
 
@@ -103,8 +103,7 @@ Configurar a Central Pessoal como primeiro grupo operacional da arquitetura de a
 - Chat da Central Pessoal conhecido: `-1003740871403`.
 - Alfred registrado anteriormente como tópico `thread_id/topic_id: 1` no documento de arquitetura.
 - Arca definido por Jadielson como agente especialista do Segundo Cérebro no tópico `thread_id/topic_id: 13`.
-- My Finance confirmado como especialista de finanças pessoais no tópico `thread_id/topic_id: 12`; prompt inicial salvo em `agentes/ARQUITETURA-AGENTES.md`.
-- Próximo passo recomendado: calibrar My Finance no próprio tópico e capturar/registrar IDs dos especialistas restantes.
+- Próximo passo recomendado: confirmar nomes finais dos demais tópicos e capturar/registrar IDs dos especialistas restantes.
 
 ---
 
