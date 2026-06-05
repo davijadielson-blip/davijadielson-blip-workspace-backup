@@ -123,3 +123,28 @@ Implantar uma Central de Pesquisa LÓGIKA que reúna fontes internas, referênci
   - Verificação: plugin `tavily` habilitado, chave configurada e busca teste retornando resultado.
   - Estimativa: 30min.
   - Depende de: Jadielson gerar/enviar API key Tavily.
+
+## Atualização — arquitetura enxuta sem depender do Notion
+
+- Jadielson decidiu reduzir ao máximo o uso do Notion para a Central de Pesquisa.
+- Notion deve ficar prioritariamente para grade de produção e execução.
+- Links/referências podem ser analisados por agentes e armazenados como textos leves em Vault F2 e/ou GitHub/workspace.
+- Google Drive será a base operacional da Secretária para arquivos, CRM, banco de clientes e materiais migrados do OneDrive.
+- Jadielson criará apenas a pasta principal no Drive e jogará os arquivos; Clara/Secretária deve organizar depois.
+
+### Tarefas ajustadas
+
+- [ ] **T1.1-ajustada** — Padronizar tópicos/agentes de pesquisa sob Jarvis: Referências, Redes Sociais/Métricas, Bases Públicas, CRM/Banco de Clientes.
+  - Verificação: tópicos existentes mapeados ou novos tópicos criados/configurados.
+  - Estimativa: 1h.
+  - Depende de: Jadielson confirmar/criar tópicos no Telegram.
+
+- [ ] **T1.2-ajustada** — Criar instrução operacional para Clara organizar a pasta principal `LÓGIKA` no Drive.
+  - Verificação: Clara instruída a auditar e propor estrutura sem excluir permanentemente.
+  - Estimativa: 30min.
+  - Depende de: pasta criada e arquivos migrados.
+
+- [ ] **T2.4** — Criar template markdown para análise de links/referências.
+  - Verificação: template salvo em `pesquisa/templates/` ou `contextos/`.
+  - Estimativa: 20min.
+  - Depende de: nenhuma.

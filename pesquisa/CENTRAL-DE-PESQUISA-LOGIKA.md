@@ -428,3 +428,87 @@ Views iniciais:
 - Para estudar
 - Encaminhadas
 - Aproveitadas
+
+## Decisão arquitetural — reduzir dependência do Notion
+
+Jadielson propôs e a Lôh concorda: como links são essencialmente texto/contexto, eles podem ser analisados pelos próprios agentes e armazenados em **Vault e/ou GitHub/workspace**, reduzindo a dependência do Notion.
+
+Nova diretriz:
+
+- **Notion** fica prioritariamente para grade de produção, execução e visualização operacional.
+- **Vault F2** guarda estudos, análises, sínteses, aprendizados e outputs dos agentes.
+- **GitHub/workspace** guarda documentos leves, índices, processos, prompts, mapas e análises versionáveis.
+- **Google Drive** vira base operacional da Secretária para arquivos de cliente, CRM, banco de clientes, documentos, planilhas, relatórios e materiais migrados do OneDrive.
+- **Google Sheets/Drive** podem ser usados para CRM e banco de clientes, facilitando manuseio pela Secretária.
+
+## Tópicos/agentes recomendados para pesquisa e bases
+
+Além do tópico já existente de Referências/Inspirações, criar ou padronizar tópicos específicos sob Jarvis:
+
+1. **Referências/Inspirações**
+   - Links, prints, downloads, campanhas, ideias criativas.
+   - Saída: análise curta + encaminhamento para Marketing/Produção/Comercial/cliente.
+
+2. **Redes Sociais & Métricas**
+   - Instagram, Meta Business, YouTube, TikTok, Google Analytics/Search Console quando conectados.
+   - Saída: leitura de performance, padrões, oportunidades e recomendações.
+
+3. **Bases Públicas & Dados Oficiais**
+   - IBGE, DataSUS, portais oficiais, prefeitura, câmara, legislação, notícias públicas relevantes.
+   - Saída: contexto confiável para conteúdo institucional, campanhas e propostas.
+
+4. **CRM & Banco de Clientes**
+   - Leads, clientes, contatos, histórico, status, propostas, briefings e materiais.
+   - Preferência de armazenamento: Google Drive/Sheets, com organização pela Secretária.
+
+## Estrutura simplificada do Drive
+
+Jadielson decidiu criar apenas a pasta principal e jogar os arquivos iniciais nela. Isso é aceitável e prático, desde que Clara/Secretária assuma a organização posterior.
+
+Pasta principal sugerida:
+
+```text
+LÓGIKA
+```
+
+Fluxo:
+
+```text
+Jadielson cria pasta LÓGIKA
+→ joga arquivos migrados do OneDrive na raiz ou em uma Inbox simples
+→ Clara audita e organiza
+→ Jarvis valida estrutura estratégica quando necessário
+```
+
+Regra da Secretária:
+- Pode organizar, renomear classificações internas, propor pastas e criar estrutura sob comando.
+- Não deve excluir permanentemente arquivos.
+- Movimentações amplas/irreversíveis devem ser propostas antes, ou executadas em lote controlado se Jadielson autorizar claramente.
+
+## Formato recomendado para armazenar análises de links no Vault/GitHub
+
+Para cada referência ou link relevante, o agente pode criar um markdown leve:
+
+```markdown
+# Referência: {título}
+
+- Link:
+- Fonte/plataforma:
+- Data de captura:
+- Frente/cliente:
+- Tipo:
+- Resumo:
+- O que aproveitar:
+- O que evitar:
+- Encaminhamento recomendado:
+- Status:
+```
+
+Destinos:
+
+```text
+Vault F2: estudos e análises vivas dos agentes
+workspace/contextos: bancos de contexto e índices leves
+workspace/pesquisa: mapas, listas e planos de pesquisa
+Drive: arquivos anexos, prints, PDFs, relatórios e mídia
+```
