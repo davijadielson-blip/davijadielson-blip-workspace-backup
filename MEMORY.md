@@ -263,6 +263,7 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - Documento atualizado: `/data/.openclaw/workspace/agentes/ARQUITETURA-AGENTES.md` v0.3.
 - 2026-06-04: Jadielson escolheu **Alfred** como nome do General/coordenador local da **Central Pessoal**. Alfred deve operar como coordenador discreto da casa pessoal: coordenação, supervisão e treinamento dos demais agentes. Alfred não deve ser tratado como executor especialista; sua função é organizar atribuições, poderes, limites, fluxos e encaminhamentos, acionando a Lôh quando a demanda for transversal, de arquitetura, memória central ou configuração.
 - 2026-06-04: Jadielson escolheu **Jarvis** como nome do General/coordenador local da **LÓGIKA/empresa**. Jarvis deve operar como coordenador estratégico-operacional da empresa: triagem de demandas, clientes, projetos, propostas, produção, entregas, prioridades comerciais e acionamento da Lôh quando a demanda for transversal, de arquitetura, memória central ou configuração.
+- 2026-06-05 UTC / 2026-06-04 America/Maceio: Jadielson escolheu **Arca** como nome do agente especialista do **Segundo Cérebro** na Central Pessoal. Arca fica supervisionada por Alfred e integrada à Lôh; função: sistema de conhecimento, capturas, outputs F2, mapas, candidatos à Colheita e revisões semanais.
 
 ## Google Workspace via gog CLI — estado final autorizado
 
