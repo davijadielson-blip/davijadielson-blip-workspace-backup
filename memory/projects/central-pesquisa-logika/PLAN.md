@@ -103,3 +103,23 @@ Implantar uma Central de Pesquisa LÓGIKA que reúna fontes internas, referênci
 ---
 
 *Atualizar este arquivo conforme execução. Não criar arquivo novo — versionar este.*
+
+## Atualização — decisões de Jadielson em 2026-06-05
+
+- Redes sociais: começar por links/prints/downloads/anotações/exportações; APIs ficam para depois.
+- Notion: criar grade/database para links de referência e dados públicos.
+- OneDrive: migrar preferencialmente para Google Drive, não GitHub.
+- Referências: criar tópico/agente próprio para captar, estudar e encaminhar referências.
+- Tavily: Jadielson está disposto a habilitar; próximo passo é gerar API key em https://app.tavily.com/home.
+
+### Nova tarefa
+
+- [ ] **T1.4** — Criar tópico/agente `Radar` ou nome equivalente para Referências & Pesquisa.
+  - Verificação: tópico configurado, prompt definido e primeiro teste com link/print executado.
+  - Estimativa: 45min.
+  - Depende de: Jadielson confirmar nome/tópico ou enviar/criar tópico no Telegram.
+
+- [ ] **T4.3** — Ativar Tavily.
+  - Verificação: plugin `tavily` habilitado, chave configurada e busca teste retornando resultado.
+  - Estimativa: 30min.
+  - Depende de: Jadielson gerar/enviar API key Tavily.

@@ -272,3 +272,78 @@ Antes de responder pedidos estratégicos da LÓGIKA, consultar na ordem:
 4. Dados públicos oficiais quando envolver comunicação institucional, saúde, município, política pública ou vendas para órgão público.
 
 Nunca depender só de uma fonte quando a decisão for importante.
+
+## Decisão complementar — 2026-06-05
+
+Jadielson confirmou o desenho operacional:
+
+- Redes sociais começam por fluxo manual/semiautomático: links, prints, downloads quando necessário, anotações e relatórios/exportações. APIs ficam para uma fase posterior.
+- Notion será usado como grade/agregador principal para links de referência e dados públicos.
+- Arquivos que hoje estão no OneDrive devem migrar preferencialmente para Google Drive, especialmente documentos, planilhas, PDFs, mídia e materiais de cliente.
+- GitHub fica reservado para arquivos leves/versionáveis: markdowns, processos, prompts, planos e documentação técnica.
+- Vault segue como lugar de inteligência e síntese, não como depósito bruto de mídia.
+- Referências devem ter um tópico/agente próprio para captura, estudo, classificação e encaminhamento ao setor pertinente.
+
+## Agente/tópico recomendado — Referências & Pesquisa
+
+Nome sugerido: **Radar**.
+
+Função:
+- Receber links, prints, downloads e anotações de referências.
+- Classificar cada entrada por cliente/frente, formato, tema, objetivo e potencial de uso.
+- Fazer estudo curto: por que isso importa, o que adaptar, o que evitar, para qual setor encaminhar.
+- Encaminhar para Jarvis/Clara/Marketing/Comercial/Produção conforme o caso.
+- Manter a grade Notion `Central de Pesquisa — LÓGIKA` organizada.
+
+Fluxo ideal:
+
+```text
+Jadielson manda referência no tópico Radar
+→ Radar classifica
+→ salva/solicita cadastro na Central de Pesquisa
+→ produz nota curta de estudo
+→ encaminha para setor pertinente
+```
+
+Campos mínimos para cada referência:
+- Título
+- Link ou arquivo/print no Drive
+- Fonte/plataforma
+- Cliente/frente
+- Tipo/formato
+- Por que chamou atenção
+- O que pode ser adaptado
+- Risco/cuidados
+- Encaminhamento recomendado
+- Status: bruto, triado, estudado, encaminhado, aproveitado, arquivado
+
+## Dados públicos
+
+Dados públicos também entram no Notion como agregador, mas com preferência por fonte oficial.
+
+Formato recomendado:
+- Link oficial
+- Órgão/fonte
+- Tema
+- Cliente/frente relacionada
+- Resumo em linguagem simples
+- Possível uso em conteúdo/campanha/venda
+- Arquivo local no Drive quando for relatório/PDF importante
+
+## Tavily — habilitação
+
+Link para criar/acessar conta e gerar chave:
+
+- https://app.tavily.com/home
+
+Documentação oficial:
+
+- https://docs.tavily.com/documentation/quickstart
+
+Depois que Jadielson gerar a API key, deve enviar a chave para a Lôh por canal seguro/privado. A Lôh então configura o plugin `tavily`, ativa o provider e faz smoke test.
+
+Estado atual verificado:
+- Plugin `tavily` instalado/bundled no OpenClaw.
+- Estado: `disabled`.
+- Caminho de config esperado: `plugins.entries.tavily.config.webSearch.apiKey`.
+- Provider opcional: `tools.web.search.provider = tavily`.
