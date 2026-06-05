@@ -347,3 +347,84 @@ Estado atual verificado:
 - Estado: `disabled`.
 - Caminho de config esperado: `plugins.entries.tavily.config.webSearch.apiKey`.
 - Provider opcional: `tools.web.search.provider = tavily`.
+
+## Ajuste — tópico de referências já existe
+
+Jadielson confirmou que no grupo da LÓGIKA já existe um tópico voltado a novidades/referências/inspirações. Portanto, a recomendação não é criar outro tópico do zero, mas **treinar e padronizar o tópico existente** para funcionar como agente de captura, estudo e encaminhamento de referências.
+
+Na arquitetura atual da LÓGIKA, o tópico `474` está mapeado como **Referências/Inspirações**. Esse tópico pode assumir a função proposta para o agente `Radar`, mantendo ou ajustando o nome conforme Jadielson preferir.
+
+Fluxo recomendado:
+
+```text
+Referência enviada no tópico Referências/Inspirações
+→ agente classifica e estuda
+→ registra na Central de Pesquisa/Notion quando aplicável
+→ aponta destino: Marketing, Comercial, Produção, Cliente específico, Clara ou Jarvis
+```
+
+## Estrutura recomendada no Google Drive
+
+Criar uma pasta raiz clara da empresa:
+
+```text
+LÓGIKA/
+  00_Central_de_Pesquisa/
+    00_Inbox/
+    01_Referencias_e_Inspiracoes/
+    02_Dados_Publicos/
+    03_Relatorios_e_Metricas/
+    04_Prompts_e_Comandos/
+  01_Clientes/
+    Secretaria_de_Saude/
+    Camara_Municipal/
+    SINDSS/
+    Outros/
+  02_Comercial/
+    Propostas/
+    Planos_de_Servico/
+    Leads_e_CRM/
+  03_Producao/
+    Roteiros/
+    Briefings/
+    Materiais_Brutos/
+    Entregas/
+  04_Marca_Logika/
+    Identidade_Visual/
+    Portfolio/
+    Apresentacoes/
+  99_Arquivo/
+```
+
+Regra: arquivos migrados do OneDrive entram primeiro em `00_Inbox/` ou na pasta do cliente/frente correspondente. Depois Clara/Jarvis podem ajudar a reorganizar.
+
+## Estrutura recomendada no Notion
+
+Criar uma **database**, não apenas uma página simples, com o nome:
+
+**Central de Pesquisa — LÓGIKA**
+
+A página pode existir como “capa”, mas o centro operacional deve ser database para permitir filtros, tags e views.
+
+Campos mínimos:
+- Nome
+- Tipo
+- Frente
+- Cliente
+- Link
+- Arquivo no Drive
+- Fonte/plataforma
+- Tags
+- Observação estratégica
+- Encaminhamento
+- Status
+- Data de captura
+
+Views iniciais:
+- Inbox
+- Referências/Inspirações
+- Dados Públicos
+- Por Cliente
+- Para estudar
+- Encaminhadas
+- Aproveitadas
