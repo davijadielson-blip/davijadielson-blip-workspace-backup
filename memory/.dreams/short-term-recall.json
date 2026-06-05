@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T16:05:31.097Z",
+  "updatedAt": "2026-06-05T16:27:30.911Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -325,18 +325,20 @@
       "endLine": 19,
       "source": "memory",
       "snippet": "## Vault Segundo Cérebro — princípios operacionais adotados - 2026-06-01: Jadielson conectou o repositório GitHub `davijadielson-blip/segundo-cerebro-jadielson` como cópia local em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson`. - Princípio permanente do vault, confirmado no `CLAUDE.md` seção 4: seguir os 3 Fluxos + 4 Camadas. - Fluxo 1 / “Seu Cérebro” (`[F1] ...`): só Jadielson escreve; Lôh/IA apenas lê, salvo pedido explícito. - Fluxo 2 / “Cérebro da IA” (`[F2] memory/`): IA pode criar, editar e organizar com autonomia. - Fluxo 3 / Integração: acontece por evento de “Colheita”; IA lê F1 e sugere, Jadielson lê F2 e transforma em nota autoral no F1. - Regra prática: sem Colhe",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.507957699894905,
+      "totalScore": 0.8780511379241942,
       "maxScore": 0.507957699894905,
       "firstRecalledAt": "2026-06-01T21:30:08.839Z",
-      "lastRecalledAt": "2026-06-01T21:30:08.839Z",
+      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
       "queryHashes": [
-        "40f68bcf5de9"
+        "40f68bcf5de9",
+        "b3039f93f9dc"
       ],
       "recallDays": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-05"
       ],
       "conceptTags": [
         "claude.md",
@@ -930,15 +932,17 @@
       "endLine": 214,
       "source": "memory",
       "snippet": "- Escopos finais para empresa e pessoal: Calendar com escrita (`calendar`), Docs com escrita (`documents`), Sheets com escrita (`spreadsheets`), Gmail somente leitura (`gmail.readonly`) e Drive somente leitura (`drive.readonly`). - Validação: `gog auth list --check` mostrou tokens legíveis para empresa e pessoal com serviços `calendar,docs,drive,gmail,sheets`; a conta Lôh permanece com `calendar,contacts,docs,drive,gmail,sheets` em leitura. - Teste Calendar: empresa respondeu `No events`; pessoal retornou evento futuro, confirmando leitura funcional. Detalhes pessoais não foram registrados por privacidade. - Regra operacional: autonomia da Secretária pode incluir criar/alterar eventos e alte",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.36722448468208313,
-      "maxScore": 0.36722448468208313,
+      "totalScore": 1.2094032019376755,
+      "maxScore": 0.4464228510856628,
       "firstRecalledAt": "2026-06-05T03:15:24.969Z",
-      "lastRecalledAt": "2026-06-05T03:15:24.969Z",
+      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
       "queryHashes": [
-        "7de9cdd8218a"
+        "7de9cdd8218a",
+        "257e95507b2a",
+        "b3039f93f9dc"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1499,15 +1503,17 @@
       "endLine": 162,
       "source": "memory",
       "snippet": "- Inbox — Por Frente/Cliente. - Produção & Agenda — Esta semana. - Produção & Agenda — Por cliente. - Central LÓGIKA atualizada com decisão v0.6 e registro das views/teste. - Observação: rotina manual do cron foi enfileirada para teste, mas o histórico do cron ainda não retornou entrada imediata; validação direta pela API passou. ## Google Workspace via gog CLI — conta restrita Lôh - 2026-06-04: Jadielson autorizou instalar e configurar o `gog` CLI para Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, Contacts), com princípio A5/A10: agente confirma antes de enviar e-mail, criar evento ou fazer ações de escrita. - `gog` não estava instalado; instalado via Homebrew (`openclaw/t",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.42891456484794616,
+      "totalScore": 1.2190769463777542,
       "maxScore": 0.42891456484794616,
       "firstRecalledAt": "2026-06-05T16:05:31.097Z",
-      "lastRecalledAt": "2026-06-05T16:05:31.097Z",
+      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
       "queryHashes": [
-        "cb7f18295d9e"
+        "cb7f18295d9e",
+        "257e95507b2a",
+        "b3039f93f9dc"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1552,6 +1558,227 @@
         "gmail.com",
         "criação/edição",
         "google"
+      ]
+    },
+    "memory:memory/2026-06-05.md:341:348": {
+      "key": "memory:memory/2026-06-05.md:341:348",
+      "path": "memory/2026-06-05.md",
+      "startLine": 341,
+      "endLine": 348,
+      "source": "memory",
+      "snippet": "- 2026-06-05 16:06 UTC: Jadielson reportou que Clara recebeu autorização operacional do Jarvis para acessar/auditar centrais integradas, mas respondeu que não tinha acesso técnico porque o navegador logado não conectava, o navegador gerenciado pedia login e ela “não encontrou conector Workspace”. - Diagnóstico da Lôh: o conector Google Workspace existe e está funcional via `gog`; Clara estava tentando pelo caminho errado (browser/Chrome) e não tinha instrução explícita no seu tópico/workspace. - Validação técnica executada: `gog auth list --check` confirmou contas `davijadielson@gmail.com`, `logikacreative.mkt@gmail.com`, `loh.open.logika@gmail.com`; teste de Calendar pessoal funcionou; test",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9015277683734894,
+      "maxScore": 0.467364627122879,
+      "firstRecalledAt": "2026-06-05T16:27:23.659Z",
+      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "queryHashes": [
+        "257e95507b2a",
+        "b3039f93f9dc"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "acessar/auditar",
+        "browser/chrome",
+        "tópico/workspace",
+        "gmail.com",
+        "logikacreative.mkt",
+        "loh.open.logika",
+        "utc",
+        "jadielson"
+      ]
+    },
+    "memory:memory/2026-06-05.md:345:363": {
+      "key": "memory:memory/2026-06-05.md:345:363",
+      "path": "memory/2026-06-05.md",
+      "startLine": 345,
+      "endLine": 363,
+      "source": "memory",
+      "snippet": "- Workspace Jarvis atualizado: criado `/data/.openclaw/workspace-jarvis/GOOGLE_WORKSPACE.md`; `TOPICOS_COORDENACAO.md` atualizado para marcar tópico 6 como “Secretária / Agenda / Execução / Clara” com auditoria Workspace via `gog`. - Backup da configuração: `/data/.openclaw/openclaw.json.bak-clara-gog-20260605T160628Z`. - Aviso enviado no tópico 6 da LÓGIKA para Clara/Jarvis com o caminho técnico correto, mensagem Telegram `810`. ## Clara / Secretária — verificação final pós-restart - 2026-06-05 16:12 UTC: Jadielson pediu para salvar ao concluir a correção da Clara/Google Workspace. - Restart limpo executado após reload deferido; Gateway voltou com processo `openclaw` novo e `Telegram` em",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8519756078720092,
+      "maxScore": 0.4601910859346389,
+      "firstRecalledAt": "2026-06-05T16:27:23.659Z",
+      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "queryHashes": [
+        "257e95507b2a",
+        "b3039f93f9dc"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "gateway",
+        "topicos-coordenacao.md",
+        "clara/jarvis",
+        "pós-restart",
+        "clara/google",
+        "jarvis",
+        "atualizado"
+      ]
+    },
+    "memory:memory/2026-06-05.md:359:371": {
+      "key": "memory:memory/2026-06-05.md:359:371",
+      "path": "memory/2026-06-05.md",
+      "startLine": 359,
+      "endLine": 371,
+      "source": "memory",
+      "snippet": "- Decisão de segurança: resultados brutos de auditoria/calendário/Drive em `.audit/` não foram versionados para evitar salvar dados sensíveis no git sem necessidade explícita. ## Clara — solicitação Drive readonly amplo para auditoria estrutural - 2026-06-05 16:17 UTC: Jadielson autorizou liberar/validar para Clara escopo de Drive mais amplo para auditoria estrutural, sem permissão destrutiva. - Diagnóstico: escopo atual `drive.file` funciona, mas é insuficiente para auditoria estrutural; `gog drive inventory` na conta LÓGIKA retornou apenas arquivo criado pelo app, confirmando limitação prática. - Escopo alvo preparado: `drive.readonly` via `gog auth add ... --drive-scope readonly --gmail",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.43925811350345606,
+      "maxScore": 0.43925811350345606,
+      "firstRecalledAt": "2026-06-05T16:27:23.659Z",
+      "lastRecalledAt": "2026-06-05T16:27:23.659Z",
+      "queryHashes": [
+        "257e95507b2a"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "auditoria/calendário/drive",
+        "liberar/validar",
+        "drive.file",
+        "drive.readonly",
+        "drive-scope",
+        "decisão",
+        "segurança",
+        "resultados"
+      ]
+    },
+    "memory:memory/2026-06-05.md:367:379": {
+      "key": "memory:memory/2026-06-05.md:367:379",
+      "path": "memory/2026-06-05.md",
+      "startLine": 367,
+      "endLine": 379,
+      "source": "memory",
+      "snippet": "- Helper criado: `scripts/finalizar-drive-readonly-clara.sh <email> <redirect-url>` para concluir `--remote --step 2`, validar `gog auth list --check` e fazer smoke test `drive inventory`. ## Clara — Drive readonly amplo validado para LÓGIKA - 2026-06-05 16:23 UTC: Jadielson autorizou OAuth com a conta `logikacreative.mkt@gmail.com` para escopo `drive.readonly` amplo, Gmail readonly e demais serviços já usados. - Finalização: `scripts/finalizar-drive-readonly-clara.sh logikacreative.mkt@gmail.com <redirect-url>` concluiu com sucesso; `gog auth list --check` mostrou `logikacreative.mkt@gmail.com` válido em `2026-06-05T16:23:41Z`. - Validação concreta: `gog --account logikacreative.mkt@gmail",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4314349830150604,
+      "maxScore": 0.4314349830150604,
+      "firstRecalledAt": "2026-06-05T16:27:23.659Z",
+      "lastRecalledAt": "2026-06-05T16:27:23.659Z",
+      "queryHashes": [
+        "257e95507b2a"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "redirect-url",
+        "logikacreative.mkt",
+        "gmail.com",
+        "drive.readonly",
+        "2026-06-05t16",
+        "helper",
+        "criado",
+        "scripts"
+      ]
+    },
+    "memory:memory/2026-06-05.md:375:383": {
+      "key": "memory:memory/2026-06-05.md:375:383",
+      "path": "memory/2026-06-05.md",
+      "startLine": 375,
+      "endLine": 383,
+      "source": "memory",
+      "snippet": "- Workspace Jarvis atualizado em `GOOGLE_WORKSPACE.md`; config de Jarvis/tópico 6 atualizada com a regra `ATUALIZAÇÃO DE ESCOPO DRIVE PARA CLARA`. - Backup da config: `/data/.openclaw/openclaw.json.bak-clara-drive-readonly-$(date -u +%Y%m%dT%H%M%SZ)` (ver arquivos `.bak-clara-drive-readonly-*`). ## Fechamento — Drive readonly Clara salvo - 2026-06-05 16:25 UTC: Após confirmação do restart do Gateway, Jadielson pediu “salve tudo quando concluir”. - Verificação final: `logikacreative.mkt@gmail.com` permanece válido no `gog auth list --check`; config contém instruções de Google Workspace/Drive readonly amplo no prompt base do Jarvis e no tópico 6/Clara; `tools.sessions.visibility=agent` perma",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8267915785312652,
+      "maxScore": 0.42739008069038387,
+      "firstRecalledAt": "2026-06-05T16:27:23.659Z",
+      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "queryHashes": [
+        "257e95507b2a",
+        "b3039f93f9dc"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "gateway",
+        "google-workspace.md",
+        "jarvis/tópico",
+        "bak-clara-drive-readonly",
+        "logikacreative.mkt",
+        "gmail.com",
+        "workspace/drive"
+      ]
+    },
+    "memory:memory/2026-06-05.md:334:342": {
+      "key": "memory:memory/2026-06-05.md:334:342",
+      "path": "memory/2026-06-05.md",
+      "startLine": 334,
+      "endLine": 342,
+      "source": "memory",
+      "snippet": "- Logs já confirmavam atividade em `agent:jarvis:telegram:group:-1003645702069:topic:` para `1,5,8,10,12,13,14,96,474,550,551`; logo o diagnóstico “não roteados” estava incorreto para vários tópicos. - Causa adicional identificada: Jarvis estava usando `sessions_list`/sessões visíveis como prova de roteamento. A ferramenta tinha visibilidade restrita, então a partir do `topic:1` ele podia não enxergar outras sessões/tópicos mesmo estando configurados. - Correção aplicada em `/data/.openclaw/openclaw.json`: `tools.sessions.visibility=agent` para permitir que um agente veja sessões do próprio agente, e reforço no `systemPromptOverride` do Jarvis com mapa obrigatório dos tópicos da LÓGIKA e reg",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7986868798732757,
+      "maxScore": 0.42332293987274167,
+      "firstRecalledAt": "2026-06-05T16:27:23.659Z",
+      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "queryHashes": [
+        "257e95507b2a",
+        "b3039f93f9dc"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "sessions-list",
+        "sessões/tópicos",
+        "openclaw/openclaw.json",
+        "tools.sessions.visibility",
+        "logs",
+        "confirmavam",
+        "atividade",
+        "agent:jarvis:telegram:group"
+      ]
+    },
+    "memory:memory/2026-06-05.md:71:87": {
+      "key": "memory:memory/2026-06-05.md:71:87",
+      "path": "memory/2026-06-05.md",
+      "startLine": 71,
+      "endLine": 87,
+      "source": "memory",
+      "snippet": "- 1 `Calendário Editorial antigo` (`1d8207e6-f145-8153-99c1-f5ae2b4e4e23`). - 1 `Agenda de Eventos - Secretaria Municipal de Saúde` (`30d207e6-f145-809d-838a-cdf7bb477adf`). - 1 `Ideias antiga` (`312207e6-f145-8126-9ed5-d5c4cbce1b7f`). - Resultado verificado: - Arquivadas com sucesso: 26 `Método CIPA`, 6 `Calendário 2024`, 1 `Ideias antiga` = 33 databases. - Não arquivadas por permissão insuficiente de teamspace: `Calendário Editorial antigo` e `Agenda de Eventos - Secretaria Municipal de Saúde`. - Mensagem Notion nos bloqueios: `Cannot change teamspace pages: insufficient permissions`. - Próxima ação: Jadielson precisa arquivar manualmente essas 2 no Notion ou ajustar permissão da",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38792810440063474,
+      "maxScore": 0.38792810440063474,
+      "firstRecalledAt": "2026-06-05T16:27:30.911Z",
+      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "queryHashes": [
+        "b3039f93f9dc"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "calendário",
+        "editorial",
+        "antigo",
+        "1d8207e6",
+        "f145",
+        "99c1",
+        "f5ae2b4e4e23",
+        "agenda"
       ]
     }
   }
