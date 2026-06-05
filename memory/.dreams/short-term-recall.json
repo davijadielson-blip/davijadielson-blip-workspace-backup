@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T08:23:47.254Z",
+  "updatedAt": "2026-06-05T16:05:31.097Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -898,15 +898,16 @@
       "endLine": 218,
       "source": "memory",
       "snippet": "- Próximo foco sugerido: aguardar uso real/rotina das 17h e integração do Google Agenda via Starter Kit antes de definir por completo a Secretária — Agenda e Execução. ## Google Workspace via gog CLI — Contacts e testes controlados - 2026-06-04: Jadielson decidiu deixar a instrução detalhada da Secretária para o final, mas pediu registrar tudo feito até aqui. - Contacts foi corrigido/reautorizado para empresa `logikacreative.mkt@gmail.com` e pessoal `davijadielson@gmail.com` por escopos extras de leitura: `contacts.readonly`, `contacts.other.readonly` e `directory.readonly`, mantendo Calendar/Docs/Sheets com escrita e Gmail/Drive restritos conforme política. - Validação Contacts: empresa r",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.377383616566658,
-      "maxScore": 0.377383616566658,
+      "totalScore": 0.8177594751119612,
+      "maxScore": 0.4403758585453033,
       "firstRecalledAt": "2026-06-05T03:15:24.969Z",
-      "lastRecalledAt": "2026-06-05T03:15:24.969Z",
+      "lastRecalledAt": "2026-06-05T16:05:31.097Z",
       "queryHashes": [
-        "7de9cdd8218a"
+        "7de9cdd8218a",
+        "cb7f18295d9e"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1053,15 +1054,16 @@
       "endLine": 158,
       "source": "memory",
       "snippet": "- 2026-06-05 UTC: Jadielson avisou no tópico Alfred que chamou a Lôh no tópico `My Finance` e orientou que o debate/definição do agente aconteça pelo Alfred, enquanto o tópico próprio deve ficar configurado. - Contexto Telegram confirmado pelos logs: grupo `Central Pessoal` (`chat_id: -1003740871403`), tópico `My Finance` (`topic_id/thread_id: 12`). - My Finance registrado como agente especialista de finanças pessoais da Central Pessoal, supervisionado por Alfred e integrado à Lôh. - Arquivos atualizados/criados: - `agentes/ARQUITETURA-AGENTES.md` - `agentes/central-pessoal/my-finance.md` - `memory/projects/arquitetura-agentes-central-pessoal/PLAN.md` - Regra inicial: My Finance separa",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.36029606759548183,
-      "maxScore": 0.36029606759548183,
+      "totalScore": 0.7406728476285933,
+      "maxScore": 0.38037678003311154,
       "firstRecalledAt": "2026-06-05T06:50:24.834Z",
-      "lastRecalledAt": "2026-06-05T06:50:24.834Z",
+      "lastRecalledAt": "2026-06-05T08:31:28.076Z",
       "queryHashes": [
-        "c94a0a951e7f"
+        "c94a0a951e7f",
+        "039f638e67fe"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1084,15 +1086,17 @@
       "endLine": 210,
       "source": "memory",
       "snippet": "- `agents.list[].id = my-finance` - `agents.list[].name = Warren` - tópico Telegram `-1003740871403:topic:12` com `agentId = my-finance`, `requireMention = false`, `groupPolicy = open`. - Ping curto enviado no tópico Warren/My Finance e aviso enviado no tópico Alfred. ## Warren — correção de respostas visíveis automáticas - 2026-06-05 03:59 UTC: verificação mostrou que, após restart, a config ativa voltou sem `messages.groupChat.visibleReplies`, sem `my-finance`/Warren e sem o tópico 12 roteado. - A Lôh reaplicou a configuração diretamente no config ativo, validou com `openclaw config validate`, reiniciou o Gateway e confirmou após restart: - `messages.groupChat.visibleReplies = au",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.437463304400444,
+      "totalScore": 1.1979052752256392,
       "maxScore": 0.437463304400444,
       "firstRecalledAt": "2026-06-05T07:24:44.854Z",
-      "lastRecalledAt": "2026-06-05T07:24:44.854Z",
+      "lastRecalledAt": "2026-06-05T08:31:28.076Z",
       "queryHashes": [
-        "55074d955b1f"
+        "55074d955b1f",
+        "9d7481f054dc",
+        "039f638e67fe"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1146,15 +1150,17 @@
       "endLine": 222,
       "source": "memory",
       "snippet": "- 2026-06-05 06:50 UTC: Jadielson pediu no tópico Alfred que fossem configurados os tópicos enviados por link, para que ajudem como agentes conforme o tema do título, sem pressa e sem pedir permissão. - Links recebidos: `224`, `221`, `222`, `219`, `218`, `11` no grupo `Central Pessoal` (`chat_id: -1003740871403`). - Limitação: links `t.me/c/...` são privados; o navegador abriu apenas aviso de grupo privado, sem exibir os títulos. Para não travar, a configuração inicial usa agente genérico por título. - Config aplicada em `/data/.openclaw/openclaw.json` com backup prévio `/data/.openclaw/openclaw.json.bak-central-topicos-20260605T065441Z`: - `alfred` no tópico `1`. - `my-finance`/Warren n",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4051918506622314,
-      "maxScore": 0.4051918506622314,
+      "totalScore": 1.227544367313385,
+      "maxScore": 0.4285870999097824,
       "firstRecalledAt": "2026-06-05T08:16:10.596Z",
-      "lastRecalledAt": "2026-06-05T08:16:10.596Z",
+      "lastRecalledAt": "2026-06-05T14:02:49.811Z",
       "queryHashes": [
-        "575c27a04682"
+        "575c27a04682",
+        "039f638e67fe",
+        "d56e49c3a53c"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1177,15 +1183,16 @@
       "endLine": 251,
       "source": "memory",
       "snippet": "- Após Jadielson marcar a bot e enviar “oi” em cada tópico, os `topic_name` reais foram capturados nos logs de runtime: - `224`: Identidade, estilo de vida e visão de futuro → `agentId = identidade-visao-futuro`. - `221`: Liberdade, Lazer, Hobbies e Ócio Criativo → `agentId = liberdade-lazer-ocio`. - `222`: Autoconhecimento → `agentId = autoconhecimento`. - `219`: Saúde, Corpo e Energia → `agentId = saude-corpo-energia`. - `218`: Familia e Relacionamentos → `agentId = familia-relacionamentos`. - `11`: Espiiritualidade e Propósitos → `agentId = espiritualidade-propositos`. - Config alterada diretamente em `/data/.openclaw/openclaw.json`, com backup prévio `/data/.openclaw/openclaw",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4011260449886322,
-      "maxScore": 0.4011260449886322,
+      "totalScore": 0.8253843784332275,
+      "maxScore": 0.4242583334445953,
       "firstRecalledAt": "2026-06-05T08:16:10.596Z",
-      "lastRecalledAt": "2026-06-05T08:16:10.596Z",
+      "lastRecalledAt": "2026-06-05T14:02:49.811Z",
       "queryHashes": [
-        "575c27a04682"
+        "575c27a04682",
+        "d56e49c3a53c"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1239,15 +1246,17 @@
       "endLine": 281,
       "source": "memory",
       "snippet": "- Estado conferido: config Telegram da LÓGIKA já possui `topics.1.agentId=jarvis`, `groupPolicy=open` e `requireMention=false`; grupo mantém `requireMention=true` fora dos tópicos dedicados por segurança. ## Central Pessoal — arquivos individuais dos tópicos pessoais - 2026-06-05 08:18 UTC: após Jadielson pedir para prosseguir, foram criados arquivos individuais em `agentes/central-pessoal/` para os seis agentes pessoais recém-configurados: - `identidade-visao-futuro.md` - `liberdade-lazer-ocio.md` - `autoconhecimento.md` - `saude-corpo-energia.md` - `familia-relacionamentos.md` - `espiritualidade-propositos.md` - Verificação técnica via leitura de `/data/.openclaw/openclaw.jso",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3969622731208801,
-      "maxScore": 0.3969622731208801,
+      "totalScore": 1.1723646372556686,
+      "maxScore": 0.4175134152173996,
       "firstRecalledAt": "2026-06-05T08:23:47.254Z",
-      "lastRecalledAt": "2026-06-05T08:23:47.254Z",
+      "lastRecalledAt": "2026-06-05T08:31:28.076Z",
       "queryHashes": [
-        "feb7986364e9"
+        "feb7986364e9",
+        "9d7481f054dc",
+        "039f638e67fe"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1292,6 +1301,257 @@
         "segundo-cerebro-jadielson",
         "vaults/segundo-cerebro-jadielson",
         "jadielson"
+      ]
+    },
+    "memory:memory/2026-06-05.md:248:262": {
+      "key": "memory:memory/2026-06-05.md:248:262",
+      "path": "memory/2026-06-05.md",
+      "startLine": 248,
+      "endLine": 262,
+      "source": "memory",
+      "snippet": "## Correção Jarvis — tópico exigia menção - 2026-06-05 07:31 UTC: Alfred voltou após `channels.telegram.groupPolicy=open`, mas Jarvis ainda não respondia no tópico `https://t.me/c/3645702069/1`. - Log pós-reload: tentativa da LÓGIKA `-1003645702069` em `2026-06-05T07:25:00Z` foi descartada por `reason: no-mention`, não por `not-allowed` nem erro de modelo. - Ação: no arquivo `/data/.openclaw/openclaw.json`, alterado `channels.telegram.groups.-1003645702069.topics.1.requireMention=false`, mantendo o grupo LÓGIKA com `requireMention=true` por segurança fora do tópico dedicado. Backup da config: `/data/.openclaw/openclaw.json.bak-20260605T073223Z`; restart seguro solicitado. ## LÓGIKA — Jarvi",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.278569942712784,
+      "maxScore": 0.4566168427467346,
+      "firstRecalledAt": "2026-06-05T08:31:28.076Z",
+      "lastRecalledAt": "2026-06-05T14:08:11.936Z",
+      "queryHashes": [
+        "039f638e67fe",
+        "d56e49c3a53c",
+        "29c8b1a4ad98"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "channels.telegram.grouppolicy",
+        "t.me/c/3645702069/1",
+        "pós-reload",
+        "2026-06-05t07",
+        "no-mention",
+        "not-allowed",
+        "openclaw/openclaw.json"
+      ]
+    },
+    "memory:memory/2026-06-05.md:225:240": {
+      "key": "memory:memory/2026-06-05.md:225:240",
+      "path": "memory/2026-06-05.md",
+      "startLine": 225,
+      "endLine": 240,
+      "source": "memory",
+      "snippet": "- Estado desejado: tópico 1 da Central Pessoal aponta para Alfred; tópico 1 da LÓGIKA aponta para Jarvis. Próximo teste: Jadielson mandar mensagem nova no tópico Alfred/Jarvis e conferir logs se houver falha. ## Correção real — Alfred bloqueado por groupPolicy global - 2026-06-05 07:16 UTC: Jadielson testou novamente e Alfred não respondeu. - Log da tentativa em `2026-06-05T07:15:51Z`: `telegram-auto-reply` descartou mensagem da Central Pessoal `-1003740871403` com `reason: not-allowed`, antes de chegar no agente/modelo. - Causa corrigida: `channels.telegram.groupPolicy` global estava como `allowlist` e `groupAllowFrom` vazio. Mesmo com grupo/tópico configurado, a política global estava bl",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7868876278400421,
+      "maxScore": 0.39931654930114746,
+      "firstRecalledAt": "2026-06-05T08:31:28.076Z",
+      "lastRecalledAt": "2026-06-05T14:02:49.811Z",
+      "queryHashes": [
+        "039f638e67fe",
+        "d56e49c3a53c"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "alfred/jarvis",
+        "2026-06-05t07",
+        "telegram-auto-reply",
+        "not-allowed",
+        "agente/modelo",
+        "channels.telegram.grouppolicy",
+        "grupo/tópico",
+        "estado"
+      ]
+    },
+    "memory:memory/2026-06-05.md:293:306": {
+      "key": "memory:memory/2026-06-05.md:293:306",
+      "path": "memory/2026-06-05.md",
+      "startLine": 293,
+      "endLine": 306,
+      "source": "memory",
+      "snippet": "- Saúde/Corpo/Energia: painel básico de energia. - Família/Relacionamentos: mapa de presença e vínculos. - Espiritualidade/Propósitos: prática simples de propósito. - Criado log da rodada em `[F2] memory/sessions/central-pessoal/2026-06-05-primeira-rodada-agentes-pessoais.md`. ## Correção Jarvis LÓGIKA — binding de grupo - 2026-06-05 08:21 UTC: Após o retorno do Alfred, Jarvis ainda não respondia na LÓGIKA (`-1003645702069`). Diagnóstico dos logs: mensagens da LÓGIKA já eram aceitas pelo Telegram, mas tópicos variados (`topic:1`, `8`, `10`, `12`, `13`, `14`, `96`, `474`, `551`, `552`) caíam em `agent:main`, não `agent:jarvis`; além disso houve falhas temporárias por `usage_limit_reac",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4242041766643524,
+      "maxScore": 0.4242041766643524,
+      "firstRecalledAt": "2026-06-05T14:02:49.811Z",
+      "lastRecalledAt": "2026-06-05T14:02:49.811Z",
+      "queryHashes": [
+        "d56e49c3a53c"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "saúde/corpo/energia",
+        "família/relacionamentos",
+        "espiritualidade/propósitos",
+        "usage-limit-reac",
+        "saúde",
+        "corpo",
+        "energia",
+        "painel"
+      ]
+    },
+    "memory:memory/2026-06-05.md:318:327": {
+      "key": "memory:memory/2026-06-05.md:318:327",
+      "path": "memory/2026-06-05.md",
+      "startLine": 318,
+      "endLine": 327,
+      "source": "memory",
+      "snippet": "- Validação: `openclaw agents list --bindings` passou a mostrar `central-topic-agent` com 2 rotas: `PROJETOS` (`-1004292150901`) e `ESTUDOS` (`-1003925972377`). Restart seguro solicitado, coalescido com restart pendente do Telegram. ## LÓGIKA — mapa formal de tópicos sob Jarvis - 2026-06-05 14:04 UTC: Jadielson reportou que Jarvis só reconhecia `topic:1` como recebido/ativo e listava tópicos `/12`, `/14`, `/10`, `/8`, `/13`, `/11`, `/96`, `/6`, `/9`, `/551`, `/552`, `/550`, `/474` como registrados por link, mas “não roteados”. - Diagnóstico: depois do binding global do grupo, logs já mostravam eventos chegando em `agent:jarvis:telegram:group:-1003645702069:topic:*`, mas a configuração form",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4299180507659912,
+      "maxScore": 0.4299180507659912,
+      "firstRecalledAt": "2026-06-05T14:08:11.936Z",
+      "lastRecalledAt": "2026-06-05T14:08:11.936Z",
+      "queryHashes": [
+        "29c8b1a4ad98"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "central-topic-agent",
+        "recebido/ativo",
+        "validação",
+        "openclaw",
+        "agents",
+        "list",
+        "bindings",
+        "passou"
+      ]
+    },
+    "memory:memory/2026-06-05.md:325:329": {
+      "key": "memory:memory/2026-06-05.md:325:329",
+      "path": "memory/2026-06-05.md",
+      "startLine": 325,
+      "endLine": 329,
+      "source": "memory",
+      "snippet": "- Config aplicada em `/data/.openclaw/openclaw.json`: tópicos `1,5,6,8,9,10,11,12,13,14,96,474,550,551,552` cadastrados com `agentId=jarvis`, `groupPolicy=open`, `requireMention=false` e `systemPrompt` específico por frente. - Backup da configuração: `/data/.openclaw/openclaw.json.bak-logika-topicos-20260605T140439Z`. - Workspace Jarvis atualizado: `/data/.openclaw/workspace-jarvis/TOPICOS_COORDENACAO.md` com mapa oficial e `/data/.openclaw/workspace-jarvis/TOPICOS.md` ajustado para não dizer que os tópicos ainda aguardam roteamento. - Restart/reload seguro solicitado para aplicar o mapa formal dos tópicos.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.41199691295623775,
+      "maxScore": 0.41199691295623775,
+      "firstRecalledAt": "2026-06-05T14:08:11.936Z",
+      "lastRecalledAt": "2026-06-05T14:08:11.936Z",
+      "queryHashes": [
+        "29c8b1a4ad98"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "openclaw/openclaw.json",
+        "restart/reload",
+        "config",
+        "aplicada",
+        "data",
+        "openclaw",
+        "openclaw.json"
+      ]
+    },
+    "memory:memory/2026-06-04.md:193:202": {
+      "key": "memory:memory/2026-06-04.md:193:202",
+      "path": "memory/2026-06-04.md",
+      "startLine": 193,
+      "endLine": 202,
+      "source": "memory",
+      "snippet": "- Validação: `gog auth list --check` mostrou três contas ativas: `davijadielson@gmail.com`, `logikacreative.mkt@gmail.com` e `loh.open.logika@gmail.com`, todas com serviços `calendar,contacts,docs,drive,gmail,sheets`. - Teste rápido: `gog --account davijadielson@gmail.com --gmail-no-send calendar events --from now --max 3` funcionou e retornou próximos eventos da agenda pessoal. Detalhes dos eventos não foram registrados na memória por privacidade. - Regra operacional reforçada: para comandos Google, sempre usar `--account` explícito; para Gmail, usar `--gmail-no-send` quando possível; escrita/envio/criação/edição exige confirmação explícita de Jadielson. ## Google Workspace via gog CLI — a",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4329368531703949,
+      "maxScore": 0.4329368531703949,
+      "firstRecalledAt": "2026-06-05T16:05:31.097Z",
+      "lastRecalledAt": "2026-06-05T16:05:31.097Z",
+      "queryHashes": [
+        "cb7f18295d9e"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "gmail.com",
+        "logikacreative.mkt",
+        "loh.open.logika",
+        "gmail-no-send",
+        "escrita/envio/criação/edição",
+        "validação",
+        "gog",
+        "auth"
+      ]
+    },
+    "memory:memory/2026-06-04.md:147:162": {
+      "key": "memory:memory/2026-06-04.md:147:162",
+      "path": "memory/2026-06-04.md",
+      "startLine": 147,
+      "endLine": 162,
+      "source": "memory",
+      "snippet": "- Inbox — Por Frente/Cliente. - Produção & Agenda — Esta semana. - Produção & Agenda — Por cliente. - Central LÓGIKA atualizada com decisão v0.6 e registro das views/teste. - Observação: rotina manual do cron foi enfileirada para teste, mas o histórico do cron ainda não retornou entrada imediata; validação direta pela API passou. ## Google Workspace via gog CLI — conta restrita Lôh - 2026-06-04: Jadielson autorizou instalar e configurar o `gog` CLI para Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, Contacts), com princípio A5/A10: agente confirma antes de enviar e-mail, criar evento ou fazer ações de escrita. - `gog` não estava instalado; instalado via Homebrew (`openclaw/t",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.42891456484794616,
+      "maxScore": 0.42891456484794616,
+      "firstRecalledAt": "2026-06-05T16:05:31.097Z",
+      "lastRecalledAt": "2026-06-05T16:05:31.097Z",
+      "queryHashes": [
+        "cb7f18295d9e"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "frente/cliente",
+        "v0.6",
+        "views/teste",
+        "a5/a10",
+        "e-mail",
+        "openclaw/t",
+        "inbox",
+        "frente"
+      ]
+    },
+    "memory:memory/2026-06-05.md:1:13": {
+      "key": "memory:memory/2026-06-05.md:1:13",
+      "path": "memory/2026-06-05.md",
+      "startLine": 1,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "## Google Workspace via gog CLI — drive.file para criação de Docs/Sheets - 2026-06-05 UTC / 2026-06-04 America/Maceio: Jadielson autorizou reautorizar empresa e pessoal com `drive.file` como meio-termo entre Drive readonly e Drive full. - Regra operacional aprovada: Secretária pode criar e editar Docs/Sheets sob comando; exclusão de arquivos continua exigindo confirmação humana explícita. - Contas reautorizadas com `drive.file`: `logikacreative.mkt@gmail.com` e `davijadielson@gmail.com`. - Escopos finais práticos: Calendar com escrita; Docs com escrita; Sheets com escrita; Drive `drive.file`; Gmail leitura; Contacts leitura por escopos extras. - Teste empresa: criação/edição de Doc funcion",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4247865080833435,
+      "maxScore": 0.4247865080833435,
+      "firstRecalledAt": "2026-06-05T16:05:31.097Z",
+      "lastRecalledAt": "2026-06-05T16:05:31.097Z",
+      "queryHashes": [
+        "cb7f18295d9e"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "drive.file",
+        "docs/sheets",
+        "america/maceio",
+        "meio-termo",
+        "logikacreative.mkt",
+        "gmail.com",
+        "criação/edição",
+        "google"
       ]
     }
   }
