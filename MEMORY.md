@@ -263,3 +263,13 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - Documento atualizado: `/data/.openclaw/workspace/agentes/ARQUITETURA-AGENTES.md` v0.3.
 - 2026-06-04: Jadielson escolheu **Alfred** como nome do General/coordenador local da **Central Pessoal**. Alfred deve operar como coordenador discreto da casa pessoal: coordenação, supervisão e treinamento dos demais agentes. Alfred não deve ser tratado como executor especialista; sua função é organizar atribuições, poderes, limites, fluxos e encaminhamentos, acionando a Lôh quando a demanda for transversal, de arquitetura, memória central ou configuração.
 - 2026-06-04: Jadielson escolheu **Jarvis** como nome do General/coordenador local da **LÓGIKA/empresa**. Jarvis deve operar como coordenador estratégico-operacional da empresa: triagem de demandas, clientes, projetos, propostas, produção, entregas, prioridades comerciais e acionamento da Lôh quando a demanda for transversal, de arquitetura, memória central ou configuração.
+
+## Google Workspace via gog CLI — estado final autorizado
+
+- 2026-06-05 UTC / 2026-06-04 America/Maceio: `gog` CLI instalado (`v0.21.0`) e Google Workspace conectado.
+- Contas conectadas: `loh.open.logika@gmail.com`, `logikacreative.mkt@gmail.com`, `davijadielson@gmail.com`.
+- Escopo final para empresa e pessoal: Calendar com escrita; Docs com escrita; Sheets com escrita; Drive `drive.file`; Gmail somente leitura; Contacts leitura por escopos extras.
+- Regra operacional aprovada: Secretária pode criar e editar eventos, Docs e Sheets sob comando; Gmail continua sem envio automático; exclusão de arquivos no Drive exige confirmação humana explícita, mesmo com `drive.file`.
+- Conta Lôh permanece como base restrita; empresa e pessoal foram testadas com criação/edição de Docs/Sheets e Calendar.
+- Para comandos futuros com gog, exportar `GOG_KEYRING_BACKEND=file` e `GOG_KEYRING_PASSWORD` a partir de `/data/.openclaw/credentials/gog/keyring-password`; sempre usar `--account` explícito e `--gmail-no-send` quando houver Gmail no contexto.
+- Segurança: OAuth Client JSON continha `client_secret` e passou pelo chat; quando conveniente, rotacionar/recriar o OAuth Client no Google Cloud.
