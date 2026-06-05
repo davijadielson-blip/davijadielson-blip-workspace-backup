@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T06:50:24.834Z",
+  "updatedAt": "2026-06-05T07:24:44.854Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -1075,6 +1075,37 @@
         "utc",
         "jadielson",
         "avisou"
+      ]
+    },
+    "memory:memory/2026-06-05.md:192:210": {
+      "key": "memory:memory/2026-06-05.md:192:210",
+      "path": "memory/2026-06-05.md",
+      "startLine": 192,
+      "endLine": 210,
+      "source": "memory",
+      "snippet": "- `agents.list[].id = my-finance` - `agents.list[].name = Warren` - tópico Telegram `-1003740871403:topic:12` com `agentId = my-finance`, `requireMention = false`, `groupPolicy = open`. - Ping curto enviado no tópico Warren/My Finance e aviso enviado no tópico Alfred. ## Warren — correção de respostas visíveis automáticas - 2026-06-05 03:59 UTC: verificação mostrou que, após restart, a config ativa voltou sem `messages.groupChat.visibleReplies`, sem `my-finance`/Warren e sem o tópico 12 roteado. - A Lôh reaplicou a configuração diretamente no config ativo, validou com `openclaw config validate`, reiniciou o Gateway e confirmou após restart: - `messages.groupChat.visibleReplies = au",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.437463304400444,
+      "maxScore": 0.437463304400444,
+      "firstRecalledAt": "2026-06-05T07:24:44.854Z",
+      "lastRecalledAt": "2026-06-05T07:24:44.854Z",
+      "queryHashes": [
+        "55074d955b1f"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "gateway",
+        "agents.list",
+        "my-finance",
+        "warren/my",
+        "finance",
+        "name",
+        "warren",
+        "tópico"
       ]
     }
   }

@@ -81,7 +81,7 @@ Configurar a Central Pessoal como primeiro grupo operacional da arquitetura de a
   - Verificação: config validada/recarregada, agentes respondendo nos tópicos corretos.
   - Estimativa: 30-60min.
   - Depende de: T4.1.
-  - Progresso: configuração inicial aplicada em 2026-06-05 para Alfred (`1`), Warren (`12`), Arca (`13`) e links enviados (`224`, `221`, `222`, `219`, `218`, `11`) com `central-topic-agent` por título. Backup de config criado antes da alteração.
+  - Progresso: configuração individual aplicada em 2026-06-05 para Alfred (`1`), Warren (`12`), Arca (`13`) e links enviados (`224`, `221`, `222`, `219`, `218`, `11`) com agentes próprios por tópico. Backup de config criado antes da alteração.
 
 ## Dependências externas
 
@@ -106,8 +106,8 @@ Configurar a Central Pessoal como primeiro grupo operacional da arquitetura de a
 - Alfred registrado anteriormente como tópico `thread_id/topic_id: 1` no documento de arquitetura.
 - Arca definido por Jadielson como agente especialista do Segundo Cérebro no tópico `thread_id/topic_id: 13`.
 - My Finance confirmado como especialista de finanças pessoais no tópico `thread_id/topic_id: 12`; prompt inicial salvo em `agentes/ARQUITETURA-AGENTES.md`.
-- Links enviados por Jadielson em 2026-06-05 foram configurados tecnicamente como tópicos temáticos por título: `224`, `221`, `222`, `219`, `218`, `11`, todos apontando inicialmente para `central-topic-agent`.
-- Próximo passo recomendado: quando Jadielson voltar, revisar o título real de cada tópico e decidir quais continuam genéricos por título e quais ganham persona fixa/nome próprio.
+- Links enviados por Jadielson em 2026-06-05 foram configurados individualmente após captura dos títulos reais: `224` → `identidade-visao-futuro`; `221` → `liberdade-lazer-ocio`; `222` → `autoconhecimento`; `219` → `saude-corpo-energia`; `218` → `familia-relacionamentos`; `11` → `espiritualidade-propositos`.
+- Próximo passo recomendado: testar uma mensagem real em cada tópico e ajustar tom/persona conforme Jadielson preferir.
 
 ---
 
