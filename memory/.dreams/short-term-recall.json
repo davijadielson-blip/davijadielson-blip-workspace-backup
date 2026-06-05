@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T20:25:45.813Z",
+  "updatedAt": "2026-06-05T20:49:12.716Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -1319,17 +1319,18 @@
       "endLine": 262,
       "source": "memory",
       "snippet": "## Correção Jarvis — tópico exigia menção - 2026-06-05 07:31 UTC: Alfred voltou após `channels.telegram.groupPolicy=open`, mas Jarvis ainda não respondia no tópico `https://t.me/c/3645702069/1`. - Log pós-reload: tentativa da LÓGIKA `-1003645702069` em `2026-06-05T07:25:00Z` foi descartada por `reason: no-mention`, não por `not-allowed` nem erro de modelo. - Ação: no arquivo `/data/.openclaw/openclaw.json`, alterado `channels.telegram.groups.-1003645702069.topics.1.requireMention=false`, mantendo o grupo LÓGIKA com `requireMention=true` por segurança fora do tópico dedicado. Backup da config: `/data/.openclaw/openclaw.json.bak-20260605T073223Z`; restart seguro solicitado. ## LÓGIKA — Jarvi",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.278569942712784,
+      "totalScore": 1.6812399357557297,
       "maxScore": 0.4566168427467346,
       "firstRecalledAt": "2026-06-05T08:31:28.076Z",
-      "lastRecalledAt": "2026-06-05T14:08:11.936Z",
+      "lastRecalledAt": "2026-06-05T20:49:12.716Z",
       "queryHashes": [
         "039f638e67fe",
         "d56e49c3a53c",
-        "29c8b1a4ad98"
+        "29c8b1a4ad98",
+        "f054b89d8b03"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1384,15 +1385,16 @@
       "endLine": 306,
       "source": "memory",
       "snippet": "- Saúde/Corpo/Energia: painel básico de energia. - Família/Relacionamentos: mapa de presença e vínculos. - Espiritualidade/Propósitos: prática simples de propósito. - Criado log da rodada em `[F2] memory/sessions/central-pessoal/2026-06-05-primeira-rodada-agentes-pessoais.md`. ## Correção Jarvis LÓGIKA — binding de grupo - 2026-06-05 08:21 UTC: Após o retorno do Alfred, Jarvis ainda não respondia na LÓGIKA (`-1003645702069`). Diagnóstico dos logs: mensagens da LÓGIKA já eram aceitas pelo Telegram, mas tópicos variados (`topic:1`, `8`, `10`, `12`, `13`, `14`, `96`, `474`, `551`, `552`) caíam em `agent:main`, não `agent:jarvis`; além disso houve falhas temporárias por `usage_limit_reac",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4242041766643524,
+      "totalScore": 0.8215670347213745,
       "maxScore": 0.4242041766643524,
       "firstRecalledAt": "2026-06-05T14:02:49.811Z",
-      "lastRecalledAt": "2026-06-05T14:02:49.811Z",
+      "lastRecalledAt": "2026-06-05T20:49:12.716Z",
       "queryHashes": [
-        "d56e49c3a53c"
+        "d56e49c3a53c",
+        "f054b89d8b03"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1982,15 +1984,16 @@
       "endLine": 448,
       "source": "memory",
       "snippet": "- Decisão aceita pela Lôh: Notion fica principalmente para grade de produção e execução; Vault/GitHub/workspace ficam para análises, textos leves, índices, bancos de contexto e outputs dos agentes. - Proposta de tópicos/agentes sob Jarvis: Referências/Inspirações, Redes Sociais & Métricas (Meta Business/Analytics etc.), Bases Públicas & Dados Oficiais, CRM & Banco de Clientes. - Google Drive será a base operacional da Secretária para CRM, banco de clientes, documentos, planilhas, relatórios e arquivos migrados do OneDrive. - Jadielson decidiu criar apenas a pasta principal no Drive e jogar os arquivos; Clara/Secretária deverá organizar depois, respeitando limites de segurança e sem exclusão",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3593824118375778,
-      "maxScore": 0.3593824118375778,
+      "totalScore": 0.7504388213157653,
+      "maxScore": 0.39105640947818754,
       "firstRecalledAt": "2026-06-05T20:25:45.813Z",
-      "lastRecalledAt": "2026-06-05T20:25:45.813Z",
+      "lastRecalledAt": "2026-06-05T20:49:12.716Z",
       "queryHashes": [
-        "45499bd00512"
+        "45499bd00512",
+        "f054b89d8b03"
       ],
       "recallDays": [
         "2026-06-05"
@@ -2004,6 +2007,68 @@
         "decisão",
         "aceita",
         "pela"
+      ]
+    },
+    "memory:memory/2026-06-04.md:165:176": {
+      "key": "memory:memory/2026-06-04.md:165:176",
+      "path": "memory/2026-06-04.md",
+      "startLine": 165,
+      "endLine": 176,
+      "source": "memory",
+      "snippet": "- Regra operacional mantida: usar `--gmail-no-send` em comandos com Gmail sempre que possível; leitura/listagem é permitida para contexto, mas enviar e-mail, criar evento ou editar Drive/Docs/Sheets exige confirmação explícita de Jadielson. - Contas relacionadas para possível integração futura, em camadas: empresa `logikacreative.mkt@gmail.com`; pessoal `davijadielson@gmail.com`. Preferência: conectar empresa antes da pessoal e com escopos de leitura quando possível. ## Referência LÓGIKA — Secretaria de Saúde / vacinação - 2026-06-04 23:01 UTC: Jadielson enviou no grupo LÓGIKA, tópico “Referências/Inspiracões”, o link `https://www.instagram.com/p/DZH5RRYEcUG/?igsh=bHdwaWdjbzc0MWRz` como ex",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3999104171991348,
+      "maxScore": 0.3999104171991348,
+      "firstRecalledAt": "2026-06-05T20:49:12.716Z",
+      "lastRecalledAt": "2026-06-05T20:49:12.716Z",
+      "queryHashes": [
+        "f054b89d8b03"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "gmail-no-send",
+        "leitura/listagem",
+        "e-mail",
+        "drive/docs/sheets",
+        "logikacreative.mkt",
+        "gmail.com",
+        "referências/inspiracões",
+        "www.instagram.com/p/dzh5rryecug"
+      ]
+    },
+    "memory:memory/2026-06-05.md:407:417": {
+      "key": "memory:memory/2026-06-05.md:407:417",
+      "path": "memory/2026-06-05.md",
+      "startLine": 407,
+      "endLine": 417,
+      "source": "memory",
+      "snippet": "- Redes sociais: começar por links, prints, downloads quando necessário, anotações e relatórios/exportações; APIs ficam para fase posterior. - Notion: deve funcionar como grade/agregador para links de referência e dados públicos. - OneDrive: documentos/planilhas/arquivos devem migrar preferencialmente para Google Drive; GitHub fica para arquivos leves, prompts, processos e documentação versionável. - Referências: Jadielson propôs criar tópico/agente treinado para captar referências, estudar, classificar e encaminhar ao setor pertinente. Nome sugerido pela Lôh: Radar. - Dados públicos: links oficiais entram no Notion; quando forem estratégicos, guardar também resumo e arquivo local no Drive.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.39662519097328186,
+      "maxScore": 0.39662519097328186,
+      "firstRecalledAt": "2026-06-05T20:49:12.716Z",
+      "lastRecalledAt": "2026-06-05T20:49:12.716Z",
+      "queryHashes": [
+        "f054b89d8b03"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "relatórios/exportações",
+        "grade/agregador",
+        "documentos/planilhas/arquivos",
+        "tópico/agente",
+        "redes",
+        "sociais",
+        "começar",
+        "links"
       ]
     }
   }
