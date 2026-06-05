@@ -15,7 +15,7 @@ Modelo organizacional: empresa por departamentos + frentes/agentes por missão.
 | Tópico | Nome | Departamento-base | Papel do Jarvis | Status |
 |---:|---|---|---|---|
 | 1 | LÓGIKA / Coordenação geral | Direção / Estratégia | Coordenação geral da operação | ativo |
-| 6 | Secretária / Agenda / Execução | Operações Internas / Administrativo | Supervisão de rotina, agenda e execução | ativo |
+| 6 | Secretária / Agenda / Execução / Clara | Operações Internas / Administrativo | Supervisão de rotina, agenda, execução e auditoria Workspace via `gog` | ativo |
 | 8 | Lógika Creative | Produção / Entregas + Marketing / Conteúdo | Supervisão criativa e entregas visuais/conceituais | ativo |
 | 9 | Saúde São Sebastião | Atendimento / Clientes + Produção / Entregas | Supervisão separada de cliente/projeto | ativo |
 | 10 | Câmara Municipal | Atendimento / Clientes + Produção / Entregas | Supervisão separada de cliente/projeto | ativo |
