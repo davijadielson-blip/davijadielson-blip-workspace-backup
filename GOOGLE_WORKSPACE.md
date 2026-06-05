@@ -8,6 +8,10 @@ A integração Google Workspace está configurada neste ambiente via CLI `gog`.
 
 A Clara/Secretária não deve depender do navegador/Chrome para Google Calendar ou Drive. O navegador pode pedir login e não representa o estado real da integração.
 
+### Atualização de escopo — LÓGIKA
+
+Em 2026-06-05 UTC, a conta `logikacreative.mkt@gmail.com` foi reautorizada com **Drive readonly amplo** (`drive.readonly`) para auditoria estrutural. Isso permite inventário/leitura ampla do Drive da empresa sem conceder permissão destrutiva de apagar, mover ou editar arquivos.
+
 ## Contas conectadas
 
 - `davijadielson@gmail.com`
@@ -19,7 +23,9 @@ A Clara/Secretária não deve depender do navegador/Chrome para Google Calendar 
 - Calendar: leitura e escrita sob comando.
 - Docs: leitura/criação/edição sob comando.
 - Sheets: leitura/criação/edição sob comando.
-- Drive: acesso `drive.file`; leitura/busca do que o escopo permitir; sem exclusões sem confirmação explícita.
+- Drive LÓGIKA (`logikacreative.mkt@gmail.com`): `drive.readonly` amplo para auditoria estrutural, sem exclusão/edição/movimentação.
+- Drive pessoal (`davijadielson@gmail.com`): verificar escopo antes de auditoria ampla; se ainda estiver em `drive.file`, pedir reautorização `drive.readonly`.
+- Drive conta Lôh (`loh.open.logika@gmail.com`): uso restrito/base, conforme necessidade técnica.
 - Gmail: somente leitura; não enviar e-mail.
 - Contacts: leitura quando disponível.
 
