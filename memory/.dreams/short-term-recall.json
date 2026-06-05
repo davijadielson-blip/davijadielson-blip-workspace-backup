@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T19:03:18.399Z",
+  "updatedAt": "2026-06-05T20:00:09.165Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -618,18 +618,20 @@
       "endLine": 115,
       "source": "memory",
       "snippet": "- Database antiga `📥 Captura Geral` arquivada via API, URL: https://app.notion.com/p/242f2506a972451d80209bd593bdb006 - Campos da nova Inbox: Título, Tipo de entrada, Frente/Cliente, Status de triagem, Destino, Data, Origem, Prioridade, Resumo/Observações, Link/Arquivo, Link do destino, Responsável, Criado em, Última edição. - Central LÓGIKA atualizada com decisão v0.5: nova Inbox oficial, antiga arquivada e rotina Jarvis. - Cron criado: `jarvis-revisao-inbox-logika-seg-sab`, id `e900c3d9-6ce4-4921-94bc-d096a7a2a94c`, agenda `0 8 * * 1-6` em `America/Maceio`, entrega por Telegram para Jadielson. - Regra: Jarvis revisa de segunda a sábado; se o item estiver claro, destina/sugere destino; se",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.45128262937068936,
-      "maxScore": 0.45128262937068936,
+      "totalScore": 0.9128913462162017,
+      "maxScore": 0.46160871684551236,
       "firstRecalledAt": "2026-06-04T22:19:11.620Z",
-      "lastRecalledAt": "2026-06-04T22:19:11.620Z",
+      "lastRecalledAt": "2026-06-05T20:00:09.165Z",
       "queryHashes": [
-        "b7c30d0d070e"
+        "b7c30d0d070e",
+        "b55d3d591abc"
       ],
       "recallDays": [
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-05"
       ],
       "conceptTags": [
         "frente/cliente",
@@ -649,16 +651,17 @@
       "endLine": 101,
       "source": "memory",
       "snippet": "- Verificação: consulta da base mestre retornou as 4 amostras com `Frente/Cliente`, `Tipo`, `Tipo de conteúdo`, `Status`, `Origem` e `Link de origem` preenchidos. ## Notion LÓGIKA — regra de entrada única pela Inbox - 2026-06-04: Jadielson confirmou que tudo novo deve entrar primeiro em `Captura Geral`/`Inbox`, para depois ser triado e encaminhado ao destino adequado. - Nome recomendado consolidado: `Inbox / Captura Geral`, mantendo o sentido operacional de inbox sem perder o histórico da database existente. - Central LÓGIKA atualizada com decisão v0.4: entrada única pela Inbox. - Regra operacional: não criar direto na base mestre quando a informação ainda estiver bruta/incompleta; após tr",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.8746302485466002,
-      "maxScore": 0.44884396791458125,
+      "totalScore": 1.365526184439659,
+      "maxScore": 0.49089593589305874,
       "firstRecalledAt": "2026-06-04T22:19:11.620Z",
-      "lastRecalledAt": "2026-06-05T00:25:57.191Z",
+      "lastRecalledAt": "2026-06-05T20:00:09.165Z",
       "queryHashes": [
         "b7c30d0d070e",
-        "078af632c20b"
+        "078af632c20b",
+        "b55d3d591abc"
       ],
       "recallDays": [
         "2026-06-04",
@@ -838,15 +841,16 @@
       "endLine": 61,
       "source": "memory",
       "snippet": "- Notion/Inbox LÓGIKA: Jadielson ainda está concluindo algumas incursões; não travar a configuração dos agentes por isso. - Mission Control: deixar para depois; não é prioritário agora porque, na visão de Jadielson, é mais estética/painel do que operação essencial imediata. - Heartbeat: já deve ficar definido certinho. - Update OpenClaw / systemd / autostart: deixar para depois. - Nova prioridade operacional imediata: configurar a arquitetura de agentes, começando pela Central Pessoal, depois seguir para os demais agentes/grupos. ## Notion LÓGIKA — lista objetiva de limpeza - Jadielson recompartilhou as bases oficiais `Inbox / Captura Geral — LÓGIKA` e `Produção & Agenda — LÓGIKA` com `Loh",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.44694230556488035,
-      "maxScore": 0.44694230556488035,
+      "totalScore": 0.9198241233825684,
+      "maxScore": 0.47288181781768795,
       "firstRecalledAt": "2026-06-05T00:49:25.494Z",
-      "lastRecalledAt": "2026-06-05T00:49:25.494Z",
+      "lastRecalledAt": "2026-06-05T20:00:09.165Z",
       "queryHashes": [
-        "14d53ebba249"
+        "14d53ebba249",
+        "b55d3d591abc"
       ],
       "recallDays": [
         "2026-06-05"
@@ -1876,6 +1880,37 @@
         "jadielson",
         "pediu",
         "guardar"
+      ]
+    },
+    "memory:memory/2026-06-04.md:129:152": {
+      "key": "memory:memory/2026-06-04.md:129:152",
+      "path": "memory/2026-06-04.md",
+      "startLine": 129,
+      "endLine": 152,
+      "source": "memory",
+      "snippet": "- Decisão: a Secretária deve ser pensada como camada diária de agenda, execução e preparação; Jarvis coordena a operação empresarial; Lôh coordena arquitetura, memória, integrações, segurança e decisões transversais. ## OpenClaw update — adiado - 2026-06-04: Jadielson decidiu deixar para depois a atualização do OpenClaw disponível (`2026.6.1`). Regra: quando for fazer, executar em janela controlada, com backup antes e validação depois. ## Notion LÓGIKA — teste da Inbox e views operacionais - 2026-06-04: Jadielson autorizou testar a Inbox e criar views úteis. A definição completa da Secretária — Agenda e Execução ficou para depois, pois ainda haverá outras integrações e atribuições. - Cri",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4670271277427673,
+      "maxScore": 0.4670271277427673,
+      "firstRecalledAt": "2026-06-05T20:00:09.165Z",
+      "lastRecalledAt": "2026-06-05T20:00:09.165Z",
+      "queryHashes": [
+        "b55d3d591abc"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "2026.6.1",
+        "decisão",
+        "secretária",
+        "deve",
+        "ser",
+        "pensada",
+        "camada"
       ]
     }
   }
