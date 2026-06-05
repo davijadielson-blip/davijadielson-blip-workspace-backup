@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T08:16:10.596Z",
+  "updatedAt": "2026-06-05T08:23:47.254Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -1199,6 +1199,99 @@
         "familia-relacionamentos",
         "espiritualidade-propositos",
         "openclaw/openclaw.json"
+      ]
+    },
+    "memory:memory/2026-06-05.md:277:299": {
+      "key": "memory:memory/2026-06-05.md:277:299",
+      "path": "memory/2026-06-05.md",
+      "startLine": 277,
+      "endLine": 299,
+      "source": "memory",
+      "snippet": "- `openclaw config validate` retornou config válida. ## Central Pessoal — agentes pessoais rodando com vault e Arca - 2026-06-05 08:20 UTC: Jadielson reforçou que os novos agentes devem “rodar e produzir alguma coisa”, acessando o vault para contexto, referências e diretórios de captura/salvamento, sempre em harmonia com Arca. - Ação na config: adicionada regra operacional de vault e Arca aos prompts de Alfred, Arca e dos seis agentes pessoais; backup prévio da config em `/data/.openclaw/openclaw.json.bak-vault-arca-agentes-20260605T082025Z`; `openclaw config validate` retornou válido. - Vault consultado: `CLAUDE.md`, `[F2] memory/context/rotina.md`, `[F2] memory/context/people.md` e templ",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.41336314082145686,
+      "maxScore": 0.41336314082145686,
+      "firstRecalledAt": "2026-06-05T08:23:47.254Z",
+      "lastRecalledAt": "2026-06-05T08:23:47.254Z",
+      "queryHashes": [
+        "feb7986364e9"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "captura/salvamento",
+        "claude.md",
+        "memory/context/rotina.md",
+        "memory/context/people.md",
+        "openclaw",
+        "config",
+        "validate"
+      ]
+    },
+    "memory:memory/2026-06-05.md:258:281": {
+      "key": "memory:memory/2026-06-05.md:258:281",
+      "path": "memory/2026-06-05.md",
+      "startLine": 258,
+      "endLine": 281,
+      "source": "memory",
+      "snippet": "- Estado conferido: config Telegram da LÓGIKA já possui `topics.1.agentId=jarvis`, `groupPolicy=open` e `requireMention=false`; grupo mantém `requireMention=true` fora dos tópicos dedicados por segurança. ## Central Pessoal — arquivos individuais dos tópicos pessoais - 2026-06-05 08:18 UTC: após Jadielson pedir para prosseguir, foram criados arquivos individuais em `agentes/central-pessoal/` para os seis agentes pessoais recém-configurados: - `identidade-visao-futuro.md` - `liberdade-lazer-ocio.md` - `autoconhecimento.md` - `saude-corpo-energia.md` - `familia-relacionamentos.md` - `espiritualidade-propositos.md` - Verificação técnica via leitura de `/data/.openclaw/openclaw.jso",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3969622731208801,
+      "maxScore": 0.3969622731208801,
+      "firstRecalledAt": "2026-06-05T08:23:47.254Z",
+      "lastRecalledAt": "2026-06-05T08:23:47.254Z",
+      "queryHashes": [
+        "feb7986364e9"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "topics.1.agentid",
+        "agentes/central-pessoal",
+        "recém-configurados",
+        "identidade-visao-futuro.md",
+        "liberdade-lazer-ocio.md",
+        "autoconhecimento.md",
+        "saude-corpo-energia.md",
+        "familia-relacionamentos.md"
+      ]
+    },
+    "memory:memory/2026-06-04.md:1:15": {
+      "key": "memory:memory/2026-06-04.md:1:15",
+      "path": "memory/2026-06-04.md",
+      "startLine": 1,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "# 2026-06-04 - Jadielson reconfigurou/remontou o OpenClaw e o workspace local veio zerado. - Investigado: arquivos locais estavam em template; memória interna só indexava `MEMORY.md` vazio; sem `memory/YYYY-MM-DD.md` locais. - Jadielson forneceu acesso ao repo privado `davijadielson-blip-workspace-backup`. - Backup restaurado: identidade Lôh, perfil do Jadielson, memória longa, skills, conteúdo e histórico do workspace. - Backup contínuo reativado com script local e cron diário às 03:00 America/Maceio. - Jadielson lembrou do repositório `segundo-cerebro-jadielson`, usado manualmente via Obsidian. Acesso validado; vault clonado em `vaults/segundo-cerebro-jadielson`; script e cron de sincroni",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36024679243564606,
+      "maxScore": 0.36024679243564606,
+      "firstRecalledAt": "2026-06-05T08:23:47.254Z",
+      "lastRecalledAt": "2026-06-05T08:23:47.254Z",
+      "queryHashes": [
+        "feb7986364e9"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "reconfigurou/remontou",
+        "memory.md",
+        "memory/yyyy-mm-dd.md",
+        "america/maceio",
+        "segundo-cerebro-jadielson",
+        "vaults/segundo-cerebro-jadielson",
+        "jadielson"
       ]
     }
   }
