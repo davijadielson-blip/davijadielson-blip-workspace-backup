@@ -1,0 +1,630 @@
+# Auditoria completa — Notion LÓGIKA
+
+Databases acessíveis: 190
+
+## Resumo por decisão
+- aproveitar_com_cuidado: 8
+- aproveitar: 23
+- historico_revisar: 3
+- frio_deletavel: 24
+- revisar_manual: 37
+- template_duplicado: 95
+
+## Duplicatas por título mais importantes
+- Método CIPA: 26
+- (sem título): 21
+- Calendário Editorial: 8
+- Caixa de Rascunho de Ideias: 8
+- Post: 8
+- Plataformas: 8
+- Acompanhamento: 8
+- Tipos de Posts: 8
+- Assistente IA [template]: 7
+- Ativos de marca: 7
+- Client Dashboard: 7
+- Persona: 7
+- Ideias de conteúdos: 7
+- Calendário 2024: 6
+- Dados de acesso (1): 6
+- PRINCIPAL: 4
+- Ideias: 3
+- Clientes: 2
+- Materiais Complementares: 2
+
+## Manter oficial
+
+## Aproveitar
+- **PREÇOS E TABELAS - BaseRegionais** — amostra 6, props 9 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/262207e6f145803ebdabd00e70a9c5f7
+  - Exemplos: N, NE, CO
+- **Checklist de Edição de Vídeos** — amostra 3, props 13 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/316207e6f145809e9ca1cb87b199eb64
+  - Exemplos: Depoimento de Cliente - Cases de Sucesso, Tutorial - Como Usar o Aplicativo, Vídeo Promocional - Lançamento de Produto
+- **LÓGIKA CREATIVE** — amostra 6, props 6 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458000a89bf3eddc7b91b9
+  - Exemplos: Links e Ferramentas,  ⚙️ Oficina de Conteúdo , Prompts
+- **Leads** — amostra 6, props 16 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f14581a78eead2ec1800713f
+  - Exemplos: Dr. Adilson - Clínica de Pneumologia , JAUDINEIDE GERALDINA, EMERSON (BODÃO) - FERROTEC E PREMOLTEC
+- **CRM** — amostra 6, props 12 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f145817e87c9ef946669dac8
+  - Exemplos: (sem título), COOPAGRIS EDUARDO, EMANOELA - NUTRICIONISTA
+- **Clientes** — amostra 5, props 7 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458185adebe9c5d6370911
+  - Exemplos: DÉ DO CAMPO - Estratégia  de Conteúdo , SINDSS - SINDICATO, CAMARA SÃO SEBASTIÃO
+- **Clientes** — amostra 4, props 7 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458108b9e5e40c303b71de
+  - Exemplos: SAÚDE SÃO SEBASTIÃO, Cliente Novo , Cliente : Apple
+- **Plataformas** — amostra 4, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/251207e6f14581f3b351c27fb8c99105
+  - Exemplos: Instagram, Template Rede Social, TikTok
+- **Ativos de marca** — amostra 5, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/251207e6f145812f89cbc4acedecc1ae
+  - Exemplos: Logo, Imagem de Marketing, Roboto - Medium
+- **Plataformas** — amostra 4, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/251207e6f1458119be4efb5db8d2afb2
+  - Exemplos: Template Rede Social, Instagram, TikTok
+- **Ativos de marca** — amostra 5, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/251207e6f14581a7afded80d3fc3742b
+  - Exemplos: Logo, Roboto - Medium, Cores da Paleta
+- **Equipe** — amostra 6, props 2 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/250207e6f14581f7bea2cfb5ece48962
+  - Exemplos: Estrategista e Copy, Gestor de tráfego, Atendimento e Vendas
+- **Plataformas** — amostra 4, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a5207e6f14581708e6ec3310e171903
+  - Exemplos: TikTok, YouTube, Template Rede Social
+- **Ativos de marca** — amostra 5, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a5207e6f145815a8613cf555c89a67a
+  - Exemplos: Roboto - Medium, Imagem de Marketing, Social banner
+- **Plataformas** — amostra 4, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a5207e6f145810895f7e293e8935698
+  - Exemplos: Instagram, TikTok, YouTube
+- **Ativos de marca** — amostra 5, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a5207e6f14581d1bec1cb565537cd92
+  - Exemplos: Cores da Paleta, Imagem de Marketing, Roboto - Medium
+- **Plataformas** — amostra 4, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458189ac0fe45f1e0a74d5
+  - Exemplos: Template Rede Social, YouTube, TikTok
+- **Plataformas** — amostra 4, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f14581e2b342f21acfd38b28
+  - Exemplos: YouTube, Template Rede Social, Instagram
+- **Plataformas** — amostra 4, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458179b365c5b748d38aed
+  - Exemplos: Template Rede Social, Instagram, TikTok
+- **Ativos de marca** — amostra 5, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f14581f4b325f694929a52d7
+  - Exemplos: Social banner, Imagem de Marketing, Cores da Paleta
+- **Ativos de marca** — amostra 5, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f14581789550ecf23aca721b
+  - Exemplos: Roboto - Medium, Social banner, Cores da Paleta
+- **Ativos de marca** — amostra 5, props 5 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458182b9b1ebdf3b632989
+  - Exemplos: Social banner, Roboto - Medium, Cores da Paleta
+- **Plataformas** — amostra 4, props 6 — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f145814d96abf7a39681772a
+  - Exemplos: TikTok, Facebook , YouTube
+
+## Aproveitar com cuidado
+- **Agenda de Eventos** — amostra 3, props 12 — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/30d207e6f1458034b8f2d56a458aeb34
+  - Exemplos: Confraternização de Aniversariantes do Mês, Treinamento de Compliance e Ética Corporativa, Reunião de Planejamento Estratégico Q1
+- **Calendário de conteúdo** — amostra 6, props 7 — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/30d207e6f14580d2a777d0f6ea3fef1f
+  - Exemplos: Assistência Farmacêutica — Abastecimento, CEO — Endodontia / Raio-X, Endemias — Visitas em Imóveis
+- **PADRÃO LÓGIKA - Calendário Editorial** — amostra 4, props 11 — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/268207e6f14580d08488daef64a2d4a8
+  - Exemplos: Ex: depoimento ou benefício, Quando você percebe que está há 3 horas nas redes sociais sem postar nada para sua marca..., 3 erros que atrapalham seu crescimento nas redes sociais
+- **PRINCIPAL** — amostra 6, props 4 — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a3207e6f14581ed9513fb900301f00e
+  - Exemplos: Posicionamento/ Comunicação ,  ⚙️ Oficina de Conteúdo , Métricas
+- **PRINCIPAL** — amostra 6, props 4 — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a5207e6f14581638371c3117303e3f6
+  - Exemplos: Objetivo Principal ,  ⚙️ Oficina de Conteúdo , Funil de Conteúdo 
+- **Planner** — amostra 3, props 3 — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a3207e6f14581c0b694f7f9bfd476da
+  - Exemplos: (sem título),  Entrevista, Bate papo acessibilidade
+- **PRINCIPAL** — amostra 6, props 4 — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a5207e6f145817da1c3c9d080b0760a
+  - Exemplos:  CÃMARA - Calendário Editorial, Persona , Diagnóstico do Conteúdo 
+- **PRINCIPAL** — amostra 6, props 4 — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a3207e6f1458176a4f9edcb6143a45b
+  - Exemplos: Posicionamento/ Comunicação , Linhas Editoriais , Persona 
+
+## Histórico/revisar antes de apagar
+- **Calendário Editorial** — amostra 6, props 28 — base antiga conhecida; manter temporariamente como histórico até decidir o que migrar
+  - https://app.notion.com/p/1d8207e6f145815399c1f5ae2b4e4e23
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Agenda de Eventos - Secretaria Municipal de Saúde** — amostra 6, props 16 — base antiga conhecida; manter temporariamente como histórico até decidir o que migrar
+  - https://app.notion.com/p/30d207e6f145809d838acdf7bb477adf
+  - Exemplos: OFTALMOLOGISTA , COLETA DOS POTES COLETOR, CADASTRO E DISTRIBUICAO DOS POTES DE COLETOR
+- **Ideias** — amostra 6, props 8 — base antiga conhecida; manter temporariamente como histórico até decidir o que migrar
+  - https://app.notion.com/p/312207e6f14581269ed5d5c4cbce1b7f
+  - Exemplos: Pneumologista - Métrica de atendimentos, Rota da semana atualizada | 06 a 10 de abril
+, COMO MARCAR EXAMES E CONSULTAS NA RECEPCAO DA SECRETARIA E ESPAÇO CUIDAR
+
+## Provável template/duplicado
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/2ae207e6f14580c7b8dad5e553c0e5a2
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/2a9207e6f14580b8b1a2cf47057ac825
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/2a9207e6f14580d6ad02d99320dd99b9
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/2a9207e6f145802f93f4d640a66048d7
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/2a7207e6f145809da424f8ce10478950
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/29f207e6f145800ca20dda5c48c1ba5e
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/29f207e6f14580039accedbc904c66db
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/27f207e6f1458006a74ce42332aa8a56
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/27f207e6f145800fbcd1e9fbbba9a765
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f14580e0ade0fde8cfc54a4a
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f145800880bccd01e7a586e8
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f14580309f67fb87ed8846bf
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f145805c8e4eda9966879a6b
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f145806eae27cafcba60a87a
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f14580c3b95be37fda324397
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f145807a964beb8db0ed9d9e
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f14580a78375f038e431e805
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f14580ef99e8f1c0aef54669
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f14580f69489fd75ea136b96
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f14580ccae71dc997e2d49a8
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f145802b8747d4395b327ed2
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/276207e6f1458075bc7bf22bc97d4375
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Calendário 2024** — amostra 5, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145810ca8d8e6bc68b99ad3
+  - Exemplos: Março , ABRIL , Fevereiro
+- **Assistente IA [template]** — amostra 6, props 14 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145810fa70fc5f028cc99bf
+  - Exemplos: As galáxias mais distantes do mundo, Como diminuir a ansiedade (segundo a ciencia), Como criar conteúdo de social media para medicos
+- **Caixa de Rascunho de Ideias** — amostra 6, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581acbd1ec13e2af1db53
+  - Exemplos: Vídeo sobre Depoimento de Cliente, Nova Ideia, Nova Ideia
+- **Post** — amostra 6, props 12 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145818f8398c034879421d8
+  - Exemplos: Reels, Empreendedorismo , Reels
+- **Acompanhamento** — amostra 3, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145810184f8edc26c5a9db5
+  - Exemplos: 10K Seguidores Instagram , (sem título), Postar 100 Vídeo no Youtube
+- **Client Dashboard** — amostra 4, props 6 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145813b9926e5a0505c2665
+  - Exemplos: Escolha o Tom de Voz, Defina a Personalidade da Marca, Missão, Visão, Valores
+- **Persona** — amostra 6, props 8 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581aa8282e5e9759830e2
+  - Exemplos: Quais os objetivos pessoais e profissionais da Persona, Maiores desafios/ dores que a persona tem em alcançar os objetivos ?, Quais as crenças mais comuns da minha persona?
+- **Ideias de conteúdos** — amostra 4, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581f084b5f2e97a6fa019
+  - Exemplos: Ideias de conteúdos de Atração  ( Topo de Funil), Ideias de conteúdo para Converter ( Fundo de Funil), Ideias de conteúdo para Remarketing ( Fundo de funil)
+- **Tipos de Posts** — amostra 5, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145818bb508f7055587859b
+  - Exemplos: Posts Stories Instagram, Posts Instagram, Vídeos Youtube
+- **Caixa de Rascunho de Ideias** — amostra 0, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581bb8f15f38336c8eced
+- **Post** — amostra 6, props 12 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581309699d9cfe0dbdc54
+  - Exemplos: Estudo de Casos, Reels, Reels
+- **Acompanhamento** — amostra 3, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145813c91b6ed59233fccb1
+  - Exemplos: 10K Seguidores Instagram , (sem título), Postar 100 Vídeo no Youtube
+- **Client Dashboard** — amostra 4, props 6 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581d58394d7ed47fccdb9
+  - Exemplos: Escolha o Tom de Voz, Defina a Personalidade da Marca, Missão, Visão, Valores
+- **Ideias de conteúdos** — amostra 4, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f1458115a064ccb070d3ad70
+  - Exemplos: Ideias de conteúdo para Remarketing ( Fundo de funil), Ideias de conteúdos para Relacionar ( Meio de funil), Ideias de conteúdo para Converter ( Fundo de Funil)
+- **Tipos de Posts** — amostra 5, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145819bb529e31520b0590a
+  - Exemplos: Videos TikTok, Vídeos Youtube, Posts Instagram
+- **Persona** — amostra 6, props 8 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581cc9721d2bfba2e71f5
+  - Exemplos: Quais os objetivos pessoais e profissionais da Persona, Maiores desafios/ dores que a persona tem em alcançar os objetivos ?, Quais as crenças mais comuns da minha persona?
+- **Materiais complementares** — amostra 3, props 2 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/250207e6f14581b09634c34d78abd8ed
+  - Exemplos: DÉ DO CAMPO - Planejamento Estratégico da Nic , Planejamento Estratégico da Nic, Briefing Estratégico da Nic
+- **Materiais Complementares** — amostra 1, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/250207e6f1458178a253deab280858e3
+  - Exemplos: Central de Entregas
+- **Materiais Complementares** — amostra 0, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/250207e6f145817eb919e935be12a566
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/24f207e6f14580b1b713d334d783d104
+  - Exemplos: (sem título), (sem título), Não consigo vender 
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/24f207e6f14580c2ae93f23a6b55e8fb
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Calendário 2024** — amostra 5, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f1458118935befa64a978482
+  - Exemplos: Fevereiro, Março , ABRIL 
+- **Assistente IA [template]** — amostra 6, props 14 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f1458195bec8d833057a6a6f
+  - Exemplos: Como o telescopio james web mudou o mundo, Como diminuir a ansiedade (segundo a ciencia), social media para medicos
+- **Caixa de Rascunho de Ideias** — amostra 6, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f1458113a8d5e57364f7b02d
+  - Exemplos: Reels indIcadores ações, Nova Ideia, Toques finais em uma campanha incrível para o Dr. Paulo
+- **Post** — amostra 6, props 12 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f1458165a28dfd3df4aaee2e
+  - Exemplos: Empreendedorismo , Quanto Rende CDB Inter, Bastidores  
+- **Acompanhamento** — amostra 3, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f145818bb027d0c28721a957
+  - Exemplos: 10K Seguidores Instagram , Postar 100 Vídeo no Youtube, (sem título)
+- **Tipos de Posts** — amostra 5, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f1458120b26eec713a986796
+  - Exemplos: Posts Stories Instagram, Reels Instagram, Videos TikTok
+- **Ideias de conteúdos** — amostra 4, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f1458194a37ae2af9a2c0a1a
+  - Exemplos: Ideias de conteúdos para Relacionar ( Meio de funil), Ideias de conteúdos de Atração  ( Topo de Funil) - , Ideias de conteúdo para Remarketing ( Fundo de funil)
+- **Persona** — amostra 6, props 10 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f1458103b420fb597104e24f
+  - Exemplos: Quais as dúvidas mais comuns que a persona tem em relação ao produto ou serviço oferecido? , Quais sites mais acessados pela minha persona, Quais as Redes Sociais qua a persona costuma usar?
+- **Client Dashboard** — amostra 4, props 6 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f14581e58333fe0ded5eb2b4
+  - Exemplos: Defina a Personalidade da Marca, Missão, Visão, Valores, História
+- **Calendário 2024** — amostra 5, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f14581059683e85cb9bf3f86
+  - Exemplos: ABRIL , Março , Outubro
+- **Assistente IA [template]** — amostra 6, props 14 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f145818bafb5df175f08de6f
+  - Exemplos: Como diminuir a ansiedade (segundo a ciencia), Como diminuir a ansiedade segundo a ciência, Como o telescopio james web mudou o mundo
+- **Caixa de Rascunho de Ideias** — amostra 6, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f145812b9e77e2a0ab9d4f31
+  - Exemplos: Ferramentas para automações e agendamentos de Consultas online, Reels indIcadores ações, Nova Ideia
+- **Acompanhamento** — amostra 3, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f145816583b7fad8221747fb
+  - Exemplos: (sem título), Postar 100 Vídeo no Youtube, 10K Seguidores Instagram 
+- **Post** — amostra 6, props 12 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f14581cfa0c3cea9326364ce
+  - Exemplos: Reels, Reels, Reels
+- **Ideias de conteúdos** — amostra 4, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f14581799e65c7e067c2b160
+  - Exemplos: Ideias de conteúdo para Remarketing ( Fundo de funil), Ideias de conteúdos para Relacionar ( Meio de funil), Ideias de conteúdo para Converter ( Fundo de Funil)
+- **Persona** — amostra 6, props 10 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f14581cfaaf2cbbec2fdfcac
+  - Exemplos: Como podemos ajudar a resolver os problemas da persona?, Dados Demográficos , Quais os objetivos pessoais e profissionais da Persona
+- **Tipos de Posts** — amostra 5, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f145814fab46d742555308f1
+  - Exemplos: Videos TikTok, Vídeos Youtube, Posts Instagram
+- **Client Dashboard** — amostra 4, props 6 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a5207e6f14581c3a091dc55c16ee011
+  - Exemplos: Escolha o Tom de Voz, História, Missão, Visão, Valores
+- **Assistente IA [template]** — amostra 6, props 14 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145810a80a6e6ccc9fd777c
+  - Exemplos: social media para medicos, Como o telescopio james web mudou o mundo, Como diminuir a ansiedade segundo a ciência
+- **Calendário 2024** — amostra 5, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f1458100a4eec641a7d8b47c
+  - Exemplos: ABRIL , Fevereiro, Outubro
+- **Calendário 2024** — amostra 5, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145815ea7f9d04c3585f2d0
+  - Exemplos: Janeiro , Outubro, Fevereiro
+- **Assistente IA [template]** — amostra 6, props 14 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f1458185bdbad48d3b57777a
+  - Exemplos: As galáxias mais distantes do mundo, social media para medicos, Como criar conteúdo de social media para medicos
+- **Caixa de Rascunho de Ideias** — amostra 6, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581b6bb8ad45ec865683d
+  - Exemplos: Ferramentas para automações e agendamentos de Consultas online, Reels indIcadores ações, Aprenda tudo o que você precisa saber para gerir suas redes sociais como um profissional.
+- **Caixa de Rascunho de Ideias** — amostra 6, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f1458150af89f1fc3fb10824
+  - Exemplos: Análise de Casos Reais, Nova Ideia, Nova Ideia
+- **Post** — amostra 6, props 12 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581c48ad1e7fe15fb0ebf
+  - Exemplos: Empreendedorismo , Para Onde Vai o Dólar?, teste
+- **Post** — amostra 6, props 12 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581f7a8dcf82edc2cadb9
+  - Exemplos: Post Feed, Queda na Selic e a Bolsa de Valores, Marketing de Conteúdo 
+- **Acompanhamento** — amostra 3, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581c6a71be7bd8f01c767
+  - Exemplos: 10K Seguidores Instagram , (sem título), Postar 100 Vídeo no Youtube
+- **Acompanhamento** — amostra 3, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581c0bc5ac6cf2c41ec13
+  - Exemplos: 10K Seguidores Instagram , Postar 100 Vídeo no Youtube, (sem título)
+- **Assistente IA [template]** — amostra 6, props 14 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581209454eea2dae6d8ff
+  - Exemplos: As galáxias mais distantes do mundo, Como diminuir a ansiedade (segundo a ciencia), Como o telescopio james web mudou o mundo
+- **Calendário 2024** — amostra 5, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145813999aefb3edf0d099c
+  - Exemplos: ABRIL , Outubro, Janeiro 
+- **Caixa de Rascunho de Ideias** — amostra 6, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581c8826fd58487232ec5
+  - Exemplos: Análise de Casos Reais, Nova Ideia, Nova Ideia
+- **Acompanhamento** — amostra 3, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145818d94e4f735b20814c2
+  - Exemplos: (sem título), Postar 100 Vídeo no Youtube, 10K Seguidores Instagram 
+- **Post** — amostra 6, props 12 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581aabb56e389eed8598f
+  - Exemplos: Bastidores  , Reels, Para Onde Vai o Dólar?
+- **Persona** — amostra 6, props 10 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581dbb861de7ad4768003
+  - Exemplos: Quais as crenças mais comuns da minha persona?, Quais sites mais acessados pela minha persona, Quais as consequências da não adesão dos seu serviço ou produto? 
+- **Client Dashboard** — amostra 4, props 6 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145812cbd72d331467c397c
+  - Exemplos: Missão, Visão, Valores, Defina a Personalidade da Marca, História
+- **Tipos de Posts** — amostra 5, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581508e20fdc5f4e0ac86
+  - Exemplos: Posts Instagram, Reels Instagram, Vídeos Youtube
+- **Ideias de conteúdos** — amostra 4, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581ce8bc1d6df45202304
+  - Exemplos: Ideias de conteúdo para Remarketing ( Fundo de funil), Ideias de conteúdo para Converter ( Fundo de Funil), Ideias de conteúdos de Atração  ( Topo de Funil) - 
+- **Persona** — amostra 6, props 10 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f1458157b1b8f8191c9c9c95
+  - Exemplos: Como podemos ajudar a resolver os problemas da persona?, Maiores desafios/ dores que a persona tem em alcançar os objetivos ?, Quais as consequências da não adesão dos seu serviço ou produto? 
+- **Ideias de conteúdos** — amostra 4, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145815cb48af7fce77e5c36
+  - Exemplos: Ideias de conteúdos de Atração  ( Topo de Funil) - , Ideias de conteúdo para Remarketing ( Fundo de funil), Ideias de conteúdos para Relacionar ( Meio de funil)
+- **Client Dashboard** — amostra 4, props 6 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145810c8e48fd507164f214
+  - Exemplos: Escolha o Tom de Voz, História, Missão, Visão, Valores
+- **Ideias de conteúdos** — amostra 4, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145816791e8d2315d7d2500
+  - Exemplos: Ideias de conteúdos para Relacionar ( Meio de funil), Ideias de conteúdo para Remarketing ( Fundo de funil), Ideias de conteúdos de Atração  ( Topo de Funil)
+- **Tipos de Posts** — amostra 5, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581a69bc2c1488111c31d
+  - Exemplos: Posts Stories Instagram, Reels Instagram, Videos TikTok
+- **Tipos de Posts** — amostra 5, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581f4b5e4caa9f7e50a6f
+  - Exemplos: Vídeos Youtube, Reels Instagram, Posts Instagram
+- **Persona** — amostra 6, props 8 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581289d5efe9485374fb3
+  - Exemplos: Quais sites mais acessados pela minha persona, Quais as consequências da não adesão dos seu serviço ou produto? , Quais as crenças mais comuns da minha persona?
+- **Client Dashboard** — amostra 4, props 6 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581808270e9515bee3fd7
+  - Exemplos: História, Missão, Visão, Valores, Defina a Personalidade da Marca
+- **Assistente IA [template]** — amostra 6, props 14 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581a78d81cba6987059ed
+  - Exemplos: Como diminuir a ansiedade (segundo a ciencia), social media para medicos, Como criar conteúdo de social media para medicos
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581399b7df7ef00787eb7
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — amostra 3, props 4 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581b8854bf3752602edba
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Caixa de Rascunho de Ideias** — amostra 6, props 3 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581a4a636f78489d6ebe9
+  - Exemplos: Ferramentas para automações e agendamentos de Consultas online, Nova Ideia, Nova Ideia
+- **Post** — amostra 6, props 12 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f1458132b91addd8fe1b9b90
+  - Exemplos: Post Feed, Reels, Para Onde Vai o Dólar?
+- **Acompanhamento** — amostra 3, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f145815eb2afedc38b22de57
+  - Exemplos: 10K Seguidores Instagram , (sem título), Postar 10 Vídeos no Youtube
+- **Tipos de Posts** — amostra 5, props 7 — parece template/duplicata; aproveitar só se quiser preservar modelo
+  - https://app.notion.com/p/1a3207e6f14581708322de38ff12e1a8
+  - Exemplos: Reels Instagram, Posts Stories Instagram, Videos TikTok
+
+## Vazio/deletável
+
+## Frio/deletável
+- **(sem título)** — amostra 6, props 1 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/c0b207e6f145831fa7460143af00a62a
+  - Exemplos: Copywriter, Atendimento Clínica Estética, Atendimento Curso Online
+- **(sem título)** — amostra 6, props 4 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/251207e6f145815d8f6ffb91a6633caa
+  - Exemplos: Calendário Editorial MODELO, ACESSOS, Métricas
+- **(sem título)** — amostra 0, props 1 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/251207e6f14581b8bcc4fd17885eb7f5
+- **(sem título)** — amostra 0, props 1 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/251207e6f1458185af72c785e2266263
+- **(sem título)** — amostra 6, props 4 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/251207e6f1458115ab92dfcbf6d09d26
+  - Exemplos: (sem título), Linhas Editoriais , Métricas
+- **(sem título)** — amostra 6, props 2 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f14581088c5ded1e61e8a035
+  - Exemplos: Me ajuda a criar uma marca que abraça, Luisinho!, Para o feed parar: Identidade Visual que causa no insta, Luis, minha marca já existe, mas ela precisa renascer me dá um rebranding estratégico e memorável
+- **Biblioteca de Comandos Gestão** — amostra 6, props 2 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f145811f9487d2318e6ba080
+  - Exemplos: Fefê, quero que a equipe se autogerencie melhor, Me ajuda a priorizar sem surtar, Fernandinha, Fefê, monta o cronograma brabo pra mim
+- **(sem título)** — amostra 0, props 2 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f1458142b3f7c8a7802bf1f7
+- **Biblioteca de Vendas da Carol** — amostra 6, props 2 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f14581458a98e4f2ce699a7b
+  - Exemplos: Justificar valor do produto com argumento estratégico, Recusa por desalinhamento ético ou técnico, Reativando Lead antigo
+- **(sem título)** — amostra 6, props 2 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f145817da9abf9ad8954c62c
+  - Exemplos: Plano de posicionamento, Otimizando com base em resultados, Legendas
+- **Efeitos 5.0 do Luisito** — amostra 1, props 3 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f14581b9b313d475d83ad50e
+  - Exemplos: 5.0 efeitos do Luis
+- **(sem título)** — amostra 6, props 3 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f14581c0b884d8225981b644
+  - Exemplos: Funis, Público Alvo, Métricas
+- **(sem título)** — amostra 6, props 3 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f14581c1a13bfbf9e248e44b
+  - Exemplos: Minha equipe tá uma zona, tô exausta, Quero planejar o semestre com pé no chão, mas eu viajo total né, me ajuda, Quero cobrar mais, mas não passa nem wifi só de pensar que não vou vender
+- **(sem título)** — amostra 6, props 2 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/250207e6f14581e7b38fe6712e468cd9
+  - Exemplos: Criação de novo produto e lançamento, Criando oferta e estrutura, Análise e otimização contínua de um funil perpétuo com tráfego pago
+- **(sem título)** — amostra 6, props 4 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f14581198938c62d5d7573ba
+  - Exemplos: Otimização, Alterações finais, Enviar para aprovação
+- **(sem título)** — amostra 0, props 1 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f14580a59eb6e9d83c6270b2
+- **(sem título)** — amostra 6, props 8 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f14581a6bf71ce6b34df65b3
+  - Exemplos: 14, 04, 27
+- **(sem título)** — amostra 3, props 3 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f14581a8a758ce21613301c4
+  - Exemplos: (sem título), (sem título), (sem título)
+- **(sem título)** — amostra 6, props 4 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f14581d1ae3acaa32fcf7c34
+  - Exemplos: Otimização, Alterações finais, Infraestrutura
+- **(sem título)** — amostra 6, props 4 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f14581d4a0fad38425bc2a94
+  - Exemplos: Otimização, Layout, Reunião de Briefing
+- **(sem título)** — amostra 6, props 4 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f1458163bd63dcc91ceff59d
+  - Exemplos: Otimização, Infraestrutura, (sem título)
+- **(sem título)** — amostra 6, props 4 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f14581e19102cc602543dc58
+  - Exemplos: Enviar para aprovação, Alterações finais, Implementação
+- **(sem título)** — amostra 6, props 4 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f145814ebdbdd8234541e4a8
+  - Exemplos:  ⚙️ Oficina de Conteúdo , Persona , Funil de Conteúdo 
+- **(sem título)** — amostra 2, props 3 — baixo sinal operacional; provável descarte se não houver conteúdo importante visível
+  - https://app.notion.com/p/1a3207e6f14581869f8fe2422b9a1f88
+  - Exemplos: Onboarding, Estratégia de Conteúdo
+
+## Revisar manual
+- **Entradas e Saídas** — amostra 6, props 28 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581c5a419e2ee4f1e4531
+  - Exemplos: CLARO Empresa (1), ADAPT ONE, Chat GPT
+- **Ideias** — amostra 3, props 8 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/316207e6f145814d9535ff40f1fa686c
+  - Exemplos: CHECK-LIST DE NOTEBOOK, CHECK-LIST DE EQUIPAMENTOS, Referência de Áudios
+- **Histórico Balanço Mensal** — amostra 6, props 18 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145812881d9c28d7d0a0c1c
+  - Exemplos: Jan 2026, Dez 2026, (sem título)
+- **Calendário Editorial** — amostra 6, props 13 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/251207e6f14581038ef7f54812d4a331
+  - Exemplos: Tendências de Marketing Digital, Empreendedorismo , Marketing de Conteúdo 
+- **Calendário Editorial** — amostra 6, props 13 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/251207e6f14581118d29daa9c436b48a
+  - Exemplos: Tendências de Marketing Digital, Empreendedorismo , Marketing de Conteúdo 
+- **Ideias** — amostra 1, props 7 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581468e35ea6e1f609bdb
+  - Exemplos: GRAVAR VIDEO DIA DAS MAES - VEREADOR ROGÉRIO
+- **Calendário Editorial** — amostra 6, props 18 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a5207e6f14581d78e38fc9b7a3bedc8
+  - Exemplos: Educação legislativa, (Postagem Extra - Dia do Consumidor), (Postagem Extra - Dia Internacional da Mulher)
+- **Calendário Editorial** — amostra 6, props 18 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a5207e6f14581d6900bc6cc42d302c1
+  - Exemplos: Ações do sindicato e conquistas , Depoimentos e engajamento, Educação e benefícios para o servidor
+- **Calendário Editorial** — amostra 6, props 13 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458196a534f3779941b0bb
+  - Exemplos: BGFGJFD, (sem título), MJHGKMHBCGM
+- **Metas Financeiras** — amostra 1, props 5 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581ff940fd7c4176cf0c4
+  - Exemplos: 10K em 100 dias
+- **Metas Financeira** — amostra 1, props 7 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458111a9e1ffdb689a1b19
+  - Exemplos: (sem título)
+- **Recorrência Entradas** — amostra 2, props 14 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581809307cfb386e0bc65
+  - Exemplos: Fixo, Variável
+- **Recorrência Gastos** — amostra 3, props 14 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581a8b405d245d6f5c245
+  - Exemplos: Variável, Investimentos, Fixo
+- **Calendário Editorial** — amostra 6, props 17 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581a9af1ee61074151551
+  - Exemplos: Voz na Câmara 🗣️, Nos Bastidores da Política 🏛️, Rogério em Movimento 🚀
+- **🤩 Lista de Desejos** — amostra 4, props 8 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581a7b24efa9eaad001ca
+  - Exemplos: Câmera Sony a6400, Monitor 144 HZ, 24’, Iphone 14 Pro Max 512gb
+- **Calculadora Quantas Horas devo Trabalhar para conseguir X reais** — amostra 1, props 6 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145810b8c49fd8da5f14c56
+  - Exemplos: Cliente X
+- **Calculadora Valor por Hora** — amostra 2, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581849039cc07a6fad368
+  - Exemplos: Empresa X, Empresa y
+- **Categorias Entradas e Saídas** — amostra 6, props 24 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581009243d0f74262016b
+  - Exemplos: (sem título), Inteligência Artificial, Aplicativos/Programas
+- **Calendário Editorial** — amostra 6, props 3 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581ccb206fafdef385fa1
+  - Exemplos: Janeiro , Abril , Abril 
+- **⚖️ Balanço Atual** — amostra 1, props 2 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581619097f0f03936561f
+  - Exemplos: Balanço Atual
+- **🆘 Reserva de Emergência** — amostra 1, props 14 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145816189daedda7c80db8b
+  - Exemplos: Reserva de Emergência
+- **BASE** — amostra 6, props 5 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458149a1d6ef2f43cfa136
+  - Exemplos: Reunião de Briefing, Otimização, ARQUIVOS PADRÕES
+- **Dados de acesso (1)** — amostra 6, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581f38e55e4ddc3c147d0
+  - Exemplos: Instagram , RegistroBR, FACEBOOK
+- **Dados de acesso (1)** — amostra 4, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581b4a5b9eff5f027245a
+  - Exemplos: RegistroBR, Wordpress, DigitalOcean
+- **Dados de acesso (1)** — amostra 4, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145814984bdc9385cdfe91c
+  - Exemplos: RegistroBR, Cloudflare, Instagram 
+- **Dados de acesso (1)** — amostra 3, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145814da501f7685c50942f
+  - Exemplos: Instagram, Tiktok, Facebook 
+- **Dados de acesso (1)** — amostra 4, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458153908bcc0d930fbfe6
+  - Exemplos: RegistroBR, Cloudflare, Wordpress
+- **Dados de acesso (1)** — amostra 3, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458182a651fdebb29bc55f
+  - Exemplos: Wordpress, RegistroBR, Instagram 
+- **Empresas favoritas** — amostra 3, props 3 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145810880add9f622bfcdcd
+  - Exemplos: Página 2, Página 3, Página 1
+- **Recursos** — amostra 6, props 3 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145819d959af17838229063
+  - Exemplos: Contabilidade, Lista de Compras, Balanço Atualizado
+- **Livros para ler** — amostra 6, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581399496fb8aadc5873d
+  - Exemplos: Fundamentos da SVG, Seja Útil - Arnold Schwarzenegger, A lógica do Cisne Negro: O impacto do altamente improvável
+- **Gerador de Prompts MidJourney** — amostra 1, props 50 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145813c9e51ee3d16063783
+  - Exemplos: man surrounded of dinosaurs
+- **MidJourney** — amostra 6, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145815fb992c65b2f7cc218
+  - Exemplos: Paisagem Cidade, Minolta Hi-Matic, William Morris Style
+- **ChatGPT** — amostra 5, props 3 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145816386a6c9155ad646fc
+  - Exemplos: Ideias de Vídeos, Gerador de prompts MidJourney, Light Copy
+- **Artigos** — amostra 5, props 3 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458168b7b9c677b875a64b
+  - Exemplos: Learn Performance, What Causes Bad CLS and How to Fix it?, Cache Rules are now GA: precision control over every part of your cache
+- **Vídeos para assistir** — amostra 6, props 3 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581db8f2dd039a6aadd2d
+  - Exemplos: DO THIS Every Day To Melt The FAT AWAY & BUILD MUSCLE, How To Build Awesome Habits: James Clear, HOW TO HIT A VACUUM | Posing Tips and Tricks, Everything You Need To Know - YouTube
+- **LINKS ÚTEIS** — amostra 6, props 4 — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458145a9fec35bf52cb6fb
+  - Exemplos: 📲 [ACESSE AQUI] - Músicas para vídeos, 📲 [ACESSE AQUI] - GIFS para conteúdos, 📲 [ACESSE AQUI] - Baixar vídeos do Pinterest
+## Observação crítica — bases oficiais perderam acesso pela integração
+
+Na checagem direta após a auditoria, as bases oficiais criadas anteriormente retornaram 404 para a API Notion:
+
+- `Inbox / Captura Geral — LÓGIKA` — ID `375207e6-f145-814c-93b4-fe4b3c5f961c`
+- `Produção & Agenda — LÓGIKA` — ID `375207e6-f145-8111-bba0-e132fd820542`
+
+Interpretação provável: as bases ainda podem existir no Notion, mas deixaram de estar compartilhadas com a integração `Loh-bot` após alteração de permissões/conexões.
+
+Ação recomendada antes de qualquer limpeza final:
+
+1. Abrir a página/database oficial no Notion.
+2. Clicar em `•••` → `Connections`.
+3. Confirmar/adicionar novamente `Loh-bot`.
+4. Só depois prosseguir com limpeza/deleção das bases antigas.
+
+Sem isso, a Lôh/Jarvis não consegue usar as bases oficiais como destino operacional.

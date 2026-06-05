@@ -1,0 +1,322 @@
+# Auditoria ampliada Notion LÓGIKA
+
+Databases acessíveis analisadas: 100
+
+## Resumo
+
+- manter_oficial: 0
+- aproveitar: 14
+- revisar_antes_de_deletar: 18
+- provavel_template_duplicado: 53
+- frio_deletavel: 15
+
+## Manter oficial
+
+
+## Aproveitar / estudar para integrar
+
+- **Agenda de Eventos** — props: 12, amostra: 3 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/30d207e6f1458034b8f2d56a458aeb34
+  - Exemplos: Confraternização de Aniversariantes do Mês, Treinamento de Compliance e Ética Corporativa, Reunião de Planejamento Estratégico Q1
+- **Calendário de conteúdo** — props: 7, amostra: 8 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 8 registros
+  - URL: https://app.notion.com/p/30d207e6f14580d2a777d0f6ea3fef1f
+  - Exemplos: Assistência Farmacêutica — Abastecimento, CEO — Endodontia / Raio-X, Endemias — Visitas em Imóveis
+- **Checklist de Edição de Vídeos** — props: 13, amostra: 3 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/316207e6f145809e9ca1cb87b199eb64
+  - Exemplos: Depoimento de Cliente - Cases de Sucesso, Tutorial - Como Usar o Aplicativo, Vídeo Promocional - Lançamento de Produto
+- **LÓGIKA CREATIVE** — props: 6, amostra: 12 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1a3207e6f1458000a89bf3eddc7b91b9
+  - Exemplos: Links e Ferramentas,  ⚙️ Oficina de Conteúdo , Prompts
+- **Leads** — props: 16, amostra: 12 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1a3207e6f14581a78eead2ec1800713f
+  - Exemplos: Dr. Adilson - Clínica de Pneumologia , JAUDINEIDE GERALDINA, EMERSON (BODÃO) - FERROTEC E PREMOLTEC
+- **CRM** — props: 12, amostra: 12 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1a3207e6f145817e87c9ef946669dac8
+  - Exemplos: (sem título), COOPAGRIS EDUARDO, EMANOELA - NUTRICIONISTA
+- **Clientes** — props: 7, amostra: 5 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/1a3207e6f1458185adebe9c5d6370911
+  - Exemplos: DÉ DO CAMPO - Estratégia  de Conteúdo , SINDSS - SINDICATO, CAMARA SÃO SEBASTIÃO
+- **Clientes** — props: 7, amostra: 4 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/1a3207e6f1458108b9e5e40c303b71de
+  - Exemplos: SAÚDE SÃO SEBASTIÃO, Cliente Novo , Cliente : Apple
+- **Plataformas** — props: 5, amostra: 4 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/251207e6f14581f3b351c27fb8c99105
+  - Exemplos: Instagram, Template Rede Social, TikTok
+- **Ativos de marca** — props: 5, amostra: 5 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/251207e6f145812f89cbc4acedecc1ae
+  - Exemplos: Logo, Imagem de Marketing, Roboto - Medium
+- **Plataformas** — props: 5, amostra: 4 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/251207e6f1458119be4efb5db8d2afb2
+  - Exemplos: Template Rede Social, Instagram, TikTok
+- **Ativos de marca** — props: 5, amostra: 5 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/251207e6f14581a7afded80d3fc3742b
+  - Exemplos: Logo, Roboto - Medium, Cores da Paleta
+- **Plataformas** — props: 5, amostra: 4 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/1a5207e6f14581708e6ec3310e171903
+  - Exemplos: TikTok, YouTube, Template Rede Social
+- **Ativos de marca** — props: 5, amostra: 5 — nome/função potencialmente útil para operação, padrão, cliente, comercial ou produção; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/1a5207e6f145815a8613cf555c89a67a
+  - Exemplos: Roboto - Medium, Imagem de Marketing, Social banner
+
+## Revisar antes de deletar
+
+- **PREÇOS E TABELAS - BaseRegionais** — props: 9, amostra: 6 — não classificado com segurança; amostra retornou 6 registros
+  - URL: https://app.notion.com/p/262207e6f145803ebdabd00e70a9c5f7
+  - Exemplos: N, NE, CO
+- **PADRÃO LÓGIKA - Calendário Editorial** — props: 11, amostra: 4 — não classificado com segurança; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/268207e6f14580d08488daef64a2d4a8
+  - Exemplos: Ex: depoimento ou benefício, Quando você percebe que está há 3 horas nas redes sociais sem postar nada para sua marca..., 3 erros que atrapalham seu crescimento nas redes sociais
+- **Calendário Editorial** — props: 28, amostra: 12 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1d8207e6f145815399c1f5ae2b4e4e23
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Agenda de Eventos - Secretaria Municipal de Saúde** — props: 16, amostra: 12 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/30d207e6f145809d838acdf7bb477adf
+  - Exemplos: OFTALMOLOGISTA , COLETA DOS POTES COLETOR, CADASTRO E DISTRIBUICAO DOS POTES DE COLETOR
+- **Ideias** — props: 8, amostra: 6 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 6 registros
+  - URL: https://app.notion.com/p/312207e6f14581269ed5d5c4cbce1b7f
+  - Exemplos: Pneumologista - Métrica de atendimentos, Rota da semana atualizada | 06 a 10 de abril
+, COMO MARCAR EXAMES E CONSULTAS NA RECEPCAO DA SECRETARIA E ESPAÇO CUIDAR
+- **PRINCIPAL** — props: 4, amostra: 8 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 8 registros
+  - URL: https://app.notion.com/p/1a3207e6f14581ed9513fb900301f00e
+  - Exemplos: Posicionamento/ Comunicação ,  ⚙️ Oficina de Conteúdo , Métricas
+- **Entradas e Saídas** — props: 28, amostra: 12 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1a3207e6f14581c5a419e2ee4f1e4531
+  - Exemplos: CLARO Empresa (1), ADAPT ONE, Chat GPT
+- **Ideias** — props: 8, amostra: 3 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/316207e6f145814d9535ff40f1fa686c
+  - Exemplos: CHECK-LIST DE NOTEBOOK, CHECK-LIST DE EQUIPAMENTOS, Referência de Áudios
+- **Histórico Balanço Mensal** — props: 18, amostra: 12 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1a3207e6f145812881d9c28d7d0a0c1c
+  - Exemplos: Jan 2026, Dez 2026, (sem título)
+- **PRINCIPAL** — props: 4, amostra: 10 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 10 registros
+  - URL: https://app.notion.com/p/1a5207e6f14581638371c3117303e3f6
+  - Exemplos: Objetivo Principal ,  ⚙️ Oficina de Conteúdo , Funil de Conteúdo 
+- **Calendário Editorial** — props: 13, amostra: 9 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 9 registros
+  - URL: https://app.notion.com/p/251207e6f14581038ef7f54812d4a331
+  - Exemplos: Tendências de Marketing Digital, Empreendedorismo , Marketing de Conteúdo 
+- **Calendário Editorial** — props: 13, amostra: 9 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 9 registros
+  - URL: https://app.notion.com/p/251207e6f14581118d29daa9c436b48a
+  - Exemplos: Tendências de Marketing Digital, Empreendedorismo , Marketing de Conteúdo 
+- **Equipe** — props: 2, amostra: 8 — não classificado com segurança; amostra retornou 8 registros
+  - URL: https://app.notion.com/p/250207e6f14581f7bea2cfb5ece48962
+  - Exemplos: Estrategista e Copy, Gestor de tráfego, Atendimento e Vendas
+- **Ideias** — props: 7, amostra: 1 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 1 registros
+  - URL: https://app.notion.com/p/1a3207e6f14581468e35ea6e1f609bdb
+  - Exemplos: GRAVAR VIDEO DIA DAS MAES - VEREADOR ROGÉRIO
+- **Planner** — props: 3, amostra: 3 — não classificado com segurança; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/1a3207e6f14581c0b694f7f9bfd476da
+  - Exemplos: (sem título),  Entrevista, Bate papo acessibilidade
+- **Calendário Editorial** — props: 18, amostra: 12 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1a5207e6f14581d78e38fc9b7a3bedc8
+  - Exemplos: Educação legislativa, (Postagem Extra - Dia do Consumidor), (Postagem Extra - Dia Internacional da Mulher)
+- **Calendário Editorial** — props: 18, amostra: 12 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1a5207e6f14581d6900bc6cc42d302c1
+  - Exemplos: Ações do sindicato e conquistas , Depoimentos e engajamento, Educação e benefícios para o servidor
+- **PRINCIPAL** — props: 4, amostra: 10 — pode conter histórico, financeiro, ideias ou calendário antigo; amostra retornou 10 registros
+  - URL: https://app.notion.com/p/1a5207e6f145817da1c3c9d080b0760a
+  - Exemplos:  CÃMARA - Calendário Editorial, Persona , Diagnóstico do Conteúdo 
+
+## Provável template/duplicado
+
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/2ae207e6f14580c7b8dad5e553c0e5a2
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/2a9207e6f14580b8b1a2cf47057ac825
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/2a9207e6f14580d6ad02d99320dd99b9
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/2a9207e6f145802f93f4d640a66048d7
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/2a7207e6f145809da424f8ce10478950
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/29f207e6f145800ca20dda5c48c1ba5e
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/29f207e6f14580039accedbc904c66db
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/27f207e6f1458006a74ce42332aa8a56
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/27f207e6f145800fbcd1e9fbbba9a765
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f14580e0ade0fde8cfc54a4a
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f145800880bccd01e7a586e8
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f14580309f67fb87ed8846bf
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f145805c8e4eda9966879a6b
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f145806eae27cafcba60a87a
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f14580c3b95be37fda324397
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f145807a964beb8db0ed9d9e
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f14580a78375f038e431e805
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f14580ef99e8f1c0aef54669
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f14580f69489fd75ea136b96
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f14580ccae71dc997e2d49a8
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f145802b8747d4395b327ed2
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/276207e6f1458075bc7bf22bc97d4375
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Calendário 2024** — props: 3, amostra: 5 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/251207e6f145810ca8d8e6bc68b99ad3
+  - Exemplos: Março , ABRIL , Fevereiro
+- **Assistente IA [template]** — props: 14, amostra: 6 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 6 registros
+  - URL: https://app.notion.com/p/251207e6f145810fa70fc5f028cc99bf
+  - Exemplos: As galáxias mais distantes do mundo, Como diminuir a ansiedade (segundo a ciencia), Como criar conteúdo de social media para medicos
+- **Caixa de Rascunho de Ideias** — props: 3, amostra: 10 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 10 registros
+  - URL: https://app.notion.com/p/251207e6f14581acbd1ec13e2af1db53
+  - Exemplos: Vídeo sobre Depoimento de Cliente, Nova Ideia, Nova Ideia
+- **Post** — props: 12, amostra: 12 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/251207e6f145818f8398c034879421d8
+  - Exemplos: Reels, Empreendedorismo , Reels
+- **Acompanhamento** — props: 7, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/251207e6f145810184f8edc26c5a9db5
+  - Exemplos: 10K Seguidores Instagram , (sem título), Postar 100 Vídeo no Youtube
+- **Client Dashboard** — props: 6, amostra: 4 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/251207e6f145813b9926e5a0505c2665
+  - Exemplos: Escolha o Tom de Voz, Defina a Personalidade da Marca, Missão, Visão, Valores
+- **Persona** — props: 8, amostra: 11 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 11 registros
+  - URL: https://app.notion.com/p/251207e6f14581aa8282e5e9759830e2
+  - Exemplos: Quais os objetivos pessoais e profissionais da Persona, Maiores desafios/ dores que a persona tem em alcançar os objetivos ?, Quais as crenças mais comuns da minha persona?
+- **Ideias de conteúdos** — props: 3, amostra: 4 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/251207e6f14581f084b5f2e97a6fa019
+  - Exemplos: Ideias de conteúdos de Atração  ( Topo de Funil), Ideias de conteúdo para Converter ( Fundo de Funil), Ideias de conteúdo para Remarketing ( Fundo de funil)
+- **Tipos de Posts** — props: 7, amostra: 5 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/251207e6f145818bb508f7055587859b
+  - Exemplos: Posts Stories Instagram, Posts Instagram, Vídeos Youtube
+- **Caixa de Rascunho de Ideias** — props: 3, amostra: 0 — parece template/duplicata de sistema de conteúdo/curso; amostra sem registros
+  - URL: https://app.notion.com/p/251207e6f14581bb8f15f38336c8eced
+- **Post** — props: 12, amostra: 12 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/251207e6f14581309699d9cfe0dbdc54
+  - Exemplos: Estudo de Casos, Reels, Reels
+- **Acompanhamento** — props: 7, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/251207e6f145813c91b6ed59233fccb1
+  - Exemplos: 10K Seguidores Instagram , (sem título), Postar 100 Vídeo no Youtube
+- **Client Dashboard** — props: 6, amostra: 4 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/251207e6f14581d58394d7ed47fccdb9
+  - Exemplos: Escolha o Tom de Voz, Defina a Personalidade da Marca, Missão, Visão, Valores
+- **Ideias de conteúdos** — props: 3, amostra: 4 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/251207e6f1458115a064ccb070d3ad70
+  - Exemplos: Ideias de conteúdo para Remarketing ( Fundo de funil), Ideias de conteúdos para Relacionar ( Meio de funil), Ideias de conteúdo para Converter ( Fundo de Funil)
+- **Tipos de Posts** — props: 7, amostra: 5 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/251207e6f145819bb529e31520b0590a
+  - Exemplos: Videos TikTok, Vídeos Youtube, Posts Instagram
+- **Persona** — props: 8, amostra: 11 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 11 registros
+  - URL: https://app.notion.com/p/251207e6f14581cc9721d2bfba2e71f5
+  - Exemplos: Quais os objetivos pessoais e profissionais da Persona, Maiores desafios/ dores que a persona tem em alcançar os objetivos ?, Quais as crenças mais comuns da minha persona?
+- **Materiais complementares** — props: 2, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/250207e6f14581b09634c34d78abd8ed
+  - Exemplos: DÉ DO CAMPO - Planejamento Estratégico da Nic , Planejamento Estratégico da Nic, Briefing Estratégico da Nic
+- **Materiais Complementares** — props: 3, amostra: 1 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 1 registros
+  - URL: https://app.notion.com/p/250207e6f1458178a253deab280858e3
+  - Exemplos: Central de Entregas
+- **Materiais Complementares** — props: 3, amostra: 0 — parece template/duplicata de sistema de conteúdo/curso; amostra sem registros
+  - URL: https://app.notion.com/p/250207e6f145817eb919e935be12a566
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/24f207e6f14580b1b713d334d783d104
+  - Exemplos: (sem título), (sem título), Não consigo vender 
+- **Método CIPA** — props: 4, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/24f207e6f14580c2ae93f23a6b55e8fb
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Calendário 2024** — props: 3, amostra: 5 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/1a5207e6f1458118935befa64a978482
+  - Exemplos: Fevereiro, Março , ABRIL 
+- **Assistente IA [template]** — props: 14, amostra: 6 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 6 registros
+  - URL: https://app.notion.com/p/1a5207e6f1458195bec8d833057a6a6f
+  - Exemplos: Como o telescopio james web mudou o mundo, Como diminuir a ansiedade (segundo a ciencia), social media para medicos
+- **Caixa de Rascunho de Ideias** — props: 3, amostra: 10 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 10 registros
+  - URL: https://app.notion.com/p/1a5207e6f1458113a8d5e57364f7b02d
+  - Exemplos: Reels indIcadores ações, Nova Ideia, Toques finais em uma campanha incrível para o Dr. Paulo
+- **Post** — props: 12, amostra: 12 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/1a5207e6f1458165a28dfd3df4aaee2e
+  - Exemplos: Empreendedorismo , Quanto Rende CDB Inter, Bastidores  
+- **Acompanhamento** — props: 7, amostra: 3 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 3 registros
+  - URL: https://app.notion.com/p/1a5207e6f145818bb027d0c28721a957
+  - Exemplos: 10K Seguidores Instagram , Postar 100 Vídeo no Youtube, (sem título)
+- **Tipos de Posts** — props: 7, amostra: 5 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/1a5207e6f1458120b26eec713a986796
+  - Exemplos: Posts Stories Instagram, Reels Instagram, Videos TikTok
+- **Ideias de conteúdos** — props: 3, amostra: 4 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/1a5207e6f1458194a37ae2af9a2c0a1a
+  - Exemplos: Ideias de conteúdos para Relacionar ( Meio de funil), Ideias de conteúdos de Atração  ( Topo de Funil) - , Ideias de conteúdo para Remarketing ( Fundo de funil)
+- **Persona** — props: 10, amostra: 11 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 11 registros
+  - URL: https://app.notion.com/p/1a5207e6f1458103b420fb597104e24f
+  - Exemplos: Quais as dúvidas mais comuns que a persona tem em relação ao produto ou serviço oferecido? , Quais sites mais acessados pela minha persona, Quais as Redes Sociais qua a persona costuma usar?
+- **Client Dashboard** — props: 6, amostra: 4 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 4 registros
+  - URL: https://app.notion.com/p/1a5207e6f14581e58333fe0ded5eb2b4
+  - Exemplos: Defina a Personalidade da Marca, Missão, Visão, Valores, História
+- **Calendário 2024** — props: 3, amostra: 5 — parece template/duplicata de sistema de conteúdo/curso; amostra retornou 5 registros
+  - URL: https://app.notion.com/p/1a5207e6f14581059683e85cb9bf3f86
+  - Exemplos: ABRIL , Março , Outubro
+
+## Frio/deletável com baixo risco aparente
+
+- **(sem título)** — props: 1, amostra: 11 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 11 registros
+  - URL: https://app.notion.com/p/c0b207e6f145831fa7460143af00a62a
+  - Exemplos: Copywriter, Atendimento Clínica Estética, Atendimento Curso Online
+- **(sem título)** — props: 4, amostra: 10 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 10 registros
+  - URL: https://app.notion.com/p/251207e6f145815d8f6ffb91a6633caa
+  - Exemplos: Calendário Editorial MODELO, ACESSOS, Métricas
+- **(sem título)** — props: 1, amostra: 0 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra sem registros
+  - URL: https://app.notion.com/p/251207e6f14581b8bcc4fd17885eb7f5
+- **(sem título)** — props: 1, amostra: 0 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra sem registros
+  - URL: https://app.notion.com/p/251207e6f1458185af72c785e2266263
+- **(sem título)** — props: 4, amostra: 10 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 10 registros
+  - URL: https://app.notion.com/p/251207e6f1458115ab92dfcbf6d09d26
+  - Exemplos: (sem título), Linhas Editoriais , Métricas
+- **(sem título)** — props: 2, amostra: 8 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 8 registros
+  - URL: https://app.notion.com/p/250207e6f14581088c5ded1e61e8a035
+  - Exemplos: Me ajuda a criar uma marca que abraça, Luisinho!, Para o feed parar: Identidade Visual que causa no insta, Luis, minha marca já existe, mas ela precisa renascer me dá um rebranding estratégico e memorável
+- **Biblioteca de Comandos Gestão** — props: 2, amostra: 12 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/250207e6f145811f9487d2318e6ba080
+  - Exemplos: Fefê, quero que a equipe se autogerencie melhor, Me ajuda a priorizar sem surtar, Fernandinha, Fefê, monta o cronograma brabo pra mim
+- **(sem título)** — props: 2, amostra: 0 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra sem registros
+  - URL: https://app.notion.com/p/250207e6f1458142b3f7c8a7802bf1f7
+- **Biblioteca de Vendas da Carol** — props: 2, amostra: 12 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/250207e6f14581458a98e4f2ce699a7b
+  - Exemplos: Justificar valor do produto com argumento estratégico, Recusa por desalinhamento ético ou técnico, Reativando Lead antigo
+- **(sem título)** — props: 2, amostra: 12 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/250207e6f145817da9abf9ad8954c62c
+  - Exemplos: Plano de posicionamento, Otimizando com base em resultados, Legendas
+- **Efeitos 5.0 do Luisito** — props: 3, amostra: 1 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 1 registros
+  - URL: https://app.notion.com/p/250207e6f14581b9b313d475d83ad50e
+  - Exemplos: 5.0 efeitos do Luis
+- **(sem título)** — props: 3, amostra: 9 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 9 registros
+  - URL: https://app.notion.com/p/250207e6f14581c0b884d8225981b644
+  - Exemplos: Funis, Público Alvo, Métricas
+- **(sem título)** — props: 3, amostra: 8 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 8 registros
+  - URL: https://app.notion.com/p/250207e6f14581c1a13bfbf9e248e44b
+  - Exemplos: Minha equipe tá uma zona, tô exausta, Quero planejar o semestre com pé no chão, mas eu viajo total né, me ajuda, Quero cobrar mais, mas não passa nem wifi só de pensar que não vou vender
+- **(sem título)** — props: 2, amostra: 12 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 12 registros
+  - URL: https://app.notion.com/p/250207e6f14581e7b38fe6712e468cd9
+  - Exemplos: Criação de novo produto e lançamento, Criando oferta e estrutura, Análise e otimização contínua de um funil perpétuo com tráfego pago
+- **(sem título)** — props: 4, amostra: 8 — sem título ou material/biblioteca fria; baixo valor operacional aparente; amostra retornou 8 registros
+  - URL: https://app.notion.com/p/1a3207e6f14581198938c62d5d7573ba
+  - Exemplos: Otimização, Alterações finais, Enviar para aprovação
