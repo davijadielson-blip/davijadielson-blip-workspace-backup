@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T03:15:24.969Z",
+  "updatedAt": "2026-06-05T03:58:48.878Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -951,6 +951,37 @@
         "empresa",
         "pessoal",
         "calendar"
+      ]
+    },
+    "memory:memory/2026-06-05.md:178:196": {
+      "key": "memory:memory/2026-06-05.md:178:196",
+      "path": "memory/2026-06-05.md",
+      "startLine": 178,
+      "endLine": 196,
+      "source": "memory",
+      "snippet": "- ASCOM/Secretaria → Cliente Secretaria de Saúde / Conteúdo ou atendimento institucional. - Regra mantida: por enquanto guardar e classificar; não criar/migrar/mover arquivos sem nova autorização de Jadielson. ## Central Pessoal — Warren / Finanças pessoais - 2026-06-05 UTC: Jadielson informou no tópico Alfred que quer chamar o agente de finanças pessoais de **Warren**. - Diagnóstico: o roteamento do tópico `My Finance` (`topic_id: 12`) para `agent_id: my-finance` estava ativo e havia sessão respondendo, mas o nome ainda estava como My Finance e Jadielson reportou que não estava vendo resposta. - Ação: config validada e ajustada para `agents.list[].id = my-finance`, `name = Warren`, `sys",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.41264796257019043,
+      "maxScore": 0.41264796257019043,
+      "firstRecalledAt": "2026-06-05T03:58:48.878Z",
+      "lastRecalledAt": "2026-06-05T03:58:48.878Z",
+      "queryHashes": [
+        "ac1a5ffbb952"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "ascom/secretaria",
+        "criar/migrar/mover",
+        "topic-id",
+        "agent-id",
+        "my-finance",
+        "agents.list",
+        "ascom",
+        "secretaria"
       ]
     }
   }
