@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T00:32:11.838Z",
+  "updatedAt": "2026-06-05T00:37:42.760Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -550,16 +550,17 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "- Regra consolidada em `agentes/ARQUITETURA-AGENTES.md` v0.3: cada grupo terá seu General próprio; a Central Pessoal tem General local, a LÓGIKA deverá ter General local, e futuras frentes também podem ter Generais locais. - A Lôh entra como camada macro para memória, backup, configuração, integração entre grupos, segurança, parede-d'água e decisões transversais. - O General local coordena triagem, prioridades internas, encaminhamento para especialistas e aciona a Lôh quando a questão ultrapassar o grupo. ## Notion LÓGIKA — integração e primeira central operacional - 2026-06-04: Jadielson autorizou a Lôh a organizar o Notion empresarial com liberdade, mantendo segurança: sem excluir nada e",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.0769660164449792,
+      "totalScore": 1.496130003485499,
       "maxScore": 0.6485374440286737,
       "firstRecalledAt": "2026-06-04T20:25:27.604Z",
-      "lastRecalledAt": "2026-06-05T00:25:57.191Z",
+      "lastRecalledAt": "2026-06-05T00:37:42.760Z",
       "queryHashes": [
         "59e8fd69fc94",
-        "078af632c20b"
+        "078af632c20b",
+        "1e970f9becb0"
       ],
       "recallDays": [
         "2026-06-04",
@@ -740,15 +741,16 @@
       "endLine": 60,
       "source": "memory",
       "snippet": "## Notion LÓGIKA — decisão de unificação editorial/eventos - 2026-06-04: Jadielson decidiu unificar calendário editorial e agenda de eventos em uma base única, separando por `Frente/Cliente` e principalmente por `Tipo`. - Racional: eventos também podem gerar conteúdo; separar por databases aumenta risco de esquecer demandas e perde panorama geral. - Nova database criada no Notion: `Produção & Agenda — LÓGIKA`, URL: https://app.notion.com/p/375207e6f1458111bba0e132fd820542 - Propriedades criadas: Nome, Frente/Cliente, Tipo, Data principal, Data do evento, Data de publicação, Gera conteúdo?, Entregas previstas, Status geral, Status produção, Plataforma, Prioridade, Responsável, Briefing/Rotei",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4536355912685394,
+      "totalScore": 0.8546348601579665,
       "maxScore": 0.4536355912685394,
       "firstRecalledAt": "2026-06-05T00:25:57.191Z",
-      "lastRecalledAt": "2026-06-05T00:25:57.191Z",
+      "lastRecalledAt": "2026-06-05T00:37:42.760Z",
       "queryHashes": [
-        "078af632c20b"
+        "078af632c20b",
+        "1e970f9becb0"
       ],
       "recallDays": [
         "2026-06-05"
@@ -762,6 +764,68 @@
         "decisão",
         "unificação",
         "editorial"
+      ]
+    },
+    "memory:memory/2026-06-05.md:23:39": {
+      "key": "memory:memory/2026-06-05.md:23:39",
+      "path": "memory/2026-06-05.md",
+      "startLine": 23,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "- `1Wb3LlwZYXI2Vrh6pJtyKuGlA9A-day9KgHQ_XfBzqDc` — `[TESTE OPENCLAW] drive.file Sheets - pode apagar depois`. - Pessoal `davijadielson@gmail.com`: arquivos movidos para a lixeira e verificados com `trashed=true` / `explicitlyTrashed=true`: - `1tYIkDr0WRbKIVHrjEuv6ScZzx3w9mRHShuAe-QnifGc` — `[TESTE OPENCLAW] drive.file Docs - pode apagar depois`. - `1YkxRPyRHXyhYwyzDuLa3EPMK3bOsgFc7eZyNK-3z60s` — `[TESTE OPENCLAW] drive.file Sheets - pode apagar depois`. - Regra mantida: exclusão permanente de arquivos do Drive continua exigindo confirmação humana explícita. # 2026-06-05 ## Notion LÓGIKA — auditoria ampliada após novas conexões - Jadielson compartilhou novas databases com a integração",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.43641863763332367,
+      "maxScore": 0.43641863763332367,
+      "firstRecalledAt": "2026-06-05T00:37:42.760Z",
+      "lastRecalledAt": "2026-06-05T00:37:42.760Z",
+      "queryHashes": [
+        "1e970f9becb0"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "drive.file",
+        "gmail.com",
+        "1wb3llwzyxi2vrh6pjtykugla9a",
+        "day9kghq-xfbzqdc",
+        "teste",
+        "openclaw",
+        "sheets",
+        "pode"
+      ]
+    },
+    "memory:memory/2026-06-04.md:32:47": {
+      "key": "memory:memory/2026-06-04.md:32:47",
+      "path": "memory/2026-06-04.md",
+      "startLine": 32,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "- Página criada no Notion: `Central LÓGIKA — Mapa Operacional (rascunho)`, URL: https://app.notion.com/p/Central-L-GIKA-Mapa-Operacional-rascunho-375207e6f1458189a88beba22afc8c8d - Decisão operacional: usar a Central LÓGIKA como mapa leve para humanos e agentes; manter databases existentes por enquanto; padronizar campos e consolidar apenas em fases futuras. ## Central LÓGIKA Notion — plano executivo e v0.2 - 2026-06-04: Jadielson autorizou prosseguir com o próximo passo da Central LÓGIKA. - Criado plano executivo em `/data/.openclaw/workspace/memory/projects/central-logika-notion/PLAN.md`. - A tentativa de atualizar a página rascunho anterior retornou 404 no endpoint de blocos; a página d",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.41018885672092437,
+      "maxScore": 0.41018885672092437,
+      "firstRecalledAt": "2026-06-05T00:37:42.760Z",
+      "lastRecalledAt": "2026-06-05T00:37:42.760Z",
+      "queryHashes": [
+        "1e970f9becb0"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "v0.2",
+        "página",
+        "criada",
+        "notion",
+        "central",
+        "lógika",
+        "mapa",
+        "operacional"
       ]
     }
   }

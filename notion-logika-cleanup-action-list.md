@@ -1,0 +1,326 @@
+# Lista objetiva de limpeza — Notion LÓGIKA
+
+Gerado após recompartilhamento das bases oficiais com `Loh-bot`.
+
+## 1. Manter sem mexer
+
+Essas são as bases oficiais atuais. Não deletar.
+- **Inbox / Captura Geral — LÓGIKA** — base oficial de entrada; acesso restaurado com Loh-bot
+  - https://app.notion.com/p/375207e6f145814c93b4fe4b3c5f961c
+- **Produção & Agenda — LÓGIKA** — base oficial de produção/agenda; acesso restaurado com Loh-bot
+  - https://app.notion.com/p/375207e6f1458111bba0e132fd820542
+
+## 2. Aproveitar antes de deletar/arquivar
+
+Essas têm valor operacional ou material reaproveitável. Sugestão: abrir, extrair o que importa e só depois limpar.
+- **LÓGIKA CREATIVE** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458000a89bf3eddc7b91b9
+  - Exemplos: Links e Ferramentas,  ⚙️ Oficina de Conteúdo , Prompts
+- **Leads** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f14581a78eead2ec1800713f
+  - Exemplos: Dr. Adilson - Clínica de Pneumologia , JAUDINEIDE GERALDINA, EMERSON (BODÃO) - FERROTEC E PREMOLTEC
+- **CRM** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f145817e87c9ef946669dac8
+  - Exemplos: (sem título), COOPAGRIS EDUARDO, EMANOELA - NUTRICIONISTA
+- **Clientes** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458185adebe9c5d6370911
+  - Exemplos: DÉ DO CAMPO - Estratégia  de Conteúdo , SINDSS - SINDICATO, CAMARA SÃO SEBASTIÃO
+- **Clientes** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458108b9e5e40c303b71de
+  - Exemplos: SAÚDE SÃO SEBASTIÃO, Cliente Novo , Cliente : Apple
+- **Equipe** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/250207e6f14581f7bea2cfb5ece48962
+  - Exemplos: Estrategista e Copy, Gestor de tráfego, Atendimento e Vendas
+- **Checklist de Edição de Vídeos** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/316207e6f145809e9ca1cb87b199eb64
+  - Exemplos: Depoimento de Cliente - Cases de Sucesso, Tutorial - Como Usar o Aplicativo, Vídeo Promocional - Lançamento de Produto
+- **Ativos de marca** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/251207e6f145812f89cbc4acedecc1ae
+  - Exemplos: Logo, Imagem de Marketing, Roboto - Medium
+- **Ativos de marca** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/251207e6f14581a7afded80d3fc3742b
+  - Exemplos: Logo, Roboto - Medium, Cores da Paleta
+- **Ativos de marca** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a5207e6f145815a8613cf555c89a67a
+  - Exemplos: Roboto - Medium, Imagem de Marketing, Social banner
+- **Ativos de marca** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a5207e6f14581d1bec1cb565537cd92
+  - Exemplos: Cores da Paleta, Imagem de Marketing, Roboto - Medium
+- **Ativos de marca** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f14581f4b325f694929a52d7
+  - Exemplos: Social banner, Imagem de Marketing, Cores da Paleta
+- **Ativos de marca** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f14581789550ecf23aca721b
+  - Exemplos: Roboto - Medium, Social banner, Cores da Paleta
+- **Ativos de marca** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458182b9b1ebdf3b632989
+  - Exemplos: Social banner, Roboto - Medium, Cores da Paleta
+- **Plataformas** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/251207e6f14581f3b351c27fb8c99105
+  - Exemplos: Instagram, Template Rede Social, TikTok
+- **Plataformas** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/251207e6f1458119be4efb5db8d2afb2
+  - Exemplos: Template Rede Social, Instagram, TikTok
+- **Plataformas** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a5207e6f14581708e6ec3310e171903
+  - Exemplos: TikTok, YouTube, Template Rede Social
+- **Plataformas** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a5207e6f145810895f7e293e8935698
+  - Exemplos: Instagram, TikTok, YouTube
+- **Plataformas** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458189ac0fe45f1e0a74d5
+  - Exemplos: Template Rede Social, YouTube, TikTok
+- **Plataformas** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f14581e2b342f21acfd38b28
+  - Exemplos: YouTube, Template Rede Social, Instagram
+- **Plataformas** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f1458179b365c5b748d38aed
+  - Exemplos: Template Rede Social, Instagram, TikTok
+- **Plataformas** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/1a3207e6f145814d96abf7a39681772a
+  - Exemplos: TikTok, Facebook , YouTube
+- **PREÇOS E TABELAS - BaseRegionais** — pode virar cadastro/apoio comercial, padrão de produção ou referência útil
+  - https://app.notion.com/p/262207e6f145803ebdabd00e70a9c5f7
+  - Exemplos: N, NE, CO
+- **PADRÃO LÓGIKA - Calendário Editorial** — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/268207e6f14580d08488daef64a2d4a8
+  - Exemplos: Ex: depoimento ou benefício, Quando você percebe que está há 3 horas nas redes sociais sem postar nada para sua marca..., 3 erros que atrapalham seu crescimento nas redes sociais
+- **Agenda de Eventos** — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/30d207e6f1458034b8f2d56a458aeb34
+  - Exemplos: Confraternização de Aniversariantes do Mês, Treinamento de Compliance e Ética Corporativa, Reunião de Planejamento Estratégico Q1
+- **Calendário de conteúdo** — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/30d207e6f14580d2a777d0f6ea3fef1f
+  - Exemplos: Assistência Farmacêutica — Abastecimento, CEO — Endodontia / Raio-X, Endemias — Visitas em Imóveis
+- **PRINCIPAL** — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a3207e6f14581ed9513fb900301f00e
+  - Exemplos: Posicionamento/ Comunicação ,  ⚙️ Oficina de Conteúdo , Métricas
+- **PRINCIPAL** — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a5207e6f14581638371c3117303e3f6
+  - Exemplos: Objetivo Principal ,  ⚙️ Oficina de Conteúdo , Funil de Conteúdo 
+- **PRINCIPAL** — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a5207e6f145817da1c3c9d080b0760a
+  - Exemplos:  CÃMARA - Calendário Editorial, Persona , Diagnóstico do Conteúdo 
+- **PRINCIPAL** — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a3207e6f1458176a4f9edcb6143a45b
+  - Exemplos: Posicionamento/ Comunicação , Linhas Editoriais , Persona 
+- **Planner** — pode conter modelo ou conteúdo reaproveitável para a base mestre
+  - https://app.notion.com/p/1a3207e6f14581c0b694f7f9bfd476da
+  - Exemplos: (sem título),  Entrevista, Bate papo acessibilidade
+
+## 3. Histórico — revisar antes de apagar
+
+Essas são bases antigas ligadas ao que já reorganizamos. Não precisam ficar como operação principal, mas podem conter histórico útil.
+- **Calendário Editorial** — base antiga conhecida; manter temporariamente como histórico até decidir o que migrar
+  - https://app.notion.com/p/1d8207e6f145815399c1f5ae2b4e4e23
+  - Exemplos: (sem título), (sem título), (sem título)
+- **Agenda de Eventos - Secretaria Municipal de Saúde** — base antiga conhecida; manter temporariamente como histórico até decidir o que migrar
+  - https://app.notion.com/p/30d207e6f145809d838acdf7bb477adf
+  - Exemplos: OFTALMOLOGISTA , COLETA DOS POTES COLETOR, CADASTRO E DISTRIBUICAO DOS POTES DE COLETOR
+- **Ideias** — base antiga conhecida; manter temporariamente como histórico até decidir o que migrar
+  - https://app.notion.com/p/312207e6f14581269ed5d5c4cbce1b7f
+  - Exemplos: Pneumologista - Métrica de atendimentos, Rota da semana atualizada | 06 a 10 de abril
+, COMO MARCAR EXAMES E CONSULTAS NA RECEPCAO DA SECRETARIA E ESPAÇO CUIDAR
+
+## 4. Pode arquivar/deletar em lote com baixo risco aparente
+
+Recomendação: se for deletar, prefira primeiro arquivar/mover para uma área “Lixeira revisão” por alguns dias.
+- **Método CIPA** — 26 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/2ae207e6f14580c7b8dad5e553c0e5a2
+  - https://app.notion.com/p/2a9207e6f14580b8b1a2cf47057ac825
+  - https://app.notion.com/p/2a9207e6f14580d6ad02d99320dd99b9
+  - https://app.notion.com/p/2a9207e6f145802f93f4d640a66048d7
+  - https://app.notion.com/p/2a7207e6f145809da424f8ce10478950
+  - ...
+- **(sem título)** — 21 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/c0b207e6f145831fa7460143af00a62a
+  - https://app.notion.com/p/251207e6f145815d8f6ffb91a6633caa
+  - https://app.notion.com/p/251207e6f14581b8bcc4fd17885eb7f5
+  - https://app.notion.com/p/251207e6f1458185af72c785e2266263
+  - https://app.notion.com/p/251207e6f1458115ab92dfcbf6d09d26
+  - ...
+- **Caixa de Rascunho de Ideias** — 8 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581acbd1ec13e2af1db53
+  - https://app.notion.com/p/251207e6f14581bb8f15f38336c8eced
+  - https://app.notion.com/p/1a5207e6f1458113a8d5e57364f7b02d
+  - https://app.notion.com/p/1a5207e6f145812b9e77e2a0ab9d4f31
+  - https://app.notion.com/p/1a3207e6f14581b6bb8ad45ec865683d
+  - ...
+- **Post** — 8 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145818f8398c034879421d8
+  - https://app.notion.com/p/251207e6f14581309699d9cfe0dbdc54
+  - https://app.notion.com/p/1a5207e6f1458165a28dfd3df4aaee2e
+  - https://app.notion.com/p/1a5207e6f14581cfa0c3cea9326364ce
+  - https://app.notion.com/p/1a3207e6f14581c48ad1e7fe15fb0ebf
+  - ...
+- **Acompanhamento** — 8 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145810184f8edc26c5a9db5
+  - https://app.notion.com/p/251207e6f145813c91b6ed59233fccb1
+  - https://app.notion.com/p/1a5207e6f145818bb027d0c28721a957
+  - https://app.notion.com/p/1a5207e6f145816583b7fad8221747fb
+  - https://app.notion.com/p/1a3207e6f14581c6a71be7bd8f01c767
+  - ...
+- **Tipos de Posts** — 8 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145818bb508f7055587859b
+  - https://app.notion.com/p/251207e6f145819bb529e31520b0590a
+  - https://app.notion.com/p/1a5207e6f1458120b26eec713a986796
+  - https://app.notion.com/p/1a5207e6f145814fab46d742555308f1
+  - https://app.notion.com/p/1a3207e6f14581508e20fdc5f4e0ac86
+  - ...
+- **Assistente IA [template]** — 7 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145810fa70fc5f028cc99bf
+  - https://app.notion.com/p/1a5207e6f1458195bec8d833057a6a6f
+  - https://app.notion.com/p/1a5207e6f145818bafb5df175f08de6f
+  - https://app.notion.com/p/1a3207e6f145810a80a6e6ccc9fd777c
+  - https://app.notion.com/p/1a3207e6f1458185bdbad48d3b57777a
+  - ...
+- **Client Dashboard** — 7 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145813b9926e5a0505c2665
+  - https://app.notion.com/p/251207e6f14581d58394d7ed47fccdb9
+  - https://app.notion.com/p/1a5207e6f14581e58333fe0ded5eb2b4
+  - https://app.notion.com/p/1a5207e6f14581c3a091dc55c16ee011
+  - https://app.notion.com/p/1a3207e6f145812cbd72d331467c397c
+  - ...
+- **Persona** — 7 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581aa8282e5e9759830e2
+  - https://app.notion.com/p/251207e6f14581cc9721d2bfba2e71f5
+  - https://app.notion.com/p/1a5207e6f1458103b420fb597104e24f
+  - https://app.notion.com/p/1a5207e6f14581cfaaf2cbbec2fdfcac
+  - https://app.notion.com/p/1a3207e6f14581dbb861de7ad4768003
+  - ...
+- **Ideias de conteúdos** — 7 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f14581f084b5f2e97a6fa019
+  - https://app.notion.com/p/251207e6f1458115a064ccb070d3ad70
+  - https://app.notion.com/p/1a5207e6f1458194a37ae2af9a2c0a1a
+  - https://app.notion.com/p/1a5207e6f14581799e65c7e067c2b160
+  - https://app.notion.com/p/1a3207e6f14581ce8bc1d6df45202304
+  - ...
+- **Calendário 2024** — 6 bases — grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo
+  - https://app.notion.com/p/251207e6f145810ca8d8e6bc68b99ad3
+  - https://app.notion.com/p/1a5207e6f1458118935befa64a978482
+  - https://app.notion.com/p/1a5207e6f14581059683e85cb9bf3f86
+  - https://app.notion.com/p/1a3207e6f1458100a4eec641a7d8b47c
+  - https://app.notion.com/p/1a3207e6f145815ea7f9d04c3585f2d0
+  - ...
+
+## 5. Revisar manualmente
+
+Não recomendo deletar automaticamente estas sem olhar, porque o nome/amostra não deixou claro o suficiente.
+- **Entradas e Saídas** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581c5a419e2ee4f1e4531
+  - Exemplos: CLARO Empresa (1), ADAPT ONE, Chat GPT
+- **Ideias** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/316207e6f145814d9535ff40f1fa686c
+  - Exemplos: CHECK-LIST DE NOTEBOOK, CHECK-LIST DE EQUIPAMENTOS, Referência de Áudios
+- **Histórico Balanço Mensal** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145812881d9c28d7d0a0c1c
+  - Exemplos: Jan 2026, Dez 2026, (sem título)
+- **Calendário Editorial** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/251207e6f14581038ef7f54812d4a331
+  - Exemplos: Tendências de Marketing Digital, Empreendedorismo , Marketing de Conteúdo 
+- **Calendário Editorial** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/251207e6f14581118d29daa9c436b48a
+  - Exemplos: Tendências de Marketing Digital, Empreendedorismo , Marketing de Conteúdo 
+- **Ideias** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581468e35ea6e1f609bdb
+  - Exemplos: GRAVAR VIDEO DIA DAS MAES - VEREADOR ROGÉRIO
+- **Calendário Editorial** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a5207e6f14581d78e38fc9b7a3bedc8
+  - Exemplos: Educação legislativa, (Postagem Extra - Dia do Consumidor), (Postagem Extra - Dia Internacional da Mulher)
+- **Calendário Editorial** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a5207e6f14581d6900bc6cc42d302c1
+  - Exemplos: Ações do sindicato e conquistas , Depoimentos e engajamento, Educação e benefícios para o servidor
+- **Calendário Editorial** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458196a534f3779941b0bb
+  - Exemplos: BGFGJFD, (sem título), MJHGKMHBCGM
+- **Metas Financeiras** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581ff940fd7c4176cf0c4
+  - Exemplos: 10K em 100 dias
+- **Metas Financeira** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458111a9e1ffdb689a1b19
+  - Exemplos: (sem título)
+- **Recorrência Entradas** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581809307cfb386e0bc65
+  - Exemplos: Fixo, Variável
+- **Recorrência Gastos** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581a8b405d245d6f5c245
+  - Exemplos: Variável, Investimentos, Fixo
+- **Calendário Editorial** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581a9af1ee61074151551
+  - Exemplos: Voz na Câmara 🗣️, Nos Bastidores da Política 🏛️, Rogério em Movimento 🚀
+- **🤩 Lista de Desejos** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581a7b24efa9eaad001ca
+  - Exemplos: Câmera Sony a6400, Monitor 144 HZ, 24’, Iphone 14 Pro Max 512gb
+- **Calculadora Quantas Horas devo Trabalhar para conseguir X reais** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145810b8c49fd8da5f14c56
+  - Exemplos: Cliente X
+- **Calculadora Valor por Hora** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581849039cc07a6fad368
+  - Exemplos: Empresa X, Empresa y
+- **Categorias Entradas e Saídas** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581009243d0f74262016b
+  - Exemplos: (sem título), Inteligência Artificial, Aplicativos/Programas
+- **Calendário Editorial** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581ccb206fafdef385fa1
+  - Exemplos: Janeiro , Abril , Abril 
+- **⚖️ Balanço Atual** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581619097f0f03936561f
+  - Exemplos: Balanço Atual
+- **🆘 Reserva de Emergência** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145816189daedda7c80db8b
+  - Exemplos: Reserva de Emergência
+- **BASE** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458149a1d6ef2f43cfa136
+  - Exemplos: Reunião de Briefing, Otimização, ARQUIVOS PADRÕES
+- **Dados de acesso (1)** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581f38e55e4ddc3c147d0
+  - Exemplos: Instagram , RegistroBR, FACEBOOK
+- **Dados de acesso (1)** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581b4a5b9eff5f027245a
+  - Exemplos: RegistroBR, Wordpress, DigitalOcean
+- **Dados de acesso (1)** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145814984bdc9385cdfe91c
+  - Exemplos: RegistroBR, Cloudflare, Instagram 
+- **Dados de acesso (1)** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145814da501f7685c50942f
+  - Exemplos: Instagram, Tiktok, Facebook 
+- **Dados de acesso (1)** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458153908bcc0d930fbfe6
+  - Exemplos: RegistroBR, Cloudflare, Wordpress
+- **Dados de acesso (1)** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458182a651fdebb29bc55f
+  - Exemplos: Wordpress, RegistroBR, Instagram 
+- **Empresas favoritas** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145810880add9f622bfcdcd
+  - Exemplos: Página 2, Página 3, Página 1
+- **Recursos** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145819d959af17838229063
+  - Exemplos: Contabilidade, Lista de Compras, Balanço Atualizado
+- **Livros para ler** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581399496fb8aadc5873d
+  - Exemplos: Fundamentos da SVG, Seja Útil - Arnold Schwarzenegger, A lógica do Cisne Negro: O impacto do altamente improvável
+- **Gerador de Prompts MidJourney** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145813c9e51ee3d16063783
+  - Exemplos: man surrounded of dinosaurs
+- **MidJourney** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145815fb992c65b2f7cc218
+  - Exemplos: Paisagem Cidade, Minolta Hi-Matic, William Morris Style
+- **ChatGPT** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f145816386a6c9155ad646fc
+  - Exemplos: Ideias de Vídeos, Gerador de prompts MidJourney, Light Copy
+- **Artigos** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458168b7b9c677b875a64b
+  - Exemplos: Learn Performance, What Causes Bad CLS and How to Fix it?, Cache Rules are now GA: precision control over every part of your cache
+- **Vídeos para assistir** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f14581db8f2dd039a6aadd2d
+  - Exemplos: DO THIS Every Day To Melt The FAT AWAY & BUILD MUSCLE, How To Build Awesome Habits: James Clear, HOW TO HIT A VACUUM | Posing Tips and Tricks, Everything You Need To Know - YouTube
+- **LINKS ÚTEIS** — não deu para classificar automaticamente; revisar antes de apagar
+  - https://app.notion.com/p/1a3207e6f1458145a9fec35bf52cb6fb
+  - Exemplos: 📲 [ACESSE AQUI] - Músicas para vídeos, 📲 [ACESSE AQUI] - GIFS para conteúdos, 📲 [ACESSE AQUI] - Baixar vídeos do Pinterest
+
+## Minha recomendação de ordem
+
+1. Manter as 2 bases oficiais.
+2. Abrir e aproveitar: LÓGIKA CREATIVE, Clientes, CRM, Leads, Checklist de Edição, Ativos de marca, Plataformas, PADRÃO LÓGIKA.
+3. Preservar temporariamente os calendários/agendas antigos como histórico.
+4. Deletar/arquivar em lote os repetidos de Método CIPA, templates duplicados e sem título, se você confirmar visualmente que são restos frios.
+5. Depois, revisar os 37 itens manuais restantes.

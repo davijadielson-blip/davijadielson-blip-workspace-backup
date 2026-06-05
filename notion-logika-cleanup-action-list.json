@@ -1,0 +1,2230 @@
+{
+  "keep_official": [
+    {
+      "title": "Inbox / Captura Geral — LÓGIKA",
+      "url": "https://app.notion.com/p/375207e6f145814c93b4fe4b3c5f961c",
+      "reason": "base oficial de entrada; acesso restaurado com Loh-bot",
+      "sample_count": "n/a",
+      "sample_titles": []
+    },
+    {
+      "title": "Produção & Agenda — LÓGIKA",
+      "url": "https://app.notion.com/p/375207e6f1458111bba0e132fd820542",
+      "reason": "base oficial de produção/agenda; acesso restaurado com Loh-bot",
+      "sample_count": "n/a",
+      "sample_titles": []
+    }
+  ],
+  "important": [
+    {
+      "title": "LÓGIKA CREATIVE",
+      "id": "1a3207e6-f145-8000-a89b-f3eddc7b91b9",
+      "url": "https://app.notion.com/p/1a3207e6f1458000a89bf3eddc7b91b9",
+      "sample_count": 6,
+      "sample_titles": [
+        "Links e Ferramentas",
+        " ⚙️ Oficina de Conteúdo ",
+        "Prompts",
+        "Estudo"
+      ],
+      "property_count": 6,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Leads",
+      "id": "1a3207e6-f145-81a7-8eea-d2ec1800713f",
+      "url": "https://app.notion.com/p/1a3207e6f14581a78eead2ec1800713f",
+      "sample_count": 6,
+      "sample_titles": [
+        "Dr. Adilson - Clínica de Pneumologia ",
+        "JAUDINEIDE GERALDINA",
+        "EMERSON (BODÃO) - FERROTEC E PREMOLTEC",
+        "AF DENTISTAS"
+      ],
+      "property_count": 16,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "CRM",
+      "id": "1a3207e6-f145-817e-87c9-ef946669dac8",
+      "url": "https://app.notion.com/p/1a3207e6f145817e87c9ef946669dac8",
+      "sample_count": 6,
+      "sample_titles": [
+        "(sem título)",
+        "COOPAGRIS EDUARDO",
+        "EMANOELA - NUTRICIONISTA",
+        "ADRIANO - CLICO SOLAR"
+      ],
+      "property_count": 12,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Clientes",
+      "id": "1a3207e6-f145-8185-adeb-e9c5d6370911",
+      "url": "https://app.notion.com/p/1a3207e6f1458185adebe9c5d6370911",
+      "sample_count": 5,
+      "sample_titles": [
+        "DÉ DO CAMPO - Estratégia  de Conteúdo ",
+        "SINDSS - SINDICATO",
+        "CAMARA SÃO SEBASTIÃO",
+        "ROGÉRIO ROCHA"
+      ],
+      "property_count": 7,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Clientes",
+      "id": "1a3207e6-f145-8108-b9e5-e40c303b71de",
+      "url": "https://app.notion.com/p/1a3207e6f1458108b9e5e40c303b71de",
+      "sample_count": 4,
+      "sample_titles": [
+        "SAÚDE SÃO SEBASTIÃO",
+        "Cliente Novo ",
+        "Cliente : Apple",
+        "CLIENTE 2"
+      ],
+      "property_count": 7,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Equipe",
+      "id": "250207e6-f145-81f7-bea2-cfb5ece48962",
+      "url": "https://app.notion.com/p/250207e6f14581f7bea2cfb5ece48962",
+      "sample_count": 6,
+      "sample_titles": [
+        "Estrategista e Copy",
+        "Gestor de tráfego",
+        "Atendimento e Vendas",
+        "Consultora"
+      ],
+      "property_count": 2,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Checklist de Edição de Vídeos",
+      "id": "316207e6-f145-809e-9ca1-cb87b199eb64",
+      "url": "https://app.notion.com/p/316207e6f145809e9ca1cb87b199eb64",
+      "sample_count": 3,
+      "sample_titles": [
+        "Depoimento de Cliente - Cases de Sucesso",
+        "Tutorial - Como Usar o Aplicativo",
+        "Vídeo Promocional - Lançamento de Produto"
+      ],
+      "property_count": 13,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Ativos de marca",
+      "id": "251207e6-f145-812f-89cb-c4acedecc1ae",
+      "url": "https://app.notion.com/p/251207e6f145812f89cbc4acedecc1ae",
+      "sample_count": 5,
+      "sample_titles": [
+        "Logo",
+        "Imagem de Marketing",
+        "Roboto - Medium",
+        "Cores da Paleta"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Ativos de marca",
+      "id": "251207e6-f145-81a7-afde-d80d3fc3742b",
+      "url": "https://app.notion.com/p/251207e6f14581a7afded80d3fc3742b",
+      "sample_count": 5,
+      "sample_titles": [
+        "Logo",
+        "Roboto - Medium",
+        "Cores da Paleta",
+        "Imagem de Marketing"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Ativos de marca",
+      "id": "1a5207e6-f145-815a-8613-cf555c89a67a",
+      "url": "https://app.notion.com/p/1a5207e6f145815a8613cf555c89a67a",
+      "sample_count": 5,
+      "sample_titles": [
+        "Roboto - Medium",
+        "Imagem de Marketing",
+        "Social banner",
+        "Logo"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Ativos de marca",
+      "id": "1a5207e6-f145-81d1-bec1-cb565537cd92",
+      "url": "https://app.notion.com/p/1a5207e6f14581d1bec1cb565537cd92",
+      "sample_count": 5,
+      "sample_titles": [
+        "Cores da Paleta",
+        "Imagem de Marketing",
+        "Roboto - Medium",
+        "Social banner"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Ativos de marca",
+      "id": "1a3207e6-f145-81f4-b325-f694929a52d7",
+      "url": "https://app.notion.com/p/1a3207e6f14581f4b325f694929a52d7",
+      "sample_count": 5,
+      "sample_titles": [
+        "Social banner",
+        "Imagem de Marketing",
+        "Cores da Paleta",
+        "Logo"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Ativos de marca",
+      "id": "1a3207e6-f145-8178-9550-ecf23aca721b",
+      "url": "https://app.notion.com/p/1a3207e6f14581789550ecf23aca721b",
+      "sample_count": 5,
+      "sample_titles": [
+        "Roboto - Medium",
+        "Social banner",
+        "Cores da Paleta",
+        "Imagem de Marketing"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Ativos de marca",
+      "id": "1a3207e6-f145-8182-b9b1-ebdf3b632989",
+      "url": "https://app.notion.com/p/1a3207e6f1458182b9b1ebdf3b632989",
+      "sample_count": 5,
+      "sample_titles": [
+        "Social banner",
+        "Roboto - Medium",
+        "Cores da Paleta",
+        "Imagem de Marketing"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Plataformas",
+      "id": "251207e6-f145-81f3-b351-c27fb8c99105",
+      "url": "https://app.notion.com/p/251207e6f14581f3b351c27fb8c99105",
+      "sample_count": 4,
+      "sample_titles": [
+        "Instagram",
+        "Template Rede Social",
+        "TikTok",
+        "YouTube"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Plataformas",
+      "id": "251207e6-f145-8119-be4e-fb5db8d2afb2",
+      "url": "https://app.notion.com/p/251207e6f1458119be4efb5db8d2afb2",
+      "sample_count": 4,
+      "sample_titles": [
+        "Template Rede Social",
+        "Instagram",
+        "TikTok",
+        "YouTube"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Plataformas",
+      "id": "1a5207e6-f145-8170-8e6e-c3310e171903",
+      "url": "https://app.notion.com/p/1a5207e6f14581708e6ec3310e171903",
+      "sample_count": 4,
+      "sample_titles": [
+        "TikTok",
+        "YouTube",
+        "Template Rede Social",
+        "Instagram"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Plataformas",
+      "id": "1a5207e6-f145-8108-95f7-e293e8935698",
+      "url": "https://app.notion.com/p/1a5207e6f145810895f7e293e8935698",
+      "sample_count": 4,
+      "sample_titles": [
+        "Instagram",
+        "TikTok",
+        "YouTube",
+        "Template Rede Social"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Plataformas",
+      "id": "1a3207e6-f145-8189-ac0f-e45f1e0a74d5",
+      "url": "https://app.notion.com/p/1a3207e6f1458189ac0fe45f1e0a74d5",
+      "sample_count": 4,
+      "sample_titles": [
+        "Template Rede Social",
+        "YouTube",
+        "TikTok",
+        "Instagram"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Plataformas",
+      "id": "1a3207e6-f145-81e2-b342-f21acfd38b28",
+      "url": "https://app.notion.com/p/1a3207e6f14581e2b342f21acfd38b28",
+      "sample_count": 4,
+      "sample_titles": [
+        "YouTube",
+        "Template Rede Social",
+        "Instagram",
+        "TikTok"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Plataformas",
+      "id": "1a3207e6-f145-8179-b365-c5b748d38aed",
+      "url": "https://app.notion.com/p/1a3207e6f1458179b365c5b748d38aed",
+      "sample_count": 4,
+      "sample_titles": [
+        "Template Rede Social",
+        "Instagram",
+        "TikTok",
+        "YouTube"
+      ],
+      "property_count": 5,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "Plataformas",
+      "id": "1a3207e6-f145-814d-96ab-f7a39681772a",
+      "url": "https://app.notion.com/p/1a3207e6f145814d96abf7a39681772a",
+      "sample_count": 4,
+      "sample_titles": [
+        "TikTok",
+        "Facebook ",
+        "YouTube",
+        "Instagram"
+      ],
+      "property_count": 6,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "PREÇOS E TABELAS - BaseRegionais",
+      "id": "262207e6-f145-803e-bdab-d00e70a9c5f7",
+      "url": "https://app.notion.com/p/262207e6f145803ebdabd00e70a9c5f7",
+      "sample_count": 6,
+      "sample_titles": [
+        "N",
+        "NE",
+        "CO",
+        "Sul"
+      ],
+      "property_count": 9,
+      "reason": "pode virar cadastro/apoio comercial, padrão de produção ou referência útil"
+    },
+    {
+      "title": "PADRÃO LÓGIKA - Calendário Editorial",
+      "id": "268207e6-f145-80d0-8488-daef64a2d4a8",
+      "url": "https://app.notion.com/p/268207e6f14580d08488daef64a2d4a8",
+      "sample_count": 4,
+      "sample_titles": [
+        "Ex: depoimento ou benefício",
+        "Quando você percebe que está há 3 horas nas redes sociais sem postar nada para sua marca...",
+        "3 erros que atrapalham seu crescimento nas redes sociais",
+        "Nosso jeito de pensar diferente"
+      ],
+      "property_count": 11,
+      "reason": "pode conter modelo ou conteúdo reaproveitável para a base mestre"
+    },
+    {
+      "title": "Agenda de Eventos",
+      "id": "30d207e6-f145-8034-b8f2-d56a458aeb34",
+      "url": "https://app.notion.com/p/30d207e6f1458034b8f2d56a458aeb34",
+      "sample_count": 3,
+      "sample_titles": [
+        "Confraternização de Aniversariantes do Mês",
+        "Treinamento de Compliance e Ética Corporativa",
+        "Reunião de Planejamento Estratégico Q1"
+      ],
+      "property_count": 12,
+      "reason": "pode conter modelo ou conteúdo reaproveitável para a base mestre"
+    },
+    {
+      "title": "Calendário de conteúdo",
+      "id": "30d207e6-f145-80d2-a777-d0f6ea3fef1f",
+      "url": "https://app.notion.com/p/30d207e6f14580d2a777d0f6ea3fef1f",
+      "sample_count": 6,
+      "sample_titles": [
+        "Assistência Farmacêutica — Abastecimento",
+        "CEO — Endodontia / Raio-X",
+        "Endemias — Visitas em Imóveis",
+        "PSE — Escola / Antropometria / Saúde Bucal"
+      ],
+      "property_count": 7,
+      "reason": "pode conter modelo ou conteúdo reaproveitável para a base mestre"
+    },
+    {
+      "title": "PRINCIPAL",
+      "id": "1a3207e6-f145-81ed-9513-fb900301f00e",
+      "url": "https://app.notion.com/p/1a3207e6f14581ed9513fb900301f00e",
+      "sample_count": 6,
+      "sample_titles": [
+        "Posicionamento/ Comunicação ",
+        " ⚙️ Oficina de Conteúdo ",
+        "Métricas",
+        "Diagnóstico do Conteúdo "
+      ],
+      "property_count": 4,
+      "reason": "pode conter modelo ou conteúdo reaproveitável para a base mestre"
+    },
+    {
+      "title": "PRINCIPAL",
+      "id": "1a5207e6-f145-8163-8371-c3117303e3f6",
+      "url": "https://app.notion.com/p/1a5207e6f14581638371c3117303e3f6",
+      "sample_count": 6,
+      "sample_titles": [
+        "Objetivo Principal ",
+        " ⚙️ Oficina de Conteúdo ",
+        "Funil de Conteúdo ",
+        "ESTRATÉGIA LÓGIKA P.O.D.E BASE"
+      ],
+      "property_count": 4,
+      "reason": "pode conter modelo ou conteúdo reaproveitável para a base mestre"
+    },
+    {
+      "title": "PRINCIPAL",
+      "id": "1a5207e6-f145-817d-a1c3-c9d080b0760a",
+      "url": "https://app.notion.com/p/1a5207e6f145817da1c3c9d080b0760a",
+      "sample_count": 6,
+      "sample_titles": [
+        " CÃMARA - Calendário Editorial",
+        "Persona ",
+        "Diagnóstico do Conteúdo ",
+        "Linhas Editoriais - CÂMARA"
+      ],
+      "property_count": 4,
+      "reason": "pode conter modelo ou conteúdo reaproveitável para a base mestre"
+    },
+    {
+      "title": "PRINCIPAL",
+      "id": "1a3207e6-f145-8176-a4f9-edcb6143a45b",
+      "url": "https://app.notion.com/p/1a3207e6f1458176a4f9edcb6143a45b",
+      "sample_count": 6,
+      "sample_titles": [
+        "Posicionamento/ Comunicação ",
+        "Linhas Editoriais ",
+        "Persona ",
+        "Objetivo Principal "
+      ],
+      "property_count": 4,
+      "reason": "pode conter modelo ou conteúdo reaproveitável para a base mestre"
+    },
+    {
+      "title": "Planner",
+      "id": "1a3207e6-f145-81c0-b694-f7f9bfd476da",
+      "url": "https://app.notion.com/p/1a3207e6f14581c0b694f7f9bfd476da",
+      "sample_count": 3,
+      "sample_titles": [
+        "(sem título)",
+        " Entrevista",
+        "Bate papo acessibilidade"
+      ],
+      "property_count": 3,
+      "reason": "pode conter modelo ou conteúdo reaproveitável para a base mestre"
+    }
+  ],
+  "historico": [
+    {
+      "title": "Calendário Editorial",
+      "id": "1d8207e6-f145-8153-99c1-f5ae2b4e4e23",
+      "url": "https://app.notion.com/p/1d8207e6f145815399c1f5ae2b4e4e23",
+      "sample_count": 6,
+      "sample_titles": [
+        "(sem título)",
+        "(sem título)",
+        "(sem título)",
+        "(sem título)"
+      ],
+      "property_count": 28,
+      "reason": "base antiga conhecida; manter temporariamente como histórico até decidir o que migrar"
+    },
+    {
+      "title": "Agenda de Eventos - Secretaria Municipal de Saúde",
+      "id": "30d207e6-f145-809d-838a-cdf7bb477adf",
+      "url": "https://app.notion.com/p/30d207e6f145809d838acdf7bb477adf",
+      "sample_count": 6,
+      "sample_titles": [
+        "OFTALMOLOGISTA ",
+        "COLETA DOS POTES COLETOR",
+        "CADASTRO E DISTRIBUICAO DOS POTES DE COLETOR",
+        "INTEGRACAO DOS AGENTEE"
+      ],
+      "property_count": 16,
+      "reason": "base antiga conhecida; manter temporariamente como histórico até decidir o que migrar"
+    },
+    {
+      "title": "Ideias",
+      "id": "312207e6-f145-8126-9ed5-d5c4cbce1b7f",
+      "url": "https://app.notion.com/p/312207e6f14581269ed5d5c4cbce1b7f",
+      "sample_count": 6,
+      "sample_titles": [
+        "Pneumologista - Métrica de atendimentos",
+        "Rota da semana atualizada | 06 a 10 de abril\n",
+        "COMO MARCAR EXAMES E CONSULTAS NA RECEPCAO DA SECRETARIA E ESPAÇO CUIDAR",
+        "Marcações de exames e Consultas"
+      ],
+      "property_count": 8,
+      "reason": "base antiga conhecida; manter temporariamente como histórico até decidir o que migrar"
+    }
+  ],
+  "safe_groups": [
+    {
+      "title": "Método CIPA",
+      "count": 26,
+      "items": [
+        {
+          "title": "Método CIPA",
+          "id": "2ae207e6-f145-80c7-b8da-d5e553c0e5a2",
+          "url": "https://app.notion.com/p/2ae207e6f14580c7b8dad5e553c0e5a2",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "2a9207e6-f145-80b8-b1a2-cf47057ac825",
+          "url": "https://app.notion.com/p/2a9207e6f14580b8b1a2cf47057ac825",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "2a9207e6-f145-80d6-ad02-d99320dd99b9",
+          "url": "https://app.notion.com/p/2a9207e6f14580d6ad02d99320dd99b9",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "2a9207e6-f145-802f-93f4-d640a66048d7",
+          "url": "https://app.notion.com/p/2a9207e6f145802f93f4d640a66048d7",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "2a7207e6-f145-809d-a424-f8ce10478950",
+          "url": "https://app.notion.com/p/2a7207e6f145809da424f8ce10478950",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "29f207e6-f145-800c-a20d-da5c48c1ba5e",
+          "url": "https://app.notion.com/p/29f207e6f145800ca20dda5c48c1ba5e",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "29f207e6-f145-8003-9acc-edbc904c66db",
+          "url": "https://app.notion.com/p/29f207e6f14580039accedbc904c66db",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "27f207e6-f145-8006-a74c-e42332aa8a56",
+          "url": "https://app.notion.com/p/27f207e6f1458006a74ce42332aa8a56",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "27f207e6-f145-800f-bcd1-e9fbbba9a765",
+          "url": "https://app.notion.com/p/27f207e6f145800fbcd1e9fbbba9a765",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Método CIPA",
+          "id": "276207e6-f145-80e0-ade0-fde8cfc54a4a",
+          "url": "https://app.notion.com/p/276207e6f14580e0ade0fde8cfc54a4a",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "(sem título)",
+            "(sem título)"
+          ],
+          "property_count": 4,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "(sem título)",
+      "count": 21,
+      "items": [
+        {
+          "title": "(sem título)",
+          "id": "c0b207e6-f145-831f-a746-0143af00a62a",
+          "url": "https://app.notion.com/p/c0b207e6f145831fa7460143af00a62a",
+          "sample_count": 6,
+          "sample_titles": [
+            "Copywriter",
+            "Atendimento Clínica Estética",
+            "Atendimento Curso Online",
+            "Atendimento Delivery"
+          ],
+          "property_count": 1,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "251207e6-f145-815d-8f6f-fb91a6633caa",
+          "url": "https://app.notion.com/p/251207e6f145815d8f6ffb91a6633caa",
+          "sample_count": 6,
+          "sample_titles": [
+            "Calendário Editorial MODELO",
+            "ACESSOS",
+            "Métricas",
+            "Posicionamento/ Comunicação "
+          ],
+          "property_count": 4,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "251207e6-f145-81b8-bcc4-fd17885eb7f5",
+          "url": "https://app.notion.com/p/251207e6f14581b8bcc4fd17885eb7f5",
+          "sample_count": 0,
+          "sample_titles": [],
+          "property_count": 1,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "251207e6-f145-8185-af72-c785e2266263",
+          "url": "https://app.notion.com/p/251207e6f1458185af72c785e2266263",
+          "sample_count": 0,
+          "sample_titles": [],
+          "property_count": 1,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "251207e6-f145-8115-ab92-dfcbf6d09d26",
+          "url": "https://app.notion.com/p/251207e6f1458115ab92dfcbf6d09d26",
+          "sample_count": 6,
+          "sample_titles": [
+            "(sem título)",
+            "Linhas Editoriais ",
+            "Métricas",
+            "Posicionamento/ Comunicação "
+          ],
+          "property_count": 4,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "250207e6-f145-8108-8c5d-ed1e61e8a035",
+          "url": "https://app.notion.com/p/250207e6f14581088c5ded1e61e8a035",
+          "sample_count": 6,
+          "sample_titles": [
+            "Me ajuda a criar uma marca que abraça, Luisinho!",
+            "Para o feed parar: Identidade Visual que causa no insta",
+            "Luis, minha marca já existe, mas ela precisa renascer me dá um rebranding estratégico e memorável",
+            "Design de posts"
+          ],
+          "property_count": 2,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "250207e6-f145-8142-b3f7-c8a7802bf1f7",
+          "url": "https://app.notion.com/p/250207e6f1458142b3f7c8a7802bf1f7",
+          "sample_count": 0,
+          "sample_titles": [],
+          "property_count": 2,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "250207e6-f145-817d-a9ab-f9ad8954c62c",
+          "url": "https://app.notion.com/p/250207e6f145817da9abf9ad8954c62c",
+          "sample_count": 6,
+          "sample_titles": [
+            "Plano de posicionamento",
+            "Otimizando com base em resultados",
+            "Legendas",
+            "Post Educativo"
+          ],
+          "property_count": 2,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "250207e6-f145-81c0-b884-d8225981b644",
+          "url": "https://app.notion.com/p/250207e6f14581c0b884d8225981b644",
+          "sample_count": 6,
+          "sample_titles": [
+            "Funis",
+            "Público Alvo",
+            "Métricas",
+            "Investimento"
+          ],
+          "property_count": 3,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        },
+        {
+          "title": "(sem título)",
+          "id": "250207e6-f145-81c1-a13b-fbf9e248e44b",
+          "url": "https://app.notion.com/p/250207e6f14581c1a13bfbf9e248e44b",
+          "sample_count": 6,
+          "sample_titles": [
+            "Minha equipe tá uma zona, tô exausta",
+            "Quero planejar o semestre com pé no chão, mas eu viajo total né, me ajuda",
+            "Quero cobrar mais, mas não passa nem wifi só de pensar que não vou vender",
+            "Tô atraindo cliente errado, help"
+          ],
+          "property_count": 3,
+          "reason": "baixo sinal operacional; provável descarte se não houver conteúdo importante visível"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Caixa de Rascunho de Ideias",
+      "count": 8,
+      "items": [
+        {
+          "title": "Caixa de Rascunho de Ideias",
+          "id": "251207e6-f145-81ac-bd1e-c13e2af1db53",
+          "url": "https://app.notion.com/p/251207e6f14581acbd1ec13e2af1db53",
+          "sample_count": 6,
+          "sample_titles": [
+            "Vídeo sobre Depoimento de Cliente",
+            "Nova Ideia",
+            "Nova Ideia",
+            "Toques finais em uma campanha incrível para o Dr. Paulo"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Caixa de Rascunho de Ideias",
+          "id": "251207e6-f145-81bb-8f15-f38336c8eced",
+          "url": "https://app.notion.com/p/251207e6f14581bb8f15f38336c8eced",
+          "sample_count": 0,
+          "sample_titles": [],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Caixa de Rascunho de Ideias",
+          "id": "1a5207e6-f145-8113-a8d5-e57364f7b02d",
+          "url": "https://app.notion.com/p/1a5207e6f1458113a8d5e57364f7b02d",
+          "sample_count": 6,
+          "sample_titles": [
+            "Reels indIcadores ações",
+            "Nova Ideia",
+            "Toques finais em uma campanha incrível para o Dr. Paulo",
+            "Nova Ideia"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Caixa de Rascunho de Ideias",
+          "id": "1a5207e6-f145-812b-9e77-e2a0ab9d4f31",
+          "url": "https://app.notion.com/p/1a5207e6f145812b9e77e2a0ab9d4f31",
+          "sample_count": 6,
+          "sample_titles": [
+            "Ferramentas para automações e agendamentos de Consultas online",
+            "Reels indIcadores ações",
+            "Nova Ideia",
+            "Aprenda tudo o que você precisa saber para gerir suas redes sociais como um profissional."
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Caixa de Rascunho de Ideias",
+          "id": "1a3207e6-f145-81b6-bb8a-d45ec865683d",
+          "url": "https://app.notion.com/p/1a3207e6f14581b6bb8ad45ec865683d",
+          "sample_count": 6,
+          "sample_titles": [
+            "Ferramentas para automações e agendamentos de Consultas online",
+            "Reels indIcadores ações",
+            "Aprenda tudo o que você precisa saber para gerir suas redes sociais como um profissional.",
+            "Análise de Casos Reais"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Caixa de Rascunho de Ideias",
+          "id": "1a3207e6-f145-8150-af89-f1fc3fb10824",
+          "url": "https://app.notion.com/p/1a3207e6f1458150af89f1fc3fb10824",
+          "sample_count": 6,
+          "sample_titles": [
+            "Análise de Casos Reais",
+            "Nova Ideia",
+            "Nova Ideia",
+            "Aprenda tudo o que você precisa saber para gerir suas redes sociais como um profissional."
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Caixa de Rascunho de Ideias",
+          "id": "1a3207e6-f145-81c8-826f-d58487232ec5",
+          "url": "https://app.notion.com/p/1a3207e6f14581c8826fd58487232ec5",
+          "sample_count": 6,
+          "sample_titles": [
+            "Análise de Casos Reais",
+            "Nova Ideia",
+            "Nova Ideia",
+            "Entenda como o marketing de conteúdo pode atrair mais pacientes para o seu consultório."
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Caixa de Rascunho de Ideias",
+          "id": "1a3207e6-f145-81a4-a636-f78489d6ebe9",
+          "url": "https://app.notion.com/p/1a3207e6f14581a4a636f78489d6ebe9",
+          "sample_count": 6,
+          "sample_titles": [
+            "Ferramentas para automações e agendamentos de Consultas online",
+            "Nova Ideia",
+            "Nova Ideia",
+            "Nova Ideia"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Post",
+      "count": 8,
+      "items": [
+        {
+          "title": "Post",
+          "id": "251207e6-f145-818f-8398-c034879421d8",
+          "url": "https://app.notion.com/p/251207e6f145818f8398c034879421d8",
+          "sample_count": 6,
+          "sample_titles": [
+            "Reels",
+            "Empreendedorismo ",
+            "Reels",
+            "Reels"
+          ],
+          "property_count": 12,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Post",
+          "id": "251207e6-f145-8130-9699-d9cfe0dbdc54",
+          "url": "https://app.notion.com/p/251207e6f14581309699d9cfe0dbdc54",
+          "sample_count": 6,
+          "sample_titles": [
+            "Estudo de Casos",
+            "Reels",
+            "Reels",
+            "Reels"
+          ],
+          "property_count": 12,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Post",
+          "id": "1a5207e6-f145-8165-a28d-fd3df4aaee2e",
+          "url": "https://app.notion.com/p/1a5207e6f1458165a28dfd3df4aaee2e",
+          "sample_count": 6,
+          "sample_titles": [
+            "Empreendedorismo ",
+            "Quanto Rende CDB Inter",
+            "Bastidores  ",
+            "Reels"
+          ],
+          "property_count": 12,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Post",
+          "id": "1a5207e6-f145-81cf-a0c3-cea9326364ce",
+          "url": "https://app.notion.com/p/1a5207e6f14581cfa0c3cea9326364ce",
+          "sample_count": 6,
+          "sample_titles": [
+            "Reels",
+            "Reels",
+            "Reels",
+            "Marketing de Conteúdo "
+          ],
+          "property_count": 12,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Post",
+          "id": "1a3207e6-f145-81c4-8ad1-e7fe15fb0ebf",
+          "url": "https://app.notion.com/p/1a3207e6f14581c48ad1e7fe15fb0ebf",
+          "sample_count": 6,
+          "sample_titles": [
+            "Empreendedorismo ",
+            "Para Onde Vai o Dólar?",
+            "teste",
+            "Quanto Rende CDB Inter"
+          ],
+          "property_count": 12,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Post",
+          "id": "1a3207e6-f145-81f7-a8dc-f82edc2cadb9",
+          "url": "https://app.notion.com/p/1a3207e6f14581f7a8dcf82edc2cadb9",
+          "sample_count": 6,
+          "sample_titles": [
+            "Post Feed",
+            "Queda na Selic e a Bolsa de Valores",
+            "Marketing de Conteúdo ",
+            "Bastidores  "
+          ],
+          "property_count": 12,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Post",
+          "id": "1a3207e6-f145-81aa-bb56-e389eed8598f",
+          "url": "https://app.notion.com/p/1a3207e6f14581aabb56e389eed8598f",
+          "sample_count": 6,
+          "sample_titles": [
+            "Bastidores  ",
+            "Reels",
+            "Para Onde Vai o Dólar?",
+            "Post Feed"
+          ],
+          "property_count": 12,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Post",
+          "id": "1a3207e6-f145-8132-b91a-ddd8fe1b9b90",
+          "url": "https://app.notion.com/p/1a3207e6f1458132b91addd8fe1b9b90",
+          "sample_count": 6,
+          "sample_titles": [
+            "Post Feed",
+            "Reels",
+            "Para Onde Vai o Dólar?",
+            "Bastidores  "
+          ],
+          "property_count": 12,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Acompanhamento",
+      "count": 8,
+      "items": [
+        {
+          "title": "Acompanhamento",
+          "id": "251207e6-f145-8101-84f8-edc26c5a9db5",
+          "url": "https://app.notion.com/p/251207e6f145810184f8edc26c5a9db5",
+          "sample_count": 3,
+          "sample_titles": [
+            "10K Seguidores Instagram ",
+            "(sem título)",
+            "Postar 100 Vídeo no Youtube"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Acompanhamento",
+          "id": "251207e6-f145-813c-91b6-ed59233fccb1",
+          "url": "https://app.notion.com/p/251207e6f145813c91b6ed59233fccb1",
+          "sample_count": 3,
+          "sample_titles": [
+            "10K Seguidores Instagram ",
+            "(sem título)",
+            "Postar 100 Vídeo no Youtube"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Acompanhamento",
+          "id": "1a5207e6-f145-818b-b027-d0c28721a957",
+          "url": "https://app.notion.com/p/1a5207e6f145818bb027d0c28721a957",
+          "sample_count": 3,
+          "sample_titles": [
+            "10K Seguidores Instagram ",
+            "Postar 100 Vídeo no Youtube",
+            "(sem título)"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Acompanhamento",
+          "id": "1a5207e6-f145-8165-83b7-fad8221747fb",
+          "url": "https://app.notion.com/p/1a5207e6f145816583b7fad8221747fb",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "Postar 100 Vídeo no Youtube",
+            "10K Seguidores Instagram "
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Acompanhamento",
+          "id": "1a3207e6-f145-81c6-a71b-e7bd8f01c767",
+          "url": "https://app.notion.com/p/1a3207e6f14581c6a71be7bd8f01c767",
+          "sample_count": 3,
+          "sample_titles": [
+            "10K Seguidores Instagram ",
+            "(sem título)",
+            "Postar 100 Vídeo no Youtube"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Acompanhamento",
+          "id": "1a3207e6-f145-81c0-bc5a-c6cf2c41ec13",
+          "url": "https://app.notion.com/p/1a3207e6f14581c0bc5ac6cf2c41ec13",
+          "sample_count": 3,
+          "sample_titles": [
+            "10K Seguidores Instagram ",
+            "Postar 100 Vídeo no Youtube",
+            "(sem título)"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Acompanhamento",
+          "id": "1a3207e6-f145-818d-94e4-f735b20814c2",
+          "url": "https://app.notion.com/p/1a3207e6f145818d94e4f735b20814c2",
+          "sample_count": 3,
+          "sample_titles": [
+            "(sem título)",
+            "Postar 100 Vídeo no Youtube",
+            "10K Seguidores Instagram "
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Acompanhamento",
+          "id": "1a3207e6-f145-815e-b2af-edc38b22de57",
+          "url": "https://app.notion.com/p/1a3207e6f145815eb2afedc38b22de57",
+          "sample_count": 3,
+          "sample_titles": [
+            "10K Seguidores Instagram ",
+            "(sem título)",
+            "Postar 10 Vídeos no Youtube"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Tipos de Posts",
+      "count": 8,
+      "items": [
+        {
+          "title": "Tipos de Posts",
+          "id": "251207e6-f145-818b-b508-f7055587859b",
+          "url": "https://app.notion.com/p/251207e6f145818bb508f7055587859b",
+          "sample_count": 5,
+          "sample_titles": [
+            "Posts Stories Instagram",
+            "Posts Instagram",
+            "Vídeos Youtube",
+            "Videos TikTok"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Tipos de Posts",
+          "id": "251207e6-f145-819b-b529-e31520b0590a",
+          "url": "https://app.notion.com/p/251207e6f145819bb529e31520b0590a",
+          "sample_count": 5,
+          "sample_titles": [
+            "Videos TikTok",
+            "Vídeos Youtube",
+            "Posts Instagram",
+            "Reels Instagram"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Tipos de Posts",
+          "id": "1a5207e6-f145-8120-b26e-ec713a986796",
+          "url": "https://app.notion.com/p/1a5207e6f1458120b26eec713a986796",
+          "sample_count": 5,
+          "sample_titles": [
+            "Posts Stories Instagram",
+            "Reels Instagram",
+            "Videos TikTok",
+            "Vídeos Youtube"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Tipos de Posts",
+          "id": "1a5207e6-f145-814f-ab46-d742555308f1",
+          "url": "https://app.notion.com/p/1a5207e6f145814fab46d742555308f1",
+          "sample_count": 5,
+          "sample_titles": [
+            "Videos TikTok",
+            "Vídeos Youtube",
+            "Posts Instagram",
+            "Reels Instagram"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Tipos de Posts",
+          "id": "1a3207e6-f145-8150-8e20-fdc5f4e0ac86",
+          "url": "https://app.notion.com/p/1a3207e6f14581508e20fdc5f4e0ac86",
+          "sample_count": 5,
+          "sample_titles": [
+            "Posts Instagram",
+            "Reels Instagram",
+            "Vídeos Youtube",
+            "Videos TikTok"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Tipos de Posts",
+          "id": "1a3207e6-f145-81a6-9bc2-c1488111c31d",
+          "url": "https://app.notion.com/p/1a3207e6f14581a69bc2c1488111c31d",
+          "sample_count": 5,
+          "sample_titles": [
+            "Posts Stories Instagram",
+            "Reels Instagram",
+            "Videos TikTok",
+            "Vídeos Youtube"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Tipos de Posts",
+          "id": "1a3207e6-f145-81f4-b5e4-caa9f7e50a6f",
+          "url": "https://app.notion.com/p/1a3207e6f14581f4b5e4caa9f7e50a6f",
+          "sample_count": 5,
+          "sample_titles": [
+            "Vídeos Youtube",
+            "Reels Instagram",
+            "Posts Instagram",
+            "Videos TikTok"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Tipos de Posts",
+          "id": "1a3207e6-f145-8170-8322-de38ff12e1a8",
+          "url": "https://app.notion.com/p/1a3207e6f14581708322de38ff12e1a8",
+          "sample_count": 5,
+          "sample_titles": [
+            "Reels Instagram",
+            "Posts Stories Instagram",
+            "Videos TikTok",
+            "Posts Instagram"
+          ],
+          "property_count": 7,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Assistente IA [template]",
+      "count": 7,
+      "items": [
+        {
+          "title": "Assistente IA [template]",
+          "id": "251207e6-f145-810f-a70f-c5f028cc99bf",
+          "url": "https://app.notion.com/p/251207e6f145810fa70fc5f028cc99bf",
+          "sample_count": 6,
+          "sample_titles": [
+            "As galáxias mais distantes do mundo",
+            "Como diminuir a ansiedade (segundo a ciencia)",
+            "Como criar conteúdo de social media para medicos",
+            "Como diminuir a ansiedade segundo a ciência"
+          ],
+          "property_count": 14,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Assistente IA [template]",
+          "id": "1a5207e6-f145-8195-bec8-d833057a6a6f",
+          "url": "https://app.notion.com/p/1a5207e6f1458195bec8d833057a6a6f",
+          "sample_count": 6,
+          "sample_titles": [
+            "Como o telescopio james web mudou o mundo",
+            "Como diminuir a ansiedade (segundo a ciencia)",
+            "social media para medicos",
+            "As galáxias mais distantes do mundo"
+          ],
+          "property_count": 14,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Assistente IA [template]",
+          "id": "1a5207e6-f145-818b-afb5-df175f08de6f",
+          "url": "https://app.notion.com/p/1a5207e6f145818bafb5df175f08de6f",
+          "sample_count": 6,
+          "sample_titles": [
+            "Como diminuir a ansiedade (segundo a ciencia)",
+            "Como diminuir a ansiedade segundo a ciência",
+            "Como o telescopio james web mudou o mundo",
+            "Como criar conteúdo de social media para medicos"
+          ],
+          "property_count": 14,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Assistente IA [template]",
+          "id": "1a3207e6-f145-810a-80a6-e6ccc9fd777c",
+          "url": "https://app.notion.com/p/1a3207e6f145810a80a6e6ccc9fd777c",
+          "sample_count": 6,
+          "sample_titles": [
+            "social media para medicos",
+            "Como o telescopio james web mudou o mundo",
+            "Como diminuir a ansiedade segundo a ciência",
+            "Como criar conteúdo de social media para medicos"
+          ],
+          "property_count": 14,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Assistente IA [template]",
+          "id": "1a3207e6-f145-8185-bdba-d48d3b57777a",
+          "url": "https://app.notion.com/p/1a3207e6f1458185bdbad48d3b57777a",
+          "sample_count": 6,
+          "sample_titles": [
+            "As galáxias mais distantes do mundo",
+            "social media para medicos",
+            "Como criar conteúdo de social media para medicos",
+            "Como diminuir a ansiedade (segundo a ciencia)"
+          ],
+          "property_count": 14,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Assistente IA [template]",
+          "id": "1a3207e6-f145-8120-9454-eea2dae6d8ff",
+          "url": "https://app.notion.com/p/1a3207e6f14581209454eea2dae6d8ff",
+          "sample_count": 6,
+          "sample_titles": [
+            "As galáxias mais distantes do mundo",
+            "Como diminuir a ansiedade (segundo a ciencia)",
+            "Como o telescopio james web mudou o mundo",
+            "Como diminuir a ansiedade segundo a ciência"
+          ],
+          "property_count": 14,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Assistente IA [template]",
+          "id": "1a3207e6-f145-81a7-8d81-cba6987059ed",
+          "url": "https://app.notion.com/p/1a3207e6f14581a78d81cba6987059ed",
+          "sample_count": 6,
+          "sample_titles": [
+            "Como diminuir a ansiedade (segundo a ciencia)",
+            "social media para medicos",
+            "Como criar conteúdo de social media para medicos",
+            "As galáxias mais distantes do mundo"
+          ],
+          "property_count": 14,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Client Dashboard",
+      "count": 7,
+      "items": [
+        {
+          "title": "Client Dashboard",
+          "id": "251207e6-f145-813b-9926-e5a0505c2665",
+          "url": "https://app.notion.com/p/251207e6f145813b9926e5a0505c2665",
+          "sample_count": 4,
+          "sample_titles": [
+            "Escolha o Tom de Voz",
+            "Defina a Personalidade da Marca",
+            "Missão, Visão, Valores",
+            "História"
+          ],
+          "property_count": 6,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Client Dashboard",
+          "id": "251207e6-f145-81d5-8394-d7ed47fccdb9",
+          "url": "https://app.notion.com/p/251207e6f14581d58394d7ed47fccdb9",
+          "sample_count": 4,
+          "sample_titles": [
+            "Escolha o Tom de Voz",
+            "Defina a Personalidade da Marca",
+            "Missão, Visão, Valores",
+            "História"
+          ],
+          "property_count": 6,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Client Dashboard",
+          "id": "1a5207e6-f145-81e5-8333-fe0ded5eb2b4",
+          "url": "https://app.notion.com/p/1a5207e6f14581e58333fe0ded5eb2b4",
+          "sample_count": 4,
+          "sample_titles": [
+            "Defina a Personalidade da Marca",
+            "Missão, Visão, Valores",
+            "História",
+            "Escolha o Tom de Voz"
+          ],
+          "property_count": 6,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Client Dashboard",
+          "id": "1a5207e6-f145-81c3-a091-dc55c16ee011",
+          "url": "https://app.notion.com/p/1a5207e6f14581c3a091dc55c16ee011",
+          "sample_count": 4,
+          "sample_titles": [
+            "Escolha o Tom de Voz",
+            "História",
+            "Missão, Visão, Valores",
+            "Defina a Personalidade da Marca"
+          ],
+          "property_count": 6,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Client Dashboard",
+          "id": "1a3207e6-f145-812c-bd72-d331467c397c",
+          "url": "https://app.notion.com/p/1a3207e6f145812cbd72d331467c397c",
+          "sample_count": 4,
+          "sample_titles": [
+            "Missão, Visão, Valores",
+            "Defina a Personalidade da Marca",
+            "História",
+            "Escolha o Tom de Voz"
+          ],
+          "property_count": 6,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Client Dashboard",
+          "id": "1a3207e6-f145-810c-8e48-fd507164f214",
+          "url": "https://app.notion.com/p/1a3207e6f145810c8e48fd507164f214",
+          "sample_count": 4,
+          "sample_titles": [
+            "Escolha o Tom de Voz",
+            "História",
+            "Missão, Visão, Valores",
+            "Defina a Personalidade da Marca"
+          ],
+          "property_count": 6,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Client Dashboard",
+          "id": "1a3207e6-f145-8180-8270-e9515bee3fd7",
+          "url": "https://app.notion.com/p/1a3207e6f14581808270e9515bee3fd7",
+          "sample_count": 4,
+          "sample_titles": [
+            "História",
+            "Missão, Visão, Valores",
+            "Defina a Personalidade da Marca",
+            "Escolha o Tom de Voz"
+          ],
+          "property_count": 6,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Persona",
+      "count": 7,
+      "items": [
+        {
+          "title": "Persona",
+          "id": "251207e6-f145-81aa-8282-e5e9759830e2",
+          "url": "https://app.notion.com/p/251207e6f14581aa8282e5e9759830e2",
+          "sample_count": 6,
+          "sample_titles": [
+            "Quais os objetivos pessoais e profissionais da Persona",
+            "Maiores desafios/ dores que a persona tem em alcançar os objetivos ?",
+            "Quais as crenças mais comuns da minha persona?",
+            "Dados Demográficos "
+          ],
+          "property_count": 8,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Persona",
+          "id": "251207e6-f145-81cc-9721-d2bfba2e71f5",
+          "url": "https://app.notion.com/p/251207e6f14581cc9721d2bfba2e71f5",
+          "sample_count": 6,
+          "sample_titles": [
+            "Quais os objetivos pessoais e profissionais da Persona",
+            "Maiores desafios/ dores que a persona tem em alcançar os objetivos ?",
+            "Quais as crenças mais comuns da minha persona?",
+            "Dados Demográficos "
+          ],
+          "property_count": 8,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Persona",
+          "id": "1a5207e6-f145-8103-b420-fb597104e24f",
+          "url": "https://app.notion.com/p/1a5207e6f1458103b420fb597104e24f",
+          "sample_count": 6,
+          "sample_titles": [
+            "Quais as dúvidas mais comuns que a persona tem em relação ao produto ou serviço oferecido? ",
+            "Quais sites mais acessados pela minha persona",
+            "Quais as Redes Sociais qua a persona costuma usar?",
+            "Quais os objetivos pessoais e profissionais da Persona"
+          ],
+          "property_count": 10,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Persona",
+          "id": "1a5207e6-f145-81cf-aaf2-cbbec2fdfcac",
+          "url": "https://app.notion.com/p/1a5207e6f14581cfaaf2cbbec2fdfcac",
+          "sample_count": 6,
+          "sample_titles": [
+            "Como podemos ajudar a resolver os problemas da persona?",
+            "Dados Demográficos ",
+            "Quais os objetivos pessoais e profissionais da Persona",
+            "O que poderia fazer essa compra se tornar desnecessária? "
+          ],
+          "property_count": 10,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Persona",
+          "id": "1a3207e6-f145-81db-b861-de7ad4768003",
+          "url": "https://app.notion.com/p/1a3207e6f14581dbb861de7ad4768003",
+          "sample_count": 6,
+          "sample_titles": [
+            "Quais as crenças mais comuns da minha persona?",
+            "Quais sites mais acessados pela minha persona",
+            "Quais as consequências da não adesão dos seu serviço ou produto? ",
+            "Maiores desafios/ dores que a persona tem em alcançar os objetivos ?"
+          ],
+          "property_count": 10,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Persona",
+          "id": "1a3207e6-f145-8157-b1b8-f8191c9c9c95",
+          "url": "https://app.notion.com/p/1a3207e6f1458157b1b8f8191c9c9c95",
+          "sample_count": 6,
+          "sample_titles": [
+            "Como podemos ajudar a resolver os problemas da persona?",
+            "Maiores desafios/ dores que a persona tem em alcançar os objetivos ?",
+            "Quais as consequências da não adesão dos seu serviço ou produto? ",
+            "Pesquise se a sua persona tem um vocabulário próprio"
+          ],
+          "property_count": 10,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Persona",
+          "id": "1a3207e6-f145-8128-9d5e-fe9485374fb3",
+          "url": "https://app.notion.com/p/1a3207e6f14581289d5efe9485374fb3",
+          "sample_count": 6,
+          "sample_titles": [
+            "Quais sites mais acessados pela minha persona",
+            "Quais as consequências da não adesão dos seu serviço ou produto? ",
+            "Quais as crenças mais comuns da minha persona?",
+            "Quais os objetivos pessoais e profissionais da Persona"
+          ],
+          "property_count": 8,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Ideias de conteúdos",
+      "count": 7,
+      "items": [
+        {
+          "title": "Ideias de conteúdos",
+          "id": "251207e6-f145-81f0-84b5-f2e97a6fa019",
+          "url": "https://app.notion.com/p/251207e6f14581f084b5f2e97a6fa019",
+          "sample_count": 4,
+          "sample_titles": [
+            "Ideias de conteúdos de Atração  ( Topo de Funil)",
+            "Ideias de conteúdo para Converter ( Fundo de Funil)",
+            "Ideias de conteúdo para Remarketing ( Fundo de funil)",
+            "Ideias de conteúdos para Relacionar ( Meio de funil)"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Ideias de conteúdos",
+          "id": "251207e6-f145-8115-a064-ccb070d3ad70",
+          "url": "https://app.notion.com/p/251207e6f1458115a064ccb070d3ad70",
+          "sample_count": 4,
+          "sample_titles": [
+            "Ideias de conteúdo para Remarketing ( Fundo de funil)",
+            "Ideias de conteúdos para Relacionar ( Meio de funil)",
+            "Ideias de conteúdo para Converter ( Fundo de Funil)",
+            "Ideias de conteúdos de Atração  ( Topo de Funil)"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Ideias de conteúdos",
+          "id": "1a5207e6-f145-8194-a37a-e2af9a2c0a1a",
+          "url": "https://app.notion.com/p/1a5207e6f1458194a37ae2af9a2c0a1a",
+          "sample_count": 4,
+          "sample_titles": [
+            "Ideias de conteúdos para Relacionar ( Meio de funil)",
+            "Ideias de conteúdos de Atração  ( Topo de Funil) - ",
+            "Ideias de conteúdo para Remarketing ( Fundo de funil)",
+            "Ideias de conteúdo para Converter ( Fundo de Funil)"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Ideias de conteúdos",
+          "id": "1a5207e6-f145-8179-9e65-c7e067c2b160",
+          "url": "https://app.notion.com/p/1a5207e6f14581799e65c7e067c2b160",
+          "sample_count": 4,
+          "sample_titles": [
+            "Ideias de conteúdo para Remarketing ( Fundo de funil)",
+            "Ideias de conteúdos para Relacionar ( Meio de funil)",
+            "Ideias de conteúdo para Converter ( Fundo de Funil)",
+            "Ideias de conteúdos de Atração  ( Topo de Funil) - "
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Ideias de conteúdos",
+          "id": "1a3207e6-f145-81ce-8bc1-d6df45202304",
+          "url": "https://app.notion.com/p/1a3207e6f14581ce8bc1d6df45202304",
+          "sample_count": 4,
+          "sample_titles": [
+            "Ideias de conteúdo para Remarketing ( Fundo de funil)",
+            "Ideias de conteúdo para Converter ( Fundo de Funil)",
+            "Ideias de conteúdos de Atração  ( Topo de Funil) - ",
+            "Ideias de conteúdos para Relacionar ( Meio de funil)"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Ideias de conteúdos",
+          "id": "1a3207e6-f145-815c-b48a-f7fce77e5c36",
+          "url": "https://app.notion.com/p/1a3207e6f145815cb48af7fce77e5c36",
+          "sample_count": 4,
+          "sample_titles": [
+            "Ideias de conteúdos de Atração  ( Topo de Funil) - ",
+            "Ideias de conteúdo para Remarketing ( Fundo de funil)",
+            "Ideias de conteúdos para Relacionar ( Meio de funil)",
+            "Ideias de conteúdo para Converter ( Fundo de Funil)"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Ideias de conteúdos",
+          "id": "1a3207e6-f145-8167-91e8-d2315d7d2500",
+          "url": "https://app.notion.com/p/1a3207e6f145816791e8d2315d7d2500",
+          "sample_count": 4,
+          "sample_titles": [
+            "Ideias de conteúdos para Relacionar ( Meio de funil)",
+            "Ideias de conteúdo para Remarketing ( Fundo de funil)",
+            "Ideias de conteúdos de Atração  ( Topo de Funil)",
+            "Ideias de conteúdo para Converter ( Fundo de Funil)"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    },
+    {
+      "title": "Calendário 2024",
+      "count": 6,
+      "items": [
+        {
+          "title": "Calendário 2024",
+          "id": "251207e6-f145-810c-a8d8-e6bc68b99ad3",
+          "url": "https://app.notion.com/p/251207e6f145810ca8d8e6bc68b99ad3",
+          "sample_count": 5,
+          "sample_titles": [
+            "Março ",
+            "ABRIL ",
+            "Fevereiro",
+            "Outubro"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Calendário 2024",
+          "id": "1a5207e6-f145-8118-935b-efa64a978482",
+          "url": "https://app.notion.com/p/1a5207e6f1458118935befa64a978482",
+          "sample_count": 5,
+          "sample_titles": [
+            "Fevereiro",
+            "Março ",
+            "ABRIL ",
+            "Janeiro "
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Calendário 2024",
+          "id": "1a5207e6-f145-8105-9683-e85cb9bf3f86",
+          "url": "https://app.notion.com/p/1a5207e6f14581059683e85cb9bf3f86",
+          "sample_count": 5,
+          "sample_titles": [
+            "ABRIL ",
+            "Março ",
+            "Outubro",
+            "Janeiro "
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Calendário 2024",
+          "id": "1a3207e6-f145-8100-a4ee-c641a7d8b47c",
+          "url": "https://app.notion.com/p/1a3207e6f1458100a4eec641a7d8b47c",
+          "sample_count": 5,
+          "sample_titles": [
+            "ABRIL ",
+            "Fevereiro",
+            "Outubro",
+            "Março "
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Calendário 2024",
+          "id": "1a3207e6-f145-815e-a7f9-d04c3585f2d0",
+          "url": "https://app.notion.com/p/1a3207e6f145815ea7f9d04c3585f2d0",
+          "sample_count": 5,
+          "sample_titles": [
+            "Janeiro ",
+            "Outubro",
+            "Fevereiro",
+            "ABRIL "
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        },
+        {
+          "title": "Calendário 2024",
+          "id": "1a3207e6-f145-8139-99ae-fb3edf0d099c",
+          "url": "https://app.notion.com/p/1a3207e6f145813999aefb3edf0d099c",
+          "sample_count": 5,
+          "sample_titles": [
+            "ABRIL ",
+            "Outubro",
+            "Janeiro ",
+            "Fevereiro"
+          ],
+          "property_count": 3,
+          "reason": "parece template/duplicata; aproveitar só se quiser preservar modelo"
+        }
+      ],
+      "reason": "grupo repetido/template/frio; deletar/arquivar se você não quiser preservar modelo"
+    }
+  ],
+  "review_manual": [
+    {
+      "title": "Entradas e Saídas",
+      "id": "1a3207e6-f145-81c5-a419-e2ee4f1e4531",
+      "url": "https://app.notion.com/p/1a3207e6f14581c5a419e2ee4f1e4531",
+      "sample_count": 6,
+      "sample_titles": [
+        "CLARO Empresa (1)",
+        "ADAPT ONE",
+        "Chat GPT",
+        "Adobe"
+      ],
+      "property_count": 28,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Ideias",
+      "id": "316207e6-f145-814d-9535-ff40f1fa686c",
+      "url": "https://app.notion.com/p/316207e6f145814d9535ff40f1fa686c",
+      "sample_count": 3,
+      "sample_titles": [
+        "CHECK-LIST DE NOTEBOOK",
+        "CHECK-LIST DE EQUIPAMENTOS",
+        "Referência de Áudios"
+      ],
+      "property_count": 8,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Histórico Balanço Mensal",
+      "id": "1a3207e6-f145-8128-81d9-c28d7d0a0c1c",
+      "url": "https://app.notion.com/p/1a3207e6f145812881d9c28d7d0a0c1c",
+      "sample_count": 6,
+      "sample_titles": [
+        "Jan 2026",
+        "Dez 2026",
+        "(sem título)",
+        "Nov 2026"
+      ],
+      "property_count": 18,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calendário Editorial",
+      "id": "251207e6-f145-8103-8ef7-f54812d4a331",
+      "url": "https://app.notion.com/p/251207e6f14581038ef7f54812d4a331",
+      "sample_count": 6,
+      "sample_titles": [
+        "Tendências de Marketing Digital",
+        "Empreendedorismo ",
+        "Marketing de Conteúdo ",
+        "(sem título)"
+      ],
+      "property_count": 13,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calendário Editorial",
+      "id": "251207e6-f145-8111-8d29-daa9c436b48a",
+      "url": "https://app.notion.com/p/251207e6f14581118d29daa9c436b48a",
+      "sample_count": 6,
+      "sample_titles": [
+        "Tendências de Marketing Digital",
+        "Empreendedorismo ",
+        "Marketing de Conteúdo ",
+        "Rotina e Vida Pessoal "
+      ],
+      "property_count": 13,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Ideias",
+      "id": "1a3207e6-f145-8146-8e35-ea6e1f609bdb",
+      "url": "https://app.notion.com/p/1a3207e6f14581468e35ea6e1f609bdb",
+      "sample_count": 1,
+      "sample_titles": [
+        "GRAVAR VIDEO DIA DAS MAES - VEREADOR ROGÉRIO"
+      ],
+      "property_count": 7,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calendário Editorial",
+      "id": "1a5207e6-f145-81d7-8e38-fc9b7a3bedc8",
+      "url": "https://app.notion.com/p/1a5207e6f14581d78e38fc9b7a3bedc8",
+      "sample_count": 6,
+      "sample_titles": [
+        "Educação legislativa",
+        "(Postagem Extra - Dia do Consumidor)",
+        "(Postagem Extra - Dia Internacional da Mulher)",
+        "Educação Legislativa "
+      ],
+      "property_count": 18,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calendário Editorial",
+      "id": "1a5207e6-f145-81d6-900b-c6cc42d302c1",
+      "url": "https://app.notion.com/p/1a5207e6f14581d6900bc6cc42d302c1",
+      "sample_count": 6,
+      "sample_titles": [
+        "Ações do sindicato e conquistas ",
+        "Depoimentos e engajamento",
+        "Educação e benefícios para o servidor",
+        "Ações do sindicato e conquistas "
+      ],
+      "property_count": 18,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calendário Editorial",
+      "id": "1a3207e6-f145-8196-a534-f3779941b0bb",
+      "url": "https://app.notion.com/p/1a3207e6f1458196a534f3779941b0bb",
+      "sample_count": 6,
+      "sample_titles": [
+        "BGFGJFD",
+        "(sem título)",
+        "MJHGKMHBCGM",
+        "Bastidores "
+      ],
+      "property_count": 13,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Metas Financeiras",
+      "id": "1a3207e6-f145-81ff-940f-d7c4176cf0c4",
+      "url": "https://app.notion.com/p/1a3207e6f14581ff940fd7c4176cf0c4",
+      "sample_count": 1,
+      "sample_titles": [
+        "10K em 100 dias"
+      ],
+      "property_count": 5,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Metas Financeira",
+      "id": "1a3207e6-f145-8111-a9e1-ffdb689a1b19",
+      "url": "https://app.notion.com/p/1a3207e6f1458111a9e1ffdb689a1b19",
+      "sample_count": 1,
+      "sample_titles": [
+        "(sem título)"
+      ],
+      "property_count": 7,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Recorrência Entradas",
+      "id": "1a3207e6-f145-8180-9307-cfb386e0bc65",
+      "url": "https://app.notion.com/p/1a3207e6f14581809307cfb386e0bc65",
+      "sample_count": 2,
+      "sample_titles": [
+        "Fixo",
+        "Variável"
+      ],
+      "property_count": 14,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Recorrência Gastos",
+      "id": "1a3207e6-f145-81a8-b405-d245d6f5c245",
+      "url": "https://app.notion.com/p/1a3207e6f14581a8b405d245d6f5c245",
+      "sample_count": 3,
+      "sample_titles": [
+        "Variável",
+        "Investimentos",
+        "Fixo"
+      ],
+      "property_count": 14,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calendário Editorial",
+      "id": "1a3207e6-f145-81a9-af1e-e61074151551",
+      "url": "https://app.notion.com/p/1a3207e6f14581a9af1ee61074151551",
+      "sample_count": 6,
+      "sample_titles": [
+        "Voz na Câmara 🗣️",
+        "Nos Bastidores da Política 🏛️",
+        "Rogério em Movimento 🚀",
+        "Fala, Povo! 🎤"
+      ],
+      "property_count": 17,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "🤩 Lista de Desejos",
+      "id": "1a3207e6-f145-81a7-b24e-fa9eaad001ca",
+      "url": "https://app.notion.com/p/1a3207e6f14581a7b24efa9eaad001ca",
+      "sample_count": 4,
+      "sample_titles": [
+        "Câmera Sony a6400",
+        "Monitor 144 HZ, 24’",
+        "Iphone 14 Pro Max 512gb",
+        "Macbook Pro M1 512gb"
+      ],
+      "property_count": 8,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calculadora Quantas Horas devo Trabalhar para conseguir X reais",
+      "id": "1a3207e6-f145-810b-8c49-fd8da5f14c56",
+      "url": "https://app.notion.com/p/1a3207e6f145810b8c49fd8da5f14c56",
+      "sample_count": 1,
+      "sample_titles": [
+        "Cliente X"
+      ],
+      "property_count": 6,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calculadora Valor por Hora",
+      "id": "1a3207e6-f145-8184-9039-cc07a6fad368",
+      "url": "https://app.notion.com/p/1a3207e6f14581849039cc07a6fad368",
+      "sample_count": 2,
+      "sample_titles": [
+        "Empresa X",
+        "Empresa y"
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Categorias Entradas e Saídas",
+      "id": "1a3207e6-f145-8100-9243-d0f74262016b",
+      "url": "https://app.notion.com/p/1a3207e6f14581009243d0f74262016b",
+      "sample_count": 6,
+      "sample_titles": [
+        "(sem título)",
+        "Inteligência Artificial",
+        "Aplicativos/Programas",
+        "Armazenamento"
+      ],
+      "property_count": 24,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Calendário Editorial",
+      "id": "1a3207e6-f145-81cc-b206-fafdef385fa1",
+      "url": "https://app.notion.com/p/1a3207e6f14581ccb206fafdef385fa1",
+      "sample_count": 6,
+      "sample_titles": [
+        "Janeiro ",
+        "Abril ",
+        "Abril ",
+        "Fevereiro "
+      ],
+      "property_count": 3,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "⚖️ Balanço Atual",
+      "id": "1a3207e6-f145-8161-9097-f0f03936561f",
+      "url": "https://app.notion.com/p/1a3207e6f14581619097f0f03936561f",
+      "sample_count": 1,
+      "sample_titles": [
+        "Balanço Atual"
+      ],
+      "property_count": 2,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "🆘 Reserva de Emergência",
+      "id": "1a3207e6-f145-8161-89da-edda7c80db8b",
+      "url": "https://app.notion.com/p/1a3207e6f145816189daedda7c80db8b",
+      "sample_count": 1,
+      "sample_titles": [
+        "Reserva de Emergência"
+      ],
+      "property_count": 14,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "BASE",
+      "id": "1a3207e6-f145-8149-a1d6-ef2f43cfa136",
+      "url": "https://app.notion.com/p/1a3207e6f1458149a1d6ef2f43cfa136",
+      "sample_count": 6,
+      "sample_titles": [
+        "Reunião de Briefing",
+        "Otimização",
+        "ARQUIVOS PADRÕES",
+        "Implementação"
+      ],
+      "property_count": 5,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Dados de acesso (1)",
+      "id": "1a3207e6-f145-81f3-8e55-e4ddc3c147d0",
+      "url": "https://app.notion.com/p/1a3207e6f14581f38e55e4ddc3c147d0",
+      "sample_count": 6,
+      "sample_titles": [
+        "Instagram ",
+        "RegistroBR",
+        "FACEBOOK",
+        "GMAIL"
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Dados de acesso (1)",
+      "id": "1a3207e6-f145-81b4-a5b9-eff5f027245a",
+      "url": "https://app.notion.com/p/1a3207e6f14581b4a5b9eff5f027245a",
+      "sample_count": 4,
+      "sample_titles": [
+        "RegistroBR",
+        "Wordpress",
+        "DigitalOcean",
+        "Cloudflare"
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Dados de acesso (1)",
+      "id": "1a3207e6-f145-8149-84bd-c9385cdfe91c",
+      "url": "https://app.notion.com/p/1a3207e6f145814984bdc9385cdfe91c",
+      "sample_count": 4,
+      "sample_titles": [
+        "RegistroBR",
+        "Cloudflare",
+        "Instagram ",
+        "Wordpress"
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Dados de acesso (1)",
+      "id": "1a3207e6-f145-814d-a501-f7685c50942f",
+      "url": "https://app.notion.com/p/1a3207e6f145814da501f7685c50942f",
+      "sample_count": 3,
+      "sample_titles": [
+        "Instagram",
+        "Tiktok",
+        "Facebook "
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Dados de acesso (1)",
+      "id": "1a3207e6-f145-8153-908b-cc0d930fbfe6",
+      "url": "https://app.notion.com/p/1a3207e6f1458153908bcc0d930fbfe6",
+      "sample_count": 4,
+      "sample_titles": [
+        "RegistroBR",
+        "Cloudflare",
+        "Wordpress",
+        "DigitalOcean"
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Dados de acesso (1)",
+      "id": "1a3207e6-f145-8182-a651-fdebb29bc55f",
+      "url": "https://app.notion.com/p/1a3207e6f1458182a651fdebb29bc55f",
+      "sample_count": 3,
+      "sample_titles": [
+        "Wordpress",
+        "RegistroBR",
+        "Instagram "
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Empresas favoritas",
+      "id": "1a3207e6-f145-8108-80ad-d9f622bfcdcd",
+      "url": "https://app.notion.com/p/1a3207e6f145810880add9f622bfcdcd",
+      "sample_count": 3,
+      "sample_titles": [
+        "Página 2",
+        "Página 3",
+        "Página 1"
+      ],
+      "property_count": 3,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Recursos",
+      "id": "1a3207e6-f145-819d-959a-f17838229063",
+      "url": "https://app.notion.com/p/1a3207e6f145819d959af17838229063",
+      "sample_count": 6,
+      "sample_titles": [
+        "Contabilidade",
+        "Lista de Compras",
+        "Balanço Atualizado",
+        "Saúde Financeira"
+      ],
+      "property_count": 3,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Livros para ler",
+      "id": "1a3207e6-f145-8139-9496-fb8aadc5873d",
+      "url": "https://app.notion.com/p/1a3207e6f14581399496fb8aadc5873d",
+      "sample_count": 6,
+      "sample_titles": [
+        "Fundamentos da SVG",
+        "Seja Útil - Arnold Schwarzenegger",
+        "A lógica do Cisne Negro: O impacto do altamente improvável",
+        "Charlie Munger: O Investidor Completo"
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Gerador de Prompts MidJourney",
+      "id": "1a3207e6-f145-813c-9e51-ee3d16063783",
+      "url": "https://app.notion.com/p/1a3207e6f145813c9e51ee3d16063783",
+      "sample_count": 1,
+      "sample_titles": [
+        "man surrounded of dinosaurs"
+      ],
+      "property_count": 50,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "MidJourney",
+      "id": "1a3207e6-f145-815f-b992-c65b2f7cc218",
+      "url": "https://app.notion.com/p/1a3207e6f145815fb992c65b2f7cc218",
+      "sample_count": 6,
+      "sample_titles": [
+        "Paisagem Cidade",
+        "Minolta Hi-Matic",
+        "William Morris Style",
+        "Zack Snyder Style"
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "ChatGPT",
+      "id": "1a3207e6-f145-8163-86a6-c9155ad646fc",
+      "url": "https://app.notion.com/p/1a3207e6f145816386a6c9155ad646fc",
+      "sample_count": 5,
+      "sample_titles": [
+        "Ideias de Vídeos",
+        "Gerador de prompts MidJourney",
+        "Light Copy",
+        "Anúncios engraçados"
+      ],
+      "property_count": 3,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Artigos",
+      "id": "1a3207e6-f145-8168-b7b9-c677b875a64b",
+      "url": "https://app.notion.com/p/1a3207e6f1458168b7b9c677b875a64b",
+      "sample_count": 5,
+      "sample_titles": [
+        "Learn Performance",
+        "What Causes Bad CLS and How to Fix it?",
+        "Cache Rules are now GA: precision control over every part of your cache",
+        "Long Purple Bars on Waterfall Chart: Hosting or Developer?"
+      ],
+      "property_count": 3,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "Vídeos para assistir",
+      "id": "1a3207e6-f145-81db-8f2d-d039a6aadd2d",
+      "url": "https://app.notion.com/p/1a3207e6f14581db8f2dd039a6aadd2d",
+      "sample_count": 6,
+      "sample_titles": [
+        "DO THIS Every Day To Melt The FAT AWAY & BUILD MUSCLE",
+        "How To Build Awesome Habits: James Clear",
+        "HOW TO HIT A VACUUM | Posing Tips and Tricks, Everything You Need To Know - YouTube",
+        "Make Millions With a One-Person Business - Here's How"
+      ],
+      "property_count": 3,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    },
+    {
+      "title": "LINKS ÚTEIS",
+      "id": "1a3207e6-f145-8145-a9fe-c35bf52cb6fb",
+      "url": "https://app.notion.com/p/1a3207e6f1458145a9fec35bf52cb6fb",
+      "sample_count": 6,
+      "sample_titles": [
+        "📲 [ACESSE AQUI] - Músicas para vídeos",
+        "📲 [ACESSE AQUI] - GIFS para conteúdos",
+        "📲 [ACESSE AQUI] - Baixar vídeos do Pinterest",
+        "📲 [ACESSE AQUI] - Banco de vídeos - Gratuito"
+      ],
+      "property_count": 4,
+      "reason": "não deu para classificar automaticamente; revisar antes de apagar"
+    }
+  ]
+}
