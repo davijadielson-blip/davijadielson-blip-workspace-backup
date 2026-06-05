@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T00:37:42.760Z",
+  "updatedAt": "2026-06-05T00:49:25.494Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -550,17 +550,18 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "- Regra consolidada em `agentes/ARQUITETURA-AGENTES.md` v0.3: cada grupo terá seu General próprio; a Central Pessoal tem General local, a LÓGIKA deverá ter General local, e futuras frentes também podem ter Generais locais. - A Lôh entra como camada macro para memória, backup, configuração, integração entre grupos, segurança, parede-d'água e decisões transversais. - O General local coordena triagem, prioridades internas, encaminhamento para especialistas e aciona a Lôh quando a questão ultrapassar o grupo. ## Notion LÓGIKA — integração e primeira central operacional - 2026-06-04: Jadielson autorizou a Lôh a organizar o Notion empresarial com liberdade, mantendo segurança: sem excluir nada e",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.496130003485499,
+      "totalScore": 1.9320855964754204,
       "maxScore": 0.6485374440286737,
       "firstRecalledAt": "2026-06-04T20:25:27.604Z",
-      "lastRecalledAt": "2026-06-05T00:37:42.760Z",
+      "lastRecalledAt": "2026-06-05T00:49:25.494Z",
       "queryHashes": [
         "59e8fd69fc94",
         "078af632c20b",
-        "1e970f9becb0"
+        "1e970f9becb0",
+        "14d53ebba249"
       ],
       "recallDays": [
         "2026-06-04",
@@ -826,6 +827,68 @@
         "lógika",
         "mapa",
         "operacional"
+      ]
+    },
+    "memory:memory/2026-06-05.md:48:61": {
+      "key": "memory:memory/2026-06-05.md:48:61",
+      "path": "memory/2026-06-05.md",
+      "startLine": 48,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "- Notion/Inbox LÓGIKA: Jadielson ainda está concluindo algumas incursões; não travar a configuração dos agentes por isso. - Mission Control: deixar para depois; não é prioritário agora porque, na visão de Jadielson, é mais estética/painel do que operação essencial imediata. - Heartbeat: já deve ficar definido certinho. - Update OpenClaw / systemd / autostart: deixar para depois. - Nova prioridade operacional imediata: configurar a arquitetura de agentes, começando pela Central Pessoal, depois seguir para os demais agentes/grupos. ## Notion LÓGIKA — lista objetiva de limpeza - Jadielson recompartilhou as bases oficiais `Inbox / Captura Geral — LÓGIKA` e `Produção & Agenda — LÓGIKA` com `Loh",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.44694230556488035,
+      "maxScore": 0.44694230556488035,
+      "firstRecalledAt": "2026-06-05T00:49:25.494Z",
+      "lastRecalledAt": "2026-06-05T00:49:25.494Z",
+      "queryHashes": [
+        "14d53ebba249"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "notion/inbox",
+        "estética/painel",
+        "agentes/grupos",
+        "notion",
+        "inbox",
+        "lógika",
+        "jadielson",
+        "ainda"
+      ]
+    },
+    "memory:memory/2026-06-05.md:60:75": {
+      "key": "memory:memory/2026-06-05.md:60:75",
+      "path": "memory/2026-06-05.md",
+      "startLine": 60,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "- Aproveitar antes de deletar/arquivar: LÓGIKA CREATIVE, Leads, CRM, Clientes, Equipe, Checklist de Edição de Vídeos, Ativos de marca, Plataformas, PREÇOS E TABELAS, PADRÃO LÓGIKA - Calendário Editorial, Agenda de Eventos, Calendário de conteúdo, PRINCIPAL e Planner. - Histórico/revisar antes de apagar: Calendário Editorial antigo, Agenda de Eventos - Secretaria Municipal de Saúde, Ideias antiga. - Pode arquivar/deletar com baixo risco aparente após conferência visual: grupos repetidos/frio como Método CIPA, sem título, Caixa de Rascunho de Ideias, Post, Acompanhamento, Tipos de Posts, Assistente IA template, Client Dashboard, Persona, Ideias de conteúdos, Calendário 2024. ## Notion LÓGIKA",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4215278387069702,
+      "maxScore": 0.4215278387069702,
+      "firstRecalledAt": "2026-06-05T00:49:25.494Z",
+      "lastRecalledAt": "2026-06-05T00:49:25.494Z",
+      "queryHashes": [
+        "14d53ebba249"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "deletar/arquivar",
+        "histórico/revisar",
+        "arquivar/deletar",
+        "repetidos/frio",
+        "aproveitar",
+        "antes",
+        "deletar",
+        "arquivar"
       ]
     }
   }
