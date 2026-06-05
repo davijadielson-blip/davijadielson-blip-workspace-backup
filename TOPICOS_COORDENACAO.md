@@ -28,12 +28,21 @@ Modelo organizacional: empresa por departamentos + frentes/agentes por missão.
 | 550 | Marketing | Marketing / Conteúdo | Supervisão de marca, campanhas e comunicação | ativo |
 | 551 | Estrategista | Direção / Estratégia | Supervisão estratégica e priorização | ativo |
 | 552 | Produção de Conteúdo | Marketing / Conteúdo + Produção / Entregas | Supervisão de pauta, produção e cadência | ativo |
+| 871 | Redes Sociais & Métricas | Marketing / Inteligência / Social Analytics | Supervisão de monitoramento, métricas, exports, Zapier/MCP e insights de performance | ativo |
+| 872 | Bases Públicas & Dados Oficiais | Pesquisa / Inteligência / Conteúdo Institucional | Supervisão de fontes oficiais, indicadores públicos, checagem e repertório factual | ativo |
 
 ## Tópicos desconsiderados por enquanto
 
 | Tópico | Nome | Motivo |
 |---:|---|---|
 | 5 | Starter Kit / Sistema | Jahdielson informou que é questão do sistema e será retirado da LÓGIKA por enquanto. |
+
+
+## Decisão sobre CRM e banco de clientes
+
+CRM e Banco de Clientes **não viram tópico próprio por enquanto**. Jadielson avaliou, e a Lôh concorda, que essa função deve ficar inicialmente com a **Clara/Secretária** em Google Drive/Sheets, porque é uma base operacional de manuseio contínuo: clientes, contatos, histórico, propostas, materiais, status e planilhas.
+
+Se o volume crescer ou virar frente estratégica própria, o tópico poderá ser criado depois. Por agora, Clara organiza a estrutura no Drive quando Jadielson subir os arquivos. Jarvis supervisiona apenas decisões estratégicas, limites e conflitos de prioridade.
 
 ## Clara - Secretária Executiva
 
