@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T20:00:09.165Z",
+  "updatedAt": "2026-06-05T20:25:45.813Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -1911,6 +1911,99 @@
         "ser",
         "pensada",
         "camada"
+      ]
+    },
+    "memory:memory/2026-06-05.md:443:457": {
+      "key": "memory:memory/2026-06-05.md:443:457",
+      "path": "memory/2026-06-05.md",
+      "startLine": 443,
+      "endLine": 457,
+      "source": "memory",
+      "snippet": "- Pendências: decidir se a ideia de Reels institucional da Câmara vira pauta de produção; informar/colar o link ou referência da campanha SINDSS. ## Zapier MCP — três servidores cadastrados - 2026-06-05 20:20 UTC: Jadielson separou pelo menos três MCP servers no Zapier e enviou as URLs/token de conexão no chat privado. - Segurança: as URLs/tokens não foram registradas nesta memória e não devem ser exibidas em respostas, commits ou logs públicos. - Backup prévio da configuração criado: `/data/.openclaw/openclaw.json.bak-zapier-mcp-20260605T201849Z`. - Configuração aplicada em `/data/.openclaw/openclaw.json` com `mcp.servers`: `zapier-1`, `zapier-2`, `zapier-3`, usando transporte remoto `str",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.37926414608955383,
+      "maxScore": 0.37926414608955383,
+      "firstRecalledAt": "2026-06-05T20:25:45.813Z",
+      "lastRecalledAt": "2026-06-05T20:25:45.813Z",
+      "queryHashes": [
+        "45499bd00512"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "informar/colar",
+        "urls/token",
+        "urls/tokens",
+        "openclaw/openclaw.json",
+        "mcp.servers",
+        "zapier-1",
+        "zapier-2"
+      ]
+    },
+    "memory:memory/2026-06-05.md:453:462": {
+      "key": "memory:memory/2026-06-05.md:453:462",
+      "path": "memory/2026-06-05.md",
+      "startLine": 453,
+      "endLine": 462,
+      "source": "memory",
+      "snippet": "- Pendente: nomear cada MCP server conforme função real (ex.: redes sociais/métricas, CRM/Drive/Sheets, automações gerais) e fazer teste funcional de uma ação segura/readonly do Zapier. ## Zapier MCP — checkpoint pós-restart - 2026-06-05 20:23 UTC: após solicitação de validação pós-restart, a primeira checagem mostrou regressão temporária: a config ativa estava sem `mcp.servers` e sem Tavily. - A Lôh restaurou os blocos de MCP Zapier e Tavily a partir de backup/configuração local, sem imprimir tokens ou chave. - Validação após restauração: `openclaw config validate` OK; `openclaw mcp list` lista `zapier-1`, `zapier-2`, `zapier-3`; `openclaw status` mostra Gateway alcançável e Telegram OK.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36651648283004756,
+      "maxScore": 0.36651648283004756,
+      "firstRecalledAt": "2026-06-05T20:25:45.813Z",
+      "lastRecalledAt": "2026-06-05T20:25:45.813Z",
+      "queryHashes": [
+        "45499bd00512"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "gateway",
+        "sociais/métricas",
+        "crm/drive/sheets",
+        "segura/readonly",
+        "pós-restart",
+        "mcp.servers",
+        "backup/configuração"
+      ]
+    },
+    "memory:memory/2026-06-05.md:434:448": {
+      "key": "memory:memory/2026-06-05.md:434:448",
+      "path": "memory/2026-06-05.md",
+      "startLine": 434,
+      "endLine": 448,
+      "source": "memory",
+      "snippet": "- Decisão aceita pela Lôh: Notion fica principalmente para grade de produção e execução; Vault/GitHub/workspace ficam para análises, textos leves, índices, bancos de contexto e outputs dos agentes. - Proposta de tópicos/agentes sob Jarvis: Referências/Inspirações, Redes Sociais & Métricas (Meta Business/Analytics etc.), Bases Públicas & Dados Oficiais, CRM & Banco de Clientes. - Google Drive será a base operacional da Secretária para CRM, banco de clientes, documentos, planilhas, relatórios e arquivos migrados do OneDrive. - Jadielson decidiu criar apenas a pasta principal no Drive e jogar os arquivos; Clara/Secretária deverá organizar depois, respeitando limites de segurança e sem exclusão",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3593824118375778,
+      "maxScore": 0.3593824118375778,
+      "firstRecalledAt": "2026-06-05T20:25:45.813Z",
+      "lastRecalledAt": "2026-06-05T20:25:45.813Z",
+      "queryHashes": [
+        "45499bd00512"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "vault/github/workspace",
+        "tópicos/agentes",
+        "referências/inspirações",
+        "business/analytics",
+        "clara/secretária",
+        "decisão",
+        "aceita",
+        "pela"
       ]
     }
   }
