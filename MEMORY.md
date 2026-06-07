@@ -399,3 +399,96 @@ Quando Jadielson pedir legenda de **Saúde, SINDSS, Câmara, Lógika ou outro cl
 - Embutir slogan/marca de forma viva
 - Entregar em 1-2 minutos
 - Sem parecer template ou carimbo
+
+## Legendas Validadas — Clientes Saúde + Câmara (2026-06-07)
+
+### Legenda 1: Caderneta de Vacina (Saúde São Sebastião) — Período de Copa
+
+**Status:** ✅ Validada e salva no banco de referências
+
+```
+⚽💉 Em junho, as ruas ganham movimento, os encontros aumentam e mais gente circula 
+por todo canto. É justamente nesse momento que conferir a caderneta de vacinação 
+fica mais importante.
+
+Manter a vacinação em dia é um gesto que protege você, sua família e quem você ama. 
+Um cuidado que se faz com coração, de verdade.
+
+Procure sua unidade de saúde e confira se suas vacinas estão atualizadas. 
+Leve a carteira de vacinação, cartão do SUS e documento de identidade.
+
+Prevenir é sempre o melhor caminho.
+
+#saudesaosebastiaoal #maistrabalhomaisavanco
+```
+
+**Padrão extraído:**
+- Hook criativo + contexto relevante (Copa/época)
+- Desenvolvimento que conecta com emoção ("gesto que protege quem você ama")
+- Slogan **integrado naturalmente** ("Um cuidado que se faz com coração, de verdade")
+- CTA prático no meio (não como instrução burocrática)
+- Fechamento reflexivo ("Prevenir é...")
+- Hashtags de marca reforçando identidade
+
+### Legenda 2: LDO (Câmara Municipal) — Aprovação em Junho
+
+**Status:** ✅ Validada e salva no banco de referências
+
+```
+📋 Em junho, a Câmara Municipal cumpriu seu papel essencial ao aprovar a Lei de 
+Diretrizes Orçamentárias — a peça que estabelece as metas e prioridades que vão 
+guiar a execução do orçamento do município até o final do ano e além.
+
+A LDO não é só um documento técnico. É a bússola que orienta: onde o dinheiro público 
+vai chegar, quais comunidades serão atendidas, quais serviços serão fortalecidos.
+
+Transparência e planejamento são como alicerces — sem eles, nada de valor é 
+construído para as pessoas.
+
+A Câmara segue cumprindo seu compromisso com a população e com o trabalho legislativo 
+responsável.
+
+#camaramunicipal #transparencia #saosebastiao
+```
+
+**Padrão extraído:**
+- Hook contextual (junho = período natural/relevante)
+- Começa por **impacto prático**, não por técnica ("papel essencial" antes de "LDO")
+- Traduz linguagem técnica em consequências humanas ("onde dinheiro chega, comunidades")
+- Metáforas de solidez que tornam abstrato em concreto ("alicerces", "bússola")
+- Equilíbrio institucional (autoridade sem parecer campanha)
+- Fechamento reafirmando continuidade e compromisso
+
+### Evolução do Entendimento
+
+**2026-06-07:** Jadielson treinou Lôh no protocolo de legendas para clientes.
+
+**Versões antes (genéricas):**
+- Tentava ser rápida mas perdia contexto
+- Não consultava pasta inteira do cliente
+- Slogan aparecia como carimbo ("💙 Saúde a gente faz com coração" — literal, repetido)
+- Falta de hook criativo/contextual
+
+**Após protocolo (agora):**
+- Lê pasta INTEIRA (tom + formatos + banco de referências + pauta + estrutura)
+- Cria hook específico do momento (Copa, junho, época, contexto real)
+- **Slogan imbutido na narrativa**, respirado, natural — nunca como carimbo
+- Estrutura: Hook → Desenvolvimento → CTA → Fechamento → Hashtags
+- Entregas em 1-2 minutos, contextualizadas, não genéricas
+
+### Commits Registrados
+
+**Vault `segundo-cerebro-jadielson`:**
+- `ec7117a` — legendas validadas (Saúde Copa + Câmara LDO)
+
+**Workspace `/data/.openclaw/workspace`:**
+- `188bb34` — protocolo completo de legendas (MEMORY.md)
+
+### Pronto para Usar
+
+Próxima vez que Jadielson pedir legenda de qualquer cliente:
+1. Ler pasta inteira
+2. Aplicar estrutura: Hook → Desenvolvimento → CTA → Fechamento → Hashtags
+3. Embutir slogan/marca DE FORMA VIVA (nunca carimbo)
+4. Entregar em 1-2 minutos
+5. Salvar em banco de referências do cliente
