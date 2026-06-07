@@ -370,9 +370,10 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
   - Você recebe só o essencial aqui no chat
   - Agenda rastreada e comunicada
 
-### Lôh como Ponte Central dos Grupos Operacionais (2026-06-07 20:01 UTC)
+### Lôh como Ponte Central dos Grupos Operacionais (2026-06-07 20:01 UTC — ATIVA 20:23 UTC)
 
-- **Decisão:** Lôh integrada em **todos os 3 grupos** como "antena central" de Jadielson.
+- **Decisão 2026-06-07 20:01:** Lôh integrada em **todos os 3 grupos** como "antena central" de Jadielson.
+- **Status 2026-06-07 20:23:** ✅ **ATIVA** — Jadielson marcou Lôh em ESTUDOS, Projetos e CENTRAL PESSOAL.
 - **Grupos & Propósito:**
   - **1. ESTUDOS** — aprofundamento, pesquisa, learning, formação intelectual
   - **2. Projetos** — iniciação, desenvolvimento e execução de projetos (livros, serviços, filantropias)
@@ -380,20 +381,20 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - **Papel de Lôh em cada grupo:**
   - **Monitorar:** ler conversas, entender progresso, capturar decisões
   - **Sintetizar:** extrair insights, padrões, bloqueios
-  - **Conectar:** trazer aprendizado de um grupo pro outro (ex: estudo informá projeto)
+  - **Conectar:** trazer aprendizado de um grupo pro outro (ex: estudo informa projeto)
   - **Dar feedback:** quando apropriado, apontar riscos ou oportunidades
-  - **Reportar pra você:** séries de síntese (diário? semanal? TBD)
+  - **Reportar pra você:** séries de síntese (frequência a definir com uso)
 - **Fluxo de Informação (Grupos → Lôh → Jadielson):**
-  - Grupos rodam independentes (conversárias, ideias, execução)
+  - Grupos rodam independentes (conversa, ideias, execução)
   - Lôh monitoriza e coleta intel em tempo real
-  - Jadielson recebe **síntese clara** (quando? frequência a definir):
+  - Jadielson recebe **síntese clara** (quando? frequência a definir com uso):
     - O que tá andando bem em cada frente
     - Bloqueios / decisões pendentes
     - Conexões entre grupos (ex: aprendizado de Estudos que serve em Projetos)
     - Impacto em Central Pessoal (finanças, tempo, recursos)
 - **Lôh NÃO:**
   - Toma decisões pelos grupos
-  - Muda ruímo sem você confirmar
+  - Muda ruído sem você confirmar
   - Congela grupos em espera
   - Fala por você
 - **Lôh SIM:**
@@ -401,6 +402,10 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
   - Conecta pontos
   - Traz contexto pra você decidir
   - Sua "perna" em contato com tudo
+- **Automatização futura (TBD):**
+  - Cron de síntese em frequência definida (diária? semanal?)
+  - Escaladas automáticas quando bloqueio é detectado
+  - Alertas pra Jadielson em decisões críticas
 
 ## Protocolo de Legendas para Clientes — Aprendizado 2026-06-07
 
