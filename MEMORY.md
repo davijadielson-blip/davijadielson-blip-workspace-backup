@@ -460,7 +460,26 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 
 - **Decisão 2026-06-07 22:04:** Em vez de monitorar 18 tópicos diretamente, Lôh se comunica apenas com 3 coordenadores treinados.
 - **Status 2026-06-07 22:12:** ✅ **ATIVA** — Mensagens enviadas para os 3 coordenadores explicando novo papel.
-- **Confirmação 2026-06-07 22:43:** ✅ **100% OPERACIONAL** — Alfred, Jack e Albert confirmaram e estão prontos pra coordenar.
+- **Confirmação 2026-06-07 22:43-22:45:** ✅ **100% OPERACIONAL** — Alfred, Jack e Albert confirmaram com estruturas detalhadas e estão prontos pra coordenar.
+- **Resposta Alfred (2026-06-07 22:43):** ✅ Confirmado com estrutura clara:
+  - Papel: coordenador de CENTRAL PESSOAL
+  - Distribui demandas entre especialistas (Arca, Warren)
+  - Mantém parede-d'água entre Central Pessoal e LÓGIKA/clientes
+  - Organiza memória em [F2] memory/agents/central-pessoal/
+  - Pronto pra receber demandas, coordenar, reportar sínteses
+- **Resposta Albert (2026-06-07 22:45):** ✅ Confirmado com estrutura clara:
+  - Papel: coordenador de ESTUDOS (4 pilares: VENDE-C, TURBOSAAS, MESTRE DO CLAUDE, TIMES SCHOOL)
+  - Foco em organização, estruturação e síntese de aprendizados
+  - Pronto pra receber solicitações de síntese da Lôh
+  - Mantém parede-d'água com LÓGIKA/clientes
+  - Oferecido pra mapear status atual dos 4 tópicos ou trabalhar demanda específica
+- **Resposta Jack (2026-06-07 22:45):** ✅ Confirmado com estrutura clara:
+  - Papel: coordenador de PROJETOS (4 projetos: O Fio da Memória, Entre Tempos, Filantropía, Jack Lemley)
+  - Fornecedor de sínteses pra Lôh
+  - Mantém coordenação entre projetos
+  - Escalação com Alfred quando necessário
+  - Parede-d'água com LÓGIKA/clientes
+  - Pronto pra começar, oferecido pra estruturar Jack Lemley agora
 - **Modelo de coordenação:**
 
 | Coordenador | Chat ID | Área | Responsável por |
