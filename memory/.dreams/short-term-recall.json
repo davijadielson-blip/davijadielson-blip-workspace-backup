@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T19:41:34.382Z",
+  "updatedAt": "2026-06-07T19:36:18.546Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -1228,18 +1228,20 @@
       "endLine": 299,
       "source": "memory",
       "snippet": "- `openclaw config validate` retornou config válida. ## Central Pessoal — agentes pessoais rodando com vault e Arca - 2026-06-05 08:20 UTC: Jadielson reforçou que os novos agentes devem “rodar e produzir alguma coisa”, acessando o vault para contexto, referências e diretórios de captura/salvamento, sempre em harmonia com Arca. - Ação na config: adicionada regra operacional de vault e Arca aos prompts de Alfred, Arca e dos seis agentes pessoais; backup prévio da config em `/data/.openclaw/openclaw.json.bak-vault-arca-agentes-20260605T082025Z`; `openclaw config validate` retornou válido. - Vault consultado: `CLAUDE.md`, `[F2] memory/context/rotina.md`, `[F2] memory/context/people.md` e templ",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.41336314082145686,
-      "maxScore": 0.41336314082145686,
+      "totalScore": 1.4133631408214569,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-05T08:23:47.254Z",
-      "lastRecalledAt": "2026-06-05T08:23:47.254Z",
+      "lastRecalledAt": "2026-06-07T19:36:18.546Z",
       "queryHashes": [
-        "feb7986364e9"
+        "feb7986364e9",
+        "5a96760569f3"
       ],
       "recallDays": [
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-07"
       ],
       "conceptTags": [
         "backup",
@@ -2394,6 +2396,68 @@
         "chat-id",
         "thread-id",
         "observação"
+      ]
+    },
+    "memory:memory/2026-06-01.md:193:207": {
+      "key": "memory:memory/2026-06-01.md:193:207",
+      "path": "memory/2026-06-01.md",
+      "startLine": 193,
+      "endLine": 207,
+      "source": "memory",
+      "snippet": "- A nota autoral indicada em `[F1] 5-Frentes/Logika-Creative/Estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md` existe, mas estava vazia no clone local no momento da inspeção. - Criada a skill local `copy-pode` em `skills/planejamento/copy-pode/`, com referência operacional em `references/metodo-pode.md`. - Atualizado o vault em `[F2] memory/context/regra-editorial-openclaw.md` para apontar `copy-pode` como regra editorial padrão. ## Copy P.O.D.E — fonte autoral atualizada - 2026-06-01 15:44 UTC: Após novo pull do vault, a nota autoral P.O.D.E em F1 foi atualizada corretamente. - Conteúdo-base: P.O.D.E é metodologia para transformar r",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-07T19:36:18.546Z",
+      "lastRecalledAt": "2026-06-07T19:36:18.546Z",
+      "queryHashes": [
+        "5a96760569f3"
+      ],
+      "recallDays": [
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "conteudo/estratégia",
+        "p.o.d.e",
+        "engajamento.md",
+        "copy-pode",
+        "skills/planejamento/copy-pode",
+        "references/metodo-pode.md",
+        "conteúdo-base",
+        "nota"
+      ]
+    },
+    "memory:memory/2026-06-01.md:185:198": {
+      "key": "memory:memory/2026-06-01.md:185:198",
+      "path": "memory/2026-06-01.md",
+      "startLine": 185,
+      "endLine": 198,
+      "source": "memory",
+      "snippet": "- Para criação de conteúdo/legendas/headlines, consultar primeiro a frente correspondente em `[F1] 5-Frentes/...`, especialmente `11 - CONTEXTO EDITORIAL`, `12 - BANCO DE REFERENCIAS`/`12 - REFERENCIAS EDITORIAIS`, Banco de Ideias/Pauta e Rede/Referências quando existirem. - Usar `[F2] memory/databases/` como apoio complementar para prompts, referências, calendários e estruturas. - Sempre salvar legendas, headlines/manchetes e outputs editoriais na pasta de outputs do vault: `[F2] memory/outputs/`, preferencialmente em subpasta da frente correspondente (ex.: `saude-sao-sebastiao`, `camara-municipal`, `sindss`, `logika-creative`). - Respeitar a constituição do vault: F1 é leitura/sugestão; es",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-07T19:36:18.546Z",
+      "lastRecalledAt": "2026-06-07T19:36:18.546Z",
+      "queryHashes": [
+        "5a96760569f3"
+      ],
+      "recallDays": [
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "conteúdo/legendas/headlines",
+        "5-frentes",
+        "ideias/pauta",
+        "rede/referências",
+        "memory/databases",
+        "headlines/manchetes",
+        "memory/outputs",
+        "saude-sao-sebastiao"
       ]
     }
   }

@@ -307,28 +307,26 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
   - [ ] Começar a despachar demandas reais para o conselho
   - [ ] Validar respostas e refinar prompts/contexto conforme uso
 
-## Pipeline de Contexto Operacional — Coleta e Banco Centralizado
+## Pipeline de Contexto Operacional — Banco Centralizado no Vault
 
 - **2026-06-07:** Confirmado o pipeline de contexto para alimentação do conselho de IA.
-- **Fontes de Contexto (tópicos Telegram — vivos, alimentados por Jarvis):**
-  - 📌 **Tópico 474** (Referências/Inspirações) — dados, tendências, padrões, números da operação LÓGIKA
-  - 📌 **Tópico 872** (Bases Públicas & Dados Oficiais) — dados públicos, tendências, números oficiais
-  - 📌 **Tópico 871** (Redes Sociais & Métricas) — métricas sociais, desempenho, tendências, análise de marca
-- **Pipeline operacional:**
-  - Tópicos 474/872/871 alimentados regularmente (responsabilidade Jarvis/equipe)
-  - Lôh monitora e coleta informações desses tópicos (regularmente, não em tempo real)
-  - Lôh organiza/estrutura dados em `vault/segundo-cerebro-jadielson/[F2] memory/` (banco centralizado)
-  - Agentes leem **só do banco centralizado** (vault), não dos tópicos diretos
-  - Respostas saem contextualizadas, não genéricas
-- **Estrutura de organização em F2/memory (sugerida):**
-  - `[F2] memory/context/logika-estrategico.md` — dados de 474 (tendências, padrões, números LÓGIKA)
-  - `[F2] memory/context/logika-dados-oficiais.md` — dados de 872 (bases públicas, números oficiais)
-  - `[F2] memory/context/logika-redes-metricas.md` — dados de 871 (métricas sociais, desempenho, marca)
+- **Decisão 2026-06-07 (19:36 UTC):** Remover tópicos Telegram (474, 872, 871) e centralizar **apenas no vault** para reduzir ruído e simplificar gerência.
+- **Banco centralizado (única fonte de verdade):**
+  - `vault/segundo-cerebro-jadielson/[F2] memory/` — contexto organizando por **tipo de dado** ou **frente de negócio**
+  - Jarvis alimenta dados relevantes organizando direto no vault (estrutura sugerida abaixo)
+  - Lôh consulta vault conforme precisa → agentes leem do vault → respostas contextualizadas
+- **Estrutura de organização em F2/memory:**
+  - `[F2] memory/context/logika-estrategico.md` — tendências, padrões, números LÓGIKA
+  - `[F2] memory/context/logika-dados-oficiais.md` — bases públicas, números oficiais
+  - `[F2] memory/context/logika-redes-metricas.md` — métricas sociais, desempenho, marca
   - Ou estrutura alternativa que Jadielson preferir
-- **Cadência de coleta:** A definir (semanal? diária? sob demanda?).
 - **Responsabilidades:**
-  - Jarvis: alimenta e circula contexto nos tópicos
-  - Lôh: colhe regularmente → organiza em vault → agentes consultam
+  - Jarvis: classifica e alimenta contexto direto no vault (sem tópicos intermediários)
+  - Lôh: consulta vault conforme demanda → agentes leem e respondem
+- **Benefícios:**
+  - Sem ruído de tópicos paralelos
+  - Estrutura única, mais fácil de navegar
+  - Menos gerência de múltiplas fontes
 
 ## Protocolo de Legendas para Clientes — Aprendizado 2026-06-07
 
