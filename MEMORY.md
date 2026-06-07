@@ -407,6 +407,55 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
   - Escaladas automáticas quando bloqueio é detectado
   - Alertas pra Jadielson em decisões críticas
 
+### Estrutura Completa dos 3 Grupos (Mapeamento 2026-06-07 20:27 UTC)
+
+#### **1. CENTRAL PESSOAL** — 9 Tópicos
+
+| Tópico | Função | Responsabilidade |
+|--------|--------|------------------|
+| **Alfred** | Assistente pessoal geral/concierge | Coordenação pessoal |
+| **Saúde, Corpo e Energia** | Bem-estar físico e energia vital | Vitália |
+| **Autoconhecimento** | Reflexões pessoais e desenvolvimento interior | Identidade |
+| **Liberdade, Lazer, Hobbies e Ócio Criativo** | Atividades de lazer, hobbies, criatividade | Descanso & críativia |
+| **My Finance** | Gestão financeira | Warren |
+| **Segundo Cérebro** | Sistema de organização de conhecimento/notas | Arca |
+| **Família e Relacionamentos** | Vida familiar e relações interpessoais | Pessoal |
+| **Identidade, Estilo de Vida e Visão de Futuro** | Definição pessoal, lifestyle, planejamento | Estratégia pessoal |
+| **Espiritualidade e Propósitos** | Reflexões espirituais e propósito de vida | Crenças & sentido |
+
+#### **2. ESTUDOS** — 5 Tópicos
+
+| Tópico | Função | Área |
+|--------|--------|------|
+| **VENDE-C** | Vendas/Comercial | Estratégia comercial |
+| **TURBOSAAS** | SaaS / ferramentas | Tecnologia |
+| **MESTRE DO CLAUDE** | Domínio da IA Claude | IA/Automação |
+| **Albert** | Estudos gerais | Conhecimento geral |
+| **TIMES SCHOOL - RAFAEL MEDEIROS** | Curso/treinamento Rafael Medeiros | Formação estruturada |
+
+#### **3. PROJETOS** — 4 Tópicos
+
+| Tópico | Tipo | Função | Status |
+|--------|------|--------|--------|
+| **O Fio da Memória** | Documentário | Projeto de documentário (Lei Aldir Blanc) | Ativo |
+| **Entre Tempos** | Videoclipe | Projeto de videoclipe (Lei Paulo Gustavo) | Ativo |
+| **Filantropia** | Social | Ações/projetos filantropícos | Ativo |
+| **Jack Lemley** | Projeto | Projeto ou trabalho específico | Ativo |
+
+#### **RESUMO POR TIPO DE FLUXO**
+
+- **CENTRAL PESSOAL**: Introspeção, bem-estar, finanças pessoais, objetivos de vida
+- **ESTUDOS**: Aprendizado, pesquisa, formação crítica, dominíio de ferramentas
+- **PROJETOS**: Execução, audiovisual, filantropias, produção de valor
+
+#### **CONEXÕES ESPERADAS QUE LÔH VAI MAPEAR**
+
+- Aprendizado em ESTUDOS (ex: MESTRE DO CLAUDE) → aplicado em PROJETOS
+- Estratégia em ESTUDOS (ex: VENDE-C) → impacto em PROJETOS (captação de recursos)
+- Objetivo pessoal em CENTRAL PESSOAL → informa prioridade em PROJETOS
+- Finanças em CENTRAL PESSOAL (My Finance) → sustentação de PROJETOS
+- Saúde/Energia em CENTRAL PESSOAL → capacidade de execução em PROJETOS
+
 ## Protocolo de Legendas para Clientes — Aprendizado 2026-06-07
 
 ### Regra Fundamental
