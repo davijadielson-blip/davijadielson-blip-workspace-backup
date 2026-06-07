@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T21:07:18.581Z",
+  "updatedAt": "2026-06-06T19:41:34.382Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -262,19 +262,21 @@
       "endLine": 130,
       "source": "memory",
       "snippet": "- Jadielson rotacionou o token via BotFather e enviou o novo token; configuração em `/data/.openclaw/openclaw.json`, campo `channels.telegram.botToken`, foi atualizada sem expor o token. - Foi necessário reinício real do Gateway/processo para limpar estado com token antigo; depois Telegram ficou `running + connected` e teste por Telegram chegou com sucesso. - Backup sensível criado durante a troca (`/data/.openclaw/openclaw.json.bak-telegram-token-20260601-1338`) foi removido com autorização do Jadielson e verificado como inexistente. ## GitHub/vault — escrita e sincronização - 2026-06-01: Cópia local do vault clonada em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson` a partir",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.0264228999614715,
-      "maxScore": 0.515317639708519,
+      "totalScore": 1.6055120508578082,
+      "maxScore": 0.5790891508963367,
       "firstRecalledAt": "2026-06-01T21:30:08.839Z",
-      "lastRecalledAt": "2026-06-01T21:41:16.256Z",
+      "lastRecalledAt": "2026-06-06T19:41:34.382Z",
       "queryHashes": [
         "40f68bcf5de9",
-        "1fd5c0627c32"
+        "1fd5c0627c32",
+        "98df3b9f1b4f"
       ],
       "recallDays": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-06"
       ],
       "conceptTags": [
         "backup",
@@ -358,20 +360,22 @@
       "endLine": 295,
       "source": "memory",
       "snippet": "- Jadielson rotacionou o token via BotFather e enviou o novo token; configuração em `/data/.openclaw/openclaw.json`, campo `channels.telegram.botToken`, foi atualizada sem expor o token. - Foi necessário reinício real do Gateway/processo para limpar estado com token antigo; depois Telegram ficou `running + connected` e teste por Telegram chegou com sucesso. - Backup sensível criado durante a troca (`/data/.openclaw/openclaw.json.bak-telegram-token-20260601-1338`) foi removido com autorização do Jadielson e verificado como inexistente. ## GitHub/vault — escrita e sincronização - 2026-06-01: Cópia local do vault clonada em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson` a partir",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.0203369796276092,
-      "maxScore": 0.515317639708519,
+      "totalScore": 1.5994261305239459,
+      "maxScore": 0.5790891508963367,
       "firstRecalledAt": "2026-06-01T21:41:16.256Z",
-      "lastRecalledAt": "2026-06-02T02:06:07.171Z",
+      "lastRecalledAt": "2026-06-06T19:41:34.382Z",
       "queryHashes": [
         "1fd5c0627c32",
-        "95720b1d919a"
+        "95720b1d919a",
+        "98df3b9f1b4f"
       ],
       "recallDays": [
         "2026-06-01",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-06"
       ],
       "conceptTags": [
         "backup",
@@ -1987,18 +1991,19 @@
       "endLine": 448,
       "source": "memory",
       "snippet": "- Decisão aceita pela Lôh: Notion fica principalmente para grade de produção e execução; Vault/GitHub/workspace ficam para análises, textos leves, índices, bancos de contexto e outputs dos agentes. - Proposta de tópicos/agentes sob Jarvis: Referências/Inspirações, Redes Sociais & Métricas (Meta Business/Analytics etc.), Bases Públicas & Dados Oficiais, CRM & Banco de Clientes. - Google Drive será a base operacional da Secretária para CRM, banco de clientes, documentos, planilhas, relatórios e arquivos migrados do OneDrive. - Jadielson decidiu criar apenas a pasta principal no Drive e jogar os arquivos; Clara/Secretária deverá organizar depois, respeitando limites de segurança e sem exclusão",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5788790315389631,
+      "totalScore": 2.028102785348892,
       "maxScore": 0.44930642843246454,
       "firstRecalledAt": "2026-06-05T20:25:45.813Z",
-      "lastRecalledAt": "2026-06-05T21:07:18.581Z",
+      "lastRecalledAt": "2026-06-05T21:21:53.349Z",
       "queryHashes": [
         "45499bd00512",
         "f054b89d8b03",
         "d64c49bec05a",
-        "c2805ae91bd0"
+        "c2805ae91bd0",
+        "3c200c4764d4"
       ],
       "recallDays": [
         "2026-06-05"
@@ -2052,15 +2057,16 @@
       "endLine": 417,
       "source": "memory",
       "snippet": "- Redes sociais: começar por links, prints, downloads quando necessário, anotações e relatórios/exportações; APIs ficam para fase posterior. - Notion: deve funcionar como grade/agregador para links de referência e dados públicos. - OneDrive: documentos/planilhas/arquivos devem migrar preferencialmente para Google Drive; GitHub fica para arquivos leves, prompts, processos e documentação versionável. - Referências: Jadielson propôs criar tópico/agente treinado para captar referências, estudar, classificar e encaminhar ao setor pertinente. Nome sugerido pela Lôh: Radar. - Dados públicos: links oficiais entram no Notion; quando forem estratégicos, guardar também resumo e arquivo local no Drive.",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.39662519097328186,
-      "maxScore": 0.39662519097328186,
+      "totalScore": 0.8089647352695465,
+      "maxScore": 0.4123395442962646,
       "firstRecalledAt": "2026-06-05T20:49:12.716Z",
-      "lastRecalledAt": "2026-06-05T20:49:12.716Z",
+      "lastRecalledAt": "2026-06-05T21:21:53.349Z",
       "queryHashes": [
-        "f054b89d8b03"
+        "f054b89d8b03",
+        "3c200c4764d4"
       ],
       "recallDays": [
         "2026-06-05"
@@ -2083,16 +2089,17 @@
       "endLine": 494,
       "source": "memory",
       "snippet": "- Pendente operacional: testar ação segura/readonly do MCP YouTube quando as tools expostas estiverem disponíveis/listadas no runtime. ## 2026-06-05 20:48 UTC — Flush pré-compactação: Zapier/YouTube/Tavily/Central de Pesquisa - Tavily foi ativado/restaurado como provider de busca web do OpenClaw; validação final indicou `web_search` usando provider `tavily`. Chave tratada como segredo; não registrar em memória/commits/respostas. - Zapier MCPs configurados para frentes separadas: `zapier-1`, `zapier-2`, `zapier-3` e `zapier-youtube` dedicado. Tokens tratados como segredo; não registrar valores. - Houve regressões após restart em que config ativa apareceu sem MCPs/Tavily; foram restaurados",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7557664215564728,
-      "maxScore": 0.3888506263494491,
+      "totalScore": 1.1975616425275804,
+      "maxScore": 0.44179522097110746,
       "firstRecalledAt": "2026-06-05T20:56:20.830Z",
-      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
+      "lastRecalledAt": "2026-06-05T21:21:53.349Z",
       "queryHashes": [
         "c6b0263c90cd",
-        "d64c49bec05a"
+        "d64c49bec05a",
+        "3c200c4764d4"
       ],
       "recallDays": [
         "2026-06-05"
@@ -2208,15 +2215,16 @@
       "endLine": 507,
       "source": "memory",
       "snippet": "- No Vault Segundo Cérebro, respeitando regra F1 somente autoral, foi criada nota F2 vinculada ao projeto “GANHAR DINHEIRO COM CANAL NO YOUTUBE”: `[F2] memory/projects/ganhar-dinheiro-canal-youtube/estrategia-canais-clientes-logika.md`. Conteúdo: LÓGIKA como central gestora de canais, permissões seguras, Zapier/MCP para YouTube, Drive/Secretária, próximos passos para serviço/monetização. - Commits finais informados ao usuário nesta sequência incluíram: `3093669` Tavily, `b84d2c1` Zapier MCP, `97b28a2` validação pós-restart, `c119f88` workspace, `8b67182` vault estratégia YouTube, `e394a1f` MCP YouTube, `a5707f3` validação MCP YouTube persistente. ## LÓGIKA — novos tópicos de pesquisa e deci",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.36503528654575346,
-      "maxScore": 0.36503528654575346,
+      "totalScore": 0.8116884917020797,
+      "maxScore": 0.4466532051563263,
       "firstRecalledAt": "2026-06-05T21:01:31.207Z",
-      "lastRecalledAt": "2026-06-05T21:01:31.207Z",
+      "lastRecalledAt": "2026-06-05T21:21:53.349Z",
       "queryHashes": [
-        "d64c49bec05a"
+        "d64c49bec05a",
+        "3c200c4764d4"
       ],
       "recallDays": [
         "2026-06-05"
@@ -2301,15 +2309,16 @@
       "endLine": 520,
       "source": "memory",
       "snippet": "- Tópicos Telegram criados no grupo LÓGIKA (`-1003645702069`): `871 — Redes Sociais & Métricas` e `872 — Bases Públicas & Dados Oficiais`. - Configuração OpenClaw atualizada: tópicos `871` e `872` mapeados para `agentId=jarvis`, `groupPolicy=open`, `requireMention=false`, com prompts específicos para limites de social analytics e dados oficiais. - Documentos Jarvis atualizados: `TOPICOS.md` e `TOPICOS_COORDENACAO.md`. ## LÓGIKA — mensagens iniciais dos tópicos de pesquisa - 2026-06-05 20:52 UTC: mensagens iniciais enviadas nos novos tópicos da LÓGIKA: - `871 — Redes Sociais & Métricas`: Telegram messageId `873`. - `872 — Bases Públicas & Dados Oficiais`: Telegram messageId `874`. - As",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4001713126897812,
-      "maxScore": 0.4001713126897812,
+      "totalScore": 0.8123934060335158,
+      "maxScore": 0.4122220933437347,
       "firstRecalledAt": "2026-06-05T21:07:18.581Z",
-      "lastRecalledAt": "2026-06-05T21:07:18.581Z",
+      "lastRecalledAt": "2026-06-05T21:21:53.349Z",
       "queryHashes": [
-        "c2805ae91bd0"
+        "c2805ae91bd0",
+        "3c200c4764d4"
       ],
       "recallDays": [
         "2026-06-05"
@@ -2323,6 +2332,68 @@
         "grupo",
         "lógika",
         "redes"
+      ]
+    },
+    "memory:memory/2026-06-05.md:519:530": {
+      "key": "memory:memory/2026-06-05.md:519:530",
+      "path": "memory/2026-06-05.md",
+      "startLine": 519,
+      "endLine": 530,
+      "source": "memory",
+      "snippet": "- `zapier-youtube`: YouTube com ações `Find Video`, `Get Report`, API GET, e ações sensíveis de playlist/upload/thumbnail/API mutável. - `zapier-3`: Facebook Pages e Instagram for Business. Instagram tem publicação de foto/vídeo, API GET e API mutável; Facebook Pages tem ações de publicação/perfil/vídeo e `Page Post Insights` para métricas, embora classificada pelo Zapier como write_action. - `zapier-1`: Google AI Studio/Gemini. - `zapier-2`: Trello e Miro. - Mensagem de treinamento enviada no tópico `871` da LÓGIKA: Telegram messageId `875`. - Documento criado para Jarvis: `/data/.openclaw/workspace-jarvis/INTEGRACOES-MCP-REDES.md`. - Regra definida: tópico 871 opera por padrão em l",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4217237293720245,
+      "maxScore": 0.4217237293720245,
+      "firstRecalledAt": "2026-06-05T21:21:53.349Z",
+      "lastRecalledAt": "2026-06-05T21:21:53.349Z",
+      "queryHashes": [
+        "3c200c4764d4"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "zapier-youtube",
+        "playlist/upload/thumbnail/api",
+        "zapier-3",
+        "foto/vídeo",
+        "publicação/perfil/vídeo",
+        "write-action",
+        "zapier-1",
+        "studio/gemini"
+      ]
+    },
+    "memory:memory/2026-06-05.md:396:409": {
+      "key": "memory:memory/2026-06-05.md:396:409",
+      "path": "memory/2026-06-05.md",
+      "startLine": 396,
+      "endLine": 409,
+      "source": "memory",
+      "snippet": "- Observação pendente: a liberação mais forte já estava aplicada no prompt/config para Google Workspace/Drive. Notion/GitHub/Vault estavam documentados no workspace Jarvis (`AUTORIZACOES.md`) e operacionais, mas ainda podem ser reforçados explicitamente no prompt/config da Clara/Jarvis se Jadielson quiser padronizar no mesmo nível do Google. ## Clara — aviso Notion/GitHub/Vault enviado - 2026-06-05 18:15 UTC: Após Jadielson perguntar se Clara havia sido notificada, Lôh enviou aviso no tópico 6 da LÓGIKA (`chat_id=-1003645702069`, `thread_id=6`) reforçando autorização operacional para Clara usar Notion, Vault e GitHub integrados. - Mensagem Telegram enviada: `messageId=831`. - Limites comun",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.41895338892936707,
+      "maxScore": 0.41895338892936707,
+      "firstRecalledAt": "2026-06-05T21:21:53.349Z",
+      "lastRecalledAt": "2026-06-05T21:21:53.349Z",
+      "queryHashes": [
+        "3c200c4764d4"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "prompt/config",
+        "workspace/drive",
+        "notion/github/vault",
+        "autorizacoes.md",
+        "clara/jarvis",
+        "chat-id",
+        "thread-id",
+        "observação"
       ]
     }
   }
