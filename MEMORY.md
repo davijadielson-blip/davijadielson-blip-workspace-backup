@@ -274,3 +274,35 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - Conta Lôh permanece como base restrita; empresa e pessoal foram testadas com criação/edição de Docs/Sheets e Calendar.
 - Para comandos futuros com gog, exportar `GOG_KEYRING_BACKEND=file` e `GOG_KEYRING_PASSWORD` a partir de `/data/.openclaw/credentials/gog/keyring-password`; sempre usar `--account` explícito e `--gmail-no-send` quando houver Gmail no contexto.
 - Segurança: OAuth Client JSON continha `client_secret` e passou pelo chat; quando conveniente, rotacionar/recriar o OAuth Client no Google Cloud.
+
+## C-Level Squad — Deploy Completo (2026-06-07)
+
+- **2026-06-07 UTC / 2026-06-07 America/Maceio:** Deploy da arquitetura de conselho executivo da Lógika Creative finalizado.
+- **8 agentes operacionais** instalados e roteados em tópicos Telegram:
+  - ✅ **CAIO** (topic 1339) — IA & Automação · modelo gpt-4.1
+  - ✅ **CRO** (topic 13) — Comercial/Prospecção · modelo gpt-5.4-pro
+  - ✅ **CTO** (topic 1500) — Tecnologia & Software · modelo gpt-4.1
+  - ✅ **CMO** (topic 1501) — Marketing & Brand · modelo gpt-5.5
+  - ✅ **CCO** (topic 1502) — Criação & Audiovisual · modelo gpt-5.5
+  - ✅ **COO** (topic 1503) — Operações & Scaling · modelo gpt-5.5
+  - ✅ **CFO** (topic 1504) — Finanças & Caixa · modelo gpt-5.5
+  - ✅ **CIO** (topic 1505) — Governança & Compliance · modelo gpt-5.5
+- **Fonte dos prompts:** repositório público `davijadielson-blip/davijadielson-blip-workspace-backup`, pasta `agentes/logika-c-level-squad/`.
+- **Testes executados:** roteamento individual + comunicação cruzada entre agentes. Todos operacionais.
+- **Contexto operacional:** agentes vão ler contexto real do vault `segundo-cerebro-jadielson` (F2/memory) conforme Jadielson alimenta com briefings.
+- **Calibragem CAIO:** adiada; Jadielson decide depois:
+  - Stack de IA (qual plataforma base — OpenAI, Claude, outra)
+  - Roadmap de automação (ordem dos processos a automatizar)
+  - Limites de IA responsável (regras para saúde, política, dados sensíveis)
+  - Divisão de papéis (CAIO projeta → LÔH instancia)
+- **Ritual operacional:** documentado em `memory/c-level-squad-operacao.md`.
+  - Demandas pontuais: 1 agente direto no tópico
+  - Escalação: 2-3 agentes em thread
+  - Conselho de IA: 4+ agentes + decisão Jadielson (para temas transversais)
+  - Check-in periódico: placar de saúde (semanal ou mensal)
+  - Contexto pelo vault: Jadielson alimenta F2/memory, agentes leem e respondem com inteligência contextual
+- **Próximas etapas:**
+  - [ ] Alimentar vault `segundo-cerebro-jadielson` com contexto real (clientes, processos, números, regras por frente)
+  - [ ] Calibragem do CAIO (decidir stack, roadmap, limites)
+  - [ ] Começar a despachar demandas reais para o conselho
+  - [ ] Validar respostas e refinar prompts/contexto conforme uso
