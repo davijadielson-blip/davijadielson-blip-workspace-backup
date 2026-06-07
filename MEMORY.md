@@ -307,26 +307,68 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
   - [ ] Começar a despachar demandas reais para o conselho
   - [ ] Validar respostas e refinar prompts/contexto conforme uso
 
-## Pipeline de Contexto Operacional — Banco Centralizado no Vault
+## Arquitetura Operacional Completa — Contexto, Laboratório e Clara (2026-06-07 19:44 UTC)
 
-- **2026-06-07:** Confirmado o pipeline de contexto para alimentação do conselho de IA.
+### Pipeline de Contexto — Banco Centralizado no Vault
+
 - **Decisão 2026-06-07 (19:36 UTC):** Remover tópicos Telegram (474, 872, 871) e centralizar **apenas no vault** para reduzir ruído e simplificar gerência.
 - **Banco centralizado (única fonte de verdade):**
-  - `vault/segundo-cerebro-jadielson/[F2] memory/` — contexto organizando por **tipo de dado** ou **frente de negócio**
-  - Jarvis alimenta dados relevantes organizando direto no vault (estrutura sugerida abaixo)
+  - `vault/segundo-cerebro-jadielson/[F2] memory/` — contexto organizado por **tipo de dado** ou **frente de negócio**
+  - Jarvis alimenta dados relevantes organizando direto no vault
   - Lôh consulta vault conforme precisa → agentes leem do vault → respostas contextualizadas
 - **Estrutura de organização em F2/memory:**
   - `[F2] memory/context/logika-estrategico.md` — tendências, padrões, números LÓGIKA
   - `[F2] memory/context/logika-dados-oficiais.md` — bases públicas, números oficiais
   - `[F2] memory/context/logika-redes-metricas.md` — métricas sociais, desempenho, marca
-  - Ou estrutura alternativa que Jadielson preferir
 - **Responsabilidades:**
-  - Jarvis: classifica e alimenta contexto direto no vault (sem tópicos intermediários)
+  - Jarvis: classifica e alimenta contexto direto no vault
   - Lôh: consulta vault conforme demanda → agentes leem e respondem
-- **Benefícios:**
-  - Sem ruído de tópicos paralelos
-  - Estrutura única, mais fácil de navegar
-  - Menos gerência de múltiplas fontes
+
+### Laboratório — Tópico para Projetos Complexos
+
+- **Decisão 2026-06-07 (19:40 UTC):** Manter tópico "Laboratório" para trabalho complexo.
+- **O que vai lá:**
+  - Lançamentos de produtos/serviços
+  - Ideias de livros
+  - Criação de pacotes/ofertas
+  - Pensamento estratégico multi-agente
+- **Fluxo:**
+  - Squad debate, analisa e desenvolve no Laboratório
+  - Lôh monitora e **avisa quando tá pronto** pro você revisar
+  - Resultado final move pra vault ou entrega conforme decisão
+
+### Canais de Comunicação — Dois Fluxos Distintos
+
+- **💬 Chat Direto (Telegram aqui)**
+  - Coisas **instantâneas e rápidas**: legendas, roteiros, textos simples, conteúdo dia a dia
+  - Você pede → Lôh entrega pronto aqui mesmo
+  - Comunicação leve e imediata
+
+- **🧪 Laboratório (Tópico)**
+  - Coisas **complexas e longas**: projetos, lançamentos, análises estratégicas
+  - Squad trabalha lá, Lôh avisa quando tá pronto
+  - Mantém organizado, não polui o chat
+
+### Clara como Subordinada Operacional de Lôh
+
+- **Decisão 2026-06-07 (19:42 UTC):** Clara gerencia agenda (Google Calendar) como operacional de Lôh, **não fala direto com Jadielson**.
+- **Responsabilidades Clara:**
+  - Gerencia Google Calendar (Jadielson)
+  - Executa instruções operacionais (agendar, reagendar, bloquear horários)
+  - Reporta diariamente pra Lôh (não pra você)
+- **Comunicação Clara → Lôh → Jadielson:**
+  - **Às 07:00 (America/Maceio):** Clara reporta dia — resumo do que tá **previsto hoje** (Lôh sintetiza e avisa você)
+  - **Às 17:00 (America/Maceio):** Clara reporta atrasos — o que ficou **pendente/atrasado** (Lôh sintetiza e você vê)
+  - Lôh filtra, sintetiza e passa essencial pra você
+- **Pipeline de Instrução Operacional (Jadielson → Lôh → Clara):**
+  - Você aqui: *"Alô, avisa pra Clara reagendar — dia 10 em São José da Coroa Grande, cobertura mídia Saúde Movimento"*
+  - Lôh: recebe, manda pra Clara, executa, reporta resultado pra você
+  - Você fica livre — só me avisa qualquer instrução operacional (agendar, remarcar, bloquear tempo, docs)
+- **Benefício:**
+  - Você não precisa mexer com Clara
+  - Lôh gerencia Clara (instrui, valida, filtra)
+  - Você recebe só o essencial aqui no chat
+  - Agenda rastreada e comunicada
 
 ## Protocolo de Legendas para Clientes — Aprendizado 2026-06-07
 
