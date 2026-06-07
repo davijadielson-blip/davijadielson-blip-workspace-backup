@@ -306,3 +306,96 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
   - [ ] Calibragem do CAIO (decidir stack, roadmap, limites)
   - [ ] Começar a despachar demandas reais para o conselho
   - [ ] Validar respostas e refinar prompts/contexto conforme uso
+
+## Pipeline de Contexto Operacional — Coleta e Banco Centralizado
+
+- **2026-06-07:** Confirmado o pipeline de contexto para alimentação do conselho de IA.
+- **Fontes de Contexto (tópicos Telegram — vivos, alimentados por Jarvis):**
+  - 📌 **Tópico 474** (Referências/Inspirações) — dados, tendências, padrões, números da operação LÓGIKA
+  - 📌 **Tópico 872** (Bases Públicas & Dados Oficiais) — dados públicos, tendências, números oficiais
+  - 📌 **Tópico 871** (Redes Sociais & Métricas) — métricas sociais, desempenho, tendências, análise de marca
+- **Pipeline operacional:**
+  - Tópicos 474/872/871 alimentados regularmente (responsabilidade Jarvis/equipe)
+  - Lôh monitora e coleta informações desses tópicos (regularmente, não em tempo real)
+  - Lôh organiza/estrutura dados em `vault/segundo-cerebro-jadielson/[F2] memory/` (banco centralizado)
+  - Agentes leem **só do banco centralizado** (vault), não dos tópicos diretos
+  - Respostas saem contextualizadas, não genéricas
+- **Estrutura de organização em F2/memory (sugerida):**
+  - `[F2] memory/context/logika-estrategico.md` — dados de 474 (tendências, padrões, números LÓGIKA)
+  - `[F2] memory/context/logika-dados-oficiais.md` — dados de 872 (bases públicas, números oficiais)
+  - `[F2] memory/context/logika-redes-metricas.md` — dados de 871 (métricas sociais, desempenho, marca)
+  - Ou estrutura alternativa que Jadielson preferir
+- **Cadência de coleta:** A definir (semanal? diária? sob demanda?).
+- **Responsabilidades:**
+  - Jarvis: alimenta e circula contexto nos tópicos
+  - Lôh: colhe regularmente → organiza em vault → agentes consultam
+
+## Protocolo de Legendas para Clientes — Aprendizado 2026-06-07
+
+### Regra Fundamental
+
+Quando Jadielson pedir legenda (conteúdo, conscientização, campanha), eu devo:
+
+1. **Ler TODA a pasta do cliente** — não só tom/legendas:
+   - Contexto Editorial (tom, formatos, headlines, legendas, roteiros)
+   - Banco de Referências (melhores exemplos, padrões que emergiram)
+   - Pauta e Conteúdo (campanhas, calendário, ideias, prioridades)
+   - Estrutura Organizacional (setores, públicos-alvo, desafios)
+   - Qualquer coisa relevante na pasta
+
+2. **Estrutura da Legenda** (aprendido do padrão de Jadielson):
+   - ⚽ **Hook criativo** — contexto relevante (Copa, época, momento, estação)
+   - **Tom conversacional** — próximo, claro, útil, sem burocracia
+   - **Desenvolvimento com contexto** — por que importa + impacto real
+   - **CTA no meio** — orientação prática integrada, não no fim
+   - **Fechamento reflexivo** — frase de encerramento com força
+   - **Hashtags de marca** — reforço de identidade institucional
+
+3. **Slogan/Marca Embutida** (CRÍTICO):
+   - ❌ NÃO é carimbo no final: "💙 Saúde a gente faz com coração" (repetido toda hora)
+   - ✅ É **integrado na narrativa**, respirado, natural:
+     - "Um cuidado que se faz com coração, de verdade"
+     - "Um gesto que a gente faz para quem se ama"
+     - Slogan está **presente na intenção**, não na frase literal
+   - Regra: **não pode parecer carimbo** — tem que estar lá mas vivo
+
+4. **Tamanho e Velocidade**:
+   - 1-2 minutos pra entregar
+   - Legendas curtas a médias (150-300 palavras geralmente)
+   - Contextualizado, não genérico
+
+### Exemplo Prático Validado (2026-06-07)
+
+**Contexto:** Conscientização caderneta de vacina, período de Copa, Secretaria de Saúde
+
+**Legenda Final:**
+```
+⚽💉 Caderneta de Vacina (Período de Copa)
+
+Durante a Copa, as ruas ganham movimento, os encontros aumentam e mais gente circula por todo canto. É justamente nesse momento que conferir a caderneta de vacinação fica mais importante.
+
+Manter a vacinação em dia é um gesto que protege você, sua família e quem você ama. Um cuidado que se faz com coração, de verdade.
+
+Procure sua unidade de saúde e confira se suas vacinas estão atualizadas. Leve a carteira de vacinação, cartão do SUS e documento de identidade.
+
+Prevenir é sempre o melhor caminho.
+
+#saudesaosebastiaoal #maistrabalhomaisavanco
+```
+
+**Por que funcionou:**
+- Hook Copa (contextual, não genérico)
+- Slogan "com coração" integrado naturalmente ("Um cuidado que se faz com coração, de verdade")
+- CTA claro no meio
+- Fechamento com força ("Prevenir é...")
+- Hashtags de marca
+- Não repete slogan como carimbo
+
+### Aplicar Este Protocolo Sempre
+
+Quando Jadielson pedir legenda de **Saúde, SINDSS, Câmara, Lógika ou outro cliente**:
+- Ler pasta inteira
+- Usar estrutura acima
+- Embutir slogan/marca de forma viva
+- Entregar em 1-2 minutos
+- Sem parecer template ou carimbo
