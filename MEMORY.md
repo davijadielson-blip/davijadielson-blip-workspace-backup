@@ -456,6 +456,35 @@ Eu sou um agente OpenClaw conectado a canais de chat pelo Gateway. Nesta instala
 - Finanças em CENTRAL PESSOAL (My Finance) → sustentação de PROJETOS
 - Saúde/Energia em CENTRAL PESSOAL → capacidade de execução em PROJETOS
 
+### Sistema de Coordenação com 3 Coordenadores (2026-06-07 22:12 UTC)
+
+- **Decisão 2026-06-07 22:04:** Em vez de monitorar 18 tópicos diretamente, Lôh se comunica apenas com 3 coordenadores treinados.
+- **Status 2026-06-07 22:12:** ✅ **ATIVA** — Mensagens enviadas para os 3 coordenadores explicando novo papel.
+- **Modelo de coordenação:**
+
+| Coordenador | Chat ID | Área | Responsável por |
+|-------------|---------|---------|--------------------|
+| **Alfred** | -1003740871403 | CENTRAL PESSOAL | Agrega 9 tópicos de pessoal/bem-estar/finanças |
+| **Jack** | -1004292150901 | PROJETOS | Agrega 4 projetos, progresso e bloqueios |
+| **Albert** | -1003925972377 | ESTUDOS | Agrega 5 tópicos de aprendizado e pesquisa |
+
+- **Fluxo de comunicação:**
+  1. Lôh pede síntese pra cada coordenador (quando apropriado)
+  2. Coordenadores agregam informação do seu escopo
+  3. Lôh conecta pontos entre os 3 áreas
+  4. Lôh reporta pra Jadielson com contexto 360°
+
+- **Vantagens:**
+  - ✅ Informação já filtrada e agregada
+  - ✅ Menos ruído, mais clareza
+  - ✅ Coordenadores lidam com detalhes internos
+  - ✅ Lôh fica com visão estratégica
+
+- **Responsabilidades de cada coordenador:**
+  - **Alfred:** Sintetiza saúde, bem-estar pessoal, finanças, objetivos de vida
+  - **Jack:** Sintetiza progresso em projetos, bloqueios, recursos necessários, impactos
+  - **Albert:** Sintetiza aprendizados, insights, conhecimento novo, padrões
+
 ## Protocolo de Legendas para Clientes — Aprendizado 2026-06-07
 
 ### Regra Fundamental
