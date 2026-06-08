@@ -59,17 +59,53 @@
 - **Status:** aguardando link/acesso de Jadielson
 - **Se permitido:** criar grade de produçao sincronizada com roteiros
 
+## Pegada de Roteiros — Padrão Jadielson
+
+**2026-06-08 23:36 UTC:** Jadielson compartilhou como o ChatGPT fez roteiros (já usados). Esta é a **pegada correta** pra daqui pra frente.
+
+**Estrutura (4 stories):**
+1. **Abertura** — contexto + local (simples, direto)
+2. **Movimento** — o que acontece (ação em curso)
+3. **Serviço em Ação** — benefício prático (impacto real)
+4. **Fechamento** — mensagem final (respeito, continuidade)
+
+**Características da Pegada:**
+- Frases curtas, diretas, sem jargon
+- Linguagem próxima e natural (não academiada)
+- Fluxo narrativo óbvio (começo-meio-fim)
+- Focado em UMA coisa por story (não 5 pilares em 1)
+- Rápido pra gravar (sem muitos personagens/locatções)
+- Repetivel (mesma estrutura em todos)
+
+**Exemplo (UBS Cruzeiro Atendimento Noturno):**
+
+```
+Story 1: "Enquanto a noite chega, o cuidado continua na UBS Cruzeiro."
+Story 2: "Atendimento noturno ampliando o acesso da população aos serviços de saúde."
+Story 3: "Mais oportunidade para quem precisa de cuidado fora do horário convencional."
+Story 4: "A UBS Cruzeiro segue de portas abertas, levando atendimento e acolhimento também à noite."
+```
+
+**Aprendizado da Lôh:**
+- NUNCA mais roteiro detalhado (hooks+desenvolvimento+CTA separados)
+- SIM para estrutura simples e narrativa fluida
+- NUNCA 5+ persoagens/locatções em 1 roteiro
+- SIM para 1 coisa, bem feita, rápida
+- NUNCA jargon de "produtora"
+- SIM para linguagem natural de quem cuida
+
 ## Status de Sessão (2026-06-08 18:23 UTC)
 
 - **Pausa:** Jadielson precisa sair
 - **Pendente para próxima sessão:**
   1. Compartilhar link do Notion (para sincronizar grade de produçao)
-  2. Roteirizar semana 3 (15-19 junho) — 5 stories
-  3. Roteirizar semana 4 (22-26 junho) — 5 stories
-  4. Roteirizar semana 5 (29-30 junho) — 2 stories
+  2. Roteirizar semana 3 (15-19 junho) — 5 stories (NOVO PADRÃO: 4 stories simples cada)
+  3. Roteirizar semana 4 (22-26 junho) — 5 stories (NOVO PADRÃO)
+  4. Roteirizar semana 5 (29-30 junho) — 2 stories (NOVO PADRÃO)
   5. Confirmar personagens/atores disponíveis
   6. Agendar primeiras gravações (semana 2)
 - **Arquivo do banco de referências:** desconsiderar (padrão já conhecido)
+- **Roteiros anteriores (semana 2):** desconsiderar (padrão incorreto) — refazer com novo padrão
 
 ## Regra operacional — salvar e backup instantâneo
 
