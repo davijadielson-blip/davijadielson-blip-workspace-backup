@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T17:55:14.880Z",
+  "updatedAt": "2026-06-08T23:47:19.332Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -107,19 +107,21 @@
       "endLine": 139,
       "source": "memory",
       "snippet": "- Primeiro teste de sincronização criou `[F2] memory/outputs/testes-openclaw/2026-06-01-teste-sync-openclaw.md`, commit `78928d5`, confirmado como título visível. ## Saúde São Sebastião — estratégia junho e rotação diária - 2026-06-01: Criada a estratégia de produção de conteúdo de junho/2026 para Secretaria de Saúde em `[F2] memory/outputs/saude-sao-sebastiao/estrategias/2026-06-estrategia-conteudo-saude.md`. - Campanha guarda-chuva: “Junho de cuidado em movimento”. Promessa editorial: mostrar serviço real, orientar acesso e aproximar a população da rede municipal. - O calendário de junho foi complementado com sugestões de cenas por pauta e cuidados de captação. - Jadielson destacou que a",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.9092639684677124,
-      "maxScore": 0.49626788794994353,
+      "totalScore": 1.9092639684677124,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T17:26:53.524Z",
-      "lastRecalledAt": "2026-06-01T21:30:08.839Z",
+      "lastRecalledAt": "2026-06-08T23:47:19.332Z",
       "queryHashes": [
         "744581d6386c",
-        "40f68bcf5de9"
+        "40f68bcf5de9",
+        "d5d920782443"
       ],
       "recallDays": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-08"
       ],
       "conceptTags": [
         "junho/2026",
@@ -2701,6 +2703,37 @@
         "anual",
         "sistema",
         "produção"
+      ]
+    },
+    "memory:memory/2026-06-01.md:291:304": {
+      "key": "memory:memory/2026-06-01.md:291:304",
+      "path": "memory/2026-06-01.md",
+      "startLine": 291,
+      "endLine": 304,
+      "source": "memory",
+      "snippet": "- Primeiro teste de sincronização criou `[F2] memory/outputs/testes-openclaw/2026-06-01-teste-sync-openclaw.md`, commit `78928d5`, confirmado como título visível. ## Saúde São Sebastião — estratégia junho e rotação diária - 2026-06-01: Criada a estratégia de produção de conteúdo de junho/2026 para Secretaria de Saúde em `[F2] memory/outputs/saude-sao-sebastiao/estrategias/2026-06-estrategia-conteudo-saude.md`. - Campanha guarda-chuva: “Junho de cuidado em movimento”. Promessa editorial: mostrar serviço real, orientar acesso e aproximar a população da rede municipal. - O calendário de junho foi complementado com sugestões de cenas por pauta e cuidados de captação. - Jadielson destacou que a",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-08T23:47:19.332Z",
+      "lastRecalledAt": "2026-06-08T23:47:19.332Z",
+      "queryHashes": [
+        "d5d920782443"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "junho/2026",
+        "guarda-chuva",
+        "primeiro",
+        "teste",
+        "sincronização",
+        "criou",
+        "outputs",
+        "testes"
       ]
     }
   }

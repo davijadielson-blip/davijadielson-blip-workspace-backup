@@ -6,6 +6,102 @@
 - **Rodoviária local:** Terminal Rodoviário de São Sebastião, AL
 - **Timezone:** America/Maceio
 
+## 🏛️ ARQUITETURA DA EMPRESA — C-Level Squad + 3 Grupos
+
+### Estrutura Geral
+
+Vocês montaram um **sistema inteligente de especialização** com agentes IA por função e grupos temáticos sintetizados por um coordenador central.
+
+### C-Level Squad (Agentes Especializados)
+
+Cada agente tem uma função executiva clara:
+
+- **CMO** — Chief Marketing Officer (Marketing & Posicionamento)
+- **CRO** — Chief Revenue Officer (Vendas & Receita)
+- **CFO** — Chief Financial Officer (Finanças & Planejamento)
+- **CIO** — Chief Information Officer (Governança & Compliance)
+- **CTO** — Chief Technology Officer (Arquitetura Técnica)
+- **CAIO** — IA/Operações Técnicas
+- **COO** — Chief Operations Officer (Escalabilidade & Operações)
+
+### 3 Grupos Temáticos (Sintetizados)
+
+**CENTRAL PESSOAL (Alfred sintetiza)**
+- Saúde, finanças pessoais, autoconhecimento, família
+- Insights privados e contexto de vida
+
+**ESTUDOS (Albert sintetiza)**
+- VENDE-C (Vendas)
+- TURBOSAAS (SaaS escalável)
+- MESTRE DO CLAUDE (Modelagem IA)
+- TIMES SCHOOL (Liderança de times)
+- Conhecimento estruturado e metodologias
+
+**PROJETOS (Jack sintetiza)**
+- Documentário
+- Videoclipe
+- Filantropia
+- Grandes produções e impacto
+
+### OPEN_ASSISTENT (Lôh) — Função
+
+**Conector Central + Operacional:**
+- Conecta pontos entre CENTRAL PESSOAL, ESTUDOS e PROJETOS
+- Traz insights cruzados (o que você aprendeu em ESTUDOS serve em PROJETOS)
+- Coordena **Clara** (operacional — agenda, reagendamentos, bloqueios)
+- **Criação rápida** (1-2 minutos): legendas, headlines, roteiros, copy
+- Suporta C-Level Squad quando necessário
+
+### Clara (Secretária Operacional)
+
+- **Função:** Coordenação de agenda e operacional
+- **Responsável por:** Agenda diária (07:00 + 17:00), reagendamentos, bloqueios de horário
+- **Como opera:** Você pede → Eu coordeno Clara via grupo/canal da empresa
+- **Acessos críticos:** Google Calendar compartilhado, Notion da empresa
+
+### Fluxos Principais
+
+**Criação de Conteúdo & Estratégia:**
+1. Você pede legenda/copy/roteiro → Eu entrego contextualizado em 1-2 min
+2. Você quer análise estratégica → Disparo C-Level Squad (CMO/CRO/CFO/etc)
+3. Você quer decisão complexa → Squad inteiro debate
+
+**Aprendizado Cruzado:**
+- Insights de ESTUDOS → aplicam em PROJETOS
+- Finanças pessoais (CENTRAL) → sustentam PROJETOS
+- Estratégia (C-Level) → alimenta CENTRAL PESSOAL
+
+**Operacional:**
+- Você me avisa → Eu coordeno Clara → Clara executa
+- Exemplos: agendar reunião, bloquear horário, notificar compromissos
+
+### Status de Mapeamento (Atualizado 2026-06-08 23:54 UTC)
+
+✅ C-Level Squad — identificado
+✅ 3 Grupos (Alfred, Albert, Jack) — identificado
+✅ Clara (operacional) — identificado
+✅ OPEN_ASSISTENT (eu) — papel clarificado
+⏳ Detalhes de cada agente (nicknames, canais, preferências) — aguardando
+⏳ Nome oficial da agência — aguardando
+⏳ Outros clientes além Saúde — aguardando
+
+---
+
+## 📅 Agenda & Compromissos
+
+### Seminário de Mapeamento Territorial — ACS/ACE (2 de julho 2026)
+- **Data:** 2 de julho de 2026
+- **Horário:** 08h às 13h
+- **Local:** Auditório da SEMED, São Sebastião, AL
+- **Evento:** Seminário de Mapeamento Territorial — Encerramento da I Etapa da Integração ACS e ACE
+- **Organizador:** Secretaria Municipal de Saúde de São Sebastião
+- **Propósito:** Apresentação de resultados integrados ACS/ACE, troca de experiências, planejamento estratégico
+- **Lembrete recomendado:** 28 de junho (3 dias antes) + 2 de julho cedo (1h antes)
+- **Status de sincronização:** 
+  - ✅ MEMORY.md (registrado 2026-06-08 23:41)
+  - ⏳ Google Calendar (aguardando acesso)
+  - ⏳ Notion (aguardando link)
+
 ## 6 Pilares Estruturais — Secretaria de Saúde São Sebastião
 
 **Rotação Editorial Semanal (segunda a sexta):**
