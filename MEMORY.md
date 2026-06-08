@@ -25,6 +25,40 @@
 - **Temas:** saúde do homem (junho lilás/azul), saúde bucal, prevenção, campanhas
 - **Criado em:** 2026-06-08 17:58 UTC por Jadielson + Lôh
 
+## Produção — Roteiros + Personagens + Referências
+
+**Status:** ✅ 100% OPERACIONAL (2026-06-08 18:07 UTC)
+
+### Roteiros Semana 2 (08-12 Junho)
+- **Arquivo:** `producao/roteiros-semana-2-junho-2026.md`
+- **5 Stories:** Puericultura | Fluxo Referência | Plantao Feriado | Doaçao Sangue | Prestaçao Contas
+- **Duraçao Total:** ~230 segundos (~4min de bruto)
+- **Personagens:** 5-7 faces principais + figurantes
+- **Pronto para:** gravaçao imediata
+
+### Personagens Sugeridos
+- **Arquivo:** `producao/personagens-sugeridos.md`
+- **5 Pilares:** cada um com perfil psicolológico de quem fala
+- **Raciocínio:** Proximidade → Autoridade → Educaçao → Empatia → Profissionalismo
+- **Matriz:** ACS | Médico | Técnico de Vigilância | Psicólogo+Volun. | Gestor+Equipe
+
+### Banco de Referências Visual/Audio
+- **Arquivo:** `producao/banco-referencias-visual-audio.md`
+- **Paleta:** Azul Claro (#0099CC) + Verde Menta (#00CC88) + Branco
+- **Tipografia:** Montserrat (títulos) | Poppins/Open Sans (corpo)
+- **Audio:** voz calorosa + trilha 60-100 BPM + efeitos leves
+- **Formato:** 9:16 (1080x1920px) | 10-15seg ideal | H.264 MP4
+
+### Próximas Leva de Roteiros
+- Semana 3 (15-19 jun): 5 stories
+- Semana 4 (22-26 jun): 5 stories  
+- Semana 5 (29-30 jun): 2 stories
+- **Total:** 21 stories | 5 stories/lote | ~4 dias de trabalho
+
+### Notion
+- **Status:** aguardando link/acesso de Jadielson
+- **Se permitido:** criar grade de produçao sincronizada com roteiros
+
 ## Regra operacional — salvar e backup instantâneo
 
 - 2026-06-04: Jadielson definiu que, em trabalhos importantes de arquitetura, configuração, agentes, documentos e decisões operacionais, a Lôh deve **sempre cuidar de salvar em arquivo e fazer backup instantâneo** após alterações relevantes.
