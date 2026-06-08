@@ -59,6 +59,18 @@
 - **Status:** aguardando link/acesso de Jadielson
 - **Se permitido:** criar grade de produçao sincronizada com roteiros
 
+## Status de Sessão (2026-06-08 18:23 UTC)
+
+- **Pausa:** Jadielson precisa sair
+- **Pendente para próxima sessão:**
+  1. Compartilhar link do Notion (para sincronizar grade de produçao)
+  2. Roteirizar semana 3 (15-19 junho) — 5 stories
+  3. Roteirizar semana 4 (22-26 junho) — 5 stories
+  4. Roteirizar semana 5 (29-30 junho) — 2 stories
+  5. Confirmar personagens/atores disponíveis
+  6. Agendar primeiras gravações (semana 2)
+- **Arquivo do banco de referências:** desconsiderar (padrão já conhecido)
+
 ## Regra operacional — salvar e backup instantâneo
 
 - 2026-06-04: Jadielson definiu que, em trabalhos importantes de arquitetura, configuração, agentes, documentos e decisões operacionais, a Lôh deve **sempre cuidar de salvar em arquivo e fazer backup instantâneo** após alterações relevantes.
