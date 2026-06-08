@@ -1,0 +1,146 @@
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+LEGENDA:  🫀 você/humano   👤 contratar   🤝 freela   🤖 agente IA   🧬 híbrido (humano+IA)
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+                                    ┌─────────────────────────┐
+                                    │  🫀  JADIELSON (CEO)    │
+                                    │ visão · decisão · MVV   │
+                                    └────────────┬────────────┘
+                                                 │
+                                    ┌────────────┴────────────┐
+                                    │                         │
+                          ┌─────────┴──────────┐     ┌────────┴─────────┐
+                          │                    │     │                  │
+                    ┌─────┴─────┐      ┌──────┴──────┴───────┐    ┌────┴────┐
+                    │  CONSELHO  │      │      6 C-LEVELS     │    │   PARK  │
+                    │  DE IA     │      │                     │    │(CTO·CIO)│
+                    │(5 lentes)  │      │                     │    │estacionado
+                    └────────────┘      │                     │    └─────────┘
+                                        │                     │
+         ┌──────────────┬──────────────┼──────────────┬──────────────┬──────────────┐
+         │              │              │              │              │              │
+    ┌────┴────┐   ┌─────┴────┐   ┌────┴────┐   ┌────┴────┐   ┌────┴────┐   ┌─────┴────┐
+    │⚙️ COO   │   │📈 CRO    │   │📣 CMO   │   │🎬 CCO   │   │💰 CFO   │   │🤖 CAIO   │
+    │Operac.  │   │Receita   │   │Mkt      │   │Criação  │   │Finanç.  │   │IA/Auto.  │
+    └────┬────┘   └────┬────┘   └────┬────┘   └────┬────┘   └────┬────┘   └─────┬────┘
+         │             │             │             │             │             │
+         │             │             │             │             │             │
+    ┌────┴─────┐  ┌────┴───────────────────┐  ┌────┴────┐  ┌────┴─────┐  ┌────┴──────┐
+    │  🤖 PMO  │  │  🤖 MÁQUINA DE VENDAS  │  │ 🤖 Estrat. │ 🫀 Capt. │ 🧬 Arq.    │
+    │ prazos   │  │                        │  │ Strategy   │ Edição   │ de Ag.     │
+    └──────────┘  ├─ 🤖 Prospect          │  ├─ 🤖 Copy  │ Design   │ (cria os   │
+                  ├─ 🤖 SDR              │  ├─ 🤖 Cont. │ Tráfego  │ demais)    │
+                  ├─ 🤖 CRM              │  │ Lógika     │          │            │
+                  ├─ 🤖 Intel. Com.      │  ├─ 🤖 Perf. │ Closer   │ 🤖 AI Mat. │
+                  ├─ 🫀 CLOSER            │  │ Gestor     │ Pagtos   │ 🤖 Resp.AI │
+                  │                        │  │            │          │            │
+                  └─ PÓS/CS:             │  └────────────┘ └────────┘ 🤖 LLM Pat. │
+                    ├─ 🤖 SAC             │                            │            │
+                    ├─ 🤖 CS/Churn       │                            └────────────┘
+                    └─ 🧬 G. Contas      │
+                       (humano+IA)       │
+
+
+                                   🤖 LÔH — ORQUESTRADORA
+                              (Telegram · ponte principal)
+                          roteia · sintetiza · guarda ritos
+
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+                              🏠 CENTRAL PESSOAL (PARALELO — INTOCADO)
+
+                               Alfred (Coordenador)
+                                    │
+                    ┌───────────┬───┴────┬─────────┬──────────┬──────────┐
+                    │           │        │         │          │          │
+              🤖 ARCA      🤖 WARREN  🤖 IDENT.  🤖 LIBERD. 🤖 AUTO.  🤖 SAÚDE
+              Segundo      Finanças  Visão      Lazer      Conhec.   Corpo
+              Cérebro      Pessoal   Futuro     Criativo             Energia
+                                                                         │
+                                                                   🤖 FAMÍLIA
+                                                                  Relacionam.
+
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+ESTRUTURA OPERACIONAL DETALHADA:
+
+  COO (Operações & Scaling)          CRO (Receita & Vendas)       CMO (Marketing & Brand)
+  ├─ 🤖 OKRs                        ├─ 🤖 Prospect                ├─ 🤖 STP
+  ├─ 🤖 Processos                   ├─ 🤖 SDR (qualifica)        ├─ 🤖 Funil Demanda
+  ├─ 🤖 Org Design                  ├─ 🤖 CRM / Cadência         ├─ 🤖 GTM Playbook
+  ├─ 🤖 Scaling Readiness           ├─ 🤖 Intel. Comercial       ├─ 🤖 Brand Architecture
+  ├─ 🤖 Resource Allocation         ├─ 🫀 CLOSER (você)          ├─ 🤖 Estrategista
+  ├─ 🤖 Dashboards KPI             ├─ 🤖 SAC (24/7)             ├─ 🤖 Copy/Legendas
+  └─ 🤖 Relatórios Trends          ├─ 🤖 CS/Churn              ├─ 🤖 Calendário Content
+                                    └─ 🧬 Secretária (Drive/CRM) ├─ 🤖 Performance
+                                                                  └─ 🤖 Radar Tendências
+
+  CCO (Criação & Audiovisual)        CFO (Finanças & Caixa)        CAIO (IA & Automação)
+  ├─ 🫀 Direção / Conceito          ├─ 💼 Contador (humano)        ├─ 🤖 AI Maturity (L0→L3)
+  ├─ 🫀 Edição / Ritmo              ├─ 🤖 Fluxo de Caixa          ├─ 🤖 Responsible AI
+  ├─ 👤 Design (Ewander)            ├─ 🤖 Gestão de Custos        ├─ 🤖 LLM Integration
+  ├─ 🤖 Roteiro / Storyboard        ├─ 🤖 Margem por Serviço      ├─ 🧬 Arquiteto de Agentes
+  ├─ 🤖 Motion / Variações          ├─ 🤖 Auditoria Financeira    └─ 🤖 ROI de IA
+  ├─ 🤖 Templates Produção          └─ 🤖 Controller / Alertas
+  └─ 🤖 Gestão de Ativos Criativos
+
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+FLUXO: DEMANDA → DECISÃO → EXECUÇÃO
+
+  Demanda chega
+       │
+       ├─→ OPERACIONAL? ─→ LÔH roteia pro C-Level correto ─→ Agente trabalha
+       │
+       └─→ ESTRATÉGICA/COMPLEXA? ─→ LÔH convoca CONSELHO (5 lentes)
+                                        ├─ Estratégia (COO·CMO·CAIO)
+                                        ├─ Financeiro (CFO)
+                                        ├─ Marca (CMO)
+                                        ├─ Voz do Cliente (CRO)
+                                        └─ Jurídico (externo, aplica)
+                                             │
+                                          SINTETIZA
+                                             │
+                                    JADIELSON APROVA/REJEITA
+                                             │
+                                          EXECUTA
+
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+MATRIZ DE RESPONSÁVEIS:
+
+Decisão Tipo                      LÔH faz        C-Levels faz      Conselho?    Jadielson
+─────────────────────────────────────────────────────────────────────────────────────────
+OKR do trimestre?                roteia         COO propõe         Não          aprova
+Vale entrar em YouTube?          convoca        todos pesam        SIM          sim/não
+Qual estratégia tráfego?         roteia         CMO+CRO            Não          aprova
+Vale contratar editor sênior?    convoca        COO+CFO+CRO        SIM          sim/não
+Por que margem caiu?             diagnostica    CFO invoca         Não          vê análise
+Qual tom de marca?               roteia         CMO+CCO            Não          aprova
+Quando lançar L2-Produção?       convoca        COO+CMO+CAIO       SIM          timeline
+SAC está dando conta?            roteia         CRO (CS)           Não          status
+
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+MAPA DE DEPENDÊNCIAS:
+
+  COO recebe estratégia do CMO → desenha processo
+  CMO recebe insight de CRO (cliente) → posiciona
+  CRO recebe leads do CMO → qualifica e vende
+  CFO monitora todos → custos por C-level + alerta para desvios
+  CCO recebe direção do CMO → executa conceitual + trabalha com Ewander
+  CAIO treina todos → cria/projeta seus agentes operacionais + escalabilidade
+
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+2026-06-06 · Estrutura Completa Lógika Creative · Pronta para Aprovação Final
