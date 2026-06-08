@@ -1,5 +1,30 @@
 # MEMORY.md
 
+## Dados do Jadielson
+
+- **Localização:** São Sebastião, Alagoas (não Maceió)
+- **Rodoviária local:** Terminal Rodoviário de São Sebastião, AL
+- **Timezone:** America/Maceio
+
+## 6 Pilares Estruturais — Secretaria de Saúde São Sebastião
+
+**Rotação Editorial Semanal (segunda a sexta):**
+1. **Segunda:** Atenção Básica/Território — PSF, ESF, atendimento de base
+2. **Terça:** Serviços Especializados — consultas especializadas, referências
+3. **Quarta:** Vigilância/Prevenção — campanhas, monitoramento, prevenção
+4. **Quinta:** Rede de Apoio/Humanização — CAPS, grupos, suporte psicossocial
+5. **Sexta:** Bastidores + Prestação de Contas — reportagem institucional, resultados
+6. **+Flexível:** SAMU/Unidade Mista/Referências — emergência, fluxo urgente
+
+**Regra:** essa sequência é a base do calendário editorial. Datas temáticas de saúde podem reforçar ou complementar, mas a rotação é mantida.
+
+**Calendário Editorial Junho 2026:**
+- **Arquivo:** `calendarios/calendario-editorial-saude-junho-2026.md`
+- **Status:** ✅ Completo com 21 stories
+- **Cobertura:** seg-sex rotativo + feriado 10/jun (Corpus Christi) adaptado
+- **Temas:** saúde do homem (junho lilás/azul), saúde bucal, prevenção, campanhas
+- **Criado em:** 2026-06-08 17:58 UTC por Jadielson + Lôh
+
 ## Regra operacional — salvar e backup instantâneo
 
 - 2026-06-04: Jadielson definiu que, em trabalhos importantes de arquitetura, configuração, agentes, documentos e decisões operacionais, a Lôh deve **sempre cuidar de salvar em arquivo e fazer backup instantâneo** após alterações relevantes.

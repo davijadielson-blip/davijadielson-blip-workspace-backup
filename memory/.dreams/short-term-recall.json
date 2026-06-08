@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T19:36:18.546Z",
+  "updatedAt": "2026-06-08T17:55:14.880Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -40,18 +40,20 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "- Skill `copy-pode` e referência `references/metodo-pode.md` foram alinhadas com essa versão. ## Saúde São Sebastião — calendário editorial anual 2026 - 2026-06-01: Jadielson pediu um estudo aprofundado e calendário editorial anual 2026 para a Secretaria de Saúde, considerando feriados, pontos facultativos, campanhas de saúde, referências nacionais/globais e benchmark do perfil `@saude.saosebastiao.al`. - Foram pesquisados feriados nacionais/pontos facultativos federais, feriados estaduais de Alagoas, possíveis feriados municipais a validar, calendário oficial da saúde do Ministério da Saúde, perfis de referência nacionais/globais e contexto interno do vault. - Documento consolidado salvo",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4952096194028854,
-      "maxScore": 0.4952096194028854,
+      "totalScore": 1.4952096194028854,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T17:26:53.524Z",
-      "lastRecalledAt": "2026-06-01T17:26:53.524Z",
+      "lastRecalledAt": "2026-06-08T17:51:37.412Z",
       "queryHashes": [
-        "744581d6386c"
+        "744581d6386c",
+        "8507f75a2494"
       ],
       "recallDays": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-08"
       ],
       "conceptTags": [
         "copy-pode",
@@ -71,18 +73,21 @@
       "endLine": 104,
       "source": "memory",
       "snippet": "- 2026-06-01 15:44 UTC: Após novo pull do vault, a nota autoral P.O.D.E em F1 foi atualizada corretamente. - Conteúdo-base: P.O.D.E é metodologia para transformar rede social em posicionamento + demanda + conversão. - Pilares atualizados: Presença = Lógika da Marca; Originalidade = Lógika do Valor; Desejo = Lógika da Rua; Engajamento = Lógika da Conversão. - Fluxo semanal ideal: Posicionamento → Valor → Conexão → Conversão. - Skill `copy-pode` e referência `references/metodo-pode.md` foram alinhadas com essa versão. ## Saúde São Sebastião — calendário editorial anual 2026 - 2026-06-01: Jadielson pediu um estudo aprofundado e calendário editorial anual 2026 para a Secretaria de Saúde, consi",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.44456015825271605,
-      "maxScore": 0.44456015825271605,
+      "totalScore": 2.444560158252716,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T17:26:53.524Z",
-      "lastRecalledAt": "2026-06-01T17:26:53.524Z",
+      "lastRecalledAt": "2026-06-08T17:55:06.800Z",
       "queryHashes": [
-        "744581d6386c"
+        "744581d6386c",
+        "8507f75a2494",
+        "80409f801371"
       ],
       "recallDays": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-08"
       ],
       "conceptTags": [
         "p.o.d.e",
@@ -134,20 +139,22 @@
       "endLine": 147,
       "source": "memory",
       "snippet": "- Rotação diária: segunda Atenção Básica/Território; terça Serviços Especializados; quarta Vigilância/Prevenção; quinta Rede de Apoio/Humanização; sexta Bastidores + Prestação de Contas. SAMU/Unidade Mista/referências entram como pauta flexível de fluxo/orientação. ## Saúde São Sebastião — benchmark e críticas estratégicas - 2026-06-01: Benchmark apontou que o perfil `@saude.saosebastiao.al` já possui bons temas (vacinação, especialistas, mutirões, CAPS, acesso a serviços e prestação de contas), mas precisa organizar séries editoriais, melhorar clareza visual, tornar posts mais úteis/salváveis e reduzir dependência de legendas institucionais longas. - Perfis de referência incorporados: Min",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7855497300624847,
-      "maxScore": 0.4025053530931473,
+      "totalScore": 1.7855497300624847,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T17:26:53.524Z",
-      "lastRecalledAt": "2026-06-04T23:01:47.991Z",
+      "lastRecalledAt": "2026-06-08T17:51:37.412Z",
       "queryHashes": [
         "744581d6386c",
-        "a948cf5ab757"
+        "a948cf5ab757",
+        "8507f75a2494"
       ],
       "recallDays": [
         "2026-06-01",
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-08"
       ],
       "conceptTags": [
         "básica/território",
@@ -198,18 +205,20 @@
       "endLine": 68,
       "source": "memory",
       "snippet": "- 2026-06-01: Jadielson pediu transformar o calendário anual em sistema de produção recorrente. - Criado em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/`. - Arquivo principal: `00-sistema-producao-recorrente-saude.md`. - Templates criados: calendário operacional mensal, pauta diária, revisão de performance mensal. - Criado mês operacional inicial: `meses/2026-06-operacional-saude.md`. - Princípio: rotina semanal por grupos da rede + pipeline de produção + status de execução + revisão mensal de performance P.O.D.E. ## Vault Segundo Cérebro — princípios operacionais adotados - 2026-06-01: Jadielson conectou o repositório GitHub `davijadielson-blip/segundo-cerebro-jadielson` com",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.5196920722723007,
-      "maxScore": 0.5196920722723007,
+      "totalScore": 1.5196920722723006,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T21:30:08.839Z",
-      "lastRecalledAt": "2026-06-01T21:30:08.839Z",
+      "lastRecalledAt": "2026-06-08T17:55:14.880Z",
       "queryHashes": [
-        "40f68bcf5de9"
+        "40f68bcf5de9",
+        "94221213c069"
       ],
       "recallDays": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-08"
       ],
       "conceptTags": [
         "p.o.d.e",
@@ -327,20 +336,22 @@
       "endLine": 19,
       "source": "memory",
       "snippet": "## Vault Segundo Cérebro — princípios operacionais adotados - 2026-06-01: Jadielson conectou o repositório GitHub `davijadielson-blip/segundo-cerebro-jadielson` como cópia local em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson`. - Princípio permanente do vault, confirmado no `CLAUDE.md` seção 4: seguir os 3 Fluxos + 4 Camadas. - Fluxo 1 / “Seu Cérebro” (`[F1] ...`): só Jadielson escreve; Lôh/IA apenas lê, salvo pedido explícito. - Fluxo 2 / “Cérebro da IA” (`[F2] memory/`): IA pode criar, editar e organizar com autonomia. - Fluxo 3 / Integração: acontece por evento de “Colheita”; IA lê F1 e sugere, Jadielson lê F2 e transforma em nota autoral no F1. - Regra prática: sem Colhe",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.8780511379241942,
-      "maxScore": 0.507957699894905,
+      "totalScore": 1.8780511379241942,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T21:30:08.839Z",
-      "lastRecalledAt": "2026-06-05T16:27:30.911Z",
+      "lastRecalledAt": "2026-06-08T17:55:14.880Z",
       "queryHashes": [
         "40f68bcf5de9",
-        "b3039f93f9dc"
+        "b3039f93f9dc",
+        "94221213c069"
       ],
       "recallDays": [
         "2026-06-01",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-08"
       ],
       "conceptTags": [
         "claude.md",
@@ -720,18 +731,20 @@
       "endLine": 312,
       "source": "memory",
       "snippet": "- Rotação diária: segunda Atenção Básica/Território; terça Serviços Especializados; quarta Vigilância/Prevenção; quinta Rede de Apoio/Humanização; sexta Bastidores + Prestação de Contas. SAMU/Unidade Mista/referências entram como pauta flexível de fluxo/orientação. ## Saúde São Sebastião — benchmark e críticas estratégicas - 2026-06-01: Benchmark apontou que o perfil `@saude.saosebastiao.al` já possui bons temas (vacinação, especialistas, mutirões, CAPS, acesso a serviços e prestação de contas), mas precisa organizar séries editoriais, melhorar clareza visual, tornar posts mais úteis/salváveis e reduzir dependência de legendas institucionais longas. - Perfis de referência incorporados: Min",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.38304437696933746,
-      "maxScore": 0.38304437696933746,
+      "totalScore": 1.3830443769693375,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-04T23:01:47.991Z",
-      "lastRecalledAt": "2026-06-04T23:01:47.991Z",
+      "lastRecalledAt": "2026-06-08T17:51:37.412Z",
       "queryHashes": [
-        "a948cf5ab757"
+        "a948cf5ab757",
+        "8507f75a2494"
       ],
       "recallDays": [
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-08"
       ],
       "conceptTags": [
         "básica/território",
@@ -877,18 +890,23 @@
       "endLine": 75,
       "source": "memory",
       "snippet": "- Aproveitar antes de deletar/arquivar: LÓGIKA CREATIVE, Leads, CRM, Clientes, Equipe, Checklist de Edição de Vídeos, Ativos de marca, Plataformas, PREÇOS E TABELAS, PADRÃO LÓGIKA - Calendário Editorial, Agenda de Eventos, Calendário de conteúdo, PRINCIPAL e Planner. - Histórico/revisar antes de apagar: Calendário Editorial antigo, Agenda de Eventos - Secretaria Municipal de Saúde, Ideias antiga. - Pode arquivar/deletar com baixo risco aparente após conferência visual: grupos repetidos/frio como Método CIPA, sem título, Caixa de Rascunho de Ideias, Post, Acompanhamento, Tipos de Posts, Assistente IA template, Client Dashboard, Persona, Ideias de conteúdos, Calendário 2024. ## Notion LÓGIKA",
-      "recallCount": 1,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4215278387069702,
-      "maxScore": 0.4215278387069702,
+      "totalScore": 4.42152783870697,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-05T00:49:25.494Z",
-      "lastRecalledAt": "2026-06-05T00:49:25.494Z",
+      "lastRecalledAt": "2026-06-08T17:55:10.177Z",
       "queryHashes": [
-        "14d53ebba249"
+        "14d53ebba249",
+        "690ca6ffb8e6",
+        "a619f1ba490b",
+        "b76764ea8dc8",
+        "784026efcff2"
       ],
       "recallDays": [
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-08"
       ],
       "conceptTags": [
         "deletar/arquivar",
@@ -1067,19 +1085,21 @@
       "endLine": 158,
       "source": "memory",
       "snippet": "- 2026-06-05 UTC: Jadielson avisou no tópico Alfred que chamou a Lôh no tópico `My Finance` e orientou que o debate/definição do agente aconteça pelo Alfred, enquanto o tópico próprio deve ficar configurado. - Contexto Telegram confirmado pelos logs: grupo `Central Pessoal` (`chat_id: -1003740871403`), tópico `My Finance` (`topic_id/thread_id: 12`). - My Finance registrado como agente especialista de finanças pessoais da Central Pessoal, supervisionado por Alfred e integrado à Lôh. - Arquivos atualizados/criados: - `agentes/ARQUITETURA-AGENTES.md` - `agentes/central-pessoal/my-finance.md` - `memory/projects/arquitetura-agentes-central-pessoal/PLAN.md` - Regra inicial: My Finance separa",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7406728476285933,
-      "maxScore": 0.38037678003311154,
+      "totalScore": 1.7406728476285933,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-05T06:50:24.834Z",
-      "lastRecalledAt": "2026-06-05T08:31:28.076Z",
+      "lastRecalledAt": "2026-06-08T17:55:10.177Z",
       "queryHashes": [
         "c94a0a951e7f",
-        "039f638e67fe"
+        "039f638e67fe",
+        "5ccae2afa589"
       ],
       "recallDays": [
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-08"
       ],
       "conceptTags": [
         "debate/definição",
@@ -2405,18 +2425,20 @@
       "endLine": 207,
       "source": "memory",
       "snippet": "- A nota autoral indicada em `[F1] 5-Frentes/Logika-Creative/Estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md` existe, mas estava vazia no clone local no momento da inspeção. - Criada a skill local `copy-pode` em `skills/planejamento/copy-pode/`, com referência operacional em `references/metodo-pode.md`. - Atualizado o vault em `[F2] memory/context/regra-editorial-openclaw.md` para apontar `copy-pode` como regra editorial padrão. ## Copy P.O.D.E — fonte autoral atualizada - 2026-06-01 15:44 UTC: Após novo pull do vault, a nota autoral P.O.D.E em F1 foi atualizada corretamente. - Conteúdo-base: P.O.D.E é metodologia para transformar r",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-06-07T19:36:18.546Z",
-      "lastRecalledAt": "2026-06-07T19:36:18.546Z",
+      "lastRecalledAt": "2026-06-08T17:55:06.800Z",
       "queryHashes": [
-        "5a96760569f3"
+        "5a96760569f3",
+        "80409f801371"
       ],
       "recallDays": [
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-08"
       ],
       "conceptTags": [
         "conteudo/estratégia",
@@ -2458,6 +2480,227 @@
         "headlines/manchetes",
         "memory/outputs",
         "saude-sao-sebastiao"
+      ]
+    },
+    "memory:memory/2026-06-05.md:167:183": {
+      "key": "memory:memory/2026-06-05.md:167:183",
+      "path": "memory/2026-06-05.md",
+      "startLine": 167,
+      "endLine": 183,
+      "source": "memory",
+      "snippet": "- 2026-06-05 UTC / tópico Segundo Cérebro (`topic_id: 13`): Jadielson respondeu às perguntas complementares da Arca sobre a triagem do Inbox. - Entendimento atualizado: 1. Quiel, Kauã e Lídio são clientes diferentes. Todos querem gravar videoclipe. Jadielson ficou de passar orçamento há bastante tempo, desde o início do ano. 2. Beto Saara: demanda paga. A esposa dele é cantora; ainda precisa definir o que será feito e quanto cobrar. 3. Plano de Serviços: pertence ao comercial da LÓGIKA. Deve abrigar a grade e as esteiras de produtos/serviços. 4. VENDE-C: revisar e aplicar o curso nos clientes que Jadielson deve prospectar/apresentar, buscando maior conversão em vendas. 5. ASCOM/Sec",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-08T17:26:20.188Z",
+      "lastRecalledAt": "2026-06-08T17:55:10.177Z",
+      "queryHashes": [
+        "690ca6ffb8e6",
+        "a619f1ba490b",
+        "b76764ea8dc8",
+        "784026efcff2"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "topic-id",
+        "produtos/serviços",
+        "vende-c",
+        "prospectar/apresentar",
+        "ascom/sec",
+        "utc",
+        "tópico",
+        "segundo"
+      ]
+    },
+    "memory:memory/2026-06-01.md:203:219": {
+      "key": "memory:memory/2026-06-01.md:203:219",
+      "path": "memory/2026-06-01.md",
+      "startLine": 203,
+      "endLine": 219,
+      "source": "memory",
+      "snippet": "- Skill `copy-pode` e referência `references/metodo-pode.md` foram alinhadas com essa versão. ## Saúde São Sebastião — calendário editorial anual 2026 - 2026-06-01: Jadielson pediu um estudo aprofundado e calendário editorial anual 2026 para a Secretaria de Saúde, considerando feriados, pontos facultativos, campanhas de saúde, referências nacionais/globais e benchmark do perfil `@saude.saosebastiao.al`. - Foram pesquisados feriados nacionais/pontos facultativos federais, feriados estaduais de Alagoas, possíveis feriados municipais a validar, calendário oficial da saúde do Ministério da Saúde, perfis de referência nacionais/globais e contexto interno do vault. - Documento consolidado salvo",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-08T17:51:37.412Z",
+      "lastRecalledAt": "2026-06-08T17:51:37.412Z",
+      "queryHashes": [
+        "8507f75a2494"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "copy-pode",
+        "references/metodo-pode.md",
+        "nacionais/globais",
+        "saude.saosebastiao.al",
+        "nacionais/pontos",
+        "skill",
+        "copy",
+        "pode"
+      ]
+    },
+    "memory:memory/2026-06-01.md:254:269": {
+      "key": "memory:memory/2026-06-01.md:254:269",
+      "path": "memory/2026-06-01.md",
+      "startLine": 254,
+      "endLine": 269,
+      "source": "memory",
+      "snippet": "- 2026-06-01 15:44 UTC: Após novo pull do vault, a nota autoral P.O.D.E em F1 foi atualizada corretamente. - Conteúdo-base: P.O.D.E é metodologia para transformar rede social em posicionamento + demanda + conversão. - Pilares atualizados: Presença = Lógika da Marca; Originalidade = Lógika do Valor; Desejo = Lógika da Rua; Engajamento = Lógika da Conversão. - Fluxo semanal ideal: Posicionamento → Valor → Conexão → Conversão. - Skill `copy-pode` e referência `references/metodo-pode.md` foram alinhadas com essa versão. ## Saúde São Sebastião — calendário editorial anual 2026 - 2026-06-01: Jadielson pediu um estudo aprofundado e calendário editorial anual 2026 para a Secretaria de Saúde, consi",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-08T17:51:37.412Z",
+      "lastRecalledAt": "2026-06-08T17:55:06.800Z",
+      "queryHashes": [
+        "8507f75a2494",
+        "80409f801371"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "p.o.d.e",
+        "conteúdo-base",
+        "copy-pode",
+        "references/metodo-pode.md",
+        "utc",
+        "após",
+        "novo",
+        "pull"
+      ]
+    },
+    "memory:memory/2026-06-04.md:120:136": {
+      "key": "memory:memory/2026-06-04.md:120:136",
+      "path": "memory/2026-06-04.md",
+      "startLine": 120,
+      "endLine": 136,
+      "source": "memory",
+      "snippet": "- Materiais novos de referência do zip v2.5.7 que não estavam no archive antigo incluem `_curso/`, `BUILD.md`, `MENSAGENS-TESTERS-*` e cheatsheets legadas; não são necessários para funcionamento ativo, mas o zip foi preservado em `archive/starter-kit-zips/starter-kit-openclaw-v2.5.7-2026-06-04.zip`. - Relatório salvo em `reports/reanalise-starter-kit-v2.5.7-2026-06-04.md`. ## Arquitetura — Secretária Agenda e Execução - 2026-06-04: Jadielson corrigiu a interpretação sobre a “Secretária — Agenda e Execução”. - A Secretária não é apenas responsável por alimentar o Notion/Inbox às 07h. - Função correta: gestão ampla do que Jadielson terá naquele dia ou nos próximos dias, considerando múltipla",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-08T17:55:10.177Z",
+      "lastRecalledAt": "2026-06-08T17:55:10.177Z",
+      "queryHashes": [
+        "784026efcff2"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "v2.5.7",
+        "build.md",
+        "mensagens-testers",
+        "notion/inbox",
+        "materiais",
+        "novos",
+        "referência",
+        "zip"
+      ]
+    },
+    "memory:memory/2026-06-05.md:129:145": {
+      "key": "memory:memory/2026-06-05.md:129:145",
+      "path": "memory/2026-06-05.md",
+      "startLine": 129,
+      "endLine": 145,
+      "source": "memory",
+      "snippet": "- Recomendação da Arca: Rodada 1 para pendências externas urgentes; Rodada 2 para itens estruturais/sistemas; Rodada 3 para arquivamento seguro de testes/itens ambíguos. - Cópia espelhada versionável para backup Git: `memory/outputs/arca/2026-06-05-arca-matriz-completa-triagem-inbox.md`. ## Arca — lista prática de execução do Inbox F0 - 2026-06-05 UTC: após Jadielson autorizar (“Pode fazer”), a Arca transformou a matriz completa de triagem do Inbox em uma lista prática de execução. - Arquivo salvo no vault/F2: `vaults/segundo-cerebro-jadielson/[F2] memory/outputs/2026-06-05-arca-lista-execucao-pratica-inbox.md`. - Cópia versionável para backup Git: `memory/outputs/arca/2026-06-05-arca-list",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-08T17:55:10.177Z",
+      "lastRecalledAt": "2026-06-08T17:55:10.177Z",
+      "queryHashes": [
+        "5ccae2afa589"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "backup",
+        "estruturais/sistemas",
+        "testes/itens",
+        "vault/f2",
+        "vaults/segundo-cerebro-jadielson",
+        "recomendação",
+        "arca",
+        "rodada"
+      ]
+    },
+    "memory:memory/2026-06-05.md:114:133": {
+      "key": "memory:memory/2026-06-05.md:114:133",
+      "path": "memory/2026-06-05.md",
+      "startLine": 114,
+      "endLine": 133,
+      "source": "memory",
+      "snippet": "## Central Pessoal — Arca / Segundo Cérebro - 2026-06-05 UTC: Jadielson confirmou no tópico `Segundo Cérebro` da Central Pessoal que, durante o treinamento via Alfred, o especialista desse tópico foi combinado com o nome **Arca**. - Contexto Telegram: grupo `Central Pessoal` (`chat_id: -1003740871403`), tópico `Segundo Cérebro` (`topic_id/thread_id: 13`). - A Lôh registrou Arca como agente especialista do Segundo Cérebro, supervisionada por Alfred e integrada à Lôh. - Arquivos atualizados: - `agentes/ARQUITETURA-AGENTES.md` - `memory/projects/arquitetura-agentes-central-pessoal/PLAN.md` ## Arca — matriz completa de triagem do Inbox F0 - 2026-06-05 UTC: Jadielson pediu à Arca, no tópic",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-08T17:55:14.880Z",
+      "lastRecalledAt": "2026-06-08T17:55:14.880Z",
+      "queryHashes": [
+        "94221213c069"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "chat-id",
+        "topic-id/thread-id",
+        "agentes/arquitetura-agentes.md",
+        "central",
+        "pessoal",
+        "arca",
+        "segundo",
+        "cérebro"
+      ]
+    },
+    "memory:memory/2026-06-01.md:215:233": {
+      "key": "memory:memory/2026-06-01.md:215:233",
+      "path": "memory/2026-06-01.md",
+      "startLine": 215,
+      "endLine": 233,
+      "source": "memory",
+      "snippet": "- 2026-06-01: Jadielson pediu transformar o calendário anual em sistema de produção recorrente. - Criado em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/`. - Arquivo principal: `00-sistema-producao-recorrente-saude.md`. - Templates criados: calendário operacional mensal, pauta diária, revisão de performance mensal. - Criado mês operacional inicial: `meses/2026-06-operacional-saude.md`. - Princípio: rotina semanal por grupos da rede + pipeline de produção + status de execução + revisão mensal de performance P.O.D.E. ## Vault Segundo Cérebro — princípios operacionais adotados - 2026-06-01: Jadielson conectou o repositório GitHub `davijadielson-blip/segundo-cerebro-jadielson` com",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-08T17:55:14.880Z",
+      "lastRecalledAt": "2026-06-08T17:55:14.880Z",
+      "queryHashes": [
+        "94221213c069"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "p.o.d.e",
+        "jadielson",
+        "pediu",
+        "transformar",
+        "calendário",
+        "anual",
+        "sistema",
+        "produção"
       ]
     }
   }
