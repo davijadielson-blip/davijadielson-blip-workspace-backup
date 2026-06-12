@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T23:47:19.332Z",
+  "updatedAt": "2026-06-09T03:14:59.925Z",
   "entries": {
     "memory:memory/2026-06-01.md:1:10": {
       "key": "memory:memory/2026-06-01.md:1:10",
@@ -107,21 +107,23 @@
       "endLine": 139,
       "source": "memory",
       "snippet": "- Primeiro teste de sincronização criou `[F2] memory/outputs/testes-openclaw/2026-06-01-teste-sync-openclaw.md`, commit `78928d5`, confirmado como título visível. ## Saúde São Sebastião — estratégia junho e rotação diária - 2026-06-01: Criada a estratégia de produção de conteúdo de junho/2026 para Secretaria de Saúde em `[F2] memory/outputs/saude-sao-sebastiao/estrategias/2026-06-estrategia-conteudo-saude.md`. - Campanha guarda-chuva: “Junho de cuidado em movimento”. Promessa editorial: mostrar serviço real, orientar acesso e aproximar a população da rede municipal. - O calendário de junho foi complementado com sugestões de cenas por pauta e cuidados de captação. - Jadielson destacou que a",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.9092639684677124,
+      "totalScore": 2.9092639684677124,
       "maxScore": 1,
       "firstRecalledAt": "2026-06-01T17:26:53.524Z",
-      "lastRecalledAt": "2026-06-08T23:47:19.332Z",
+      "lastRecalledAt": "2026-06-09T03:14:59.925Z",
       "queryHashes": [
         "744581d6386c",
         "40f68bcf5de9",
-        "d5d920782443"
+        "d5d920782443",
+        "82d02453958b"
       ],
       "recallDays": [
         "2026-06-01",
-        "2026-06-08"
+        "2026-06-08",
+        "2026-06-09"
       ],
       "conceptTags": [
         "junho/2026",
@@ -273,21 +275,23 @@
       "endLine": 130,
       "source": "memory",
       "snippet": "- Jadielson rotacionou o token via BotFather e enviou o novo token; configuração em `/data/.openclaw/openclaw.json`, campo `channels.telegram.botToken`, foi atualizada sem expor o token. - Foi necessário reinício real do Gateway/processo para limpar estado com token antigo; depois Telegram ficou `running + connected` e teste por Telegram chegou com sucesso. - Backup sensível criado durante a troca (`/data/.openclaw/openclaw.json.bak-telegram-token-20260601-1338`) foi removido com autorização do Jadielson e verificado como inexistente. ## GitHub/vault — escrita e sincronização - 2026-06-01: Cópia local do vault clonada em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson` a partir",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.6055120508578082,
-      "maxScore": 0.5790891508963367,
+      "totalScore": 2.6055120508578082,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T21:30:08.839Z",
-      "lastRecalledAt": "2026-06-06T19:41:34.382Z",
+      "lastRecalledAt": "2026-06-09T03:14:59.925Z",
       "queryHashes": [
         "40f68bcf5de9",
         "1fd5c0627c32",
-        "98df3b9f1b4f"
+        "98df3b9f1b4f",
+        "82d02453958b"
       ],
       "recallDays": [
         "2026-06-01",
-        "2026-06-06"
+        "2026-06-06",
+        "2026-06-09"
       ],
       "conceptTags": [
         "backup",
@@ -373,22 +377,24 @@
       "endLine": 295,
       "source": "memory",
       "snippet": "- Jadielson rotacionou o token via BotFather e enviou o novo token; configuração em `/data/.openclaw/openclaw.json`, campo `channels.telegram.botToken`, foi atualizada sem expor o token. - Foi necessário reinício real do Gateway/processo para limpar estado com token antigo; depois Telegram ficou `running + connected` e teste por Telegram chegou com sucesso. - Backup sensível criado durante a troca (`/data/.openclaw/openclaw.json.bak-telegram-token-20260601-1338`) foi removido com autorização do Jadielson e verificado como inexistente. ## GitHub/vault — escrita e sincronização - 2026-06-01: Cópia local do vault clonada em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson` a partir",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5994261305239459,
-      "maxScore": 0.5790891508963367,
+      "totalScore": 2.5994261305239457,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T21:41:16.256Z",
-      "lastRecalledAt": "2026-06-06T19:41:34.382Z",
+      "lastRecalledAt": "2026-06-09T03:14:59.925Z",
       "queryHashes": [
         "1fd5c0627c32",
         "95720b1d919a",
-        "98df3b9f1b4f"
+        "98df3b9f1b4f",
+        "82d02453958b"
       ],
       "recallDays": [
         "2026-06-01",
         "2026-06-02",
-        "2026-06-06"
+        "2026-06-06",
+        "2026-06-09"
       ],
       "conceptTags": [
         "backup",
@@ -442,18 +448,20 @@
       "endLine": 336,
       "source": "memory",
       "snippet": "- Arquivo salvo em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/semanas/2026-06-semana-01-operacional.md`. - Conteúdo inclui pauta diária, função editorial P.O.D.E, cenas, sequência de stories, headline, legenda, CTA, validações e checklist de captação. - Commit GitHub: `8e9961d` — `conteudo: semana 1 operacional saude junho`. ## Saúde São Sebastião — ajuste na grade-matriz - 2026-06-01: Jadielson aprovou a grade-matriz como o “raio-x” necessário para mesclar grupos, setores e serviços. - Acrescentadas as especialidades `urologia` e `ortopedia` ao Espaço Cuidar / Centro de Especialidades na grade-matriz. - Arquivo atualizado: `[F2] memory/outputs/saude-sao-sebastiao/sistema-pr",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.5085004568099976,
-      "maxScore": 0.5085004568099976,
+      "totalScore": 1.5085004568099976,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-01T22:00:20.120Z",
-      "lastRecalledAt": "2026-06-01T22:00:20.120Z",
+      "lastRecalledAt": "2026-06-09T03:14:59.925Z",
       "queryHashes": [
-        "53c3e16903df"
+        "53c3e16903df",
+        "82d02453958b"
       ],
       "recallDays": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-09"
       ],
       "conceptTags": [
         "p.o.d.e",
@@ -635,20 +643,22 @@
       "endLine": 115,
       "source": "memory",
       "snippet": "- Database antiga `📥 Captura Geral` arquivada via API, URL: https://app.notion.com/p/242f2506a972451d80209bd593bdb006 - Campos da nova Inbox: Título, Tipo de entrada, Frente/Cliente, Status de triagem, Destino, Data, Origem, Prioridade, Resumo/Observações, Link/Arquivo, Link do destino, Responsável, Criado em, Última edição. - Central LÓGIKA atualizada com decisão v0.5: nova Inbox oficial, antiga arquivada e rotina Jarvis. - Cron criado: `jarvis-revisao-inbox-logika-seg-sab`, id `e900c3d9-6ce4-4921-94bc-d096a7a2a94c`, agenda `0 8 * * 1-6` em `America/Maceio`, entrega por Telegram para Jadielson. - Regra: Jarvis revisa de segunda a sábado; se o item estiver claro, destina/sugere destino; se",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.9128913462162017,
-      "maxScore": 0.46160871684551236,
+      "totalScore": 1.9128913462162016,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-04T22:19:11.620Z",
-      "lastRecalledAt": "2026-06-05T20:00:09.165Z",
+      "lastRecalledAt": "2026-06-09T00:26:52.128Z",
       "queryHashes": [
         "b7c30d0d070e",
-        "b55d3d591abc"
+        "b55d3d591abc",
+        "9145c97f5c7c"
       ],
       "recallDays": [
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-09"
       ],
       "conceptTags": [
         "frente/cliente",
@@ -1056,18 +1066,20 @@
       "endLine": 198,
       "source": "memory",
       "snippet": "- ASCOM/Secretaria → Cliente Secretaria de Saúde / Conteúdo ou atendimento institucional. - Regra mantida: por enquanto guardar e classificar; não criar/migrar/mover arquivos sem nova autorização de Jadielson. ## Central Pessoal — Warren / Finanças pessoais - 2026-06-05 UTC: Jadielson informou no tópico Alfred que quer chamar o agente de finanças pessoais de **Warren**. - Diagnóstico: o roteamento do tópico `My Finance` (`topic_id: 12`) para `agent_id: my-finance` estava ativo e havia sessão respondendo, mas o nome ainda estava como My Finance e Jadielson reportou que não estava vendo resposta. - Ação: config validada e ajustada para `agents.list[].id = my-finance`, `name = Warren`, `sys",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3868409425020218,
-      "maxScore": 0.3868409425020218,
+      "totalScore": 1.3868409425020218,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-05T06:50:24.834Z",
-      "lastRecalledAt": "2026-06-05T06:50:24.834Z",
+      "lastRecalledAt": "2026-06-09T00:26:52.128Z",
       "queryHashes": [
-        "c94a0a951e7f"
+        "c94a0a951e7f",
+        "9145c97f5c7c"
       ],
       "recallDays": [
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-09"
       ],
       "conceptTags": [
         "ascom/secretaria",
@@ -2396,18 +2408,20 @@
       "endLine": 409,
       "source": "memory",
       "snippet": "- Observação pendente: a liberação mais forte já estava aplicada no prompt/config para Google Workspace/Drive. Notion/GitHub/Vault estavam documentados no workspace Jarvis (`AUTORIZACOES.md`) e operacionais, mas ainda podem ser reforçados explicitamente no prompt/config da Clara/Jarvis se Jadielson quiser padronizar no mesmo nível do Google. ## Clara — aviso Notion/GitHub/Vault enviado - 2026-06-05 18:15 UTC: Após Jadielson perguntar se Clara havia sido notificada, Lôh enviou aviso no tópico 6 da LÓGIKA (`chat_id=-1003645702069`, `thread_id=6`) reforçando autorização operacional para Clara usar Notion, Vault e GitHub integrados. - Mensagem Telegram enviada: `messageId=831`. - Limites comun",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.41895338892936707,
-      "maxScore": 0.41895338892936707,
+      "totalScore": 1.418953388929367,
+      "maxScore": 1,
       "firstRecalledAt": "2026-06-05T21:21:53.349Z",
-      "lastRecalledAt": "2026-06-05T21:21:53.349Z",
+      "lastRecalledAt": "2026-06-09T03:13:40.422Z",
       "queryHashes": [
-        "3c200c4764d4"
+        "3c200c4764d4",
+        "611a174ba753"
       ],
       "recallDays": [
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-09"
       ],
       "conceptTags": [
         "prompt/config",
@@ -2712,18 +2726,20 @@
       "endLine": 304,
       "source": "memory",
       "snippet": "- Primeiro teste de sincronização criou `[F2] memory/outputs/testes-openclaw/2026-06-01-teste-sync-openclaw.md`, commit `78928d5`, confirmado como título visível. ## Saúde São Sebastião — estratégia junho e rotação diária - 2026-06-01: Criada a estratégia de produção de conteúdo de junho/2026 para Secretaria de Saúde em `[F2] memory/outputs/saude-sao-sebastiao/estrategias/2026-06-estrategia-conteudo-saude.md`. - Campanha guarda-chuva: “Junho de cuidado em movimento”. Promessa editorial: mostrar serviço real, orientar acesso e aproximar a população da rede municipal. - O calendário de junho foi complementado com sugestões de cenas por pauta e cuidados de captação. - Jadielson destacou que a",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-06-08T23:47:19.332Z",
-      "lastRecalledAt": "2026-06-08T23:47:19.332Z",
+      "lastRecalledAt": "2026-06-09T03:14:59.925Z",
       "queryHashes": [
-        "d5d920782443"
+        "d5d920782443",
+        "82d02453958b"
       ],
       "recallDays": [
-        "2026-06-08"
+        "2026-06-08",
+        "2026-06-09"
       ],
       "conceptTags": [
         "junho/2026",
@@ -2734,6 +2750,130 @@
         "criou",
         "outputs",
         "testes"
+      ]
+    },
+    "memory:memory/2026-06-05.md:95:117": {
+      "key": "memory:memory/2026-06-05.md:95:117",
+      "path": "memory/2026-06-05.md",
+      "startLine": 95,
+      "endLine": 117,
+      "source": "memory",
+      "snippet": "- Jadielson pediu copiar e organizar os exemplos de prompts estratégicos do Notion para o banco de contextos da Lôh, para auxiliar solicitações futuras de texto, produção e comandos. - Fontes Notion usadas: - `Central de Comando dos Agentes`. - `Arsenal de Prompts Validados`. - Child databases: `Equipe` e `New database` dentro do Arsenal. - Extração feita via API Notion: 8 itens da Central/Equipe e 11 itens do Arsenal; total normalizado final: 21 entradas. - Arquivos criados no workspace: - `/data/.openclaw/workspace/contextos/prompts-estrategicos-logika.md` - `/data/.openclaw/workspace/contextos/prompts-estrategicos-logika.json` - `/data/.openclaw/workspace/contextos/prompts-est",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-09T03:13:40.422Z",
+      "lastRecalledAt": "2026-06-09T03:13:40.422Z",
+      "queryHashes": [
+        "611a174ba753"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "central/equipe",
+        "jadielson",
+        "pediu",
+        "copiar",
+        "organizar",
+        "exemplos",
+        "prompts",
+        "estratégicos"
+      ]
+    },
+    "memory:memory/2026-06-01.md:156:173": {
+      "key": "memory:memory/2026-06-01.md:156:173",
+      "path": "memory/2026-06-01.md",
+      "startLine": 156,
+      "endLine": 173,
+      "source": "memory",
+      "snippet": "- Arquivo salvo em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/semanas/2026-06-semana-01-operacional.md`. - Conteúdo inclui pauta diária, função editorial P.O.D.E, cenas, sequência de stories, headline, legenda, CTA, validações e checklist de captação. - Commit GitHub: `8e9961d` — `conteudo: semana 1 operacional saude junho`. ## Saúde São Sebastião — ajuste na grade-matriz - 2026-06-01: Jadielson aprovou a grade-matriz como o “raio-x” necessário para mesclar grupos, setores e serviços. - Acrescentadas as especialidades `urologia` e `ortopedia` ao Espaço Cuidar / Centro de Especialidades na grade-matriz. - Arquivo atualizado: `[F2] memory/outputs/saude-sao-sebastiao/sistema-pr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-09T03:14:59.925Z",
+      "lastRecalledAt": "2026-06-09T03:14:59.925Z",
+      "queryHashes": [
+        "82d02453958b"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "p.o.d.e",
+        "grade-matriz",
+        "raio-x",
+        "arquivo",
+        "salvo",
+        "outputs",
+        "saude",
+        "sao"
+      ]
+    },
+    "memory:memory/2026-06-01.md:143:159": {
+      "key": "memory:memory/2026-06-01.md:143:159",
+      "path": "memory/2026-06-01.md",
+      "startLine": 143,
+      "endLine": 159,
+      "source": "memory",
+      "snippet": "- Fórmula recomendada para linguagem: “o que é + para quem é + onde/como acessar + por que importa”. - Crítica feita ao calendário anual: boa arquitetura, mas não suficiente sozinho; precisa virar sistema de produção recorrente com pauta, setor, cena, formato, responsável/status, validação e métrica. ## Saúde São Sebastião — lacunas a validar - 2026-06-01: Auditoria do vault encontrou divergências numéricas: Ficha Resumo fala em 16 PSFs e 28 UBSs; Público/Território fala em 17 equipes PSF e 27 UBSs; UBS MOC fala em 27 UBSs. Não usar números públicos sem validação oficial. - Feriados municipais de São Sebastião/AL para 2026 foram encontrados apenas em fontes secundárias; validar com Prefeit",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-09T03:14:59.925Z",
+      "lastRecalledAt": "2026-06-09T03:14:59.925Z",
+      "queryHashes": [
+        "82d02453958b"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "onde/como",
+        "responsável/status",
+        "público/território",
+        "sebastião/al",
+        "fórmula",
+        "recomendada",
+        "linguagem",
+        "quem"
+      ]
+    },
+    "memory:memory/2026-06-01.md:308:324": {
+      "key": "memory:memory/2026-06-01.md:308:324",
+      "path": "memory/2026-06-01.md",
+      "startLine": 308,
+      "endLine": 324,
+      "source": "memory",
+      "snippet": "- Fórmula recomendada para linguagem: “o que é + para quem é + onde/como acessar + por que importa”. - Crítica feita ao calendário anual: boa arquitetura, mas não suficiente sozinho; precisa virar sistema de produção recorrente com pauta, setor, cena, formato, responsável/status, validação e métrica. ## Saúde São Sebastião — lacunas a validar - 2026-06-01: Auditoria do vault encontrou divergências numéricas: Ficha Resumo fala em 16 PSFs e 28 UBSs; Público/Território fala em 17 equipes PSF e 27 UBSs; UBS MOC fala em 27 UBSs. Não usar números públicos sem validação oficial. - Feriados municipais de São Sebastião/AL para 2026 foram encontrados apenas em fontes secundárias; validar com Prefeit",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-09T03:14:59.925Z",
+      "lastRecalledAt": "2026-06-09T03:14:59.925Z",
+      "queryHashes": [
+        "82d02453958b"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "onde/como",
+        "responsável/status",
+        "público/território",
+        "sebastião/al",
+        "fórmula",
+        "recomendada",
+        "linguagem",
+        "quem"
       ]
     }
   }
