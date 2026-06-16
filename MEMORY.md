@@ -17,8 +17,8 @@ EU SOU LÔH. TIER 0. COMANDO CENTRAL.
 
 | Agente | Thread_ID | Grupo |
 |--------|-----------|-------|
-| Clara | [AGUARDANDO] | LÓGIKA |
-| Jarvis | [AGUARDANDO] | LÓGIKA |
+| Clara | -1003645702069/6 | LÓGIKA (topico) |
+| Jarvis | -1003645702069/1 | LÓGIKA (topico) |
 | COO | [AGUARDANDO] | LÓGIKA |
 | CRO | [AGUARDANDO] | LÓGIKA |
 | CMO | [AGUARDANDO] | LÓGIKA |
