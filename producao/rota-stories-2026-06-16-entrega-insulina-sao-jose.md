@@ -1,7 +1,7 @@
 # Story — Entrega de Canetas de Insulina São José
 ## 16 de junho de 2026
 
-**Headline:** Nesta terça-feira, a Secretaria de Saúde entregou canetas de insulina para diabéticos do bairro São José.
+**Headline:** Nesta terça-feira, a Secretaria de Saúde entregou canetas de insulina para pacientes com diabetes do bairro São José.
 
 **Cenas sugeridas:**
 - Foto da UBS São José
