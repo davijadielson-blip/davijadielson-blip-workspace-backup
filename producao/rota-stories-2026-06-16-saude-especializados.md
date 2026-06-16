@@ -8,46 +8,60 @@
 
 ## Story 1
 
-**Frase:** "Quando a saúde precisa de um olhar mais específico, existe um caminho."
+**Cena:** UBS / Recepção
 
-**Cena sugerida:**  
-Paciente entrando na UBS ou recepção. Ou profissional olhando para a câmera com fundo de consultório.
+- Mostrar pessoa entrando na porta da UBS
+- Close na recepção com atendente
+- Ou profissional de saúde olhando para câmera no consultório
+
+**Texto:** Quando a saúde precisa de um olhar mais específico, existe um caminho.
 
 ---
 
 ## Story 2
 
-**Frase:** "Na rede municipal, o atendimento começa na unidade básica. Se precisar de algo a mais, o encaminhamento certo leva você ao especialista."
+**Cena:** Triagem na UBS
 
-**Cena sugerida:**  
-ACS ou enfermeiro conversando com paciente na UBS (triagem/encaminhamento).Mostrando a ficha ou encaminhamento em mãos.
+- Enfermeiro olhando ficha/prontuário
+- Paciente sentada esperando
+- Mãos mostrando encaminhamento (papel)
+
+**Texto:** Na rede municipal, o atendimento começa na unidade básica. Se precisar de algo a mais, o encaminhamento certo leva você ao especialista.
 
 ---
 
 ## Story 3
 
-**Frase:** "Cardiologia, ginecologia, pediatria — cada área com seu tempo, mas com o mesmo cuidado."
+**Cena:** Consultório especializado
 
-**Cena sugerida:**  
-Consultório especializado em atendimento (médico examinando paciente, ou orientando). Pode mostrar equipamento: estetoscópio, pressão, exame.
+- Médico com estetoscópio examinando paciente
+- Equipamento de pressão ou glicemia
+- Profissional explicando algo (gesto de orientação)
+
+**Texto:** Cardiologia, ginecologia, pediatria — cada área com seu tempo, mas com o mesmo cuidado.
 
 ---
 
 ## Story 4
 
-**Frase:** "Saúde de São Sebastião: atendimento de perto, especialistas quando necessário, responsabilidade sempre."
+**Cena:** Fachada UBS ou profissional
 
-**Cena sugerida:**  
-Fechamento com profissional olhando para câmera (sorriso) + fachada da UBS ou logo da Secretaria ao fundo.
+- Fachada da unidade com nome
+- Profissional sorrindo para câmera
+- Logo da Secretaria de Saúde ao fundo
+
+**Texto:** Saúde de São Sebastião: atendimento de perto, especialistas quando necessário, responsabilidade sempre.
+
+---
 
 #saudesaosebastiaoal #maistrabalhomaisavanco
 
 ---
 
 **Checklist de gravação:**
-- [ ] Story 1: recepção UBS ou profissional em consultório
-- [ ] Story 2: triagem/encaminhamento na UBS
-- [ ] Story 3: consultório especializado em ação
-- [ ] Story 4: profissional + fachada/logo
+- [ ] Story 1: recepção UBS - pessoa entrando ou profissional no consultório
+- [ ] Story 2: triagem - enfermeiro com ficha/encaminhamento
+- [ ] Story 3: consultório - médico examinando ou orientando
+- [ ] Story 4: fachada - unidade ou profissional sorrindo
 - [ ] 4 frases gravadas em 1 take (ou 2)
 - [ ] Duração total: ~40 segundos
