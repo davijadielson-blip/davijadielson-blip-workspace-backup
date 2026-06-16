@@ -17,7 +17,7 @@ EU SOU LÔH. TIER 0. COMANDO CENTRAL.
 
 | Agente | Thread_ID | Grupo |
 |--------|-----------|-------|
-| Clara | -1003645702069/6 | LÓGIKA (topico) |
+| Clara | -1003645702069/6 | LÓGIKA (topico) | Secretária operacional — acesso Notion e Google Calendar |
 | Jarvis | -1003645702069/1 | LÓGIKA (topico) |
 | COO | [AGUARDANDO] | LÓGIKA |
 | CRO | [AGUARDANDO] | LÓGIKA |
