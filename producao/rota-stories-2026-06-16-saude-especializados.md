@@ -8,49 +8,45 @@
 
 ## Story 1
 
-**Cena:** UBS / Recepção
+**Headline:** Quando a saúde precisa de um olhar mais específico, existe um caminho.
 
-- Mostrar pessoa entrando na porta da UBS
+**Cenas sugeridas (escolha 1):**
+- Pessoa entrando na porta da UBS
 - Close na recepção com atendente
-- Ou profissional de saúde olhando para câmera no consultório
-
-**Texto:** Quando a saúde precisa de um olhar mais específico, existe um caminho.
+- Profissional de saúde olhando para câmera no consultório
 
 ---
 
 ## Story 2
 
-**Cena:** Triagem na UBS
+**Headline:** Na rede municipal, o atendimento começa na unidade básica. Se precisar de algo a mais, o encaminhamento certo leva você ao especialista.
 
+**Cenas sugeridas (escolha 1):**
 - Enfermeiro olhando ficha/prontuário
-- Paciente sentada esperando
-- Mãos mostrando encaminhamento (papel)
-
-**Texto:** Na rede municipal, o atendimento começa na unidade básica. Se precisar de algo a mais, o encaminhamento certo leva você ao especialista.
+- Paciente sentada esperando atendimento
+- Mãos mostrando encaminhamento (papel na mão)
 
 ---
 
 ## Story 3
 
-**Cena:** Consultório especializado
+**Headline:** Cardiologia, ginecologia, pediatria — cada área com seu tempo, mas com o mesmo cuidado.
 
+**Cenas sugeridas (escolha 1):**
 - Médico com estetoscópio examinando paciente
 - Equipamento de pressão ou glicemia
-- Profissional explicando algo (gesto de orientação)
-
-**Texto:** Cardiologia, ginecologia, pediatria — cada área com seu tempo, mas com o mesmo cuidado.
+- Profissional explicando algo com gesto de orientação
 
 ---
 
 ## Story 4
 
-**Cena:** Fachada UBS ou profissional
+**Headline:** Saúde de São Sebastião: atendimento de perto, especialistas quando necessário, responsabilidade sempre.
 
-- Fachada da unidade com nome
+**Cenas sugeridas (escolha 1):**
+- Fachada da UBS com nome da unidade
 - Profissional sorrindo para câmera
 - Logo da Secretaria de Saúde ao fundo
-
-**Texto:** Saúde de São Sebastião: atendimento de perto, especialistas quando necessário, responsabilidade sempre.
 
 ---
 
