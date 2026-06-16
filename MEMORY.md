@@ -967,3 +967,18 @@ Próxima vez que Jadielson pedir legenda de qualquer cliente:
 3. Embutir slogan/marca DE FORMA VIVA (nunca carimbo)
 4. Entregar em 1-2 minutos
 5. Salvar em banco de referências do cliente
+
+## Padrão de Headlines (2026-06-16)
+
+Jadielson ensinou o padrão ideal de headlines para stories:
+
+**Características:**
+- Frases curtas e diretas
+-Tom emotivo/impactante (não apenas informativo)
+- Foco no benefício humano
+- Quando possível, inverter a lógica para criar impacto: "Quando X não pode Y, Z acontece"
+
+**Exemplo validado:**
+- "Quando o idoso não pode ir até a unidade, o cuidado vai até ele."
+
+**Fonte de referência:** consultar vault `/vaults/segundo-cerebro-jadielson/.claude/agents/` antes de gerar conteúdo para clientes (Saúde, Câmara, SINDSS, etc.)
