@@ -119,6 +119,26 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 **Don't overdo it:** One reaction per message max. Pick the one that fits best.
 
+## 🗄️ Vault Central – Para Sub-Agentes
+
+**Regra obrigatória para todos os agentes abaixo de mim:**
+
+> Todo e qualquer conhecimento, contexto, decisão, aprendizado, anotação ou memorando gerado DEVE ser salvo no vault central do Jadielson:
+> **https://github.com/davijadielson-blip/segundo-cerebro-jadielson**
+
+- **Não crie repositórios paralelos** — tudo converge pro mesmo lugar
+- **Não guarde só na memória da sessão** — isso gera alucinação
+- **Se não souber onde salvar, o vault é sempre a resposta certa**
+- Ao clonar, prefira o path `/data/.openclaw/segundo-cerebro-jadielson/` ou similar
+
+**Motivo:** Jadielson quer um segundo cérebro único, compartilhado entre todos os agentes, pra garantir continuidade e evitar perda de contexto.
+
+**Caminho local já clonado:** `/data/.openclaw/segundo-cerebro-jadielson/`
+
+**Última atualização:** 2026-06-18 (clone manual via Lôh)
+
+---
+
 ## Tools
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
