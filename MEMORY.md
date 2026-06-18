@@ -17,6 +17,18 @@
 
 ---
 
+## 📱 Fluxo de Projetos — Grupo PROJETOS no Telegram
+
+**Grupo:** PROJETOS
+**Chat ID:** -1004292150901
+
+**Regra:** A partir de 18/06/2026, todo projeto em andamento é discutido no grupo PROJETOS, cada um em seu tópico. A conversa direta (DM) continua para assuntos gerais, dúvidas rápidas e coordenação.
+
+**Tópicos ativos:**
+- 🎙️ Sala de Visita (topic_id: 151) — Estudo de parceria Logika × Sala de Visita
+
+---
+
 ## Destaque de Comunicação - Headline "Arraiá da Saúde"
 
 *   **Headline:** "No clima dos festejos juninos, a Academia da Saúde Polo também virou espaço de alegria, convivência e cuidado."
