@@ -146,13 +146,52 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 ---
 
+# Ativação de Agentes - Deploy Onda 3
+
+## ✅ CCO — Ativado em 2026-06-19
+
+**Agente:** 🎬 CCO — Chief Creative Officer
+**Tópico:** 1464 (CCO no grupo LÓGIKA)
+**Sub-agent session:** `agent:main:subagent:3215c5cb-18dd-4728-8ad5-d6d30c2a6864`
+**Responsável:** Reporta a Jadielson via LÔH (direção/edição) + Ewander (design)
+**Status:** 🟢 Ativo
+**Mensagem de ativação:** Enviada ao tópico 1464 (message_id: 3897)
+
+**Funções:**
+- Criar roteiros e storyboards com estrutura de 3 atos
+- Definir direção criativa (tom, referências, padrão visual)
+- Criar templates de produção reutilizáveis
+- Gerar briefings de captação (B-roll)
+- Montar guias de consistência por cliente
+- Definir o que escalar via IA vs. mão humana
+
+---
+
+## ✅ CMO — Ativado em 2026-06-19
+
+**Agente:** 📣 CMO — Chief Marketing Officer
+**Tópico:** 1463 (CMO no grupo LÓGIKA)
+**Sub-agent session:** `agent:main:subagent:6f491713-b73e-4460-b3e6-d64ab3d5462d`
+**Responsável:** Reporta a Jadielson via LÔH
+**Status:** 🟢 Ativo
+**Mensagem de ativação:** Enviada ao tópico 1463 (message_id: 3898)
+
+**Funções:**
+- Definir STP (Segmentação, Target, Posicionamento)
+- Mapear funil de demanda
+- Estruturar Go-To-Market de novos serviços
+- Definir direção de marca e pilares de conteúdo
+- Interpretar performance de marketing
+
+---
+
 # Status do Deploy
 
 | Onda | Agentes | Status |
 |---|---|---|
 | 1 | CAIO | ✅ Ativo |
 | 2 | CRO + CTO | ✅ Ativos |
-| 3 | CCO + CMO | 🔄 Pendente |
+| 3 | CCO + CMO | ✅ Ativos |
 | 4 | COO + CFO | ⏳ Pendente |
 | 5 | CIO | ⏳ Pendente |
 
