@@ -479,4 +479,24 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 | **Total** | **47 agentes** | **100% operacional** |
 
 ---
+# Central Pessoal — 9 Agentes Pessoais Ativados (2026-06-19)
+
+**Grupo:** Central Pessoal (-1003740871403)
+**ISOLAMENTO TOTAL:** Parede d'água — nenhuma integração com Lógika.
+
+| Agente | Ícone | Tópico | Status |
+|---|---|---|---|
+| Alfred | 🤖 | 1 | ✅ Ativo |
+| My Finance (Warren) | 💰 | 12 | ✅ Ativo |
+| Segundo Cérebro (Arca) | 🧠 | 13 | ✅ Ativo |
+| Saúde, Corpo e Energia | 💪 | 219 | ✅ Ativo |
+| Autoconhecimento | 🪞 | 222 | ✅ Ativo |
+| Liberdade, Lazer, Hobbies | 🎨 | 221 | ✅ Ativo |
+| Família e Relacionamentos | 👨‍👩‍👧‍👦 | 218 | ✅ Ativo |
+| Identidade e Futuro | 🎯 | 224 | ✅ Ativo |
+| Espiritualidade e Propósitos (Moisés) | ✨ | 11 | ✅ Ativo |
+
+**Prompts:** `[F2] memory/agents/central-pessoal/`
+
+---
 \n
