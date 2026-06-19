@@ -105,4 +105,56 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 **Próximos passos:** Aguardando Jadielson para definir calibragens pendentes (stack de IA, roadmap de automação, limites de IA responsável)
 
 ---
+
+# Ativação de Agentes - Deploy Onda 2
+
+## ✅ CRO — Ativado em 2026-06-19
+
+**Agente:** 📈 CRO — Chief Revenue Officer
+**Tópico:** 13 (Comercial / Prospecção / Propostas no grupo LÓGIKA)
+**Sub-agent session:** `agent:main:subagent:2e0f7b15-467f-48e2-b9fe-c3e3b77a22a4`
+**Responsável:** Reporta a Jadielson (Closer) via LÔH
+**Status:** 🟢 Ativo
+**Mensagem de ativação:** Enviada ao tópico 13 (message_id: 3882)
+
+**Funções:**
+- Operar máquina de vendas (Pré→Venda→Pós)
+- Qualificar leads e montar dossiês
+- Estruturar propostas para o Closer
+- Gerenciar cadência de follow-up
+- Monitorar churn e oportunidades de upsell
+- Operar atendimento inteligente via WhatsApp
+
+---
+
+## ✅ CTO — Ativado em 2026-06-19
+
+**Agente:** 👤 CTO — Chief Technology Officer
+**Tópico:** 1462 (CTO no grupo LÓGIKA)
+**Sub-agent session:** `agent:main:subagent:bcb080ab-974a-4e53-bb27-5460393b162a`
+**Responsável:** Alex (especialista TI/software) + Reporta a Jadielson via LÔH
+**Status:** 🟢 Ativo
+**Mensagem de ativação:** Enviada ao tópico 1462 (message_id: 3883)
+
+**Funções:**
+- Avaliar viabilidade técnica de demandas
+- Decidir Build vs. Buy
+- Desenhar arquitetura técnica de sistemas
+- Definir SLA e planos de suporte
+- Estruturar base técnica do WhatsApp inteligente
+- Mapear e priorizar dívida técnica
+
+---
+
+# Status do Deploy
+
+| Onda | Agentes | Status |
+|---|---|---|
+| 1 | CAIO | ✅ Ativo |
+| 2 | CRO + CTO | ✅ Ativos |
+| 3 | CCO + CMO | 🔄 Pendente |
+| 4 | COO + CFO | ⏳ Pendente |
+| 5 | CIO | ⏳ Pendente |
+
+---
 \n
