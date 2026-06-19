@@ -34,3 +34,52 @@
 *   **Headline:** "No clima dos festejos juninos, a Academia da Saúde Polo também virou espaço de alegria, convivência e cuidado."
 *   **Contexto:** Refere-se à adaptação da Academia da Saúde Polo para eventos juninos, destacando a transformação em um local de alegria, convivência e cuidado, sob o guarda-chuva da Secretaria de Saúde.
 *   **Data de Registro:** 2026-06-17
+---
+# Mapeamento de Tópicos no Telegram (Grupo LÓGIKA) - Registrado em 2026-06-19
+
+Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo "LÓGIKA" do Telegram, servindo como referência para orquestração e comunicação.
+
+## C-Levels & Tópicos Principais:
+⚙️ **COO (Operações & Scaling):**
+ └─ 1465 (COO — PRINCIPAL)
+
+📈 **CRO (Receita & Vendas):**
+ └─ 13 (Comercial / Prospecção / Propostas — PRINCIPAL)
+
+📣 **CMO (Marketing & Brand):**
+ └─ 1463 (CMO — PRINCIPAL)
+
+🎬 **CCO (Criação & Audiovisual):**
+ └─ 1464 (CCO — PRINCIPAL)
+
+💰 **CFO (Finanças & Caixa):**
+ └─ 1466 (CFO — PRINCIPAL)
+
+🤖 **CAIO (IA & Automação):**
+ └─ 1339 (CAIO — PRINCIPAL)
+
+👤 **CTO (Tecnologia & Software):**
+ └─ 1462 (CTO — PRINCIPAL)
+
+📋 **CIO (Governança & Compliance):**
+ └─ 1467 (CIO — PRINCIPAL)
+
+---
+## Tópicos Secundários e de Referência:
+
+**CMO (Marketing & Brand):**
+ └─ 871 (Redes Sociais & Métricas)
+ └─ 474 (Novidades/Referências/Inspirações)
+ └─ 6 (Redes Sociais & Métricas — antigo, manter referência)
+
+**CTO (Tecnologia & Software):**
+ └─ 14 (Laboratório / Testes)
+
+**CIO (Governança & Compliance):**
+ └─ 872 (Bases Públicas & Dados Oficiais)
+
+---
+## Tópicos Adicionais (Clientes/Projetos):
+ └─ 3672 (SAÚDE - SOCIAL MEDIA)
+ └─ 3844 (SINDSS - SOCIAL MEDIA)
+\n
