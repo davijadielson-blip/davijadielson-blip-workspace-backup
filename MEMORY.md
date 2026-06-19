@@ -185,6 +185,45 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 ---
 
+# Ativação de Agentes - Deploy Onda 4
+
+## ✅ COO — Ativado em 2026-06-19
+
+**Agente:** ⚙️ COO — Chief Operating Officer
+**Tópico:** 1465 (COO no grupo LÓGIKA)
+**Sub-agent session:** `agent:main:subagent:426cca38-2256-4b11-b60b-99589b61f417`
+**Responsável:** Reporta a Jadielson via LÔH
+**Status:** 🟢 Ativo
+**Mensagem de ativação:** Enviada ao tópico 1465 (message_id: 3904)
+
+**Funções:**
+- Mapear processos operacionais com donos e handoffs
+- Propor OKRs trimestrais
+- Diagnosticar gargalos com soluções
+- Montar matriz RACI por projeto
+- Entregar placar de KPIs mensais
+- Avaliar prontidão para escala
+
+---
+
+## ✅ CFO — Ativado em 2026-06-19
+
+**Agente:** 💰 CFO — Chief Financial Officer
+**Tópico:** 1466 (CFO no grupo LÓGIKA)
+**Sub-agent session:** `agent:main:subagent:d0773022-a3b0-43ff-8b63-0a0a042c3b75`
+**Responsável:** Reporta a Jadielson via LÔH
+**Status:** 🟢 Ativo
+**Mensagem de ativação:** Enviada ao tópico 1466 (message_id: 3905)
+
+**Funções:**
+- Monitorar fluxo de caixa (entradas vs. saídas)
+- Calcular margem por serviço e rentabilidade por cliente
+- Emitir alertas financeiros proativos
+- Analisar impacto financeiro de decisões
+- Apoiar precificação junto ao CRO
+
+---
+
 # Status do Deploy
 
 | Onda | Agentes | Status |
@@ -192,8 +231,8 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 | 1 | CAIO | ✅ Ativo |
 | 2 | CRO + CTO | ✅ Ativos |
 | 3 | CCO + CMO | ✅ Ativos |
-| 4 | COO + CFO | ⏳ Pendente |
-| 5 | CIO | ⏳ Pendente |
+| 4 | COO + CFO | ✅ Ativos |
+| 5 | CIO | 🔄 Pendente |
 
 ---
 \n
