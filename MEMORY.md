@@ -318,58 +318,109 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 - Segmentação por cliente (espera CMO definir segmentos)
 
 ## 🟡 CTO 👤 — Tecnologia & Software
-**Status:** PARCIAL GO
+**Status:** PARCIAL GO (pode desenhar arquitetura, implementação depois)
 **Responsável humano:** Alex
 
 **Pode fazer agora:**
-- Desenhar arquitetura do WhatsApp inteligente (com CAIO)
-- Avaliar stack técnica
-- Mapear dívida técnica
+- Revisar stack técnica atual com Alex (align necessário)
+- Desenhar arquitetura para WhatsApp (sem implementar)
+- Mapear integrações Notion → CRM → WhatsApp
+- Avaliar ferramentas de automação
+- Definir SLAs de desenvolvimento
+
+**Em HOLD:**
+- Implementação WhatsApp (espera QR Code de Jadielson)
+- Build vs Buy (espera decisão de Jadielson)
 
 ## 🟡 CCO 🎬 — Criação & Audiovisual
-**Status:** PARCIAL GO
+**Status:** PARCIAL GO (pode preparar templates e estruturas)
 
 **Pode fazer agora:**
-- Criar templates de produção
-- Montar guias de consistência dos clientes ativos
-- Estruturar briefings de B-roll
+- Estruturar templates de brief criativo
+- Desenhar fluxo de aprovação de ativos
+- Preparar guia de estilos visuais
+- Mapear tipos de conteúdo (vídeo, foto, design, copy)
+- Organizar asset management (Notion ou Drive)
 
 **Em HOLD:**
-- Direção criativa ampla (espera CMO definir posicionamento)
+- Posicionamento visual da marca (espera CMO + Jadielson)
+- Narrativa central (espera posicionamento)
 
 ## 🟡 CMO 📣 — Marketing & Brand
-**Status:** PARCIAL GO
+**Status:** PARCIAL GO (pode preparar playbooks e estruturas)
 
 **Pode fazer agora:**
-- Criar pilares de conteúdo para clientes ativos
-- Mapear conteúdo próprio da Lógika
+- Ler CRM + Leads (análise de segmentos)
+- Estruturar templates de conteúdo
+- Mapear canais de marketing (blog, email, Telegram)
+- Desenhar funil de demanda generation
+- Preparar calendário editorial
 
 **Em HOLD:**
-- STP completo (espera Jadielson definir segmentos)
-- Posicionamento central da marca
+- Segmentos prioritários (espera Jadielson)
+- Posicionamento central (espera Jadielson)
+- Go-to-Market playbook (espera posicionamento)
 
 ## 🟡 COO ⚙️ — Operações & Scaling
-**Status:** HOLD
+**Status:** HOLD (esperando OKRs)
 
 **Em HOLD:**
-- OKRs (espera Jadielson definir)
-- Processos mapeados (aguarda direção estratégica)
+- TUDO (OKRs são o blueprint pra COO operar)
+
+**Pode fazer enquanto isso:**
+- Observar outros C-Levels
+- Preparar estrutura de RACI
 
 ## 🟡 CFO 💰 — Finanças & Caixa
-**Status:** PARCIAL GO
+**Status:** PARCIAL GO (pode estruturar fluxos, margens depois)
 
 **Pode fazer agora:**
-- Preparar estrutura de acompanhamento financeiro
+- Estruturar planilha de fluxo de caixa
+- Mapear custos operacionais atuais
+- Desenhar estrutura de controle financeiro
+- Preparar templates de relatório
 
 **Em HOLD:**
-- Margem-alvo por linha de serviço (aguarda definição)
+- Margens por linha de serviço (espera decisão de Jadielson)
+- Contador/controller designado (falta designar)
 
-## 🟡 CIO 📋 — Governança & Compliance
-**Status:** PARCIAL GO (recém-ativado, pode iniciar mapeamentos)
+## 🟢 CIO 📋 — Governança & Compliance
+**Status:** GO AGORA (pode começar governança básica)
 
 **Pode fazer agora:**
-- Mapear ferramentas atuais
-- Avaliar conformidade geral
+- Mapear acessos atuais (humanos + agentes)
+- Estruturar política de dados LGPD básica
+- Revisar permissões Notion (quem acessa o quê)
+- Desenhar matriz de conformidade
+- Mapear riscos de segurança (dados, acessos, backups)
+
+---
+
+# Checklist de Ações Imediatas (2026-06-19)
+
+☐ CAIO: Leia CRM + Leads → Identifique 3-5 automações viáveis → Reporte
+☐ CRO: Leia CRM + Leads → Conte pipeline por etapa → 5 leads quentes → Reporte
+☐ CTO: Schedule align com Alex sobre stack → Mapeie tech requirements → Reporte
+☐ CCO: Estruture 3 templates de brief criativo → Reporte
+☐ CMO: Leia CRM + Leads → Analise padrões de clientes → Reporte
+☐ COO: Observe (hold até OKRs)
+☐ CFO: Estruture fluxo de caixa básico → Reporte
+☐ CIO: Mapeie acessos → Estruture política LGPD → Reporte
+
+---
+
+# Próximas Decisões (Jadielson)
+
+**Esta semana (se possível):**
+1. Align com Alex (CTO) sobre stack técnica
+2. Definir 3-5 OKRs da Lógika
+
+**Próximas semanas:**
+3. Designar contador/controller para CFO
+4. Definir segmentos prioritários
+5. Definir posicionamento central da marca
+6. Definir margens-alvo por linha de serviço
+7. Conectar WhatsApp (via QR Code)
 
 ---
 \n
