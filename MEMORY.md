@@ -37,3 +37,18 @@
 - A LÓGIKA quer construir uma estrutura de qualidade para contextos.
 - Cada agente/departamento deve salvar definições, briefings, entregas, pendências, aprendizados e referências no lugar coerente.
 - Objetivo: evitar perda de contexto no chat, melhorar continuidade, reduzir retrabalho e permitir respostas mais ricas, específicas e seguras.
+
+## WhatsApp — integração LÓGIKA
+
+- 2026-06-21: WhatsApp revinculado com QR limpo após tentativa inicial registrar envios que não apareciam no aparelho.
+- Conta vinculada detectada: `+55 11 95108-0607` / `5511951080607@s.whatsapp.net`.
+- Smoke test read-only aprovado: mensagem enviada por Jadielson no chat consigo mesmo foi recebida pelo gateway e resposta controlada apareceu no WhatsApp.
+- Modo operacional aprovado por enquanto: **read-only / teste controlado**. Não usar atendimento automático, grupos ou contatos de terceiros sem autorização explícita e configuração de whitelist/aprovação.
+
+## Auditoria Starter Kit / Sistema — 2026-06-21
+
+- Criado `skills/_registry.md` global sem sobrescrever arquivos existentes.
+- Ajustado `.gitignore` do workspace Jarvis para ignorar `node_modules/`, `package-lock.json`, `media/`, logs e `.env*`.
+- Varredura confirmou que o backup do workspace principal e o vault Segundo Cérebro têm repositórios GitHub configurados, mas o workspace Jarvis local ainda não tem remote próprio.
+- Varredura do vault encontrou registro histórico de Tavily ativado/validado em 2026-06-05; porém a configuração ativa atual não mostra Tavily habilitado e `web_search` caiu para provider `duckduckgo`.
+- Revisão de crons: `vault-sync-diario-01h` está ativo; crons antigos de backup workspace/sync vault/Clara existem desativados, alguns com histórico de falha por modelo/crédito ou destino Telegram inválido.

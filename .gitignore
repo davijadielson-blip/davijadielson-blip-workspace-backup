@@ -1,3 +1,10 @@
 .audit/
 .openclaw/
 memory/.dreams/
+node_modules/
+package-lock.json
+media/
+*.log
+.env
+.env.*
+package.json
