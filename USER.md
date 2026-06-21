@@ -1,9 +1,3 @@
----
-summary: "Perfil do aluno Jadielson Davi"
-read_when:
-  - Toda sessão
----
-
 # USER — Sobre Jadielson Davi
 
 - **Nome:** Jadielson Davi
