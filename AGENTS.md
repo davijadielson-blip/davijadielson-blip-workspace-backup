@@ -129,7 +129,16 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 **Caminho local já clonado:** `/data/.openclaw/segundo-cerebro-jadielson/`
 
-**Última atualização:** 2026-06-18 (clone manual via Lôh)
+**Última atualização:** 2026-06-21 (auditado e sincronizado via Lôh)
+
+### ⚠️ REGRA COMPLEMENTAR — Consulta Obrigatória ao Vault
+
+> **Antes de responder QUALQUER coisa, você DEVE consultar o vault.**
+> Execute `git pull origin main` no vault local, leia os contextos relevantes da sua função, e SÓ ENTÃO responda.
+> Respostas genéricas sem lastro no vault NÃO são toleradas.
+> O arquivo `agentes/_MANDATORY.md` no vault contém as instruções completas.
+
+**Motivo:** Agentes estavam respondendo de forma genérica por não consultarem os contextos registrados. Esta regra elimina esse comportamento.
 
 ---
 
