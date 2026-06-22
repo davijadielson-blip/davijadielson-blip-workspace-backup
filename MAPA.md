@@ -1,133 +1,130 @@
 # MAPA — Workspace Lôh / Jadielson
 
-> Fonte de verdade única. GitHub é backup.  
-> Última reorganização: 2026-06-22
+> **Fonte de verdade única. GitHub é backup.**
+> **Última reorganização:** 2026-06-22 — Mapeamento aos 3 Fluxos
 
 ---
 
-## Raiz
+## Os 3 Fluxos (e o Fluxo 0)
 
-| Caminho | Função |
+| Tag | Nome | Quem mexe | Sistema? |
+|---|---|---|---|
+| **`[F0]`** | CAPTURA | Só você | Consulta, não edita |
+| **`[F1]`** | CRIATIVO (você) | Só você | Consulta, nunca escreve |
+| **`[F2]`** | SISTEMA (máquina) | Agentes | Gerencia livre |
+| **`[F3]`** | INTEGRAÇÃO | Você + Sistema | Você cria, sistema gerencia metadados |
+
+---
+
+## Estrutura Completa
+
+```
+workspace/                            ← FONTE DE VERDADE ÚNICA
+│
+├── [F0] 0-Inbox/          22 arq    ← CAPTURA BRUTA (pré-fluxo)
+│                                     Suas notas rápidas, ideias soltas
+│
+├── [F1] 1-Permanentes/    7 subp.   ← REFERÊNCIAS (notas evergreen)
+├── [F1] 2-Literatura/     6 subp.   ← LEITURAS (livros, cursos concluídos)
+├── [F1] 3-Daily/          8 notas   ← DIÁRIO (notas do dia, reflexões)
+├── [F1] 4-Pessoal/        12 subp.  ← PESSOAL (parede d'água)
+├── [F1] 5-Frentes/        8 subp.   ← TRABALHO (clientes, frentes ativas/standby)
+├── [F1] ESTUDOS/          4 subp.   ← CURSOS (A INICIAR / EM ANDAMENTO / CONCLUÍDO / PAUSADO)
+├── [F1] TAREFAS/                    ← LISTAS PESSOAIS (deprecated)
+│
+├── [F2] memory/           1671 arq  ← ❤️ CORAÇÃO DO SISTEMA
+│   ├── agents/                      Definições de agentes e prompts
+│   ├── context/                     Contextos estratégicos, decisões, calendários
+│   ├── databases/                   Dados estruturados, mapeamentos
+│   ├── decisions/                   Registro de decisões
+│   ├── inbox-externa/               Capturas de fontes externas (áudio, etc)
+│   ├── outputs/                     Entregáveis, relatórios, drafts
+│   ├── projects/                    Memória de projetos (planos, pesquisas)
+│   ├── sessions/                    Logs de sessões
+│   ├── templates/                   Templates canônicos
+│   └── visualizations/              Diagramas, mapas, dashboards
+│
+├── [F2] agentes/          155 arq   ← DEFINIÇÕES DE AGENTES (prompts, personalidades)
+├── [F2] archive/          74 arq    ← HISTÓRICO (backups, exemplos, materiais legados)
+├── [F2] vaults/           4410 arq  ← CLONE DO GITHUB (sincronização automática)
+│
+├── [F3] PROJETOS/         7 subp.   ← PROJETOS (você cria, sistema gerencia)
+│
+├── scripts/                         ← AUTOMAÇÃO (não mexer)
+├── skills/                          ← HABILIDADES (não mexer)
+│
+├── SOUL.md                          Minha identidade
+├── AGENTS.md                        Manual de conduta
+├── IDENTITY.md                      Ficha formal
+├── USER.md                          Quem é Jadielson
+├── MEMORY.md                        Memória de longo prazo
+├── MAPA.md                          Este arquivo
+├── TOOLS.md                         Anotações de ferramentas
+├── HEARTBEAT.md                     Tarefas periódicas
+├── [F1] _README.md                  Regras do Fluxo 1
+├── [F2] _README.md                  Regras do Fluxo 2
+└── [F3] PROJETOS/_README.md         Regras do Fluxo 3
+```
+
+---
+
+## 🧠 REGRA ABSOLUTA — Workspace é o Cérebro Central
+
+> **"Varra todo o banco. O workspace é a fonte. Tavily é complemento."**
+
+### Para TODO agente, em TODA resposta:
+
+**1. CONSULTE O WORKSPACE PRIMEIRO**
+   - Antes de qualquer resposta, vasculhe o workspace inteiro
+   - Não se limite a `[F2] memory/` — contexto relevante pode estar em `[F1]`, `[F3]`, qualquer pasta
+   - Use `memory_search` e ferramentas de leitura para encontrar informações
+
+**2. WEB SÓ DEPOIS**
+   - Tavily (web_search) é complementar, não substituto
+   - Só busque na web quando o workspace não tiver a resposta
+
+**3. REGISTRE TUDO QUE FOR PERTINENTE**
+   - Informação nova encontrada → salve em `[F2] memory/`
+   - Decisão tomada → registre em `[F2] memory/decisions/`
+   - Aprendizado relevante → salve no arquivo de diário (`[F2] memory/YYYY-MM-DD.md`)
+   - Se não foi salvo, não existiu para a próxima sessão
+
+**4. APRENDA ENTRE SESSÕES**
+   - Memória não sobrevive a restart de sessão
+   - Use `[F2] memory/` como ponte entre sessões
+   - Registre descobertas, ajustes de comportamento, regras para o futuro
+
+**5. NÃO INVENTE**
+   - Se o workspace não tem a resposta E a web não ajudou: **"não consegui acessar essa informação"**
+   - Nunca alucine dados, contextos ou integrações
+
+---
+
+## Consolidated Paths (de onde vieram)
+
+| Saiu de | Foi para |
 |---|---|
-| `SOUL.md` | Minha identidade — sou Lôh, orquestradora Tier 0 |
-| `AGENTS.md` | Manual de conduta e operação |
-| `IDENTITY.md` | Ficha formal |
-| `USER.md` | Quem é Jadielson Davi |
-| `MEMORY.md` | Memória de longo prazo |
-| `MAPA.md` | **Este arquivo** — mapa do workspace |
-| `TOOLS.md` | Anotações de ferramentas |
-| `HEARTBEAT.md` | Tarefas periódicas |
-| `BOOTSTRAP.md` | Ritual de primeiro boot (se existir) |
-| `scripts/reorganizar-workspace.sh` | Script de reorganização |
+| `entregaveis/` | `[F2] memory/outputs/` |
+| `reports/` | `[F2] memory/outputs/reports/` |
+| `templates/` (raiz) | `[F2] memory/templates/` |
+| `contextos/` | `[F2] memory/context/` |
+| `calendarios/` | `[F2] memory/context/calendarios/` |
+| `content/` | `[F2] memory/outputs/` |
+| `pesquisa/` | `[F2] memory/projects/pesquisa/` |
+| `projetos/` (raiz) | `[F3] PROJETOS/` |
+| `producao/` | `[F2] memory/outputs/` |
+| `Anexos/` | `[F2] memory/Anexos/` |
+| `_curso/` | `[F2] archive/_curso/` |
+| `backups/` | `[F2] archive/backups/` |
+| `exemplos/` | `[F2] archive/exemplos/` |
+| `memory/` (raiz) | `[F2] memory/` (fundido) |
+| `notion-configs/` | `scripts/notion/configs/` |
+| `config-patches/` | `scripts/patches/` |
 
 ---
 
-## Núcleo de Conteúdo (PARA)
+## Diretórios que NÃO se move (não mexer)
 
-| Caminho | O que é |
-|---|---|
-| `[F0] 0-Inbox/` | Captura bruta — o que chega sem filtro |
-| `[F1] 1-Permanentes/` | Referências, templates, arquivos fixos |
-| `[F1] 2-Literatura/` | Livros, cursos, materiais de estudo |
-| `[F1] 3-Daily/` | Notas diárias, pendências rápidas |
-| `[F1] 4-Pessoal/` | Vida pessoal de Jadielson (parede d'água) |
-| `[F1] 5-Frentes/` | Clientes e frentes ativas/standby |
-| `[F1] ESTUDOS/` | Cursos, aprendizados |
-| `[F1] PROJETOS/` | Projetos ativos e passados |
-| `[F1] TAREFAS/` | Tarefas avulsas |
-
----
-
-## Segundo Cérebro (Inteligência dos Agentes)
-
-| Caminho | O que é |
-|---|---|
-| `F2 memory/agents/` | Definições de agentes, prompts, personalidades |
-| `F2 memory/context/` | Contextos estratégicos, calendários, decisões |
-| `F2 memory/databases/` | Dados estruturados (JSON, mapeamentos) |
-| `F2 memory/decisions/` | Decisões registradas |
-| `F2 memory/inbox-externa/` | Capturas de fontes externas (áudio, transcrições) |
-| `F2 memory/outputs/` | **Entregáveis, relatórios, drafts.** Saída de agentes |
-| `F2 memory/projects/` | Memória de projetos (planos, pesquisas) |
-| `F2 memory/sessions/` | Logs de sessões |
-| `F2 memory/templates/` | **Templates canônicos** (arquivos raiz) |
-| `F2 memory/visualizations/` | Diagramas, mapas visuais |
-| `F2 memory/` (raiz) | Diários diários, MAPA, etc. |
-
----
-
-## Motor (Scripts)
-
-| Caminho | O que é |
-|---|---|
-| `scripts/` | Automacao geral |
-| `scripts/cockpit/` | Painéis HTML (cockpit, estudos) |
-| `scripts/cron-jobs/` | Configuração de crons |
-| `scripts/health/` | Health checks e guards (Tavily, integrações) |
-| `scripts/notion/` | Scripts Notion (incl. `configs/` com payloads JSON) |
-| `scripts/patches/` | Patches de config |
-| `scripts/setup/` | Scripts de setup |
-| `scripts/state/` | Estado operacional |
-| `scripts/sync/` | Sincronizadores (Notion → Calendar) |
-| `scripts/cloud/` | Cloud scripts |
-| `scripts/lib/` | Bibliotecas compartilhadas |
-
----
-
-## Habilidades (Skills)
-
-| Caminho | O que é |
-|---|---|
-| `skills/` | Módulos de habilidade dos agentes |
-| `skills/planejamento/` | Planejamento, execução, verificação |
-| `skills/operacional/` | Backup, commit, segurança, crons |
-| `skills/starter/` | Onboarding, bootstrap, wizards |
-| `skills/canais/` | Canais de comunicação |
-| `skills/cerebro/` | Gestão do segundo cérebro |
-| `skills/colheita/` | Colheita de outputs |
-| ... | Demais módulos |
-
----
-
-## Arquivo Morto e Backup
-
-| Caminho | O que é |
-|---|---|
-| `archive/` | Legado histórico, zips, exemplos |
-| `archive/_curso/` | Material didático do curso starter |
-| `archive/backups/` | Snapshots manuais antigos |
-| `archive/exemplos/` | Exemplos de configs de agentes |
-| `archive/cheatsheets-legacy-v1.0/` | Cheatsheets do starter v1.0 |
-| `archive/starter-kit-zips/` | Zips do starter kit |
-
----
-
-## Outros
-
-| Caminho | O que é |
-|---|---|
-| `vaults/segundo-cerebro-jadielson/` | Clone do vault GitHub (segundo cérebro) |
-| `agentes/` | Prompts e definições de agentes (mirrors) |
-| `Anexos/` | **consolidado em `F2 memory/Anexos/`** |
-| `entregaveis/` → `F2 memory/outputs/` | **Consolidado** |
-| `reports/` → `F2 memory/outputs/reports/` | **Consolidado** |
-| `templates/` → `F2 memory/templates/` | **Consolidado** |
-| `contextos/` → `F2 memory/context/` | **Consolidado** |
-| `calendarios/` → `F2 memory/context/calendarios/` | **Consolidado** |
-| `content/` → `F2 memory/outputs/` | **Consolidado** |
-| `pesquisa/` → `F2 memory/projects/pesquisa/` | **Consolidado** |
-| `projetos/` → `[F1] PROJETOS/` | **Consolidado** |
-| `producao/` → `F2 memory/outputs/` | **Consolidado** |
-| `notion-configs/` → `scripts/notion/configs/` | **Consolidado** |
-| `config-patches/` → `scripts/patches/` | **Consolidado** |
-| `_curso/` → `archive/_curso/` | **Consolidado** |
-| `backups/` → `archive/backups/` | **Consolidado** |
-| `exemplos/` → `archive/exemplos/` | **Consolidado** |
-| `memory/` → `F2 memory/` | **Consolidado** |
-
----
-
-## Regra para agentes
-
-> Se você não encontrar o que procura, **não invente**.  
-> Consulte `MAPA.md`, busque no `F2 memory/` ou diga "não consegui acessar".
+- `scripts/` — automação
+- `skills/` — habilidades dos agentes
+- `vaults/` — clone do repositório (sincronizado por cron, não editar diretamente)
