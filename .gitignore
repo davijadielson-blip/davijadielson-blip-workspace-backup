@@ -34,3 +34,9 @@ __pycache__/
 *.py[cod]
 tmp-*
 .github/workflows/
+# Symlinks sem colchetes (conveniência para agentes)
+/F0-Inbox
+/F2-memory
+/F2-agentes
+/F2-archive
+/F3-Projetos
