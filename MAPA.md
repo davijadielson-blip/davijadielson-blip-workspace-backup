@@ -108,7 +108,7 @@
 |---|---|
 | `vaults/segundo-cerebro-jadielson/` | Clone do vault GitHub (segundo cérebro) |
 | `agentes/` | Prompts e definições de agentes (mirrors) |
-| `Anexos/` | **(consolidado em `[F1] 1-Permanentes/Anexos/`)** |
+| `Anexos/` | **consolidado em `F2 memory/Anexos/`** |
 | `entregaveis/` → `F2 memory/outputs/` | **Consolidado** |
 | `reports/` → `F2 memory/outputs/reports/` | **Consolidado** |
 | `templates/` → `F2 memory/templates/` | **Consolidado** |
@@ -117,7 +117,7 @@
 | `content/` → `F2 memory/outputs/` | **Consolidado** |
 | `pesquisa/` → `F2 memory/projects/pesquisa/` | **Consolidado** |
 | `projetos/` → `[F1] PROJETOS/` | **Consolidado** |
-| `producao/` → `[F1] 5-Frentes/Logika-Creative/producao/` | **Consolidado** |
+| `producao/` → `F2 memory/outputs/` | **Consolidado** |
 | `notion-configs/` → `scripts/notion/configs/` | **Consolidado** |
 | `config-patches/` → `scripts/patches/` | **Consolidado** |
 | `_curso/` → `archive/_curso/` | **Consolidado** |
