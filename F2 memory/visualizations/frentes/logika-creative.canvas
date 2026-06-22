@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"logika-hub","type":"text","text":"# Lógika Creative\nAudiovisual · Empresa · Jadielson","x":0,"y":0,"width":280,"height":80,"color":"6"},
+		{"id":"logika-pasta","type":"file","file":"5-Frentes/Logika-Creative","x":-500,"y":-200,"width":240,"height":60,"color":"6"},
+		{"id":"logika-clientes","type":"text","text":"**Clientes**\n[a preencher]","x":400,"y":-250,"width":200,"height":80,"color":"6"},
+		{"id":"logika-projetos","type":"text","text":"**Projetos Ativos**\n[a preencher]","x":400,"y":-130,"width":200,"height":80,"color":"6"},
+		{"id":"logika-financeiro","type":"text","text":"**Financeiro**\nCustos · Despesas · Receitas","x":400,"y":-10,"width":200,"height":80,"color":"6"},
+		{"id":"logika-pipeline","type":"text","text":"**Pipeline Produção**\nideia → roteiro → captura → edição → revisão → publicado","x":-200,"y":180,"width":340,"height":80,"color":"0"},
+		{"id":"back-hub","type":"file","file":"[F2] claude/visualizations/Hub.md","x":-500,"y":200,"width":200,"height":50,"color":"0"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"logika-pasta","fromSide":"right","toNode":"logika-hub","toSide":"left"},
+		{"id":"e2","fromNode":"logika-hub","fromSide":"right","toNode":"logika-clientes","toSide":"left"},
+		{"id":"e3","fromNode":"logika-hub","fromSide":"right","toNode":"logika-projetos","toSide":"left"},
+		{"id":"e4","fromNode":"logika-hub","fromSide":"right","toNode":"logika-financeiro","toSide":"left"},
+		{"id":"e5","fromNode":"logika-hub","fromSide":"bottom","toNode":"logika-pipeline","toSide":"top"}
+	]
+}

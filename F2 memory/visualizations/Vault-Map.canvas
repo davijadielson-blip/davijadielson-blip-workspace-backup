@@ -1,0 +1,191 @@
+{
+  "nodes": [
+    {
+      "id": "hub",
+      "type": "file",
+      "file": "[F2] claude/visualizations/Hub.md",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "f0-inbox",
+      "type": "text",
+      "text": "## [F0] 0-Inbox\nCaptura rápida · staging",
+      "x": -700,
+      "y": -300,
+      "width": 220,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "f1-permanentes",
+      "type": "text",
+      "text": "## [F1] 1-Permanentes\nNotas atômicas autorais",
+      "x": -700,
+      "y": -180,
+      "width": 220,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "f1-literatura",
+      "type": "text",
+      "text": "## [F1] 2-Literatura\nLeituras · cursos · mentorias",
+      "x": -700,
+      "y": -60,
+      "width": 220,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "f1-daily",
+      "type": "text",
+      "text": "## [F1] 3-Daily\nDiário e pendentes",
+      "x": -700,
+      "y": 60,
+      "width": 220,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "f1-pessoal",
+      "type": "text",
+      "text": "## [F1] 4-Pessoal\nVida · família · finanças",
+      "x": -700,
+      "y": 180,
+      "width": 220,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "f1-frentes",
+      "type": "text",
+      "text": "## [F1] 5-Frentes\nTodo o trabalho externo",
+      "x": -700,
+      "y": 300,
+      "width": 220,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "f2-claude",
+      "type": "text",
+      "text": "## [F2] claude/\nCasa da IA — autonomia total",
+      "x": -700,
+      "y": 420,
+      "width": 220,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "frente-logika",
+      "type": "text",
+      "text": "**Lógika Creative**\nAudiovisual · Empresa",
+      "x": 400,
+      "y": -420,
+      "width": 200,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "frente-saude",
+      "type": "text",
+      "text": "**Saúde São Sebastião**\nSMS · PSFs · UBSs",
+      "x": 400,
+      "y": -310,
+      "width": 200,
+      "height": 70,
+      "color": "5"
+    },
+    {
+      "id": "frente-camara",
+      "type": "text",
+      "text": "**Câmara Municipal**\nVereadores · Plenário",
+      "x": 400,
+      "y": -200,
+      "width": 200,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "frente-sindss",
+      "type": "text",
+      "text": "**SINDSS**\nSindicato dos Servidores",
+      "x": 400,
+      "y": -90,
+      "width": 200,
+      "height": 70,
+      "color": "1"
+    },
+    {
+      "id": "frente-outros",
+      "type": "text",
+      "text": "**Outros Vereadores**\nJosi · Vando · Manoel",
+      "x": 400,
+      "y": 20,
+      "width": 200,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "frente-alem",
+      "type": "text",
+      "text": "**ALÉM DA FOTO**\nCanal documental",
+      "x": 400,
+      "y": 130,
+      "width": 200,
+      "height": 70,
+      "color": "4"
+    },
+    {
+      "id": "frente-lives",
+      "type": "text",
+      "text": "**Lives de Louvor**\nConteúdo gospel",
+      "x": 400,
+      "y": 240,
+      "width": 200,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "frente-rogerio",
+      "type": "text",
+      "text": "**Rogério Rocha** *(inativo)*\nVereador",
+      "x": 400,
+      "y": 350,
+      "width": 200,
+      "height": 70,
+      "color": "7"
+    },
+    {
+      "id": "legenda",
+      "type": "text",
+      "text": "### Legenda de Fluxos\n🟠 F0 — Inbox (captura)\n🟢 F1 — Cérebro do Jadielson\n🔵 F2 — Cérebro da IA\n\n**Regra de ouro:** IA é bibliotecária, nunca autora.",
+      "x": -400,
+      "y": 550,
+      "width": 340,
+      "height": 130,
+      "color": "0"
+    }
+  ],
+  "edges": [
+    { "id": "e-hub-logika", "fromNode": "hub", "fromSide": "right", "toNode": "frente-logika", "toSide": "left" },
+    { "id": "e-hub-saude", "fromNode": "hub", "fromSide": "right", "toNode": "frente-saude", "toSide": "left" },
+    { "id": "e-hub-camara", "fromNode": "hub", "fromSide": "right", "toNode": "frente-camara", "toSide": "left" },
+    { "id": "e-hub-sindss", "fromNode": "hub", "fromSide": "right", "toNode": "frente-sindss", "toSide": "left" },
+    { "id": "e-hub-outros", "fromNode": "hub", "fromSide": "right", "toNode": "frente-outros", "toSide": "left" },
+    { "id": "e-hub-alem", "fromNode": "hub", "fromSide": "right", "toNode": "frente-alem", "toSide": "left" },
+    { "id": "e-hub-lives", "fromNode": "hub", "fromSide": "right", "toNode": "frente-lives", "toSide": "left" },
+    { "id": "e-hub-rogerio", "fromNode": "hub", "fromSide": "right", "toNode": "frente-rogerio", "toSide": "left" },
+    { "id": "e-f0-hub", "fromNode": "f0-inbox", "fromSide": "right", "toNode": "hub", "toSide": "left" },
+    { "id": "e-f1p-hub", "fromNode": "f1-permanentes", "fromSide": "right", "toNode": "hub", "toSide": "left" },
+    { "id": "e-f1l-hub", "fromNode": "f1-literatura", "fromSide": "right", "toNode": "hub", "toSide": "left" },
+    { "id": "e-f1d-hub", "fromNode": "f1-daily", "fromSide": "right", "toNode": "hub", "toSide": "left" },
+    { "id": "e-f1pe-hub", "fromNode": "f1-pessoal", "fromSide": "right", "toNode": "hub", "toSide": "left" },
+    { "id": "e-f1fr-hub", "fromNode": "f1-frentes", "fromSide": "right", "toNode": "hub", "toSide": "left" },
+    { "id": "e-f2-hub", "fromNode": "f2-claude", "fromSide": "right", "toNode": "hub", "toSide": "left" }
+  ]
+}
