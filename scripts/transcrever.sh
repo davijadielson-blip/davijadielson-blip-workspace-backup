@@ -1,11 +1,13 @@
-#!/bin/bash
-# Transcreve áudio via OpenAI Whisper API e salva em [F2] memory/inbox-externa/audio/audio-transcricoes/
+#!/usr/bin/env bash
+# Transcreve áudio localmente via whisper-cpp (sem OpenAI API) e salva no vault.
 # Uso: bash scripts/transcrever.sh <caminho-do-audio>
 
 set -euo pipefail
 
 VAULT_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 AUDIO_FILE="${1:-}"
+MODEL="${WHISPER_MODEL:-/data/.openclaw/models/whisper/ggml-tiny.bin}"
+OUTPUT_DIR="$VAULT_ROOT/[F2] memory/inbox-externa/audio/audio-transcricoes"
 
 if [ -z "$AUDIO_FILE" ]; then
   echo "Uso: bash scripts/transcrever.sh <caminho-do-audio>"
@@ -18,73 +20,53 @@ if [ ! -f "$AUDIO_FILE" ]; then
   exit 1
 fi
 
-# Carrega OPENAI_API_KEY do ambiente ou do .env do workspace.
-if [ -z "${OPENAI_API_KEY:-}" ] && [ -f "$VAULT_ROOT/.env" ]; then
-  set -a
-  # shellcheck disable=SC1091
-  source "$VAULT_ROOT/.env"
-  set +a
-fi
-
-if [ -z "${OPENAI_API_KEY:-}" ]; then
-  echo "Erro: OPENAI_API_KEY não encontrado no ambiente nem em $VAULT_ROOT/.env"
+if ! command -v whisper-cli >/dev/null 2>&1; then
+  echo "Erro: whisper-cli não encontrado. Instale com: brew install whisper-cpp"
   exit 1
 fi
 
-if ! command -v curl >/dev/null 2>&1; then
-  echo "Erro: curl não encontrado."
+if ! command -v ffmpeg >/dev/null 2>&1; then
+  echo "Erro: ffmpeg não encontrado. Instale com: brew install ffmpeg"
+  exit 1
+fi
+
+if [ ! -s "$MODEL" ]; then
+  echo "Erro: modelo Whisper local não encontrado: $MODEL"
+  echo "Baixe, por exemplo:"
+  echo "  mkdir -p /data/.openclaw/models/whisper"
+  echo "  curl -L -o /data/.openclaw/models/whisper/ggml-tiny.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin"
   exit 1
 fi
 
 DATE=$(date +"%Y-%m-%d")
 TIME=$(date +"%H-%M")
 BASENAME=$(basename "$AUDIO_FILE" | sed 's/\.[^.]*$//' | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
-OUTPUT_DIR="$VAULT_ROOT/[F2] memory/inbox-externa/audio/audio-transcricoes"
-TEMP_JSON="/tmp/openai-whisper-$$.json"
 mkdir -p "$OUTPUT_DIR"
 
+RUN_USER="${USER:-$(id -un 2>/dev/null || echo openclaw)}"
+TMP_WAV="/tmp/transcrever-$RUN_USER-$$.wav"
+TMP_OUT="/tmp/transcrever-$RUN_USER-$$"
 cleanup() {
-  rm -f "$TEMP_JSON"
+  rm -f "$TMP_WAV" "$TMP_OUT.txt" "$TMP_OUT.log"
 }
 trap cleanup EXIT
 
-echo "Transcrevendo via OpenAI Whisper API: $AUDIO_FILE"
-echo "Modelo: whisper-1"
+echo "Transcrevendo localmente via whisper-cpp: $AUDIO_FILE"
+echo "Modelo: $MODEL"
 echo ""
 
-HTTP_CODE=$(curl -sS -w "%{http_code}" -o "$TEMP_JSON" \
-  https://api.openai.com/v1/audio/transcriptions \
-  -H "Authorization: Bearer $OPENAI_API_KEY" \
-  -F "file=@${AUDIO_FILE}" \
-  -F "model=whisper-1" \
-  -F "language=pt" \
-  -F "response_format=json")
-
-if [ "$HTTP_CODE" -lt 200 ] || [ "$HTTP_CODE" -ge 300 ]; then
-  echo "Erro: API OpenAI retornou HTTP $HTTP_CODE"
-  python3 - <<'PY' "$TEMP_JSON" 2>/dev/null || cat "$TEMP_JSON"
-import json,sys
-try:
-    data=json.load(open(sys.argv[1]))
-    err=data.get('error', data)
-    print(err.get('message', err) if isinstance(err, dict) else err)
-except Exception:
-    print(open(sys.argv[1]).read())
-PY
+ffmpeg -y -v error -i "$AUDIO_FILE" -ar 16000 -ac 1 -c:a pcm_s16le "$TMP_WAV"
+whisper-cli -m "$MODEL" -f "$TMP_WAV" -l pt -otxt -of "$TMP_OUT" >"$TMP_OUT.log" 2>&1 || {
+  echo "Erro ao transcrever com whisper-cpp:"
+  cat "$TMP_OUT.log"
   exit 1
-fi
+}
 
-TRANSCRICAO=$(python3 - <<'PY' "$TEMP_JSON"
-import json,sys
-with open(sys.argv[1], encoding='utf-8') as f:
-    data=json.load(f)
-print(data.get('text','').strip())
-PY
-)
+TRANSCRICAO=$(sed 's/[[:space:]]\+$//' "$TMP_OUT.txt" | sed '/^$/N;/^\n$/D')
 
 if [ -z "$TRANSCRICAO" ]; then
-  echo "Erro: API não retornou texto de transcrição."
-  cat "$TEMP_JSON"
+  echo "Erro: transcrição vazia. Log:"
+  cat "$TMP_OUT.log"
   exit 1
 fi
 
@@ -93,10 +75,10 @@ OUTPUT_FILE="$OUTPUT_DIR/${DATE}-${TIME}-${BASENAME}.md"
 cat > "$OUTPUT_FILE" << MARKDOWN
 ---
 tipo: inbox-externa
-fonte: audio-openai-whisper-api
+fonte: audio-whisper-cpp-local
 data: ${DATE}
 arquivo-original: $(basename "$AUDIO_FILE")
-modelo-whisper: whisper-1
+modelo-whisper: $(basename "$MODEL")
 idioma: portuguese
 frente: ""
 revisado: false
@@ -106,7 +88,7 @@ revisado: false
 
 **Data:** ${DATE} às $(date +"%H:%M")
 **Arquivo:** \`$(basename "$AUDIO_FILE")\`
-**Modelo:** OpenAI Whisper API — whisper-1
+**Modelo:** whisper-cpp local — \`$(basename "$MODEL")\`
 
 ---
 
