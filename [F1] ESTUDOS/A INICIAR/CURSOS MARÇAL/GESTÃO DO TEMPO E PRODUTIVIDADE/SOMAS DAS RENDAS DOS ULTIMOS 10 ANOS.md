@@ -1,0 +1,2 @@
+- MÉDIA DE VALORES = ?????
+- CONVERSÃO DE PATRIMONIO: CASA - ?????; MOTO - 12.000,00; 

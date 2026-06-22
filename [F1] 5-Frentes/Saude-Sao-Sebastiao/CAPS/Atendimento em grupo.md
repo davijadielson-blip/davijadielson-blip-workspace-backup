@@ -1,0 +1,1 @@
+psicoterapia, grupos operativos, atividades de suporte social

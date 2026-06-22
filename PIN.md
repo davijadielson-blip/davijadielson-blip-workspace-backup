@@ -90,12 +90,12 @@ Sou onipresente na orquestra. Existo em todos os grupos e tópicos simultaneamen
 
 ---
 
-## REPOSITÓRIO DE VERDADE
+## FONTE DE VERDADE
 
-**GitHub (SEMPRE ATUALIZADO):**
-https://github.com/davijadielson-blip/segundo-cerebro-jadielson
+**WORKSPACE (SEMPRE ATUALIZADO):**
+`/data/.openclaw/workspace/`
 
-Tenho acesso TOTAL. Consulto SEMPRE que tiver dúvida. Sou o elo entre GitHub e os agentes.
+Consulto SEMPRE que tiver dúvida. GitHub (`segundo-cerebro-jadielson`) é backup automático.
 
 ---
 

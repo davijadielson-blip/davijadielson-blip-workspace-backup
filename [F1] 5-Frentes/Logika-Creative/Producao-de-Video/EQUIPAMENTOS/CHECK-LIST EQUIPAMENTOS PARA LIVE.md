@@ -1,0 +1,82 @@
+
+1. NOTEBOOK 
+
+  
+
+- CARREGADOR 
+- BASE COOLER
+- TECLADO 
+- MOUSE
+
+  
+
+2. PLACA DE ÁUDIO + CABO USB
+
+  
+
+3. MESA DE CORTE (+PLACA DE CAPTURA caso necessite)
+
+  
+
+4. TRANSMISSOR SEM FIO DE VÍDEO 
+
+  
+
+- FONTE DE ALIMENTAÇÃO PRÓPRIA
+- BATERIAS NP-F970
+
+  
+
+5. MONITOR LCD + CABO VGA(caso necessite)
+
+  
+
+6. TRIPÉS
+
+  
+
+7. CABOS HDMI
+
+  
+
+8. NOBREAK
+
+  
+
+9. EXTENCÕES
+
+  
+
+10. CÂMERAS
+
+  
+
+11. CABO DE REDE RJ45
+
+  
+
+12. CABOS DE ÁUDIO
+
+  
+
+13. TV (p/ retorno de video)
+
+  
+
+14. SWEET DE REDE
+
+  
+
+15. CARREGADOR DE CELULAR
+
+  
+
+16. RÁDIO COMUNICADORES
+
+  
+
+17. CAIXA DE FERRAMENTAS
+
+  
+
+18. FITAS ADESIVAS - crepe, larga...

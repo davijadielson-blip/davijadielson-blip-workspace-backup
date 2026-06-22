@@ -1,0 +1,28 @@
+---
+{{FRONTMATTER_PRESERVADO}}
+ultimo_update: {{HOJE}}
+saude: 🟢 ativo
+proximo-review:
+---
+
+# {{TITULO_PROJETO}}
+
+> Status: {{STATUS_DA_PASTA}}
+> Última atualização: {{HOJE}}
+
+## 📌 O que é
+
+{{CONTEUDO_ORIGINAL}}
+
+## 🎯 Conexões
+
+- [[1-briefing]] — contexto e objetivo
+- [[2-pesquisas/_index]] — fontes e referências
+- [[3-dados/_index]] — tabelas, gráficos, métricas
+- [[4-decisoes/_index]] — decisões registradas
+- [[5-resumos-semanais/_index]] — evolução semana a semana
+- [[6-entregas/_index]] — outputs concretos
+- [[proximas-etapas]] — kanban das próximas ações
+
+---
+*Migrado pra estrutura padrão em {{HOJE}}*

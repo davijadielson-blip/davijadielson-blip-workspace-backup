@@ -1,18 +1,75 @@
-## 🗄️ Vault Central (Segundo Cérebro)
+## 🔐 Arquitetura — Fonte de Verdade Única
 
-**Repositório único:** https://github.com/davijadielson-blip/segundo-cerebro-jadielson
+**Regra fundamental:** O workspace (`/data/.openclaw/workspace/`) é a ÚNICA fonte de verdade.
 
-**Regra:** Todo conhecimento, contexto, decisão, aprendizado ou anotação que eu ou qualquer sub-agente meu gerar DEVE ser salvo neste vault. Nada fica solto. Nada em repositórios separados. Isso evita esquecimentos e alucinações entre sessões e agentes.
+- **Tudo** que agentes criam, decidem, aprendem ou anotam → workspace
+- **GitHub** (`https://github.com/davijadielson-blip/segundo-cerebro-jadielson`) é **backup apenas** — unidirecional
+- **Nunca** escrever direto no GitHub
+- **Nunca** consultar o GitHub como fonte primária
 
-**Orientações para sub-agentes:**
-- Sempre clonar/usar este vault como destino de escrita
-- Qualquer arquivo novo de conhecimento vai pra cá
-- Qualquer atualização de contexto vai pra cá
-- Se não souber onde salvar, salva aqui
+---
 
-**Data de registro:** 2026-06-18
-**Path local clonado:** `/data/.openclaw/segundo-cerebro-jadielson/`
-**Último clone:** 2026-06-18 (autenticado com GITHUB_TOKEN do .env)
+# 📌 Protocolo de Orquestração — Registrado em 2026-06-21
+
+**Regra fundamental:** LÔH é a ÚNICA camada de orquestração. Nenhum agente invoca ou simula outro agente.
+
+**Regras para TODOS os agentes:**
+1. 🚫 Sem simulação de agentes
+2. 🚫 Sem coordenação sem Lôh
+3. 📩 Pedidos de orquestração via: DM Lôh | tópico do agente
+4. 📖 Workspace é fonte primária única
+5. ✅ Checklist antes de responder
+
+---
+
+# 🆕 POLÍTICA DE HARMONIA ENTRE AGENTES — Registrada em 2026-06-21
+
+**Ativada por:** Jadielson (dono)
+**Natureza:** Mudança de política de orquestração
+
+## Princípio
+
+**LÔH CONECTA, NÃO BLOQUEIA.** Colaboração entre agentes corporativos é LIBERADA. Bloquear colaboração legítima é erro.
+
+## Perímetro Corporativo (Colaboração Livre)
+
+Qualquer agente corporativo PODE pedir ajuda a outro. Eu roteio:
+- CCO + operacionais → arte, motion, templates, identidade visual
+- CMO + operacionais → copy, performance, tendências
+- Bases Públicas & Dados → dados oficiais
+- Redes Sociais & Métricas → desempenho
+- CIO/Compliance → LGPD, exposição
+- CAIO → automação
+- C-Levels entre si, operacionais entre si, especializados com todos
+
+**Fluxo obrigatório:**
+1. Agente solicita ajuda
+2. LÔH roteia ao colega certo
+3. Colega EXECUTA e devolve resposta REAL
+4. LÔH entrega de volta
+
+**Proibido:** simular consulta a outro agente. Se precisa do CCO, vai ao CCO de verdade.
+
+## Perímetro Confidencial (Parede D'água — CONTINUA ISOLADO)
+
+- CENTRAL PESSOAL (9 agentes pessoais: Alfred, Warren, Arca, etc.)
+- Arquivos [F1] 4-Pessoal (isolados no workspace)
+- Dados financeiros/sigilosos pessoais de Jadielson
+- Dados protegidos de pacientes/clientes (validação humana necessária)
+
+**Dois sentidos:** Nada corporativo acessa o pessoal. Nada pessoal acessa o corporativo.
+
+## Teste Real (21/06/2026) ✅
+
+**Cenário:** SAÚDE → solicita identidade visual ao CCO para Julho Amarelo
+**Resultado:** ✅ Roteamento real executado. CCO respondeu com briefing completo (briefing-identidade-visual-julho-amarelo-2026.md).
+**Documento gerado:** `entregaveis/briefing-identidade-visual-julho-amarelo-2026.md`
+
+## O que é responsabilidade de Jadielson
+
+- Publicação de conteúdo institucional → validação humana
+- Guard-rails de cada cliente (Saúde, Câmara, SINDSS) → seguem acordados
+- Workspace como fonte de verdade → backup GitHub automático
 
 ---
 
@@ -341,3 +398,36 @@ Ação: CRO deve garantir que dados do CRM (notion) estejam consistentes com o q
 **Prompts:** `[F2] memory/agents/central-pessoal/`
 
 ---
+
+# 📦 Starter Kit v2.5.7 — Complementos Instalados em 2026-06-22
+
+**Origem:** `starter-kit-openclaw-v2.5.7.zip` (Pixel Educação)
+**Ação:** Migração de materiais complementares sem sobrescrita.
+
+## Estrutura adicionada
+
+| Caminho | Conteúdo | Natureza |
+|---|---|---|
+| `workspace/templates/` | 10 arquivos (7 .md + 3 .html) | Moldes canônicos de arquivos raiz + HTMLs de report |
+| `workspace/exemplos/` | 7 arquivos (Amora) | Exemplo preenchido de IDENTITY, USER, SOUL, AGENTS, MAPA, HEARTBEAT |
+| `workspace/archive/cheatsheets-legacy-v1.0/` | 10 cheatsheets | Legado v1.0 (memória, skills, multi-agente, etc.) |
+| `workspace/` raiz | 6 arquivos | README, FAQ, manifesto, CHANGELOG, MENSAGENS-TESTERS |
+
+**Impacto operacional:** Nenhum. Material de referência/consulta apenas.
+**Skills e agentes:** Não alterados.
+**Nada sobrescrito:** Arquivos preexistentes preservados.
+
+
+# 🟡 Frentes em Standby (Atualizado 2026-06-22)
+
+Agentes com prompt pronto mas NÃO ativados por decisão de Jadielson:
+
+| Agente | Frente | Motivo |
+|---|---|---|
+| @rogerio | Rogério Rocha (mandato vereador) | Pausa — sem atendimento no momento |
+| @vereadores | Josi Curtinhos, Vando da Cana Brava, Manoel do Gongo | Pausa — sem atendimento no momento |
+| @alem-da-foto | Canal documental | Pausa — sem atendimento no momento |
+| @lives-louvor | Lives gospel | Pausa — sem atendimento no momento |
+| @bibliotecaria | Organização do vault | Aguardando ativação |
+
+**Decisão registrada em:** `[F2] memory/context/decisoes/2026-06.md`

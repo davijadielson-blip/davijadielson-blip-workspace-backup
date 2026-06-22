@@ -1,0 +1,1 @@
+Valores: pessoas em primeiro lugar. Olhar com os olhos, ver com o coracao, enxergar com a alma.

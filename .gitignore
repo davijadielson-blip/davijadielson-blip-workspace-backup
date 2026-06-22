@@ -1,11 +1,36 @@
-.env
-.env.local
-.env.*.local
-*.key
-*.pem
-*-credentials.json
-.tmp-*
-tmp-*
-vaults/
-node_modules/
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/themes/
+
+# macOS
 .DS_Store
+._*
+
+# Logs de cron (não vão pro repo)
+scripts/cron-jobs/.logs/
+
+# Ambiente
+.env
+*.log
+
+# Temporários
+*.tmp
+*.bak
+scripts/.secrets/
+
+# Obsidian — arquivos sem título e lixeira
+.trash/
+Sem título*.canvas
+Sem título*.base
+
+# Obsidian — preferências de UI (não versionadas)
+.obsidian/hotkeys.json
+.obsidian/switcher.json
+
+# Python
+__pycache__/
+*.py[cod]
+tmp-*
+.github/workflows/

@@ -1,0 +1,1 @@
+**Atua nos casos de transtornos de deglutição e comunicação**

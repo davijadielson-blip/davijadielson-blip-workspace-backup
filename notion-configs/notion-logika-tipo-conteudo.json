@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "properties": [
+    "Data de publicação",
+    "Tipo de conteúdo",
+    "Origem",
+    "Gera conteúdo?",
+    "Observações",
+    "Briefing/Roteiro",
+    "Prioridade",
+    "Responsável",
+    "Entregas previstas",
+    "Criado em",
+    "Última edição",
+    "Data do evento",
+    "Tipo",
+    "Frente/Cliente",
+    "Arquivos/Links",
+    "Status",
+    "Plataforma",
+    "Nome"
+  ],
+  "tipo_conteudo_options": [
+    "Reels",
+    "Stories",
+    "Post estático",
+    "Carrossel",
+    "Vídeo institucional",
+    "Vídeo comercial",
+    "Cobertura",
+    "Fotos",
+    "Texto/Legenda",
+    "Outro"
+  ]
+}

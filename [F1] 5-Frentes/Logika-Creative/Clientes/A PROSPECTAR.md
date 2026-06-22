@@ -1,0 +1,6 @@
+- Coopagriss
+- Associação Tabuleiro 
+- Coca/Ipogras
+- Edjane Rocha
+- FRANCISCO EUZÉBIO - VEREADOR
+- VIVIANE PRIMA

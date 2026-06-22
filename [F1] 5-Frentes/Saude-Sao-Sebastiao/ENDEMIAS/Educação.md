@@ -1,0 +1,1 @@
+- Dengue, esquistossomose, Chagas, Animais peconhentos, Roedores

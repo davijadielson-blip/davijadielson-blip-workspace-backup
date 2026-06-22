@@ -1,0 +1,5 @@
+- MEDO DE PERDER A ESTABILIDADE 
+- Medo de possuir um carro - temendo perder a humildade, fidelidade, leal, sensibilidade,
+- MEDO DE TER QUE SAIR DA CIDADE, ESTADO OU PAÍS - e ter que ficar longe das pessoas que amo.
+- MEDO DE FICAR RICO - e perder tbm a humanidade
+- MEDO DE GRAVAR E APARECER EM VÍDEOS

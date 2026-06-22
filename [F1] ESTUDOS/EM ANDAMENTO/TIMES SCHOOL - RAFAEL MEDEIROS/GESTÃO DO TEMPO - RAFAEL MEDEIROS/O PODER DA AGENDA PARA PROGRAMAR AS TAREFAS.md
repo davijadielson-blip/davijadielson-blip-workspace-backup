@@ -1,0 +1,4 @@
+- Olhar os projetos todos os dias
+- nas tarefas colocar o movimento do projeto
+- Usar cores no Google Agenda que indiquem status
+- 

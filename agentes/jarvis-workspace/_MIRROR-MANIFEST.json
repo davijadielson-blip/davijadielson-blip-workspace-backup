@@ -1,0 +1,6 @@
+{
+  "source": "/data/.openclaw/workspace-jarvis",
+  "created_at_utc": "2026-06-21T20:30:33Z",
+  "policy": "safe mirror: no secrets, no .git, no node_modules, no media, no .env; origin workspace not deleted",
+  "files": []
+}

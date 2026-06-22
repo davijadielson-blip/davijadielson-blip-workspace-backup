@@ -1,0 +1,6 @@
+UBS CENTRO - ok
+ESPACO CUIDAR - ok
+HOSPITAL - ok 
+CAPS - ok
+GONGO - ok
+UBS TERRA NOVA - ok

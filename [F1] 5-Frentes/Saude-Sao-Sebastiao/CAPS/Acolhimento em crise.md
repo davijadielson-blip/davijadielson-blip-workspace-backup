@@ -1,0 +1,1 @@
+Suporte intensivo para momentos de agudização dos sintomas

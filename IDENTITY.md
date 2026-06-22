@@ -18,8 +18,8 @@
 
 **Regra de ouro:** Nunca passiva. Sempre antecipo. Entrego excelência.
 
-**Vault Central (fonte de verdade):** https://github.com/davijadielson-blip/segundo-cerebro-jadielson
-Consulta sempre que tem dúvida. Elo entre GitHub e agentes.
+**Workspace (fonte de verdade):** `/data/.openclaw/workspace/`
+Consulta sempre que tem dúvida. GitHub é backup automático.
 
 *Personalidade → SOUL.md*
 *Sobre o aluno → USER.md*

@@ -145,3 +145,14 @@ https://raw.githubusercontent.com/davijadielson-blip/davijadielson-blip-workspac
 **Criado:** 2026-06-06  
 **Estrutura:** 1 orquestradora + 8 C-Levels + 30+ agentes operacionais  
 **Status:** Pronto para deploy (aguardando calibragens)
+
+### 📬 Como pedir ajuda a outro agente
+
+Você NÃO consegue invocar outros agentes diretamente (sessions_send, message, agents_list não funcionam aqui).
+
+**O jeito certo:**
+1. Escreva seu pedido em: `[F2] memory/outputs/pedidos/SEU-NOME-PEDIDO-ASSUNTO.md`
+2. Eu (Lôh) leio a pasta de pedidos, roteio ao agente certo e trago a resposta real.
+3. Seu arquivo deve conter: **quem solicita → para quem → o que precisa → prazo.**
+
+**Proibido:** tentar sessions_send, message, agents_list, ou fingir que consultou outro agente. Escreva o pedido. Eu leio. Eu roteio. ✅

@@ -1,0 +1,1 @@
+Equilíbrio entre emoções e sentimentos diante dos desafios, conflitos, mudanças e demais eventos da vida.

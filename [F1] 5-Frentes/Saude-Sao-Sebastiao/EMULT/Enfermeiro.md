@@ -1,0 +1,1 @@
+**Coordena o cuidado, realiza procedimentos de enfermagem e supervisiona a equipe**

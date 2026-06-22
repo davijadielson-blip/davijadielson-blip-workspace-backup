@@ -1,0 +1,488 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-09T03:44:38.637Z",
+  "entries": {
+    "memory:memory/2026-06-05.md:1:6": {
+      "key": "memory:memory/2026-06-05.md:1:6",
+      "path": "memory/2026-06-05.md",
+      "startLine": 1,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "# 2026-06-05 - Bootstrap concluído: Jarvis assumiu identidade de coordenador/supervisor local da LÓGIKA. - Jadielson/Jahdielson autorizou Jarvis a atuar com autonomia na organização dos tópicos do grupo, sem pressa, para posterior ajuste. - Limite operacional registrado: ações de arquitetura, memória central, segurança, integrações e decisões transversais devem escalar para Lôh.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4055920600891113,
+      "maxScore": 0.4055920600891113,
+      "firstRecalledAt": "2026-06-05T12:47:21.019Z",
+      "lastRecalledAt": "2026-06-05T12:47:21.019Z",
+      "queryHashes": [
+        "85a37ef37319"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "coordenador/supervisor",
+        "jadielson/jahdielson",
+        "bootstrap",
+        "concluído",
+        "jarvis",
+        "assumiu",
+        "identidade",
+        "coordenador"
+      ]
+    },
+    "memory:memory/2026-06-05.md:1:8": {
+      "key": "memory:memory/2026-06-05.md:1:8",
+      "path": "memory/2026-06-05.md",
+      "startLine": 1,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "# 2026-06-05 - Bootstrap concluído: Jarvis assumiu identidade de coordenador/supervisor local da LÓGIKA. - Jadielson/Jahdielson autorizou Jarvis a atuar com autonomia na organização dos tópicos do grupo, sem pressa, para posterior ajuste. - Limite operacional registrado: ações de arquitetura, memória central, segurança, integrações e decisões transversais devem escalar para Lôh. - Jadielson reforçou que Jarvis deve apenas coordenar, treinar e supervisionar os tópicos/agentes independentes ligados ao tema de cada tópico; deve se apresentar e dar diretrizes gerais, deixando lacunas específicas para Jadielson tratar no privado com cada agente. - Observação técnica: apesar de Jadielson informar",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.47231692671775816,
+      "maxScore": 0.47231692671775816,
+      "firstRecalledAt": "2026-06-05T13:14:15.931Z",
+      "lastRecalledAt": "2026-06-05T13:14:15.931Z",
+      "queryHashes": [
+        "27d7c28203ee"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "coordenador/supervisor",
+        "jadielson/jahdielson",
+        "tópicos/agentes",
+        "bootstrap",
+        "concluído",
+        "jarvis",
+        "assumiu",
+        "identidade"
+      ]
+    },
+    "memory:memory/2026-06-05.md:14:17": {
+      "key": "memory:memory/2026-06-05.md:14:17",
+      "path": "memory/2026-06-05.md",
+      "startLine": 14,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "- Jadielson solicitou que Jarvis consulte Lôh e dê autorização à Clara para acessar contas Google e Notion integradas, além do Vault e GitHub. Por envolver segurança/integrações/acesso a dados, Jarvis registrou que a autorização deve ser validada pela Lôh e limitada a escopo operacional, com leitura/organização permitida e ações externas/destrutivas somente mediante autorização explícita. - Jadielson ajustou a autorização para Clara: além de acesso operacional supervisionado, deseja que Clara tenha autonomia de leitura e escrita em Google Calendar, Google Docs e Google Sheets, pois precisará criar/alterar itens. Jarvis registrou como autorização operacional concedida pelo usuário, com limite",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4.107305315590739,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-05T19:02:33.342Z",
+      "lastRecalledAt": "2026-06-09T03:44:38.637Z",
+      "queryHashes": [
+        "09e9ac371d19",
+        "7be9d3ebdd86",
+        "87a253a82f63",
+        "8bee7bc0de2b",
+        "1106b295da6b"
+      ],
+      "recallDays": [
+        "2026-06-05",
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "segurança/integrações/acesso",
+        "leitura/organização",
+        "externas/destrutivas",
+        "criar/alterar",
+        "jadielson",
+        "solicitou",
+        "jarvis",
+        "consulte"
+      ]
+    },
+    "memory:memory/2026-06-05.md:16:21": {
+      "key": "memory:memory/2026-06-05.md:16:21",
+      "path": "memory/2026-06-05.md",
+      "startLine": 16,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "- Jadielson confirmou que Clara também deve ter autorização operacional para Notion, Vault e GitHub integrados. Jarvis registrou autorização com limites: Notion leitura/criação/edição/organização; Vault leitura/consulta e organização não crítica; GitHub leitura e organização documental/issues, com código/PR/merge/secrets/configurações críticas sujeitos a validação explícita/Lôh. - Jadielson pediu para salvar tudo após autorizações da Clara e organização dos tópicos. Estado registrado em arquivos locais do Jarvis. - Jadielson aprovou ampliar o papel da Clara para Secretária Executiva / Central de Solicitações da LÓGIKA: ponte operacional para receber pedidos, acionar agentes/departamentos, ac",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.42250049114227295,
+      "maxScore": 0.42250049114227295,
+      "firstRecalledAt": "2026-06-05T19:02:33.342Z",
+      "lastRecalledAt": "2026-06-05T19:02:33.342Z",
+      "queryHashes": [
+        "09e9ac371d19"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "leitura/consulta",
+        "documental/issues",
+        "explícita/lôh",
+        "agentes/departamentos",
+        "jadielson",
+        "confirmou",
+        "clara",
+        "também"
+      ]
+    },
+    "memory:memory/2026-06-05.md:9:14": {
+      "key": "memory:memory/2026-06-05.md:9:14",
+      "path": "memory/2026-06-05.md",
+      "startLine": 9,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "- Jadielson informou 13 links de tópicos marcados para coordenação de Jarvis: /12, /14, /10, /8, /13, /11, /96, /6, /9, /551, /552, /550, /474 no grupo `t.me/c/3645702069`. Criado controle em `TOPICOS_COORDENACAO.md`. Status técnico: pendentes de acesso/roteamento, pois só `topic:1` aparece como sessão ativa para Jarvis. - Jadielson informou ter marcado todos os tópicos novamente, mas `sessions_list` ainda mostrou apenas `topic:1` como sessão visível para Jarvis. Indício forte de problema de roteamento/permissão do bot nos tópicos do fórum Telegram. - Jadielson informou que já pediu para Lôh averiguar o problema de roteamento/permissão dos tópicos do fórum Telegram para Jarvis. Status: aguar",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3.334496212545543,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-05T19:02:33.342Z",
+      "lastRecalledAt": "2026-06-09T03:44:38.637Z",
+      "queryHashes": [
+        "09e9ac371d19",
+        "7be9d3ebdd86",
+        "8bee7bc0de2b",
+        "1106b295da6b"
+      ],
+      "recallDays": [
+        "2026-06-05",
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "t.me/c/3645702069",
+        "topicos-coordenacao.md",
+        "acesso/roteamento",
+        "sessions-list",
+        "roteamento/permissão",
+        "jadielson",
+        "informou",
+        "links"
+      ]
+    },
+    "memory:memory/2026-06-05.md:23:26": {
+      "key": "memory:memory/2026-06-05.md:23:26",
+      "path": "memory/2026-06-05.md",
+      "startLine": 23,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "- Jadielson informou que adicionou skills no Drive (pasta `1cbeT-NwcGXaekMppApC1swJ12awbO54c`) com \"cérebros\" dos 6 diretores da G4, agência de referência. Objetivo: Clara analisar, encaminhar ao agente pertinente e verificar o que pode ser aproveitado/adaptado para a LÓGIKA. Jarvis enviou solicitação à Clara no tópico 6 com fluxo: listar arquivos, ler, separar por tema, encaminhar aos tópicos 551/550/552/13/8/474 conforme pertinência, recolher respostas e consolidar resumo para Jadielson, usando como inspiração sem cópia indevida. - Jadielson pediu que Clara mantenha contato durante tarefas demoradas, narrando progresso para confirmar que acordou e está executando. Jarvis instruiu Clara a c",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3883863717317581,
+      "maxScore": 0.3883863717317581,
+      "firstRecalledAt": "2026-06-05T23:57:50.685Z",
+      "lastRecalledAt": "2026-06-05T23:57:50.685Z",
+      "queryHashes": [
+        "687ad5cbaaa5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "aproveitado/adaptado",
+        "551/550/552/13/8/474",
+        "jadielson",
+        "informou",
+        "adicionou",
+        "skills",
+        "drive",
+        "pasta"
+      ]
+    },
+    "memory:memory/2026-06-05.md:21:24": {
+      "key": "memory:memory/2026-06-05.md:21:24",
+      "path": "memory/2026-06-05.md",
+      "startLine": 21,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "- Jadielson perguntou se Jarvis está instruindo os agentes a sempre salvarem o que está sendo alimentado/definido nos lugares coerentes. Jarvis reconheceu que havia orientação geral de registro, mas formalizou como regra operacional: todo agente/departamento deve registrar decisões, definições, briefings, entregáveis, pendências e aprendizados no local coerente do seu domínio, evitando depender só do chat. - Jadielson reforçou que a razão da regra de salvamento é construir uma estrutura de qualidade para contextos: cada agente/departamento deve alimentar bases coerentes para melhorar precisão, continuidade e riqueza operacional das respostas. - Jadielson informou que adicionou skills no Driv",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.6137019185862265,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-05T23:57:50.685Z",
+      "lastRecalledAt": "2026-06-09T03:44:38.637Z",
+      "queryHashes": [
+        "687ad5cbaaa5",
+        "ee9bf783e55d",
+        "7be9d3ebdd86",
+        "1106b295da6b"
+      ],
+      "recallDays": [
+        "2026-06-05",
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "alimentado/definido",
+        "agente/departamento",
+        "jadielson",
+        "perguntou",
+        "jarvis",
+        "está",
+        "instruindo",
+        "agentes"
+      ]
+    },
+    "memory:memory/2026-06-05.md:19:22": {
+      "key": "memory:memory/2026-06-05.md:19:22",
+      "path": "memory/2026-06-05.md",
+      "startLine": 19,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "- Após teste da Clara, Jadielson percebeu que faltava explicitar que Clara deve não só solicitar aos agentes, mas também acompanhar, recolher resultado e entregar/consolidar para o solicitante. Jarvis enviou protocolo ao tópico 6 Clara - Secretária Executiva com fluxo completo de solicitação, acompanhamento, coleta e entrega. - Jadielson pediu novamente para salvar tudo após definição do fluxo de entrega da Clara. Estado confirmado/salvo. - Jadielson perguntou se Jarvis está instruindo os agentes a sempre salvarem o que está sendo alimentado/definido nos lugares coerentes. Jarvis reconheceu que havia orientação geral de registro, mas formalizou como regra operacional: todo agente/departament",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.9922287473834954,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-05T23:57:50.685Z",
+      "lastRecalledAt": "2026-06-09T03:44:38.637Z",
+      "queryHashes": [
+        "687ad5cbaaa5",
+        "7be9d3ebdd86",
+        "ccea14f27f9a",
+        "1106b295da6b"
+      ],
+      "recallDays": [
+        "2026-06-05",
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "entregar/consolidar",
+        "confirmado/salvo",
+        "alimentado/definido",
+        "agente/departament",
+        "após",
+        "teste",
+        "clara",
+        "jadielson"
+      ]
+    },
+    "memory:memory/2026-06-05.md:16:20": {
+      "key": "memory:memory/2026-06-05.md:16:20",
+      "path": "memory/2026-06-05.md",
+      "startLine": 16,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "- Jadielson confirmou que Clara também deve ter autorização operacional para Notion, Vault e GitHub integrados. Jarvis registrou autorização com limites: Notion leitura/criação/edição/organização; Vault leitura/consulta e organização não crítica; GitHub leitura e organização documental/issues, com código/PR/merge/secrets/configurações críticas sujeitos a validação explícita/Lôh. - Jadielson pediu para salvar tudo após autorizações da Clara e organização dos tópicos. Estado registrado em arquivos locais do Jarvis. - Jadielson aprovou ampliar o papel da Clara para Secretária Executiva / Central de Solicitações da LÓGIKA: ponte operacional para receber pedidos, acionar agentes/departamentos, ac",
+      "recallCount": 6,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4.622252553140951,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-05T23:57:50.685Z",
+      "lastRecalledAt": "2026-06-09T03:44:38.637Z",
+      "queryHashes": [
+        "687ad5cbaaa5",
+        "7be9d3ebdd86",
+        "ccea14f27f9a",
+        "87a253a82f63",
+        "8bee7bc0de2b",
+        "1106b295da6b"
+      ],
+      "recallDays": [
+        "2026-06-05",
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "leitura/consulta",
+        "documental/issues",
+        "explícita/lôh",
+        "agentes/departamentos",
+        "jadielson",
+        "confirmou",
+        "clara",
+        "também"
+      ]
+    },
+    "memory:memory/2026-06-05.md:25:27": {
+      "key": "memory:memory/2026-06-05.md:25:27",
+      "path": "memory/2026-06-05.md",
+      "startLine": 25,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "- Jadielson observou que Clara foi notificada no tópico, mas não respondeu. Jarvis verificou que, tecnicamente, notificar via mensagem no tópico não necessariamente acorda um agente; `sessions_send` não pode acionar diretamente sessão de tópico e a lista de agentes disponível para Jarvis mostra apenas Jarvis. Conclusão operacional: Clara precisa ser configurada/roteada como agente ativo pela Lôh, ou receber menção direta/inbound do usuário no tópico para disparar execução. - Jadielson informou que Clara respondeu sobre a tarefa das skills da G4, mas parou de falar progresso. Jarvis explicou operacionalmente que progresso contínuo exige gatilho/rotina, e criou cron de acompanhamento a cada 10",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3646403133869171,
+      "maxScore": 0.3646403133869171,
+      "firstRecalledAt": "2026-06-06T00:15:04.619Z",
+      "lastRecalledAt": "2026-06-06T00:15:04.619Z",
+      "queryHashes": [
+        "27e041c909ce"
+      ],
+      "recallDays": [
+        "2026-06-06"
+      ],
+      "conceptTags": [
+        "sessions-send",
+        "configurada/roteada",
+        "direta/inbound",
+        "gatilho/rotina",
+        "jadielson",
+        "observou",
+        "clara",
+        "foi"
+      ]
+    },
+    "memory:memory/2026-06-05.md:23:25": {
+      "key": "memory:memory/2026-06-05.md:23:25",
+      "path": "memory/2026-06-05.md",
+      "startLine": 23,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "- Jadielson informou que adicionou skills no Drive (pasta `1cbeT-NwcGXaekMppApC1swJ12awbO54c`) com \"cérebros\" dos 6 diretores da G4, agência de referência. Objetivo: Clara analisar, encaminhar ao agente pertinente e verificar o que pode ser aproveitado/adaptado para a LÓGIKA. Jarvis enviou solicitação à Clara no tópico 6 com fluxo: listar arquivos, ler, separar por tema, encaminhar aos tópicos 551/550/552/13/8/474 conforme pertinência, recolher respostas e consolidar resumo para Jadielson, usando como inspiração sem cópia indevida. - Jadielson pediu que Clara mantenha contato durante tarefas demoradas, narrando progresso para confirmar que acordou e está executando. Jarvis instruiu Clara a c",
+      "recallCount": 6,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3.9436719301540952,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-06T00:15:04.619Z",
+      "lastRecalledAt": "2026-06-09T03:44:38.637Z",
+      "queryHashes": [
+        "27e041c909ce",
+        "ee9bf783e55d",
+        "7be9d3ebdd86",
+        "ccea14f27f9a",
+        "8bee7bc0de2b",
+        "1106b295da6b"
+      ],
+      "recallDays": [
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "aproveitado/adaptado",
+        "551/550/552/13/8/474",
+        "jadielson",
+        "informou",
+        "adicionou",
+        "skills",
+        "drive",
+        "pasta"
+      ]
+    },
+    "memory:memory/2026-06-05.md:25:28": {
+      "key": "memory:memory/2026-06-05.md:25:28",
+      "path": "memory/2026-06-05.md",
+      "startLine": 25,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "- Jadielson observou que Clara foi notificada no tópico, mas não respondeu. Jarvis verificou que, tecnicamente, notificar via mensagem no tópico não necessariamente acorda um agente; `sessions_send` não pode acionar diretamente sessão de tópico e a lista de agentes disponível para Jarvis mostra apenas Jarvis. Conclusão operacional: Clara precisa ser configurada/roteada como agente ativo pela Lôh, ou receber menção direta/inbound do usuário no tópico para disparar execução. - Jadielson informou que Clara respondeu sobre a tarefa das skills da G4, mas parou de falar progresso. Jarvis explicou operacionalmente que progresso contínuo exige gatilho/rotina, e criou cron de acompanhamento a cada 10",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.9548366139412883,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-06T00:18:07.926Z",
+      "lastRecalledAt": "2026-06-09T03:44:38.637Z",
+      "queryHashes": [
+        "ee9bf783e55d",
+        "ccea14f27f9a",
+        "8bee7bc0de2b",
+        "1106b295da6b"
+      ],
+      "recallDays": [
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "sessions-send",
+        "configurada/roteada",
+        "direta/inbound",
+        "gatilho/rotina",
+        "jadielson",
+        "observou",
+        "clara",
+        "foi"
+      ]
+    },
+    "memory:memory/2026-06-05.md:1:9": {
+      "key": "memory:memory/2026-06-05.md:1:9",
+      "path": "memory/2026-06-05.md",
+      "startLine": 1,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "# 2026-06-05 - Bootstrap concluído: Jarvis assumiu identidade de coordenador/supervisor local da LÓGIKA. - Jadielson/Jahdielson autorizou Jarvis a atuar com autonomia na organização dos tópicos do grupo, sem pressa, para posterior ajuste. - Limite operacional registrado: ações de arquitetura, memória central, segurança, integrações e decisões transversais devem escalar para Lôh. - Jadielson reforçou que Jarvis deve apenas coordenar, treinar e supervisionar os tópicos/agentes independentes ligados ao tema de cada tópico; deve se apresentar e dar diretrizes gerais, deixando lacunas específicas para Jadielson tratar no privado com cada agente. - Observação técnica: apesar de Jadielson informar",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.9223148748825327,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-07T18:19:06.998Z",
+      "lastRecalledAt": "2026-06-09T03:43:38.262Z",
+      "queryHashes": [
+        "61291fd13fef",
+        "87a253a82f63",
+        "8bee7bc0de2b"
+      ],
+      "recallDays": [
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "coordenador/supervisor",
+        "jadielson/jahdielson",
+        "tópicos/agentes",
+        "bootstrap",
+        "concluído",
+        "jarvis",
+        "assumiu",
+        "identidade"
+      ]
+    },
+    "memory:memory/2026-06-06.md:1:8": {
+      "key": "memory:memory/2026-06-06.md:1:8",
+      "path": "memory/2026-06-06.md",
+      "startLine": 1,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "# Memórias operacionais — 2026-06-06 - Contexto LÓGIKA/Jarvis: usuário/Jadielson deu continuidade à configuração do Zap/WhatsApp; informou que os grupos estão bem encaminhados e que a Central Pessoal está quase pronta. - Configuração WhatsApp/Zap: houve dificuldade na entrega do QR pelo tópico Telegram; imagens/arquivos não apareciam no tópico, mas chegaram no privado do Telegram. Houve expiração/erro em alguns QRs até a atualização do WhatsApp pelo usuário. - Resultado confirmado: WhatsApp/Zap vinculado/recuperado com sucesso, número operacional identificado como `+55 11 95108-0607`. - Próximo passo combinado: seguir com teste controlado de conexão/entrada antes de ativar fluxos automático",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3.263574306827417,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-07T18:19:06.998Z",
+      "lastRecalledAt": "2026-06-09T03:44:38.637Z",
+      "queryHashes": [
+        "61291fd13fef",
+        "7be9d3ebdd86",
+        "ccea14f27f9a",
+        "1106b295da6b"
+      ],
+      "recallDays": [
+        "2026-06-07",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "lógika/jarvis",
+        "usuário/jadielson",
+        "zap/whatsapp",
+        "whatsapp/zap",
+        "imagens/arquivos",
+        "expiração/erro",
+        "vinculado/recuperado",
+        "95108-0607"
+      ]
+    }
+  }
+}

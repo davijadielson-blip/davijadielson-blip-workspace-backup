@@ -1,0 +1,39 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash '/Users/servicepro/Library/CloudStorage/OneDrive-Pessoal(2)/01_PESSOAL/Obsidian Vault 4/MAPA OBSIDIAN/.claude/hooks/post-write.sh'"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash '/Users/servicepro/Library/CloudStorage/OneDrive-Pessoal(2)/01_PESSOAL/Obsidian Vault 4/MAPA OBSIDIAN/.claude/hooks/session-start.sh'"
+          },
+          {
+            "type": "command",
+            "command": "bash '/Users/servicepro/Library/CloudStorage/OneDrive-Pessoal(2)/01_PESSOAL/Obsidian Vault 4/MAPA OBSIDIAN/.claude/hooks/prompt-guard.sh'"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash '/Users/servicepro/Library/CloudStorage/OneDrive-Pessoal(2)/01_PESSOAL/Obsidian Vault 4/MAPA OBSIDIAN/.claude/hooks/session-log.sh'"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+ [Marcas e modelos de eletrônicos; Valor aproximado].

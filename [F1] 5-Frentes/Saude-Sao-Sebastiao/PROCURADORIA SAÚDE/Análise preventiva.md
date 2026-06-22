@@ -1,0 +1,1 @@
+**Orientação jurídica prévia para evitar problemas legais**

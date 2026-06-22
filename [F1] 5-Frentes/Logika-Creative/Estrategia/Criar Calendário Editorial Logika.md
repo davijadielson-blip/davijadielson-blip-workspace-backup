@@ -1,0 +1,1 @@
+Para criar conexão e autoridade com o público 

@@ -1,0 +1,1 @@
+Para criar autoridade e portfólio do que produzo e crio

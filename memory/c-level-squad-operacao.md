@@ -201,7 +201,7 @@ Os agentes **leem contexto do vault automaticamente**. Você alimenta, eles usam
 
 ### Como funciona
 
-Você coloca informação em `segundo-cerebro-jadielson` (GitHub), a Lôh sincroniza, e os agentes leem quando precisam.
+Você coloca informação no `workspace` (`/data/.openclaw/workspace/`). O GitHub recebe backup automático. Os agentes leem do workspace.
 
 ### O que colocar lá
 

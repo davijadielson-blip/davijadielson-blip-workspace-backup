@@ -1,0 +1,30 @@
+
+# INTELIGENCIA 
+
+- A CAPACIDADE DE ALCANCAR OBJETIVOS.
+- É JULGAR BEM, COMPREENDER BEM, RACIOCINAR BEM
+- A CAPACIDADE DE CONHECER, COMPREENDER E APRENDER ADAPTANDO-SE A NOVAS SITUACOES.
+- VELOCIDADE DE APRENDIZADO
+
+# IA PREDITIVA 
+
+- PREVER ALGO > algoritimo
+
+# IA GENERATIVA 
+
+- Criar algo > ex.: CHATGPT criando um texto no estilo de alguém; SUNO.AI criando uma música...
+## TIPOS
+
+- IMAGEM: MIJOURNEY, LEONARDO AI, DALL-E
+- ÁUDIO: SUNO.AI(musica), ELEVEM LABS (para vozes)
+- VIDEO: RUNWAY, SORA (openai)
+- TEXTO: CHATGPT, CLAUDE, GEMINI
+
+## PRINCIPIOS
+
+1. CONFIE, MAS VERIFIQUE
+2.  DIVIDA TAREFAS GRANDES
+3. EXPERIMENTE
+4. MANTENHA APENAS
+5. PENSO, LOGO CHUTO (imaginar a respostaantes) para não atrofiar o cérebro
+6. PREFIRA O INGLES(traduzir para ter respostas mais precisas; já que a IA foi construída através dessa língua)

@@ -1,0 +1,1 @@
+é desenvolvida por meio de atividades culturais, apredizagem, exercício da criatividade. Além dos livros, pode ser estimulada por filmes, peças teatrais, música e qualquer forma de arte e cultura que contribua com o pensamento.

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🧠 Cockpit Diretor — 22/06/2026</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #0f172a; color: #e2e8f0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; min-height: 100vh; }
+    .header { background: #1e293b; border-bottom: 1px solid #334155; padding: 16px 24px; display: flex; align-items: center; gap: 24px; }
+    .header-title { font-size: 1.1rem; font-weight: 700; color: #f8fafc; }
+    .header-date { color: #94a3b8; font-size: 0.9rem; }
+    .bloco-destaque { background: #6b2d8b; border: 2px solid #475569; border-radius: 10px; padding: 12px 20px; display: flex; flex-direction: column; margin-left: auto; text-align: right; }
+    .bloco-destaque .nome { font-size: 1.3rem; font-weight: 800; color: #f8fafc; }
+    .bloco-destaque .restante { font-size: 0.85rem; color: #cbd5e1; }
+    .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; padding: 20px; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
+    .card { background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 16px; }
+    .card h3 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: #64748b; margin-bottom: 12px; }
+    .bloco-item { padding: 6px 8px; border-radius: 6px; margin-bottom: 4px; font-size: 0.88rem; display: flex; align-items: center; gap: 8px; }
+    .bloco-hora { color: #64748b; font-size: 0.78rem; margin-left: auto; }
+    .bloco-done { background: #0f2417; color: #4ade80; }
+    .bloco-atual { background: #1d3a6e; color: #93c5fd; font-weight: 700; border: 1px solid #3b82f6; }
+    .bloco-futuro { background: #1e293b; color: #94a3b8; }
+    ul { list-style: none; padding: 0; }
+    ul li { padding: 6px 0; border-bottom: 1px solid #1e293b; font-size: 0.88rem; color: #cbd5e1; }
+    ul li:last-child { border-bottom: none; }
+    .footer { display: flex; gap: 16px; padding: 0 20px 20px; }
+    .indicator { flex: 1; background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 14px 16px; }
+    .indicator h4 { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: #64748b; margin-bottom: 6px; }
+    .indicator .valor { font-size: 1.1rem; font-weight: 700; color: #f8fafc; }
+    .indicator .sub { font-size: 0.8rem; color: #94a3b8; margin-top: 4px; }
+    .prog-bar { background: #334155; border-radius: 4px; height: 6px; margin-top: 8px; overflow: hidden; }
+    .prog-fill { height: 100%; border-radius: 4px; background: #3b82f6; }
+    .prog-fill.danger { background: #ef4444; }
+    .gerado { text-align: center; color: #334155; font-size: 0.75rem; padding: 8px; }
+    .agenda-html { font-size: 0.88rem; line-height: 1.6; color: #cbd5e1; }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <div class="header-title">🧠 Cockpit Diretor — Jadielson Davi</div>
+    <div class="header-date">Monday, 22/06/2026 · 13:53</div>
+  </div>
+  <div class="bloco-destaque">
+    <div class="nome">🟥 Tático</div>
+    <div class="restante">Restante: 4h07min</div>
+  </div>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>🕐 Hoje — Blocos</h3>
+    <div class="bloco-item bloco-done">✅ 🌅 <strong>Despertar</strong> <span class="bloco-hora">06h00–07h40</span></div>
+<div class="bloco-item bloco-done">✅ 🟦 <strong>Elite</strong> <span class="bloco-hora">07h40–11h30</span></div>
+<div class="bloco-item bloco-done">✅ 🍽️ <strong>Almoço</strong> <span class="bloco-hora">11h30–13h00</span></div>
+<div class="bloco-item bloco-atual">🔄 🟥 <strong>Tático</strong> <span class="bloco-hora">13h00–18h00</span></div>
+<div class="bloco-item bloco-futuro">⏳ 🌙 <strong>Ancoragem</strong> <span class="bloco-hora">18h00–21h00</span></div>
+<div class="bloco-item bloco-futuro">⏳ 😴 <strong>Sono</strong> <span class="bloco-hora">21h00–24h00</span></div>
+  </div>
+
+  <div class="card">
+    <h3>📅 Agenda</h3>
+    <div class="agenda-html"><i>⚠️ Erro ao buscar agenda</i></div>
+  </div>
+
+  <div class="card">
+    <h3>🔴 Pendências críticas</h3>
+    <ul><li><i>Nenhuma pendência crítica</i></li></ul>
+  </div>
+
+  <div class="card">
+    <h3>📌 Deadlines próximos</h3>
+    <ul><li><i>Nenhum deadline próximo</i></li></ul>
+  </div>
+
+  <div class="card" style="grid-column: span 2">
+    <h3>📚 Estudos em andamento</h3>
+    <div style="font-size:0.85rem;color:#64748b;font-style:italic">Nenhum estudo em andamento</div>
+  </div>
+
+  <div class="card" style="grid-column: span 2">
+    <h3>🎯 Projetos</h3>
+    
+      <div style="margin-bottom:10px">
+        <div style="font-size:0.72rem;color:#64748b;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:6px">Em andamento</div>
+        <div style="font-size:0.82rem;color:#64748b;font-style:italic">Nenhum em andamento — mova um projeto no COCKPIT</div>
+      </div>
+      <div style="font-size:0.72rem;color:#64748b;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:6px">A iniciar — por destino</div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px"></div>
+    
+  </div>
+
+</div>
+
+<div class="footer">
+
+  <div class="indicator">
+    <h4>⏱️ Horas institucionais (semana)</h4>
+    <div class="valor">— / 20h</div>
+    <div class="sub">SMS —h · SINDSS —h · Câmara —h</div>
+    <div class="prog-bar"><div class="prog-fill" style="width: 0%"></div></div>
+  </div>
+
+  <div class="indicator">
+    <h4>💰 Receita potencial Lógika</h4>
+    <div class="valor">R$ —</div>
+    <div class="sub">— horas × R$ 96/h</div>
+  </div>
+
+  <div class="indicator">
+    <h4>🌙 Ancoragem</h4>
+    <div class="valor"><span style='color:#94a3b8'>Ancoragem em 4h06min</span></div>
+    <div class="sub">Meta: 18h00 · Sono: 21h00</div>
+  </div>
+
+</div>
+
+<div class="gerado">Gerado em 13:53:57 · atualizar: rodar generate-cockpit.sh novamente</div>
+
+</body>
+</html>

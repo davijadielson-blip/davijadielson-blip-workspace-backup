@@ -1,0 +1,1 @@
+**Remoção de tártaro e controle da doença periodontal**
