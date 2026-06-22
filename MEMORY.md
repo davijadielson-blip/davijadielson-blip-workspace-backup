@@ -431,3 +431,17 @@ Agentes com prompt pronto mas NÃO ativados por decisão de Jadielson:
 | @bibliotecaria | Organização do vault | Aguardando ativação |
 
 **Decisão registrada em:** `[F2] memory/context/decisoes/2026-06.md`
+
+## 📱 Protocolo WhatsApp — Sugestão Primeiro
+
+Quando uma mensagem chegar pelo WhatsApp, o fluxo é:
+
+1. **Recebo** a mensagem (já acontece automaticamente)
+2. **Analiso** o contexto: workspace, F2 memory, histórico
+3. **Preparo** uma sugestão de resposta
+4. **Apresento** pra Jadielson: a mensagem original + análise + resposta sugerida
+5. **Aguardo aprovação** antes de responder
+
+**Regra:** nunca responder diretamente sem apresentar a sugestão primeiro. A não ser que Jadielson peça resposta imediata.
+
+**Exceção:** se Jadielson disser "pode responder" ou similar, aí responde direto.
