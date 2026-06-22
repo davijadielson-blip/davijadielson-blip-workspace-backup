@@ -325,7 +325,7 @@ Minhas notas autorais, reflexões e conceitos processados por mim.
 
 ### Fluxo 2 — Cérebro da IA (autonomia total)
 Tudo dentro de `[F2] memory/`. A IA cria, edita e deleta livremente aqui.
-**Subpastas principais:** `context/` · `sessions/` · `outputs/` · `agents/` · `databases/` · `templates/` · `visualizations/` · `research/`
+**Subpastas principais:** `context/` · `sessions/` · `outputs/` · `agents/` · `databases/` · `templates/` · `visualizations/` · `projects/` · `projects/pesquisa/`
 
 ### Fluxo 3 — Integração (a multiplicação)
 A IA lê o Fluxo 1 para contextualizar. Eu leio os outputs do Fluxo 2 para gerar novas ideias que viram notas minhas no Fluxo 1.
@@ -390,7 +390,7 @@ sintetizado-em: "[[1-Permanentes/nome-da-nota]]"
     ├── databases/         ← calendários, aniversariantes, regras
     ├── templates/         ← modelos reutilizáveis
     ├── visualizations/    ← Hub, Canvas, dashboards, diagramas
-    └── research/          ← pesquisas e referências
+    └── projects/          ← pesquisas, projetos rastreados, planos
 scripts/                   ← automações bash (brain-boot + cron-jobs)
 skills/                    ← workflows complexos portáveis (cerebro, rotina, salve, reindex, colheita)
 ```

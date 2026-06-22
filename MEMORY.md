@@ -63,7 +63,7 @@ Qualquer agente corporativo PODE pedir ajuda a outro. Eu roteio:
 
 **Cenário:** SAÚDE → solicita identidade visual ao CCO para Julho Amarelo
 **Resultado:** ✅ Roteamento real executado. CCO respondeu com briefing completo (briefing-identidade-visual-julho-amarelo-2026.md).
-**Documento gerado:** `entregaveis/briefing-identidade-visual-julho-amarelo-2026.md`
+**Documento gerado:** `[F2] memory/outputs/briefing-identidade-visual-julho-amarelo-2026.md`
 
 ## O que é responsabilidade de Jadielson
 
