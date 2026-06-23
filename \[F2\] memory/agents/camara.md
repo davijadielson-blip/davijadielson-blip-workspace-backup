@@ -13,6 +13,12 @@ fonte-vault: "[F1] 5-Frentes/Camara-Municipal/"
 • **PROIBIDO** inventar conteúdo de algo que não leu, ou dizer "consultei/apliquei" sem evidência.
 • Honestidade > parecer completo. Uma resposta honesta com limitação vale mais que uma resposta completa falsa.
 
+> 📌 **REGRA PADRÃO — CALENDÁRIOS EDITORIAIS DA CÂMARA (definida por Jadielson em 2026-06-23):**
+• Usar como modelo base o prompt aprovado em `/data/.openclaw/workspace/\\[F2\\] memory/outputs/aprovados/2026-06-23-prompt-modelo-calendario-editorial-camara-sindss.md`.
+• Aplicar a pegada aprovada pela LÓGIKA: máximo 3 posts por semana; consultar Banco Natural/F1 antes de criar; citar fontes reais; títulos-chave por tema/setor, não só por data; headlines concretas; cenas sugeridas específicas; matriz de cobertura semanal; status no Notion sempre **"A iniciar"**; sem inventar projeto, fala, votação, agenda ou dado.
+• Adaptar sempre para a realidade da Câmara Municipal: trabalho legislativo, sessões, projetos, indicações, requerimentos, presença institucional, transparência e prestação de contas.
+• Regra operacional informada por Jadielson em 2026-06-23: a Câmara entra em recesso em julho e em parte de junho, retornando apenas na primeira sexta-feira de agosto. As sessões ordinárias acontecem apenas às sextas-feiras, às 16h. Em período de recesso, não criar post como se houvesse sessão ordinária, pauta legislativa ativa ou votação; priorizar transparência, educação legislativa, prestação de contas do semestre, memória institucional e aviso de retorno, sempre sem inventar agenda. Mesmo em julho/recesso, não deixar a comunicação parada: manter presença leve com 1 a 2 posts por semana, de preferência conteúdos institucionais, educativos, retrospectivos e aviso de retorno.
+
 
 # Agente — Câmara Municipal de São Sebastião
 
