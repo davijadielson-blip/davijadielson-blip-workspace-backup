@@ -51,9 +51,9 @@ SKIP_STATUS = {"CANCELADO", "ABORTADO", "REPROVADO", "PUBLICADO"}
 # Para novo cliente: adicionar {"id": "...", "frente": "Nome", "color_id": "X"}
 # colorId Google Calendar: 9=Mirtilo · 5=Banana · 6=Tangerina · 11=Tomate
 DATABASES = [
-    {"id": "1d8207e6-f145-8153-99c1-f5ae2b4e4e23", "frente": "Saúde",  "color_id": "9"},   # Mirtilo
-    {"id": "52a83dbb-9d10-40b6-87c3-687013d92138", "frente": "Câmara", "color_id": "5"},   # Banana
-    {"id": "5ca1a34c-342b-406a-8c71-4b8b63e0a1f5", "frente": "SINDSS", "color_id": "6"},   # Tangerina
+    {"id": "375207e6-f145-8111-bba0-e132fd820542", "frente": "Saúde",  "color_id": "9"},   # Mirtilo — Produção & Agenda LÓGIKA
+    # {"id": "...", "frente": "Câmara", "color_id": "5"},   # Banana
+    # {"id": "...", "frente": "SINDSS", "color_id": "6"},   # Tangerina
     # {"id": "...", "frente": "...",    "color_id": "11"},  # Tomate   — outros clientes
 ]
 
@@ -92,96 +92,122 @@ def get_google_service():
 
 # ── Notion: buscar itens elegíveis ─────────────────────────────────────────────
 
-def _fetch_from_database(db):
-    import urllib.request
-    url = f"https://api.notion.com/v1/databases/{db['id']}/query"
+def _extract_item(page, frente, color_id):
+    props = page.get("properties", {})
+
+    status = (props.get("Status", {}).get("select") or {}).get("name", "")
+    if status in SKIP_STATUS:
+        return None
+
+    # Título: Nome (title field)
+    title_parts = props.get("Nome", {}).get("title", [])
+    title = "".join(t.get("plain_text", "") for t in title_parts).strip() or "(sem título)"
+
+    # Data de publicação
+    pub_date = (props.get("Data de publicação", {}).get("date") or {}).get("start")
+    if not pub_date:
+        return None
+
+    # Data do evento (com horário, opcional)
+    event_date_obj = props.get("Data do evento", {}).get("date") or {}
+    event_date = event_date_obj.get("start")
+
+    # Extras para descrição
+    plataformas  = [o.get("name","") for o in props.get("Plataforma", {}).get("multi_select", [])]
+    tipo_conteudo = [o.get("name","") for o in props.get("Tipo de conteúdo", {}).get("multi_select", [])]
+    entrega      = [o.get("name","") for o in props.get("Entregas previstas", {}).get("multi_select", [])]
+    obs          = props.get("Observações", {}).get("rich_text", [])
+    obs_text     = "".join(o.get("plain_text","") for o in obs)
+    cliente      = (props.get("Frente/Cliente", {}).get("select") or {}).get("name", "")
+    roteiro      = (props.get("Briefing/Roteiro", {}).get("rich_text") or [])
+    roteiro_text = "".join(t.get("plain_text","") for t in roteiro).strip()
+    tipo         = (props.get("Tipo", {}).get("select") or {}).get("name", "")
+    origem       = (props.get("Origem", {}).get("select") or {}).get("name", "")
+
+    description_parts = []
+    description_parts.append(f"Frente: {frente}")
+    if cliente and cliente != frente:
+        description_parts.append(f"Cliente: {cliente}")
+    if tipo:
+        description_parts.append(f"Tipo: {tipo}")
+    if origem:
+        description_parts.append(f"Origem: {origem}")
+    if plataformas:
+        description_parts.append(f"Plataforma: {', '.join(plataformas)}")
+    if tipo_conteudo:
+        description_parts.append(f"Tipo de conteúdo: {', '.join(tipo_conteudo)}")
+    if entrega:
+        description_parts.append(f"Entregas: {', '.join(entrega)}")
+    if status:
+        description_parts.append(f"Status: {status}")
+    if obs_text:
+        description_parts.append(f"Obs: {obs_text}")
+    if roteiro_text:
+        description_parts.append(f"\nRoteiro/Briefing:\n{roteiro_text}")
+    description_parts.append(f"\nNotion: https://notion.so/{page['id'].replace('-','')}")
+
+    return {
+        "notion_id": page["id"],
+        "title": title,
+        "pub_date": pub_date,
+        "event_date": event_date,
+        "description": "\n".join(description_parts),
+        "status": status,
+        "color_id": color_id,
+        "frente": frente,
+        "cliente": cliente,
+    }
+
+
+def _fetch_from_producao():
+    """Busca todos os itens com Data de publicação na Produção & Agenda."""
+    import urllib.request as ur
+    url = f"https://api.notion.com/v1/databases/{DATABASES[0]['id']}/query"
     payload = json.dumps({
         "filter": {
-            "property": "Data da Publicacao ",
+            "property": "Data de publicação",
             "date": {"is_not_empty": True}
         },
         "page_size": 100
     }).encode()
 
-    req = urllib.request.Request(url, data=payload, headers=notion_headers(), method="POST")
-    with urllib.request.urlopen(req) as resp:
+    req = ur.Request(url, data=payload, headers=notion_headers(), method="POST")
+    with ur.urlopen(req) as resp:
         data = json.loads(resp.read())
 
+    # Mapeia nomes de clientes → cor/frente
+    CLIENTE_MAP = {
+        "Secretaria de Saúde": {"frente": "Saúde", "color_id": "9"},
+        "Câmara":             {"frente": "Câmara", "color_id": "5"},
+        "SINDSS":             {"frente": "SINDSS", "color_id": "6"},
+    }
+    DEFAULT = {"frente": "LÓGIKA", "color_id": "7"}
+
     items = []
+    by_frente = {}
     for page in data.get("results", []):
         props = page.get("properties", {})
+        cliente = (props.get("Frente/Cliente", {}).get("select") or {}).get("name", "")
+        cfg = CLIENTE_MAP.get(cliente, DEFAULT)
+        item = _extract_item(page, cfg["frente"], cfg["color_id"])
+        if item:
+            items.append(item)
+            by_frente[cfg["frente"]] = by_frente.get(cfg["frente"], 0) + 1
 
-        status = (props.get("Status", {}).get("status") or {}).get("name", "")
-        if status in SKIP_STATUS:
-            continue
-
-        # Título: CRIATIVO (principal) → Linhas Editoriais → "(sem título)"
-        criativo = (props.get("CRIATIVO", {}).get("rich_text") or [])
-        criativo_text = "".join(t.get("plain_text", "") for t in criativo).strip()
-
-        title_parts = props.get("Linhas Editoriais ", {}).get("title", [])
-        linha_text = "".join(t.get("plain_text", "") for t in title_parts).strip()
-
-        title = criativo_text or linha_text or "(sem título)"
-
-        # Data de publicação
-        pub_date = (props.get("Data da Publicacao ", {}).get("date") or {}).get("start")
-        if not pub_date:
-            continue
-
-        # Data do evento (com horário, opcional)
-        event_date_obj = props.get("Data do Evento", {}).get("date") or {}
-        event_date = event_date_obj.get("start")
-
-        # Extras para descrição
-        plataformas  = [o.get("name","") for o in props.get("Plataforma ", {}).get("multi_select", [])]
-        formatos     = [o.get("name","") for o in props.get("Formato de Post", {}).get("multi_select", [])]
-        obs          = props.get("Observações", {}).get("rich_text", [])
-        obs_text     = "".join(o.get("plain_text","") for o in obs)
-        setor        = (props.get("SETOR", {}).get("rich_text") or [])
-        setor_text   = "".join(t.get("plain_text","") for t in setor).strip()
-        roteiro      = (props.get("ROTEIROS/BRIEFENG", {}).get("rich_text") or [])
-        roteiro_text = "".join(t.get("plain_text","") for t in roteiro).strip()
-
-        description_parts = []
-        description_parts.append(f"Frente: {db['frente']}")
-        if setor_text:
-            description_parts.append(f"Setor: {setor_text}")
-        if plataformas:
-            description_parts.append(f"Plataforma: {', '.join(plataformas)}")
-        if formatos:
-            description_parts.append(f"Formato: {', '.join(formatos)}")
-        if status:
-            description_parts.append(f"Status: {status}")
-        if obs_text:
-            description_parts.append(f"Obs: {obs_text}")
-        if roteiro_text:
-            description_parts.append(f"\nRoteiro/Briefing:\n{roteiro_text}")
-        description_parts.append(f"\nNotion: https://notion.so/{page['id'].replace('-','')}")
-
-        items.append({
-            "notion_id": page["id"],
-            "title": title,
-            "pub_date": pub_date,
-            "event_date": event_date,
-            "description": "\n".join(description_parts),
-            "status": status,
-            "color_id": db["color_id"],
-            "frente": db["frente"],
-        })
-
+    for f, count in sorted(by_frente.items()):
+        log(f"  ✅ {f}: {count} itens")
     return items
 
+
 def fetch_notion_items():
-    all_items = []
-    for db in DATABASES:
-        try:
-            items = _fetch_from_database(db)
-            log(f"  ✅ {db['frente']}: {len(items)} itens")
-            all_items.extend(items)
-        except Exception as e:
-            log(f"  ⚠️  Erro ao buscar {db['frente']}: {e}")
-    return all_items
+    log("📥 Buscando Produção & Agenda — LÓGIKA...")
+    try:
+        items = _fetch_from_producao()
+        log(f"✅ Total: {len(items)} itens elegíveis no Notion (Produção & Agenda)")
+        return items
+    except Exception as e:
+        log(f"  ⚠️  Erro ao buscar Produção & Agenda: {e}")
+        return []
 
 
 # ── Google Calendar: buscar eventos existentes do script ──────────────────────
@@ -267,7 +293,7 @@ def sync(service, items, mapping):
 # gcal_event_id e sincronizado são atualizados diretamente na página Notion.
 
 _CAPTURA_DB_ID = None  # carregado lazy de notion.env
-_CAPTURA_TIPOS_SYNC = {"Compromisso", "Reunião", "Gravação"}
+_CAPTURA_TIPOS_SYNC = {"Captura", "Compromisso"}
 _CAPTURA_COLOR = {"Compromisso": "11", "Reunião": "9", "Gravação": "5"}  # Tomate, Mirtilo, Banana
 
 
@@ -291,7 +317,8 @@ def _fetch_captura_items():
         "filter": {
             "and": [
                 {"property": "Data",   "date": {"is_not_empty": True}},
-                {"property": "Status", "select": {"does_not_equal": "Cancelado"}},
+                {"property": "Status de triagem", "select": {"does_not_equal": "Descartado"}},
+                {"property": "Status de triagem", "select": {"does_not_equal": "Arquivado"}},
             ]
         },
         "page_size": 100,
@@ -304,7 +331,7 @@ def _fetch_captura_items():
     items = []
     for page in data.get("results", []):
         props  = page.get("properties", {})
-        tipo   = (props.get("Tipo", {}).get("select") or {}).get("name", "")
+        tipo   = (props.get("Tipo de entrada", {}).get("select") or {}).get("name", "")
         if tipo not in _CAPTURA_TIPOS_SYNC:
             continue
 
@@ -318,12 +345,14 @@ def _fetch_captura_items():
         if not start:
             continue
 
-        # gcal_event_id já existente
-        gcal_parts = props.get("gcal_event_id", {}).get("rich_text", [])
-        gcal_id    = "".join(t.get("plain_text", "") for t in gcal_parts).strip()
+        # gcal_event_id — não existe no schema atual, sempre recria
+        gcal_id = ""
 
         # Frente
-        frente = (props.get("Frente", {}).get("select") or {}).get("name", "Geral")
+        frente = (props.get("Frente/Cliente", {}).get("select") or {}).get("name", "Geral")
+
+        # Status
+        status_triagem = (props.get("Status de triagem", {}).get("select") or {}).get("name", "")
 
         items.append({
             "notion_id": page["id"],
@@ -333,6 +362,7 @@ def _fetch_captura_items():
             "date_str":  start,
             "gcal_id":   gcal_id,
             "color_id":  _CAPTURA_COLOR.get(tipo, "11"),
+            "status":    status_triagem,
         })
     return items
 
@@ -377,7 +407,7 @@ def sync_captura(service):
         log(f"  ⚠️  Erro ao buscar Captura Geral: {e}")
         return 0, 0
 
-    created = updated = 0
+    created = updated = errors = 0
     for item in items:
         event_body = _build_captura_event(item)
         try:
@@ -390,12 +420,14 @@ def sync_captura(service):
                 result = service.events().insert(
                     calendarId=CALENDAR_ID, body=event_body
                 ).execute()
-                _update_notion_gcal(item["notion_id"], result["id"])
+                # Notion não tem campos gcal_event_id/sincronizado — pula atualização
+                # Se precisar no futuro, adicionar propriedades no banco Inbox.
                 created += 1
         except Exception as e:
             log(f"  ⚠️  Erro em '{item['title']}': {e}")
+            errors += 1
 
-    log(f"  ✅ Captura: {created} criados | {updated} atualizados")
+    log(f"  ✅ Captura: {created} criados | {updated} atualizados | {errors} erros")
     return created, updated
 
 
