@@ -1,11 +1,29 @@
-## 🔐 Arquitetura — Fonte de Verdade Única
+## 🔐 Arquitetura — Cofre / Fonte de Verdade Única
 
-**Regra fundamental:** O workspace (`/data/.openclaw/workspace/`) é a ÚNICA fonte de verdade.
+**Nome oficial:** a partir de 2026-06-25, o workspace principal passa a ser chamado de **Cofre**.
 
-- **Tudo** que agentes criam, decidem, aprendem ou anotam → workspace
+**Definição:** **Cofre** = workspace principal (`/data/.openclaw/workspace/`), onde fica o segundo cérebro operacional de Jadielson: contexto, decisões, memória, agentes, processos e materiais de trabalho.
+
+**Regra fundamental:** o **Cofre** (`/data/.openclaw/workspace/`) é a ÚNICA fonte de verdade primária.
+
+- **Tudo** que agentes criam, decidem, aprendem ou anotam → Cofre
 - **GitHub** (`https://github.com/davijadielson-blip/segundo-cerebro-jadielson`) é **backup apenas** — unidirecional
 - **Nunca** escrever direto no GitHub
 - **Nunca** consultar o GitHub como fonte primária
+
+## 🧭 Protocolo Infalível de Consulta — Cofre + Tavily
+
+**Ativado por Jadielson em 2026-06-25.**
+
+Para qualquer pedido, antes de responder, todo agente deve seguir esta ordem:
+
+1. **Consultar o Cofre primeiro** — buscar nos arquivos relevantes de `/data/.openclaw/workspace/` antes de formular a resposta.
+2. **Usar Tavily/Pesquisador quando precisar de informação externa, atualizada ou complementar** — especialmente quando o Cofre não tiver resposta suficiente, quando houver fatos mutáveis, notícias, referências de mercado, legislação, tendências ou dados que exigem validação externa.
+3. **Só buscar outras fontes depois** — navegador, web genérica, APIs, GitHub ou outras bases entram apenas se Cofre + Tavily não resolverem ou se a tarefa exigir uma fonte específica.
+4. **Nunca entregar resposta genérica sem lastro** — se não consultou, não finja. Consulte primeiro ou diga claramente que não conseguiu consultar.
+5. **Rodapé obrigatório de fontes** — ao final de respostas analíticas, estratégicas, operacionais ou informacionais, incluir uma linha curta: `Fonte: Cofre (...arquivo...), Tavily (...quando usado...), ou ferramenta específica`.
+
+**Objetivo:** tornar as respostas mais humanas, precisas, contextualizadas e profissionais — nunca amadoras ou genéricas.
 
 ---
 

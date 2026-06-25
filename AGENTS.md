@@ -117,6 +117,9 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 **Regra obrigatória para todos os agentes abaixo de mim:**
 
+> O workspace principal agora deve ser chamado de **COFRE**.
+> **Cofre = `/data/.openclaw/workspace/`**, a fonte de verdade primária do ecossistema.
+
 > Todo e qualquer conhecimento, contexto, decisão, aprendizado, anotação ou memorando gerado DEVE ser salvo no vault central do Jadielson:
 > **https://github.com/davijadielson-blip/segundo-cerebro-jadielson**
 
@@ -133,9 +136,12 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 ### ⚠️ REGRA COMPLEMENTAR — Consulta Obrigatória ao Vault
 
-> **Antes de responder QUALQUER coisa, você DEVE consultar o vault.**
-> Execute `git pull origin main` no vault local, leia os contextos relevantes da sua função, e SÓ ENTÃO responda.
-> Respostas genéricas sem lastro no vault NÃO são toleradas.
+> **Antes de responder QUALQUER coisa, você DEVE consultar o COFRE.**
+> Leia os contextos relevantes em `/data/.openclaw/workspace/` e SÓ ENTÃO responda.
+> Se precisar de informação externa, atualizada ou complementar, use o **Pesquisador/Tavily** depois do Cofre.
+> Busque outras fontes apenas quando Cofre + Tavily não forem suficientes ou quando a tarefa exigir uma fonte específica.
+> Respostas genéricas sem lastro no Cofre NÃO são toleradas.
+> Sempre informe no rodapé a fonte usada: `Fonte: Cofre (...), Tavily (...), ferramenta específica (...)`.
 > O arquivo `agentes/_MANDATORY.md` no vault contém as instruções completas.
 
 **Motivo:** Agentes estavam respondendo de forma genérica por não consultarem os contextos registrados. Esta regra elimina esse comportamento.
