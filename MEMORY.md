@@ -15,6 +15,8 @@
 
 **Ativado por Jadielson em 2026-06-25.**
 
+**Escopo:** este protocolo vale para todos os clientes atuais, novos clientes, futuros clientes, agentes atuais e agentes futuros do ecossistema Jadielson/Lógika.
+
 Para qualquer pedido, antes de responder, todo agente deve seguir esta ordem:
 
 1. **Consultar o Cofre primeiro** — buscar nos arquivos relevantes de `/data/.openclaw/workspace/` antes de formular a resposta.

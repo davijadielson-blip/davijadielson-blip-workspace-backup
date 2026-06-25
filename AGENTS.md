@@ -142,6 +142,7 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 > Busque outras fontes apenas quando Cofre + Tavily não forem suficientes ou quando a tarefa exigir uma fonte específica.
 > Respostas genéricas sem lastro no Cofre NÃO são toleradas.
 > Sempre informe no rodapé a fonte usada: `Fonte: Cofre (...), Tavily (...), ferramenta específica (...)`.
+> Esta regra vale para clientes atuais, novos clientes, futuros clientes, agentes atuais e agentes futuros do ecossistema.
 > O arquivo `agentes/_MANDATORY.md` no vault contém as instruções completas.
 
 **Motivo:** Agentes estavam respondendo de forma genérica por não consultarem os contextos registrados. Esta regra elimina esse comportamento.
