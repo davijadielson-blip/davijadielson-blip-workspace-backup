@@ -466,3 +466,13 @@ Quando uma mensagem chegar pelo WhatsApp, o fluxo é:
 **Regra:** nunca responder diretamente sem apresentar a sugestão primeiro. A não ser que Jadielson peça resposta imediata.
 
 **Exceção:** se Jadielson disser "pode responder" ou similar, aí responde direto.
+
+## Política oficial de prioridade de modelos dos agentes — 2026-06-26
+
+Sequência definida por Jadielson e obrigatória para todos os agentes:
+
+1. Primário: `openai-codex/gpt-5.5` (GPT-5.5 Codex)
+2. Fallback: `openrouter/deepseek/deepseek-v4-flash`
+3. Fallback: `openrouter/google/gemini-2.5-flash-lite`
+
+Esta prioridade deve ser respeitada tanto na configuração quanto nos prompts operacionais. Mudança de modelo fora dessa ordem exige autorização explícita de Jadielson via Lôh.
