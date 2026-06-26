@@ -1,0 +1,256 @@
+{
+  "createdAt": "2026-06-26T20:43Z",
+  "policy": {
+    "primary": "openai-codex/gpt-5.5",
+    "fallbacks": [
+      "openrouter/deepseek/deepseek-v4-flash",
+      "openrouter/google/gemini-2.5-flash-lite"
+    ]
+  },
+  "validation": {
+    "allConfigured": true,
+    "totalAgents": 20
+  },
+  "agents": [
+    {
+      "id": "main",
+      "name": "main",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "my-finance",
+      "name": "Warren",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "alfred",
+      "name": "Alfred",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "arca",
+      "name": "Arca",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "central-topic-agent",
+      "name": "Agente Temático da Central Pessoal",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "jarvis",
+      "name": "Jarvis",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "identidade-visao-futuro",
+      "name": "Identidade e Visão de Futuro",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "liberdade-lazer-ocio",
+      "name": "Liberdade, Lazer e Ócio Criativo",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "autoconhecimento",
+      "name": "Autoconhecimento",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "saude-corpo-energia",
+      "name": "Saúde, Corpo e Energia",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "familia-relacionamentos",
+      "name": "Família e Relacionamentos",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "espiritualidade-propositos",
+      "name": "Espiritualidade e Propósitos",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "caio",
+      "name": "CAIO",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "cro",
+      "name": "CRO",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "cco",
+      "name": "CCO",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "cmo",
+      "name": "CMO",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "coo",
+      "name": "COO",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "cto",
+      "name": "CTO",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "cfo",
+      "name": "CFO",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    },
+    {
+      "id": "cio",
+      "name": "CIO",
+      "model": {
+        "primary": "openai-codex/gpt-5.5",
+        "fallbacks": [
+          "openrouter/deepseek/deepseek-v4-flash",
+          "openrouter/google/gemini-2.5-flash-lite"
+        ]
+      },
+      "hasModelPriorityInPrompt": true
+    }
+  ]
+}
