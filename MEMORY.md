@@ -23,7 +23,8 @@ Para qualquer pedido, antes de responder, todo agente deve seguir esta ordem:
 2. **Usar Tavily/Pesquisador quando precisar de informação externa, atualizada ou complementar** — especialmente quando o Cofre não tiver resposta suficiente, quando houver fatos mutáveis, notícias, referências de mercado, legislação, tendências ou dados que exigem validação externa.
 3. **Só buscar outras fontes depois** — navegador, web genérica, APIs, GitHub ou outras bases entram apenas se Cofre + Tavily não resolverem ou se a tarefa exigir uma fonte específica.
 4. **Nunca entregar resposta genérica sem lastro** — se não consultou, não finja. Consulte primeiro ou diga claramente que não conseguiu consultar.
-5. **Rodapé obrigatório de fontes** — ao final de respostas analíticas, estratégicas, operacionais ou informacionais, incluir uma linha curta: `Fonte: Cofre (...arquivo...), Tavily (...quando usado...), ou ferramenta específica`.
+5. **Fallback obrigatório quando embeddings falharem** — erro de cota, rate limit ou indisponibilidade de `memory_search` NÃO autoriza pular o Cofre. O agente deve consultar por leitura direta: `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `[F1]`/`[F2]` relevantes, `find`, `grep/rg` e `read`. Se não encontrar, deve listar os caminhos verificados.
+6. **Rodapé obrigatório de fontes** — ao final de respostas analíticas, estratégicas, operacionais ou informacionais, incluir uma linha curta: `Fonte: Cofre (...arquivo...), Tavily (...quando usado...), ou ferramenta específica`.
 
 **Objetivo:** tornar as respostas mais humanas, precisas, contextualizadas e profissionais — nunca amadoras ou genéricas.
 

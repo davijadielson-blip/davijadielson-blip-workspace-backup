@@ -138,6 +138,8 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 > **Antes de responder QUALQUER coisa, você DEVE consultar o COFRE.**
 > Leia os contextos relevantes em `/data/.openclaw/workspace/` e SÓ ENTÃO responda.
+> **Indisponibilidade de busca semântica NÃO é desculpa para não consultar o Cofre.** Se `memory_search`/embeddings falhar por cota, rate limit ou erro técnico, faça fallback obrigatório por leitura direta: `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `[F1]`/`[F2]` relevantes, `find`, `grep/rg` e `read` nos arquivos mais prováveis. Só depois responda.
+> Se ainda assim não localizar a referência, diga: `Consultei o Cofre por busca direta, mas não encontrei o trecho específico`, e liste os arquivos/caminhos verificados. Nunca diga apenas que "não consegue acessar o Cofre" se os arquivos locais estão disponíveis.
 > Se precisar de informação externa, atualizada ou complementar, use o **Pesquisador/Tavily** depois do Cofre.
 > Busque outras fontes apenas quando Cofre + Tavily não forem suficientes ou quando a tarefa exigir uma fonte específica.
 > Respostas genéricas sem lastro no Cofre NÃO são toleradas.
