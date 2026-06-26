@@ -68,3 +68,5 @@ if(JSON.stringify(c)!==before){
 console.log(JSON.stringify({tavily:c.tools?.web?.search?.provider,notion:!!c.skills?.entries?.notion?.enabled,whisper:!!c.skills?.entries?.['openai-whisper']?.enabled},null,2));
 NODE
 openclaw config validate
+echo 'Sincronizando exec-policy sem sobrescrever agents...'
+openclaw exec-policy set --security=full --ask=off 2>/dev/null || true
