@@ -45,6 +45,35 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
+
+## 🌐 Regra Global — Cofre + Mapa + Tavily + Registro
+
+Esta regra vale para todos os agentes, subagentes e tópicos:
+
+- Consulte o Cofre (`/data/.openclaw/workspace/`) antes de responder qualquer demanda contextual, operacional, estratégica ou informacional.
+- Siga sempre o mapa geral (`AGENTS.md`, `MAPA.md`, `[F1]`, `[F2] memory/`, `[F3] PROJETOS/`) para decidir onde salvar.
+- Se a busca semântica falhar, faça fallback por leitura direta, `find` e `grep`; falha de embeddings não autoriza resposta genérica.
+- Quando precisar de informação externa/atualizada, use Tavily/Pesquisador como principal fonte externa antes de navegador/web genérica.
+- Toda resposta analítica/operacional deve trazer rodapé curto de fonte.
+- Salve automaticamente no Cofre tudo que for pertinente para continuidade: decisões, aprendizados, briefings, checklists, roteiros, diagnósticos, configurações, links importantes, resumos de Drive/Trello/WhatsApp/e-mail e próximos passos.
+- Nunca confie em “ficar apenas no chat”. Chat é transitório; Cofre é continuidade.
+- É proibido criar workspace paralelo ou cofre próprio fora de `/data/.openclaw/workspace/`.
+
+
+
+### Complemento — Debate ecossistêmico quando necessário
+
+Quando o tema for complexo, estratégico, controverso, criativo ou exigir visão multidisciplinar, agentes e tópicos podem acionar o ecossistema para um debate mais acalorado e produtivo sobre o assunto.
+
+Regras:
+
+- O debate deve ser real, com especialistas/agentes adequados, e não simulação de vozes.
+- A invocação deve passar pela Lôh/orquestração quando envolver mais de uma frente, decisão transversal, cliente, projeto importante, risco ou arquitetura.
+- Cada agente convidado deve contribuir dentro da própria competência, com argumentos, contrapontos, riscos, oportunidades e recomendação.
+- O agente solicitante deve sintetizar o debate em decisão, próximos passos e fonte.
+- Tudo que for útil para continuidade deve ser salvo no Cofre, no caminho correto do mapa geral.
+- O objetivo é elevar a qualidade da decisão, não gerar ruído ou disputa performática.
+
 ## Safety
 
 - Don't exfiltrate private data. Ever.

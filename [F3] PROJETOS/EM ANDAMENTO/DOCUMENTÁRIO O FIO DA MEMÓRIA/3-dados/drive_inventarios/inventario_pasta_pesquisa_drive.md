@@ -1,0 +1,32 @@
+# Inventário — pasta de pesquisa do Drive
+
+- 📁 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Artigo sobre as rendas de bilros de São Sebastião-AL.`  
+  - ID: `1a59_PR0c91w3zW7XUzMBmk-yF9tohrFt`  
+  - MIME: `application/vnd.google-apps.folder`
+- 📄 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Artigo sobre as rendas de bilros de São Sebastião-AL./RENDA DE BILRO O Patrimônio Imaterial do Município_260119_155256.pdf`  
+  - ID: `1QtyjqgVU_uA5NtlqY_BGIwnqpmr3Wz6E`  
+  - MIME: `application/pdf`
+- 📁 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Esta lista, foi disponibilizada pelo Sr. Levy Felix. Fez e foi parte do projeto da empresa Rio Doce. Favor, referenciar.`  
+  - ID: `1tOLTJpLOaCqAZtf1PUYdgEJRUG6TRKdv`  
+  - MIME: `application/vnd.google-apps.folder`
+- 📄 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Esta lista, foi disponibilizada pelo Sr. Levy Felix. Fez e foi parte do projeto da empresa Rio Doce. Favor, referenciar./CADASTRO DE ARTESAO_rendeiras de são sebastião de out 2025.pdf`  
+  - ID: `1zynNafsBeWrPdclPVA4vgZvuUF4hKGSf`  
+  - MIME: `application/pdf`
+- 📁 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Estudo recente, Renda de Bilros.`  
+  - ID: `1vNlZmbU3KwQnRELp0yAx_sE10QDirf2S`  
+  - MIME: `application/vnd.google-apps.folder`
+- 📄 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Estudo recente, Renda de Bilros./As tramas do lugar nos pontos da renda de Bilro-DISSERTAÇÃO-WILTON-PACHECO.pdf`  
+  - ID: `1LGjxChpNzxn5A7LOm-0uDIw6s3R9aT4u`  
+  - MIME: `application/pdf`
+- 📁 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Primeiro estudo disponibilizado a dominio público na internet site da Ufal.`  
+  - ID: `1-vb5NGKhkO0oon9XH1_oqq6teomqlrSQ`  
+  - MIME: `application/vnd.google-apps.folder`
+- 📄 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Primeiro estudo disponibilizado a dominio público na internet site da Ufal./A terra das rendas de Bilro - tradição, artesanato, economia e cultura em São Sebastião-AL-DISSERTAÇÃO-ROBSON DOS SANTOS ALMEIDA .pdf`  
+  - ID: `1yhwt0vvsY7aZdkg2xK0bFqbjxWegdyzu`  
+  - MIME: `application/pdf`
+- 📄 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/LINKS DE DOCUMENTARIOS JÁ FEITOS PARA REFERENCIAS`  
+  - ID: `1q1QkJnf-X4f_RPQ_4l7QxUJOE_GAbbZMYJTehL3iw0g`  
+  - MIME: `application/vnd.google-apps.document`
+- 📄 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/NOTA_PESQUISA_COMPLEMENTAR_GLOBAL_E_SALOME.md`  
+  - ID: `1kWiCTh3UUm9hHxCCvkFxLX07dBEYVlNp`  
+  - MIME: `text/markdown`

@@ -1,0 +1,3866 @@
+# A_terra_das_rendas_de_Bilro_-_tradicao_artesanato_economia_e_cultura_em_Sao_Sebastiao-AL-DISSERTACAO-ROBSON_DOS_SANTOS_A
+
+> Conversão operacional para leitura e análise do agente. Conferir paginação/trechos críticos no PDF original antes de citação final.
+
+## Página 1
+
+UNIVERSIDADE FEDERAL DE ALAGOAS 
+INSTITUTO DE GEOGRAFIA, DESENVOLVIMENTO E MEIO AMBIENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ROBSON DOS SANTOS ALMEIDA 
+ 
+ 
+ 
+ 
+ 
+ 
+A TERRA DAS RENDAS DE BILRO: TRADIÇÃO, ARTESANATO, ECONOMIA E 
+CULTURA EM SÃO SEBASTIÃO-AL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maceió 
+2020
+
+## Página 2
+
+Robson dos Santos Almeida 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Terra das Rendas de Bilro: Tradição, Artesanato, Economia e Cultura em São Sebastião-AL 
+ 
+Monografia apresentada como requisito parcial 
+para obtenção do grau de Licenciado em Geografia 
+da Universidade Federal de Alagoas - UFAL, 
+Campus A. C. Simões. 
+ 
+Orientadora: Profa. Dra. Marta da Silveira 
+Luedemann. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maceió 
+2020
+
+## Página 3
+
+A447t Almeida, Robson dos Santos. 
+A terra das rendas de Bilro : tradição, artesanato, economia e cultura em São 
+Sebastião-AL / Robson dos Santos Almeida. – 2020. 
+114 f. : il. : color. 
+ 
+Orientadora: Marta da Silveira Luedemann. 
+Monografia (Trabalho de Conclusão de Curso em Geografia: Licenciatura) – 
+Universidade Federal de Alagoas. Instituto de Geografia, Desenvolvimento e Meio 
+Ambiente. Maceió, 2020. 
+ 
+Bibliografia: f. 72-77. 
+Apêndices: 79-114. 
+ 
+1. Rendas de bilro - São Sebastião (AL). 2. Artesanato. 3. Economia local. 4. 
+Rendeiras e rendeiros. I. Título. 
+ 
+CDU: 911.3:746.22(813.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Catalogação na fonte 
+Universidade Federal de Alagoas 
+Biblioteca Central 
+Divisão de Tratamento Técnico 
+Bibliotecário: Marcelino de Carvalho Freitas Ne
+
+## Página 4
+
+Dedico este trabalho a  todas as rendeiras do 
+munícipio de São Sebastião – AL.
+
+## Página 5
+
+AGRADECIMENTOS 
+  
+ 
+Agradeço à minha mãe, Maria Vieira, pelos cuidados e pelos esforços que realiza para 
+que eu siga estudando. Ela, que não teve a chance de ser uma estudante, agora terá um filho 
+professor. Obrigado, meu anjo. 
+Sou grato aos outros membros da minha família, que de alguma forma contribuíram 
+para que eu chegasse até aqui. Obrigado, meu pai, João José, e meus cinco irmãos: Elizama, 
+Isaías, Miriam, Israel e Renildo. 
+Meu amor e reconhecimento ao meu namorado, Henrique Almeida, que há mais de 
+quatro anos me ajuda e me incentiva a seguir trilhando meu caminho. 
+Minha gratidão à Professora Doutora Marta Luedemann, que acolheu o meu projeto e 
+me ajudou a construí -lo, me ensinando, generosamente, a desenvolver da melhor forma essa 
+pesquisa. 
+Meu muito obrigado a todas as rendeir as que, com boa vontade, me receberam em 
+suas casas e me concederam entrevistas: Dona Julinha, Dona Susana, Dona Diva, Dona Iraci, 
+Dona Jeilza, Dona Josefa, Dona Zezé, Dona Vânia e Adaysa. E em especial à rendeira Dona 
+Zuza, que sempre me recebeu com carin ho e me encaminhou até as demais artesãs. Meu 
+agradecimento ao Hermano Jorge, filho de Dona Zuza, que me levou até as residências de 
+todas as rendeiras entrevistadas para esse trabalho. 
+Ao professor Cid Olival, que gentilmente me disponibilizou seu rico ma terial de 
+estudo para o desenvolvimento teórico deste trabalho, minha gratidão. 
+Sou feliz pela presença de grandes amigos durante essa longa jornada acadêmica, que 
+não termina aqui. Sem vocês tudo teria sido mais difícil. Obrigado, meus queridos 
+Dorgicleiton Santos, Sheylla Patrícia, Kahoma Freitas, Daniele Duarte, Kleyton Tavares, 
+Maiara Nunes, Zayanne Suica, Laís Gois, Ana Maria Aquino, Rose Lima, Adriana Leite, 
+Noemia Bito, Karine Pimental, Jadilza da Silva, Jéssica Conceição, Túlio Souza, João da 
+Hora, Deise Sâmara, Ana Paula Santos, Edilsa Oliveira, Tadea Carvalho, Jéssica Santana, 
+Barbara Diniz, Ana Maria Aquino, Rose Lima, Adriana Leite, Noemia Bito, Mônica 
+Marcelino, Juliana Fortunato, Poliana Clezia, Roselma Ribeiro, Pedro Damásio, Leandro 
+Fernandes, Glaucya Gomes, Sheyla Marina, Jéssika Danielle. São tantos e tantas e com 
+certeza, por erro humano, estou esquecendo de alguns e, por isso, perdão. 
+Minha gratulação aos queridos professores e professoras que me ensinaram tanto 
+dentro e fora da sala de au la: Gilcileide Rodrigues da Silva, Ana Paula Lopes da Silva, 
+Kleython de Araújo Monteiro, Kinsey Santos Pinto, Luciane Maranha de Oliveira Marisco, 
+Cirlene Jeane Santos e Santos, Jacqueline Praxedes de Almeida, Sinval Autran Mendes 
+Guimarães Junior, Nivaneide Alves de Melo Falcão e José Vicente Ferreira Neto. 
+Agradeço, também, Washington Gaia, Anderson Melo, Miguel Queiroz e Maria 
+Cristina, técnicos do IGDEMA. E por fim, sou muito agradecido a toda equipe de serviços 
+gerais, em especial, à Cícera Lourenço e Ana Paula Santos.
+
+## Página 6
+
+Numa noite de outono a madrasta deu um 
+serviço para cada uma das filhas. Disse à mais 
+velha para fazer renda, mandou a segunda 
+cerzir meias e Vasilisa, fiar. Depois apagou 
+todas as velas da casa, menos a que estava no 
+quarto onde as meninas trabalhavam. Por 
+algum tempo elas executaram suas tarefas 
+tranquilamente. Depois a vela  começou a 
+fumegar. Uma das irmãs postiças pegou uma 
+tesoura e fingiu aparar o pavio, mas o que de 
+fato fez, seguindo as ordens da mãe, foi apagar 
+a vela, como se por acidente. 
+“E agora, o que vamos fazer?” disseram as 
+irmãs postiças. “Não há luz na casa, e não 
+estamos nem perto de terminar nossos 
+serviços. Alguém tem que de correr à casa de 
+Baba Iaga para buscar fogo.” 
+“Eu não vou”, disse a moça que estava 
+cerzindo renda, “pois consigo ver com a luz de 
+meus bilros.”  
+Aleksandr Afanasev
+
+## Página 7
+
+RESUMO 
+ 
+Por conta de sua tradição artesanal, o município de São Sebastião -AL é conhecido como “A 
+terra das rendas de bilro”. Tomando como objeto de estudo as rendeiras salomeense s e a sua 
+espacialidade, este trabalho buscou responder, através de uma análise geográfica, o porquê, e, 
+principalmente, de que forma este espaço se perpetua até os dias de hoje como um importante 
+local de produção artesanal dentro do estado de Alagoas. Para isso, foram analisadas a história 
+e a formação de São Sebastião -AL e sua economia, assim como o desenvolvimento da renda 
+de bilro na Europa e como foi sua chegada ao Brasil. Através de uma pesquisa documental e 
+bibliográfica, foi traçado o percurso do a rtesanato, e, em especial, o artesanato de fios desde 
+sua origem e expansão, passando por seus períodos de crises e sua reação diante da Revolução 
+Industrial, até o presente momento, quando os artesãos estão amparados por leis e buscam 
+integração e desenvolvimento econômico por meio de uma atividade que faz parte do circuito 
+inferior da economia dos países subdesenvolvidos. Utilizando a pesquisa participante, foi 
+estabelecido relações comunicativas com as rendeiras de São Sebastião-AL e, por meio dessas 
+informações, traçou-se um perfil da produção de renda de bilro no município, observando os 
+materiais utilizados, o trabalho, a forma de organização, os produtos e a comercialização. Se 
+atentando a esse último quesito citado, este trabalho também se detém a re lação das rendeiras 
+salomeenses com sua principal compradora, a empresária Martha Medeiros. Além, foi 
+analisado as antigas e as novas formas de ensino e aprendizagem do ofício e qual a 
+importância dessa atividade na vida de quem a realiza. Dessa forma, o t rabalho traz um 
+panorama da realidade das rendeiras do munícipio de São Sebastião –AL, constatando que o 
+trabalho é feito quase predominantemente por mulheres com idade acima dos 50 anos - 
+grande parte delas já aposentadas -, e encontram na produção de rend a de bilros uma fonte 
+extra de economia. Um grupo de mulheres que se depara com a falta de incentivo, valorização 
+e questões de saúde, aspectos que levaram a uma diminuição de rendeiras ativas no município 
+e a uma preocupação da parte dessas que um dia a tradição acabe em São Sebastião-AL. 
+ 
+Palavras-chave:  São Sebastião-AL; Renda de Bilro – artesanato; Economia local.
+
+## Página 8
+
+ABSTRACT 
+ 
+Because of its artisanal tradition, the municipality of São Sebastião-AL is known as “The land 
+of bobbin lace”. Taking Salome's la cemakers and their spatiality as an object of study, this 
+work sought to answer, through a geographic analysis, why, and, mainly, how this space is 
+perpetuated until today as an important place of artisanal production within the state of 
+Alagoas. For this,  the history and formation of São Sebastião -AL and its economy were 
+analyzed, as well as the development of bobbin income in Europe and how it arrived in 
+Brazil. Through a documentary and bibliographic research, the path of handicrafts was traced, 
+and, in particular, the handicrafts of yarn since its origin and expansion, going through its 
+periods of crisis and its reaction to the Industrial Revolution, until the present moment, when 
+artisans are supported by laws and seek integration and economic developme nt through an 
+activity that is part of the lower circuit of the economy of underdeveloped countries. Using 
+participatory research, communicative relations were established with the lacemakers of São 
+Sebastião-AL and, through this information, a profile of the bobbin lace production in the 
+municipality was drawn up, observing the materials used, the work, the form of organization, 
+the products and marketing. Paying attention to that last mentioned item, this work also 
+addresses the relationship between Salom e lacemakers and their main buyer, businesswoman 
+Martha Medeiros. In addition, the old and new ways of teaching and learning the trade and the 
+importance of this activity in the lives of those who did it were analyzed. In this way, the 
+work provides an ove rview of the reality of the lacemakers in th e municipality of São 
+Sebastião-AL, noting that the work is done almost predominantly by women over the age of 
+50 - most of whom are already retired - and find it in income production bobbins an extra 
+source of s avings. A group of women who are faced with a lack of encouragement, 
+appreciation and health issues, aspects that led to a decrease in active lacemakers in the 
+municipality and a concern on the part of them that one day the tradition will end in São 
+Sebastião-AL. 
+ 
+Key words: São Sebastião-AL; Bobbin lace – crafts; Local economy.
+
+## Página 9
+
+LISTA DE FIGURAS 
+ 
+Figura 1 – Mapa Político Administrativo de São Sebastião - AL. ............................................ 16 
+Figura 2 – Almofadas de Renda de Bilros. ............................................................................... 24 
+Figura 3 – Papelão. ................................................................................................................... 25 
+Figura 4 – Bilro. ....................................................................................................................... 26 
+Figura 5 – Dona Zezé, rendeira de São Sebastião. ................................................................... 49 
+Figura 6: Rendeira  da zona rural trabalhando na maior peça de renda já feita em São 
+Sebastião-AL.............................................................................................................................51 
+Figura 7 – Peças do mostruário de rendeira de São Sebastião. ................................................ 53 
+Figura 8 – Aplicação 16cmx16cm de renda de bilro e Bilro. ................................................... 54 
+Figura 9 - Figura 8: Produtos Martha Medeiros Verão 2021 e seu valores.............................. 61 
+Figura 10 – As rendeiras salomeenses Vânia e Zuza durante evento na loja Martha Medei ros 
+trabalhando em São Paulo. ....................................................................................................... 63 
+Figura 11 – Rendeira Zuza trabalhando em sua residência. ..................................................... 65 
+Figura 12 - Escola de Rendeiras de São Sebastião, professora e alunas .................................. 68
+
+## Página 10
+
+LISTA DE ABREVIATURAS E SIGLAS 
+ 
+ABEST – ASSOCIAÇÃO BRASILEIRA DE ESTILISTAS. 
+AL – ALAGOAS. 
+BR - BRASIL 
+CEA – COORDENAÇÃO ESTADUAL DE ARTESANATO. 
+CEP – CÓDIGO DE ENDEREÇAMENTO POSTAL. 
+COPERBORDADOS – COOPERATIVA ARTESANAL DE BORDADOS DO SERTÃO 
+SERGIPANO LTDA. 
+CNPJ – CADASTRO NACIONAL DA PESSOA JURÍDICA. 
+FUNARTE – FUNDAÇÃO NACIONAL DE ARTES. 
+IBGE – INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. 
+MDF – MEDIUM DENSITY FIBERBOARD. 
+PAB – PROGRAMA DO ARTESANATO BRASILEIRO. 
+PIB – PRODUTO INTERNO BRUTO. 
+PNDA – PROGRAMA NACIONAL DE DESENVOLVIMENTO DO ARTESANATO. 
+PRÓ-SERTÃO – PROJETO DE APOIO ÀS FAMÍLIAS DE BAIXA RENDA DA REGIÃO 
+SEMIÁRIDA. 
+RPV – REGISTRO DO PATRIMÔNIO VIVO. 
+SEBRAE – SERVIÇO BRASILEIRO DE APOIO ÁS MICRO E PEQUENAS EMPRESAS. 
+SEI – SISTEMA ELETRÔNICO DE INFORMAÇÕES. 
+SENAC – SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL. 
+SICAB – SISTEMA DE INFORMAÇÕES CADASTRAIS DO ARTESANATO 
+BRASILEIRO.
+
+## Página 11
+
+SUMÁRIO 
+ 
+INTRODUÇÃO ...................................................................................................................... 14 
+CAPÍTULO I - SÃO SEBASTIÃO-AL E A RENDA DE BILROS .................................... 16 
+1.1 O Município de São Sebastião-AL ..................................................................................... 16 
+1.1.2 História e Formação do Município de São Sebastião-AL ............................................... 16 
+1.1.3 A Economia de São Sebastião-AL ................................................................................... 17 
+1.2 A Renda de Bilro ................................................................................................................ 21 
+CAPÍTULO II - A QUESTÃO DO ARTESANATO NO BRASIL: ECO NOMIA, 
+POLÍTICA E ASSISTÊNCIA ............................................................................................... 29 
+2.1 Artesanato: História, Desenvolvimento e Assistência no Brasil ........................................ 29 
+2.1.1 História e Evolução do Artesanato .............. ................................................................... 30 
+2.1.2 O artesanato de renda no Brasil: desenvolvimento e proibições......... ............................ 31 
+2.1.3 O Artesanal diante da Revolução Industrial......... ........................................................... 32 
+2.1.4 Caminhos para uma assistência ao artesão brasileiro............... ....................................... 34 
+2.1.5 O Programa do Artesanato Brasileiro – PAB......... ......................................................... 36 
+2.2 Artesanato e Economia.......... ............................................................................................. 42 
+CAPÍTULO III - A PRODUÇÃO DE RENDA DE BILRO NO MUNICÍPIO DE SÃO 
+SEBASTIÃO/AL.....................................................................................................................47  
+3.1 Perfil da Produção de Renda de Bilro em São Sebastião-AL... ......................................... 47 
+3.1.1 Materiais utilizados na feitura de renda de bilro em São Sebastião. ............................... 47 
+3.1.2 O Tempo de Trabalho dedicado ao artesanato de renda de bilro.................... ................. 49 
+3.1.3 Principais características dos produtos de renda de bilro feitos em São Sebastião-AL .. 50 
+3.1.4 A quantidade produzida no local e os valores no mercado consumidor .......................... 52 
+3.1.5 Formas de organização coletiva das rendeiras de São Sebastião .................................... 55 
+3.2 A renda de bilro como fonte de rendimento para as artesãs salomeenses .......................... 56 
+3.3 Auxílio, assistência e incentivos às rendeiras de São Sebastião ......................................... 57 
+3.4 A relação entre Martha Medeiros e as rendeiras de São Sebastião-AL.............. ................ 59 
+3.5 A importância da renda de bilro na vida das rendeiras salomeenses e para o municíp io de 
+São Sebastião ......... .................................................................................................................. 64 
+3.6 O ensino e aprendizagem do ofício de rendeira de bilro em São Sebastião-AL......... ....... 66 
+CONSIDERAÇÕES FINAIS ............................................................................................... 70  
+REFERÊNCIAS BILIOGRAFICAS.................................................................................... 72 
+APÊNDICE A ........................................................................................................................ 78
+
+## Página 12
+
+
+
+## Página 13
+
+14 
+ 
+INTRODUÇÃO 
+ 
+A ampla exposição midiática do produto de moda feito com rendas nordestinas - 
+principalmente por conta do sucesso da estilista Martha Medeiros -, me levou a refletir sobre as 
+artesãs que produzem renda em Alagoas. As rendeiras, que poderiam ser as protagonistas nesse 
+novo cenário de valorização do produto feito à mão - já que são das mãos destas que saem a 
+matéria-prima para confecção de vestuário -, são figuras que permanecem v eladas no cenário 
+nacional e por essa razão, antes de tudo, esse é um estudo que tem por finalidade dar 
+visibilidade às rendeiras. 
+Tomando como objeto de estudo as rendeiras e a sua espacialidade - o munícipio de 
+São Sebastião no agreste alagoano, um local  conhecido como “A terra das rendas de bilro” -, 
+esta pesquisa teve como objetivo buscar responder, através de uma análise geográfica, o porquê 
+da tradição de fazer rendas de bilro ter se desenvolvido e permanecido em São Sebastião, este 
+espaço que se perpe tua até os dias de hoje como um importante local de produção artesanal 
+dentro do estado de Alagoas. O estudo também se dedicou a questionar quais os fatores 
+socioeconômicos que levaram e levam uma parte das mulheres salomeenses a se dedicarem a 
+esse ofício como uma mercadoria. Além disso, o trabalho tenta responder como a produção de 
+renda em São Sebastião se tornou uma marca de identidade local passível de ser explorada 
+economicamente e de quais formas o Estado pode auxiliar na promoção do desenvolvimento do 
+artesanato local através de leis e políticas de incentivo. 
+Para o referencial teórico, realizado através de levantamento de dados e bibliográfico, 
+foram utilizados principalmente os seguintes autores: Saul Martins (1973), com seu livro 
+“Contribuição ao Estudo Científico do Artesanato”, que apresenta toda a trajetória histórica do 
+artesanato, suas muitas fases e alguns caminhos para a preservação e desenvolvido da 
+atividade; Isa Maia (1986), estudiosa responsável pelo conteúdo da publicação da FUNARTE 
+intitulada “Artesanato brasileiro: rendas”, texto que apresenta a história e as características das 
+rendas produzidas no Brasil, mostrando inclusive os espaços geográficos onde são feitas; e 
+Milton Santos (1979), que com seu trabalho “O espaço dividido: Os do is circuitos da economia 
+urbana dos países subdesenvolvidos”, trata dos processos de modernizações e das 
+características do circuito inferior, do qual o artesanato faz parte enquanto atividade de 
+produção não-“capital intensivo”, com serviços e comércio não modernos. 
+Como metodologia para análise e desenvolvimento de conteúdo do objeto principal de 
+estudo, utilizou-se uma pesquisa participante, ou seja, aquela que segundo Thiollento (1986, p.
+
+## Página 14
+
+15 
+ 
+15) é “um tipo de pesquisa baseado numa metodologia de observação  participante na qual os 
+pesquisadores estabelecem relações comunicativas com pessoas ou grupos da situação 
+investigada”. Para o desenvolvimento dessa pesquisa foi testemunhado o local de produção, 
+observando e entrevistando seus agentes protagonistas dete ntores de conhecimento empírico, 
+no caso, as rendeiras da zona urbana de São Sebastião. 
+O primeiro capítulo do trabalho é dividido em duas partes. A primeira delas traz um 
+levantamento histórico e geográfico do município de São Sebastião. Neste exame, veri fica-se 
+sua origem e seu processo de emancipação, assim como o crescimento da população, as 
+condições de vida de seu povo e as principais atividades geradoras da economia local. A 
+segunda parte se debruça sobre a história do artesanato de renda de bilro, s ua origem italiana e 
+os caminhos que as trouxeram até o nordeste do Brasil. Além disso, as características desse tipo 
+de renda e os elementos que a diferencia das demais é explorado neste momento da 
+monografia. 
+O segundo capítulo propõe realizar um panoram a da seara artesanal no Brasil, 
+trazendo um histórico do desenvolvimento da atividade em nossas terras e também o longo 
+caminho percorrido para que o trabalhador artesão possa desenvolver suas atividades de forma 
+assegurada e dispondo de assistência do Est ado através de leis e programas. O capítulo ainda 
+apresenta um diálogo entre artesanato e economia, buscando mostrar formas úteis de 
+aproveitamento dessa manifestação cultural para o cenário econômico de uma região. 
+Por fim, o último capítulo faz um retrat o da produção de renda de bilro no município 
+de São Sebastião, mostrando todos os processos da feitura dessa renda, as principais 
+características dos produtos, as formas de organização coletiva e o faturamento econômico 
+gerado a partir desse trabalho. Além  disso, o estudo apresenta as formas de ensino e 
+aprendizagem do ofício e o contraste entre a importância da atividade na vida diária das 
+rendeiras e a desvalorização desse trabalho por parte da população e dos representantes na 
+esfera administrativa do município.
+
+## Página 15
+
+16 
+ 
+CAPÍTULO I – SÃO SEBASTIÃO-AL E A RENDA DE BILROS 
+ 
+ 
+1.1 - O município de São Sebastião – AL 
+ 
+ 
+O município alagoano de São Sebastião está localizado na atual microrregião de 
+Arapiraca e na mesorregião do Agreste Alagoano. Com seu relevo dis secado, possui uma área 
+de 315,167 km² (IBGE, 2018). Sua proximidade com Arapiraca, cerca de 27km, segunda maior 
+cidade do estado e sua localização na parte central do estado, traz à São Sebastião um papel de 
+importância significativa no que diz respeito a  movimentação em seu entroncamento, já que é 
+cortado pelas rodovias: rodovia federal BR -101, que atravessa o país, desde Rio Grande do 
+Norte ao Rio Grande do Sul; e rodovia estadual AL -110, rodovia longitudinal que liga o 
+município de Colônia Leopoldina à São Sebastião, através de 194 km de extensão pelo estado 
+de Alagoas. O município fica distante 130 km de Maceió, a capital do estado, e seus limites de 
+fronteira são: ao norte, Arapiraca e Junqueiro, ao sul, Igreja Nova e Penedo, a leste, Junqueiro e 
+Teotônio Vilela e a oeste, Feira Grande e Porto Real do Colégio. 
+ 
+ 
+Figura 1: Mapa Político Administrativo de São Sebastião - AL 
+ 
+Fonte: Alagoas em dados e informações, Secretaria de Estado do Planejamento, 
+Gestão e Patrimônio. Disponível em: http://dados.al.gov.br/dataset/445ca1dd-9fa5-
+4fa9-9405-10425b4ddd81/resource/65adfd03-8285-4ad8-9fc7-
+0b3327ca6516/download/saosebastiao.png  
+ 
+ 
+ 
+1.1.1 – História e Formação do município de São Sebastião-AL 
+ 
+A gênese de sua história é datada por volta de duzentos e cinquenta anos atrás, com o 
+então povoado de Salomé, pertencente à Igreja Nova (ex -município de Triunfo). Seu nome é 
+oriundo da amarração do som das palavras sal e mel, produtos transportados pelos tropeiros da 
+rota Penedo-Palmeira dos Índios, dois dos maiores centros econômicos do interior de Alagoas
+
+## Página 16
+
+17 
+ 
+até meados do século XX, antes do crescimento comercial de Arap iraca, hoje centro regional 
+do agreste alagoano. 
+Foi José Luiz, um tropeiro, e sua família, os primeiros moradores da região com 
+residência fixa, possuindo, como seu próprio comércio, uma hospedaria. Segundo Tenório et al. 
+(2006) “mais adiante chegaram out ros três colegas de José Luiz (...). o sucesso comercial dos 
+quatro chamou a atenção dos viajantes e novas levas chegaram também para tentar a sorte”(p. 
+228). Porém, o desenvolvimento do povoado se deve, na verdade, às terras férteis da região que 
+despertou o interesse de agricultores e pecuaristas vindos de outras partes do estado, trazendo 
+junto também seus escravos (BARROS, 2015). 
+Nesse primeiro momento, diferente do que aconteceu na zona da mata com a cana -de-
+açúcar, a pecuária prevaleceu com currais de  criação de gado e só em seguida a cultura 
+fumageira foi implantada, obtendo sucesso (TENÓRIO et al , 2006) . Assim, as culturas de 
+fumo, algodão, amendoim, mandioca e outras lavouras de subsistências que são comumente 
+encontradas hoje no agreste, com sua tr adicional agricultura familiar, se desenvolveram em 
+Salomé. 
+O povoado cresceu, elevando-se a Distrito subordinado a Triunfo pelo decreto estadual 
+nº 39, datado de 11 de setembro de 1890. Mas foi somente em 31 de maio de 1960, setenta anos 
+depois, que, graç as a um projeto de aceitação popular proposto pelo vereador Adalberto de 
+Araújo Lessa na câmara municipal de Igreja Nova, se tornou emancipado politicamente com a 
+lei estadual de número 2.229, recebendo assim o nome de São Sebastião, em homenagem ao 
+santo de mesmo nome e ao então governador de Alagoas, Sebastião Muniz Falcão, grande 
+apoiador dos líderes locais no processo de desligamento do distrito do território de Igreja Nova 
+(IBGE, 2018). 
+No censo de 1960, o primeiro como munícipio recém -criado, São Seba stião, então 
+parte da Zona Fisiográfica do Baixo São Francisco e contava com um número de 1.137 
+famílias, distribuídas em uma população de 2.761 homens e 3.006 mulheres. Com uma década 
+de vida, o município viu seu número de habitantes duplicar. Assim, em 1 970, segundo o censo 
+deste ano, São Sebastião contava com uma população de 11.723 habitantes (5.783 homens, 
+5.940 mulheres). Seu crescimento, seguindo uma tendência nacional, continuou em uma 
+constante elevação, comprovada com o segundo Censo de 1980, quan do a população chegou a 
+quase 20 mil habitantes (cerca de 19.764). No censo seguinte, o de 1991, o município 
+apresentou uma queda nesse ritmo de crescimento demográfico, com registro de 24.696 
+habitantes, e continuou seguindo nesse mesmo ritmo, uma média d e 5 mil habitantes a mais, 
+chegando aos anos 2000 com uma população de 29.124 habitantes, sendo essa concentrada a 
+maior parte da zonal rural (19.716). Segundo último censo, de 2010, São Sebastião, possuía 
+uma população estimada em 32.010 habitantes. 
+ 
+ 
+ 
+1.1.2 – A economia de São Sebastião-AL 
+ 
+  
+Com seu território bem definido, os salomeenses (como até hoje são chamados), 
+proprietários das terras produtivas, foram também os responsáveis pelo surgimento de um 
+comércio local capaz de escoar parte da produção a grícola. No que diz respeito à indústria, 
+antes mesmo de se tornar um munícipio, a vila Salomé já possuía algumas fábricas 
+rudimentares que foram de importância significativa para o desenvolvimento local: instalação 
+de duas bolandeiras manuais, que são máq uinas de descaroçar algodão, seguindo o caminho da
+
+## Página 17
+
+18 
+ 
+economia algodoeira. Com a oferta desse produto, Tenório et al. (2006, p. 229) relata que em 
+Salomé “funcionou um tear para produção de tecidos que deu outro impulso ao povoado, 
+estimulando novos empreendimentos”. 
+Além disso, a instalação de três engenhos puxados por bois e cavalos em 1910 trouxe 
+mais dinâmica ao cenário econômico local, que prosperou e justificou a futura ascensão política 
+do município (BARROS, 2015).  
+Analisando o tamanho de seu territóri o, temos uma densidade demográfica de 101,59 
+hab/km² (IBGE, 2018). É o segundo município com maior diversidade produtiva nos limites da 
+Microrregião Geográfica de Arapiraca, o primeiro é a própria cidade que dá nome a essa 
+localização específica (TENÓRIO et al., 2006). Com um PIB per capita de R$ 8.164,67 (IBGE, 
+2018), tem como rendimento econômico mais expressiva o campo agropecuário. 
+Para Tenório et al. (2006) São Sebastião possui “economia diversificada e pela 
+posição no entroncamento da estrada federal e estadual, o município apresenta tanto uma 
+cidade de comércio razoável como uma feira semanal significativa” (p. 229). 
+Segundo Carvalho (2015), o agreste, esta sub -região de transição entre a zona da mata 
+e o sertão, na qual São Sebastião está inserido, “ sem as condições apropriadas de clima e solo 
+para plantar cana-de-açúcar, foi outrora uma região colonizada por criadores de gado para, logo 
+depois, ser compartilhada pela agricultura de caráter policultor” (p. 27). 
+Sendo assim, com relação à agricultura, voltada para abastecimento do mercado local 
+e também para exportação comercial, as plantações permanentes com mais de 50 pés na área, 
+segundo o Censo Agropecuário do IBGE (2017), são as de banana, que são cultivadas em 2 
+estabelecimentos; de caju, com 1 es tabelecimento; de coco -da-baía, presentes em 7 
+estabelecimentos responsáveis pela produção de 2.017 (x 1000) frutos em 185 hectares; de 
+goiaba, com 1 estabelecimento; de laranja, com 2 estabelecimentos, de mamãe, com um 
+estabelecimento; de maracujá, com 6 estabelecimentos que produzem 17 toneladas e de 
+pimenta do reino, com 3 estabelecimentos que juntos produzem 2 toneladas. 
+Já entre as culturas temporárias, se destacam, em questão de quantidade, a mandioca, 
+que possui o maior número de estabelecimentos cul tivadores, no total são 1.650 
+estabelecimentos que produzem 15.398 toneladas da raiz; em seguida aparecem o feijão  de cor 
+e o milho, com respectivamente 1.032 e 1.025 unidades de estabelecimentos produtores desses 
+grãos no município. A cana -de-açúcar culti vada em São Sebastião, que chega ao total de 
+132.595 toneladas, é enviada ao município de Igreja Nova para a Usina Caeté - Unidade 
+Marituba, pertencente ao Grupo Empresarial Carlos Lyra, onde passa pelos processos 
+industriais de transformação em açúcar e á lcool. Perdendo espaço com o tempo, assim como
+
+## Página 18
+
+19 
+ 
+aconteceu na vizinha Arapiraca, o fumo não possui hoje uma dimensão significativa nas terras 
+cultiváveis do município que outrora foi um dos maiores produtores da lavoura fumageira no 
+estado (BARROS, 2015). 
+Na pecuária, seu maior rebanho é de galináceos, com cerca de 847 (x1000) cabeças 
+que produzem 22 (x 1000) dúzias de ovos. De acordo com Tenório et al. (2006) o município “é 
+uma das localidades fortes da avicultura regional, realizada de forma integrada entre  os 
+produtores em suas pequenas e médias granjas, com assistência técnica e comercialização da 
+Luna Avícola, de Arapiraca” (p. 229). Essa importante empresa alimentícia do agreste alagoano 
+possui chocadeira em São Sebastião, atribuindo a função de distribu ir os pintos nascidos para 
+as granjas dos municípios vizinhos. 
+O segundo maior rebanho é o de bovinos, com 12.456 cabeças de gado, a maioria para 
+corte, visto que é de apenas 328 o número de vacas de ordena. Ainda é encontrado no 
+munícipio uma significativ a criação de suínos ( 2.000 cabeças), ovinos ( 1.786 cabeças), 
+caprinos (383 cabeças) e equinos (837 cabeças) (IBGE, 2017). 
+A produção de peixes em cativeiro também é trabalhada, com destaque para as 
+espécies: tambaqui - em maior número, são em torno de 31.8 80kg produzidos -, curimatã, 
+pintado, cachara, cachapira, pintachara, tilápia e surubin. Além disso, a apicultura, com 
+1.410kg de mel de abelha coletados (IBGE, 2016). 
+Como afirma Manoel Correia de Andrade (1987), “o Agreste propriamente dito 
+apresenta maior diversificação de paisagens que outras regiões, podemos distinguir uma série 
+de zonas e subzonas geoeconômicas” (p. 36). Essa característica é facilmente observada em 
+São Sebastião, munícipio do agreste que tem por base econômica a agropecuária, mas apresenta 
+também uma outra subzona geoeconômica de destaque: o artesanato de rendas, chegando a ser 
+considerado o maior centro de produção artesanal de renda de bilros do estado de Alagoas 
+(BARROS, 2015). 
+A grande maioria dos produtores do ramo agropecuário d e São Sebastião é do sexo 
+masculino. A título de exemplo, de acordo com o Censo Agropecuário (IBGE, 2017) vemos 
+que nos 18.089 hectares cultivados em cerca de 2.625 unidades de estabelecimentos 
+agropecuários salomeenses, apenas 573 são registrados como de produtores do sexo feminino, 
+colocando o restante das mulheres da zona rural de São Sebastião no papel de ajudante do 
+marido na lavoura e de dona de casa. Já as mulheres da área urbana aparecem em outras 
+funções econômicas, ou apenas sem ocupação. 
+Este não é um cenário específico desse munícipio, de acordo com Martins (1973) “seja 
+qual for o campo da atividade – industrial ou agrícola, há sempre um desperdício de força
+
+## Página 19
+
+20 
+ 
+produtiva do trabalho brasileiro” (p. 07). O autor explica que as mulheres no contexto de  
+trabalho de uma indústria pesada, como, por exemplo, na mineração, permanecem durante todo 
+o ano sem uma atividade econômica própria. Já no cenário rural, há uma oscilação contínua, 
+pois existem momentos de fartura de trabalho, como na época de plantação e colheita de grãos 
+e hortaliças, contudo, são sempre seguidos de intervalos longos de falta de serviço, mantendo -
+as desocupadas da função de agricultoras. 
+É nesse contexto que o artesanato entra em ação em algumas regiões, visto que para 
+Diegues Júnior (1 986) o produto desse trabalho “feito em casa, completa a ocupação 
+doméstica, isto é, ao lado do movimento dos bilros, a rendeira, ciosa da sua casa, prepara a 
+comida, varre os cômodos e cuida água” (p. 11). O mesmo autor diz que esse é um fenômeno 
+facilmente observado em Alagoas, onde as rendeiras são também, em sua maioria, agricultoras 
+ou esposas de agricultores e fazem artesanatos como uma forma de aumentar a renda familiar 
+nos intervalos entre os cuidados nas plantações. 
+Historicamente, no processo de d esenvolvimento do município de São Sebastião, 
+mesmo anteriormente à emancipação, ainda como vila Salomé, enquanto os homens 
+trabalhavam na terra, segundo o IBGE (2018) “as mulheres distraiam -se jogando bilros e de 
+suas mãos habilidosas surgiram belíssimas rendas”. 
+Esse cenário é bem retratado por Manuel Diegues Júnior (2006, p. 223) em seu 
+“Bangüê nas Alagoas” quando escreve a respeito das atividades das mulheres (esposas e 
+escravas) nos engenhos do estado. As esposas destinavam seu tempo às “artes”, que as  
+tornavam conhecidas em seus núcleos como senhoras prendadas, como a culinária de bolos e 
+quitutes. Entretanto, o autor salienta que “ não menos celebradas eram outras artes domésticas: 
+as rendas, os labirintos, os crochés, a música, o canto”, arrematando a inda que “das artes 
+domésticas a renda foi talvez a mais característica nos engenhos alagoanos”. Muitas das vezes, 
+a rica senhora, para aumentar a produção, que se destinava ao consumo próprio, presidiava os 
+“trabalhos de rendas das mucamas, cada uma com sua almofada ao colo”. 
+Observando o contexto de formação do povo salomeense, é hipótese provável é que, 
+nos anos de povoamento da então Salomé, vieram acompanhando seus maridos e pais, 
+mulheres que dominavam o ofício da renda de bilros, que foram passando s eus ensinamentos 
+de geração em geração, e fincaram em São Sebastião a cultura da produção com fim comercial 
+desse artesanato. 
+Se na agricultura e pecuária o homem domina a paisagem, no que diz respeito à renda 
+de bilro, a presença feminina é predominante. Para Diegues Júnior (1986, p. 09) isso se deve ao 
+fato de que “O artesanato da renda encontra -se fundamentalmente vinculado à presença da
+
+## Página 20
+
+21 
+ 
+mulher como elemento de atuação cultural, quase sempre voltada às atividades artesanais em 
+todos os povos”. 
+A predominância de mulheres e dos menores de idade no ofício é um fator essencial 
+para manutenção das artes manuais em suas localidades, já que, segundo Martins (1973, p. 24 -
+25) suas presenças “asseguram continuidade a estas, porque são bem mais espontâneos e 
+apegados as tradições que quaisquer outros membros da comunidade”. 
+Trata-se então de um meio acessível, seguro e gerador de remunação  extra, utilizando 
+o tempo vago de uma parte da população que se mantinha ociosa, refletindo em uma melhora 
+no padrão de vida da família que passa também a contar com o dinheiro da venda da produção 
+do trabalho feminino de renda de bilro (MARTINS, 1973). 
+Desta forma, esse tipo de artesanato se tornou uma atividade econômica importante 
+para as famílias salomeenses, que em lar, pratic avam o ofício, trazendo até hoje uma 
+característica marcante que diferencia o munícipio de São Sebastião dos demais do estado de 
+Alagoas por esse ser conhecido como a "terra das rendas de bilro". 
+ 
+1.2 – A Renda de Bilro 
+ 
+Luíza e Arthur Ramos ( apud MAIA, 1986, p. 23), dizem que “renda é a obra na qual 
+um fio, conduzido por uma agulha, ou vários fios, conduzido por uma agulha, ou vários fios, 
+trançados por meio de bilros, engendram um tecido e produzem combinações de linhas 
+análogas às que o desenhista obtém com o lápis”. 
+Já para Catellani (2003) renda é um “tecido leve e transparente de malha aberta fina e 
+delicada, formando desenhos variados pelo entrelaçamento de fios de algodão, seda, ouro ou 
+prata” (p. 681).  Esse trabalho delicado com linha é organizado de forma harmoniosa ao ponto 
+de, visualmente, se formarem padrões ornamentais, que de acordo com características de 
+tamanho, espessura e modelos, podem vir a ser um tecido em renda, entremeios ou bicos. No 
+Brasil encontra-se espalhado por seu território diversos tipos de rendas, como a Renascença e o 
+Filé, mas o tipo de maior abrangência geográfica no país é a Renda de Bilro (MAIA, 1986). 
+A principal característica da renda de bilro, além da forma, e o que a diferencia das 
+demais rendas, é o uso do objeto c ujo nome aparece explicito em sua classificação: o bilro. Isa 
+Maia (1986, p. 24) define a renda de bilro como “a renda tecida com bilros, tendo como base 
+um papelão picado, também chamado ‘pique’, afixado numa almofada cilíndrica por meio de 
+alfinetes ou espinhos”.
+
+## Página 21
+
+22 
+ 
+A peça chave que dá nome a renda trabalhada no munícipio alagoano de São 
+Sebastião, o bilro, é feito de madeira em uma forma que se semelha a um fuso; trata -se de um 
+tipo de bobina com extremidades arredondadas que fazem lembrar piões. Pode ser f abricada 
+rusticamente com as próprias mãos, com a ajuda de uma faca, ou através de máquina em 
+serralherias, sendo esta segunda forma a mais praticada atualmente. Com esses instrumentos 
+em mãos, segundo Catellani (2003, p. 681), “os bilros são pendurados em  alfinetões que, por 
+sua vez, ficam espetados numa almofada, sobre a qual há um papelão furado, que serve de guia 
+para a forma do desenho”. 
+Da renda de bilros, que também é conhecida como renda de almofada, renda do Norte, 
+renda da terra, renda do Ceará, q ue tem seu surgimento em tempos mais recente que as rendas 
+feitas com o auxílio do objeto agulha, já comum na Antiguidade. Para muitos estudiosos, a 
+renda de bilros, até então chamada de trina a piombina, surgiu nos anos finais do século XV na 
+Itália seten trional, mais precisamente nas cidades de Milão e Gênova (DIEGUES JÚNIOR, 
+1986). 
+Esta renda parte então de Milão em meados do século XVI, se espalha pela Europa e 
+suas colônias graças ao crescimento do comércio ultramarino na cidade de Veneza, cidade 
+famosa por suas rendas de agulha, que vivia momentos de expansão se destacando como posto 
+de importação e exportação no Mar Mediterrâneo (CATELLANI, 2003). 
+Sua presença passa a ser comum no estilo de vida de países como a França de Luís 
+XIV, chegando a ser conh ecida até mesmo como point de France , e na Rússia, onde é citada 
+até mesmo em um popular conto de fadas, intitulado Vasilisa, a Bela, do escritor Aleksandr 
+Afanasev. A personagem principal deste conto, Vasilisa, é uma moça prendada, com o talento 
+de uma boa rendeira de bilros, para Tatar e Borges (2013, p. 186) “A história de Vasilisa reflete 
+os valores culturais de uma época passada, de um tempo em que a excelência nos ofícios 
+domésticos era tão valorizada quanto a beleza”. Sendo assim, a produção de renda s, que 
+prevalece até hoje, deve seu impulso ao fator sociocultural, que impunha a gerações de 
+mulheres a dominar algum ofício para serem então vistas com bons olhos por toda a 
+comunidade. 
+Para entender como a renda de bilros chegou ao Brasil é preciso ente nder como essa 
+surgiu anteriormente em Portugal. Segundo Diegues Júnior (1986, p. 11) “Não há data precisa 
+quanto ao momento em que a renda surgiu em Portugal”, o que se sabe é que a palavra renda 
+surge no cotidiano português por volta de 1560. 
+O autor ainda explica que mesmo não existindo uma precisão histórica de surgimento 
+dessa atividade em terras lusitanas, o fato é que o ofício se difundiu rapidamente por seu
+
+## Página 22
+
+23 
+ 
+território, inicialmente sendo feito em conventos católicos, que destinava sua produção para 
+ornamentação das igrejas e vestes dos sacerdotes. Mais adiante, com as primeiras rendeiras já 
+dominando a arte e passando o ensinamento para as mais jovens, surgiram importantes centros 
+de confecção de renda no país: em Peniche, Vila do Conde, Viana do Cas telo, Setúbal, Lagos e 
+Açores.  
+No Brasil, Diegues Júnior (1986, p. 11) diz que a renda de bilro chegou “com as 
+primeiras mulheres portuguesas, vindas com seus maridos e pessoas da família para a 
+colonização”. Essa colonização inicia-se pelo litoral - isso explica o porquê de até hoje, mesmo 
+que isoladamente, diversos trabalhos de rendas sejam facilmente encontrados em postos à 
+beira-mar ou a margens de rios. Mesmo que os modelos feitos na colônia tenham vindo de 
+Portugal, nossa natureza e estilo de vida serviram de inspiração para a criação de novos padrões 
+artísticos aplicados na confecção das rendas. O autor explica que daí vem a rica variedade de 
+modelos, que surgiram “através de estilizações, adaptações e recriações”. Como a força de 
+trabalho nesse período histórico vinha dos escravos, eram das mãos das escravizadas que saiam 
+a maior parte das rendas, mas a figura da sinhazinha também era presente nesse processo 
+produtivo. A posse dessas escravas que realizassem um trabalho tão delicado e expressivo era 
+um símbolo de status para seu senhor e a senhora. 
+A partir do litoral nordestino, a renda se espalhou para o interior. Para Diegues Júnior 
+(1986, p.13), “influências pernambucanas, baianas, cearenses, levaram a arte para o agreste, 
+penetrando, igualmente, em fazendas de gado, principalmente através do vale do São 
+Francisco”. A renda de bilro é um tipo atividade artesanal, que no Brasil, se tornou popular no 
+Nordeste e até hoje é facilmente encontrada em todos os estados dessa região, com exceção do 
+Piauí (CATELLANI, 2003). 
+Além dos estados Nordeste, alguns estados de outras regiões também se destacam na 
+produção de renda de bilros, como Santa Catarina (principalmente na ilha de Santa Catarina), 
+no sul do Brasil e Rio de Janeiro, no Sudeste, com Cabo Frio e C ampos como os principais 
+pólos produtores do estado. Mesmo em um país longe de sua origem, sua prática foi, em parte, 
+tão bem executada devido a linha algodão, sua matéria -prima, ser de fácil acesso no território 
+brasileiro (MAIA, 1986). 
+O algodão, enquant o material bruto, foi uma das culturas mais difundidas na região 
+nordeste desde o período colonial. Possui uma fibra natural unicelular que é composta 
+especialmente de celulose. Anteriormente, os fios de algodão utilizados pelas rendeiras eram 
+feitos por elas mesmas com a ajuda das rocas (MAIA, 1986).
+
+## Página 23
+
+24 
+ 
+Atualmente, com a tecnologia presente na indústria da moda, o algodão é usado para a 
+fabricação de fios em grandes quantidades, além disso, tornou -se mais leve, resistente e ainda 
+facilita a transpiração, o qu e explica ser, no setor têxtil, a fibra mais utilizada (CATELLANI, 
+2003). 
+Sua cor natural é a mais trabalhada, ou seja, o branco, mas como pode ser tingido de 
+qualquer cor é facilmente encontrada, levando em consideração a questão da oferta e da 
+procura, em uma gama de tonalidades. E é também, da trama de linhas de algodão, que, após o 
+processo de fabricação manual, surge a formas das rendas de bilro, criando peças de aplicação 
+para roupas e acessórios de casa, mesa e banho. 
+Como foi dito acima, a linha de algodão é a matéria-prima da renda de bilro, mas para 
+o processo de confecção dessa renda se faz necessário três objetos: Almofada, papelão e bilros. 
+A almofada é o artefato que serve como base para estruturação da renda. É assentado sob essa 
+que a rendeir a cria suas peças. Normalmente as almofadas para essa finalidade são feitas de 
+pano de saco de estopa, onde as laterais são costuradas deixando apenas uma abertura por onde 
+passa um cordão ou fio que mais tarde, após o preenchimento com palha de bananeira ou 
+capim, será fechado, criando uma forma cilíndrica ou arredondada. 
+ 
+Figura 2: Almofadas de Renda de Bilros 
+ 
+Fonte: Arquivo do autor, visita realizada em 2018.
+
+## Página 24
+
+25 
+ 
+A maior parte das rendeiras gostam de deixar suas almofadas mais bonitas e coloridas, 
+por isso costuram por cima da estopa um outro tecido, normalmente a chita. Na região Nordeste 
+o comprimento comum da almofada é de 80cm, e segundo Isa Maia (1986, p. 51) “Esta 
+dimensão está de acordo com as peças a serem executadas. Para bicos, rendas ou entremei os, 
+não é necessária a almofada grande. No Nordeste, com é mais usual estes tipos de peças, as 
+almofadas são menores”. 
+Toda almofada de renda apresenta também alguns acessórios necessários: os alfinetes, 
+objetos utilizados para manipulação do papelão e dos  bilros. Ainda pode ocorrer em algumas 
+regiões, mas é cada vez mais raro, o uso de espinhos em vez de alfinetes industriais. Esses são 
+extraídos de plantas como o mandacaru e o xique -xique, mais comuns no semiárido, ou 
+espinhos de laranjeiras.  
+O papelão, que também pode ser chamado de pique, funciona como uma espécie de 
+molde ou modelo padrão que deve ser fixado na parte de cima da almofada e preso com a ajuda 
+de alfinetes ou espinhos. Esse papelão deve ser previamente furado com alfinete marcando 
+exatamente todos os pontos por onde passarão a linha formando o desenho da renda. Esse 
+processo de furar o papelão é chamado de beliscado (MAIA, 1986). 
+ 
+Figura 3: Papelão 
+ 
+Fonte: Arquivo do autor, visita realizada em 2018.
+
+## Página 25
+
+26 
+ 
+Não se trata de uma peça descartável, pelo contrário, a tradição é conservá-los e passá-
+los para as próximas gerações de rendeiras, o que não as impede de durante esse processo 
+criarem outros modelos. 
+Já o bilro, peça chave para feitio dessa renda, é uma pequena peça de madeira, que 
+mede cerca de 13cm, e lembra um fuso, onde suas extremidades são chamadas de “cabeça” do 
+bilro, essa parte do objeto pode ser encontrada na forma de pião, pastilhas ou até mesmo 
+redonda, como é mais comum em São Sebastião. A cor dos bilros vai depender da madeira 
+utilizada para sua confecção, esse aspecto também vai depender da vegetação local, o bilro é 
+mais claro, em tons amarelados quando se usa a madeira da árvore mata -fome por exemplo, e 
+mais escuro quando se usa pau-ferro. A própria rendeira pode fazer manualmente com o auxílio 
+de uma faca seu próprio bilro, mas o mais comum é um artesão produzi -lo, normalmente um 
+pescador. 
+ 
+ 
+Figura 4: Bilro 
+ 
+Fonte: Arquivo do autor, visita realizada em 2018. 
+ 
+ 
+O passo-a-passo do trabalho de construção da renda, que normalmente tem como local 
+de produção a própria casa da artesã, é descrito por Isa Maia (1986):
+
+## Página 26
+
+27 
+ 
+ 
+                                                   Quando a rendeira vai trabalhar ou aprender a fazer a renda, a primeira coisa que faz é 
+armar a almofada ou ‘assentar’ na linguagem popular, isto é, preparar para ‘trocar’ os 
+bilros. Assim é necessário dispor de um papelão picado ou ‘pique’, que funciona 
+como molde da renda. O papelão é picado ou furado com alfinetes ou espinhos, tendo 
+uma amostra da renda em cima, seguind o seu desenho, e furado exatamente no ponto 
+de encontro das linhas. É uma atividade que nem todas as rendeiras executam. 
+Algumas são especialistas e preparam o papelão para as companheiras. Estando pronto 
+o pique, que é guardado para ser usado muitas vezes , a artesã passa a encher os bilros, 
+enrolando na extremidade superior a linha que vai trabalhar. Em seguida, fixa na 
+almofada o papelão, com os alfinetes ou espinhos, que são colocados nos furos do 
+pique, e prendendo os bilros nos alfinetes da parte super ior do papelão. Assim, no 
+começo do pique, em pares, os bilros são pendurados – um, para esquerda, e outro, 
+para a direita. A partir daí, passa a tecer renda, trocando os bilros, de acordo com o 
+motivo a executar. O número de bilros varia – meia dúzia para  rendas estreitas, e 
+quanto mais larga é a renda, maior o número de bilros. A rendeira maneja até cinco 
+dúzias de bilros, dependendo da largura da peça e de sua habilidade. Trabalha com 
+bilros entre os dedos e vai tecendo a renda com agilidade, nos movimen tos de trocar 
+os bilros na medida exata do espaço necessário para a conformação do desenho. É 
+condição essencial que o papelão sirva para toda a extensão da renda. Assim, a 
+rendeira vai ajustando, na proporção que vai executando seu trabalho. O trocar de 
+bilros se desenvolve da seguinte maneira: os da direita passam sucessivamente para 
+esquerda e vice-versa, na ordem em que forem satisfazendo às exigências do desenho, 
+impostas pelos pequenos furos, no pique, onde os alfinetes vão sendo colocados. 
+‘Bater’ os  bilros é outro procedimento empregado pela rendeira, quando executa 
+normalmente seu trabalho. Assim, a artesã vai ajustando a renda sobre o pique, 
+voltando em seguida a trocar bilros. A renda de bilro, como finalização de um trabalho 
+de almofada, apresenta-se como renda a metro – entremeio ou pegamento, bico, ponta 
+ou pontilha, renda de quadro e aplicações. Os bilros vão passando de mão a mão, sem 
+isto se perceber, tão grande é a ligeireza da rendeira. (1986, p. 50). 
+ 
+ 
+Os pontos, ou seja, as formas usadas para criar os motivos ornamentais encontrados 
+nas rendas, mais trabalhados pelas artesãs do Nordeste são: traça, tijolo, meio trocado, trocado 
+inteiro, pano e trança, finagram, coentro e pé de coelho. Os motivos ou desenhos que as rendas 
+formam são tradici onais, feitos assim por várias gerações. Contudo, novos motivos podem ser 
+criados, que serão diretamente influenciados pela paisagem da região. Os bicos, que estão entre 
+as peças mais feitas pelas rendeiras, seguem essa mesma tradição de receber nomes com uma
+
+## Página 27
+
+28 
+ 
+carga regional, como por exemplo, bico de percevejo, pico de xexéu, bico de abano, pico 
+pestana. 
+As artesãs, por conta de fatores como luminosidade, temperatura ambiente e exposição 
+do trabalho tendem a trabalhar sozinhas fazendo renda na frente de sua s casas. Porém, quando 
+chega o período da tarde e a temperatura fica mais alta, pode acontecer de as rendeiras 
+formarem grupos embaixo de árvores ou do lado de suas casas, onde existe sombra e um clima 
+mais ventilado, além desses momentos trazerem a oportu nidade de uma roda de conversa entre 
+elas. 
+Como é um trabalho que passa de geração em geração, existe a presença das filhas das 
+rendeiras no ambiente de trabalho, da mesma forma que essas meninas aprendem a ajudar suas 
+mães nas tarefas domésticas, é nessa fase que também são ensinadas a fazer renda, começando 
+com rendas de bicos estreitos, onde a artesã mais experiente costuma ser a responsável pelo 
+processo de finalização, que requer mais prática. 
+Para Isa Maia (1986, p. 71): “A subsistência da renda artes anal está fundamentada na 
+tradição familiar e no fato de que o próprio trabalho tem funções sócio-econômicas e lúdicas.”
+
+## Página 28
+
+29 
+ 
+CAPÍTULO 2 – A QUESTÃO DO ARTESANATO NO BRASIL: 
+ECONOMIA, POLÍTICA E ASSISTÊNCIA 
+ 
+ 
+2.1 – Artesanato: História, Desenvolvimento e Assistência no Brasil 
+ 
+Segundo a Portaria nº 1.007 – SEI de 11 de junho de 2018, confere no Capítulo IV – 
+Do Artesanato; Seção I – Da Atividade Artesanal; Art. 19, “o artesanato é toda produção 
+resultante da transformação de matérias -primas em estado natural ou manufaturada, através do 
+emprego de técnicas de produção artesanal, que expressa, criatividade, identidade cultural, 
+habilidade e qualidade (BRASIL, 2018). 
+Já o artesão, conforme Martins (1973), é “a pessoa que faz, a mão, objetos de uso 
+frequente na comunidade” (p.19). E para que, desde já, não haja equívocos, vale salientar que o 
+artesão não é o indivíduo que trabalha segundo os moldes da indústria, ou seja, com o uso 
+majoritário de maquinário, divisão do trabalho, salário e produção em sér ie, e tampouco é 
+aquele que faz um trabalho manual sem qualidade, design e mutação da matéria -prima 
+(BRASIL, 2018). 
+O artesanato, sendo parte do circuito inferior, é, segundo Milton Santos (1979), 
+“constituído essencialmente por formas de fabricação não -‘capital intensivo’, pelos serviços 
+não modernos fornecidos ‘a varejo’ e pelo comércio não moderno e de pequena dimensão” (p. 
+31). 
+Milton Santos (1979, p. 25) ainda explica que cada período histórico “é caracterizado 
+pela existência de um conjunto coerente d e elementos de ordem econômica, social, política e 
+moral, que constituem um verdadeiro sistema”, e, sendo assim, cada período representa uma 
+modernização. Estas modernizações não ficam restritas ao sistema dos países -polos e parte 
+destas inovações chegam a té os subsistemas dos países periféricos, mas de forma seletiva e 
+empregando apenas uma parte da população. O autor afirma que o processo de modernizações 
+através da industrialização “nem sempre é capaz de criar um ‘crescimento’ com 
+‘desenvolvimento’, mas apenas um ‘pseudodesenvolvimento’, devido à ausência de articulação 
+local das atividades e da redistribuição regressiva da renda”. 
+Os subsistemas dos países subdesenvolvidos apresentam, assim, um espaço dividido 
+entre um circuito superior da economia urban a, do qual a indústria faz parte, e um circuito 
+inferior, de manufaturas e serviços tradicionais. Os dois circuitos apresentam como distinção
+
+## Página 29
+
+30 
+ 
+básica as diferenças de tecnologia e de organização. Milton Santos (1979) desenvolve o 
+conceito de espaço dividido  para analisar de forma íntegra o cenário da economia urbana dos 
+países subdesenvolvidos levando em consideração uma abordagem temporal das 
+modernizações que esses países experimentaram e suas características no espaço. 
+De acordo com Milton Santos (1979), o circuito superior da economia urbana dos 
+países subdesenvolvidos compreende características como: tecnologia de capital intensivo, 
+organização burocrática, importância de capitais, emprego reduzido, predominância do 
+profissional assalariado, estoques em grande quantidade, preços fixos, créditos institucionais 
+através dos bancos, margens de lucro medidas pelo volume de negócios e não por unidade, 
+relações impessoais com a clientela, importância nos custos fixos e necessidade de publicidade. 
+Outros aspectos significativos deste circuito são a não reutilização de bens, o imprescindível 
+overhead capital, a ajuda governamental e a dependência direta do exterior, para qual é 
+destinada sua produção. 
+Já o circuito inferior da economia urbana dos países subdesenvol vidos, do qual o 
+artesanato faz parte, apresenta, segundo o mesmo autor, características antagônicas às 
+evidenciadas no circuito superior. No que diz respeito à tecnologia, no circuito inferior persiste 
+o trabalho intensivo, que se mantém dentro de um cont exto de organização primitiva e de 
+capitais reduzidos. O emprego neste circuito é volumoso, porém, funcionando, por vezes, fora 
+do mercado formal e o emprego quase sempre não é assalariado. 
+Com relação à produção, no circuito inferior da economia os estoqu es de produtos são 
+mantidos em pequenas quantidades e com qualidade inferior devido as formas de 
+armazenamento praticadas. Os preços no circuito inferior são estipulados através de acordos 
+diretos com compradores que compõem a clientela, sendo comum nesta relação a presença do 
+crédito pessoal não -institucional. Os produtores deste circuito obtêm alguma forma lucro por 
+meio de unidades de sua mercadoria, mas a margem de rendimento se mostra pequena quando 
+se leva em consideração o volume total dos produtos vendidos. 
+Além destas características, no circuito inferior da economia dos países 
+subdesenvolvidos os custos fixos são desprezíveis e a reutilização dos bens é frequente. Com 
+nenhuma publicidade, os trabalhadores do circuito se veem diante de quase nenhuma  ajuda 
+governamental e, diferente do que acontece no circuito superior da economia nos países 
+subdesenvolvidos, aqui a dependência direta do exterior é acanhada ou inexistente (SANTOS, 
+1979).
+
+## Página 30
+
+31 
+ 
+2.1.1 - História e Evolução do Artesanato 
+ 
+O artesanato, enqua nto sistema de trabalho marca uma evolução cultural, esse 
+progresso só ocorreu em decorrência da divisão do campo ocupacional e da evolução do 
+homem, a partir de sua necessidade de sobrevivência, em que a precisão de meios de 
+subsistência e os hábitos como  a vida em sociedade levaram a exigir maior geração de bens. O 
+surgimento do artesão, um trabalhador manual, veio da necessidade e da possibilidade de 
+inovação, aspectos ligados a inteligência humana evoluída, onde a partir do momento que o 
+homem passa a t er uma postura ereta, suas mãos ficaram livres, e é através da sua sapiência, 
+que as guiam, que começa a desenvolver utensílios para uso individual e coletivo (MARTINS, 
+1973). 
+Por fazer parte do complexo rural, a atividade artesanal dentro da história da 
+humanidade surgiu antes mesmo das inovações das grandes civilizações egípcia e 
+mesopotâmica. Nos atentando a produção têxtil, o homem primitivo e agrário já trabalhava com 
+fibras animais e vegetais. Na Ásia Central, por exemplo, já se desenvolvia o feltro a través de 
+uma técnica onde se desembaraçava, banhava com água e posicionava em faixas os pelos ou a 
+lã em uma esteira, que era enrolada e socada com um pedaço de madeira até que fossem 
+comprimidos formando um tecido, que por sua vez era utilizado de divers as formas, inclusive 
+como roupa (LAVER, 1989). 
+Dessa forma, o homem tem a capacidade intelectual de passar, por meio da linguagem, 
+os ensinamentos acumulados para as gerações posteriores: a forma como se aprende o ofício 
+artesanal costuma ser prática e inf ormal; um fenômeno fácil de ser explicado já que se trata de 
+um trabalho que acontece no espaço de residência do artesão, onde muitas vezes esse mesmo 
+trabalhador conta com a ajuda de outros membros de seu núcleo familiar, incluindo crianças. 
+Nessa perspec tiva, o artesão é um causador de novos artesões. Seja de caráter formal ou 
+informal, o único caminho para instruir -se é com a prática. Assim, o mais comum é que o 
+aprendiz - e aqui não importa a idade, contudo, costuma ser ainda criança -, que já vivencia um 
+ambiente de produção artesanal, comece a observar e a copiar de forma mecânica o trabalho do 
+artesão experiente, e dessa forma, o artesão veterano passa a ensiná -lo, preliminarmente, com 
+atividades mais simples (MARTINS, 1973). 
+Com o tempo, já dominando  todas as técnicas necessárias para elaborar peças mais 
+complexas, podemos dizer que o principiante, que passou a criar por conta própria, já é um 
+artista-artesão, dono de seu trabalho e consegue realizar sozinho todas as etapas de sua obra, 
+sendo essa ação uma das características mais marcantes desse profissional.
+
+## Página 31
+
+32 
+ 
+Segundo Martins (1973, p. 32), “durante os séculos X, XI e XII, a indústria manual 
+caseira se impôs e prosperou na Europa”, onde a elaboração de novos bens de consumo e as 
+oficinas de aprendizagem nas guildas levaram a ampliação da rede de artesanato têxtil. Quando, 
+séculos depois, se inventou a roda de fiar, foi proporcionado um aumento significante na 
+produção de fios, o que trouxe mudanças no ambiente de trabalho por conta da rapidez na 
+fabricação, suscitando avanços na estrutura econômica vigente neste período histórico da 
+evolução humana. O artesanato de renda, que passa a ter como matéria -prima os fios 
+manufaturados de origem vegetal e animal, se desenvolve e como sempre esteve ligado à Itáli a, 
+foi lá que surgiu a palavra artigiano (artesão), que no século XIX evoluiu para uma palavra que 
+representa o ofício do trabalhador artesão: artigianato (MARTINS, 1973). 
+ 
+2.1.2 – O artesanato de renda no Brasil: desenvolvimento e proibições 
+ 
+Partindo para uma escala territorial mais próxima a nós, constatamos que o artesanato 
+de renda tem uma longa história de crescimentos e proibições em Portugal e em sua colônia nas 
+Américas: o Brasil. 
+Uma atividade já bem instalada na metrópole portuguesa no século XVI, veio a tornar-
+se proibida pelo rei Filipe II, que arquitetando uma maior parceria comercial com a região que 
+atualmente conhecemos como Bélgica (que neste período era uma grande produtora de 
+artesanato de fios), resolveu impedir a produção de rendas em s eu país. Tal decisão fez com 
+que as rendeiras portuguesas só voltassem a trabalhar em seus ofícios no ano de 1677, mais de 
+seis décadas depois, e dessa vez, por ordem de D. Pedro. 
+Transportada para o Novo Mundo, a atividade de se produzir rendas foi trazid a para o 
+Brasil pelos colonizadores lusitanos, no qual logo se desenvolveu amplamente com oficinas 
+artesanais. Este é um fenômeno que se deve a uma questão de pura necessidade doméstica, já 
+que durante os anos de colônia, com uma população distinta de sua metrópole na Europa, não 
+existia por aqui uma grande oferta de objetos úteis ao dia -a-dia, ou até mesmo de apreciação 
+pela beleza. 
+Este período de calmaria foi interrompido quando a rainha Maria I, resolveu repetir em 
+terras brasileiras algo já feito por s eus antepassados na metrópole: a proibição da tecelagem 
+caseira.  Através do alvará de 5 de janeiro de 1785, vetou as fábricas têxteis e manufaturas de 
+ouro, prata, sedas, algodão, linho e lã no Brasil. Esta decisão foi tomada porque a coroa tinha 
+receio q ue a população deixasse de lado as atividades econômicas ligadas à agricultura e à 
+mineração para se dedicar a atividades de transformação de matérias-primas.
+
+## Página 32
+
+33 
+ 
+Nas palavras da monarca, “quanto mais se multiplicar o número dos fabricantes, mais 
+diminuirá o d os cultivadores; e menos braços haverá, que se possam empregar no 
+descobrimento”. Como os interesses na coroa estavam ligados ao setor primário, as exceções de 
+fabricação têxtil na colônia eram roupas paras os escravos e sacos para a produção, ambos 
+feitos com algodão grosso (ARQUIVO NACIONAL, 2018). 
+Foi somente 23 anos depois, em 1808, que seu filho, o Príncipe D. João, autorizou a 
+retomada da atividade manufatureira caseira, da qual as rendas faziam parte, e 1813, o mesmo 
+monarca legaliza o artesanato pro duzido em terras brasileiras através da assinatura de uma 
+provisão (MARTINS, 1973). 
+ 
+2.1.3 – O Artesanal diante da Revolução Industrial 
+ 
+No entanto, já se saudava o século XIX, e por conta da revolução industrial o que se 
+verá a partir daí é o artesanato p erdendo um espaço cada vez maior no mercado. Tal fato deve -
+se ao avanço da indústria e pelo menor custo dos produtos industrializados, que impossibilitam 
+os trabalhadores manuais de competir com a agilidade das máquinas e com os valores cobrados 
+pelo mercado. 
+Nesse prisma, Pierre George (1971, p. 56) explica que nos períodos anteriores à 
+revolução industrial, todos os objetos utilizados no dia -a-dia pelo homem – os quais o autor 
+chama de “necessidades não alimentares” - eram adquiridos através da fabricação  artesanal e 
+doméstica. Como nesse período não existia ainda a produção em larga escala de bens de 
+consumo, toda roupa, artigos de cozinha ou de decoração eram feitos por membros da própria 
+família ou da comunidade local. 
+Com isso, os indivíduos responsáve is pela fiação e tecelagem da lã, por exemplo, 
+eram, em sua maioria, do sexo feminino. Na zona rural, essa pequena produção era tão 
+importante para vivência daquelas pessoas que, ainda segundo o geógrafo francês, “a roca e a 
+roda são instrumentos de trabalho rural da mesma forma que o arado” (GEORGE, 1971, p. 56); 
+enquanto que nas cidades, era papel das criadas conservar e atualizar as peças de  vestuário de 
+seus patrões. 
+Nesse contexto, os atos de bordar e costurar faziam parte das regras de etiquetas das 
+mulheres de todas as classes sociais tidas como “bem-educadas”, contudo, se nos distanciarmos 
+dessa atividade enquanto “hobby” e a olharmos como uma atividade econômica vinculada à 
+obtenção de capital, fica evidente que se trata de um trabalho que sempre fo i executado por 
+indivíduos da classe baixa (NERY, 2012).
+
+## Página 33
+
+34 
+ 
+Todavia, é importante ressaltar que o artesanato não é de imediato derrotado pela 
+indústria, pois até o fim do século XIX a indústria têxtil - a mais ligada diretamente a bens de 
+uso - ainda se via r esponsável apenas pela fabricação de tecidos e fios, e não era encarregada 
+pelas vestimentas prontas para o uso individual. Sendo assim, continuava sendo 
+responsabilidade dos alfaiates, costureiras, artesões, sapateiros e donas de casa todo o trabalho 
+de c onstruir vestidos, ternos, rendas, bordados, calçados e aplicações que seriam usados por 
+toda a população que necessitava se vestir adequadamente para, entre outras formalidades, 
+trabalhar. 
+Outro fator da permanência do artesanato no cenário histórico e ec onômico está ligado 
+ao processo seletivo das modernizações. Nos países subdesenvolvidos não foram sentidos de 
+forma imediata e ampla os impactos modernizadores, esses foram ocorrendo com o passar dos 
+anos, selecionando espaços e mantendo outros em uma situ ação de tecnologia e organização 
+defasada (SANTOS, 1979). 
+Assim, foi somente no século XX que a grande indústria, preocupada com a falta de 
+diversidade da sua rede e com a necessidade de crescimento, se lança na fabricação de produtos 
+de uso pessoal. É a p artir daí que o artesanato, ocupação de uma significativa parte da 
+população, entra em decadência, pois além de se tornar impossível concorrer, o salário 
+oferecido pela indústria levou muitos trabalhadores a procurá -las, abandonado seus ofícios 
+tradicionais (GEORGE, 1971). 
+A partir disso, Pierre George (1971, p. 56) descreve que “a criação de um mercado de 
+massa exige uma produção de massa que se organiza para produzir a preços relativamente 
+baixos: produção em série e de banalidade”. Dessa forma, o consumo  de produtos de vestuário 
+industrializado, seguindo técnicas de produção já bem desenvolvidas no pós-guerra nos Estados 
+Unidos, ultrapassa as fronteiras da nova potência hegemônica e se torna um hábito em que a 
+população de diversos países, que antes apres entavam diferenciações culturais na forma de se 
+expressarem visualmente através de suas peças de roupas, passaram a se vestir de forma igual, 
+como um uniforme global. 
+As modernizações do século XX fizeram com que a propagação da informação se 
+tornasse mais  rápida e acessível. Isso se deu por causa da liberdade que ela possui ao ser 
+detentora de seus próprios veículos de comunicação. Segundo Milton Santos (1979, p. 28) a 
+ação da informação “se faz sentir em todos os níveis e constitui o principal sustentácul o da 
+difusão de novos modelos de consumo inspirados nos países mais ricos”. 
+Seguindo, pode -se inferir que indústria é cultura de massa enquanto artesanato é 
+cultura popular, e Milton Santos (2006, p. 222) diferencia bem essas duas formas de cultura: “a
+
+## Página 34
+
+35 
+ 
+cultura popular tem raízes na terra em que se vive, simboliza o homem e seu entorno, encarna a 
+vontade de enfrentar o futuro sem romper com o lugar”. Entretanto, não trair o meio no qual se 
+desenvolve não quer dizer que a cultura popular seja imutável, já que mesmo apresentando uma 
+relação bastante restrita entre o homem e o lugar, ainda é uma manifestação mundial e com isso 
+é passível de trocas de experiências ao mesmo tempo em que mantém sua originalidade, que 
+representa o lugar, resguardada. Por outro lado,  a cultura de massa tem como característica a 
+uniformização dos lugares, passando por cima das culturas locais e implementando uma 
+sociedade que se comporta e se expressa segundo as normas do poder hegemônico. 
+Apesar deste cenário nada animador para os tra balhadores que seguem no setor 
+manual de produção de bens, Martins (1973, p. 77) defende que a indústria pode até 
+enfraquecer a produção artesanal, mas não a elimina: “haverá artesanato no futuro e em toda 
+parte, seja qual for avanço cultural”. 
+ 
+2.1.4 – Caminhos para uma assistência ao artesão brasileiro 
+ 
+O fato é que um bom produto artesanal pode levar muito tempo para ficar pronto e 
+tentar competir com a rapidez da indústria leva o/a artesão/artesã o feitio de produtos realizados 
+às pressas e consequentem ente, de má qualidade. Junta -se a isso um problema comum no 
+Brasil: a aparente falta de incentivos por meio do Estado e das prefeituras. Para que o 
+artesanato continue sendo produzido no país se faz necessário uma rede de assistência ao 
+produtor, até que e sse se organize ao ponto de conseguir se desenvolver sozinho. São três os 
+caminhos que os responsáveis pela assistência ao artesão necessitarão tomar para ajudá -lo a 
+viver de seu ofício. Financeira, Comercial e Técnica (MARTINS, 1973). 
+Pensando nisso, a aj uda financeira deve acontecer através de políticas econômicas de 
+investimentos produtivos, de forma direta, como é o caso de empréstimos especiais e sem juros, 
+com um prazo estendido para o pagamento, ou até mesmo com doações de aparelhos e 
+instrumentos de  uso diário na rotina do artesão, como linhas, agulhas, tintas e fornos; e de 
+forma indireta, como por exemp lo a aplicação de parte do rendimento  nacional em melhorias 
+nos setores de meios de transportes e comunicação. 
+De acordo com George (1971, p. 79), “ não há política econômica sem opção entre o 
+investimento e a distribuição de meios de consumo”, por isso a questão financeira deve estar 
+atrelada à assistência comercial, pois sem ela toda a produção ficaria sem escoamento. Essa 
+etapa da produção necessita  de um amparo eficaz, pois, segundo Martins (1973, p. 84 -85) “o
+
+## Página 35
+
+36 
+ 
+artesão produz, mas não dirige, nem sabe fazer negócios”, e por conta disso é importante que 
+haja alguém responsável por dirigir a venda do que foi produzido de artesanato. 
+Uma boa parte do qu e é produzido no país acontece em pequenas cidades e zonas 
+rurais afastadas dos enormes centros de consumo nacional. Isso é o que Milton Santos e María 
+Laura Silveira (2006, p. 264) chamam de “espaços opacos”. Logo, reiterando, é preciso auxílio  
+do Estado e de organizações privadas  para um maior fluxo de negócios e mercadorias entre 
+esses subespaços e os “espaços luminosos”, ou seja, cidades com maior conteúdo em capital, 
+onde um público consumidor mais numeroso tenha acesso direto aos produtos artesanais. 
+Por último, a assistência técnica, deve acontecer em forma de cursos de 
+aperfeiçoamento, palestras ou material didático, que seriam responsáveis pela atualização dos 
+processos de criação do produtor artesanal, que por vezes repete uma mesma construção com 
+um design ultrapassado e nada atrativo ou então, o oposto do anterior, se joga em tendências 
+passageiras (MARTINS, 1973). 
+As políticas públicas que buscam levar assistência ao artesão devem, como aponta 
+Cocco, Galvão, Silva (1999, p. 28 -29) “contemplar um planejamento do contexto capaz de 
+tornar visíveis as ‘mãos da comunidade’ e, sobretudo, de fazer emergir formas de atuação 
+empreendedoras nestes ‘territórios sociais’”. Ou seja, essas políticas devem ser bem elaboradas 
+para que esse trabalhador receba a aj uda necessária, que o elevará a um lugar de cidadão capaz 
+de se desenvolver junto com sua comunidade, produzindo mercadorias de valor significativo e 
+comercial ao ponto de o fazer viver plenamente de seu trabalho e em sintonia com o lugar onde 
+vive, fazendo parte ativamente do processo de enriquecimento de toda a região. 
+No Brasil, as tentativas de assistência se deram tarde. Mesmo já sendo um país 
+independente e com sua república instaurada, o amparo e o direito de existência do artesanato 
+local só ficou subentendido na Constituição de Getúlio Vargas, que data de 10 de novembro de 
+1937, no artigo 136 que deixa vivo ser “o trabalho é um dever social. o trabalho intelectual, 
+técnico e manual tem direito a proteção e solicitude especiais do estado.” (p. 36). O artigo ainda 
+afirmava que se tratava de um direito de o cidadão subsistir mediante ao trabalho honesto, 
+sendo papel do Estado proteger e assegurar condições dignas para o desenvolvimento do 
+indivíduo (PORTO, 2012). 
+Contudo, esse mesmo período é responsáve l pelo fracionamento do mercado de 
+trabalho brasileiro. Essa característica, portanto, faz com que as pessoas que labutam em uma 
+profissão que não estão inseridas nos termos da formalidade encontrem dificuldades de apoio e 
+desenvolvimento em suas áreas.
+
+## Página 36
+
+37 
+ 
+Ainda nesse período, a Era Vargas se empenhou para fomentar a instalação do 
+mercado de trabalho formal no Brasil e com isso uma parcelada da população conquistou 
+direitos trabalhistas, no entanto, segundo Cocco, Galvão, Silva (1999, p. 27 -28) esta mesma 
+iniciativa getulista “deixou de fora uma parcela significativa da população, que passou a 
+desempenhar suas atividades econômicas à margem da oficialidade ou da formalidade”. Essa 
+população, a qual estão inclusos os artesões, se encontrava nas posições mais inf eriores da 
+estrutura do mercado de  trabalho, sem uma remuneração satisfatória e excluídos de 
+qualificações e dos direitos formais assegurados pelo Estado, como salário mínimo, férias e 
+seguro desemprego. 
+Com o passar do tempo, e por mais que a Constituição  de 1988 apresente como um de 
+seus fundamentos no Artigo 1º, inciso IV “os valores sociais do trabalho e da livre iniciativa” e 
+ainda no Artigo 5º, inciso XIII  “é livre o exercício de qualquer trabalho, ofício ou profissão”, 
+foi somente em 22 de outubro d e 2015, durante o governo de Dilma Rousseff que foi criado 
+uma legislação específica para o artesanato brasileiro. A lei de nº 13.180, ordena sobre a 
+profissão de artesão e sanciona que artesão é “toda pessoa física que desempenha suas 
+atividades profissio nais de forma individual, associada ou cooperativada”. Assim sendo, o 
+artesanato passa a ser uma atividade assegurada por políticas públicas que visam o seu 
+reconhecimento como elemento de identidade cultural do Brasil, além de buscar uma maior 
+aproximação com outras áreas econômicas e sociais em desenvolvimento no país. 
+ 
+2.1.5 – O Programa do Artesanato Brasileiro – PAB 
+ 
+Continuando com os avanços, uma importante ação desenvolvida para assistência à 
+produção artesanal nacional foi a criação do Programa do Artesanato Brasileiro, que tem suas 
+raízes no Programa Nacional de Desenvolvimento do Artesanato instituído pelo Decreto nº 
+80.098 de 08 de agosto de 1977. Nesse decreto, o então presidente Ernesto Geisel estabelece 
+que as atividades assistenciais ao artes anato nacional sejam supervisionadas pelo Ministério do 
+Trabalho e que tenham como objetivo principal “coordenar as iniciativas que visem à 
+promoção do artesão e a produção e comercialização do artesanato brasileiro”. 
+O artigo 2º deste decreto trazia uma l ista de outros objetivos do programa, como o 
+desenvolvimento da atividade artesanal em todo o país; a certificação para o crescimento do 
+artesão e que este consiga se sustentar; o encaminhamento à formação de profissionais; o 
+encorajamento e viabilização d e sistemas para uma melhor organização de produção e 
+comércio dos produtos artesanais; a promoção  do cuidado com relação ao artesanato nacional
+
+## Página 37
+
+38 
+ 
+– por ser uma manifestação de nossa cultura popular e por isso se faz necessário buscar meios 
+de proteção jurídica para os trabalhadores artesões -, e ainda, incentivos fiscais e financeiros e o 
+favorecimento de pesquisas responsáveis pela atualização do setor artesanal (BRASIL, 1977). 
+Quase dois anos depois, com o Decreto nº 83. 290, de março de 1979, o Programa 
+Nacional de Desenvolvimento do Artesanato – PNDA, foi enriquecido com a “Classificação de 
+Produtos Artesanais e Identificação Profissional do Artesão”. Através dessas medidas, os tipos 
+de artesanatos feitos no país seriam identificados e certificados por ór gãos públicos e privados, 
+os quais alguns receberiam um selo de qualidade estabelecido pela Comissão Consultiva do 
+Artesanato. Paralelamente, os artesãos seriam cadastrados e fiscalizados, passando a terem uma 
+identificação profissional - uma espécie de có digo que apareceria em seus produtos -, e dessa 
+forma este profissional também receberia, por meio do Ministério do Trabalho, a Carteira de 
+Trabalho e Providência Social com anotações gerais a respeito das condições especificas de 
+trabalhador diferenciado (BRASIL, 1979). 
+Apesar disso, em 1991, décadas depois, o decreto de 1977 e alguns artigos de 1979 
+foram revogados, ou seja, invalidados. Foi então, através de Decreto de 21 de março de 1991, 
+durante o governo de Fernando Collor, que se cria o Programa do A rtesanato Brasileiro, o 
+PAB, vigente até hoje. Nesse ano, o programa passou a fazer parte do Ministério da Ação 
+Social por meio da Secretaria Nacional de Promoção do Artesanato Brasileiro e possuía como 
+principal objetivo “coordenar e desenvolver atividade s que visem valorizar o artesão brasileiro, 
+elevando o seu nível cultural, profissional, social e econômico, bem assim desenvolver e 
+promover o artesanato e a empresa artesanal” (BRASIL, 1991). 
+Mais tarde, com o Decreto nº 1.508, de 31 de maio de 1995 o PA B passa a ser 
+subordinado ao Ministério da Indústria, do Comércio e do Turismo do governo Fernando 
+Henrique Cardoso (BRASIL, 1995). 
+Na contemporaneidade, de acordo com o Decreto nº 9.745, de 8 de abril de 2019, o 
+PAB faz parte da pasta do Ministério da Eco nomia, na Subsecretaria de Desenvolvimento das 
+Micro e Pequenas Empresas, Empreendedorismo e Artesanato da Secretaria de 
+Desenvolvimento da Indústria. O programa trabalha para que o artesanato se torne cada vez 
+mais uma atividade estruturada e ciente de se u papel enquanto importante agente econômico 
+dentro das comunidades onde é praticado. Como são muitos os locais no Brasil que se 
+desenvolvem algum tipo de atividade artesanal, é indispensável um olhar atencioso para um 
+trabalho que pode ser um aliado na me lhoria das condições de vida de uma expressiva 
+quantidade da população do país.
+
+## Página 38
+
+39 
+ 
+No entanto, mesmo que o programa hoje se encontre no Ministério da Economia do 
+governo Bolsonaro, o documento que o determina e estabelece a mais atualizada base 
+conceitual do artesanato brasileiro é a Portaria nº 1.007 -SEI, de 11 de junho de 2018 da então 
+Secretaria Especial da Micro e Pequena Empresa do Ministério da Indústria, Comércio Exterior 
+e Serviços. No Art. 4º dessa portaria se encontram os objetivos e as finalidades do Programa do 
+Artesanato Brasileiro (PAB). Segundo este documento, o programa tem como objetivo 
+principal “promover o desenvolvimento integrado do Setor artesanal e a valorização do artesão, 
+elevando o seu nível cultural, profissional, social e econômico”.  
+E assim, o PAB torna -se o responsável por desenvolver políticas públicas seguidas de 
+ações que devem valorizar o trabalhador do artesão, ajudando -o a crescer em sua profissão.  
+Para isso, o programa deve apoiá -los estrategicamente e de maneira contínua para que esse 
+profissional esteja sempre se qualificando e se aperfeiçoando em seu campo ocupacional. É 
+papel do PAB, também, criar formas de desenvolvimento que avigorem a atividade artesanal, 
+trazendo inovações que sejam capazes de elevar a condição dos produtos, tonificando toda a 
+cadeia produtiva ligada ao artesanato. 
+Estruturalmente, o PAB é composto de uma Coordenação Nacional (coordenador 
+escolhido pelo Secretário Especial da Micro e Pequena Empresa) e por 27 Coordenações 
+Estaduais do Artesanato (CEA ), sujeitas às Secretarias de Estado dos estados brasileiros e do 
+Distrito Federal, que se associam através de um Acordo de Cooperação Técnica que visa o 
+crescimento do artesanato no Brasil. São as Coordenações Estaduais do Artesanato as 
+responsáveis pelo cadastro dos artesãos, assim como a atualização deste, além da expedição da 
+Carteira Nacional do Artesão e outros procedimentos. 
+Ademais, o programa é igualmente responsável por trabalhar uma imagem positiva do 
+artesanato como uma manifestação da diversida de cultural do nosso país, tratando, assim, de 
+divulgá-lo por todo o mundo consumidor. Somado a isso, ainda é responsabilidade do PAB 
+fazer acontecer o fórum nacional do artesanato e ajudar para que se concebam fóruns desse tipo 
+a nível estadual e determin ar que sejam entregues prêmios nacionais para artesões que se 
+destacarem no serviço relevante à cultura popular de seu lugar. E por fim, o PAB mantém 
+efetivado o portal do artesanato brasileiro e gerencia políticas públicas que visem o 
+desenvolvimento da a tividade artesanal brasileira levando em consideração os interesses dos 
+trabalhadores do ramo, que estão distribuídos em todo o território nacional. 
+Os dados dos artesões são armazenados em um sistema único: o Sistema de 
+Informações Cadastrais do Artesanat o Brasileiro – SICAB, e é através desses dados, em
+
+## Página 39
+
+40 
+ 
+sintonia com a base conceitual, que é possível fazer um mapa geral dos locais onde acontece o 
+artesanato e é assim, planejar políticas públicas para ajudar os trabalhadores artesanais do país. 
+Com essa org anização, o programa deve sistematizar os meios e os atores que 
+viabilizem saídas adequadas para proteger e afirmar o desenvolvimento geral dos artesãos, 
+garantindo transformação e manutenção para uma existência digna a esses profissionais, e para 
+isso é i ndispensável que os produtos artesanais cheguem ao mercado que irá consumi -lo. 
+Portanto, é função do PAB criar e manter estruturas públicas de compra e venda do artesanato 
+produzido (BRASIL, 2018). 
+Ainda em relação a organização do programa, Salete Nery (2 012, p. 225 -226) chama 
+de “nódulos” este sistema de formas e atores que articulam e viabilizam o desenvolvimento 
+artesanal. Esses nódulos são formados por conectores que estão fixados nas regiões de maior 
+consumo e atuam como um elo de ligação entre os pro dutores e a sociedade que consome seu 
+trabalho, inclusive, promovendo esse exercício, formando uma rede econômica prática e 
+organizada capaz ainda de continuar alimentando a tradição de um lugar. 
+São exemplos de nódulos as Coordenações Estaduais do Artesan ato, assim como as 
+ONGs, o Sistema S, que tem sua gênese na década de 1940 com Getúlio Vargas - através ações 
+e cursos do SEBRAE e do SENAC - e até alguns projetos de universidades. É através dessa 
+estruturação que o artesão pode continuar em sua região. C om o auxílio dos conectores, que 
+possibilitam a comercialização e o transporte de mercadorias, o artesão consegue vender em 
+uma escala territorial maior, acarretando em geração de capital e ainda mantém uma tradição 
+econômica importante para a cultura do seu país. 
+Para que qualquer artesão brasileiro receba assistência por meio de políticas públicas 
+do PAB é preciso que este esteja cadastrado no SICAB. O sistema formula e apresenta o setor 
+em diversas categorias: artesão profissional; mestre artesão profissional; associação de artesãos; 
+cooperativa de artesão; grupo de produção artesanal; sindicato de artesão; federação de artesão 
+e confederação de artesão. 
+Uma associação de artesãos é uma entidade de interesses particulares e sem fins 
+lucrativos, com trabal hadores que se organizam para preservar e melhorar as atividades que 
+desempenham em comum, no caso o artesanato que produzem. Essa associação terá um diretor 
+escolhido pela maioria dos sócios, conforme o seu estatuto, e é exatamente essa forma de 
+organização que a diferencia de um grupo de produção artesanal, já que nesse temos uma união 
+informal de número pessoas que fazem artesanato. 
+Das categorias cadastradas no SICAB e que apresentam uma organização melhor 
+estabelecida, mesmo que burocrática, são as Coo perativas de artesãos – instituições
+
+## Página 40
+
+41 
+ 
+independentes com mais de 20 membros que tem como principal objetivo a possibilidade de 
+uma produção maior que causará mais lucros e crescimento, trata -se de empresas de 
+propriedade coletiva e democraticamente geridas -. 
+Os Sindicatos de artesãos, por sua vez, são formados legalmente por trabalhadores que 
+exercem um mesmo tipo de ofício e se juntam para defender e preservar seus interesses, sejam 
+eles econômicos ou trabalhistas. Já as Federações de artesãos são no mínimo  5 cooperativas ou 
+associações que trabalham com os mesmos produtos ou com algo próximo a isso e se 
+organizam em um mesmo estado ou região para um bem comum. 
+Por último, e de forma parecida, são organizadas as Confederações de artesãos, com a 
+união de no m ínimo 3 federações que se reúnem para uma melhor dinâmica de produção e 
+distribuição e por isso podem ser cadastradas no SICAB - lembrando sempre que o cadastro 
+individual do artesão continua sendo garantido mesmo que este esteja inserido em um algum 
+dos grupos citados a pouco (Brasil, 2018). 
+Transportando o foco para a o acesso às já mencionadas políticas públicas, a Carteira 
+Nacional do Artesão, expedida pelas CEAs com a auxílio do levantamento do SICAB é o meio 
+de identificação do profissional da área e é válida em todo o Brasil por 6 anos. Para ter acesso a 
+esta carteira de identificação deve -se encaixar em uma das técnicas preestabelecidas pela base 
+do artesanato brasileiro, e além disso se faz necessário questões burocráticas, como 
+comprovantes de documentação, exibição de peças prontas e testes de habilidade. 
+Caso o trabalhador seja um mestre artesão ou um artista popular, a emissão da carteira 
+é feita de forma diferente: para o mestre artesão exige-se testemunhos que relatem o valor desse 
+profissional para comunidade durante pelo menos 10 anos de trabalho em solo brasileiro, e 
+mostrar que o conhecimento técnico que possui é precioso para os demais na forma de 
+aprendizado para novas gerações. 
+Com o artista popular é basicamente o mesmo protocolo, o que diferencia é que não se 
+espera que esse profissional repasse para os demais o seu conhecimento, já que é uma sabedoria 
+última, que pertence somente a ele enquanto artista. A renovação da Carteira Nacional do 
+Artesão é simples, basta solicitar a CEA, sem a necessidade de um novo de teste de habilidade. 
+Voltando para o aspecto jurídico, no artigo 21 da Portaria nº 1.007 -SEI - responsável 
+pela base conceitual do artesanato brasileiro -, encontra-se a classificação da produção artesanal 
+de acordo com sua origem , que pode ser tida como: Artesanato Tradicional, Arte Popular, 
+Artesanato Indígena, Artesanato Quilombola, Artesanato de Referência Cultural e Artesanato 
+Contemporâneo-Conceitual.
+
+## Página 41
+
+42 
+ 
+A partir dessa divisão, temos o Artesanato Tradicional como aquele em que a  
+produção é feita por uma família ou comunidade que passa seus conhecimentos do mais velho 
+para o mais novo, mantendo assim uma tradição de riqueza cultural. Já a Arte Popular tem um 
+caráter mais individual de produção, no qual um único artista -artesão apr esenta seu 
+reconhecido trabalho de valor artístico e cultural sendo capaz de expressar sua visão do local 
+onde vive ou de seu imaginário criativo. 
+A produção artesanal das diversas populações indígenas do Brasil é chamada de 
+Artesanato Indígena, e o mesmo acontece com o Artesanato Quilombola, que é o fruto da 
+produção dos cidadãos remanescentes dos quilombos espalhados pelo país. Ambas as formas 
+de artesanato apresentam um selo de autenticidade que os identificam, sendo o Selo Indígena 
+do Brasil designado p elo Ministério do Desenvolvimento Agrário (Portaria Interministerial nº 
+2, de 3 de dezembro de 2014) e o Selo Quilombola pela Secretaria de Políticas de Promoção da 
+Igualdade Racial (Portaria nº 22, de 14 de abril de 2010).  
+Continuando, temos, como foi vi sto, também o Artesanato de Referência Cultural: 
+aquele que apresenta uma produção inovadora, mas trazendo como referência elementos 
+tradicionais. Essa forma de artesanato pode ser feita através de resgaste ou releituras de 
+elementos simbólicos de um deter minado local. Já o Artesanato Contemporâneo -Conceitual é 
+uma manifestação urbana de produção que resgata formas de fazer tradicionais, porém com 
+materiais encontrados nas cidades - produtos manufaturados que serão reciclados e darão vida a 
+objetos artesanais (BRASIL, 2018).  
+Os grupos dos produtos artesanais são também classificados levando -se em 
+consideração a função a qual se destina. 
+Desta forma, a produção artesanal pode fazer parte do grupo dos adornos, acessórios e 
+vestuários, quando esses são objetos usados por pessoas com o intuito que vai além da intenção 
+de se cobrirem da nudez, mas por razões ligadas a beleza; são decorativos quando se destinam 
+ao design de interiores de casas ou outros ambientes com presença humana que valorize aquele 
+objeto; um produto artesanal é educativo quando é voltado para os estímulos de aprendizagem. 
+Nessa mesma perspectiva, os lúdicos são considerados os objetos artesanais feitos com 
+o intuito de entreter através do seu significado. Esses podem ser brinquedos, máscaras o u 
+instrumentos musicais da cultura popular de um lugar. Alguns produtos são feitos 
+exclusivamente para rituais religiosos, com uma beleza que está diretamente ligada à crença de 
+uma comunidade, sendo assim chamados de objetos artesanais religiosos ou mític os, sendo os 
+altares um bom exemplo dessa forma de expressão. Por outro lado, os profanos são 
+representativos de uma terminada crenças, mas não estão ligados às religiões (BRASIL, 2018).
+
+## Página 42
+
+43 
+ 
+Os objetos frutos do trabalho do artesão ainda podem ser considerados como utilitários 
+- quando são feitos para atender uma funcionalidade presente no trabalho ou no lar -; e por fim, 
+o produto artesanal pode ser a famosa “lembrancinha” que apresenta bem um local visitado e 
+por isso é tão procurado para presentear as pessoas queridas (BRASIL, 2018). 
+Uma das principais características do artesanato é o uso de matéria -prima disponível 
+na natureza, de onde o artesão pode ter acesso de forma livre ou por um preço simbólico, como 
+é caso das matérias-primas naturais de origem animal, como a carcaça, a casca, o casco, a cera, 
+a concha, o couro, a pele, o pelo, a crina, o dente, o chifre, o osso, a escama, a pena e a pluma, 
+das matérias -primas naturais de origem vegetal tais como a casca, o caule, as raízes, a cera 
+natural, a massa, a resina, os fios, as fibras, as flores, as floras, os frutos, o látex, a balata, a 
+madeira e as sementes, e das matérias -primas naturais de origem mineral, com é o caso da 
+areia, da argila e da pedra (BRASIL, 2018). 
+No entanto, algumas matérias -primas uti lizadas para criação de produtos artesanais 
+são manufaturadas. Elas podem ser matérias -primas manufaturadas de origem animal e como é 
+o caso do couro, da pele, dos fios de lã e da seda, e também podem ser de origem vegetal, como 
+por exemplo, a borracha, os fios, os tecidos, a massa, o MDF, o aglomerado, o compensado e o 
+papel. Já as matérias -primas manufaturadas de origem mineral podemos citar a cerâmica, o 
+metal e vidro. 
+Não muito bem vistas, por conta do quesito qualidade, existe ainda o grupo das 
+matérias-primas sintéticas, que por mais que sejam mais baratas que as totalmente naturais, 
+trazem ao produto artesanal um ar de artificialidade por conta de fios, tecidos, couros e outros 
+materiais sintéticos. Com o uso dessas matérias -primas são realizadas técn icas artesanais que 
+darão origem a objetos como os vasos feitos de argila ou os cestos produzidos com folhas de 
+palmeiras (produções típicas do artesanato indígena e folclórico). 
+  
+2.2 – Artesanato e Economia 
+ 
+Mesmo sendo um tipo de trabalho que muitas vez es representa e ilustra bem uma 
+forma de produção econômica de comunidades mais carentes, o artesanato é uma prática 
+encontrada em todas as classes sociais, e isso se deve a sua valorização cultural e também pela 
+sua diversidade, que vai do produto indígena ao quase erudito. 
+Se olhamos para uma economia local, a produção artesanal representa um feitio 
+positivo para a comunidade na qual está inserida, pois contribui para o dinamismo das 
+atividades na região. À vista disso, o artesanato é um parceiro viável p ara pessoas que não
+
+## Página 43
+
+44 
+ 
+conseguem, por diversos motivos, fazerem parte do mercado formal, seja essa situação apenas 
+em um período de temporadas ou por muito mais tempo, ocupando assim o tempo livre que 
+dispõem com a produção artesã, o que acarreta na geração de um rendimento que auxiliará nas 
+despesas do lar. Esta forma de serviço temporário pode levar, inclusive, esse indivíduo vir a se 
+tornar um artesão profissional, que passará a viver dos ganhos desse ofício. 
+A importância do trabalho manual na vida do arte são e da sociedade onde vive abarca 
+várias áreas de desenvolvimento humano, se tomando novamente a questão socioeconômica 
+vemos que o artesanato, enquanto atividade  mercadológica, é fonte de remuneração  e através 
+dessa traz melhores condições de vida para seus feitores, mas também pode ser um trabalho 
+feito apenas para autoconsumo, o que mexe diretamente na economia doméstica, já que atende 
+uma necessidade própria ou familiar que não mais será preciso comprar de terceiros. 
+Além disso, o artesanato também é responsável por estimular a criação artística ao 
+impulsionar o desenvolvimento intelectual e criativo do obreiro que vê na matéria -prima a 
+possibilidade de transformação que leva ao útil e ao belo. Outro aspecto importante está em seu 
+lado terapêutico: por ser uma atividade que exige paciência e cuidado, o processo do fazer leva 
+o indivíduo hiperativo ou até mesmo doente a manter a calma e se ocupar construindo algo, e 
+ao fazer isso, este sujeito passa a se sentir útil e valorizado pela comunidade onde vive , 
+afastando-se de doenças como a depressão. 
+O artesanato enquanto manifestação cultural também pode ser útil economicamente 
+falando a uma região, atribuindo a ela um status de atração turística. O turismo, que conforme 
+Cruz (2003, p. 5) é “uma prática social, que envolve o deslocamento de pessoas pelo território e 
+que tem no espaço geográfico seu principal objeto de consumo”, torna -se um aliado capaz de 
+levar turistas e compradores que buscam por objetos únicos, a determinados lugares onde são 
+produzidos. 
+A vigente valorização e consumo do artesanato turístico é um fenômeno econômico 
+que leva muitos trabalhadores artesãos, que fazem parte da população mais pobre, a retornarem 
+as atividades tradicionais que haviam abandonado ou que estavam se dedicando de man eira 
+ocasional nos últimos tempos (SANTOS, 1979). 
+Na contemporaneidade, acha-se uma parcela da população que dá preferência a peças 
+feitas através de processos manuais, se lançando contra a maré dos avanços tecnológicos. 
+Segundo Nery (2012, p. 219), o perf il do consumidor de produtos artesanais têxteis se encaixa 
+em “grupos de estilo vinculados à intelectualidade, à vanguarda e àqueles que buscam o 
+diferente, em comparação com o industrializado”.
+
+## Página 44
+
+45 
+ 
+Fatores econômicos e culturais causaram essa valorização do produto artesanal, e um 
+dos principais motivos é o aumento mundial na busca por bens de consumo diferenciados, ou 
+seja, objetos genuínos e de valor simbólico que fogem das formas padronizadas da indústria 
+dominante. Como se tratam de produtos distintos, as  empresas especializadas nesse tipo de 
+fabricação lucram em cima de uma produção em série limitada e por isso mesmo vendida a 
+preços altos, o que representava para o consumidor elitizado a aquisição de um bem de capital 
+que o distancia do consumidor comum (BAGNASCO, 1999).  
+Como fora do Brasil nosso artesanato têxtil é tido como algo exclusivo, curiosamente 
+deixa de ter este caráter de artigo exótico, que ironicamente apresenta mesmo estando dentro do 
+próprio território de origem, e passa a ter o valor de um produto de luxo. No entanto, o mercado 
+internacional, e uma parcela endinheirada do mercado nacional, não vai consumir nossa 
+produção artesanal dentro dos moldes tradicionais, têm -se então o que Bagnasco (1999, p. 36) 
+chama de “um desejo comum de moderni zação cultural” e que Pires do Rio (2010, p. 28) 
+defende como “dinâmicas pós-modernas de reinvenção da tradição” 
+E é na indústria da moda, com design inovador e um ar de novidade que nossas peças 
+de renda e bordado são aplicadas e chegam ao consumidor como um produto de alto valor e uso 
+privilegiado das altas classes sociais. Assim, a moda, que em alguns momentos foi uma 
+oponente do artesanato, abusando de tendências futurista que desprezam o tradicional e o feitio 
+à mão, vem nos últimos anos realizando, is so dentro do mercado de luxo, uma valorização do 
+produto artesanal, o que trouxe mais trabalhos para muitas rendeiras e bordadeiras. 
+Por fim, é relevante apontar que o desenvolvimento de um lugar que apresenta práticas 
+culturais ligadas a uma forma de trab alho diferenciada, como o artesanato têxtil, também pode 
+ocorrer de forma espontânea, com o surgimento de pequenas empresas - e aqui tomamos as 
+associações e cooperativas de artesões como tal. Elas surgem da falta de empregos formais e de 
+políticas pública s de incentivo, ou até mesmo com a presença dessas últimas, já que podem 
+apresentar resultados abaixo do que se espera no projeto. Estas organizações acabam se 
+tornando uma opção econômica de sucesso, desde que tenha um ambiente adequado para o 
+desenvolvimento do empreendedor local. Sobre isso, Pires do Rio diz que: 
+ 
+Mesmo reconhecendo -se a possibilidade de deformações, as 
+estruturas econômicas, espacialmente organizadas, trazem em si a 
+tensão entre passado e futuro, valores patrimoniais acumulados no 
+tempo e no espaço, de um lado, e criação de valor, de outro. Não se 
+exclui a existência de redes informais que interagem de modo
+
+## Página 45
+
+46 
+ 
+bastante intenso e que, mesmo não sendo reguladas por instituições 
+formais, apresentam um grau elevado de organização. (2010, p. 17). 
+ 
+ 
+Foi dessa forma que a Terceira Itália se desenvolveu, e seu modelo, mesmo possuindo 
+características socioculturais, históricos e institucionais próprias dessa região, tem aspectos 
+universais que pode, sim, servir de inspiração para algumas regiões do Brasil.  
+O modelo da Terceira Itália diverge ao regime de acumulação fordista, pois tira o 
+lugar de produção da fábrica e o coloca no território da cidade, e assim, com pequenas 
+empresas espalhadas por esse espaço se propicia a ideia de desenvolvimento visí vel a todos, o 
+que leva a uma cadeia de cooperação mútua onde empreendedores trabalham aproximando a 
+produção da população local às cadeias produtivas e a um mercado consumidor maior. Esta 
+forma de organização traz novas formas de trabalho, e como estamos falando do artesão, um 
+trabalhador autônomo, esse profissional pode exercer suas funções por tempo parcial ou por 
+serviço, ou seja, com uma boa organização pode haver uma flexibilidade no trabalho que não 
+existe no modelo fordista (COCCO, GALVÃO, SILVA, 1999). 
+No contexto brasileiro, a parcela da população que estaria apta a desenvolver 
+estratégias para formação de um lugar de produção, aquela que vive na informalidade, é, por 
+vezes, carente e com isso excluída de seus direitos por não saber de suas existên cias. Dessa 
+forma, o desenvolvimento traz junto a promoção à cidadania dessa população.  A partir do 
+momento que o trabalhador artesão autônomo passa a fazer parte de um lugar de produção, 
+onde a colaboração entre os indivíduos leva a afirmação política e criação de infraestruturas 
+básicas que irão garantir o fluxo da produção, ele se verá livre do clientelismo e do 
+paternalismo do qual foi cativo até então (COCCO, GALVÃO, SILVA, 1999). 
+Dentro do cenário nacional, um exemplo de organização de trabalhadores artesãos é a 
+Cooperativa Artesanal de Bordados do Sertão Sergipano Ltda. A Coperbordados, como assim é 
+conhecida, surgiu através da parceria entre o Projeto de Apoio às Famílias de Baixa Renda da 
+Região Semiárida (programa do Governo Estatual para o desenv olvimento econômico dessa 
+região, conhecido como Pró -Sertão), o SEBRAE/SE e o Fundo Internacional de 
+Desenvolvimento Agrícola (FEITOSA, 2009). 
+Com sede no município de Tobias Barreto, a Coperbordados conta com o trabalho de 
+56 artesãos espalhados por 17 mu nicípio do sertão de Sergipe que se dedicam a uma produção 
+organizada de tecidos bordados para cama, mesa e banho. De acordo com Feitosa (2009, p. 46) 
+a Coperbordados funciona “como ‘agente intermediário’ do processo produtivo – fornecendo
+
+## Página 46
+
+47 
+ 
+algumas matérias-primas e assumindo a comercialização do produto final dos subcontratados”, 
+ou seja, a cooperativa oferece assistência técnica, financeira e comercial para os artesãos. 
+O mesmo autor defende que é primordial o arranjo dos grupos locais que compõem a 
+sociedade, por meio da aliança política e social, para o desenvolvimento de um terminado 
+espaço de produção econômica. Feitosa (2009, p. 57) afirma que “tudo será possível com a 
+efetiva participação dos diversos atores locais e da capacidade das instituições par a a promoção 
+do desenvolvimento local”.
+
+## Página 47
+
+48 
+ 
+CAPÍTULO 3 – A PRODUÇÃO DE RENDA DE BILRO NO MUNICÍPIO 
+DE SÃO SEBASTIÃO/AL  
+ 
+3.1 -  Perfil da Produção de Renda de Bilro em São Sebastião-AL 
+ 
+3.1.1 – Materiais utilizados na feitura de renda de bilro em São Sebastião 
+ 
+O material utilizado pelas rendeiras em seu ofício consiste em um número de objetos 
+que, ou são feitos por elas mesmas ou são facilmente encontrados no comércio da cidade de 
+São Sebastião. São eles: almofada, papelão, alfinetes, linhas e bilros. 
+A almofada é fabricada pela própria rendeira ou por uma artesã mais experiente, no 
+caso de ainda não possuir tamanha familiaridade com o ofício. O objeto é um saco ou tecido 
+costurado em forma cilíndrica - não podendo ter elasticidade -, preenchido com folhas secas de 
+bananeira e depois fechado e coberto com um outro tecido, normalmente chita, de acordo com 
+o gosto pessoal da rendeira. 
+O papelão, como é chamado em São Sebastião, mas também conhecido em outras 
+regiões como língua, gráfico, risq ué ou piqué, é uma espécie de molde feito com papel paraná 
+ou papel madeira que, preso à almofada através de grampos e alfinetes posicionados em pontos 
+específicos, orientada os movimentos dos bilros que leva a linha de algodão. A própria rendeira 
+faz seu papelão, perfurando o papel e criando pontos que unidos formam um trançado. Depois 
+de feitos são mantidos preservados para serem utilizados quando for preciso, inclusive 
+passando para novas gerações. 
+No entanto, mesmo que por tradição, o autêntico artesão domine todas as etapas de seu 
+trabalho, não havendo assim uma divisão como no estilo fordista de produção, quando se trata 
+de renda de bilros é comum que nem todas as rendeiras dominem todas as operações. 
+Em São Sebastião não são todas as rendeiras que dom inam a técnica de “furar o 
+papelão”, um dos processos que representam o domínio completo do ofício da rendeira de 
+bilros, que consiste no trabalho de reproduzir, com o auxílio dos moldes antigos,  novos moldes 
+dos desenhos já tradicionais. Em São Sebastião, rendeiras com a Dona Zuza, Dona Diva e Dona 
+Josefa dominam esta etapa do processo artesanal, porém, as renderias que não conseguem 
+produzir os moldes, procuram Dona Julinha, de 57 anos, antiga professora da Escola para 
+Rendeiras do município, uma artesã r espeitada como mestra e com bastante experiência em 
+furar papelões para outras rendeiras.
+
+## Página 48
+
+49 
+ 
+Nenhuma rendeira do município ainda faz uso de espinhos de plantas como o 
+Mandacaru para a manipulação da renda. No presente período de desenvolvimento, todas 
+utilizam alfinetes de metal, que são facilmente encontrados em lojas especializadas em costura 
+e artesanato. 
+A linha de algodão utilizada pelas rendeiras salomeenses é a Esterlina Nº 20, um tipo 
+de linha fabricado apenas na cor branca e com boa espessura, sendo adquirida nos armarinhos 
+de São Sebastião ou de Arapiraca. Porém, mesmo sendo uma unanimidade o uso dessa marca 
+de linhas, não são todas as rendeiras que se sentem satisfeitas com ela. Há quem relate que a 
+Esterlina apresenta problemas na cor (a renda bran ca perde a alvura rápido, mesmo que seja 
+guardada dentro de sacos de plástico ou envolvida por papel de seda), que quebram muito 
+rápido e que distorce a renda, dificultando o trabalho. 
+A artesã lembra com saudade da época que trabalhava com linhas da marca  Âncora 
+(Anchor). Não se sabe ao certo os motivos que levaram a substituição por parte das rendeiras 
+da Anchor pela Esterlina, mas possivelmente esteja relacionada a qualidade e valor no produto 
+no comércio, já que o novelo com 170m da linha Anchor Artiste  Mercer Crochet 20 Branca 
+custa em média R$14,90, enquanto o novelo de 1150m da linha Esterlina nº 20 Branca é 
+comprada por no máximo R$15,90. Ambas as marcas fazem parte do grupo multinacional 
+britânico Coats, que tem fábrica no Brasil, aqui conhecida como Coats Corrente Ltda. 
+Tratando-se do uso, o consumo de linha vai depender do desenho da renda: aquelas 
+que apresentam muitos detalhes em formato de traças (comum em rendas com motivos florais) 
+requerem mais matéria -prima. Uma passadeira de tamanho 20x60cm , por exemplo, necessita 
+em média de seis novelos de linha Esterlina. 
+Em relação ao principal material para a confecção da renda - o bilro -, gerações 
+anteriores faziam seus próprios. Nos finais de semana, as antigas rendeiras do município, junto 
+com seus filhos, iam até a mata procurar uma árvore conhecida como “araçá de bilro”. Delas, 
+retiravam um pedaço de madeira que com o auxílio de uma faca davam formas, mesmo que 
+grosseiras, aos bilros. Esses bilros mais artesanais ainda podem ser encontrados com alg umas 
+rendeiras que os herdaram de suas mães e os usam até hoje. 
+No período atual, é predominante o uso de bilros feitos com o uso de máquinas em 
+marcenarias. Contudo, nem todos os marceneiros locais aceitam esse tipo de encomenda, 
+alegando que se gasta uma  grande quantidade de madeira de qualidade, que deve ser pesada, 
+pois as leves não servem para bilros, e com isso a matéria -prima torna-se exorbitante e o lucro 
+quase nenhum. O profissional cobra entre R$40,00 a R$50,00 por uma dúzia de bilros, ou seja, 
+6 pares. Uma rendeira chega a utilizar 100 bilros para fazer terminados modelos de renda.
+
+## Página 49
+
+50 
+ 
+O investimento financeiro em uma almofada com 12 pares de bilro para uma iniciante 
+é de no mínimo R$200,00. Dona Josefa, rendeira e professora da Escola de Rendeiras de  São 
+Sebastião, diz que a almofada completa chega a esse valor “ por causa dos bilros, o material em 
+si é menos caro, mas os bilros é que encarece muito”. 
+ 
+3.1.2 -  O Tempo de Trabalho dedicado ao artesanato de renda de bilro  
+ 
+As artesãs de São Sebastião q ue já estão aposentadas das atividades formais que 
+desempenharam durante boa parte da vida, trabalham todos os dias - inclusive aos domingos -, 
+fazendo peças e aplicações de renda, um trabalho intensivo, típico do circuito inferior da 
+economia nos países subdesenvolvidos. O horário é variado, vai de acordo com tempo livre que 
+cada uma dispõe. Algumas dessas mulheres preferem ou estão mais livres durante as horas do 
+dia, começando a trabalhar logo pela manhã; já outras trabalham mais entre a tarde e a noite, ou 
+apenas no período noturno. 
+ 
+Figura 5: Dona Zezé, rendeira de São Sebastião-AL 
+ 
+Fonte: Arquivo do autor, visita realizada em 2018. 
+ 
+Algumas rendeiras, por motivos de obrigações domésticas e até mesmo de saúde 
+(como dores na coluna e problemas de visão) , labutam menos horas no artesanato, reservando 
+cerca de 3 horas por dia, contudo, existem renderias que ultrapassam 12 horas de empreitada
+
+## Página 50
+
+51 
+ 
+diária fazendo renda. É uma disciplina que vem do hábito. Para a artesã, o trabalho de fazer 
+rendas é tão naturalizado em seu dia-a-dia como são as refeições. 
+Quanto às artesãs mais jovens que ocupam a maior parte do tempo em outra função, 
+como trabalho formal ou os estudos, o ofício de rendeira é feito nos finais de semana ou quando 
+estão em seu período de férias. 
+ 
+3.1.3 - Principais características dos produtos de renda de bilro feitos em São Sebastião -
+AL 
+ 
+Por ser um trabalho que exige muito tempo e dedicação, é normalmente realizado por 
+encomenda. Isso acontece para que não haja o risco de, depois de tanto esforço, nã o encontrar 
+um comprador para o produto. No entanto, nos dias atuais, é raro encontrar uma renderia que 
+aceite um pedido para fazer uma peça completa e de uso utilitário, como por exemplo um 
+caminho de mesa ou, caso a rendeiras também domine técnicas de costura, uma blusa de renda. 
+No presente momento, as rendeiras de São Sebastião costumam trabalhar na feitura de 
+tiras de aplicação, ou seja, fragmentos de renda que serão utilizadas como matéria -prima por 
+confecções na construção ou ornamento de peças de ve stuário ou moda casa. Além disso, 
+também são feitos bicos, que são usados para o acabamento de roupas, colchas e toalhas, como 
+as de mesa, banho e rosto. 
+Todos os tipos e moldes são valorizados, sendo produzidos e vendidos por metros. 
+Estas aplicações podem ser feitas em vários modelos - quadradas, triangulares, retangulares ou 
+redondas -, conforme o pedido do comprador. 
+Mesmo sendo cada vez mais raro, algumas rendeiras aceitam encomendas para fazer 
+peças de vestuários, objetos de decoração e utensílios dom ésticos. Dessa forma, já foram 
+produzidos (e continuam sendo): golas, palas, xales, vestidos de casamento, vestidos de 
+formatura, anéis para guardanapos, panos de bandeja e colchas. 
+Tratando-se de colchas, nenhuma tornou -se tão célebre quanto a que foi pro duzida em 
+um período de 1 ano e 6 meses por uma rendeira da zona rural do município na década passada. 
+Essa artesã fez sozinha e sem emendas uma colcha de 2.30m de comprimento por 1,90m de 
+largura - uma peça considerada pelas artesãs locais como a maior já  feita em São Sebastião. A 
+colcha foi feita na cor vermelha, usando a linha Esterlina Nº 10, que é mais grossa que a nº 20 
+que só é encontrada na cor branca. 
+A escolha da cor não é mero acaso, está diretamente ligada a uma característica do 
+lugar. As mulheres que dominam o artesanato de renda de bilro e vivem nos sítios e povoados
+
+## Página 51
+
+52 
+ 
+da zona rural se veem obrigadas a trabalharem com linhas coloridas, já que a branca muda de 
+cor, tornando-se amarelada com a presença da poeira constante nesses locais. A problemá tica 
+está no fato da cor da renda valorizada e encomendada por compradores ser a branca, produzida 
+em melhor qualidade na cidade, o que faz com que as rendeiras rurais de São Sebastião as 
+deixem de produzir. 
+ 
+Figura 6: Rendeira da zona rural trabalhando na  maior peça de renda já feita 
+em São Sebastião-AL 
+ 
+Fonte: Acervo da rendeira Zuza. Acesso em 2018. 
+ 
+Também é de conhecimento geral entre as rendeiras da zona urbana, que nem todas se 
+sentem seguras no ato de começar uma nova peça. Nesses casos, uma rendei ra mais experiente 
+costuma iniciar as primeiras tramas da peça e depois passa para a outra que agora consegue 
+prosseguir sem dificuldades, evidenciando a dificuldade da produção do início e dos 
+acabamentos, as tarefas mais complicadas no fabrico da renda d e bilro. Com isso, nem todas as 
+artesãs do munícipio conseguem realizar todos os motivos e desenhos, alguns são penosos e 
+vagarosos, e as rendeiras que os dominam tornam-se especialistas nesses pontos. 
+Cada rendeira costuma se dedicar a fazer aplicações ou  bicos que apresentam sempre 
+um mesmo desenho específico, o que não impede que com o tempo deseje mudar para um 
+outro. Os motivos que levam uma rendeira a se manter fiel a um modelo de renda vão desde o
+
+## Página 52
+
+53 
+ 
+gostar mais de fazer aquele tipo de trabalho ou até m esmo por considerar mais bonito aquele 
+ornamento, isto é, trata -se de uma questão de gosto pessoal. Desse modo, Dona Zezé, de 91 
+anos, faz o “Bico das Viúvas” por considerar belo, enquanto Dona Susana, de 75 anos, que 
+antes fazia o “Pouso com bico” e o “Vo lta Redonda” agora se dedica a fazer tiras de aplicação 
+no estilo “Viúva”, que podem ser complementadas com os bicos feitos pela Dona Zezé. Dona 
+Iraci, de 71 anos, se dedica exclusivamente a um dos desenhos mais complexos e bem pagos, 
+uma forma de renda po pularmente conhecida como “puta”, e que atualmente algumas pessoas 
+preferem chamá-la de fita e o bico que a complementa é chamado de “corno”. 
+ 
+3.1.4 – A quantidade produzida no local e os valores no mercado consumidor 
+ 
+De acordo com Milton Santos (1979, p.  18), é nítida a “insuficiência dos dados 
+estatísticos concernentes ao circuito inferior da economia urbana ou da economia doméstica”, 
+portanto, torna-se uma tarefa difícil delimitar ao certo a quantidade produzida pelas rendeiras 
+de São Sebastião porque não existe uma contabilidade oficial desse número. 
+No cenário econômico dos países em desenvolvimento, os dados estatísticos de 
+produção econômica levados em consideração são os do circuito superior, já que utiliza -se 
+dessas informações para comparações no mercado internacional, enquanto os dados do circuito 
+inferior, dos quais o artesanato está incluso, ou não existem ou são deixados de lado (SANTOS, 
+1979). 
+Algo que dificulta ainda mais estabelecer a quantidade de renda produzida pelas 
+artesãs salomeenses é  a particularidade do fato de cada trabalhadora se dedicar a um desenho 
+ou motivo de sua preferência, um aspecto subjetivo que está ligado aos sentimentos da rendeira 
+por aquele desenho que considera gracioso. 
+Segundo Feitosa (2009, p. 51), na produção art esanal “os desenhos das peças 
+geralmente são definidos pelas próprias artesãs, ainda que, muitas vezes, elas recebam 
+encomendas em que já ficam estabelecidos o formato e o tipo de bordado solicitado”. A partir 
+disso, no caso das artesãs de São Sebastião, é  possível atender ao pedido específico de um 
+cliente, porém, o mais provável é que o mesmo se dirija à uma artesã já conhecida no 
+município pela dedicação aquele desenho de renda. 
+Cada rendeira, mesmo seguindo uma técnica, tem seu jeito de fazer renda e ta mbém os 
+pontos (formas, desenhos) que mais aprecia. Como já escreveu Martins (1973, p. 14 -15), “o 
+estilo que transparece na obra possibilita a identificação do obreiro”. Sendo assim, é natural que
+
+## Página 53
+
+54 
+ 
+a renda feita por uma determinada rendeira em São Sebastião , com todo o cuidado e capricho, 
+seja facilmente reconhecida por suas colegas de ofício e o mesmo se aplica as demais. 
+ 
+  Figura 7: Peças do mostruário de rendeira de São Sebastião-AL 
+ 
+ Fonte: Arquivo do autor, visita realizada em 2018. 
+ 
+No entanto, qualq uer que seja o motivo/desenho, dependendo das suas 
+minuciosidades, leva um determinado tempo para ser construído e, obviamente, os mais ricos 
+em detalhes exigem um prazo maior de feitura.  
+Mesmo com todo esse trabalho, são poucas as rendeiras que possuem u m catálogo 
+com o mostruário dos tipos e modelos de rendas que dominam o feitio. As que possuem, 
+mostram que a variedade de motivos e formas é vasta. 
+Dessa forma, aqui levando em consideração a quantidade em metros, algumas 
+rendeiras irão produzir menos que  outras, no entanto, como seu produto é mais trabalhoso e 
+mais rico em formas e detalhes - como muita quantidade de traças -, seu custo/valor é mais alto 
+que o de rendas mais simples que algumas artesãs produzem em quantidade por mês. Tomando 
+como referência a largura e o modelo, é possível encontrar rendas entre R$10,00 a R$300,00 o 
+metro. Já um produto definitivo, como uma passadeira rica em detalhes, que leva no mínimo 4 
+meses para ficar pronta, ou um xale, que leva 6 meses, são encomendas que devem ter um 
+preço justo e que leve em consideração todo esse tempo de trabalho.
+
+## Página 54
+
+55 
+ 
+ 
+              Figura 8: Aplicação 16cmx16cm de renda de bilro e Bilro 
+ 
+                 Fonte: Arquivo do autor. Visita realizada em 2018. 
+ 
+Um modelo de aplicação bastante produzido no município é feito na forma de um 
+quadrado com motivos florais medindo 16cmx16cm, e é vendido por um valor entre R$25,00 a 
+R$30,00. Essa mesma aplicação pode ser feita de forma contínua sem emendas e chegar a 
+quase um metro e meio de comprimento, sendo v endido por R$250,00. Uma rendeira, se 
+trabalhar muito, consegue fazer duas peças nessas proporções em um mês, conseguindo a ssim 
+R$500,00 por seu trabalho. 
+Trabalhando com bicos menos complexos, uma rendeira pode chegar a produzir de 3 a 
+10 metros por mês. Como nem todas se dedicam às aplicações, algumas concebem apenas 
+bicos, e da mesma forma que as aplicações, os bicos dependem da largura, do modelo e do 
+tempo disponível para o trabalho, entretanto, são mais estreitos que algumas aplicações de 
+renda, já que são o complemento e o acabamento dessas no ato da confecção. Alguns bicos são 
+vendidos entre R$10,00 a R$65,00 o metro. 
+Neste cenário, o faturamento mensal com renda de bilros é diferente para cada uma 
+das rendeiras, mas dificilmente ultrapassa os R$500, 00. Hoje, a maioria das rendeiras não 
+possuem estoque e vendem sua produção de aplicações e bicos imediatamente para a
+
+## Página 55
+
+56 
+ 
+empresária Martha Medeiros, que tem como intermediária a presidente da Associação das 
+Mulheres Rendeiras do município de São Sebastião, Maria Vânia de Morais Silva. 
+Algumas rendeiras de São Sebastião afirmam que vendem seus produtos por um preço 
+abaixo do mercado para Vânia/Martha Medeiros, por tê -la como uma cliente segura, alguém 
+que sempre poderão manter negócios, porém, nem todas as art esãs se sentem felizes com o 
+valor pago, que chega a ser 15% a menos que o valor estipulado pelas trabalhadoras. Segundo a 
+própria empresária, o preço justo das rendas foi calculado pelo SEBRAE (ISTOÉ, 2015). 
+  
+3.1.5 - Formas de organização coletiva das rendeiras de São Sebastião 
+ 
+A única forma de organização coletiva das artesãs do munícipio é por meio de uma 
+associação que conta com cerca de apenas 15 associadas, já que algumas rendeiras, por motivos 
+pessoais ou políticos, optaram por não participar desse  grupo. A Associação das Mulheres 
+Rendeiras do Município de São Sebastião -Alagoas é por natureza jurídica uma associação 
+privada, com data de abertura em 27 de novembro de 2002 e tendo como CNPJ o número 
+05.442.375/0001-25. 
+Por mais que esteja registrada n o logradouro Rua Leobino José do Nascimento, nº 16, 
+Centro, São Sebastião -AL, CEP 57275 -000, o fato é que, no presente momento, a associação 
+não possui um imóvel que funcione como sede e dessa forma, cada rendeira associada trabalha 
+e comercializa sua produção em suas próprias casas. 
+São mais de um os motivos apresentados pelas artesãs que justificam não terem um 
+espaço físico que as represente: o primeiro é que não possuem condições financeiras para 
+alugarem elas mesmo um local; o segundo é que a maior par te das rendeiras em exercício são 
+idosas, e essa tarefa de se deslocarem de suas casas, levando seus materiais até um outro lugar é 
+cansativa.  
+Mas nem sempre foi assim. A Associação, com o incentivo do projeto Artesanato 
+Solidário, já teve um local própri o e era nele que se encontravam as rendeiras e era, também, 
+onde mantinham expostos seus produtos. Todavia, tratava -se de um prédio cedido pela 
+prefeitura na gestão de Manoel Sertório Queiroz Ferro (2005 -2008). Nesse período, a então 
+presidente da associ ação, Dona Diva, buscou via Câma ra dos vereadores a doação do imóvel 
+para que as rendeiras de São Sebastião tivessem assegurada sua sede. Não houve sucesso na 
+empreitada. Com as eleições de 2008 e a posse do prefeito Zé Pacheco, foi solicitado que o 
+imóvel fosse desocupado.
+
+## Página 56
+
+57 
+ 
+Sendo assim, os compradores que chegam a cidade encontram as rendeiras e seus 
+produtos através de indicações, ao velho estilo “boca a boca”, confirmando a falta de 
+publicidade no circuito inferior. Além disso, quando as rendeiras associada s desejam se reunir, 
+comunicam-se e encontram -se na casa da atual presidente da associação, Dona Vânia, ou na 
+residência de uma das outras rendeiras do grupo. 
+Neste cenário, a Associação das Mulheres Rendeiras do Município de São Sebastião -
+Alagoas se estab elece como mera formalidade, já que na prática as rendeiras seguem suas 
+rotinas como produtoras individuais e, por vezes, ajudando-se umas às outras. 
+ 
+3.2 - A renda de bilro como fonte de rendimento para as artesãs salomeenses 
+ 
+Como as rendeiras em exercíc io do município de São Sebastião são, em sua maioria, 
+mulheres com idade acima dos 50 anos, muitas já estão aposentadas das atividades que 
+desempenharam por toda a vida - como professoras, agentes de saúde ou agricultora, por 
+exemplo. Sendo assim, o trabalho de rendeira é uma remuneração  extra que complementa o 
+salário mínimo da aposentadoria ou o salário daquelas que ainda trabalham e encontram tempo 
+para fazer renda. 
+Este cenário econômico é observado por Fellipi, Rüthschilling, Figueiredo (2015, p. 
+57) ao afirmarem que “ as mulheres rendeiras da ca mada mais baixa da sociedade se 
+profissionalizaram e continuam vinculando seu fazer à complementação financeira”. 
+Essa fonte de rendimento extra mensal também é instável, por depender de 
+encomendas e seus respect ivos pagamentos. Viver somente desse trabalho é praticamente 
+impossível nos dias de hoje. Somado ao fator da idade está o da saúde: muitas rendeiras param 
+de fazer renda de bilro por conta de problemas na coluna, que com o esforço ocasiona sérias 
+dores, ou diminuição da visão. 
+Anos atrás, a renda de bilro já foi o principal trabalho de muitas mulheres do 
+município, inclusive sendo a única fonte de sustento de muitas famílias, mas as novas 
+oportunidades de estudos e trabalho as libertaram desta condição soci al e assim o artesanato 
+passou a ser um faturamento extra, ou até uma forma de distração pós -aposentadoria. No 
+entanto, as dificuldades para sobreviver com um salário mínimo é um importante motivo que 
+leva uma aposentada a se dedicar a esse trabalho, princ ipalmente por estar na idade a qual os 
+cuidados com a saúde devem ser redobrados e o aumento da necessidade de gastos com 
+remédios ser ainda mais alta.
+
+## Página 57
+
+58 
+ 
+Mesmo assim, as condições de vida das rendeiras de São Sebastião são melhores do 
+que as de artesãs de ou tros locais de produção, como o povoado de Entremontes no município 
+de Piranhas, onde vivem basicamente do Bolsa Família, um programa do governo (ISTOÉ, 
+2015). 
+ 
+3.3 - Auxílio, assistência e incentivos às rendeiras de São Sebastião 
+ 
+De acordo com os dados d o Sistema de Informações Cadastrais do Artesanato 
+Brasileiro – SICAB, obtidos através da Secretaria do Desenvolvimento Econômico e Turismo 
+do Estado de Alagoas, onde se encontra a Coordenação Estadual do Artesanato vinculada ao 
+Programa do Artesanato Brasi leiro – PAB - estão cadastradas 40 rendeiras de bilro em 
+atividade no município de São Sebastião, porém, é fácil perceber que esse é um número 
+desatualizado. 
+Segundo a Portaria Nº 1.007 -SEI, de 11 de junho de 2018, “é responsabilidade das 
+Coordenações Estaduais de Artesanato manter os dados atualizados dos artesãos cadastrados no 
+SICAB”. No entanto, na lista de rendeiras de São Sebastião ainda se encontram nomes de 
+artesãs que não estão mais vivas, como o de Clarice Severiano dos Santos. Esta rendeira foi 
+considerada pelo Estado como uma mestra artesã por ter se destacado em seu trabalho e em 
+2008 passou a fazer parte do Registro do Patrimônio Vivo -RPV/AL conforme a Resolução nº 
+Livro de Tombo nº 05, à folha 12 verso, a partir de 18 de agosto de 2008. Dona C larice faleceu 
+em 12 de março de 2012 (SECRETARIA DO ESTADO DA CULTURA, 2020). 
+No SICAB, as rendeiras salomeenses são cadastradas na técnica denominada 
+“RENDA-BILRO” e produzem peças que se enquadram nas seguintes categorias: pano de 
+bandeja, objetos de de coração para casa, vestuário – feminino, toalhas, forros e caminhos de 
+mesa, jogo americano e passadeiras. 
+Dos artesãos cadastrados no município, 88% são do sexo feminino e 12% do 
+masculino, mas, focando apenas na produção de renda de bilros, todas as trab alhadoras 
+cadastradas no programa são mulheres.  
+Já dizia Martins (1973, p. 53): “A tenda do artesão é o próprio lar”. E é nos lares das 
+rendeiras salomeenses, bem na entrada de suas casas, onde sentam -se em frente a uma 
+almofada com os bilros a trabalhar em suas mãos. Para ilustrar tal fala, um dado confirmado 
+pelo sistema SICAB diz que para 92% dos artesões do município, o local de produção é a 
+própria residência.
+
+## Página 58
+
+59 
+ 
+Em relação às vendas, os artesãos do município de São Sebastião vendem a maior 
+parte da pro dução para o consumidor final (95%). Os outros 5% são divididos entre a 
+organização de apoio ao artesão (4%) e outros (1%). O registro no SICAB assegura que o tipo 
+de venda mais utilizada pelos artesãos é aquela direto ao consumidor (92%), mas encomendas 
+(7%) e outros (1%) também ocorrem. Através das informações presentes no SICAB não é 
+possível identificar quem são os compradores, já que os dados estão resumidos a porcentagens. 
+O Sistema de Informações Cadastrais do Artesanato Brasileiro – SICAB admitia em  
+2017 que a renda média familiar da maioria dos artesões do munícipio (70%) girava em torno 
+de 1 a 3 salários mínimos. Porém, é importante destacar que segundo os dados, 11% dos 
+artesãos estão inseridos em um contexto de renda média familiar inferior a 1 s alário mínimo. 
+Sendo que, de todos os cadastrados, a atividade artesana l aparece como o principal rendimento 
+familiar apenas para 36% deles, logo, para a  maioria (64%) a principal remuneração  vem de 
+outras áreas. 
+O PAB, que tem como objetivo principal faci litar o progresso no setor artesanal do 
+Brasil, trazendo valorização e melhorias para o artesão, na prática trouxe apenas o cadastro e 
+emissão da Carteira Nacional do Artesão para as rendeiras de São Sebastião. Os compradores 
+continuam chegando até as rend eiras de bilro de maneira informal, sem intermédio do 
+programa. 
+O SEBRAE-AL, outro importante aliado do produtor artesanal do estado, desenvolve 
+o programa Brasil Original. Trata -se de uma ação que busca fortalecer o artesanato nacional 
+trabalhando com con sultorias que visam tornar o fruto do trabalho do artesão, seja o produtor 
+individual ou uma associação, em um produto melhor apresentável esteticamente ao mercado 
+consumidor, sem perder sua riqueza cultural. São atendidos pelo programa em Alagoas as 
+categorias de artesanato tradicional, artesanato de referência cultural, artesanato conceitual e 
+arte popular (SEBRAE-AL, 2015). 
+O trabalho do SEBRAE -AL consiste em capacitar o produtor artesão no sentido de 
+torná-lo um empreendedor de forma coletiva ou individ ual dentro de uma Unidade Produtiva. 
+Operando sempre com pesquisas, a equipe responsável consegue diagnosticar os avanços e as 
+melhorias na produção, gestão e faturamento e, uma vez que a produção esteja pronta para 
+alcançar um público consumidor, o SEBRAE -AL auxilia o artesão ou a associação na 
+participação de eventos regionais, nacionais e internacionais, que proporcionam vendas 
+(SEBRAE-AL, 2015). 
+Já houve, no passado, uma aproximação do SEBRAE -AL com as rendeiras de São 
+Sebastião, porém, na contemporaneidade, o trabalho oferecido pelo SEBRAE-AL não é atrativo
+
+## Página 59
+
+60 
+ 
+para as rendeiras de São Sebastião. Isso porque o trabalho consiste em levar as peças 
+produzidas para serem expostas em eventos, e nessa estrutura as rendeiras só recebem quando 
+eventualmente alguma peça é vendida, um acontecimento que pode levar meses e durante esse 
+período a rendeira se vê sem nenhum faturamento (ver Apêndices, Entrevista I, jan. 2018).  
+E por fim, com exceção da Escola de Rendeiras, com toda sua estrutura e algumas 
+eventuais ajudas  com transporte para presença de poucas artesãs em feiras e exposições 
+(eventos cada vez mais raros), a prefeitura de São Sebastião ilustra bem uma das características 
+presentes no circuito inferior da economia dos países subdesenvolvidos: a ajuda governam ental 
+nula ou quase nula, já que não oferece nenhum tipo de apoio ou incentivo às artesãs do 
+município (ver Apêndices, Entrevistas III e IV, jan. 2018). 
+De acordo com a fala de uma antiga diretora da associação, investimentos em bancos, 
+através de linhas d e crédito, como o Banco do Brasil, já foi tentado, mas sem sucesso ( ver 
+Apêndices, Entrevistas III, jan. 2018). 
+Esta falta de assistência financeira entre os produtores de artesanato é confirmada por 
+Feitosa (2009, p. 49), segundo o autor “na produção arte sanal, um dos principais problemas 
+verificados é o baixo nível de capitalização dos artesões”. 
+ 
+ 
+3.4 - A relação entre Martha Medeiros e as rendeiras de São Sebastião-AL 
+ 
+Martha Medeiros é uma empresária alagoana, filiada à Associação Brasileira de 
+estilistas (ABEST). Dona da marca que recebe seu nome, é um sucesso no Brasil e até fora, 
+com lojas em Maceió, São Paulo e Los Angeles, além de outros vários pontos de vendas em 
+lojas multimarcas. 
+A empresa Martha Medeiros faz parte do circuito superior da econom ia urbana dos 
+países subdesenvolvidos. No entanto, dentro desse circuito , a mesma se encaixa em um grupo 
+distinto que produz em quantidade reduzida seus artigos especializados e de alta qualidade e os 
+vendem a preços muito altos à uma clientela delimitada e ligada à moda. Desta forma, observa-
+se que diferentemente de outras indústrias do circuito, Martha Medeiros, por produzir artigos 
+de luxo, tem sua margem de lucro não apenas por volume de negócios,  mas por unidade 
+(SANTOS, 1979). 
+Seu êxito se deve ao uso  de rendas, produzidas no Nordeste brasileiro, em suas peças 
+de vestuário e moda casa. Seus produtos não são feitos apenas com aplicações e bicos de renda 
+de bilro, as peças da marca são confeccionadas também com rendas Renascença, Filé,
+
+## Página 60
+
+61 
+ 
+Richelieu e Boa Noite - outras variedades de renda não produzidas em São Sebastião, mas, boa 
+parte delas são feitas em Alagoas. O Filé, por exemplo, é do Pontal da Barra em Maceió; já a 
+renda Boa Noite é feita apenas na Ilha do Ferro no munícipio de Pão de Açúcar. Outra par cela 
+da produção de rendas é feita por artesãs de associações do Ceará, Paraíba, Piauí e Rio Grande 
+do Norte (GRACILIANO, 2012). 
+A forte publicidade também é um dos pilares de seu sucesso no mercado. A marca e a 
+estilista Martha Medeiros são bastante segui das nas redes sociais e se fazem sempre presentes 
+em eventos e revistas de moda através de modelos e celebridades que vestem suas peças. Para 
+Milton Santos (1979, p. 36) a publicidade no circuito superior da economia urbana dos países 
+subdesenvolvidos é “uma das armas utilizadas para modificar os gostos e deformar o perfil da 
+demanda”. 
+A empresária da moda se mantém ligada a grupos de rendeiras do interior de Alagoas, 
+como as de São Sebastião, no agreste. Segundo Nery (2012, p. 228), essa aproximação é 
+“estimulada governamentalmente por incentivos fiscais e, sob a tônica da responsabilidade 
+social, acaba por implicar em imagem positiva para a empresa por seu estímulo ao 
+desenvolvimento de cidades e regiões periféricas”. 
+Martha Medeiros para a ELLE Brasil (20 13, p. 313) diz que “quando olho uma renda, 
+penso: o que posso fazer de diferente?”, e confirma que sua engenhosidade está em fazer uso de 
+um produto regional, a renda, e dá -lo um status de peça consumível por um mercado mais 
+ambo amplo, até mesmo em escala global. 
+Para Nery (2012, p. 230), “uma hierarquia de valores se estabelece pela ordem da 
+criatividade” e é isso que diferencia a estilista das rendeiras. Como essa cria produtos variados 
+e sempre inovadores com o uso das aplicações de renda, acaba tendo por isso uma maior 
+valorização, através de seus produtos com design e sofisticação consumidos por uma classe 
+com alto poder aquisitivo. 
+Além disso, Martha Medeiros possui ateliê e loja em São Paulo, algo que impulsiona 
+seu sucesso, pois sendo essa a maior cidade do país e com um grande fluxo de pessoas e de 
+capital, suas criações são melhor divulgadas e consumidas. Mas para isso, existe uma 
+organização que leva até esse grande centro nacional toda uma produção de rendas feitas em 
+munícipios por vezes carentes do Nordeste. 
+Neste processo, ainda segundo Nery (2012, p. 230), a inclusão das rendeiras é 
+“marginal, periférica na rede, gerando discrepâncias consideráveis na distribuição dos 
+rendimentos e do prestígio, ainda que sejam perceptíveis as alterações econômicas, de cotidiano 
+e de relação com o trabalho na vida desses grupos”.
+
+## Página 61
+
+62 
+ 
+Segundo Giovana Romani para VEJA SP ( 2011) o preço de um produto de vestuário 
+da marca Martha Medeiros “pode facilmente chegar à casa dos cinco dígitos”. 
+ 
+      Figura 9: Produtos Martha Medeiros Verão 2021 e seu valores 
+ 
+       Fonte: Loja Martha Medeiros. Disponível em: https://marthamedeiros.com.br/ , acesso em 17 dez. 2020. 
+ 
+O consumidor que encomenda uma passadeira a uma rendeira de São Sebastião é 
+diferente de um que consome um vestido de festa de uma marca como a Martha Medeiros, isso 
+porque o consumidor direto da rendeira busca um produto tradicional, que mantém a mesma 
+dinâmica de produção de séculos atrás, enquanto um consumidor de moda é atraído pelas 
+inovações do mercado. 
+Para a revista Graciliano (2012, p. 44), a empresária esclarece que “o que fizemos com 
+a renda foi dar uma nova linguagem a partir do design. Em nenhum momento, a intenção foi 
+descaracterizar essa arte milenar.  No caso, a moda foi o suporte”. A indústria do vestuário 
+consegue ainda trabalhar com larga escala através de tecnologia e maquinário avançado, 
+estrutura que o artesanato não dispõe. 
+Uma das exigências da Martha Medeiros com relação ao produto feito pelas  rendeiras 
+de São Sebastião é que, além da qualidade, seja na cor branca, pois o tingimento é 
+posteriormente feito pela empresa da estilista. O pedido pela cor branca deixa de lado as 
+rendeiras que estão na zona rural do município, isso porque, como já foi  dito, nesses lugares de
+
+## Página 62
+
+63 
+ 
+ruas não asfaltadas a poeira é constante, o que prejudica a alvura das peças. Como resultado 
+desse cenário, as poucas rendeiras que se encontram afastadas da zona urbana do município 
+trabalham com linhas coloridas e dificilmente conseguem vender seus produtos. 
+Além disso, a empresária não compra produtos prontos e definitivos como passadeiras, 
+blusas ou jogos americanos feitos pelas rendeiras, mas sim tiras de aplicação e bicos, que são 
+matérias-primas que serão utilizadas nas confe cções de suas peças de vestuário e moda casa. 
+Essa mudança no processo de criação das rendeiras de São Sebastião, que deixam de produzir 
+produtos definitivos e passam a entregar peças que serão base para um outro produto, leva a 
+uma descaracterização do ar tesanato tradicional e de referência cultural, pois se passa a 
+produzir um artesanato técnico. Para Martins (1973, p. 65), o artesanato técnico “tem por 
+escopo aprimorar a mão-de-obra e criar operários especializados para a grande indústria”. 
+Desse modo, a s modernizações no cenário econômico fazem com que alguns 
+produtores do circuito inferior sejam levados a utilizarem suas técnicas tradicionais para 
+elaborar novas peças com o objetivo de atender uma vigente demanda do mercado. Por vezes, 
+quando não se ada ptam a esses novos cenários, certas ocupações tradicionais sofrem forte 
+aminguamento ou até mesmo deixam de existir no espaço onde por anos foram desenvolvidas 
+(SANTOS, 1979).  
+A atual presidente da Associação das Mulheres Rendeiras de São Sebastião, é a única 
+rendeira que mantém contat o direto com a empresária Martha Medeiros e por conta disso 
+algumas rendeiras acreditam que a presidente é a compradora, quando na verdade funciona 
+como um tipo de atravessadora do produto artesanal local ( ver Apêndices, Entrevistas V, VIII, 
+IX e X, mar. 2018). 
+Martha Medeiros se aproximou das rendeiras de São Sebastião há cerca de 18 anos, e 
+por meio da presidente da Associação das Mulheres Rendeiras de São Sebastião, Dona Vânia. 
+Nesse momento, Martha Medeiros estava ainda iniciando seus trabalhos com renda e tinha uma 
+única loja, em Maceió. Elas se conheceram no último dia de uma feira de exposições na cidade. 
+Neste evento, a empresária comprou quase todas as rendas expostas no estande, e ainda deixou 
+seu cartão e disse que quando houvesse mais rendas a avisasse, pois ela compraria. E a partir de 
+então iniciou -se uma amizade que levou a empresária a se tornar uma cliente especial das 
+rendeiras salomeenses (ver Apêndices, Entrevista X, mar. 2018). 
+Era um período no qual várias rendeiras estavam desestimuladas, não sentiam mais 
+vontade de fazer renda porque não tinha quem comprasse. A aproximação da cliente Martha 
+Medeiros fez com que algumas rendeiras voltassem a produzir, pois agora sabia que tudo que 
+fosse feito teria como certo sua venda.
+
+## Página 63
+
+64 
+ 
+Hoje, Martha Medeiros é a principal compradora da renda de bilro produzida no 
+município, mas isto não quer dizer que as rendeiras não possam negociar com outros 
+compradores porque não existe um acordo formal entre as artesãs e a empresária al agoana. No 
+entanto, como ela é certeza de pagamento, algumas artesãs tornam -se fiéis e trabalham 
+exclusivamente para a parceria Vânia/Martha Medeiros, o que traz benefícios como, caso 
+precise, receber dinheiro de pagamento antes mesmo do produto ser feito,  ou seja, uma ação 
+que se caracteriza como crédito pessoal não -institucional, típico do circuito inferior (SANTOS, 
+1979). 
+ 
+Figura 10: As rendeiras salomeenses Vânia e Zuza durante evento na 
+loja Martha Medeiros trabalhando em São Paulo-SP 
+ 
+Fonte: Acervo da rendeira Zuza. Acesso em 2018. 
+ 
+Esta ligação entre empresária e artesãs mostra que os trabalhadores que fazem parte do 
+circuito inferior da economia nem sempre desempenham atividades exclusivamente para este 
+circuito (SANTOS, 1979). Se beneficiando de qu e o artesão é um trabalhador informal e não 
+pode ser um assalariado, Martha Medeiros (circuito superior) tem à disposição um trabalho, 
+típico do circuito inferior, feito pelas rendeiras de São Sebastião, as mantendo ligadas a  ela 
+através de um acordo pessoal de clientela direta.
+
+## Página 64
+
+65 
+ 
+ 
+ 
+3.5 - A importância da renda de bilro na vida das rendeiras salomeenses e para o 
+município de São Sebastião 
+ 
+As artesãs de São Sebastião trabalham com a renda de bilro porque é o artesanato que 
+apreciam. Existe um sentimento de felicidade ao fazer renda, no entanto, a motivação vai além 
+do lado emocional e são dois os principais motivos citados pelas trabalhadoras ao relatarem a 
+importância da renda de bilro em suas vidas: o financeiro e o terapêutico. 
+A maior parte das rendeiras  do município possuem como ganho  principal a 
+aposentadoria por tempo de trabalho, um salário mínimo por mês depois de uma vida dedicada 
+a uma ocupação dentro das leis do que é um trabalho formal. O artesanato de renda de bilro 
+passa a ser então um rendimen to extra que surge como um complemento ao salário fixo de 
+aposentada. Algo confirmado por Dona Zezé, rendeira de 89 anos, ao relatar que a renda de 
+bilro é importante em sua vida “porque as vezes a pessoa  tá com um dinheirinho fraco e faz a 
+renda e aumenta mais um pouco”. 
+Como um ganho a mais, mesmo que uma rendeira trabalhe o dia inteiro, a venda da 
+produção de renda de bilro dificilmente ultrapassa meio salário mínimo. Diante desse cenário, 
+fica fácil explicar porque as mulheres mais jovens de São Sebasti ão, até mesmo aqueles que 
+dominam o ofício, se afastam de suas almofadas e de seus bilros e passam boa parte da vida 
+exercendo outras funções no mercado de trabalho. 
+Isso acontece, sobretudo, porque viver apenas com o faturamento gerado a partir da 
+produção de renda de bilro não possibilita uma qualidade vida favorável ao desenvolvimento 
+individual e familiar das salomeenses. Sendo assim, o mais comum em São Sebastião é que só 
+depois de aposentadas algumas cidadãs voltem a se ocuparem com o artesanato que 
+aprenderam ainda crianças. 
+O outro motivo, como já foi supracitado, é o lado terapêutico do artesanato. Algumas 
+rendeiras referenciam o trabalho com renda de bilro como “uma terapia muito boa” ou “o 
+divertimento da gente”, isso porque é uma atividade que as  mantêm ocupadas. E mesmo sendo 
+um trabalho, para elas se torna um momento de prazer e ligação íntima, um instante no qual 
+podem esquecer um pouco de suas realidades diárias. Além disso, são totalmente cientes da 
+beleza do produto que fazem e nesses momentos que se sentem orgulhosas de suas realizações. 
+Situação oposta ao orgulho é o sentimento das rendeiras com relação ao acolhimento 
+do artesanato em São Sebastião. No geral, as artesãs não se sentem valorizadas em seu próprio
+
+## Página 65
+
+66 
+ 
+município, e esse quadro se fo rma com a falta de incentivo e colaboração por parte da gestão 
+política e dos empresários locais. 
+ 
+              Figura 11: Rendeira Zuza trabalhando em sua residência 
+ 
+  Fonte: Arquivo do autor. Visita realizada em 2018. 
+ 
+Não se vê no comercio local nenh uma peça de renda de bilro à venda. Mesmo que o 
+fato das artesãs trabalharem, em sua maioria, por encomenda seja uma justificativa aceitável, 
+não deixa de ser um retrato da pouca importância que a população em geral, com exceção das 
+próprias rendeiras e se us familiares, deposita a uma produção que traz fama e reconhecimento 
+ao município que é amplamente divulgado como “a terra das rendas de bilros”. 
+Mesmo com tamanha desvalorização, é um trabalho distinto da agricultura e do 
+comércio local, os principais motores da economia salomeense, que atrai visitantes a cidade. Se 
+pensarmos no turismo como atividade geradora de trabalho e recursos, o município de São 
+Sebastião poderia trabalhar melhor a questão da renda de bilro, seu carro chefe cultural, em seu 
+território, tornando-a mais visível e estimada. 
+Segundo Martins (1973, p. 9), “o turista não aprecia as estandardizações vulgares e 
+quer coisa genuína, própria”, e é isso que ele pode encontrar em São Sebastião: um produto 
+belo e atrativo, com valor simbólico e c ultural que representa bem os valores da região onde é 
+feito. O município é carente até mesmo de um espaço para a exposição dos produtos feitos de
+
+## Página 66
+
+67 
+ 
+renda de bilro. O visitante que chega a São Sebastião não encontra um estabelecimento 
+específico onde possa adquirir um produto que tanto representa a localidade. 
+Cruz (2003, p. 24) aponta que “lojas de artesanato local, de souvenirs e infraestrutura 
+de lazer, colocadas às margens de rodovias, podem indicar a existência de alguma demanda 
+turística” e São Sebastião, com sua área urbana às margens das rodovias federal e estadual BR -
+101, e da AL -110, respectivamente, tem seu mais importante agente cultural, a renda de bilro, 
+sempre escondida, na intimidade dos lares. 
+Trago de volta o já citado exemplo sergipano para ilustrar que a venda de produtos 
+artesanais em rodovias é uma forma válida de divulgação e comercialização da produção de um 
+município. Em Sergipe, os comerciantes de Cedro de São João compram parte da produção de 
+bordado de Tobias Barreto e, após um traba lho de acabamento nos produtos, os expõem a 
+venda na BR 101 (FEITOSA, 2009). 
+Existe uma preocupação por parte das rendeiras que essa forma de artesanato venha a 
+se extinguir em São Sebastião, pois, por mais que venha sendo ensinada aos jovens, mesmo que 
+desocupados, não se sentem atraídos em fazer rendas de bilro. 
+ 
+3.6 - O ensino e aprendizagem do ofício de rendeira de bilro em São Sebastião-AL 
+ 
+Na contemporaneidade, o número de artesãs que exercem o oficio de rendeiras de bilro 
+no município de São Sebastiã o gira entorno de 20 a 25 mulheres, em sua maioria, com idade 
+acima de 50 anos. Seguindo uma tradição comum a aqueles que produzem artesanato, essas 
+mulheres salomeenses aprenderam a fazer renda ainda criança, em torno de 5 a 8 anos de idade, 
+como ensinamentos da própria mãe, ou, caso esta estivesse ocupada com outro tipo de trabalho, 
+aprendia o ofício com outras figuras femininas de seu núcleo familiar, como avós, irmãs mais 
+velhas e tias (ver Apêndices, Entrevistas I, II, III, IV, V, VI, VII, VIII, IX e X , jan. 2018 e mar. 
+2018). 
+É a curiosidade e o tempo livre que leva a menina a imitar a mãe, e o que se inicia 
+como uma brincadeira, torna-se um trabalho presente em todas as etapas da vida. O processo de 
+aprendizado apresenta vários estágios e esses exigem  paciência e dedicação. Ainda criança, 
+depois de dominar todas as fases do ofício, o aprendiz ganha sua própria almofada. Atrelado a 
+isso, está a confecção da própria almofada como um dos processos de ensino e aprendizado da 
+criança aprendiz. Este momento é tão simbólico que algumas rendeiras adotam a mesma 
+almofada pelo resto da vida, apenas realizando sua manutenção de tempos em tempos 
+(Entrevista VII, mar. 2018).
+
+## Página 67
+
+68 
+ 
+A produção local de renda de bilro simboliza um legado que mantém a artesã ligada a 
+uma hera nça familiar. Por conta disso, fazer rendas possui também um lado afetivo para 
+algumas mulheres de São Sebastião. Um exemplo vem de Dona Josefa ( ver Apêndices, 
+Entrevista VII, mar. 2018), 59 anos, rendeira e professora da Escola de Renda do munícipio, ao 
+afirmar que “me apaixonei por renda ainda na barriga da minha mãe, eu ouvi ela bater 
+bilrozinho, e eu escutando o tilintar dos bilros e eu fui me apaixonando desde aquele tempo”. 
+Mesmo que não saibam como o artesanato chegou ao município, toda rendeira tem 
+ciência que é um trabalho passado de geração para geração, através das mulheres locais. O fato 
+de ser uma tradição que se mantém viva até os dias de hoje está atrelado às impossibilidades de 
+escolha profissional. C om uma maior escolarização e profissionali zação da mulher, se amplia 
+seu contato social e o resultado disto é a oportunidade de alternativas de carreiras diferentes 
+daquelas que tradicionalmente se foram impostas (BIASOLI-ALVES, 2000).  
+Martins (1973, p. 22) diz que no artesanato “a aprendizagem d a arte é prática e 
+informal”, mas em São Sebastião há ensino e aprendizagem também feito por meio do ensino 
+formal, já que no munícipio existe há mais de 30 anos um curso que forma novas artesãs de 
+renda de bilros. 
+A Escola para Rendeiras de Bilro de São S ebastião é uma iniciativa do Departamento 
+de Cultura Municipal. Instalada em uma sala na Casa da Cultura, o ambiente dispõe de todo o 
+material necessário para o ensino das técnicas do ofício aos alunos das 2 turmas formadas a 
+cada ano: uma no período matut ino e a outra no vespertino. Cada turma deve ter, no máximo, 
+ter 10 alunos, mas é comum que haja mais porque a professora aceita que alguns alunos, 
+mesmo já dominando todas as etapas do trabalho, continuem no local para aperfeiçoar a prática. 
+Os aprendizes são de idades variadas, desde crianças a adultos, ainda que a maior parte dos 
+discentes sejam meninas de até 12 anos. E se até algum tempo atrás o público era totalmente 
+feminino, hoje alguns homens se lançam a aprender a fazer renda na instituição de ens ino (ver 
+Apêndices, Entrevista VII, mar. 2018). 
+Os jovens aprendizes se encontram na Escola para rendeiras em um turno diferente do 
+que estão matriculados no ensino obrigatório. Uma prática recomendável, já que desenvolver 
+conhecimentos, além dos apresenta dos na escola regular, também tem valor pedagógico e o 
+artesanato pode ser um instrumento para o desenvolvimento, motoro e intelectual da criança 
+(MARTINS, 1973). 
+O curso dura um ano, mas é comum que com apenas seis meses de estudo prático os 
+alunos já saibam fazer a renda de bilro. O aluno que chega sem conhecimento prévio do feitio 
+da renda é instruído através de 3 etapas de aprendizado. A primeira delas consiste em praticar a
+
+## Página 68
+
+69 
+ 
+troca dos bilros, ou seja, a realizar os movimentos que, com as mãos, levam os bilros de um 
+lado ao outro originando o desenho da renda. Neste momento usam -se apenas 4 bilros e os 
+alunos são orientados pela fala da professora que repete constantemente a frase “troca, torce e 
+troca de novo” (ver Apêndices, Entrevista VII, mar. 2018). 
+Quando já sabe trocar os bilros (cada aluno leva o seu tempo de aprendizagem), 
+passam a exercitar o feitio das tranças para em seguida principiarem a fazer as traças, formas 
+que recebem esse nome pois apresentam o mesmo formato das famosas traças de parede , 
+também conhecidas como traças -das-roupas (fase larval das mariposas). Depois que já domina 
+a troca dos bilros, a feitura das tranças e das traças o pupilo rapidamente, através do molde 
+presente em sua almofada, desenvolve a habilidade elaborar a renda. 
+ 
+Figura 12: Escola de Rendeiras de São Sebastião-AL, professora e alunas 
+ 
+Fonte: Arquivo do autor. Visita realizada em 2018. 
+ 
+O grande desafio que a cultura de fazer renda encontra no município é a falta de 
+continuidade na produção por parte da juventude s alomeense. O ensino é uma etapa que se 
+mantém segura nesse processo, tanto de forma informal, entre familiares, como de maneira 
+formal, através da escola. Porém, por questões econômicas e culturais, os mais jovens, mesmo 
+dominado a técnica, não continuam a  trabalhar como rendeiras(os) ( ver Apêndices, Entrevistas 
+I, II, VII e X, jan. 2018 e mar. 2018).
+
+## Página 69
+
+70 
+ 
+Como a renda adquirida através do trabalho como artesã  de renda de bilros é ainda 
+muito baixa - bem inferior a um salário mínimo -, é compreensível que a juventude busque uma 
+profissão que permita uma melhor condição de vida. Assim, o tempo que possuem disponível é 
+dedicado aos estudos.  
+Outro motivo está ligado à forma com que o artesanato é visto pelos mais jovens: uma 
+imagem de atividade arcaica, um trabalho  de velhos. Então, preferem usar o tempo livre como 
+outras distrações, como a internet. Esse cenário preocupa algumas rendeiras em atividade, pois 
+gera um medo de que um dia a renda de bilros não seja mais praticada no município e a mesma 
+deixe de ser conhecido como “a terra das rendas de bilro” ( ver Apêndices, Entrevistas I, II, VII 
+e X, jan. 2018 e mar. 2018).
+
+## Página 70
+
+71 
+ 
+ 
+ 
+CONSIDERAÇÕES FINAIS 
+ 
+Este foi um trabalho que trouxe um panorama da realidade de um grupo de rendeiras 
+do munícipio de Sã o Sebastião –AL. Durante a pesquisa, foram observadas as características 
+que fazem dessa comunidade de artesãs um importante quadro de estudo. Se levarmos em 
+consideração a atividade de renda de bilro apenas em um contexto econômico, fica evidente 
+que o capital gerado pelo trabalho das mulheres rendeiras não é igualável ao rendimento gerado 
+com a agricultura e a pecuária, principais fontes de economia do local, o que coloca o 
+artesanato com uma economia simbólica que se apresenta com uma característica cultu ral que 
+promove um diferencial para o município. 
+Foi constatado que em São Sebastião o trabalho de rendeiras é feito quase 
+predominantemente por mulheres com idade acima dos 50 anos - grande parte delas já 
+aposentadas -, e essa questão está ligada diretame nte a impossibilidade de viver uma vida de 
+qualidade trabalhando apenas como artesã de renda durante o seu período ativo. O baixo preço 
+pago pela produção faz com que as rendeiras que aprendem o ofício ainda meninas só voltem a 
+dedicar-se à renda quando se aposentam e dessa maneira, o que recebem pela produção passa a 
+ser um extra na economia do lar. 
+A falta de incentivo, valorização, compradores e, por vezes, questões de saúde, levou a 
+uma diminuição de rendeiras ativas no município. Com a aproximação da e mpresária e estilista 
+especializada em rendas, Martha Medeiros, algumas artesãs voltaram a fazer renda, pois agora 
+existe uma cliente que compra toda a produção existente. Porém, os preços continuam baixos, e 
+isso não traz ânimo para boa parte das rendeira s, algo compreensível, pois mesmo trabalhando 
+diariamente são poucos as que conseguem R$500 em um mês. 
+Hoje existe uma preocupação por parte das rendeiras locais que um dia a tradição de 
+fazer renda desapareça do município, isso porque por mais que o ensin o seja garantido por 
+meios informais e formais, a população mais jovem não se sente atraída pelo ofício, seja por 
+representar algo do passado, seja por gerar ganho tão pouco, um valor que em outra profissão é 
+facilmente superado. 
+Por isso é compreensível a  preocupação, pois a renda é uma atividade que representa 
+São Sebastião. A “Terra das rendas de bilro” não teria nenhum outro produto que a
+
+## Página 71
+
+72 
+ 
+diferenciasse dos outros municípios do agreste alagoano se não fosse o incansável trabalho 
+feito pelas mãos das rendeiras locais. 
+Ao final desse trabalho espero que leitor se sinta mais próximo das mulheres rendeiras 
+que fazem um trabalho tão significativo e belo e que por vezes são tão esquecidas. É importante 
+que uma produção que representa cultura, economia e os valo res de um local seja valorizada 
+pela população onde está inserida, para que a partir desse movimento de acolhimento, as 
+condições de vida das artesãs melhorem e com isso não se vejam obrigadas a trabalhar por um 
+valor monetário abaixo do merecido. É import ante possibilitar melhores condições para que a 
+renda de bilro continue sendo feita nos lares de São Sebastião, mantendo uma tradição e 
+gerando capital para o desenvolvimento local.
+
+## Página 72
+
+73 
+ 
+REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+ 
+ANDRADE, Manuel Correia de. Geografia Econômica do Nordeste: o espaço e a economia 
+nordestina. São Paulo: Atlas, 4ª edição, 1987. 
+ 
+ARQUIVO NACIONAL. Alvará de d. Maria I que proíbe o estabelecimento de fábricas e 
+manufaturas no Brasil, de 5 de janeiro de 1785 . Disponível em:  
+http://historiacolonial.arquivonacional.gov.br/images/media/Junt%20da%20fazend%20COD43
+9%20f27f27vf28.pdf. Acesso em: 06 de fev. de 2020. 
+ 
+ASSOCIAÇÃO DAS MULHERES RENDEIRAS DO MUNICÍPIO DE SÃO 
+SEBASTIÃO – ALAGOAS. Disponível em https://cnpj.biz/05442375000125 . Acesso em: 26 
+de mai. de 2020. 
+ 
+BAGNASCO, Arnaldo. Desenvolvimento Regional, Soci edade Local e Economia Difusa. In: 
+URARI, André; COCCO, Giuseppe; GALVÃO, Alexandre Patez (org.). Empresários e 
+empregos nos novos territórios produtivos: o caso da Terceira Itália . Rio de Janeiro: 
+DP&A, 1999. p. 33-34. 
+ 
+BARROS, Francisco Reinaldo Amorim d e. ABC das Alagoas: dicionário biobliográfico, 
+histórico e geográfico de Alagoas . – 2. ed. – Brasília: Senado Federal, Conselho Editorial, 
+2015. 3v. 
+ 
+BIASOLI-ALVES, Zélia Maria Mendes . Continuidades e Rupturas no Papel da Mulher 
+Brasileira no Século XX . In: Psicologia: Teoria e Pesquisa, Brasília, Set -Dez 2000, Vol. 16 
+n. 3, pp. 233 -239. Disponível em < https://www.scielo.br/pdf/ptp/v16n3/4810.pdf >. Acesso 
+em 27 de nov. de 2020. 
+ 
+BRASIL. Constituição da República Federativa do Brasil : texto constitucional promulgado 
+em 5 de outubro de 1988. Brasília: Senado Federal, Coordenação de Edições Técnicas, 2016, 
+496 p.
+
+## Página 73
+
+74 
+ 
+BRASIL. Portaria nº 1.007 -SEI, de 11 de junho de 2018 . Diário Oficial da União , Brasília, 
+DF, ano 155, n. 147, 1 agosto 2018. Seção I, p. 34. 
+ 
+BRASIL. Lei nº 13.180, de 22 de outubro de 2015. Diário Oficial da União, Brasília, DF, ano 
+152, n. 203, 23 outubro 2015. Seção I, p.2. 
+ 
+BRASIL. Decreto nº 80.098, de 8 de agosto de 1977. Institui o Programa Nacional de 
+Desenvolvimento do Artesanato e dá outras providências . Disponível em:  
+https://www.planalto.gov.br/ccivil_03/decreto/1970-1979/D80098impressao.htm. Acesso em: 
+04 de fev. de 2020. 
+ 
+BRASIL. Decreto nº 83.290, de 13 de março de 1979. Dispõe sobre a Classificação de 
+Produtos Artesanais e Identificação Profissional do Artesão e dá a outras providências . 
+Disponível em: http://www.planalto.gov.br/ccivil_03/decreto/1970-1979/D83290.htm. Acesso 
+em: 04 de fev. de 2020. 
+ 
+BRASIL. Decreto de 21 de março de 1991 . Institui o Programa do Artesanato Brasileiro e 
+dá outras providênci as. Disponível em: 
+https://www.planalto.gov.br/ccivil_03/dnn/anterior%20a%202000/1991/dnn63.htm . Acesso em: 14 
+de dez. de 2020. 
+ 
+BRASIL. Decreto nº 1.508, de 31 d e maio de 1995. Dispõe sobre a subordinação do 
+Programa de Artesanato Brasileiro, e dá outras providências . Disponível em: 
+http://www.planalto.gov.br/ccivil_03/decreto/1995/D1508.htm. Acesso em: 04 de fev. de 2020. 
+ 
+BRASIL. Decreto nº 9.745, de 8 de abril de 2019. Aprova a Estrutura Regimental e o 
+Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do 
+Ministério da Economia, remaneja cargos em comissão e funções d e confiança, 
+transforma cargos em comissão e funções de confiança e substitui cargos em comissão do 
+Grupo-Direção e Assessoramento Superiores - DAS por Funções Comissionadas do Poder 
+Executivo - FCPE. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2019-
+2022/2019/Decreto/D9745.htm#art13. Acesso em: 04 de fev. de 2020. 
+ 
+CARVALHO, Cícero Péricles de. Formação Histórica de Alagoas . 3ª ed. rev. e ampl. – 
+Maceió: EDUFAL, 2015.
+
+## Página 74
+
+75 
+ 
+ 
+CATELLANI, Regina Maria. Moda Ilustrada de A a Z . Barueri, SP: Manole, 2003. (revisão 
+técnico-terminológica Laïs Helena da Fonseca Pearson). 
+ 
+COCCO, Giuseppe; GALVÃO, Alexandre Patez; SILVA, Mirela Carvalho Pereira da.  
+Desenvolvimento local e espaço público na Terceira Itália: Questões para a realidade brasileira. 
+In: URARI, André; COCCO, Giuseppe; GALVÃO, Alexandre Patez (org.). Empresários e 
+empregos nos novos territórios produtivos: o caso da Terceira Itália . Rio de Janeiro: 
+DP&A, 1999. p. 13-32. 
+ 
+CRUZ, Rita de Cássia Ariza da. Introdução à Geografia do Turismo . – 2. ed. São Paulo: 
+Roca, 2003. 
+ 
+ELLE Brasil. Renda Máxima: Entre um ponto e outro, Martha Medeiros trança sua 
+expansão no mercado da moda e do design e entra em 2014 cheia  de novidades, Mariana 
+Payno. Edição 306, ano 26, novembro de 2013, p. 312-313. 
+ 
+ENTREVISTA I .  [jan.  2018].  Rendeira Dona Zuza . Entrevistador: Robson dos Santos 
+Almeida. São Sebastião, 2018. 1 arquivo. mp3  (31  min.).  A entrevista na íntegra encontra -se 
+transcrita no Apêndice desta monografia. 
+ 
+ENTREVISTA II.  [jan.  2018].  Rendeira Dona Julinha. Entrevistador: Robson dos Santos 
+Almeida. São Sebastião, 2018. 1 arquivo. mp3  (19  min.).  A entrevista na íntegra encontra -se 
+transcrita no Apêndice desta monografia. 
+ 
+ENTREVISTA III .  [jan.  2018].  Rendeira Dona Diva . Entrevistador: Robson dos Santos 
+Almeida. São Sebastião, 2018. 1 arquivo. mp3  (9  min.).  A entrevista na íntegra encontra -se 
+transcrita no Apêndice desta monografia. 
+ 
+ENTREVISTA IV .  [jan.  2018].  Rendeira Adaysa . Entrevistador: Robson dos Santos 
+Almeida. São Sebastião, 2018. 1 arquivo. mp3  (9  min.).  A entrevista na íntegra encontra -se 
+transcrita no Apêndice desta monografia.
+
+## Página 75
+
+76 
+ 
+ENTREVISTA V .  [mar.  2018].  Rendeira Dona Iraci . Entrevistador: Robson dos Santos 
+Almeida. São Sebastião, 2018. 1 arquivo. mp3  (6  min.).  A entrevista na íntegra encontra -se 
+transcrita no Apêndice desta monografia. 
+ 
+ENTREVISTA VI.  [mar.  2018]. Rendeira Dona Jeilza . Entrevistador: Robson dos Santos 
+Almeida. São Sebastião, 2018. 1 arquivo. mp3  (4  min.).  A entrevista na íntegra encontra -se 
+transcrita no Apêndice desta monografia. 
+ 
+ENTREVISTA VII .  [mar.  2018].  Rendeira e Professora Dona Josefa . Entrevistador: 
+Robson dos Santos Almeida. São Sebastião, 2018. 1 arquivo. mp3  (36  min.).  A entrevista na 
+íntegra encontra-se transcrita no Apêndice desta monografia. 
+ 
+ENTREVISTA VIII .  [mar.  2018].  Rendeira Dona Susana . Entrevistador: Robson dos 
+Santos Almeida. São Sebastião, 2018. 1 arquivo. mp3  (8  min.).  A ent revista na íntegra 
+encontra-se transcrita no Apêndice desta monografia. 
+ 
+ENTREVISTA IX.  [mar.  2018].  Rendeira Dona Zezé . Entrevistador: Robson dos Santos 
+Almeida. São Sebastião, 2018. 1 arquivo. mp3  (7  min.).  A entrevista na íntegra encontra -se 
+transcrita no Apêndice desta monografia. 
+ 
+ENTREVISTA X .  [mar.  2018]. Rendeira e Diretora da Associação Dona Vânia . 
+Entrevistador: Robson dos Santos Almeida. São Sebastião, 2018. 1 arquivo. mp3  (17  min.).  A 
+entrevista na íntegra encontra-se transcrita no Apêndice desta monografia. 
+ 
+FEITOSA, Cid Olival. Aglomerações Industriais como fator de Desenvolvimento Regional: 
+um estudo de caso no Nordeste brasileiro . Brasil, 2009. Disponível em: 
+http://www.eumed.net/librosgratis/2009a/521/indice.htm . Acesso em: 02. Out. 2020. 
+ 
+FELIPPI, Vera; RÜTHSCHILLING, Evelise Anicet; FIGUEIREDO, Joana Bosak de. Um 
+olhar sobre o papel da mulher rendeira na história da moda brasileira . In:  Revista 
+ModaPalavra e -periódico [recurso  eletrônico], n. 16, jul./dez. 2015. Florianópolis: 
+UDESC/CEART, 2015. Disponível em < 
+https://revistas.udesc.br/index.php/modapalavra/article/view/1982615x08162015050 >. 
+Acesso em: 27 de nov. de 2020.
+
+## Página 76
+
+77 
+ 
+GEORGE, Pierre. Geografia do Consumo. 2ª ed. São Paulo, Difusão Europeia do Livro, 1971. 
+ 
+GRACILIANO. Revista da Imprensa Oficial Graciliano Ramos. Moda feita à mão, Clevis 
+Oliveira.  Maceió – Ano V – Nº14 – Maio/Junho de 2012. 
+ 
+IBGE. Cidades: São Sebastião -AL. Disponível em: https://cidades.ibge.gov.br/brasil/al/sao-
+sebastiao/panorama . Acesso em: 15. Jun. de 2018. 
+ 
+ISTOÉ. Sertão, Sonho e Renda: Como um cadastro que lista as ambições de rendeiras 
+alagoanas pode abrir para 400 artesãs uma porta de saída do Bolsa Família, Gisele 
+Vitória. p. 48-51. Edição 2370, ano 38, 06 de maio de 2015. 
+ 
+JÚNIOR, Manuel Diégues. Introdução . In: Artesanato brasileiro: rendas . 2ª. ed. Rio de 
+Janeiro: FUNARTE, 1986. 
+ 
+LAVER, James. A roupa e a moda: uma história concisa . São Paulo: Companhia das Letras, 
+1989. 
+ 
+MAIA, Isa. In: Artesanato brasileiro: rendas. 2ª. ed. Rio de Janeiro: FUNARTE, 1986. 
+ 
+MARTINS, Saul. Contribuição ao Estudo Cientifico do Artesanato . Belo Horizonte: 
+Imprensa Oficial do Estado de Minas Gerais, 1973. 
+ 
+NERY, Salete. Economia Criativa: Entre a Moda e o Artesanato. In: Dossiê Cultura e 
+Desenvolvimento: O Advento da Economia Cr iativa, Latitude - Revista do Programa de 
+Mestrado em Sociologia/ Universidade Federal de Alagoas.  – vol. 6, n. 2 (jul./dez. 2012) - . 
+–Maceio: Edufal, 2012. 
+ 
+PIRES DO RIO, Gisela. Jogo de espelhos: a dimensão cultural do econômico. In: CORRÊA, 
+Roberto Lobato; ROSENDHAL, Zeny. Economia, cultura e espaço. Rio de Janeiro: EdUERJ, 
+2010. p. 15-36. 
+ 
+PORTO, Walter Costa. Constituição de 1937 (Coleção Constituições brasileiras; v. 4). 3. ed. 
+─ Brasília: Senado Federal, Subsecretaria de edições Técnicas, 2012, 120 p.
+
+## Página 77
+
+78 
+ 
+ROMANI, Giovana. Martha Medeiros, a rendeira chique, ganha destaque internacional . 
+VEJA SP, 4 fev. 2011. Disponível em: https://vejasp.abril.com.br/cidades/martha-medeiros-
+estilista-perfil/. Acesso em 18 de dez. de 2020. 
+ 
+SANTOS, Milton. A Natureza do Espaço: Técnica e Tempo, Razão e Emoção . - 4. ed. 2. 
+reimpr. - São Paulo: Editora da Universidade de São Paulo, 2006. 
+ 
+SANTOS, Milton. O espaço dividido: Os dois circuitos  da economia urbana dos países 
+subdesenvolvidos. Rio de Janeiro: Francisco Alves, 1979 (Coleção Ciências Sociais). 
+(Tradução de Myrna T. Rego Viana). 
+ 
+SANTOS, Milton; SILVEIRA, María Laura. O Brasil: território e sociedade no início do 
+século XXI. – 9ª ed. – Rio de Janeiro: Record, 2006. 
+ 
+SEBRAE-AL. Manual de Atendimento do Artesanato: SEBRAE/AL 2015 -2017. Maceió: 
+SEBRAE, 2015, 10p. 
+ 
+SECRETARIA DE ESTADO DA CULTURA. Dona Clarice - patrimônio vivo do Estado de 
+Alagoas. Disponível em: http://www.cultura.al.gov.br/politicas-e-acoes/patrimonio-
+vivo/cadastros-mestres-rpv-al/ano-2008/clarice-severiano-dos-santos-in-memoriam . Acesso 
+em: 04 de jun. de 2020. 
+ 
+TATAR, Maria; Borges, Maria Luiza X. de A. Contos de Fadas . 2.ed. com. e il. – Rio de 
+Janeiro: Zahar, 2013. 
+ 
+TENÓRIO, Douglas Apratto; CARVALHO, Cícero Péricles de; LIMA, Rochana Campos de 
+Andrade. Enciclopédia Municípios de Alagoas. Maceió: Instituto Arnon de Mello, 2006. 
+ 
+THIOLLENT, Michel. Metodologia da pesquisa-ação. São Paulo: Cortez, 1986.
+
+## Página 78
+
+79 
+ 
+APÊNDICE A - Entrevistas
+
+## Página 79
+
+80 
+ 
+Entrevista I 
+12 de janeiro de 2018 
+Dona Zuza 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Eu aprendi com a minha mãe, a minha mãe tem hoje 92 anos, e eu aprendi já tinha 
+8 anos de idade, todas as minhas irmãs faz, só que ninguém que fazer, só faz eu e a outra, o 
+restante já não quer mais, e a minha mãe não faz até hoje por conta da visão, que não dá, ela 
+já perdeu um olho, só tem um com 40%, aí não permite mais, aí só tem a gente pra dá 
+continuidade, mas isso já vem hereditário, de mãe pra filha, minha já aprendeu com a mãe 
+dela, com a vó dela e por aí vem vindo, e todas é quase a mesma história, praticamente, as 
+rendeiras. Porque é hereditário, de família, aqui não tem uma história que diga fui quem 
+inventei e fiz, não tem ela, sabe que se chegou até aqui, de onde veio a gente não sabe dizer, 
+né, outro dia eu assistir uma reportagem que foi uma moça que namorou um rapaz, e o rapaz 
+levou um presente de renda pra ela, e ela veio para o nordeste e trouxe essa renda e deu 
+continuidade, agora quem é ela, não deu o nome”. 
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “Ela é uma terapia muito boa, e também é uma renda financeira que ajuda muito, 
+quando os meus filhos estudavam, hoje não porque graças a deus todos já estão formados, 
+mas a minha filha mesmo ela fez faculdade em Maceió e me ajudou bastante a renda, porque 
+quando eu vinha com o dinheiro, pedia mesmo a Martha, com o dinheiro já pagava a 
+faculdade dela, então é uma renda boazinha, é renda profissão e renda financeira também, 
+né”.  
+ 
+3ª – Como se é trabalhado o ensino do ofício nos dias de hoje? 
+Resposta: “Eu tiro pela família, porque a minha filha sabe, mas não dá continuidade, ela 
+exerce a profissão que ela fez a faculdade, que é farmacêutica, aí da minha família só tem eu e 
+minha irmã, as outras duas já não querem prosseguir fazer. Eu dei um cursinho em Luziapólis, 
+lá eram 30 alunas, das 30 as que ficaram profissional mesmo, ficaram 4 ou 5, lá a dona Cida 
+tenho certeza que ela dá continuidade, que ela disse que já foi pra uma exposição em Maceió, 
+o restante das pequenas não quere m, porque vão estudar, querem coisa melhor do que isso, 
+porque viver só disso não dá pra viver. O curso foi 3 meses, todos os dias, se for uma pessoa 
+que queria mesmo, principalmente as adultas, eu senti mais coragem nas alunas adultas, as
+
+## Página 80
+
+81 
+ 
+crianças não que rem nada não só querem brincar, achavam que era um trabalho de pessoa 
+idoso, elas diziam isso, o que não é, né, porque tem crianças que gostam de aprender, mas pra 
+dá continuidade, não tem um que queira não. Eu gosto de fazer, eu amo minha renda, jamais 
+eu quero parar, eu quero ficar com cem anos fazendo renda”. 
+ 
+4ª – Qual o material utilizado e de onde vem? (linhas, agulhas, bilros / compra) 
+Resposta: “A almofada a gente mesmo faz, (os bilros) esse aqui foi meu irmão que fez, esse 
+aqui minha mãe que fazia com a gente, esse aqui minha mãe que fazia, a gente trabalhava a 
+semana inteira e no sábado e domingo a gente ia pra mato cortava os paus, que chamava araçá 
+de bilro, já dá o nome assim a madeira, e a gente fazia, você ver que ele é totalmente 
+diferente, né, ele é grosseiro, né, esses daqui já são os atual de hoje que é feito na serraria, já 
+tem um senhor que faz, a gente paga pra ele fazer, nem todo mundo quer fazer não porque diz 
+que gasta muita madeira e não compensa, porque a madeira é cara, tem que ser  uma madeira 
+boa, bem pesada, se for leviana não presta, é R$ 50,00 uma dúzia, que dá seis pares, aqui tem 
+48 pares, as vezes tem mais, aquela que eu fiz tem 50. 
+A linha, a gente compra aqui mesmo, nos armarinhos vende, Arapiraca também vende, linha 
+esterlina número 20, de algodão, e alfinete, o papelão, é esse aqui que a gente faz e desenha 
+ela pra dá continuidade, em outras nomenclatura chamam de gráfico, outras chamam de 
+risqué, porque tem outros nomes depende da região do Estado, mas aqui é conhecido co mo 
+papelão, a língua, a almofada que é feita cheia de palha de bananeira, a palha seca, tira a 
+palha, tira aquele grosso fica só aquela fininha, e a gente faz um tipo um cheiozinho, né, 
+amarra a boca aqui enche todo, fecha novamente e aqui a gente molda o papelão, bota esses 
+“grampozinhos” pra segurar ele, aí vem os alfinetes e a linha, pronto isso aqui você vai até o 
+final fazendo, e secando um e botando mais linha e dando continuidade”. 
+ 
+5ª – Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: “São as tiras de aplicação, olhe a minha irmã já chegou a fazer uma colcha enorme, 
+ela ficou com 2.30 por 1.90 de largura, toda esse estilo aqui olhe (mostra), foi a maior peça de 
+renda já feita em São Sebastião, nenhuma outra re ndeira conseguiu fazer, ela foi feita todinha 
+neste estilo, vermelha, só mudou a cor, a esterlina vermelha com o número 10, que é outra 
+linha mais grossa ainda, ela fez toda neste estilo sem nenhuma emenda, fez o comprimento 
+todinho, após o comprimento tod inho, após o comprimento ela começou a fazer a largura, 
+chegou um momento que a almofada dela não tinha mais espaço para botar, aí ela colocava 
+em cima de um sofá e de um tamborete bem grande para sustentar a almofada, era muita
+
+## Página 81
+
+82 
+ 
+renda pendurada, mas até no  “De volta para minha terra” para São Sebastião essa colcha 
+passou, foi levada para uma biblioteca que tinha ali embaixo e passou, e eu fiz as duas fronhas 
+também sem nenhuma emenda, ficou perfeita, depois fez os bicos para dá acabamento virado 
+os cantos n a almofada, sem cortar também, ela só teve uma emenda final que foi o 
+acabamento, o resto foi toda sem nenhuma emenda. Se faz também de outras cores, só que a 
+vinte só tem branca, a linha Esterlina 20 só tem branca, o branco fica em primeiro lugar, a 
+Martha nunca encomenda de cores, só o branco, lá ela pinta, ela tinge lá, de preto de várias 
+cores, agora que a gente mesmo aqui ela só quer branca, ela trouxe até Bia Dória pra Entre 
+Montes, a mulher do prefeito de São Paulo, Deborah Secco tem uma roupa de ren da a coisa 
+mais linda, até quando a gente viu ficou emocionado “olha o artesanato da gente onde já vai”, 
+depois disso vieram muita gente encomendar renda que queria fazer a mesma roupa, a Tici 
+Pinheiro também. A gente até se surpreende com o valor que ela (Martha Medeiros) dá a 
+gente, que a aqui é a terra das rendas e ninguém tem respeito nenhum, tanto faz. A Martha 
+mantém a Casa do Bordado em Entre Montes (Piranhas), agora lá é bastante carente, eles 
+vendem o artesanato como se vende picolé, bem baratinho, eles chegam até você, elas chegam 
+oferecendo já, quando a gente pega um barco daqueles e chega, elas ficam tudo doida pra 
+vender. Lá é a renda principal, só tem isso, mais nada, chega dá dó aquele povo, aí a Martha 
+ajuda muito, ela leva oftalmologista, el a faz projetos, ginecologista, ela faz projeto pra 
+escavação de poço artesiano, porque eles sofrem com a seca, aí ela leva palestrantes, ‘Olhar 
+do Sertão’ (Nome do projeto), aí ela tem a associação ‘As mulheres do Brasil’, que são as 
+socialites, né, aí tem a dona da Magazine Luíza, entre outras mulheres ricas que ajudam a ela 
+nesse projeto, a Bia Dória, aí ela traz de vez em quando elas pra conhecer o Nordeste 
+(mostrando as fotos),  
+Pra Martha, são essas daqui, as tiras de aplicação, que ela coloca em vesti do de noiva, em 
+roupa de formatura, de festas, das atrizes, são essas coisas, ela tanto compra ela assim (mostra 
+a aplicação longa) quanto compra esses quadradinhos aqui, pronto a rendeira que está fazendo 
+as tiras para ela sou eu e sou sei se tem mais out ra, acho que não, a minha irmã mesmo faz 
+essa aqui (mostrou), por que lá era mora no sítio e tem muita poeira, a estrada é de barro, né, 
+aí por conta disso ela não dá continuidade as tiras, foi a que fez a colcha, por isso que ela fez 
+vermelha lá, porque só dá se fosse assim, e a branca ela muda de cor na poeira, ela fica meio 
+amarelada, a verdade é essa, mas foi a maior peça de renda até hoje, ela valia por quase, acho 
+que uns 10 caminhos de mesa, que o pessoal chama de passadeira, ela trabalhou um ano e s eis 
+meses pra fazer ela, e trabalhou muito bem trabalhado, não perdeu tempo, o horário que dada 
+ela pegava.
+
+## Página 82
+
+83 
+ 
+Antes da Martha a gente trabalha com encomenda, esse senhor passou aqui ele encomendou o 
+jogo de cama e a gente fez, e antes a gente esperava que pa ssasse alguém aqui para comprar, 
+que era difícil, pra vender era muito complicado, tinha pessoas que dizia que não queria fazer 
+mais, a desmotivou todo mundo por conta disso, porque não tinha a quem vender, hoje é ao 
+contrário, tem quem compre, não tem quem faça, já pensou como é as coisas? ”. 
+ 
+6ª – Quanto tempo por dia/semana trabalha com a renda? Quais são os valores das 
+peças produzidas? 
+Resposta: “Todos os dias eu faço, e eu não fizer durante o dia eu faço a noite, mas tem que 
+fazer, não posso ficar sem  fazer não, todos os dias eu começo, mais ou menos, uma hora da 
+tarde (13:00) vou até dez da noite (22:00), onze (23:00), fazendo, só paro pra fazer o jantar, e 
+volto para ela novamente, todos os dias, dia de domingo eu faço também um pouquinho, que 
+eu ten ho mais tempo, e a gente vai aproveitando as horas que mais tem vaga, pra fazer, 
+porque na época eu trabalhava, hoje eu já não trabalho mais, tô praticamente só nela agora, 
+faço mais outra coisa não, só tô fazendo a renda”. 
+ 
+7ª – A quantidade produzida em um mês de trabalho? Quais são os valores das peças 
+produzidas? 
+Resposta: “Por mês, bom, faço duas dessas por mês, se trabalhar muito faz duas, aí as duas dá 
+entorno de 500,00 reais, ela passa de um metro, acho que dá um e meio, mais ou menos isso, 
+essa tá pela metade (mostra), tem que ter muita paciência, atenção, e ela é a renda mais fina 
+que tem das rendas de bilro, porque as outras são grosseiras, tem no Ceará também, essa daqui 
+é muito fina, essa é própria pra roupa, quando a gente foi para São Paulo pr a inauguração da 
+loja da Martha, pra inaugurar foi eu e a Vânia, ela levou a gente, e lá o centro das atenções era 
+essa (se referindo a sua renda de bilro), a Renascença é linda depois de feita, é encantadora, 
+eu foi apaixonada pela aquela renda, realmente , mas o pessoal que ver fazendo pensa que tá 
+até costurando na mão, mas não é, eles tão fazendo a renda, mais o centro das atenções era 
+essa coisa (a almofada com a renda), quando fui levei essa daqui, faz tanto tempo que tô 
+fazendo essa aqui (se referindo  ao modelo) que não mudei mais nunca de renda, é só essa 
+direto, direto, que é o que a Martha quer. Ela gosta de coisa muito bem -feita, se for essa 
+malfeita ela torna, não aceita não, pelo menos as da gente não que a Vânia não tem muita 
+quantidade, um tempo ela produziu um mandrião pra um neto do Bill Clinton, todo na renda 
+daqui, ficou perfeito”.
+
+## Página 83
+
+84 
+ 
+8ª – Existe alguma forma de organização entre as rendeiras de São Sebastião? 
+(sindicato, cooperativa, associação, ONGs) 
+Resposta: “Não, só tem a associação, mesm o assim cada rendeira faz na sua casa, não tem o 
+local físico, até porque ficou difícil pra gente pagar um aluguel pra ter uma casa mesmo da 
+associação, sede, muitas também são idosas fica um sufoco danado pra tá levando isso aqui a 
+pé, não tem condições, aí todo mundo decidiu cada um fazer em suas casas, produz entreva a 
+Vânia, que é a presente da associação, quando ela vem pegar ela se comunica, pergunta se já 
+tem muita, a gente diz que tem, ela vem buscar, já leva pra Maceió, lá entrega, passa pra 
+Martha. A Vânia fica como responsável e tem contato direto com a Martha, não só com a 
+Martha mais com outras pessoas também”. 
+ 
+9ª – Como fonte de renda familiar, a renda de bilro é responsável por quantos por cento 
+em média por mês? É a principal fonte de renda? 
+Resposta: “Vai depender da rendeira, porque são peças com valores diferentes, umas por 
+metro, outras por peça, tem umas palas que são “individual” o preço delas, aí avaria de 20,00 
+reais acima, um metro dessa daqui hoje, pra mim fazer ela, eu só faço por 300,00 reais, mas 
+como a Martha compra em muita quantidade, que a gente já tem a ela como se fosse a 
+compradora certa mesmo, a gente não espera mais ninguém pra vir buscar em casa, por que se 
+esperar por isso ninguém vende, aí a gente vende ela com descont o, já dá um preço que ela 
+fique certo pra pagar a gente, e a gente fazer e mandar pra ela, melhor do que você fazer, 
+vamos supor, um metro por 300,00 e eu vou esperar 3 anos e não passa uma pessoa pra 
+comprar, eu fiz o que com isso? Nada, perdi meu tempo, tô com a peça guardada, vamos 
+supor que ela compre por 250,00 e eu fazendo e entregando pra mim sai muito melhor, é outra 
+coisa, do que eu tá comprando a linha e fazendo a renda e não ter a quem vender, aí fica 
+difícil, aí eu sou mais vender por um preço m ais baixo, mas que venda todos os dias, só é 
+fazer e mandar. 
+[sobre receber encomendas de outros clientes] Fica difícil, que eu já tenho compromisso com 
+a Martha, porque com é que a Vânia vai chegar até a Martha, vai dizer o que, né, eu tenho 
+compromisso c om a Vânia, e ela com a Martha, já sei que é delas, é a gente fazendo e 
+entregando, mesmo que chegue uma pessoa pra comprar agora, aí fica difícil, a gente não 
+pode nem vender porque já tá certo, pelo menos eu tenho consciência disso, tem outras aí que 
+vendem, sabe, se passar um aí e botar um real a mais ela pá (vende), eu já meio com medo, 
+sabe, porque já é um compromisso, se comprometer com uma pessoa e ela tem as coisas dela
+
+## Página 84
+
+85 
+ 
+também, as encomendas de roupas dela para as atrizes, querer fazer e na hora não  chegar a 
+renda, aí também não pode. 
+[voltando a questão da renda familiar] É um complemento, todas as rendeiras fazem isso 
+como um complemento da renda, não é a principal fonte de renda não, é um complemento.” 
+ 
+10ª – Como rendeira, agente produtora cultur al, recebe algum tipo de 
+programa/auxilio/assistência econômica por parte do munícipio/estado/governo federal? 
+(Linhas de crédito/ SEBRAE/ BB/ Bolsa Família/ Providência). 
+Resposta: “Pra gente, rendeiras da Associação, não. [sobre o SEBRAE] Mas até  um tem po 
+ainda chegaram a vir, mas o trabalho que eles queriam não tinha como, era só eles queriam a 
+produção porém dinheiro não repassava, ele repassava com bem queriam, eles queriam que as 
+rendeiras produzissem, que eles montariam as peças pra expor e tudo mai s, porém, eles 
+demoravam a pagar, a gente só ia receber quando eles vendessem a peça, aí ficava difícil pra 
+gente, então eu sou mais hoje que a Vânia leva e entrega a Martha, se eu dizer, a Vânia tá em 
+São Paulo agora, se eu disser ‘Vânia tô precisando de 500,00 reais de renda, tem como você 
+mandar?’ ela diz ‘mande o número da conta’, porque na mesma hora liga pra Martha e ela já 
+passa o dinheiro, sem ver a peça ela já passa, então ela confia no trabalho da gente, é por isso 
+que eu tô dizendo a vocês se che gar uma pessoa pra comprar não posso vender, porque se eu 
+quiser pedir um dinheiro a um turista que passa aqui ele vai me mandar? Não, e Vânia pede a 
+Martha e ela manda, as vantagens são essas. A Martha, ela divulgou muito bem as rendas da 
+gente, a verdade é essa”. 
+ 
+11ª – Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Para o município mesmo a importância é quase nada, só pra gente, individual, mas 
+que o município mesmo não colabora, não valoriza não. Se vo cê agora procurar uma lojinha 
+em São Sebastião que tenha uma amostra de renda, não encontra em canto nenhum, pronto em 
+cada casa você vai encontrar assim fazendo, e agora até porque por conta da procura da 
+Martha Medeiros e por conta da Vânia trabalhar des sa forma com a associação não tem nem 
+como por uma loja pra expor isso, porque já são coisas que são encomendadas, são feitas e já 
+são entregues”.
+
+## Página 85
+
+86 
+ 
+Entrevista II 
+12 de janeiro de 2018 
+Dona Julinha, 55 anos 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Há mais de cinquenta anos, aprendi com a minha avó, minhas irmãs, porque meu 
+pai casou duas vezes, aí eu sou da segunda família, na primeira família todos faziam renda, 
+minhas irmãs, as minhas tias”.  
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “Tudo, gosto muito”. 
+ 
+3ª – Como se é trabalhado o ensino do ofício nos dias de hoje? 
+Resposta: “Aprendem mais não dão continuidade, porque as pessoas mais jovens que tem que 
+faz renda é a sua irmã (irmã de Hermano, filho da dona Zuza que me levou as casas das 
+rendeiras), tem a menina da Diva, faz renda porque tá fazendo um vestido”. 
+ 
+4ª – Qual o material utilizado e de onde vem? (linhas, agulhas, bilros / compra) 
+Resposta: “Linha, bilro, alfinete”. 
+ 
+5ª – Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: “A gente produz só rendas mesmo, caminho de mesa, blusa”. 
+(Se trabalha para Martha Medeiros) “Trabalho”. (Se recebe encomenda de outros) “Recebo, 
+eu tenho uma encomenda de um vestido t odo de renda de uma menina que vai se formar no 
+final do ano, vou começar em fevereiro, quando tiver na minha casa, essa casa aqui é uma 
+bagunça, mais tranquila quando tiver na minha casa, se deus quiser”. 
+ 
+6ª – Quanto tempo por dia/semana trabalha com a renda? 
+Resposta: “Olha eu trabalho ... as vezes é assim, quando a gente trabalha em casa a gente 
+trabalha assim pelas horas, né, tem um tempinho vai, todo dia eu pego, ontem fiz até onze 
+horas da noite, quando eu tô sem sono, ontem eu comecei a fazer renda era cinco horas da 
+tarde, tomei café cedo e comecei, ‘hoje eu faço essa aplicação’, faltava metade da aplicação, 
+aí eu terminei, onze horas”.
+
+## Página 86
+
+87 
+ 
+7ª – A quantidade produzida em um mês de trabalho? 
+Resposta: “Dez metros, mais ou menos, depende também da renda , né. Eu tenho duas 
+almofadas”. 
+(Sobre o mostruário) “Só tem eu e a Zuza, a mestra usava o meu, pra dizer que era dela, ela 
+sem trouxe nada para rendeiras de São Sebastião e nem deixou, nem trouxe, nem deixou. As 
+filhas dela só têm rendeira uma, a Josefa é  rendeira, a da matéria (jornalística tv gazeta) não 
+sabe fazer nada, só faz uma renda se outra pessoa começar”. 
+(Sobres as feiras organizadas pelo Governo Estadual) “Tá com dois anos que, graças a deus, 
+não tem”. 
+(Sobre a quantidade de bilros utilizados) “Essa daqui em 45 pares”. 
+“Tem uns 5 anos, foi na Casa da Cultura de São Sebastião, eu dei aula só por 18 ou foi 20 
+anos”.  
+“Melhor que as mestras, né, eu sou quem faz os desenhos de renda para elas todinha” 
+(moldes), mas aqui elas não servem pra nada, só pra ganhar o dinheiro do governo”. 
+ 
+8ª – Quais são os valores das peças produzidas? 
+Resposta: “Porque a gente tira por metro, R$ 40,00, R$ 60,00, de R$ 100,00, o metro que a 
+Zuza tá fazendo dá mais de R$ 100,00 de aplicação, depende da quantidade de aplica ção. 
+(Mostrando fotos) essa daqui é que vou fazer o vestido da menina, de R$ 100,00 o metro, pra 
+fazer um metro dessa daqui é uma semana, agora essas duas .... mais de R$ 100,00, e ninguém 
+quer fazer, dá muito trabalho, nem toda rendeira faz, quem faz eu, a Zuza”. 
+ 
+9ª – Como fonte de renda familiar, a renda de bilro é responsável por quantos por cento 
+em média por mês? É a principal fonte de renda? 
+Resposta: “A minha renda me ajuda muito, e muito. (Se é a renda principal) Não, eu sou 
+aposentada, eu tô reformado a minha casa, aí ano passado eu ‘Vânia, eu tô aqui aperreada, me 
+mande cem conto pra comprar cimento, tô sem dinheiro pra comprar cimento”, aí me mandou 
+R$ 100,00, cinco sacos de cimentos eu comprei, mais tô com seis (aplicações) aí, já é R$ 
+150,00”. 
+ 
+10ª - Como rendeira, agente produtora cultural, recebe algum tipo de 
+programa/auxilio/assistência econômica por parte do munícipio/estado/governo federal? 
+(Linhas de crédito/ SEBRAE/ BB/ Bolsa Família/ Providência).
+
+## Página 87
+
+88 
+ 
+Resposta: “Não, só a mestre (risos), a prefeitura não ajuda em nada, a gente não, nem o 
+papelão, a gente compra, só quando eu dava aula a prefeitura pagava”. 
+(Observação: O esposo da Dona Julinha era quem fazia os bilros, antes os manuais, depois os 
+feitos na serraria. Agora quem faz é o dono da serraria). 
+“Esses bilros duram tanto tempo que.... a rendeira morre e ainda fica pra outra, R$ 50,00 uma 
+dúzia”. 
+ 
+11ª – Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Eu considero importante, porque mui ta gente chega aqui, né, “terra da renda, terra 
+da renda”, quando você me ligou tava um casal, ontem vieram comprar renda aqui, agora 
+encontrei mais dois, eu disse “não tenho renda, minha renda é encomenda”, eu trabalho com 
+encomenda o ano todinho. Além da s rendeiras serem poucas agora, umas já estão de idade, 
+não aguentam fazer mais, outras já morreram, e os jovens querem só o quê? Celular, quando 
+tá na aula, tá na aula, quando tá em casa é no celular. O estudo é o mais importante, né?, Hoje 
+tem mais ou menos umas vinte.”
+
+## Página 88
+
+89 
+ 
+Entrevista III 
+12 de janeiro de 2018 
+Diva, 55 anos 
+ 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Ah com a minha mãe, desde pequena, ah 55 já, 49 anos, vixe”. 
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “É pra tudo né, é muito importante só que pra comércio muito pouco, mas pra vida 
+da gente é muito bom, né, só não é pra comércio, pra venda não, se for sobreviver disso aí, 
+não sobrevive”. 
+ 
+3ª – Como se é trabalhado o ensino do ofício nos dias de hoje? 
+Resposta: “Faz pra Martha também. Só tenho ela (sobre a filha) ela já faz, ali é ela que tá 
+fazendo não é nem eu. Aí tem escolinha, mas não sou eu que ensino, é pela prefeitura”. 
+ 
+4ª – Qual o material utilizado e de onde vem? (linhas, agulhas, bilros / compra) 
+Resposta: “Linha, alfinete, o bilro, tudo consegue aqui mesmo na cidade”. 
+ 
+5ª – Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: “Agora aí fica difícil, tudo, bico, renda, é porque a gente não faz roupa, só isso, só a 
+mesma renda, aí quem vai produzir as peças é quem vai comprar a renda, quem comprar que 
+utiliza (as aplicações), a gente só faz as peças das rendas”. 
+ 
+6ª – Quanto tempo por dia/semana trabalha com a renda? 
+Resposta: “Agora eu faço o dia todo, porque agora já tô aposentada, era professora, era nível 
+médio, eu tava na direção quando me aposentei”. 
+ 
+7ª – A quantidade produzida em um mês de trabalho? 
+Resposta: “Ah meu filho é difícil, de dizer assim é muito difícil, o que eu  faço no mês pode 
+botar por metro, uns 5 metros, porque é de acordo com a renda, tem larga, tem estreita”. 
+ 
+8ª – Quais são os valores das peças produzidas?
+
+## Página 89
+
+90 
+ 
+Resposta: “Aí varia, essa daqui tá de sessenta (reais), um metro por sessenta, essa que é mais 
+larga, dessa já é diferente já é por quarenta, aí assim vai variando, esse aqui já é de vinte, é de 
+acordo com a renda”. 
+ 
+9ª – Existe alguma forma de organização entre as rendeiras de São Sebastião? 
+(sindicato, cooperativa, associação, ONGs) 
+Resposta: “Uma asso ciação, tem, a Vânia, eu era presidente aí passou pra ela. Existia 
+antigamente nós tínhamos um local, mas você sabe prefeito muda prefeito, a gente tentou na 
+época, que veio até de, que foi aquele, como é o nome? Artesanato Solidário, que veio de São 
+Paulo pra aqui, era o Solidário, aí botaram eu como a presidente, aí a gente formou, só que a 
+gente tentou conseguir, a gente ainda montou a casa tudo, o artesanato, montou tudo, só que a 
+gente tentou o prefeito ir pra câmara pra doar pra associação o prédio, s ó que ele abandonou, 
+deixou, deixou, aí quando o outro prefeito assumiu mandou me chamar, aí eu fui, aí ele disse 
+‘Desocupe’, eu digo ‘Pois não’. Aí pronto, a gente desocupou, aí ninguém teve mais local”. 
+ 
+10ª – Como fonte de renda familiar, a renda de bil ro é responsável por quantos por 
+cento em média por mês? É a principal fonte de renda? 
+Resposta: “Não, a gente não pode dizer, eu mesma não posso dizer assim mensal, porque se a 
+gente vendesse todo mês eu tinha aquela renda mensal, olhe a gente tem o produ to, mas cadê 
+o dinheiro? Tá aqui o produto mas cadê o dinheiro? Essa é minha, eu fiz pra uma mulher de 
+Maceió mas ela não apareceu pra pegar, aí ficou aí, vou aproveitar para colocar no vestido da 
+Adaysa (filha)”. 
+ 
+11ª - Como rendeira, agente produtora cul tural, recebe algum tipo de 
+programa/auxilio/assistência econômica por parte do munícipio/estado/governo federal? 
+(Linhas de crédito/ SEBRAE/ BB/ Bolsa Família/ Providência). 
+Resposta: “Não, na época da associação a gente tentou pelo Banco do Brasil, mas n ão 
+conseguimos de jeito nenhum, a gente tentou, tentou, mas não conseguimos”. 
+ 
+12ª – Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Pronto, se tivesse assim um local mesmo pra gente mesmo seria uma boa, p orque 
+a gente sozinha não tem como andar, tem que ter um empurrão de alguém pra gente ir 
+‘simbora’, tem a associação mas se não tiver um empurrão ninguém sai do lugar porque só
+
+## Página 90
+
+91 
+ 
+isso aqui é muito pouco, você vender uma peça pra tirar dez por cento vai tirar  o quê? 10 
+reais, 20 reais, vai fazer o que com esse dinheiro? Não dá pra nada”.
+
+## Página 91
+
+92 
+ 
+Entrevista IV 
+12 de janeiro de 2018 
+Adaysa, 28 anos 
+ 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Eu aprendi com a minha avó, faleceu há um ano, eu acho que eu faço renda desde 
+uns seis anos, por aí, mais de vinte anos, é”. 
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “Assim, representa a sequência, tanto da família como do símbolo de sempre ir para 
+frente, de não acabar ali, né? Muitas coisas”. 
+ 
+3ª – Como se é trabalhado o ensino do ofício nos dias de hoje? 
+Resposta: “Tem na casa de cultura tem a escola, né, que eles ensinam, mas não tem um ponto 
+de apoio pra rendeiras mostrar peças, essas coisas,  mas tem só a escola. (Sobre o ensino de 
+mãe para filha) É, antigamente era mais, né? As meninas se importavam mais, hoje é mais 
+difícil”. 
+ 
+4ª – Qual o material utilizado e de onde vem? (linhas, agulhas, bilros / compra) 
+Resposta: “É, tem a palha de banane ira, por que ela é feita com folha de bananeira seca; o 
+papelão, alfinete e o bilro, que é de madeira, essa daí tem oitenta e poucos bilros”. 
+ 
+5ª – Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: “Depende do pedido, assim, da pessoa que vier pedir, né. A gente já produziu xale, 
+já produziu vestido de casamento, dois a gente já fez vestidos de casamento, já colcha de 
+cama. (Sobre a não exclusividade de pedidos para Martha Medeiros) Recebe de outras 
+pessoas, só que a gente não entrega assim a peça pronta, a gente entrega tipo a renda, 
+entendeu? Pra pessoa, os pedaços, e a pessoa monta o que desejar, né?”. 
+ 
+6ª – Quanto tempo por dia/semana trabalha com a renda? 
+Resposta: “Assim, quando eu tô de férias, né, que eu também  faço faculdade, quando eu tô de 
+férias fico o dia todo fazendo, durante o período da faculdade eu faço mais só no fim de 
+semana ou a tarde. Eu faço enfermagem”.
+
+## Página 92
+
+93 
+ 
+ 
+7ª – A quantidade produzida em um mês de trabalho? 
+Resposta: “É difícil porque renda é uma co isa que é demorada, aí depende da quantidade de 
+pedidos, tipo uma renda dessas você não faz em um mês, é uma coisa que demora muito, né, 
+tipo um xale mesmo, um xale minha mãe fez só e foi seis meses, aí a gente não tem uma 
+renda específica por mês, só que compensa porque é uma peça cara, mas tirar mesmo por mês 
+não sabe quanto ganha”. 
+ 
+8ª – Quais são os valores das peças produzidas? 
+Resposta: “Aquela dali eu tô fazendo por tira, mas ela é aplicação, que é de quatro por quatro 
+(4x4), é vinte e cinco reais (R $25,00) uma. Não tem uma florzinha daquela? Só que eu tô 
+fazendo por tiras porque é para um vestido, essa daí para fazer um vestido longo, aí já vou 
+fazer inteira pra não ter que emendar, ali já tem 3 aplicações que já dá setenta e cinco reais 
+(R$75,00). Tem aplicações de oito reais (R$8,00) depende da espessura”. 
+ 
+9ª – Existe alguma forma de organização entre as rendeiras de São Sebastião? 
+(sindicato, cooperativa, associação, ONGs) 
+Resposta: “Existia antes, quando era o outro prefeito, né, aí tinha o ponto  de apoio, tinha as 
+rendeiras onde colocava exposto as coisas que eram produzidas. Já faz um tempo, no tempo o 
+prefeito era o Sertório Ferro, tinha um ponto de apoio onde as rendeiras se encontravam, né, 
+tinha a associação, era bem organizado mesmo. Aí hoj e em dia cada uma faz na sua casa, só 
+quando é conhecido que nem a Julinha, a Dona Zuza que conhece a gente, e a Vânia, aí uma 
+indica, sempre aparece gente aqui, mas os turistas quando passam assim nunca tem um ponto 
+de apoio certo”. 
+ 
+10ª – Como fonte de r enda familiar, a renda de bilro é responsável por quantos por 
+cento em média por mês? É a principal fonte de renda? 
+Resposta: “Não tem como saber a renda por mês, porque se você for esperar para vender uma 
+renda de seis/oito meses você não come. E não deixa de ser uma terapia também, né”. 
+ 
+11ª – Como rendeira, agente produtora cultural, recebe algum tipo de 
+programa/auxilio/assistência econômica por parte do munícipio/estado/governo federal? 
+(Linhas de crédito/ SEBRAE/ BB/ Bolsa Família/ Providência).
+
+## Página 93
+
+94 
+ 
+Resposta: “Não, quando também tinha a associação nós seguia, nós viajava para fora com o 
+Senai, exposições no congresso, congresso lá em Maceió a gente ia direto, no Centro de 
+Convenções, nas feiras, mas hoje acabou mais, e é uma coisa que valoriza a própria ci dade, 
+(sobre a placa na entrada da cidade) mais tinha, acho que o sol queimou tanto que deu uma 
+apagada, só que a pessoa que tá lá na placa ela não é a pessoa mais antiga, porque antes da 
+minha avó ainda teve outra pessoa mais antiga ainda, que já falecida , fazia, e ela nem é daqui 
+do município a pessoa que tá nessa placa, porque realmente a gente nem sabe quem trouxe a 
+renda pra aqui, ela não era nem daqui, era município de Feira Grande que ela morava, mas 
+tinha conhecimentos políticos essas coisas, aí muda tudo, mas ela não é o patrimônio não”. 
+ 
+12ª – Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Rapaz, assim, pro município seria ótimo se ele desse valor, se ele desse um 
+empurrãozinho, porque o município  tem pra onde crescer, tanto prefeitura como a população 
+também, mas é isso que acaba, né, que o ‘maiores’ não valorizam”.
+
+## Página 94
+
+95 
+ 
+Entrevista V 
+27 de março de 2018 
+Dona Iraci, 69 anos 
+ 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Com a minha mãe, ah desde de eu criancinha pequena, com 5 anos eu já comecei”. 
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “É, porque eu gosto”. 
+ 
+3ª – Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: “Eu só faço a renda mesmo, essa é ‘puta’, agora o povo não gosta de chamar ela 
+puta não, sabe? Botaram o nome dela de ‘fita’, mas toda vida ela foi puta, porque tem ela que 
+é a puta e tem o pico que é o corno, que tem a renda puta e te m o bico corno, a pareia. Agora 
+gente por aí quer tirar o nome,  a Maria da Clarice, foi quem mudou, toda vida foi puta, agora 
+acho que ela acha nome feio de puta, né? (risos) aí quis mudar. Essa é a ‘putona’ e tem a 
+‘putinha’, putinha é mais estreita, agora o bico é muito bonito, eu já fiz mais de 100 metros só 
+dessa renda, sem tirar, porque também a que dá mais um trocadinho é essa, eu fiz parece que 
+16 metros dela só numa peça. É da Vânia, só faço pra ela, tem gente que vem aqui, bota 
+preço, ‘não, faço n ão’, só pra Vânia, porque essas pessoas que aparece, é só naquele dia, 
+quando é depois oh acaba, e a Vânia não ela diz ‘Oh qualquer coisa, pode falar pra mim’, as 
+vezes eu tô apertada, eu ligo pra ela, ela me dá adiantado os metros que eu quiser, então eu 
+não posso ser covarde com uma mulher dessa”. 
+ 
+4ª – Quanto tempo por dia/semana trabalha com a renda? A quantidade produzida em 
+um mês de trabalho? 
+Resposta: “Eu passo duas semanas assim para fazer meio metro, porque ela é muito 
+trabalhosa, todo dia eu faço  um pouquinho, não tem hora não, eu faço mais de noite, porque 
+pelo correr do dia a gente lava um pano, vai fazer uma comida, fazer uma coisa, fazer outra, 
+né, aí o dia vai se passando, aí eu não vou dizer que eu faço o dia todo, porque eu não faço o 
+dia t odo, agora se eu fizesse o dia todo aí dava pra fazer, em 2 dias dava pra fazia meio 
+metro”.
+
+## Página 95
+
+96 
+ 
+5ª – Quais são os valores das peças produzidas? 
+Resposta: “A Vânia tá me pagando a ... agora ela tá me pagando a R$ 65,00, ela me pagava a 
+R$ 55,00, menos sabe, aí foi aumentando até chegou aos 55,00, agora ela já me pagou essa (a 
+que está fazendo) a 65,00”. 
+ 
+6ª – Como fonte de renda familiar, a renda de bilro é responsável por quantos por cento 
+em média por mês? É a principal fonte de renda? 
+Resposta: “Eu já sou a posentada, peguei um auxílio de doença, sabe, problema de nervo. 
+Porque quando eu era nova, solteira, eu fazia renda e bordava na máquina, aí depois eu enjoei 
+desse negócio de máquina, aí a máquina tá aí encostada pro canto, aí fiquei só na renda, 
+porque eu acho que é um divertimento também, um divertimento pra eu, todo dia eu faço”. 
+ 
+7ª – Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Eu acho que, sei não, num sei nem dizer”.
+
+## Página 96
+
+97 
+ 
+Entrevista VI 
+27 de março de 2018 
+Dona Jeilza 
+ 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Com a minha irmã, porque a minha mãe não tinha tempo, aí minha irmã quem me 
+ensinou, com 7 anos de idade, (tempo que faz renda) 60 e tarará”. 
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “Pra mim ela é tudo, que me dá meu dinheirinho, meu trocado. Oxe, quando eu tô 
+naquela sem dinheiro ‘Vânia me arruma dinheiro aí’ ela ‘Tome’, quem paga melhor. Peço a 
+Deus que me dê bem saúde, pra mim fazer bem muita renda”. 
+ 
+3ª – Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: “É a puta também, é a viúva, é essa daí que ela que ela tá fazendo (Dona Zuza), 
+Aplicação, a que eu comecei ainda tá na minha al mofada; as golas também, aliais, tudo que 
+botar pra mim eu vô mim bora”. 
+ 
+4ª – Quanto tempo por dia/semana trabalha com a renda? 
+Resposta: “Bem, se eu me sentar 07:00 da manhã até as 07:00 da noite eu tiro uma dessa 
+(aponta), eu passo até meia noite, uma hora da manhã, dependo da coluna, porque as vezes ela 
+dói e a gente deixa. Só não faço quando não tô em casa, todo dia eu tô com a minha renda, 
+tava em Maceió (na casa da filha), tá ansiosa pra voltar pra fazer a minha renda, agora com eu 
+for já vou levar uma, viu, uma almofada, vou deixar lá, com bilro e tudo, porque 15 que eu tô 
+lá, já tinha feito quantas aplicação?”. 
+ 
+5ª – A quantidade produzida em um mês de trabalho? 
+Resposta: “Bom se for um bico que não for muito ruim, no mês a gente tira 5, 6 (metros),  
+depende do bico”. 
+ 
+6ª – Quais são os valores das peças produzidas? 
+Resposta: “Agora esse mês ainda deu pra tirar R$700,00, foi 20 bichinha dessa (aplicação) e 4 
+metros do bico da viúva”.
+
+## Página 97
+
+98 
+ 
+ 
+7ª – Como fonte de renda familiar, a renda de bilro é responsável p or quantos por cento 
+em média por mês? É a principal fonte de renda? 
+Resposta: “É um extra, sou aposentada, é porque quando a gente tem um destino não pode 
+ficar parada, porque eu não posso ficar parada, se passar um tempo longe da minha almofada 
+eu adoeço mais ainda, é um vício, pra acho que é um vício pra eu não poder passar um dia 
+sem fazer renda, quando a gente gosta de uma coisa, é verdade”. 
+ 
+8ª – Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Rapaz, eu não nem responder nem essa pergunta, aqui não tem valor não, aqui 
+ninguém dá valor, agora com deus enviou a Vânia, né, aí a Vânia leva pra Maceió, e lá ela 
+vende, mas aqui ninguém dá valor não, graças a deus que deus abriu esse caminho pra Vânia, 
+se não já tinha caído de produção, não tinha pra quem a gente vender”.
+
+## Página 98
+
+99 
+ 
+Entrevista VII 
+27 de março de 2018 
+Dona Josefa, 57 anos, professora da Escola de Rendas 
+ 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Olha, eu aprendi com a minha mãe, na verdade eu aprendi fazer na almofada dela, 
+ela se levantava e eu começava a reinar nos bilros, sabia nem o que era bilro nesse tempo, eu 
+devia ter uns 6 anos, por aí, e fazia uma baguncinha, depois levava umas palmadinhas, né, 
+porque eu bagunçava o serviço dela, mas com essa brincadeira também logo eu aprendi, 
+também sempre foi muito observadora, muito curiosa, e não demorou muito eu aprendi, agora 
+quando eu comecei mesmo a ter a minha almofada, fazer as minhas rendas, eu tinha 8  anos de 
+idade, só que eu já sabia, né, desde uns 6 a 7 anos eu já mexia nos bilros, mas quando eu vim 
+ter mesmo a minha primeira almofada, de verdade, que ainda hoje eu tenho, todos os anos em 
+janeiro, esse ano não que eu não tive tempo, eu desmonto, assi m tiro os panos, aí se ele tiver 
+meio molinho dô uma arrumada, mas ainda hoje eu uso a mesma almofada de 50 anos atrás, 
+olha só quanto tempo”. 
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “Olhe, além do financeiro, porque eu não nego eu faço um bom dinheirinho com 
+renda, é porque pra mim a renda não é uma fonte de renda, mais é um extra que eu tenho, 
+muito bom. Além disso, da parte financeira, eu não me separo da minha almofada, eu não sei 
+se é paixão, não sei se é amor, não sei se é v ício, costume, eu sei lá o que é, mas eu não me 
+separo da minha almofada, você chegando lá em casa, com exceção dos meses de janeiro, dos 
+anteriores, esse ano eu fiz renda o mês todinho, que eu tinha uma encomenda para entregar, 
+foi o jeito trabalhar, mas em janeiro normalmente eu dou férias a bichinha, sabe, dou uma 
+descansadinha nela e a mim também, mas você sempre que chegar lá em casa vai achar renda 
+na minha almofada, mesmo eu fazendo pouco, que hoje eu faço mais pouco, que eu tenho um 
+pai em casa com Alzheimer e a gente quem cuida, né, aí sobra menos tempo, trabalho 
+também, mas não me separo da minha almofada, não sei se é a minha terapia, é alguma coisa 
+inexplicável que eu não me separo dela, pra mim ela é muito importante, é uma coisa que tá 
+no sangue. Outro dia o menino perguntado, eu disse “olha eu acho que eu me apaixonei por 
+renda ainda na barriga da minha mãe”, eu ouvir ela bater bilrozinho, e eu escutando o tilintá 
+dos bilros e eu foi me apaixonando desde aquele tempo, que até hoje é uma paixão,  que as
+
+## Página 99
+
+100 
+ 
+vezes eu digo, eu não gosto de jogo, mas se eu jogasse na mega sena, quando ela tá assim 
+acumulada com milhões e milhões, mesmo que eu aceitasse, a minha almofada para onde eu 
+fosse iria comigo, porque é uma coisa que é minha, é uma coisa que eu do mino, que eu gosto, 
+é uma paixão, é uma coisa meio inexplicável”. 
+ 
+3ª – Como se é trabalhado o ensino do ofício nos dias de hoje? 
+Resposta: “A gente tem aqui essa escola, eu também ensino algumas pessoas em casa, com 
+toda luta, com todo corre -corre, mas te m umas pessoas que me procuram e eu não me nego, 
+sob hipótese nenhuma, até uma, inclusive fazendo esses dias. Aí aqui na escola a gente tem 
+essa sala, 1ª, 2ª e 3ª etapa, cada uma dessas (mostra na parede), elas chegam aqui sem saber 
+nada, aí a primeira coi sa que elas aprendem é isso aqui, a trocar os bilros, essa é a primeira 
+etapa, primeiro passo, aprendem a trocar os bilros, ela vai trabalhar com 4 bilrinhos desses, 
+onde a gente vai ensinar a trocar esses bilrinhos, é todo um movimento, o movimento todinh o 
+da renda dá desses pauzinhos aqui, nesses bilros, é o primeiro passo, é a primeira aula que a 
+gente dá, ela tem que aprender a trocar os bilros, é como croché, você não tem que aprender a 
+fazer a trança?  Né o primeiro passo pra quem aprende croché? Entã o você vai aprender a 
+trocar. Quando você já sabe trocar, aí tem umas que aprendem rapidinho, tem outra que 
+demora um pouco mais, é muito relativo, não importa a idade, a criança aprende mais rápido, 
+é tem criança que num instante ela aprende, tem outras q ue demoram mais, do mesmo jeito é 
+o adulto, esse rapaz aqui (aponta para um local vazio onde provavelmente o rapaz prática), 
+que é um senhor que faz,  ele aprendeu a fazer só ouvindo eu ensinar, eu ficava “troca, torce e 
+troca de novo”, que é o movimento d o trocar, né, é troca, torce e troca de novo, e ele ficava 
+aqui, que ele trabalha aqui, e ele fica ouvindo, ouvido, quando é um dia ele se inventou de 
+pegar na almofada do outro rapaz ali, e eu perguntei “você quer aprender?”, ele disse “eu acho 
+que sei”, rapidamente ele aprendeu, ele começou o ano passado, já perto do final do ano, ele 
+começou uma (renda) mais fácil e ele foi passando, passando, passando de fase que de repente 
+chegou naquela última etapa lá, na 3ª, é o resultado já disso aqui, porque tem t odo um 
+processo, aí depois que elas aprendem a trocarem, vai aprendendo a trocar, quando ela 
+aprende trocar, ela vai para tranças, aí daqui a pouco, na próxima semana essa danadinha aqui 
+que tem 6 anos de idade, ela já vai pra traças, traças são esses...vo cê conhece traça de parede, 
+né? É cópia, é uma traça, né, quer dizer faz a trança e ela já vai pra essa traça, a proporção que 
+ela vai aprendendo, que ela vai dominando sozinha, porque eu ensino e elas vão se virando 
+sozinhas, vão aprendendo, vão aprendend o e quando sai disso aqui (mostra), aí pronto, 
+aprendeu a trocar, que é o primeiro, a fazer essas tranças e fazer essas traçinhas, o resto já leva
+
+## Página 100
+
+101 
+ 
+de boa, num instante aprende, é rápido. Geralmente, olhe em 6 meses já estão fazendo 
+direitinho, só que fica um ano, quando termina elas não querem ir embora, querem continuar, 
+tanto é que o máximo pra gente são 10, eu tô com 16, “ahh você tá com muita gente”, mais eu 
+tempo muitas, muitas não, algumas, que já sabem, que eu não me preocupo mais, é porque 
+elas não querem sair daqui, e eu não vou dizer “não venha mais” que eu não gosto desse 
+termo, eu tenho algumas como Letícia, que já faz sozinha, Lívia, que já faz sozinha, Reinaldo, 
+esse rapaz aqui, que já fazem sozinhos, o que eu botar pra eles faz eles fazem, e t enho 9 a 10 
+que realmente estão começando, começaram agora esse ano, foi no dia 13 que a gente 
+começou”. 
+ 
+4ª – Qual o material utilizado e de onde vem? (linhas, agulhas, bilros / compra) 
+Resposta: “Olhe, almofada, isso aqui é palha de bananeira, eu tenho u ma aqui que não está 
+terminada ainda (mostra), é todo um processo, a palha da bananeira sequinha, a gente usa um 
+saco, esse saco ele tem que ser um saco diferenciado porque, não sei se você sabe, mas tem 
+uns desses sacos que eles são elásticos, então tem q ue ser um saco que não tenha elasticidade, 
+esse aqui é o saco de açúcar que antigamente chamava, hoje usam mais pra chão, como aqui 
+mesmo tem, mas é um saco, tem uns que a gente já compra por metros, mas eu não gosto 
+porque é mais duro, então tem que ser u m saco maleável pra quando a gente apertar ele ficar 
+bem apertadinho, é toda uma técnica, tem pessoas que usam qualquer coisa, eu não, eu sou 
+toda cheia de coisinha, de cri -cri, por isso que as minhas, quando eu faço, digo tá feita e 
+garantida, aí a gente essas coisas aqui (mostra), aí a gente sempre cobre com um paninho 
+bonitinho, de acordo com o gosto da pessoa, e aí a gente vai pro serviço em si, esse papelão, 
+que a gente usa papel Paraná, e papel madeira, ele é coberto com papel madeira, aí vai pra 
+linhas, os alfinetes, e naturalmente os bilros, que sem eles a gente não faz nada, a gente 
+geralmente usa linha Esterlina, estamos pensando agora em mudar porque a esterlina tá tendo 
+muito problema com ela, (os problemas) a cor, e ela distorce muito, aí a gent e tá tendo muita 
+dificuldade pra trabalhar com ela, aí a gente tá, tô recebendo aí uma pessoa da Secul pra gente 
+ver se acha uma linha, porque antigamente eu lembro que eu trabalhava com uma linha 
+Âncora, eram uns carreteis de madeiras, uma linha perfeita,  perfeita mesmo, mas depois com 
+o tempo, parece que a fábrica incendiou, e a Corrente comprou, a Coats Corrente, e ficou 
+fabricando a mesma linha só que são uns bolinhos, não é a mesma coisa, e também porque a 
+madeira, né, mas a qualidade é muito boa, eu j á entrei em contado com esses pessoal, já foi e -
+mail. Já foi vídeos, mas até eles não ... disseram que iam ver se melhorava, fazer análise do 
+material, na verdade essa aqui (esterlina) não é fabricada no Brasil, essa linha, ela já vem não
+
+## Página 101
+
+102 
+ 
+sei de onde, ela é uma linha boa em termo de espessura, só que ela vai distorcendo, 
+distorcendo e ela quebra muito rápido, e além de tudo ela fica escura, você faz uma peça de 
+renda, vamos dizer assim,  não tem plástico, não tem papel, não tem nada que consiga fazer 
+manter ela branquinha, ela vai ficando escura, não tem jeito, o pessoal diz “a gente tá vendo 
+as qualidades não sei o que tal” até aqui nada, tô aguardando, né. Aí daí a gente confecciona 
+aí”. 
+(sobre o investimento da almofada) “Olhe, depende da quantidade dos bilros, que o mais caro, 
+na verdade dos bilros são os mais caros, 40,00 reais 12 bilros desse, faz aqui mesmo, tem um 
+senhor que faz, também só tem um rapaz que faz aqui pra gente, eu já disse “oh você passe 
+essa missão pra outro, porque se você morrer, com o é que a gente fica sem bilro?” aí ele diz 
+“mas ninguém quer aprender, não sei o que”, e realmente hoje em dia as pessoas não querem 
+mais fazer certos serviços que ganhe pouco, as pessoas só querem emprego, porque sabe que 
+tem uma instabilidade, muitas ve zes se esquece que um negócio desse pode as vezes dá mais 
+dinheiro que certos empregos por aí a fora, porque oh é 40,00 reais 12 bilrinhos desse, que a 
+gente trabalha com 12, com pares aliás, é um par de bilro, então, são 6 pares, uma dúzia, e é 
+40,00 reais. Agora a poucos dias eu fiz uma pra uma menina que me pediu, com 12 pares, 
+toda, completinha, só não da largura dessa renda porque a menina era aprendiz ainda, foi 
+200,00 reais, por causa dos bilros, o material em si é menos caro, mas os bilros é que encarece 
+muito, foi 200,00 que eu fiz a almofadinha para menina, aí depois “mulher, acabou vendendo 
+barato por 200,00 a gente compra almofada velha já pronta”, eu digo “é, mas eu não sou disso 
+não”, eu vou mais pelos bilros que é o mais caro, mas aí a gente . .. é entorno disso, depende 
+da quantidade de bilros, se for mais, se quiser um monte de bilro desses, claro que vai ficar 
+mais caro, que a gente vende de acordo com a quantidade dos bilros, proporcional, se não a 
+gente vai, ou fica no prejuízo ou vai quere r explorar as pessoas, e a gente não faz isso não, 
+uma almofada dessas, uns bilros desses, eles duram uma eternidade se você tem cuidado, 
+porque as vezes o que que acontece essa cabecinha aqui dele ele quebra, você que ele aqui é 
+mais fina, se deixar ele cair, cai hoje cai amanhã, vai acabar quebrando, é só ter cuidado, tudo 
+nessa vida é cuidado, é amor, carinho e cuidado, se não acaba estragando”. 
+(sobre o consumo de linha) “Olhe depende da renda, se for uma renda que tenha muita traça, 
+porque o que mais consume são as traças, aí meu filho, haja linha, agora se tiver menos traça, 
+gasta menos linha, o que mais consome a linha é essas traçinhas. (uma passadeira, por 
+exemplo) Olha a gente fez uma final do ano passado, foi 20 por 80 (20x80cm) ou foi 60, não 
+lembro bem assim, acho que foi 60, a gente gastou 6 novelos de linha, sobrou um tiquinho, a 
+gente comprou a linha e fomos contando, de 6 sobrou um pouquinho assim, coisa pouca.
+
+## Página 102
+
+103 
+ 
+Compra aqui mesmo, é (São Sebastião), (em torno de 12,50?) É, mais ou menos isso, nessa 
+faixa”. 
+ 
+5ª – Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: “Normalmente a gente faz a renda, a renda em si por metros, eu costumo também 
+fazer aplicações, que tem aplicações de vários tipos, de vários mode los, uns quadrados, 
+triangulares, retangular, redondos, de todo jeito a gente tem, e eu gosto, eu faço também uns 
+aneizinhos pra guardanapos, eu faço, panos de bandeja, é uma infinidade de coisas, mas a 
+passe mesmo é a renda, faço palas, que são pra roupas. É aquela história, a gente faz mais pela 
+...eu trabalho mais por encomendas, eu tenha umas freguesas, umas clientes, que trabalho 
+muito pra elas, elas dizem ‘Josefa eu quero tantos metros de tal renda’, eu faço, ‘Josefa quero 
+tantas palas’, eu faço, ‘Eu quero aplicações tais, tais’, faço, eu trabalho mais assim, sob 
+encomenda, é difícil eu fazer uma renda que não tenha dono já, só se eu começar a inventar 
+uma renda, como tenho umas em casa pra começar pra semana, tô terminando um biquinho lá 
+pra fazer, aí  é que eu vou fazer, aí fico aguardando as encomendas. (a maior parte das 
+encomendas) Rendas e bicos, os bicos tem uma ponta, certo, é o que mais a gente faz, porque 
+o bico ele é muito usado pra acabamentos, de tolhas, toalhas de banho,  toalhas de rosto, 
+toalhas de mesa, então o mais procurado além da renda, depois da renda é o bico, as 
+aplicações só quando a pessoa já tem uma coisa que vai fazer e vai botar aplicação, mas o que 
+mais a gente trabalha, os mais procurados são rendas e bico, mais o bico do qu e a renda, 
+porque o bico você bota numa toalha, você bota num lençol, você bota numa infinidade de 
+coisas, a renda não, você vai fazer uma fachada de renda, vai botar numa blusa e tal, mas aí o 
+bico ainda é o mais procurado”. 
+ 
+6ª – Quanto tempo por dia/semana trabalha com a renda? 
+Resposta: “Ah meu filho hoje eu trabalho bem mais pouco, faço mais a noite, eu acho que se 
+juntar o dia e a noite, no máximo, 3 horas, todos os dias eu faço, nem que seja uns dois 
+pontinhos tenho que fazer”. 
+ 
+7ª – A quantidade produzida em um mês de trabalho? 
+Resposta: “É relativo, de acordo com a renda, com a largura, com o modelo, porque tem 
+renda, uma dessa aqui (mostra), num instante a gente faz, essa é boazinha de fazer, mas 
+quando você vai pra uma renda mais larga ou que tenh a mais traças, aí é onde a gente demora 
+mais, essa passadeira que a gente fez final do ano passado a gente demorou bastante, fiz eu e
+
+## Página 103
+
+104 
+ 
+minha irmã, uma sentava, outra levantava, porque a mulher queria com pressa, era pro final 
+do ano, não sei o que, e a gent e demorou 4 meses, e era assim, uma se levantava a outra se 
+sentava, todo dia, porque também ela era toda de traça, era tipo aplicação só que ela foi feita 
+totalmente sem emendas, sem costuras, a gente tem uma técnica que a gente faz que é a 
+aplicação em quadradinho, e parece que é 16 por 16 (16x16), é o tamanho padrão, mas a gente 
+faz da largura que a gente quer, que a pessoa quer, e a gente faz ela totalmente sem ementa, 
+em vez de você emendar uma na outra a gente faz toda sem emenda, aí demora mais també m 
+por isso”. 
+ 
+8ª – Quais são os valores das peças produzidas? 
+Resposta: “Eu costumo dizer que: renda é caro! Outro dia estava um pessoal lá em casa, de 
+Salvador, e querendo saber, e disso “ói, renda é cara”, porque dá trabalho fazer, mas por 
+exemplo, é em torno de 30,00 reais por metro dessa (mostra), tem umas mais fininhas aqui 
+das meninas que é em torno de 10,00/15,00/20,00, dependendo da largura, do trabalho que dá, 
+vai naturalmente aumentando os valores. Uma aplicação tá em torno de 30,00 reais, 16x16, 
+tem umas menorzinhas que eu faço, redondas, tem vários outros modelos, que é em torno de 
+15,00, de 20,00, depende do tamanho e do modelo, mas nós temos modelos que chegam a 
+200,00 reais o metro, agora também o metro dá um trabalhinho pra fazer”. 
+ 
+9ª – Existe alguma forma de organização entre as rendeiras de São Sebastião? 
+(sindicato, cooperativa, associação, ONGs) 
+Resposta: “Olhe, dizem, eu não sei, porque eu não faço parte, mas dizem que tem uma 
+associação, mas eu não sei lhe informar. Aí dizem que tem uma  associação, tem uma menina 
+que toma conta, mas eu não sei lhe informar nada dessa associação, eu nunca quis fazer parte 
+não, a minha produção já tem destino certo. A gente tinha a ideia, que minha mãe faleceu, e 
+eu tive a ideia mais a minha irmã de fazer uma fundação, a gente ainda providenciou toda a 
+documentação, mas aí depois a gente acabou desistindo, uns probleminhas aí antes da gente 
+oficializar, fizemos só uma documentação como seria e tal tal, mas aí quando foi pra ...aí 
+minha irmã começou com mais mais ... “é melhor a gente se aquietar, esse negócio não vai dá 
+certo”, medo de enfrentar as coisa, né, porque a gente sabe que essas coisas dá trabalho, e 
+acabou, ainda hoje tem a papelada toda lá em casa, já tava pronta pra ir por contador pra que 
+ele fizesse todo aquele processo, mas aí a gente acabou desistindo, não levamos isso adiante e 
+paramos no meio do caminho, achamos uma pedra e pagamos”.
+
+## Página 104
+
+105 
+ 
+(sobre há quanto tempo existe a escola) “Essa escola existe a muito tempo, a escola em si ela 
+já existe a bastante tempo, eu não sei lhe precisar a quanto tempo, porque minha mãe foi umas 
+das professoras, mas já tem a muito tempo, aqui é que tá acho que uns três, quatro anos mais 
+ou menos instalada nesse prédio, porque já foi pra vários locais, aí está aqui, ess a era uma 
+construção meu feinha, mas o ex -prefeito deu uma ajeitada, não terminou tudo não mais deu 
+uma arrumadinha na sala”. 
+ 
+10ª – Como fonte de renda familiar, a renda de bilro é responsável por quantos por 
+cento em média por mês? É a principal fonte de renda? 
+Resposta: “Não, hoje não é mais, pra ninguém acho, porque hoje nós temos poucas rendeiras 
+em São Sebastião, ou acredito que mais ou menos umas 30, 40, se chegar é nesse número, 
+muitas das rendeiras já se foram, outras por motivos de saúde acabam de sistindo, sofrem da 
+vista,  coluna, porque haja coluna viu, dói muito a coluna e essa parte aqui do olho, não sei, eu 
+sei que dói tanto, e muitas delas já acabaram desistindo, porque você ver, alguns anos atrás a 
+renda aqui era fonte de renda mesmo, mas aí  depois vem empregos, aposentadorias, esses 
+benefícios que se fazem necessários, realmente, aí as pessoas passaram a ter a renda só como 
+um hobby, um divertimento, um extra, porque é um extra muito bom, mas dizer assim que as 
+pessoas fazem renda pra subsis tir, não faz mais não. Hoje 90% das rendeiras tem seus 
+empregos ou tem suas aposentadorias, grande parte, se a gente parar um pouquinho e pensar 
+não vai achar quase ninguém que vive só da renda, não acha mais, já foi, alguns anos atrás era 
+exclusivamente muitas famílias forma sustentadas, vamos dizer assim, as custas de renda, mas 
+hoje já não é mais, agora tem aquelas pessoas que não largam a almofada de jeito nenhum”. 
+(se uma rendeira consegui cerca de 500,00 por mês) E acho que dá pra fazer isso, eu tenho  
+uma vizinha que ela faz muito renda, ela vende bem, ela é aposentada mais ela ainda trabalha 
+muito, eu acredito que ela faz até mais do que isso, porque ela trabalha  mesmo! Ela se dedica 
+99% por cento do tempo dela exclusivamente a renda, eu acho que disso pra lá viu”. 
+ 
+11ª – Como rendeira, agente produtora cultural, recebe algum tipo de 
+programa/auxilio/assistência econômica por parte do munícipio/estado/governo federal? 
+(Linhas de crédito/ SEBRAE/ BB/ Bolsa Família/ Providência). 
+Resposta: “Não, não, as ajudas que a gente tem é quando vai para feiras, quando a gente tem 
+exposições, pronto, semana passada foi semana do folclore, do artesanato, do artesão, a gente 
+foi pra Maceió, a prefeitura banca todas as despesas de transporte, porque lá a gente fica ...lá a 
+gente já tem onde ficar, mas dá o transporte, essas coisas todas, mas assim uma coisa extra,
+
+## Página 105
+
+106 
+ 
+exclusiva pra gente, não. A minha irmã é funcionária da prefeitura, aí recebe pra ficar aqui, o 
+salário dela, eu sou funcionária cedida à prefeitura, aí tô aq ui comprido meus horários, mas 
+dizer assim que tem uma coisa exclusiva, a prefeitura banca tudo isso aqui (a sala), você a 
+alegria das meninas com a chegada dos banquinhos, porque a gente diz o que precisa e eles 
+providenciam, todo o material aqui que a ge nte tudo é da prefeitura. Eu sou funcionaria de 
+uma outra instituição cedida para o município, aí eu presto meus serviços aqui, a gente tinha 
+uma exclusiva daqui, e ela aposentou -se, trabalhou até o ano de 2016, trabalhava eu e ela de 
+manhã, ela era os doi s horários, e a minha irmã a tarde, tinha uma outra pessoa também que 
+ficava só no horário da tarde, mas aposentam-se e aí ficou só eu e minha irmã, uma de manhã, 
+outra a tarde. Não, a gente não tem nenhum convênio, nada disso”. 
+ 
+12ª – Na sua opinião, qual  a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Olhe, a cidade baseou -se desde o princípio, há muitos anos atrás, com a renda de 
+bilro, né, e ganhou este nome “terra das rendas de bilro” e foi crescendo, esse nome foi 
+crescendo, e hoje São Sebastião por onde você passar é conhecida como “Terra das Rendas de 
+Bilro”, nós temos outros municípios aqui em Alagoas que fazem, mas coisa pouca, outros 
+estados também que a gente sabe que faz, mas a gente aqui ganhou essa fama de renda d e 
+bilro e se a gente deixar isso aqui acabar, vai acabar como Arapiraca que era a famosa “Terra 
+do fumo” e não é mais, gente não quer deixar que isso aqui acabe, essa tradição da famosa 
+renda de bilro, por isso que a gente ensina a essas senhoras, senhores , essas crianças, para que 
+não morra essa tradição, esse costume, essa arte, que é uma arte milenar, e não deixa de ser 
+muito bonita. Mas eu acho que pra cidade, se você passar por São Sebastião alguém vai dizer 
+“Terra das rendas de bilro”, já ficou conhecida como terra das rendas de bilro, e acho que isso 
+não vai acabar mais nunca, só se a gente acabar com a renda”.
+
+## Página 106
+
+107 
+ 
+Entrevista VIII 
+27 de março de 2018 
+Dona Susana, 73 anos 
+ 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Eu aprendi a fazer renda com a minha mãe, eu tinha 7 anos de idade.  Não tinha o 
+que fazer no interior, somente para não está sem fazer nada, não tinha quem comprasse a 
+renda, tinha um homem, que o finado Pecado, que comprava nossa renda, ela me ensinou, 
+ainda fiz um biquinho, ainda vendi não sei quantos metros, naquele tempo era um dinheirão, 
+né? Aí eu fiquei fazendo e eu deixei de fazer, e não tinha quem me ensinasse mais, a mamãe 
+só fazia uns biquinhos estreitinhos, eu queria fazer uma rendinha mais larga,  aí depois eu 
+comecei a arrumar um trabalho com o Zé Pacheco, na secretaria, aí a Maria do Didi fazia 
+renda, que era a professora de fazer renda, eu era somente de limpeza, aí eu disse ‘Maria eu 
+queria aprender a fazer o pico maior, mais largo’, ‘você tem bilro’, ‘eu não tenho bilro não, se 
+não tiver bilro aí da secretaria, da associação de você eu empresto e depois que eu aprender eu 
+compro mais uns bilros e dou os de vocês’, assim eu fiz, ela fez um bico, botei o bico eu me 
+empatei de fazer o bico, a Mari a nervosa e eu nervosa, eu disse ‘Maria eu não vou fazer mais 
+não’, aí ela ensinava de manhã e a Julinha ensina a tarde, ‘Eu vou aprender com a Julinha, se 
+não aprendo com a Julinha não aprendo mais com ninguém’, que a Julinha tem mais 
+paciência, né. Aí a Julinha me deu indicação, ‘faça assim e assim’, e eu aprendi, eu fiquei 
+fazendo renda até hoje, tô com 73, vou entrar no 74, só faço esse pico também, que a minha 
+vista também não dá para fazer, e também não tenho tempo para fazer, aí fiquei fazendo esse 
+até hoje, e sei que quando ficar velha caduca e não poder fazer, encosto, né, mas enquanto 
+puder fazer, eu faço, aí pronto. 
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “Porque é o divertimento da gente! A gente se diverte mais, eu tô meio aperriada 
+com a minha netinha que eu tenho aqui, faz raiva, né, aí eu deixo com a mãe dela e vou fazer 
+a minha renda e aqui vou bater nos bilros e aqui vai desaparece, né, aquele pensamento da 
+pessoa, aquele nervoso. Mas é bom fazer, eu tendo tempo”. 
+ 
+3ª - Quais as principais peças produzidas?
+
+## Página 107
+
+108 
+ 
+Ah meu irmão, eu só faço essa daqui porque é o jeito, eu fazia antigamente o pouso com bico, 
+a Vânia era até mais desse bico, mas eu deixei, aí depois ‘não, eu vou começar uma renda 
+mais larga’, era o volta -redonda, só fazia esse bico, eu disse ‘Vânia vou mudar’, aí comecei a 
+fazer esse, até hoje, vou morrer com esse daqui, só faço esse, o Viúva (nome do bico). 
+ 
+4ª - Quanto tempo por dia/semana trabalha com a renda? 
+Resposta: “Para fazer um metro, meu irmão, é uma  semana. Eu, né, porque eu faço devagar e 
+eu não faço direto, mas quem começa de 05:00 da manhã até 06:00 da tarde pode fazer, né, 
+mas eu não faço não, todo dia eu faço um pouquinho, 10 minutos (risos), 10 minutos para 
+fazer duas florzinhas dessas. Porque olhe, eu levantei de manhã, tomei café, e foi fazer, olhe 
+eu só fiz duas flores, de manhã até meio -dia, né, porque ainda tem que encher bilros, os fios 
+se quebram a gente tem que emendar”. 
+(a peça que ela estava fazendo tinha seis metros e meio, perguntei quanto ela gastou de linha 
+até ali): “Olhe, para fazer 10 metros de renda é um novelo e meio para fazer essa renda aqui”. 
+ 
+5ª - Quais são os valores das peças produzidas? 
+Resposta: “Essa daqui é 50,00 o metro”. 
+ 
+6ª - Como fonte de renda familiar, a renda d e bilro é responsável por quantos por cento 
+em média por mês? É a principal fonte de renda? 
+Resposta: “É, sou aposentada, mas eu faço por fora (o bilro, acredito que ela se enganou, não 
+tem como ser a principal renda), a mais, ajuda. Eu vendendo os 10 metros eu faço 500,00”. 
+ 
+7ª - Como rendeira, agente produtora cultural, recebe algum tipo de 
+programa/auxilio/assistência econômica por parte do munícipio/estado/governo federal? 
+(Linhas de crédito/ SEBRAE/ BB/ Bolsa Família/ Providência). 
+Resposta: “Ah meu irmão, eu não sei não falar, deve ter (risos). É só o trabalho da gente, que 
+é de graça”. 
+ 
+8ª - Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Eu queria que essa renda fosse pra frente, né. Essa associação e a Vânia tem umas 
+15 a 16 pessoas, e por causa dessa associação sai a de todo mundo, aí a gente ficou com umas 
+6, depois acabaram tudo, fomos para Maceió fazer entrevista para lá, foi aquela bagaceira
+
+## Página 108
+
+109 
+ 
+toda, no fim não resolveu nada, fizemos carteirinha fi zemos tudo, e ‘agora vai para frente!’, 
+ahhh acabou tudo (querendo dizer que não, nada aconteceu), a Vânia que tá comprando assim 
+quando a gente faz uma peça ela compra e vai para Maceió, ela vende a freguesia dela, é 
+assim. Só é ligar ela vem buscar aqui na hora”.
+
+## Página 109
+
+110 
+ 
+Entrevista IX 
+27 de março de 2018 
+Dona Zezé, 89 anos 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Com a minha mãe, ah meu filho tá com muitos anos, quando minha mãe pegou a 
+ensinar nós eu tinha uns 8 anos, porque a nossa família todo mundo fazia renda, as minhas 
+tias, todo mundo fazia renda, mas nesse tempo era muito fraco pra vender, mas foi 
+aumentando um pouco, aumentando as coisas, e hoje em dia tá mais forte, tá melhor. Mas eu 
+não fazia só isso não, eu costurava também, eu passei uns 10 anos sem fazer renda, porque 
+nás morava no sítio e lá costureiro era pouco, foi o tempo que eu vim para aqui, já tinha um 
+conhecimento daqui, cheguei aqui me atacaram costura e eu comprei outra máquina, d essa de 
+motor, porque a minha máquina era de pé, muito cansada, aí comprei uma máquina a motor e 
+peguei a costurar, costurei por muito tempo, eu passei mais de 10 anos sem fazer renda, 
+‘adepois’ não tinha essas roupas feitas que tem aí, não tinha nada, depois chegou essas roupas, 
+e o povo foi ficando mais pouco, mais fraco, chegou mais costureiras, que só tinha aqui só 
+quem costurava era a Irani do Zé Curtinho e a finada Chiquinha e pronto, e mais ninguém, foi 
+o tempo que eu cheguei e nós ficamos costurando . Depois ‘vou fazer renda agora’, sem tá 
+parado nessa idade toda que eu tô.” 
+ 
+2ª – Que importância tem em sua vida a renda de bilro?  
+Resposta: “É porque as vezes a pessoa tá com um dinheirinho fraco e faz a renda e aumenta 
+mais um pouco. Vou ver se eu me interesso mais fazer”. 
+ 
+3ª - Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: Eu faço mais esse bico, Bico das Viúvas, eu já fiz dela (Susana), mas não gostei 
+não, gosto desse, muito mais bonito. 
+ 
+4ª - Quanto tempo por dia/semana trabalha com a renda? 
+Resposta: “Em uma semana eu só faço meio metro, fazia mais, mas agora eu vivo doente, as 
+vezes passo da semana e eu não faço o meio metro. Mas todo dia faço, hoje só fiz 3 
+matanguinho, olha essas 3, fiz daqui para cá. 
+Olha, eu logo cedinho eu me acordo e venho logo fazer a renda, e a cozinha fica pra lá. 
+Quando eu saio com uma menina que eu tenho aqui comigo, quando ela se levanta e vai para
+
+## Página 110
+
+111 
+ 
+cozinha fazer o café, tudo bem eu me ‘aprego’ mais aqui, e quando ela dorme mais dá vontade 
+de tomar café e chego vou, faço o meu café, volto pra renda de novo, é assim”. 
+ 
+5ª - Quais são os valores das peças produzidas? 
+Resposta: “Essa renda eu tô vendendo ela agora de 58 reais o metro. Mas ela (Vânia) não 
+queria pagar de preço não, ‘mulher a gente trabalha tanto, sem fuga, fazendo uma coisa dessa, 
+a renda aumentou aqui’, mas ela não queria não pagar, só queria pagar de 55,00”. 
+ 
+6ª – Quanto de linha a senhora utiliza? 
+Resposta: “Não, a linha, eu não fiz a conta ainda porque quando tá t erminando a linha assim, 
+aí termina os 10 metros, aí começa outros 10 metros, aí eu não sei quando é que gasta”. 
+ 
+7ª - Como fonte de renda familiar, a renda de bilro é responsável por quantos por cento 
+em média por mês? É a principal fonte de renda? 
+Resposta: “A aposentadoria não dar não para gente fazer de tudo, comprar de tudo, e o 
+remédio? Quem sofre de pressão é uns remédios caros infeliz, eu não me dou com esses 
+remédios dos postos, tem que ser comprado, caro, sofro do coração também, é o remédio caro 
+do coração e se for pra viver só à custa da renda... não dá, passa fome, tem que fazer uma 
+rendinha para ‘interar’ qualquer coisa”. 
+ 
+8ª - Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Eu acho que a gente dar uma ajuda nas coisas, porque a gente fica mais folgado”.
+
+## Página 111
+
+112 
+ 
+Entrevista X 
+27 de março de 2018 
+Dona Vânia (diretora da Associação das Mulheres Rendeiras do Município de São 
+Sebastião) 
+ 
+1ª – Com quem aprendeu e há quanto tempo faz renda de bilro? 
+Resposta: “Eu aprendi, tem uns 20 anos que eu aprendi, eu aprendi com a professora Júlia, 
+porque eu trabalhava na Secretaria de Cultura e eu era diretora de cultura, aí eu trabalhava 
+com a escolinha de renda, aí eu fui, tinha que saber fazer renda, de uma  forma ou de outra eu 
+tinha que aprender a fazer renda, na época quem era professora era Susana, a Maria Davi, a 
+Maria Rosa e a Julinha, e a minha professora foi a Julinha, eu escolhi a Julinha pra ser minha 
+professora” 
+(sobre a quanto tempo funciona a esc ola) “Ah aquela escolinha tem muitos anos, aquela 
+escolinha, eu acredito, que tenha uns 30 anos”. 
+ 
+2ª – Que importância tem em sua vida a renda de bilro? 
+Resposta: “Uma grande importância, por ser até um artesanato assim ... ele é exclusivo, né, 
+aqui, nessa região, só vamos encontrar renda de bilro em São Sebastião, então é de grande 
+importância, para gente que somos artesão, a renda de bilro, ela é atraente e chama a atenção 
+de todos, quando a gente vai pra uma exposição nosso estande é o mais cheio, é o n osso, 
+porque a gente faz ao vivo, a gente leva as almofadas e a gente faz, pratica a amostra ao 
+vivo”. 
+ 
+3ª – Como se é trabalhado o ensino do ofício nos dias de hoje? 
+Resposta: “A escola continua, mas tem o seguinte, o jovem, hoje em dia, eles não querem 
+fazer renda, porque é um trabalho, a nossa renda é muito trabalhosa, requer muita atenção, e 
+realmente é difícil, e o jovem por sua vez ele gosta mais de whatsapp, de tá na internet, não é? 
+Então a criança, ela com 8 anos de idade, ela já pode ir pra escola  fazer a renda, aí quando ela 
+começa a aprender, começa a desenvolver com 8 anos, 10, 11, 12 anos ela não quer mais, 
+então a nossa maior preocupação é que um dia São Sebastião deixe de ser “São Sebastião, a 
+terra das rendas de bilro”, por que? Porque o jov em não quer, porque os mais velhos vão 
+daqui um dia ...morrem, e como é que fica nossa renda? Nossa preocupação toda é essa. 
+Aprendem, não dão continuidade por quê? Porque acha melhor tá na internet, no whatsapp, 
+não querem de jeito nenhum tá ligado”.
+
+## Página 112
+
+113 
+ 
+ 
+4ª – Qual o material utilizado e de onde vem? (linhas, agulhas, bilros / compra) 
+Resposta: “O material utilizado é a linha, né, a Esterlina nº 20 e a almofada em si, porque ela 
+é feita de palha de bananeira, revestida num saco, e revestida numa chita, e os bi lros que é 
+feito de madeira. E daí faz o molde, através daqueles papelões onde formam as rendas. Tudo 
+consegui aqui no munícipio, e não é todo mundo que sabe furar o papelão, a Julinha que é 
+mestra nisso, a Zuza também, mas a Julinha se destaca porque todo  mundo corre pra casa da 
+Julinha, a Zuza como é uma pessoa muito ocupada, porque a Zuza trabalhava na saúde, ela se 
+aposentou recentemente, não tinha muito tempo, como a Julinha já trabalha já na cultura, já 
+era professora de renda, a Julinha que ficou até hoje, quando a pessoa precisa, até as idosas já, 
+pessoas que faz renda há muitos anos, já tem mais de 60 anos, ‘Julia, fure aqui um papelão pra 
+mim’, só corre pra casa da Julinha”. (A Julinha se aposentou como professora da cultura, pela 
+prefeitura). 
+  
+5ª - Quais as principais peças produzidas? (características, bicos, toalhas, roupas) 
+Resposta: “Todas as peças de renda são valorizadas, são valiosas, todas, das mais finas as 
+mais largas, são muito atraentes. Todas as rendas são em metros, depois faz as peç as, aí você 
+transforma ela em blusa, em passadeira, no que você imaginar, em vestidos, elas são em 
+metros. Você não consegue fazer uma blusa tirada diretamente da almofada a blusa, você faz 
+a peça da renda, vamos supor que pra mim fazer uma blusa pra mim s eja 15 metros ou mais 
+de renda, aí eu levo pra casa da costureira, digo com é que eu quero, e a costureira emenda 
+uma na outra e forma a blusa pra mim. Agora a irmã da Zuza fez uma colcha sem emenda, ela 
+passou muito tempo, e a Zuza que fez as fronhas. 
+ 
+6ª - Quanto tempo por dia/semana trabalha com a renda? 
+Resposta: “Assim, por dia eu trabalho 4 horas, 5 horas por dia nas rendas, todo dia eu faço um 
+pouco”. 
+ 
+7ª - A quantidade produzida em um mês de trabalho? 
+Resposta: “Depende, depende da largura, tem rend a que dar para fazer 10 metros, tem renda 
+que dar para fazer 7, vamos depender da largura da renda e também do tempo disponível”. 
+ 
+8ª - Quais são os valores das peças produzidas?
+
+## Página 113
+
+114 
+ 
+Resposta: “Pois é, cada renda tem seu preço, as mais finas são um preço, as m ais largas são 
+outros preços. (Perguntei sobre a aplicação 16x16cm) 30 reais”. 
+ 
+9ª - Existe alguma forma de organização entre as rendeiras de São Sebastião? (sindicato, 
+cooperativa, associação, ONGs) 
+Resposta: “Tem a associação, a gente não tem cooperativa . A associação, por enquanto, está 
+sem sede, quando a gente quer se reunir a gente de comunica, a gente diz ‘tal dia tem 
+reunião’, a gente se reúne ao aqui em casa ou na casa da Zuza, na casa de qualquer uma das 
+rendeiras. Todas as rendeiras fazem parte”. 
+10ª - Como fonte de renda familiar, a renda de bilro é responsável por quantos por cento 
+em média por mês? É a principal fonte de renda? 
+Resposta: “Não é a principal renda porque se a gente fosse sobreviver só da renda de bilro não 
+tinha condições, ela é uma ajuda, uma renda extra mas você pra viver só dela é complicado”. 
+ 
+11ª - Como rendeira, agente produtora cultural, recebe algum tipo de 
+programa/auxilio/assistência econômica por parte do munícipio/estado/governo federal? 
+(Linhas de crédito/ SEBRAE/ BB/ Bolsa Família/ Providência). 
+Resposta: “Não, não”. 
+ 
+12ª - Na sua opinião, qual a importância da renda de bilro para o munícipio de São 
+Sebastião? 
+Resposta: “Ah São Sebastião o carro chefe é a renda de bilro, São Sebastião terra das rendas 
+de bilros, é conh ecido assim, é o carro chefe é renda, atrai muito turista pra conhecer as 
+nossas peças aqui”. 
+ 
+13ª – Sua relação com a empresária Martha Medeiros? 
+Resposta: “Eu trabalho muito com a Martha Medeiros. Eu conheci a Martha Medeiros há 15 
+ou 16 anos atrás, a mu itos anos que eu conheço a Martha, quando ela tava começando, a loja 
+que ela tinha era aquela loja lá em Maceió. Então eu estava numa feira, numa exposição lá em 
+Maceió, uma exposição de 10 dias e nesses 10 dias eu não tinha vendido quase nada de renda, 
+e já no final da tarde, eu já querendo arrumar as coisas pra vir embora, porque muita gente já 
+tava arrumando, as coisas já...o último dia, então eu me deparo com ela, com a Martha, ela 
+entra assim no estande e fica a observar as rendas e ela separava, ela m e comprou quase todas 
+as rendas, e eu disse ‘eu deus, de onde saiu essa mulher? Porque eu passei aqui 10 dias, vendi
+
+## Página 114
+
+115 
+ 
+quase nada, essa mulher vai me comprar tudo”, aí ela sentou -se assim, mandou eu fazer a 
+conta, eu fiz, dei a ela o valor, ela me passou um cheque e me deu o cartão dela e disse 
+‘quando você tiver mais renda me procure’, aí desde aí que eu venho trabalhando com a 
+Martha, ela é um anjo nas nossas vidas porque quando eu assumir a presidência da 
+Associação várias pessoas, os mais velhos são queriam mais fazer renda, então quem levantou 
+a renda de bilro em São Sebastião fui eu, porque o pessoal não queria mais fazer, pra que 
+fazer renda se não tinha saída? Esperar uma ou outra pessoa que viesse, então tinha a Dona 
+Clarisse, que era a mestra aqui em  São Sebastião, ao qual tenho um grande respeito por ela, 
+tinha né, porque ela faleceu. Então Dona Clarisse era uma pessoa boa, ela pegava as rendas 
+das rendeiras e levava pra Maceió, o que é que ela fazia, levava para Maceió, as vezes passava 
+1 ano, 2 anos com as rendas na mala, quando vendia, um exemplo, eu entregava 10 metros de 
+renda a Dona Clarisse, ela vendia 2, ela me pagava esses 2 metros e ficava com os outros 8 
+metros em uma bolsa dela para quando uma outra oportunidade aparecesse, era muito mais 
+difícil, tá entendendo? Aí as rendeiras não queriam mais trabalhar, e realmente, não é? As 
+rendas ficavam até amarelas, o pessoal nem queria porque estava amarela de tanto tá 
+guardada. Então quando eu conheci a Martha Medeiros e outras pessoas em Maceió, A racaju, 
+Recife, quer dizer, renda se você chegar aqui hoje em São Sebastião pra comprar uma 
+quantidade x de renda você não vai encontrar, porque estão tudo encomendadas. Eu quem 
+alavanquei, eu que fiz com que as rendeiras voltassem a trabalhar, só não trab alha hoje quem 
+não quer. A Martha é a principal cliente, uma grande amiga, a maioria das rendeiras 
+trabalham com ela, a associação toda fechada com ela, isso não quer dizer que outras pessoas 
+não comprem. O que tiver ela compra, quer dizer, ela não deixa as rendeiras na mão”.
+
+---
+## Fontes
+- Fonte original no Drive: **A terra das rendas de Bilro - tradição, artesanato, economia e cultura em São Sebastião-AL-DISSERTAÇÃO-ROBSON DOS SANTOS ALMEIDA .pdf**
+- Caminho no Drive: `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Primeiro estudo disponibilizado a dominio público na internet site da Ufal./A terra das rendas de Bilro - tradição, artesanato, economia e cultura em São Sebastião-AL-DISSERTAÇÃO-ROBSON DOS SANTOS ALMEIDA .pdf`
+- ID do arquivo: `1yhwt0vvsY7aZdkg2xK0bFqbjxWegdyzu`
+- Link: https://drive.google.com/file/d/1yhwt0vvsY7aZdkg2xK0bFqbjxWegdyzu/view?usp=drivesdk
+- MIME: `application/pdf`
+- Conversão para Markdown: extração operacional via `pypdf` no Cofre oficial do projeto.

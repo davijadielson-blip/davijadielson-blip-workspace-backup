@@ -476,3 +476,73 @@ Sequência definida por Jadielson e obrigatória para todos os agentes:
 3. Fallback: `openrouter/google/gemini-2.5-flash-lite`
 
 Esta prioridade deve ser respeitada tanto na configuração quanto nos prompts operacionais. Mudança de modelo fora dessa ordem exige autorização explícita de Jadielson via Lôh.
+
+---
+
+## 🌐 Protocolo Global Obrigatório — Cofre, Mapa Geral, Tavily e Registro Permanente
+
+**Ativado por Jadielson em 2026-06-27. Vale para todos os agentes, subagentes, tópicos, grupos e frentes do ecossistema.**
+
+1. **Seguir sempre o mapa geral do Cofre**
+   - O Cofre oficial é `/data/.openclaw/workspace/`.
+   - Todo agente deve consultar `AGENTS.md`, `MAPA.md`, `MEMORY.md` quando permitido, e os caminhos `[F1]`, `[F2] memory/` e `[F3] PROJETOS/` relevantes antes de decidir onde salvar.
+   - É proibido criar workspace paralelo, pasta paralela ou “cofre próprio” fora do Cofre.
+
+2. **Consultar o Cofre antes de responder**
+   - Antes de qualquer resposta analítica, estratégica, operacional, informacional ou contextual, consultar o Cofre.
+   - Se `memory_search` falhar por cota, rate limit ou indisponibilidade, usar fallback direto: `read`, `find`, `grep`, `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `[F1]`, `[F2]` e `[F3]` relevantes.
+
+3. **Usar Tavily/Pesquisador como fonte externa principal**
+   - Quando precisar de informação externa, atualizada ou complementar, usar Tavily/Pesquisador como primeira fonte externa.
+   - Browser, web genérica, APIs ou outras fontes entram depois, quando Cofre + Tavily não forem suficientes ou quando a tarefa exigir uma fonte específica.
+
+4. **Registrar fonte no rodapé**
+   - Toda resposta analítica, estratégica, operacional ou informacional deve terminar com fonte curta, por exemplo:
+     `Fonte: Cofre (...), Tavily (...), ferramenta específica (...).`
+   - Se não encontrou no Cofre após fallback direto, dizer quais caminhos foram verificados.
+
+5. **Salvar automaticamente tudo que for pertinente**
+   - Não confiar em chat/sessão como memória. Chat é transitório. Cofre é continuidade.
+   - Decisões, aprendizados, contexto de cliente/projeto, briefing, roteiro, checklist, plano, ata, diagnóstico, configuração, correção, link importante, resumo de Drive/Trello/WhatsApp/e-mail e qualquer informação útil para continuidade devem ser salvos automaticamente no Cofre.
+   - Use o destino correto do mapa geral:
+     - decisões/configuração: `[F2] memory/context/decisoes/` ou frente equivalente;
+     - outputs, roteiros, briefings, drafts: `[F2] memory/outputs/` ou subpasta da frente;
+     - projetos: `[F3] PROJETOS/` para estrutura central e `[F2] memory/projects/` para acompanhamento operacional da IA;
+     - sessões/logs: `[F2] memory/sessions/`;
+     - agentes/prompts: `[F2] memory/agents/`.
+
+6. **Regra de ouro**
+   - Se é importante o bastante para orientar uma próxima ação, decisão ou continuidade, então deve ser salvo no Cofre.
+   - Nunca deixe conhecimento pertinente apenas no chat.
+
+
+---
+
+## Regra geral — Cofre correto por projeto/tópico (2026-06-27)
+
+Decisão de Jadielson no grupo PROJETOS, tópico Jack Lemley: a regra aplicada ao **DOCUMENTÁRIO O FIO DA MEMÓRIA** passa a valer para **todos os tópicos/projetos atuais e novos**.
+
+- Cada projeto/tópico deve operar dentro do **Cofre oficial correto**, preferencialmente em `/data/.openclaw/workspace/[F3] PROJETOS/...`, quando houver pasta oficial definida.
+- **Drive** fica para arquivos, mídia e entregáveis.
+- **Cofre** é a fonte de verdade operacional: decisões, contexto, pesquisas, inventários, auditorias, drafts e checkpoints.
+- Não usar diretórios paralelos/soltos fora do Cofre oficial.
+- Para projetos/tópicos novos, confirmar/assumir a estrutura canônica correta antes de produzir ou salvar materiais.
+- Regra transversal/arquitetura/memória central/segurança/integrações: alinhar com Alfred/Lôh.
+
+Caso de referência: **O FIO DA MEMÓRIA** usa `/data/.openclaw/workspace/[F3] PROJETOS/EM ANDAMENTO/DOCUMENTÁRIO O FIO DA MEMÓRIA/`; apoio operacional em `/data/.openclaw/workspace/memory/projects/projetos/o-fio-da-memoria/`; não usar `/data/.openclaw/workspace-fio-memoria-doc/`.
+
+Registro detalhado: `memory/decisoes/2026-06-27-regra-geral-cofre-projetos-topicos.md`.
+
+### Complemento — Debate ecossistêmico quando necessário
+
+Quando o tema for complexo, estratégico, controverso, criativo ou exigir visão multidisciplinar, agentes e tópicos podem acionar o ecossistema para um debate mais acalorado e produtivo sobre o assunto.
+
+Regras:
+
+- O debate deve ser real, com especialistas/agentes adequados, e não simulação de vozes.
+- A invocação deve passar pela Lôh/orquestração quando envolver mais de uma frente, decisão transversal, cliente, projeto importante, risco ou arquitetura.
+- Cada agente convidado deve contribuir dentro da própria competência, com argumentos, contrapontos, riscos, oportunidades e recomendação.
+- O agente solicitante deve sintetizar o debate em decisão, próximos passos e fonte.
+- Tudo que for útil para continuidade deve ser salvo no Cofre, no caminho correto do mapa geral.
+- O objetivo é elevar a qualidade da decisão, não gerar ruído ou disputa performática.
+
