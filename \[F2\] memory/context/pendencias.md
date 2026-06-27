@@ -24,6 +24,10 @@ agente-compatibilidade: [claude, openclaw, gpt, hermes]
 *(prazo ≤ 2 semanas ou impacto direto em cliente)*
 
 - [ ] Finalizar plano de propostas de serviços da Lógika Creative
+- [ ] 2026-06-27 — LÓGIKA | soluções digitais: validar visualmente Drive da identidade atual e fechar briefing final de ID visual
+- [ ] 2026-06-27 — LÓGIKA | soluções digitais: validar campos da database Notion Leads/Clientes e desenhar fluxo Make.com
+- [ ] 2026-06-27 — LÓGIKA | soluções digitais: criar modelos completos das propostas comerciais prioritárias
+- [ ] 2026-06-27 — AGENTE CEO LÓGIKA: acompanhar parecer executivo 7/30/90 dias no tópico Telegram
 - [ ] Lançamento do vídeo clipe *Entre Tempo*
 - [x] Movimentar documentário *O Fio da Memória*
 - [ ] Finalizar vídeo JD Auto Center
