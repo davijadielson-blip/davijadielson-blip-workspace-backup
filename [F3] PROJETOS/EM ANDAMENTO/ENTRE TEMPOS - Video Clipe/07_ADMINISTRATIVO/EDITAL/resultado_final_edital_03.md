@@ -1,0 +1,42 @@
+# resultado_final_edital_03
+
+> Convertido para Markdown a partir de `resultado_final_edital_03.pdf`.
+> Origem: Google Drive ID `1dAzXPToQcsse6MBz7iq50AyF5RJcLeAe`.
+> Observação: conversão feita apenas no cofre local; o arquivo original no Drive não foi alterado.
+
+## Página 1
+
+DIVERSAS 
+AREAS 
+MODALIDADE AGENTE CULTURAL  CNPJ - CPF RESULTADO 
+ 
+PRODUÇÃO/CURSOS WHOKSHOP ECONOMIA 
+CRIATIVA 
+083.XXX.XXX-
+25 
+APROVADO 
+ 
+SHOW MUSICAIS JAELSON DA SILVA SOUZA 081.XXX.XXX-
+86 
+APROVADO 
+ 
+SHOW MUSICAIS ZIQUIEL MENDES DOS 
+SANTOS 
+119.XXX.XXX-
+84 
+APROVADO 
+ 
+PRODUÇÃO 
+EVENTOS 
+FECRIA - FEIRA DE 
+ECONOMIA CRIATIVA DO 
+AGRESTE 
+033.XXX.XXX-
+46 
+APROVADO 
+ 
+PRODUÇÃO 
+EVENTOS 
+CEZAR RISO M 039.XXX.XXX-
+43 
+APROVADO

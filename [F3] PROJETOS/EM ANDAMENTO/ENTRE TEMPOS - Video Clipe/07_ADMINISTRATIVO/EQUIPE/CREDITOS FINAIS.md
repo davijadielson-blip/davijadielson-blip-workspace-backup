@@ -1,0 +1,41 @@
+# CREDITOS FINAIS
+
+> Convertido para Markdown a partir de `CREDITOS FINAIS.docx`.
+> Origem: Google Drive ID `1R9dnSpGNg0dZPWj2JWO49i4xbB4Lo7nI`.
+> Observação: conversão feita apenas no cofre local; o arquivo original no Drive não foi alterado.
+
+JADIELSON DAVI
+
+JONATAR BARRETO
+
+EMILY ESTEFANY
+
+SAMUEL SILVA
+
+KAUÃ FAUSTINO
+
+LEANDRO IGNÁCIO
+
+MARCELO FRANCISCO
+
+PROFESSOR ISMAEL
+
+QUIEL SANTOS
+
+RAQUEL RODRIGUES
+
+LUCIANO ALELUIA
+
+MARIA FERREIRA
+
+FELIPE DIAS
+
+ALEXSANDRO SANTOS
+
+PATROCINIOS
+
+SAMYLA MODAS
+
+SR. ROMAO
+
+BEATRIZ LIRA

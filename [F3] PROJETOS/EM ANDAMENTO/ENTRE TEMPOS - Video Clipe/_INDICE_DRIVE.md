@@ -29,3 +29,12 @@ Fonte no Drive: `ENTRE TEMPOS — Video Clipe / Lançamento`.
 - DOCX em `ROTEIROS/`, `07_ADMINISTRATIVO/EQUIPE/`, `08_ARQUIVOS/FONTES DE LETRAS/`.
 - PDFs administrativos.
 - Imagens, vídeos e áudios: registrados como inventário; não convertidos para conteúdo textual.
+
+## Conversão textual — etapa 2 concluída em 2026-06-28
+
+Foram convertidos para `.md` os arquivos textuais pendentes encontrados no Drive, sem alterar os originais:
+
+- DOCX de roteiros, créditos, fontes, comunicado e declaração.
+- PDFs administrativos, edital, orçamentos, prestação de contas, relatório e apresentação do projeto.
+
+Arquivos de áudio, foto e vídeo permaneceram apenas inventariados, conforme solicitado.
