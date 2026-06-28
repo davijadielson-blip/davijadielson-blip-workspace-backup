@@ -100,7 +100,9 @@ Ações de apoio:
 
 ## Pós-lançamento
 
-### 31/07 a 15/08/2026
+### Agosto de 2026
+
+O pós-lançamento fica concentrado em agosto, sem necessidade de iniciar no dia seguinte como obrigação rígida. A ideia é abrir agosto com respiro, organizar os melhores cortes e manter a campanha viva ao longo do mês.
 
 Distribuir cortes e conteúdos complementares:
 - Trechos emocionais do clipe.
