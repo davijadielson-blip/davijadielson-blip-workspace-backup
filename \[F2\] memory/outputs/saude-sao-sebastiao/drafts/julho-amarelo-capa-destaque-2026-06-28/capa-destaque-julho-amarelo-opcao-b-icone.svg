@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+      <stop offset="0" stop-color="#FFF3B0"/>
+      <stop offset="0.62" stop-color="#F5C518"/>
+      <stop offset="1" stop-color="#D4A000"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#8A6700" flood-opacity="0.30"/>
+    </filter>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="540" cy="475" r="330" fill="#FFFFFF" opacity="0.94" filter="url(#shadow)"/>
+  <path d="M433 205 C500 187,566 216,604 275 C653 216,733 202,800 245 C720 342,659 451,621 586 L756 866 L594 798 L463 902 L467 597 C430 459,357 344,260 257 C311 226,371 208,433 205 Z" fill="#F5C518" stroke="#D4A000" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M394 257 C488 320,548 421,579 590" fill="none" stroke="#FFF3B0" stroke-width="32" stroke-linecap="round" opacity="0.9"/>
+  <path d="M756 265 C662 325,616 427,590 590" fill="none" stroke="#FFF3B0" stroke-width="32" stroke-linecap="round" opacity="0.9"/>
+  <text x="540" y="1002" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" fill="#2D2D2D" letter-spacing="0.5">JULHO AMARELO</text>
+</svg>
