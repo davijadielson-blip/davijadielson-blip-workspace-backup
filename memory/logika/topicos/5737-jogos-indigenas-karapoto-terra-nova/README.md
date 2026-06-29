@@ -49,3 +49,8 @@ Ao receber novas mensagens neste tópico, Jarvis deve:
 - Jarvis montou e salvou o roteiro/mapeamento de captação para os dias do evento, incluindo linha narrativa, mapa de captação por data, lista de imagens essenciais, perguntas para narração/entrevistas, cuidados culturais e próximos passos operacionais.
 - Arquivo criado: `roteiro-mapa-captacao-minidoc-2026-06-29.md`.
 - Status: pronto para operação de campo e alinhamento com pessoa focal da organização.
+
+## Atualização operacional — 2026-06-29 18h03 UTC
+- Jadielson solicitou foco imediato apenas no roteiro/mapa de captação de hoje, 29/06, abertura dos II Jogos Indígenas Karapotó Terra Nova.
+- Foi criado e salvo o arquivo `roteiro-captacao-hoje-29-06-abertura.md`, incluindo captação terrestre, ordem sugerida antes/durante/depois da abertura, mapa de drone, perguntas rápidas para entrevistas, checklist mínimo e organização de arquivos ao final do dia.
+- Confirmação posterior de Jadielson: "obg. salve tudo." Registro consolidado neste README.
