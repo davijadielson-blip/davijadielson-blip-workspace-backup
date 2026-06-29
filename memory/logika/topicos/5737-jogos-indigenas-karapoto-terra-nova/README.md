@@ -43,3 +43,9 @@ Ao receber novas mensagens neste tópico, Jarvis deve:
 - Confirmar autorização para imagens de rituais, crianças, lideranças e momentos culturais.
 - Definir prazo de entrega do vídeo final/miniDoc.
 - Fechar forma de pagamento e responsável pelo repasse da parte da organização.
+
+## Atualização — 2026-06-29
+- Proposta aceita pela organização: pacote de R$ 2.500,00 com MiniDoc narrado.
+- Jarvis montou e salvou o roteiro/mapeamento de captação para os dias do evento, incluindo linha narrativa, mapa de captação por data, lista de imagens essenciais, perguntas para narração/entrevistas, cuidados culturais e próximos passos operacionais.
+- Arquivo criado: `roteiro-mapa-captacao-minidoc-2026-06-29.md`.
+- Status: pronto para operação de campo e alinhamento com pessoa focal da organização.
