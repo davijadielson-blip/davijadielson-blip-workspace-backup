@@ -17,3 +17,7 @@ Pesquisa inicial: Alagoar é iniciativa independente voltada à preservação da
 Contatos encontrados: audiovisualagoas@gmail.com; catalogo@alagoar.com.br; Instagram @alagoar; YouTube /c/alagoar.
 
 Encaminhamento: preparar release específico para o Alagoar, ficha técnica, imagens autorizadas e checar com Levy se ele intermedeia ou indica contato editorial/catalogação. Não contatar externamente sem autorização explícita.
+
+## Pausa e retomada futura
+
+Jadielson informou que voltará à pauta em outro momento e pediu para guardar tudo. Deve-se ficar atento a novidades/insights sobre William Nelson, Levy Félix, Alagoar, jornais, feiras culturais e circuito cultural, mas sem executar contatos externos sem autorização explícita.

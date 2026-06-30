@@ -160,3 +160,24 @@ Foi criado em 30/03/2015 por Amanda Duarte e Larissa Lisboa. O site reúne infor
 5. Perguntar a Levy Félix se ele sugere contato direto com alguém do Alagoar ou se prefere intermediar.
 6. Avaliar com William Nelson e Levy Félix a ordem: jornais locais, Alagoar, feiras culturais e pós-lançamento.
 
+
+## Pausa temporária da pauta e monitoramento de insights
+
+Registro complementar — 30/06/2026, tópico Telegram **ENTRE TEMPOS - Video Clipe**.
+
+Jadielson confirmou que a frente William Nelson / Levy Félix / Alagoar está bem encaminhada e pediu para guardar tudo, pois voltará a falar em outro momento. No momento, ele está migrando para outra pauta.
+
+Diretriz operacional:
+
+- manter todo o contexto preservado;
+- retomar facilmente quando Jadielson trouxer novas informações;
+- ficar atento a novidades, oportunidades e insights que possam enriquecer a frente de imprensa/circuito cultural;
+- não executar contatos externos, envios ou publicações sem autorização explícita;
+- quando a pauta voltar, recuperar este arquivo como base principal.
+
+Possíveis insights para retomar depois:
+
+1. Alagoar pode ser trabalhado antes como pauta jornalística e depois como catalogação.
+2. Levy Félix pode ajudar a conectar o lançamento ao turismo cultural e à Secretaria de Cultura.
+3. William Nelson pode abrir portas em jornais e feiras culturais.
+4. A frente deve permanecer complementar ao calendário oficial, sem alterar datas sem confirmação.
