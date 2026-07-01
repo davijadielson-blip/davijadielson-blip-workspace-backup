@@ -47,6 +47,18 @@ tags:
 
 ---
 
+## Funcionamento / Agenda
+
+| Info | Detalhe |
+|---|---|
+| **Dia de atendimento** | **Primeira quarta-feira de cada mês** — o oftalmologista atende na rede municipal |
+| Capacidade | ~600 atendimentos/mês |
+| Acesso | Encaminhamento via PSF/UBS → regulação municipal |
+
+> 📌 **Recorrência mensal**: ideal pautar conteúdo sobre oftalmologia sempre na primeira semana do mês, alinhado ao dia de atendimento.
+
+---
+
 ## Grupos Prioritários
 
 | Grupo | Motivo |
@@ -69,11 +81,18 @@ tags:
 
 ## Ideias de Conteúdo
 
+### Recorrentes (mensal — 1ª quarta-feira do mês)
+- **Card/popost**: "Hoje é dia de oftalmologia na rede! Saiba como agendar sua consulta"
+- **Stories**: lembrete de que o oftalmologista está atendendo + fluxo de encaminhamento
+- **Post educativo**: "Primeira quarta do mês é dia de cuidar da visão" — sinais de alerta
+
+### Avulsos
 - Post: "Você sabia que São Sebastião faz 600 consultas de oftalmologia por mês pelo SUS?"
 - Card: sinais de alerta para problemas de visão
 - Post: "Diabético, o seu olho também está em risco — faça o exame"
 - Post: criança com dificuldade escolar pode ter problema de visão — marque a consulta
 - Campanha Outubro Azul: saúde ocular masculina
+- Série: como cada grupo prioritário (idosos, diabéticos, crianças) pode cuidar da saúde ocular
 
 ---
 
