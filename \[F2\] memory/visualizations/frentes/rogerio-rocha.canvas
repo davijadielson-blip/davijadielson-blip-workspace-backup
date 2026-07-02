@@ -3,7 +3,7 @@
     {
       "id": "rogerio-hub",
       "type": "text",
-      "text": "# Rogério Rocha\n*(cliente inativo — pode retornar)*",
+      "text": "# Rogério Rocha\n*(tópico reativado — 2026-07-02)*",
       "x": 0,
       "y": 0,
       "width": 280,
@@ -33,7 +33,7 @@
     {
       "id": "rogerio-reativacao",
       "type": "text",
-      "text": "**Reativação**\nCondições para retomar\n[a preencher]",
+      "text": "**Reativação**\nTópico Telegram criado: 5878\nTreinamento enviado: msg 5883\nPendências: escopo, frequência, prioridades",
       "x": 400,
       "y": 20,
       "width": 220,
@@ -43,7 +43,7 @@
     {
       "id": "status-inativo",
       "type": "text",
-      "text": "⚠️ Status: INATIVO\nNenhuma produção em curso.",
+      "text": "✅ Status: REATIVADO\nAguardando briefing operacional.",
       "x": -200,
       "y": 180,
       "width": 260,
