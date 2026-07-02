@@ -131,3 +131,15 @@ Fechamento preferencial:
 - Banco de materiais.
 - Identidade visual atualizada.
 - Tráfego pago/orçamento, se houver.
+
+## Atualização operacional — 2026-07-02 04:22 UTC
+
+Jadielson esclareceu os pontos pendentes:
+
+- Banco de materiais: existe parte dos materiais no Drive; outra parte está em HD offline.
+- Identidade visual: já está no Drive.
+- Demais pontos — pacote/valor, frequência, plano 2026, agenda fixa, projetos legislativos, fluxo de aprovação, tráfego pago/orçamento e validações detalhadas de obras — devem ficar **de molho por enquanto**.
+- Status comercial/operacional atual: trabalho com Rogério Rocha é **esporádico**; foi mais extenso durante a campanha.
+
+Implicação operacional: tratar a frente como cliente/contexto reativado para demandas pontuais, sem montar operação mensal fixa até novo briefing ou decisão comercial.
+

@@ -103,3 +103,47 @@ Atualizações principais:
 - Recomendação editorial: 80% resultados/bastidores/resolução de problemas/obras/histórias/fiscalização/projetos; 20% eventos/agendas.
 - Lacunas a confirmar: pacote/valor, frequência, cronograma, fluxo de aprovação, agenda fixa, projetos legislativos, banco de materiais, identidade visual e eventual tráfego pago.
 
+## Atualização operacional — 2026-07-02 04:22 UTC
+
+Jadielson esclareceu os pontos pendentes:
+
+- Banco de materiais: existe parte dos materiais no Drive; outra parte está em HD offline.
+- Identidade visual: já está no Drive.
+- Demais pontos — pacote/valor, frequência, plano 2026, agenda fixa, projetos legislativos, fluxo de aprovação, tráfego pago/orçamento e validações detalhadas de obras — devem ficar **de molho por enquanto**.
+- Status comercial/operacional atual: trabalho com Rogério Rocha é **esporádico**; foi mais extenso durante a campanha.
+
+Implicação operacional: tratar a frente como cliente/contexto reativado para demandas pontuais, sem montar operação mensal fixa até novo briefing ou decisão comercial.
+
+## Extração textual do Drive — 2026-07-02
+
+Jadielson autorizou captar do Drive apenas o que fosse pertinente em texto/markdown, sem trazer arquivos pesados como imagens, vídeos ou áudios.
+
+Resultado:
+
+- Índice textual salvo: `F2-memory/outputs/rogerio/drive_text_extracts/indice-drive-rogerio-rocha-2026-07-02.md`
+- Identidade visual extraída do manual: `F2-memory/outputs/rogerio/drive_text_extracts/identidade-visual-rogerio-rocha-extraida-drive-2026-07-02.md`
+
+Conteúdo aproveitável confirmado:
+
+- Pasta principal no Drive: `ROGÉRIO ROCHA - VEREADOR` (`1HfYI7-5iNmBWzJ5lGfAkV1-HJ1BnFHb3`).
+- Subpastas úteis: `ASSINATURAS DE VÍDEO`, `ENSAIO FOTOGRÁFICO`, `FOTOS ARRAIÁ SERRA`, `LOGO E ID VISUAL`, `Sessão Ordinária 24.04.2026`.
+- Manual de marca encontrado: `MANUAL MERCA.pdf`.
+- Slogan no manual: **Sempre presente com o povo!**
+- Cores extraídas: `#101483`, `#FFDE00`, `#FFD600`, `#FFFFFF`.
+- Tipografia: Montserrat e “Popins”/possivelmente Poppins — confirmar grafia antes de manual definitivo.
+- Versões de logo: fundo azul, fundo amarelo e fundo branco.
+
+Limite: não foram extraídos/copidos arquivos pesados; apenas textos e índice operacional.
+
+## Diretriz de juízo de valor — 2026-07-02
+
+Jadielson autorizou salvar os achados do Drive e utilizá-los como **juízo de valor operacional** para demandas futuras do Rogério Rocha.
+
+Aplicação prática:
+
+- Em novas peças, roteiros, propostas ou análises do Rogério, considerar como referência válida: briefing consolidado, identidade visual extraída, inventário textual do Drive e matriz operacional.
+- Usar os materiais localizados no Drive como indicativo de repertório disponível: identidade visual, assinaturas, ensaio fotográfico, eventos e sessão ordinária.
+- Manter o critério de não baixar/copiar arquivos pesados para o Cofre sem necessidade; usar índices, links e extrações textuais.
+- Como a frente é esporádica, não presumir rotina mensal fixa; responder por demanda pontual.
+- Antes de publicar conteúdo factual sobre obras, datas, investimentos ou parcerias, validar dados específicos.
+

@@ -1,0 +1,135 @@
+{
+  "items": [
+    {
+      "id": "1bK9yXSRl_EeVJJfAnJYYCpqMokmW1XF9",
+      "name": "1.png",
+      "path": "1.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 1166310,
+      "modifiedTime": "2024-08-27T11:01:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1Wve_I6Slmz7YWHRHscQSzt1nBfXZxYiE",
+      "name": "2.png",
+      "path": "2.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 1315817,
+      "modifiedTime": "2024-08-27T11:01:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1AVG8svz3Zv4Z5VFuzd9sFecZQO3SYmS5",
+      "name": "3.png",
+      "path": "3.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 3932630,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1ny0kex_DMJGLFfPFJTj-hPQugfEsDDtp",
+      "name": "4.png",
+      "path": "4.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 2215131,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1LcBIaCGCE8-6s9GgiQvQ0thlisLAm9-f",
+      "name": "5.png",
+      "path": "5.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 1982762,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1P4ilwkVF6hqyZw4t2ehtfakXJZaoG6r3",
+      "name": "6.png",
+      "path": "6.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 2059249,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "10UCZ5lYVoxXSc4nOy1FCQN3IFxODLVSF",
+      "name": "7.png",
+      "path": "7.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 6080849,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1Xv6uUBnAdSx2vegQSc4lrQcZ6KeXLC9u",
+      "name": "8.png",
+      "path": "8.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 3709996,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1NwPT2pqFenqxWHv3cWT5611Im3L37GNk",
+      "name": "9.png",
+      "path": "9.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 5855712,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1GcwJJi2MR1Si3aGMp6qG65jae0FuYwbD",
+      "name": "MANUAL MERCA.pdf",
+      "path": "MANUAL MERCA.pdf",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "application/pdf",
+      "size": 371774,
+      "modifiedTime": "2025-08-02T16:21:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    }
+  ],
+  "truncated": false
+}

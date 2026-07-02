@@ -1,0 +1,1802 @@
+{
+  "items": [
+    {
+      "id": "1W6nAt4gZ9NZ63csL4skKcKJhTONm22rS",
+      "name": "ASSINATURAS DE VÍDEO",
+      "path": "ASSINATURAS DE VÍDEO",
+      "parentId": "1HfYI7-5iNmBWzJ5lGfAkV1-HJ1BnFHb3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-10-13T13:18:29.593Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1KvirAV9JLHN_J_JFfyRKZ-_rIZswjh09",
+      "name": "ASSINATURA ROGÉRIO ROCHA_HORIZONTAL.mp4",
+      "path": "ASSINATURAS DE VÍDEO/ASSINATURA ROGÉRIO ROCHA_HORIZONTAL.mp4",
+      "parentId": "1W6nAt4gZ9NZ63csL4skKcKJhTONm22rS",
+      "mimeType": "video/mp4",
+      "size": 2153295,
+      "modifiedTime": "2024-09-03T11:27:36.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1GZ07MHPmz834SNDpAMaWQIno2Etl9KX8",
+      "name": "ASSINATURA ROGÉRIO ROCHA_VERTICAL .mp4",
+      "path": "ASSINATURAS DE VÍDEO/ASSINATURA ROGÉRIO ROCHA_VERTICAL .mp4",
+      "parentId": "1W6nAt4gZ9NZ63csL4skKcKJhTONm22rS",
+      "mimeType": "video/mp4",
+      "size": 1997798,
+      "modifiedTime": "2024-09-03T11:27:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1p0XvL4jJOJ56b4B3dvbZ9hWvoUDJnSDX",
+      "name": "FLYER ANIMAÇÃO_ HORIZONTAL.mp4",
+      "path": "ASSINATURAS DE VÍDEO/FLYER ANIMAÇÃO_ HORIZONTAL.mp4",
+      "parentId": "1W6nAt4gZ9NZ63csL4skKcKJhTONm22rS",
+      "mimeType": "video/mp4",
+      "size": 7101041,
+      "modifiedTime": "2024-09-03T11:29:56.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1Y0FBR-8gV5b6tKzke_0-c--8jFduWsPX",
+      "name": "FLYER ANIMAÇÃO_VERTICAL.mp4",
+      "path": "ASSINATURAS DE VÍDEO/FLYER ANIMAÇÃO_VERTICAL.mp4",
+      "parentId": "1W6nAt4gZ9NZ63csL4skKcKJhTONm22rS",
+      "mimeType": "video/mp4",
+      "size": 24643964,
+      "modifiedTime": "2024-09-03T11:30:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1PPP55FmucDD-qYM6vTJdMRZVxawMUeG6",
+      "name": "Proxies",
+      "path": "ASSINATURAS DE VÍDEO/Proxies",
+      "parentId": "1W6nAt4gZ9NZ63csL4skKcKJhTONm22rS",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-10-13T13:18:30.692Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1w1CMdO6FxTb8OXcJDwGkwoH5KdlFwiV4",
+      "name": "ASSINATURA ROGÉRIO ROCHA_HORIZONTAL_Proxy.mp4",
+      "path": "ASSINATURAS DE VÍDEO/Proxies/ASSINATURA ROGÉRIO ROCHA_HORIZONTAL_Proxy.mp4",
+      "parentId": "1PPP55FmucDD-qYM6vTJdMRZVxawMUeG6",
+      "mimeType": "video/mp4",
+      "size": 1508369,
+      "modifiedTime": "2024-09-20T03:36:36.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1b2ls54XfSzw4bn-m1jTAHBmQG7Bxuo7K",
+      "name": "ASSINATURA ROGÉRIO ROCHA_VERTICAL _Proxy.mp4",
+      "path": "ASSINATURAS DE VÍDEO/Proxies/ASSINATURA ROGÉRIO ROCHA_VERTICAL _Proxy.mp4",
+      "parentId": "1PPP55FmucDD-qYM6vTJdMRZVxawMUeG6",
+      "mimeType": "video/mp4",
+      "size": 1472813,
+      "modifiedTime": "2024-09-20T03:36:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1hHOyNR4_sR8e-2u3nInso05Q3hsLjHhd",
+      "name": "FLYER ANIMAÇÃO_ HORIZONTAL_Proxy.mp4",
+      "path": "ASSINATURAS DE VÍDEO/Proxies/FLYER ANIMAÇÃO_ HORIZONTAL_Proxy.mp4",
+      "parentId": "1PPP55FmucDD-qYM6vTJdMRZVxawMUeG6",
+      "mimeType": "video/mp4",
+      "size": 14682445,
+      "modifiedTime": "2024-09-20T03:36:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1HTBhXTPm1SC76SezgZUTR32BrWdetH8C",
+      "name": "FLYER ANIMAÇÃO_VERTICAL_Proxy.mp4",
+      "path": "ASSINATURAS DE VÍDEO/Proxies/FLYER ANIMAÇÃO_VERTICAL_Proxy.mp4",
+      "parentId": "1PPP55FmucDD-qYM6vTJdMRZVxawMUeG6",
+      "mimeType": "video/mp4",
+      "size": 15479514,
+      "modifiedTime": "2024-09-20T03:36:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "14c2dIz-4fzNheBtsDniAvApD5sjLUONP",
+      "name": "MARCA D AGUA_Proxy.mp4",
+      "path": "ASSINATURAS DE VÍDEO/Proxies/MARCA D AGUA_Proxy.mp4",
+      "parentId": "1PPP55FmucDD-qYM6vTJdMRZVxawMUeG6",
+      "mimeType": "video/mp4",
+      "size": 730306,
+      "modifiedTime": "2024-09-20T03:36:56.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "name": "ENSAIO FOTOGRÁFICO ",
+      "path": "ENSAIO FOTOGRÁFICO",
+      "parentId": "1HfYI7-5iNmBWzJ5lGfAkV1-HJ1BnFHb3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-01T13:16:49.953Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1EdSs7ZAlKiXlnSKhjQoVhJwO35JDryJb",
+      "name": "IMG_0960.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0960.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 16476510,
+      "modifiedTime": "2025-12-01T13:19:45.826Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1_R6fzkNEKPlyK18-_BSkRiFSdQFBZ8CF",
+      "name": "IMG_0966.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0966.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 14422291,
+      "modifiedTime": "2025-12-01T13:18:40.714Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1kjGcQXBMkdpMi8xjNPfJKq5RRAzEP9Ky",
+      "name": "IMG_0970.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0970.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 17557473,
+      "modifiedTime": "2025-12-01T13:20:38.512Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1pZyDa2I566pGhaZs-tprlCY_rMez-PbY",
+      "name": "IMG_0975.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0975.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 22091704,
+      "modifiedTime": "2025-12-01T13:22:05.713Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1GEqZW6etIuhcQaeeDxMzqPUjPqrzpYSV",
+      "name": "IMG_0980.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0980.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 18036966,
+      "modifiedTime": "2025-12-01T13:20:50.964Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "19MQiynATzbvESQk1gMvj_RLk6YHAenUA",
+      "name": "IMG_0981.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0981.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 28553695,
+      "modifiedTime": "2025-12-01T13:22:53.942Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1DFgxQ3GkFxEHG2_5uk8U5rCmoTwoU7i5",
+      "name": "IMG_0982.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0982.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 21521251,
+      "modifiedTime": "2025-12-01T13:21:37.843Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1HtZGEhRzCA9kx8IXfOUdE9N2VeAp8Pjl",
+      "name": "IMG_0989.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0989.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 16228368,
+      "modifiedTime": "2025-12-01T13:19:40.240Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1k4ORar7u_5pVyLx3qBXoanWy07199qRa",
+      "name": "IMG_0993.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_0993.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 15441792,
+      "modifiedTime": "2025-12-01T13:19:05.312Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1T95Dk1AojeGbuT7Yjx11H-H2WSwhj4BH",
+      "name": "IMG_1004.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1004.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 25208734,
+      "modifiedTime": "2025-12-01T13:22:32.862Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1-9ackUA-1Zz5Qty2GiJYmFdgJMtSfLRl",
+      "name": "IMG_1008.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1008.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 25414624,
+      "modifiedTime": "2025-12-01T13:22:40.272Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "12pWA2QKW9h9qtbJpU0wPf8CPj-7_fpni",
+      "name": "IMG_1015.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1015.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 20097910,
+      "modifiedTime": "2025-12-01T13:21:17.330Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1Ti2nonCjWm9d-j9xJVNW7k7poho7ghIx",
+      "name": "IMG_1029.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1029.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 22887838,
+      "modifiedTime": "2025-12-01T13:22:25.943Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "160xoqvsagwwKUDt6OFesYS57kQal4tE7",
+      "name": "IMG_1030.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1030.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 21909993,
+      "modifiedTime": "2025-12-01T13:21:58.466Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "16ZYU_RKo3lpZdAq8Gnq17ysoRHEevQpE",
+      "name": "IMG_1050.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1050.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 25721998,
+      "modifiedTime": "2025-12-01T13:22:47.123Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1iR-bhhqjEsdiKTf_gY6LPWJXgQed5k6r",
+      "name": "IMG_1055.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1055.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 17287741,
+      "modifiedTime": "2025-12-01T13:20:25.487Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "19a0flg4kNF8eHpetN6NHkOrhGQpv38fp",
+      "name": "IMG_1062.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1062.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 15827791,
+      "modifiedTime": "2025-12-01T13:19:11.095Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1Y533H73aWBv4gLmGyBauWfGNig8wUoX4",
+      "name": "IMG_1065.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1065.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 20454733,
+      "modifiedTime": "2025-12-01T13:21:23.275Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1XAIlao8hZLt_sYvKMC_7CCWg24JP_zqK",
+      "name": "IMG_1071.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1071.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 19841254,
+      "modifiedTime": "2025-12-01T13:21:09.462Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1x0TWmUo5Iffo_MEDwJZ42eoS_j_hUHzn",
+      "name": "IMG_1072.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1072.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 22265354,
+      "modifiedTime": "2025-12-01T13:22:19.118Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1H1gmWlnv9AYJO04MVYUm0JyAKY5x-sA9",
+      "name": "IMG_1083.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1083.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 16976499,
+      "modifiedTime": "2025-12-01T13:20:03.644Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "18XDNa0fEJMFLcjsoVW8lVMilX24-KAH6",
+      "name": "IMG_1087.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1087.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 17067441,
+      "modifiedTime": "2025-12-01T13:20:13.153Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1_CfQ-CluGk3z_MeW1NmfADYCVdKV_DCe",
+      "name": "IMG_1093.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1093.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 17299385,
+      "modifiedTime": "2025-12-01T13:20:31.856Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1sy0AZQsa6Af7OnlHYpsOsOn-r66WOPos",
+      "name": "IMG_1095.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1095.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 22116946,
+      "modifiedTime": "2025-12-01T13:22:12.449Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1y5I79dYEgjJqYRgNllL8qKBxqiOu3Kn_",
+      "name": "IMG_1098.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1098.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 19563352,
+      "modifiedTime": "2025-12-01T13:21:03.312Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1FNMwd6uEGpg2_D9HAdsa0pnF_mQL8noF",
+      "name": "IMG_1109.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1109.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 18310831,
+      "modifiedTime": "2025-12-01T13:20:57.220Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1eSiMX3GQ_HJ3X-Gx2w3m6dScAZ9MgiKC",
+      "name": "IMG_1113.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1113.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 11051222,
+      "modifiedTime": "2025-12-01T13:18:02.208Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1q_7IEb13HYUd6yvN4vFGVl_QY0jV-Knf",
+      "name": "IMG_1113L.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1113L.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 9922085,
+      "modifiedTime": "2025-12-01T13:17:50.945Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1-tuIDAgoUip15Yl_VzbYgC5igfLSpzwB",
+      "name": "IMG_1119.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1119.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 16206932,
+      "modifiedTime": "2025-12-01T13:19:28.780Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1SH0DkOvbgb-aDWcrAUfF7EV7GuQiQQpp",
+      "name": "IMG_1127.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1127.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 16754231,
+      "modifiedTime": "2025-12-01T13:19:57.151Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1mjwGNisqzXBOhqF16nrJqob18z2DLW1L",
+      "name": "IMG_1131.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1131.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 18011817,
+      "modifiedTime": "2025-12-01T13:20:45.062Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "11x57yxD0HMq3cLcy_fb1MMLhGzbZUDCK",
+      "name": "IMG_1135.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1135.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 15281058,
+      "modifiedTime": "2025-12-01T13:18:52.252Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1uzpN7CgEx-GwhVRnDe31o2nNggfXWDnL",
+      "name": "IMG_1141.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1141.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 21706734,
+      "modifiedTime": "2025-12-01T13:21:51.650Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1kQarcLvTj70WUOtZ80mimlFLMf0w3yXd",
+      "name": "IMG_1153.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1153.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 21552419,
+      "modifiedTime": "2025-12-01T13:21:44.478Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1Lj9tL-SZmolWY48IugOIAdRv1TOkG9gd",
+      "name": "IMG_1166.png",
+      "path": "ENSAIO FOTOGRÁFICO/IMG_1166.png",
+      "parentId": "14W9ogPAoiDJwr6jxL0dnZEem5eoCvJcn",
+      "mimeType": "image/png",
+      "size": 11200950,
+      "modifiedTime": "2025-12-01T13:18:13.165Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1hLOpRHFVmv2VH29gogpRISZ0JX9H18P4",
+      "name": "FOTOS ARRAIÁ SERRA",
+      "path": "FOTOS ARRAIÁ SERRA",
+      "parentId": "1HfYI7-5iNmBWzJ5lGfAkV1-HJ1BnFHb3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-06-29T20:49:22.018Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "name": "EDITADAS",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS",
+      "parentId": "1hLOpRHFVmv2VH29gogpRISZ0JX9H18P4",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-06-29T20:46:00.696Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1BLMsKHfTgAQRBx4YtUuN3Ct7ek3tECB7",
+      "name": "25062026-LGK00003.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00003.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 14051626,
+      "modifiedTime": "2026-06-29T20:28:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1jnV1jgVhh0nBlL46y81rPVbiSP2wsIA0",
+      "name": "25062026-LGK00007.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00007.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13410289,
+      "modifiedTime": "2026-06-29T20:28:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1eenw_n8N6iRlqUmUdWIrlbuU7VVg_hLD",
+      "name": "25062026-LGK00009.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00009.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 10418959,
+      "modifiedTime": "2026-06-29T20:29:04.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1CZvGYr_efofffg3RpqZNT8bwh1IMGCoZ",
+      "name": "25062026-LGK00011.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00011.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 9946150,
+      "modifiedTime": "2026-06-29T20:28:52.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ennkurPIMTsOVlCrBkaSuGfdZmMmxfYQ",
+      "name": "25062026-LGK00013.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00013.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11544636,
+      "modifiedTime": "2026-06-29T20:29:06.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1MaF_cXEWGH4sqtdTvMfYOjiwAWMSVXrx",
+      "name": "25062026-LGK00015.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00015.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11863441,
+      "modifiedTime": "2026-06-29T20:29:09.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "19xlIjbIyUq5ADTW9jS4RcUWUlV3Iia3F",
+      "name": "25062026-LGK00017.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00017.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 9253527,
+      "modifiedTime": "2026-06-29T20:29:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JXAJEeRp85_sM06w8SrQSrMxGgyXO5pr",
+      "name": "25062026-LGK00019.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00019.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 9833251,
+      "modifiedTime": "2026-06-29T20:29:19.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1oVKbhWddwEduVj3bMaZfltLUYYgYOMqW",
+      "name": "25062026-LGK00020.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00020.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 15319122,
+      "modifiedTime": "2026-06-29T20:29:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LsP9LWKP4VSVCw5YTAp-70-2DpRc_wr9",
+      "name": "25062026-LGK00022.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00022.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 15307886,
+      "modifiedTime": "2026-06-29T20:29:27.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1l0ceCPasKmw9MjRn-leOnQEd9UpeG0mn",
+      "name": "25062026-LGK00025.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00025.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13735826,
+      "modifiedTime": "2026-06-29T20:29:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "140W1QhEkK22vQKAOKZVIXmU5zyJUMcZA",
+      "name": "25062026-LGK00027.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00027.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13818324,
+      "modifiedTime": "2026-06-29T20:29:31.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1CJHtrArPsjdm8BWgY5eqvbOwZJnPkf0q",
+      "name": "25062026-LGK00029.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00029.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 14391689,
+      "modifiedTime": "2026-06-29T20:29:39.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "19Wj5fekH1uIb2BUiOb5qRd_X85GJOUua",
+      "name": "25062026-LGK00031.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00031.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 14626244,
+      "modifiedTime": "2026-06-29T20:29:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1y50dYSL78RzeoBjIORNk5gVurDezcArY",
+      "name": "25062026-LGK00033.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00033.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 15172153,
+      "modifiedTime": "2026-06-29T20:29:45.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JESeHB94lw6xiGbp7G2OrEdOzXtVLQTs",
+      "name": "25062026-LGK00037.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00037.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11902247,
+      "modifiedTime": "2026-06-29T20:29:51.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "17f9uHVFaNuQR4-8IiJoeZX00cTp92BVr",
+      "name": "25062026-LGK00039.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00039.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11202993,
+      "modifiedTime": "2026-06-29T20:29:55.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LLteL3emGt6DipNy8XqyfUUl-TJ9fKcb",
+      "name": "25062026-LGK00041.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00041.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12649997,
+      "modifiedTime": "2026-06-29T20:29:59.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ubSuMPQIr_VG_dPDucY7gD0QHGq7Yu0V",
+      "name": "25062026-LGK00042.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00042.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13529575,
+      "modifiedTime": "2026-06-29T20:30:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1dbz-Xrl0mYQBGfqlnShl7ptGjPqFMYCl",
+      "name": "25062026-LGK00050.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00050.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13999827,
+      "modifiedTime": "2026-06-29T20:30:06.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ZiRKBQDkEOe2bmax_s_qsXtEXaA2Iuo2",
+      "name": "25062026-LGK00053.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00053.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13453388,
+      "modifiedTime": "2026-06-29T20:30:09.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1C2SWVCT8bVCuwkOGWpS__zAJlM2Ebvw_",
+      "name": "25062026-LGK00055.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00055.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13534664,
+      "modifiedTime": "2026-06-29T20:30:11.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1upNZMP9I_VYN74kRbiRqUcfuYcXpQXFt",
+      "name": "25062026-LGK00057.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00057.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13463877,
+      "modifiedTime": "2026-06-29T20:30:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JIUBKQI4i2McqmoozQBipTo_Jr-V_il7",
+      "name": "25062026-LGK00062.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00062.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13457000,
+      "modifiedTime": "2026-06-29T20:30:17.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1C56qmBN5g1OUsWP7QbucmYYoWEk2ANbx",
+      "name": "25062026-LGK00065.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00065.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 14560284,
+      "modifiedTime": "2026-06-29T20:30:19.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1jT3kHUisK_fJARwcRtQbB-KNuk_EGx8G",
+      "name": "25062026-LGK00067.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00067.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13422352,
+      "modifiedTime": "2026-06-29T20:30:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1fblkEXXGS8Taw03BeZbk4XbFP_eJ_Hii",
+      "name": "25062026-LGK00069.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00069.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11945784,
+      "modifiedTime": "2026-06-29T20:30:25.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1b7uqV9et8Hhh22YGv_4SSk_TnR0Ftk2z",
+      "name": "25062026-LGK00071.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00071.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11311473,
+      "modifiedTime": "2026-06-29T20:30:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1_TIqLNQ5zMuRnN5ysEHjiqoXNj2hlIS5",
+      "name": "25062026-LGK00073.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00073.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 9280831,
+      "modifiedTime": "2026-06-29T20:30:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1q-lZkpoPQ97nszyQrMj7m5H1AgD0LiCg",
+      "name": "25062026-LGK00075.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00075.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11737027,
+      "modifiedTime": "2026-06-29T20:30:33.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "15jGPElr7L-hSC9PHU3OdLiUUQxyR1b6r",
+      "name": "25062026-LGK00078.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00078.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 9859489,
+      "modifiedTime": "2026-06-29T20:30:39.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1VpJ4TwIqOI3i6daP1wxR-33WhNmGsqZl",
+      "name": "25062026-LGK00081.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00081.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 14283518,
+      "modifiedTime": "2026-06-29T20:30:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "186P66aQPGPpfDD3sukfa_x61-4FdltKa",
+      "name": "25062026-LGK00086.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00086.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12039552,
+      "modifiedTime": "2026-06-29T20:30:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ZaTr1w0qefsA3RjBX8HB0YhpCSM-sYV9",
+      "name": "25062026-LGK00089.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00089.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 15299996,
+      "modifiedTime": "2026-06-29T20:30:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "16u3-vaLANPm0bAoAroHu8uwIgOGzuCgP",
+      "name": "25062026-LGK00091.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00091.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11286999,
+      "modifiedTime": "2026-06-29T20:30:49.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1AGHKSjgkaKNLuO5on7LVG9d8DHhJsHWK",
+      "name": "25062026-LGK00093.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00093.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12331300,
+      "modifiedTime": "2026-06-29T20:30:51.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1y-HnddRQLgryRYdXj9RDjI4ZxTS9tnLM",
+      "name": "25062026-LGK00095.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00095.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 15358747,
+      "modifiedTime": "2026-06-29T20:30:57.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1KisesYlW1MLoOYTP3z3nTq6508sUpGN5",
+      "name": "25062026-LGK00098.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00098.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 14795014,
+      "modifiedTime": "2026-06-29T20:30:59.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1wKMjged-bf3dnQhkAPi1ni4NFkFS4urJ",
+      "name": "25062026-LGK00100.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00100.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 14183963,
+      "modifiedTime": "2026-06-29T20:31:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1FldlHCkLPubXSzswQJyCPzlBRYBFjygK",
+      "name": "25062026-LGK00102.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00102.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 9855018,
+      "modifiedTime": "2026-06-29T20:31:06.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1WOJvDhM1IkttgweAex0JZxXtolDJv2_W",
+      "name": "25062026-LGK00104.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00104.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 10354035,
+      "modifiedTime": "2026-06-29T20:31:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1GDUFmif7IYwlWiwsS65842IoP9qtT4ik",
+      "name": "25062026-LGK00106.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00106.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 10931826,
+      "modifiedTime": "2026-06-29T20:31:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "11qM-HyuAI0miRGQz-3OD-qshJq2h-muc",
+      "name": "25062026-LGK00108.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00108.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13715884,
+      "modifiedTime": "2026-06-29T20:31:10.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1eJK6QYyKLR-C4pqWLuyWOnA23660_yjP",
+      "name": "25062026-LGK00111.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00111.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12904922,
+      "modifiedTime": "2026-06-29T20:31:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JNbtsiTXz1TkUwT7tV_2b54M9Zeek_j6",
+      "name": "25062026-LGK00113.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00113.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12532102,
+      "modifiedTime": "2026-06-29T20:31:19.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1nyGvtnbfDRo31yKEftLuzitDWmJJb87l",
+      "name": "25062026-LGK00114.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00114.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12802830,
+      "modifiedTime": "2026-06-29T20:31:19.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1grCiiYWjUHJj8F3tJIcWcfHDiXd7VE7e",
+      "name": "25062026-LGK00116.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00116.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13452229,
+      "modifiedTime": "2026-06-29T20:31:21.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ZZ8jE6WTZ_B32vkIXDkz5c1otpZYwpDx",
+      "name": "25062026-LGK00121.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00121.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12251783,
+      "modifiedTime": "2026-06-29T20:31:27.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1DZXUQa3X99bKnbAUXbExrNInAGMb8DDq",
+      "name": "25062026-LGK00123.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00123.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12367247,
+      "modifiedTime": "2026-06-29T20:31:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1FFU_5OyICTowERE27PuNIdyVMBNg6iZ6",
+      "name": "25062026-LGK00125.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00125.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11538037,
+      "modifiedTime": "2026-06-29T20:31:29.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Bxg4CbpmcB03yG9HMe-oUtMl-i7EGssg",
+      "name": "25062026-LGK00128.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00128.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12338921,
+      "modifiedTime": "2026-06-29T20:31:35.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1OeGcRMiRGi0KPkIm9yEpBGvPmrhrUlYI",
+      "name": "25062026-LGK00130.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00130.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 12431990,
+      "modifiedTime": "2026-06-29T20:31:37.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1pfxaEYRRNxUQgwCogncEAiCZW45_uJqu",
+      "name": "25062026-LGK00132.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00132.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 11812760,
+      "modifiedTime": "2026-06-29T20:31:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1wdygG5nCkiDtUf7o5G3-2Ca3zYLfKLcL",
+      "name": "25062026-LGK00135.JPG",
+      "path": "FOTOS ARRAIÁ SERRA/EDITADAS/25062026-LGK00135.JPG",
+      "parentId": "19dgTCpK0Em1PE5XdM6hNcx0okSgQEqAW",
+      "mimeType": "image/jpeg",
+      "size": 13468356,
+      "modifiedTime": "2026-06-29T20:31:39.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "14oxqO5fuXDYFJs1PfQ26zoImyYxSMr8X",
+      "name": "LOGO E ID VISUAL",
+      "path": "LOGO E ID VISUAL",
+      "parentId": "1HfYI7-5iNmBWzJ5lGfAkV1-HJ1BnFHb3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-10-13T13:18:29.594Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "19X_m_F0W7J0k0ga_tFM_L82AFb8p06Pc",
+      "name": "ANTIGA LOGO E IDV",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV",
+      "parentId": "14oxqO5fuXDYFJs1PfQ26zoImyYxSMr8X",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-10-13T13:18:30.548Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "name": "NOVA ID ROGÉRIO ROCHA",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA",
+      "parentId": "19X_m_F0W7J0k0ga_tFM_L82AFb8p06Pc",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-10-13T13:18:31.430Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1i9Sh0glTt-uK_JkzlZXOfkajPUK7VGDI",
+      "name": "1.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/1.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 1166310,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1clwKaIX1LujaBoSf-4p3-IXJNprg1Odx",
+      "name": "2.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/2.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 1315817,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1hf57p8jB616iBoI6daMlKswFL2S0N5xv",
+      "name": "3.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/3.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 3932630,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1gS9CsL60STHHZReb9CJ2L0c3wmRbocSC",
+      "name": "4.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/4.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 2215131,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "16aUFI6kdqV5XexcnCsyWeMiuPXa9ezBD",
+      "name": "5.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/5.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 1982762,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1pTdiqWDaLtd462lieicB57K-H2XkMAP7",
+      "name": "6.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/6.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 2059249,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1VDCPkI1IZJ3mtm6HvzHt2_zTk_SiuxP0",
+      "name": "7.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/7.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 6080849,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "12zIk3V7DW5Y-JttTN09oudNZPPcC5TJX",
+      "name": "8.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/8.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 3709996,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1x_290qNNyO5zupRiA0KiVf1z3bk0l1KX",
+      "name": "9.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/NOVA ID ROGÉRIO ROCHA/9.png",
+      "parentId": "19IsiXPumy1XtUfErMtkkEUjW5V6b7MIa",
+      "mimeType": "image/png",
+      "size": 5855712,
+      "modifiedTime": "2024-12-02T06:28:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "14cAdiRUmvPO2vmIsCTxEGo52YLqnJhCw",
+      "name": "rogerio logo.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/rogerio logo.png",
+      "parentId": "19X_m_F0W7J0k0ga_tFM_L82AFb8p06Pc",
+      "mimeType": "image/png",
+      "size": 415939,
+      "modifiedTime": "2024-05-31T21:42:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1YQ2-ktoaK5NHrHq1xWL-AapBb2oQe6jP",
+      "name": "rogério logo 2.png",
+      "path": "LOGO E ID VISUAL/ANTIGA LOGO E IDV/rogério logo 2.png",
+      "parentId": "19X_m_F0W7J0k0ga_tFM_L82AFb8p06Pc",
+      "mimeType": "image/png",
+      "size": 335147,
+      "modifiedTime": "2024-03-01T12:40:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "name": "NOVA ID ROGÉRIO ROCHA",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA",
+      "parentId": "14oxqO5fuXDYFJs1PfQ26zoImyYxSMr8X",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-10-13T13:18:30.550Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1bK9yXSRl_EeVJJfAnJYYCpqMokmW1XF9",
+      "name": "1.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/1.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 1166310,
+      "modifiedTime": "2024-08-27T11:01:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Wve_I6Slmz7YWHRHscQSzt1nBfXZxYiE",
+      "name": "2.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/2.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 1315817,
+      "modifiedTime": "2024-08-27T11:01:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1AVG8svz3Zv4Z5VFuzd9sFecZQO3SYmS5",
+      "name": "3.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/3.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 3932630,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ny0kex_DMJGLFfPFJTj-hPQugfEsDDtp",
+      "name": "4.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/4.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 2215131,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LcBIaCGCE8-6s9GgiQvQ0thlisLAm9-f",
+      "name": "5.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/5.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 1982762,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1P4ilwkVF6hqyZw4t2ehtfakXJZaoG6r3",
+      "name": "6.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/6.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 2059249,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "10UCZ5lYVoxXSc4nOy1FCQN3IFxODLVSF",
+      "name": "7.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/7.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 6080849,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Xv6uUBnAdSx2vegQSc4lrQcZ6KeXLC9u",
+      "name": "8.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/8.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 3709996,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1NwPT2pqFenqxWHv3cWT5611Im3L37GNk",
+      "name": "9.png",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/9.png",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "image/png",
+      "size": 5855712,
+      "modifiedTime": "2024-08-27T11:00:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1GcwJJi2MR1Si3aGMp6qG65jae0FuYwbD",
+      "name": "MANUAL MERCA.pdf",
+      "path": "LOGO E ID VISUAL/NOVA ID ROGÉRIO ROCHA/MANUAL MERCA.pdf",
+      "parentId": "1kOg7TzVCkQp_h8zvrhBm31tfmqBlWr_M",
+      "mimeType": "application/pdf",
+      "size": 371774,
+      "modifiedTime": "2025-08-02T16:21:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "name": "Sessão Ordinária 24.04.2026",
+      "path": "Sessão Ordinária 24.04.2026",
+      "parentId": "1HfYI7-5iNmBWzJ5lGfAkV1-HJ1BnFHb3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-04-24T21:37:45.043Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1h8LGCosxDPQ1XmatdcZUcF4Ls5psAdjy",
+      "name": "IMG_1039.JPG",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1039.JPG",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/jpeg",
+      "size": 1364055,
+      "modifiedTime": "2026-04-24T21:37:07.917Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1n2XlLpIXRSVOBSzpLe6IPZkEmVT9NwNw",
+      "name": "IMG_1040.JPG",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1040.JPG",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/jpeg",
+      "size": 1365636,
+      "modifiedTime": "2026-04-24T21:37:11.548Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1oq-53JqeA_OUbNVvO3Os10yK0atnUQay",
+      "name": "IMG_1041.JPG",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1041.JPG",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/jpeg",
+      "size": 1359878,
+      "modifiedTime": "2026-04-24T21:37:04.596Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1eu9ZSgR5MNAxP4cOdBkwZG-elRbEK7x7",
+      "name": "IMG_1042.JPG",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1042.JPG",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/jpeg",
+      "size": 1456239,
+      "modifiedTime": "2026-04-24T21:37:18.494Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1ITZEnBLtnhd_1fCmiSEvWbrblMLPl7JF",
+      "name": "IMG_1043.JPG",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1043.JPG",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/jpeg",
+      "size": 1381133,
+      "modifiedTime": "2026-04-24T21:37:14.810Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1tyVyYzca6ogBW9wT1nsU1TUTT5ENZ-bH",
+      "name": "IMG_1044.MOV",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1044.MOV",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "video/quicktime",
+      "size": 2428348178,
+      "modifiedTime": "2026-04-24T21:35:56.243Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1wPBQ_tTdMsEz3gLkDE_zzlDRwiYBxMq7",
+      "name": "IMG_1066.HEIC",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1066.HEIC",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/heif",
+      "size": 840591,
+      "modifiedTime": "2026-04-24T21:37:25.359Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1oCWFB4m72i8sEN1hJC46leJLTImbmNiD",
+      "name": "IMG_1067.HEIC",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1067.HEIC",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/heif",
+      "size": 817439,
+      "modifiedTime": "2026-04-24T21:37:21.816Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1ckeUbWt7tH8pzlDoCgWYJTe_Ccmxlkb4",
+      "name": "IMG_1068.HEIC",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1068.HEIC",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/heif",
+      "size": 859560,
+      "modifiedTime": "2026-04-24T21:37:28.716Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1yIuTQVVtUs2gXHFWzLL692s1KGznea4u",
+      "name": "IMG_1069.HEIC",
+      "path": "Sessão Ordinária 24.04.2026/IMG_1069.HEIC",
+      "parentId": "1zhc4CgvWpviM6UEhE-BK2qf3s-82Taqb",
+      "mimeType": "image/heif",
+      "size": 841926,
+      "modifiedTime": "2026-04-24T21:37:31.937Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    }
+  ],
+  "truncated": false
+}

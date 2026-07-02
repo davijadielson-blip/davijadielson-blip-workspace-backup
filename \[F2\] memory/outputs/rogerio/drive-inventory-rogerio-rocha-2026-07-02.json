@@ -1,0 +1,4118 @@
+{
+  "items": [
+    {
+      "id": "16MayvMU3ushS9mv7x-Kho44W2x1DBmcB",
+      "name": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025",
+      "parentId": "1Q3WLDfVN-0kiDhuKILr8T4DIVRmsf9gR",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-17T12:09:18.257Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "name": "Fotos do iCloud",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud",
+      "parentId": "16MayvMU3ushS9mv7x-Kho44W2x1DBmcB",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-17T12:09:19.070Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1BKPP92uzyq2dhbKzGZBzs9uqha6nKJlQ",
+      "name": "IMG_4776.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4776.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 275611437,
+      "modifiedTime": "2025-12-11T20:50:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1NS2n0NsZCO0ff81lvoOl8WKYddq2ShNM",
+      "name": "IMG_4777.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4777.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 397176557,
+      "modifiedTime": "2025-12-11T20:51:10.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ghtw2LGSSxUGZaPoX0sIsNTQ-QHUC5zw",
+      "name": "IMG_4778.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4778.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 119791373,
+      "modifiedTime": "2025-12-11T20:50:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1BH2XmM0nUvFAgC_uua7bnHrEYyQ48xpS",
+      "name": "IMG_4779.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4779.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 33635485,
+      "modifiedTime": "2025-12-11T20:51:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1CXK2e4fvrRolDMdOvJEt_Clx7KyJ37I8",
+      "name": "IMG_4780.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4780.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 36848589,
+      "modifiedTime": "2025-12-11T20:51:04.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JlovmR0dvDzUAsZuqv7h3z6Yb4TkcthS",
+      "name": "IMG_4781.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4781.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 38639542,
+      "modifiedTime": "2025-12-11T20:51:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LwapXmGbtsdHowf8tfgs2qdVweeu8d3e",
+      "name": "IMG_4782.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4782.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 44500621,
+      "modifiedTime": "2025-12-11T20:51:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JIzbFiLIzHZ9VuUJgp_vhlMYZgadE9wi",
+      "name": "IMG_4783.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4783.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 35826381,
+      "modifiedTime": "2025-12-11T20:51:06.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1jZuZL939akQZVzVOtBCmFSfDJIdM5SWa",
+      "name": "IMG_4784.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4784.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 82179629,
+      "modifiedTime": "2025-12-11T20:51:36.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1EMQB39rO-3WozINMILgTQy7W59ZKNw7T",
+      "name": "IMG_4785.HEIC",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4785.HEIC",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "image/heif",
+      "size": 2721489,
+      "modifiedTime": "2025-12-11T20:50:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1XnK6sqXSmrFPXo2VVAnvl0Y7EvhS8DFE",
+      "name": "IMG_4786.HEIC",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4786.HEIC",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "image/heif",
+      "size": 2660808,
+      "modifiedTime": "2025-12-11T20:49:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Z6uZ7FWtSM3RxwuKMd7e0JNCe55HPAIS",
+      "name": "IMG_4787.HEIC",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4787.HEIC",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "image/heif",
+      "size": 2708932,
+      "modifiedTime": "2025-12-11T20:50:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1nA31fMlHtbyXOVN4klxh2Y7L-iCB9TiB",
+      "name": "IMG_4788.HEIC",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4788.HEIC",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "image/heif",
+      "size": 2897249,
+      "modifiedTime": "2025-12-11T20:49:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1sq9GfuPNtXN5Vjl9c1z1_9THDlFYenjA",
+      "name": "IMG_4789.HEIC",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4789.HEIC",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "image/heif",
+      "size": 2247669,
+      "modifiedTime": "2025-12-11T20:50:16.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1U-AClskQGWgNP7blf-h6Jo-_-zGvDREf",
+      "name": "IMG_4790.HEIC",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4790.HEIC",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "image/heif",
+      "size": 2355831,
+      "modifiedTime": "2025-12-11T20:50:16.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1UB70IPIhoQ_n1N7V8aGW2yBOYJxGkbqx",
+      "name": "IMG_4791.HEIC",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4791.HEIC",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "image/heif",
+      "size": 2446976,
+      "modifiedTime": "2025-12-11T20:50:16.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1lL99yhuQOz4VaiFq0ZjTUe9dz_tE_hCj",
+      "name": "IMG_4792.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4792.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 3987110,
+      "modifiedTime": "2025-12-11T20:51:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1mTGqvEThquKD3bAAX6cOVOF3Uwc9YJ31",
+      "name": "IMG_4793.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4793.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 12130026,
+      "modifiedTime": "2025-12-11T20:51:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1W2R3mDxFzeMrXL_w7sDQ7sOl-FWqHfWX",
+      "name": "IMG_4794.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4794.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 22009974,
+      "modifiedTime": "2025-12-11T20:50:06.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1D1OiOinl3pfSL-iPtMSXxvbeSRG7jFFF",
+      "name": "IMG_4795.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4795.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 35255733,
+      "modifiedTime": "2025-12-11T20:49:50.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "19_-SjaPckh0SHCa7IatuGc5lXsZVqrZm",
+      "name": "IMG_4796.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4796.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 13260788,
+      "modifiedTime": "2025-12-11T20:50:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "17QxKJ6OneO5yzWHuI6Ze6TGY06eoV1QL",
+      "name": "IMG_4797.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4797.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 28005161,
+      "modifiedTime": "2025-12-11T20:49:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "12jdoh-rvJCmPaFIJMBp5wG1OTS4BjCn1",
+      "name": "IMG_4798.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4798.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 29562721,
+      "modifiedTime": "2025-12-11T20:50:16.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1KHnHeVGrRXckvvGwUttPoMDtRUzciCOL",
+      "name": "IMG_4799.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4799.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 44381616,
+      "modifiedTime": "2025-12-11T20:49:52.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1qhia2pto9cGCzKAn9qNflEpJT_TP83Pa",
+      "name": "IMG_4800.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4800.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 164414413,
+      "modifiedTime": "2025-12-11T20:49:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1X9nTphMyPxD4agAjxfGQCwwiMZe52P_2",
+      "name": "IMG_4801.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4801.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 174781040,
+      "modifiedTime": "2025-12-11T20:50:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1S9g-L0vN3fxJ4mJxO4rr27kkzInngcav",
+      "name": "IMG_4802.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4802.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 480764222,
+      "modifiedTime": "2025-12-11T20:50:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1gojCWXORoLI2ePkBAxreZk0vlAH6eqXr",
+      "name": "IMG_4803.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4803.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 176027448,
+      "modifiedTime": "2025-12-11T20:51:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Ddd2fw_EqVeuMUhVsbcHkvjE_S13vBfl",
+      "name": "IMG_4804.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4804.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 201469229,
+      "modifiedTime": "2025-12-11T20:49:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1O3nFlvvSFA5yDV8AoU4Puj_3V-mVQQXE",
+      "name": "IMG_4805.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4805.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 45458986,
+      "modifiedTime": "2025-12-11T20:50:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1SQWN3h5S3J0DVIyFp_nCRVtrlGNzGMW_",
+      "name": "IMG_4806.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4806.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 36480682,
+      "modifiedTime": "2025-12-11T20:49:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ybDz9N3ilgSnEeCeRsmsUnG_Xlq1AU1t",
+      "name": "IMG_4807.MOV",
+      "path": "GRAVAÇÃO CHAMADA DIA DAS MAES_ROGERIO_3 de maio de 2025/Fotos do iCloud/IMG_4807.MOV",
+      "parentId": "1n1eCb3Um7hH8e0MMyYbCpr0nBZOTpp3e",
+      "mimeType": "video/quicktime",
+      "size": 156986743,
+      "modifiedTime": "2025-12-11T20:49:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1-avtsS32nPQ0Ldg3lOBXOpJ5aCbItB6G",
+      "name": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025",
+      "parentId": "1Q3WLDfVN-0kiDhuKILr8T4DIVRmsf9gR",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-17T12:09:18.253Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "name": "Fotos do iCloud",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud",
+      "parentId": "1-avtsS32nPQ0Ldg3lOBXOpJ5aCbItB6G",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-17T12:09:19.271Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1wnoxoqnfWyeO7CqK7K7wo4mpnGD9ajty",
+      "name": "IMG_9927.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9927.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 18142405,
+      "modifiedTime": "2025-12-12T02:04:12.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1BTfFgAOV6i1ZwbxTINZbx-5KF_rNcP3g",
+      "name": "IMG_9928.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9928.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 16225973,
+      "modifiedTime": "2025-12-12T02:04:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1hvw0Axxgo6v9RjWiVDLcNEYyb2USIrSl",
+      "name": "IMG_9929.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9929.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 37845371,
+      "modifiedTime": "2025-12-12T02:04:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1q-RnVY7B-f_uSGGYVMB95fMOm5VbBp8k",
+      "name": "IMG_9930.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9930.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 41987421,
+      "modifiedTime": "2025-12-12T02:04:06.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1VkDyE08OQ62GwFQD9IZKGvYv5xEiLQmq",
+      "name": "IMG_9931.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9931.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 33725262,
+      "modifiedTime": "2025-12-12T02:04:10.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Rx-yO9b3j7VpYJZ3H_TLEgx38BcxgQpj",
+      "name": "IMG_9932.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9932.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 18827233,
+      "modifiedTime": "2025-12-12T02:04:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1unZHQMGiYZZPlTtogmintDhpK_cuMROd",
+      "name": "IMG_9933.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9933.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 49294766,
+      "modifiedTime": "2025-12-12T02:04:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1oF7PjYTKj54RiYJqwQ37Gr0hziPZAFqT",
+      "name": "IMG_9934.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9934.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 11548534,
+      "modifiedTime": "2025-12-12T02:04:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1jVyX7lH2gUQqm_MZam5BgL_HsCB6Uysl",
+      "name": "IMG_9935.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9935.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 60959737,
+      "modifiedTime": "2025-12-12T02:04:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1GckahciE9_Wj_N7mC_0XtxA7sbgrCWM3",
+      "name": "IMG_9936.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9936.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 539107434,
+      "modifiedTime": "2025-12-12T02:04:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1MsQCxqBVEDw2sREcgLa74UQG_AnEITnb",
+      "name": "IMG_9938.MOV",
+      "path": "VIAGEM AO JUAZEIRO_ROGÉRIO_17 de julho de 2025/Fotos do iCloud/IMG_9938.MOV",
+      "parentId": "1WiA9mGLp5tHqkt8lxfdfBlzRNllZBlpK",
+      "mimeType": "video/quicktime",
+      "size": 65856043,
+      "modifiedTime": "2025-12-12T02:04:12.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1oiNdJybdmRrQsBXZkPsyEtPF5_-I7OUh",
+      "name": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025",
+      "parentId": "1Q3WLDfVN-0kiDhuKILr8T4DIVRmsf9gR",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-17T12:09:18.252Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "name": "Fotos do iCloud",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud",
+      "parentId": "1oiNdJybdmRrQsBXZkPsyEtPF5_-I7OUh",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-17T12:09:19.065Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1MEJ-K_kik5pI9_-sFhOWlJeQeOXWZx2S",
+      "name": "IMG_3728.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3728.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 89784596,
+      "modifiedTime": "2025-12-11T17:23:04.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1-_x4_CgwaZYFUG-Qe72t9HLrckZUoxBy",
+      "name": "IMG_3729.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3729.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 49332903,
+      "modifiedTime": "2025-12-11T17:22:52.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1J4kGvVDmZiLcNsfVvjbepvEzcozHasSU",
+      "name": "IMG_3730.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3730.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 51674776,
+      "modifiedTime": "2025-12-11T17:22:50.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1e1qFPHQa287PF6s0edmpLk6lm683jgdt",
+      "name": "IMG_3731.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3731.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 13103530,
+      "modifiedTime": "2025-12-11T17:22:50.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1BmG19Z_jYTrgY9se4BIQ-1o9mrKO3Oeg",
+      "name": "IMG_3732.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3732.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 13781559,
+      "modifiedTime": "2025-12-11T17:22:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "16D-fAqr8mzM_6nfO6CmPPtXlHQNuPvi-",
+      "name": "IMG_3733.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3733.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 8408079,
+      "modifiedTime": "2025-12-11T17:22:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "12boenKCoiYldCL2KFzstwtWitIp9nJof",
+      "name": "IMG_3734.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3734.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 138142901,
+      "modifiedTime": "2025-12-11T17:22:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1boAp8lsMWUi7djqqC15IVHTRoaBEwWKG",
+      "name": "IMG_3735.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3735.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 62148067,
+      "modifiedTime": "2025-12-11T17:22:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "12SFVySvspt917AsM7vOHRU0gNxW5fOtu",
+      "name": "IMG_3736.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3736.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 48890402,
+      "modifiedTime": "2025-12-11T17:22:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1VwuSh6pbnd3xNLFlRnAZKljBUZnr5iJw",
+      "name": "IMG_3737.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3737.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 34118208,
+      "modifiedTime": "2025-12-11T17:23:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1-lr58_UmegXw4dZtiI_BeW2JsdaV4dso",
+      "name": "IMG_3738.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3738.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 91993311,
+      "modifiedTime": "2025-12-11T17:22:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1mrRGi_o5RPfTG3UV47qtqA8SEFPU0cFQ",
+      "name": "IMG_3739.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3739.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 51387973,
+      "modifiedTime": "2025-12-11T17:22:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "15BBRx4hhPIkeuNlpcWfz7fcsJnD28nqj",
+      "name": "IMG_3740.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3740.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 12073298,
+      "modifiedTime": "2025-12-11T17:23:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1WK-A_EK07pFFrAlHpQOGp3M2kwqtDlG0",
+      "name": "IMG_3741.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3741.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 18979348,
+      "modifiedTime": "2025-12-11T17:24:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1SwW_oOimhqj-4XcoxE_svq1mBdijHWJs",
+      "name": "IMG_3742.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3742.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 229054150,
+      "modifiedTime": "2025-12-11T17:23:10.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "17_5ILQNqBDtwO3stJuLoLMTKQjOfCjUR",
+      "name": "IMG_3743.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3743.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 5867501,
+      "modifiedTime": "2025-12-11T17:23:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1oO1NdogaPVG6xGN9Vi7tavqQ2XD1iRXh",
+      "name": "IMG_3744.JPG",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3744.JPG",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/jpeg",
+      "size": 497543,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1IqW1jfijrOlMRwNcgJNF0YfSyNEtXqss",
+      "name": "IMG_3745.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3745.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 142587759,
+      "modifiedTime": "2025-12-11T17:22:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1hfEt2GfQmSlINg7jDQwtRL7ldtf1URNx",
+      "name": "IMG_3746.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3746.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 80916057,
+      "modifiedTime": "2025-12-11T17:23:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1nc-tw7Y3hWE8Vox9ySKFcGrUI5U-GWKs",
+      "name": "IMG_3747.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3747.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 36329937,
+      "modifiedTime": "2025-12-11T17:22:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1BrKLvCQRIkbZByAfVenEK5Zwng0VPH8m",
+      "name": "IMG_3748.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3748.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3968814,
+      "modifiedTime": "2025-12-11T17:22:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1uTgpqsB1zl9iR38v1GzqJV6Frtrv2mEl",
+      "name": "IMG_3749.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3749.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 32076941,
+      "modifiedTime": "2025-12-11T17:22:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1y0kn3pp5Ous9AZy3X9zeU0mKrwpgTJPu",
+      "name": "IMG_3750.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3750.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1271116,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1j6nlHAPgtWtnpY52M8XL7kMcNnks7bbn",
+      "name": "IMG_3750.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3750.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 2853590,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "12j5mCXdDyt0trCHspgRINZ05Ex9pHyai",
+      "name": "IMG_3751.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3751.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 934074,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1b6lFJ7yjdXM61C1bhc1qnZOKZu6YBYbV",
+      "name": "IMG_3751.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3751.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 5518748,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "12rleqF7BYPnFrs6bXhk2whlnuNHov6Kc",
+      "name": "IMG_3752.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3752.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 951556,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1222vR-PmlwxnedtLS8zUIiLgDel72fln",
+      "name": "IMG_3752.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3752.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 2465165,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ewxrcplt3CbYt6lykJqJYjM5dq8exB2l",
+      "name": "IMG_3753.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3753.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2102429,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Vfp1096MFp6o7FkQ6HzgtnXSzoUFx2ZC",
+      "name": "IMG_3753.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3753.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4910578,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1lLCQeyibbFCzLrTmS3QwbeTSwmhOrskd",
+      "name": "IMG_3754.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3754.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2035034,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JjT8EUIo66PQXmTVUEwwzGHjdOOcDI4q",
+      "name": "IMG_3754.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3754.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4782355,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1D0PkNBYLVEZDBgMXbnwX844T5EvM1Z9J",
+      "name": "IMG_3755.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3755.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 124450887,
+      "modifiedTime": "2025-12-11T17:22:16.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1yEqNk6j9lPbcz4NPjPpPKr6L_wvKpqXg",
+      "name": "IMG_3756.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3756.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 48668297,
+      "modifiedTime": "2025-12-11T17:22:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1oJojkjRiAFR3VcyMRNgCakO1ukR2NNAy",
+      "name": "IMG_3757.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3757.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 77670733,
+      "modifiedTime": "2025-12-11T17:22:12.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JVjo8p0luKwH0YG4VUNjZt1M4WIC6_8l",
+      "name": "IMG_3758.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3758.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 91662375,
+      "modifiedTime": "2025-12-11T17:22:06.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1hn65eybhhOKXy_z7t3Pm5zZf6utqW_7y",
+      "name": "IMG_3759.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3759.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 51772560,
+      "modifiedTime": "2025-12-11T17:22:04.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1HXpTMQdcuRD84mEAbKxjjnVQiS3xmNzV",
+      "name": "IMG_3760.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3760.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 6885082,
+      "modifiedTime": "2025-12-11T17:22:04.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "19AFpK0qBJ85u4fgX0JmfAUxBtm5ZKMqz",
+      "name": "IMG_3761.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3761.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 44476142,
+      "modifiedTime": "2025-12-11T17:22:02.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1zH6sZNGGQhS4jCGH4U3APX95i9-Rafyw",
+      "name": "IMG_3762.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3762.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1517317,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1gS14J2sxUqdJf4L3N8_J_vhC7L1e1aVB",
+      "name": "IMG_3762.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3762.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4098899,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1q6SYKQdqpzW-wSqgFYi4O8ATxO0kF7mq",
+      "name": "IMG_3763.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3763.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1548637,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1O6-f4d8csePkXwslEB2106hfKqO5273K",
+      "name": "IMG_3763.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3763.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3870038,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1b2Z8qonBKK2rNYo24Y7LPkiEc1k4tJOn",
+      "name": "IMG_3764.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3764.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2270899,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1La_YeBIFyIsz84Maxt-tY72kzCwrQraQ",
+      "name": "IMG_3764.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3764.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 5005772,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1sGvfh3pdOGKhaXnK-zs9gUbqgtu3XL4N",
+      "name": "IMG_3765.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3765.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2211429,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1mc70a3z4QfrC5xrX9Xkw119bjmGPssbp",
+      "name": "IMG_3765.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3765.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 5644098,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1OsGTQ-UubqFiZp-HeRXuVBVXViI8VYVN",
+      "name": "IMG_3766.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3766.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 64508452,
+      "modifiedTime": "2025-12-11T17:22:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1kyBB9qATsu-DpJ_5A_oWhs-A9O4ul6y1",
+      "name": "IMG_3767.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3767.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 94452710,
+      "modifiedTime": "2025-12-11T17:21:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1H4sbfIJKyeUG52bdGHUdoAbx7HpNwA9z",
+      "name": "IMG_3768.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3768.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 71307166,
+      "modifiedTime": "2025-12-11T17:21:50.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1cfKEux5bwS4pKhBsWgMtR8ScvFwuNp2G",
+      "name": "IMG_3769.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3769.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 31825417,
+      "modifiedTime": "2025-12-11T17:24:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ff2x8RF8wRb98zBr_NVs0_XNbpEsPL9M",
+      "name": "IMG_3770.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3770.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 108416121,
+      "modifiedTime": "2025-12-11T17:21:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1p6Tg0IKvXzSvlA5WGxIolnFuRlVEJkba",
+      "name": "IMG_3771.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3771.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 7110183,
+      "modifiedTime": "2025-12-11T17:21:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "18HIs0shszNZ41Cyxvrk6gHaaFGB8kFaR",
+      "name": "IMG_3772.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3772.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4399657,
+      "modifiedTime": "2025-12-11T17:21:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1pflQr8VXXcCVjKrPglMePJj-HKxi6uQN",
+      "name": "IMG_3773.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3773.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4377954,
+      "modifiedTime": "2025-12-11T17:24:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LrfNlCM0WLCG5CMTTWNMbasoyqDLitAk",
+      "name": "IMG_3774.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3774.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 11663671,
+      "modifiedTime": "2025-12-11T17:21:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1duuiZQbf3dKFrnbG5JOs5Rn2w6pIrXvo",
+      "name": "IMG_3775.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3775.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 38826053,
+      "modifiedTime": "2025-12-11T17:21:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1zbgqEkvIQsyBSU_LuSO9Pk2NIYv73Olg",
+      "name": "IMG_3776.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3776.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 24813880,
+      "modifiedTime": "2025-12-11T17:24:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1-JzZM3XnhcEbJJ884LAFCK6HkNrr7bAs",
+      "name": "IMG_3777.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3777.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 61274892,
+      "modifiedTime": "2025-12-11T17:21:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "16BQ40iB9-WByaRxlPjxXyCbhkjyRceAK",
+      "name": "IMG_3778.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3778.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 14123355,
+      "modifiedTime": "2025-12-11T17:21:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1dtb_XaBxzQtk58PchvhUCqRvZQlOFepI",
+      "name": "IMG_3779.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3779.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 22398521,
+      "modifiedTime": "2025-12-11T17:21:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1HqR_8celRUuQx0of0Hx60slQ88KqKUAt",
+      "name": "IMG_3780.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3780.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 15870001,
+      "modifiedTime": "2025-12-11T17:21:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1PBVTOanlXaoYIrIsFR5RYIPUR-iLLdKL",
+      "name": "IMG_3781.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3781.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 30774456,
+      "modifiedTime": "2025-12-11T17:21:36.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1qpiKqy5J1qbiJ2SojuQffEqsyL7EaM-v",
+      "name": "IMG_3782.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3782.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 19063667,
+      "modifiedTime": "2025-12-11T17:21:36.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1v7V-M99BGVn-baBdnEcW1U9sxgt7poEI",
+      "name": "IMG_3783.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3783.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 40919794,
+      "modifiedTime": "2025-12-11T17:21:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Cnx4EBe7AURJE3lgH6flB-iRAYVGUdrR",
+      "name": "IMG_3786.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3786.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 218264238,
+      "modifiedTime": "2025-12-11T17:21:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1s2F4ZZrEuF17gNpNhlVrwxROkQfsmBVU",
+      "name": "IMG_3787.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3787.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 50696059,
+      "modifiedTime": "2025-12-11T17:21:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1RusNFdmPOVi_uDkSeM7Lpzh4pz8-kDQM",
+      "name": "IMG_3788.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3788.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 41396276,
+      "modifiedTime": "2025-12-11T17:24:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1lYjGFh_HYWPgfpcoPq1C3kAUxfklQlbI",
+      "name": "IMG_3789.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3789.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 156099785,
+      "modifiedTime": "2025-12-11T17:21:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "12smp0ocxGZBWsNLv9a6Htw19-2AP1X7l",
+      "name": "IMG_3790.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3790.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 64171097,
+      "modifiedTime": "2025-12-11T17:21:10.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1JH9ne7Ngmdwps3mLSC5LsNmupVKrZiDK",
+      "name": "IMG_3791.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3791.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 25583976,
+      "modifiedTime": "2025-12-11T17:21:10.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1p2A5Rd_5PGitXDlKBF9XmmU7RrOqB_fS",
+      "name": "IMG_3792.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3792.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 23373327,
+      "modifiedTime": "2025-12-11T17:21:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1f-86An6ERw1qGQEUMq5I6uBZgKT-WFkE",
+      "name": "IMG_3793.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3793.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 28296164,
+      "modifiedTime": "2025-12-11T17:21:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1fMTPhR3xjZkTi_8bHSIiAkjN8Bj4MNsv",
+      "name": "IMG_3794.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3794.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 11640281,
+      "modifiedTime": "2025-12-11T17:24:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1PUuF_f9D8fHofUU3D5wX-8-044TZKSRG",
+      "name": "IMG_3795.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3795.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1460311,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1diuxsI8TURVHQFeX6smmhLubKpsLo59j",
+      "name": "IMG_3795.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3795.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3264967,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1rOG2mkamt1-VTIqAa1hqwJMasIc5ZsZ2",
+      "name": "IMG_3796.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3796.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1016870,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Stn_rEkZj-WzUZx9No7kEiRtnV_I-Jor",
+      "name": "IMG_3796.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3796.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 2893996,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1PhnEcDwu6r6lwCba8ZuT2C3am0opPl94",
+      "name": "IMG_3797.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3797.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 140651948,
+      "modifiedTime": "2025-12-11T17:21:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1BmrUTBuY4gqUqjpvDFPcbGVtwdDlaGRM",
+      "name": "IMG_3798.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3798.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1776273,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1-MiQMpCMnwRnV2c3Wi-EpWzEtO_5DSAC",
+      "name": "IMG_3799.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3799.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1522142,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1RIGeeo_dnoKHJm2LARXsLYCoyv_PbEAy",
+      "name": "IMG_3800.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3800.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1358615,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1pAXdMwY_5y1Lqoghrj4hOBLT7mXxp6zh",
+      "name": "IMG_3801.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3801.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1426596,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1WJeBU2Px6Hy-FwG-6ICVsb6YJ3tzhI5T",
+      "name": "IMG_3802.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3802.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1369075,
+      "modifiedTime": "2025-12-11T17:22:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1cDjqboCt6zKVVPGf1jYsxfxlHo_tnQSJ",
+      "name": "IMG_3803.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3803.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1479453,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1xuD4lxPqQ6kHcB8UJwOgzWcK8DKA4qST",
+      "name": "IMG_3804.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3804.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1399695,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1X0WOjz4Gvh0DEc_W8m8msC3YRt-Ua9KX",
+      "name": "IMG_3804.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3804.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 2197856,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1xRQi2J_QH6rUkfbE0bBTBN-du7khSzZE",
+      "name": "IMG_3805.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3805.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2444213,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Y_QbAgjx65hAxAgzmfG2djTY0L1cuv1C",
+      "name": "IMG_3806.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3806.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2362407,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1lXeiZQIIR-xOp5nZJObVQtDIhOjMq05n",
+      "name": "IMG_3807.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3807.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1983421,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1aIn9eO11oITZxSmEj6rKh5xkIYX4LQB3",
+      "name": "IMG_3808.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3808.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2269842,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1nGEuGalR86IVsed_lhD3D65VPje2X1zk",
+      "name": "IMG_3809.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3809.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2510507,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1dX4umfBYcG9E867OcARZn-xQ1xUvHp9_",
+      "name": "IMG_3810.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3810.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2396345,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1fR-vHrpdAzbN-SDKgWUeeXTLpLb__S2e",
+      "name": "IMG_3811.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3811.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 66313395,
+      "modifiedTime": "2025-12-11T17:20:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1L4KqTjUDFxM2u4MevsPiLCDaGRtxlkGx",
+      "name": "IMG_3812.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3812.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 9798493,
+      "modifiedTime": "2025-12-11T17:20:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1cZuVU8gSF2BG64I_zAVITY60Hf8ScCxf",
+      "name": "IMG_3813.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3813.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3419115,
+      "modifiedTime": "2025-12-11T17:20:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1oWOLLNaVDvGujHvhMQPAR-WO9-RGb2rh",
+      "name": "IMG_3814.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3814.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 27114734,
+      "modifiedTime": "2025-12-11T17:20:56.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1vE8bseUTfXUUiIuMO0dJD7la7bwfQMl4",
+      "name": "IMG_3815.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3815.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 46208945,
+      "modifiedTime": "2025-12-11T17:20:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1wmzeKUXXxRkOX1hIn5KrytVS51UmC3Tz",
+      "name": "IMG_3816.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3816.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 973896,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1y2XANoSIqX0pDnxZkyWJJ8Qlkgv-YnkI",
+      "name": "IMG_3816.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3816.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 2891538,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1NYyMZUXS105VscuFR-946oJ0PgUJxFoP",
+      "name": "IMG_3817.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3817.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1388897,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1rX8ueKIFVlmBpXAD8lqKmSyIRFNSrqTt",
+      "name": "IMG_3817.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3817.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3077246,
+      "modifiedTime": "2025-12-11T17:23:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1J8FY3UI6974DfjqKXideAnUR1IUtI2xh",
+      "name": "IMG_3818.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3818.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1942685,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Yb_Xdw6QrMe_N3oM6up6yNG6jcYxizUr",
+      "name": "IMG_3819.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3819.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1918498,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1SgMk2iOT5MiYITLOQALq5__wzahp8-W2",
+      "name": "IMG_3820.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3820.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1909359,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1TCh0KyXARDBYqJ7IQz5ILD1toeFsqcn0",
+      "name": "IMG_3821.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3821.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2663117,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "15LjJThd3YgctSybaA3hNe-SnHZPU6_yo",
+      "name": "IMG_3822.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3822.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2745526,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1uxTWEb58szGfBd-Al7-SvgoDpVB8RgxD",
+      "name": "IMG_3823.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3823.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2721325,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1_4u5vusDK3QEHhHiGWsDAtvjAhJVJKBn",
+      "name": "IMG_3824.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3824.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2569700,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1NXnaWWKcSIcVzfKwxd4hp5SOzZAYymnS",
+      "name": "IMG_3825.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3825.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2431063,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1qVyxWolO9eRFBRgfm2ijbmhdGcwrWn78",
+      "name": "IMG_3831.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3831.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1538401,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1gH82UyLUHbL5sOxgcJ6PedByo7eCCvnV",
+      "name": "IMG_3831.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3831.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4183289,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1QTauvL6IcHQu8cWNN9AYBqsXNxB7cXg0",
+      "name": "IMG_3832.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3832.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1534015,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "17eCKlJzy60pQMbwrFd8W5ji9uNUOszdH",
+      "name": "IMG_3832.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3832.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 2466533,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "12p-diuAhIYeId7j45OQZBIBdxTP-mapD",
+      "name": "IMG_3833.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3833.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1376210,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "18xrInQvI8ZHRgPf3o_8qnjiKtZQmA6DX",
+      "name": "IMG_3833.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3833.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 2128803,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1HGJEbKoDWEiCMkUDySGcEErYAH274Y9y",
+      "name": "IMG_3834.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3834.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1305915,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Wadd8KzXqcKyKZLL7Au8RR2JV70YIkYT",
+      "name": "IMG_3834.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3834.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4696384,
+      "modifiedTime": "2025-12-11T17:23:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1moC_VwIQFc9S9bayhzbbOlSy6yYIu6Qy",
+      "name": "IMG_3835.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3835.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1302279,
+      "modifiedTime": "2025-12-11T17:23:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1gxmMXQ9vPss49_59mATxelDjvDiEarCi",
+      "name": "IMG_3835.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3835.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3822616,
+      "modifiedTime": "2025-12-11T17:23:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1wcmx5Rq2To3qet-qbBN6PQ8nVbl6Ej5E",
+      "name": "IMG_3836.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3836.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 62479975,
+      "modifiedTime": "2025-12-11T17:20:50.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1kHfBN9i7clDhV3mQiu7Xj9rI30vlHa2J",
+      "name": "IMG_3837.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3837.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 21726217,
+      "modifiedTime": "2025-12-11T17:20:50.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1qHY3k-XgFFZqReP3-TctG_KBTYdK6qtS",
+      "name": "IMG_3838.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3838.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 16304370,
+      "modifiedTime": "2025-12-11T17:22:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1CNGtD_xHUa8m9lEuczgUPVxQpKiz4oCI",
+      "name": "IMG_3839.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3839.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4316950,
+      "modifiedTime": "2025-12-11T17:22:56.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1E8U5fj3gxV8dDvsb4tSBWneUJe_CB4BN",
+      "name": "IMG_3840.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3840.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 19031222,
+      "modifiedTime": "2025-12-11T17:22:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1PRwx-WfxsfryrBtv5CqJbhMtRs7z7cQF",
+      "name": "IMG_3841.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3841.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 5428076,
+      "modifiedTime": "2025-12-11T17:22:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "146GmV6bLh7Lq8DTSTZ7dIo9sl0fgYwhz",
+      "name": "IMG_3842.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3842.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 492222,
+      "modifiedTime": "2025-12-11T17:22:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1sSjgpDR9fYBkQJvIs2Z7d_I8ptWJJXec",
+      "name": "IMG_3843.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3843.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 23693366,
+      "modifiedTime": "2025-12-11T17:22:56.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1RivQOrFhapTP06Sv6qprVxcvOM5_Sn6L",
+      "name": "IMG_3844.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3844.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 26836438,
+      "modifiedTime": "2025-12-11T17:22:56.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "12zEz31ysaReUzMRZR6p3gnrcRDQ6Sz-O",
+      "name": "IMG_3845.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3845.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 12077927,
+      "modifiedTime": "2025-12-11T17:20:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1gA69bgoD9QfnoaLJCd7uZN3S-DJfzgo6",
+      "name": "IMG_3846.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3846.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 41508147,
+      "modifiedTime": "2025-12-11T17:20:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1pFzG5M-k2_gkM-2MFNrGUxbA21cHKFRo",
+      "name": "IMG_3847.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3847.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 27055247,
+      "modifiedTime": "2025-12-11T17:20:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1XmrAXQz_nUqJYvSLl1IrXI10kijsKsGW",
+      "name": "IMG_3848.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3848.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 7401224,
+      "modifiedTime": "2025-12-11T17:20:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1SHtL3tdNZUvaoyyorjRsOk0mqqJt5bUl",
+      "name": "IMG_3849.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3849.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 74953234,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1APuaH8GirHn-wG_kbT4eFmqAQv82qKbd",
+      "name": "IMG_3850.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3850.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 34285850,
+      "modifiedTime": "2025-12-11T17:20:44.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Vs-ggYgMATN0_Tva8UIynFe3bNiUDJfQ",
+      "name": "IMG_3851.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3851.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 30484367,
+      "modifiedTime": "2025-12-11T17:20:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1OEaKnYU4_KXy1K8M2ky12GY1MKGBrDCZ",
+      "name": "IMG_3852.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3852.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 25252567,
+      "modifiedTime": "2025-12-11T17:20:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1qpCt3D8x0CCQ4FeMLGn-Zty507sJ_94R",
+      "name": "IMG_3853.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3853.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 33962170,
+      "modifiedTime": "2025-12-11T17:17:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "105daQ6zleGnxp4XN-PE5tGucgc_ClkuY",
+      "name": "IMG_3854.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3854.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 47874537,
+      "modifiedTime": "2025-12-11T17:20:40.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1blT62-1FkwFsZ1bdkHPeioIJ_bqWL_HY",
+      "name": "IMG_3855.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3855.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2499273,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1qieR6u-FXqKPZdJt3fK2etX8hzNLWrIT",
+      "name": "IMG_3856.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3856.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2871855,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1cvBva-_B67Tsaakl4a4EDjeVyXPIRsd-",
+      "name": "IMG_3857.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3857.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2549737,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1zVWcHGBFL4J1vUnbzRYULvos4bPocwH4",
+      "name": "IMG_3858.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3858.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 71839251,
+      "modifiedTime": "2025-12-11T17:20:36.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1tx8KqoZoZ6AfAtcLZ69G6lnzpI_1Yug0",
+      "name": "IMG_3859.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3859.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 11452660,
+      "modifiedTime": "2025-12-11T17:20:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1W4gyWqsTFAg_pWSdWjN7AXMJezqnxTUQ",
+      "name": "IMG_3860.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3860.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 68279505,
+      "modifiedTime": "2025-12-11T17:20:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1BiaHs-KlyDFzeTVgsJu2WcgLgPGHEEmv",
+      "name": "IMG_3861.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3861.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 31933192,
+      "modifiedTime": "2025-12-11T17:24:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "18iZS8R30yFkaAdD24Nsz9Z8_WN_aG9kh",
+      "name": "IMG_3862.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3862.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 19458778,
+      "modifiedTime": "2025-12-11T17:20:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1z39w6WeDwSDr152VG6ocI8Q0OrjChAjs",
+      "name": "IMG_3863.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3863.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 54794075,
+      "modifiedTime": "2025-12-11T17:20:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1YpTEl6sRKXuAhrjLB0sGWNNfZWBT5XKB",
+      "name": "IMG_3864.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3864.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 32344023,
+      "modifiedTime": "2025-12-11T17:20:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1vflKn_ZcpkAOiKEU9kIZSz4Tp4dj8ASB",
+      "name": "IMG_3865.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3865.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 19344119,
+      "modifiedTime": "2025-12-11T17:20:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ZYxRIVs1oJVaqgt78gvfYJTZ_Et0vy4p",
+      "name": "IMG_3866.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3866.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 41184184,
+      "modifiedTime": "2025-12-11T17:20:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1cnBoZUR0IfgVHvUZgBAyjlRaV8YfTEI4",
+      "name": "IMG_3867.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3867.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 60408239,
+      "modifiedTime": "2025-12-11T17:20:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ci7TDUQiKRFzti0frze8vl_C6gwqiI3B",
+      "name": "IMG_3868.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3868.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 38166631,
+      "modifiedTime": "2025-12-11T17:20:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1l-PJNBm7xGwtR1d-g0J6E1U0eVzpqmUy",
+      "name": "IMG_3869.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3869.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 155749365,
+      "modifiedTime": "2025-12-11T17:17:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1FlvliwT8fn968WZ5080zNgCcfzaFK1RT",
+      "name": "IMG_3870.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3870.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 26683614,
+      "modifiedTime": "2025-12-11T17:20:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "11MesUjzNMTisj8hfIacsHf5yD_MW0lLn",
+      "name": "IMG_3871.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3871.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 15008152,
+      "modifiedTime": "2025-12-11T17:20:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1mjUV75ybWURbaZ2GsGxUUOfODgPIFw5h",
+      "name": "IMG_3872.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3872.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 33777290,
+      "modifiedTime": "2025-12-11T17:20:16.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1OxzFv_2Zi8sqGOIHZ_zhupunJuRyg1ei",
+      "name": "IMG_3873.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3873.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 6053778,
+      "modifiedTime": "2025-12-11T17:20:16.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1xtTlzyZ-LTNvEqu5IW2eUemhYx9gFn4f",
+      "name": "IMG_3874.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3874.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 27803404,
+      "modifiedTime": "2025-12-11T17:20:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1x7YbZQ5Uqyn9l9GC8ZB4vUOwGRjO6NmG",
+      "name": "IMG_3875.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3875.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 10988282,
+      "modifiedTime": "2025-12-11T17:20:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LLpvR2PLDUS0tU-znWXsUvKl8ipTN7OO",
+      "name": "IMG_3876.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3876.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 53468943,
+      "modifiedTime": "2025-12-11T17:20:12.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1B1ybmdCU0zpJrDwAXjlYrBcsMQmcJ8Eg",
+      "name": "IMG_3877.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3877.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 18207217,
+      "modifiedTime": "2025-12-11T17:20:10.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1HLJhf85H9T4TtHM_QZVOliesxotvRziM",
+      "name": "IMG_3878.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3878.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1439964,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1RN0DapdcC6aAJswET2emTAM2fu59SJgm",
+      "name": "IMG_3878.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3878.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3616665,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1QAbc23o7Vn5V2MdncgquoNg626R70_5h",
+      "name": "IMG_3879.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3879.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1127933,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "17HQDsh9cnJ00uwnhhdh9TT9qJLeDbf94",
+      "name": "IMG_3879.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3879.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 2823964,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1zfhZbuuC1yKH_XCRgvUZAaTqsm550MZ9",
+      "name": "IMG_3880.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3880.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1229553,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1G8JqYkB1rM3nHhCROUGVassAhAHbymSK",
+      "name": "IMG_3880.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3880.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4779357,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "19gc2n1jd1Wn9dWMIruc20Tu3V4ymHu0D",
+      "name": "IMG_3881.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3881.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1985556,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1GKdInaD1G_MfZiD9HuwSzVCpvoATp2s9",
+      "name": "IMG_3882.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3882.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1550201,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1h1vk_YXBrs4lCSs4qzXFYDL_j0JZ_DhC",
+      "name": "IMG_3883.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3883.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1913810,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Nlec3OIyQyhufNYH1uHVQZhW24UrnBgL",
+      "name": "IMG_3884.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3884.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2177644,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LKHA-ruoGPnCCYAu3HYu53CmhDAHoqb_",
+      "name": "IMG_3885.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3885.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1561283,
+      "modifiedTime": "2025-12-11T17:23:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1IU83YCQIHHwMN6LESxryteOCPDh4frld",
+      "name": "IMG_3886.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3886.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2683222,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ngHVVT4FM2PDxXMIB5Txhw59J7wjYOwI",
+      "name": "IMG_3887.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3887.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1225905,
+      "modifiedTime": "2025-12-11T17:23:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1HhS0GzaTEg0bUIA_hvqE-cw8U6y0jN0W",
+      "name": "IMG_3888.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3888.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2427147,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LwsE5KnTPux3WUCotAYSOBfBzSpOeYnQ",
+      "name": "IMG_3890.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3890.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2072030,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1KD8s_uMEqVB6Ul4ETFSRUqzAdSLvscK9",
+      "name": "IMG_3891.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3891.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2593203,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1OesudpUEE8_PrasSW-R0m41ZOcqTc1t3",
+      "name": "IMG_3892.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3892.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1171360,
+      "modifiedTime": "2025-12-11T17:24:24.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1jIWpcSi12FLZUtM1KtxbUqfW4zlm_JDe",
+      "name": "IMG_3893.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3893.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1245532,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1o2zswmCNd-VMK9yrojB5wcMNVG39WRB5",
+      "name": "IMG_3894.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3894.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1103943,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ulJerDFPCx-zyE1-aKSTRQC_eOecSHDd",
+      "name": "IMG_3895.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3895.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 115909088,
+      "modifiedTime": "2025-12-11T17:20:06.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1aZY1Imc4n4Qvyr2PDcq80B4M8N3TbfCW",
+      "name": "IMG_3896.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3896.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 59104375,
+      "modifiedTime": "2025-12-11T17:24:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Zq3UE33DHubQ222A3OIOjkI1n2vGGUve",
+      "name": "IMG_3897.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3897.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 19833662,
+      "modifiedTime": "2025-12-11T17:24:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "11a8W059eyVyCe4tkQbrNVy7aOSMw0kRY",
+      "name": "IMG_3898.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3898.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 102569937,
+      "modifiedTime": "2025-12-11T17:20:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1hFqrLe5sTJCZXQU6N_RmL90CG9vjjL1S",
+      "name": "IMG_3899.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3899.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 21807777,
+      "modifiedTime": "2025-12-11T17:20:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1QFGMyx8tu7MbKataqGVN2QjnD7DNI2zE",
+      "name": "IMG_3900.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3900.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 58562448,
+      "modifiedTime": "2025-12-11T17:23:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1znDpqNvuZdwhhCv_Vatt1KBftXwXKtp-",
+      "name": "IMG_3901.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3901.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 40556231,
+      "modifiedTime": "2025-12-11T17:19:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1w0qopL6enlFgoSzicUegSqVB8JnrmkyM",
+      "name": "IMG_3902.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3902.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 64274847,
+      "modifiedTime": "2025-12-11T17:19:56.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1EKuloH5ugeWzf56OsuKvqaT7m2k2193O",
+      "name": "IMG_3903.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3903.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 8702746,
+      "modifiedTime": "2025-12-11T17:19:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1md5JzxEPMp70lcMDE3smRQbD4tZC29ky",
+      "name": "IMG_3904.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3904.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 40209302,
+      "modifiedTime": "2025-12-11T17:19:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1OuPbpw8tJ41gHwswa__g40TovvejVN3P",
+      "name": "IMG_3905.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3905.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 27390883,
+      "modifiedTime": "2025-12-11T17:19:52.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1PZUdu-iIA_5DPAMX5EyiUKof3FWOQEQL",
+      "name": "IMG_3906.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3906.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 291890772,
+      "modifiedTime": "2025-12-11T17:19:38.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1V-Pr-Io_S7r7zobFhkQn5W8eARhx7r0w",
+      "name": "IMG_3907.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3907.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 33193171,
+      "modifiedTime": "2025-12-11T17:19:36.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1vx3ukfxll1R6BQT0fzYoq2OByEkB8Zsw",
+      "name": "IMG_3908.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3908.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 47708226,
+      "modifiedTime": "2025-12-11T17:19:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1nYU7XTycZAvhjxuK8OIU6pDyGUg2ca7M",
+      "name": "IMG_3909.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3909.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1325257,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1HA57FEc44DVeGSFjcAG4WMcWbrL5PYmt",
+      "name": "IMG_3909.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3909.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3962950,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1M-DSEi5t_UTojT2_UH_uVWiuGrG94Q76",
+      "name": "IMG_3910.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3910.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1680854,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1f79aKkTtLDniTSwOVUI91Mvym7Svqtq0",
+      "name": "IMG_3910.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3910.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4006974,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "14ke1eHN8Znf-GBsXmVycX-ALNqI3VrRg",
+      "name": "IMG_3911.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3911.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1982497,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1WpfuWeFkxG6U6rFLf_lYOpdiqxkyPUPQ",
+      "name": "IMG_3911.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3911.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 3615670,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1YtzLsFpnIDhaNwh3A1YkMsFIsLS2uIRZ",
+      "name": "IMG_3912.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3912.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 154161508,
+      "modifiedTime": "2025-12-11T17:19:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1IG-ggsPPvHuD3zavmkQMQkkJkYylWzvM",
+      "name": "IMG_3913.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3913.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 189174589,
+      "modifiedTime": "2025-12-11T17:19:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1qqX-edFK40qig48QVWjgDdBeLz-O3NRa",
+      "name": "IMG_3914.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3914.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 217389977,
+      "modifiedTime": "2025-12-11T17:19:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "13PWoVoveOhYwS7jzToAgkvXg3E9C84yM",
+      "name": "IMG_3915.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3915.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 101498387,
+      "modifiedTime": "2025-12-11T17:24:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "18RO2VSC4Pjlokxy7oX7a0NH6lWPjyh9i",
+      "name": "IMG_3916.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3916.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 148316362,
+      "modifiedTime": "2025-12-11T17:19:00.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ovOfEhfCZxWfZVQz2N983W_8mjConZJS",
+      "name": "IMG_3917.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3917.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 45687489,
+      "modifiedTime": "2025-12-11T17:18:58.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "15fG733HVTmCijW5gSlBXFqNKj0urVdzi",
+      "name": "IMG_3918.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3918.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 72169885,
+      "modifiedTime": "2025-12-11T17:18:54.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1EWbyvtvCG51eE5twulwjIai6TI5tnUNy",
+      "name": "IMG_3919.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3919.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 40356204,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1fNH-F1cz-rlrA1_EiUclBq9b4VuqMeoZ",
+      "name": "IMG_3920.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3920.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1537222,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1yY2YqowJ3noywgIHVlKGViqf2AAIC1HS",
+      "name": "IMG_3921.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3921.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1731912,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Uwyr8zwSTOXjqk0_L2NTVctKmikurUbq",
+      "name": "IMG_3922.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3922.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2715796,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1a0BMpekCiCMrz6kyesEYhs80MKwI2tqV",
+      "name": "IMG_3923.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3923.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2302140,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1bhB-1icjXSYFTPatjaAJiKTkXj0CSdV0",
+      "name": "IMG_3924.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3924.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2434443,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1C_X5psBPwvwWbCTES_FbEh6PucogAXZH",
+      "name": "IMG_3925.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3925.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2528987,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1wiEDqrGkDAbkGXe7ZGW8JCm6CdaM_0Pq",
+      "name": "IMG_3926.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3926.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1631072,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1lkQHdyww0m3jk3--TLem0AUxh4z30UVt",
+      "name": "IMG_3927.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3927.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2153981,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1P7pOqekF5OsknbapPohYfLQvauTFS2lx",
+      "name": "IMG_3928.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3928.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 4614471,
+      "modifiedTime": "2025-12-11T17:24:08.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1i7oqYEY40PFOQLDL-gQS_mdUTy23-N-c",
+      "name": "IMG_3929.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3929.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 93392113,
+      "modifiedTime": "2025-12-11T17:17:16.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1hiWgkFCDYEjAm0TdXJahvFAZu-ZdbyfR",
+      "name": "IMG_3930.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3930.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2391878,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1YfQwsRbSKyvtsNjvoFgaGvR3-mUrq-HR",
+      "name": "IMG_3931.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3931.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2425155,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "13rsRT3Wzx6NDb3PTKXqDwJ-OVnMrtaJz",
+      "name": "IMG_3932.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3932.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2387405,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1aaZ0zswrMKqwgQPTyrlYJWehXZwqLNaH",
+      "name": "IMG_3933.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3933.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 2236347,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1IeVXU_6a5QzT8gDANWHk6qjrbEHVsElT",
+      "name": "IMG_3934.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3934.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1453252,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1G88Yv5zxMeMMpSkO9iMWOgeNwlaB4WA8",
+      "name": "IMG_3935.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3935.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1215119,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1OZCSxgAH8l8WTkHtXTTlWPWb1F_FN67Y",
+      "name": "IMG_3936.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3936.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1242633,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1SuhmSkOw6vqW6aAPq4LdDBGrmdpTg5sa",
+      "name": "IMG_3937.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3937.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 858217,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1iQcOXIN4Z4o3mS3K6UC84CPmaueMIQsH",
+      "name": "IMG_3938.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3938.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1420465,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1l9gb626EqKJXv4mXGnDIIgmKiEYBkMcn",
+      "name": "IMG_3939.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3939.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 803086,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1u5aR5aeH6PoolWmTWQlvjtFQb4ZVAjKY",
+      "name": "IMG_3940.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3940.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1527382,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1XLvh6k2QtTJKVlvg1K3WmUZHePvgd2Qe",
+      "name": "IMG_3941.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3941.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1580119,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1UVGJOUeC7oDk2SYJBYPEtz_gPuBJxcpx",
+      "name": "IMG_3942.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3942.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1305546,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1REdLlQyrVbV2HObpA1KM0IWIMCm2M9IQ",
+      "name": "IMG_3943.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3943.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1472625,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1q8DpJgl8UpZutDis6f3hmHDPsMZpcEim",
+      "name": "IMG_3944.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3944.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1283777,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1xlVxtA-cu-nKvvGew6-FROzMGU0qRicc",
+      "name": "IMG_3945.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3945.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1300659,
+      "modifiedTime": "2025-12-11T17:23:32.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "15Yx8-he3h4eeyiYG_CfxXj7g5us4okC4",
+      "name": "IMG_3946.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3946.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1605658,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1xDNDECKwjV4NmREr6SvRMU1IHl8bwvbV",
+      "name": "IMG_3947.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3947.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1692282,
+      "modifiedTime": "2025-12-11T17:23:30.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1WywHcdXoL3tCsN5M-UZ_WeFi4ZNkH6G8",
+      "name": "IMG_3948.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3948.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 88469464,
+      "modifiedTime": "2025-12-11T17:18:50.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1uOO9TeLUhGufR_Ky2IoZgzXR8ZexNs4g",
+      "name": "IMG_3949.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3949.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 126159213,
+      "modifiedTime": "2025-12-11T17:18:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1F5nOyIh3cwQ39skG5MkD-b4ubLlREPi9",
+      "name": "IMG_3950.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3950.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1596145,
+      "modifiedTime": "2025-12-11T17:23:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1_H95tzhpGmj4ZG0QBAy7R1Sfdlb0pzXv",
+      "name": "IMG_3951.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3951.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1317144,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1QKD7swL80EqVUL41BsIlvim8lMAQu3ko",
+      "name": "IMG_3952.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3952.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1359849,
+      "modifiedTime": "2025-12-11T17:16:46.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ZoNdAIxkWgJZLsnU43VUhZMxr20fjirK",
+      "name": "IMG_3953.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3953.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1711751,
+      "modifiedTime": "2025-12-11T17:24:26.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1bJX0yzBA-MzzxSbXlZnPEOCi4p8I8CLi",
+      "name": "IMG_3954.HEIC",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3954.HEIC",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "image/heif",
+      "size": 1586697,
+      "modifiedTime": "2025-12-11T17:23:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ImB2ye8TL6fa2NWl5aw2_Ggde4au9pmB",
+      "name": "IMG_3955.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3955.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 21129824,
+      "modifiedTime": "2025-12-11T17:17:14.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1u2cnJBnq2SCBALeSYhJb1OhoLTrOBTZ0",
+      "name": "IMG_3956.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3956.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 66304630,
+      "modifiedTime": "2025-12-11T17:18:42.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1DbGR_9nfNBKQmW479E00EZF9W35GI5bc",
+      "name": "IMG_3957.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3957.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 1501507409,
+      "modifiedTime": "2025-12-11T17:17:34.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1wwnecr0nA2Rjrg521qVS48nE1KWJrZDi",
+      "name": "IMG_3958.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3958.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 545792665,
+      "modifiedTime": "2025-12-11T17:16:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1oTr64Pqx4QHsXul3lta4s1C3XmoMaU37",
+      "name": "IMG_3959.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3959.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 473235013,
+      "modifiedTime": "2025-12-11T17:23:48.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1EClFa8LtOYZ6w5d3VCBU8Ng4Z_U_xNH_",
+      "name": "IMG_3960.MOV",
+      "path": "VISITA AO TREINO DE JUDÔ_JUNQUEIRO_ROGÉRIO_21 de abril de 2025/Fotos do iCloud/IMG_3960.MOV",
+      "parentId": "18-G0s_EdTLQfeByjeEjqVXAQ2PBkKsfh",
+      "mimeType": "video/quicktime",
+      "size": 116250363,
+      "modifiedTime": "2025-12-11T17:17:28.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1qRIs4Cpg3yxTOXvBPUJkNeQFSC1u8eY0",
+      "name": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025",
+      "parentId": "1Q3WLDfVN-0kiDhuKILr8T4DIVRmsf9gR",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-17T12:09:18.392Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "name": "Fotos do iCloud",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud",
+      "parentId": "1qRIs4Cpg3yxTOXvBPUJkNeQFSC1u8eY0",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2025-12-17T12:09:19.247Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1o5HI8UeYKGPMO5zd6toermUXhGn50215",
+      "name": "IMG_3318.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3318.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 1933612,
+      "modifiedTime": "2025-12-14T19:50:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1LEzxgOypoOcfkBRjvCpgJzTHHi5tllfU",
+      "name": "IMG_3319.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3319.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2135278,
+      "modifiedTime": "2025-12-14T19:50:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1UVrn9VaOnEVUpvfJ3OsAl9Guh1Oaek_x",
+      "name": "IMG_3320.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3320.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2032077,
+      "modifiedTime": "2025-12-14T19:50:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1CYIU_WbxACeX71zWgPPFZ6yGJ5HlODRZ",
+      "name": "IMG_3321.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3321.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 1773357,
+      "modifiedTime": "2025-12-14T19:50:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "14azq_5OsFbUSjgVIxdzkartWmO6VoCY4",
+      "name": "IMG_3322.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3322.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 1857088,
+      "modifiedTime": "2025-12-14T19:50:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1bDVPx27uvgZ9wu7dQfQilenWsEzcwHKi",
+      "name": "IMG_3323.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3323.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2406886,
+      "modifiedTime": "2025-12-14T19:50:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1mXGUIrUok4WyG31_j6gYEi5x8AHeo9_6",
+      "name": "IMG_3324.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3324.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2378390,
+      "modifiedTime": "2025-12-14T19:50:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1nBnZ8tI0CvAM3722hLfrNhLEAKQyhMmx",
+      "name": "IMG_3325.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3325.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2330836,
+      "modifiedTime": "2025-12-14T19:50:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Kot_8G1R2bCxoQjx9BMRho7OWZsmsPxv",
+      "name": "IMG_3326.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3326.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2343804,
+      "modifiedTime": "2025-12-14T19:50:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Gav2fLuxe9S_6pNAQxxefDUDU27f8xfF",
+      "name": "IMG_3327.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3327.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2346130,
+      "modifiedTime": "2025-12-14T19:50:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "18qD4NahJaIzqJXQ5LeQQoKtgzF-4qBSH",
+      "name": "IMG_3328.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3328.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2359660,
+      "modifiedTime": "2025-12-14T19:50:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1p2oCicojSHRewHHhwKDMdWNOUzSPrqM_",
+      "name": "IMG_3329.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3329.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2375551,
+      "modifiedTime": "2025-12-14T19:50:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1jgavdYZCADkSSCfwqOFCoV2AkKvwT7a4",
+      "name": "IMG_3330.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3330.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2402159,
+      "modifiedTime": "2025-12-14T19:50:20.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1gIkYkwkTMopsGQq5O8FRTv-GysPpWiLx",
+      "name": "IMG_3331.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3331.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2388423,
+      "modifiedTime": "2025-12-14T19:50:18.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1A5IOwa6tdbA2q7-83OhmZAhs1-p1cg7z",
+      "name": "IMG_3332.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3332.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2391738,
+      "modifiedTime": "2025-12-14T19:50:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1Cc9U0T_5Pm4cDJbSTdejanRCWektZ0U0",
+      "name": "IMG_3333.HEIC",
+      "path": "VISITA ARTHUR ROCHA(filho rogério) A CAMARA_12 de setembro de 2025/Fotos do iCloud/IMG_3333.HEIC",
+      "parentId": "1vHW32B5khp0o6BclCb3SlrK_105SjnhJ",
+      "mimeType": "image/heif",
+      "size": 2378186,
+      "modifiedTime": "2025-12-14T19:50:22.000Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    }
+  ],
+  "truncated": false
+}
