@@ -35,7 +35,7 @@ fonte: [F2] memory/databases/aniversariantes/_grade-gestao-sms.md
 | Maio | 08/05 | Romerito Pereira | Diretor Adm. Unidade Mista |
 | Julho | 01/07 | Leonora | CAPS |
 | Julho | 05/07 | Arlete Regueira / Pacheco | Regulação / Gabinete |
-| Julho | 07/07 | Alissandra Lucena | EMULTI / Espaço Cuidar / Academias |
+| Julho | 04/07 | Alissandra Lucena | EMULTI / Espaço Cuidar / Academias |
 | Julho | 11/07 | Mariana Regueira | Cirurgias e Exames Externos |
 | Julho | 15/07 | Rejane | Coordenadora |
 | Julho | 22/07 | Alanderson | Fisioterapia / EMULTI |
