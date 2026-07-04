@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T11:01:28.103Z",
+  "updatedAt": "2026-07-04T13:00:44.045Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -186,6 +186,37 @@
         "log",
         "data",
         "gerado"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-02.md:1:45": {
+      "key": "memory:memory/sessions/sync/2026-07-02.md:1:45",
+      "path": "memory/sessions/sync/2026-07-02.md",
+      "startLine": 1,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "--- tipo: sync-log data: 2026-07-02 gerado-por: notion-to-calendar revisado: false status: FAILED motivo: google-token-expired --- # Sync Notion → Calendar — 2026-07-02 **Horário:** 13:00 **Duração:** 3s **Status:** ❌ FALHA — Token Google Calendar expirado/revogado ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 27 (todos por token inválido) - Total: 27 itens lidos do Notion ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 1 (token inválido) ## Itens do Editorial sincronizados *(Nenhum — todos falharam por autenticação)* ## ⚠️ Atenção — Token Expirado O token OAuth do Google Calendar (`/data/.openclaw/workspace/scripts/.secrets/google-calendar-toke",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6443250406712897,
+      "maxScore": 0.6443250406712897,
+      "firstRecalledAt": "2026-07-04T13:00:44.045Z",
+      "lastRecalledAt": "2026-07-04T13:00:44.045Z",
+      "queryHashes": [
+        "78e584916da5"
+      ],
+      "recallDays": [
+        "2026-07-04"
+      ],
+      "conceptTags": [
+        "sync-log",
+        "gerado-por",
+        "notion-to-calendar",
+        "google-token-expired",
+        "expirado/revogado",
+        "openclaw/workspace/scripts",
+        "secrets/google-calendar-toke",
+        "tipo"
       ]
     }
   }
