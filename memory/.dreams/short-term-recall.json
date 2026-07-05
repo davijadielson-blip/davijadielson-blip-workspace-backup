@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T19:25:15.332Z",
+  "updatedAt": "2026-07-05T11:00:47.194Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -234,22 +234,24 @@
       "endLine": 68,
       "source": "memory",
       "snippet": "5. 2026-07-31 — Bastidores / Prestação de Contas — fechamento Julho Amarelo 6. 2026-07-30 — Assistência Social / CAPS / Melhor em Casa 7. 2026-07-29 — PNI / Vigilância Sanitária / Endemias — prevenção 8. 2026-07-28 — Laboratório / Hepatites Virais — Dia Mundial Prevenção 9. 2026-07-27 — PSF / ACS / Academia — véspera Hepatites 10. 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo 11. 2026-07-23 — Maternidade / Gestantes / Rede de Apoio 12. 2026-07-22 — Vigilância Sanitária / Endemias / PNI 13. 2026-07-21 — Laboratório / CEO / Saúde Bucal 14. 2026-07-20 — PSFs Rurais e Indígenas / ACS 15. 2026-07-17 — Unidade Mista / SAMU / Referências 16. 2026-07-16 — EMULTI / Melhor em Casa 17. 2026-07-15 —",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.8687212795019148,
+      "totalScore": 2.221787270903587,
       "maxScore": 0.430519700050354,
       "firstRecalledAt": "2026-07-04T14:00:47.862Z",
-      "lastRecalledAt": "2026-07-04T19:25:15.332Z",
+      "lastRecalledAt": "2026-07-05T11:00:47.194Z",
       "queryHashes": [
         "e063b6cf4cda",
         "af208cc0c6dc",
         "b2895dd1b2fe",
         "6d430c254356",
-        "8f52d7b81641"
+        "8f52d7b81641",
+        "fa1c8060f8b4"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-05"
       ],
       "conceptTags": [
         "bastidores",
