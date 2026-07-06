@@ -55,3 +55,37 @@ Confirmado por Jadielson que as despesas da mãe ficam separadas da base princip
 - Se houver variação real em luz, água ou mercado, registrar a diferença no mês.
 - Não incluir automaticamente despesas de cartão, combustível, moto, BS2 ou despesas da mãe.
 - Manter parede d'água entre pessoal, mãe e empresa.
+
+## Atualização — 2026-07-06 16:01 UTC
+
+Jadielson decidiu retirar os planos de telefone da base delegada à esposa. A tarefa mensal deve cobrir apenas o essencial da casa/família. Itens pessoais e empresariais ficam sob responsabilidade direta de Jadielson.
+
+A internet foi atualizada de R$ 126,00 para:
+- R$ 119,90 no pagamento normal;
+- R$ 108,00 se paga em espécie no escritório.
+
+### Nova base essencial da casa
+
+| Conta | Valor referência |
+|---|---:|
+| Financiamento casa | R$ 550,00 |
+| Luz | R$ 150,00 |
+| Água | R$ 72,80 |
+| Plano funeral | R$ 51,90 |
+| Mercado/alimentação | R$ 1.000,00 |
+| Prestação carro | R$ 995,13 |
+| Escola Eloáh | R$ 380,00 |
+| Seguro carro | R$ 95,00 |
+| Seguro moto | R$ 50,00 |
+| Internet | R$ 119,90 normal / R$ 108,00 em espécie |
+| Água mineral | R$ 36,00 |
+
+Subtotal normal estimado: R$ 3.500,73/mês.
+Subtotal com internet em espécie: R$ 3.488,83/mês.
+
+### Fora da base delegada
+
+- Plano TIM pessoal.
+- Plano Claro pessoal.
+- Qualquer despesa empresarial.
+- Itens pessoais de Jadielson.
