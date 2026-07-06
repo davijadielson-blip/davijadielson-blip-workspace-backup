@@ -76,3 +76,79 @@ Confirmação de Jadielson: qualquer assinatura lançada no cartão deve ficar f
 - Combustível: variável, controle separado.
 - Itens voláteis da Eloáh: controle separado pela esposa.
 - Telefone e água mineral: só incluir se Jadielson decidir repassar junto; por ora ficam fora da base limpa.
+
+## Ajuste — incluir água mineral e planos TIM/Claro
+
+Confirmação de Jadielson: incluir na base de repasse a água mineral e os planos TIM/Claro.
+
+### Base limpa atualizada para repasse mensal
+
+| Conta | Valor referência | Observação |
+|---|---:|---|
+| Financiamento casa | R$ 550,00 | fixo |
+| Luz | R$ 150,00 | vem no WhatsApp |
+| Água | R$ 72,80 | vem no WhatsApp |
+| Plano funeral | R$ 51,90 | fixo |
+| Mercado/alimentação | R$ 1.000,00 | teto inicial |
+| Prestação carro | R$ 995,13 | carnê/boleto |
+| Escola Eloáh | R$ 380,00 | fixo |
+| Seguro carro | R$ 95,00 | carnê mensal |
+| Seguro moto | R$ 50,00 | carnê mensal |
+| Internet | R$ 126,00 | carnê mensal |
+| Água mineral | R$ 36,00 | incluída no repasse |
+| Plano TIM | R$ 46,99 | incluído no repasse |
+| Plano Claro | R$ 69,90 | incluído no repasse |
+
+**Total base limpa atualizada para repasse:** R$ 3.623,72/mês.
+
+### Permanecem fora do repasse base
+
+- Prestação da moto: esposa paga diretamente.
+- Assinaturas no cartão, incluindo iCloud: fora do repasse; entram no controle do cartão.
+- Cartão pessoal: fora do repasse automático.
+- Combustível: variável, controle separado.
+- Itens voláteis da Eloáh: controle separado pela esposa.
+
+## Revisão — checagem de possíveis fixos/essenciais esquecidos
+
+Pergunta de Jadielson: confirmar se a base limpa de repasse não está esquecendo nenhum fixo/essencial.
+
+Checklist contra registros anteriores:
+
+- Casa: incluída.
+- Luz: incluída.
+- Água: incluída.
+- Plano funeral: incluído.
+- Mercado/alimentação: incluído com teto de R$ 1.000,00.
+- Escola Eloáh: incluída.
+- Prestação carro: incluída.
+- Prestação moto: fora, pois esposa paga diretamente.
+- Seguro carro e seguro moto: incluídos.
+- Internet: incluída.
+- Água mineral: incluída.
+- Planos TIM/Claro: incluídos conforme novos valores R$ 46,99 e R$ 69,90.
+- iCloud/assinaturas no cartão: fora do repasse, por decisão de Jadielson.
+- Combustível: fora da base; variável/controle separado.
+- Itens voláteis da Eloáh: fora da base; controle separado pela esposa.
+- Cartão pessoal: fora da base.
+- Consignados: fora; já descontados em folha.
+- BS2: fora; quitação separada.
+
+Possíveis pendências para confirmar, mas não incluir automaticamente na base limpa:
+
+- Academia: apareceu como R$ 85,00 em aberto em captura anterior; confirmar se ainda existe e se é essencial.
+- Parcelamentos de farmácia/suplementos: existem registros, mas saldo restante não está fechado; tratar como cartão/passivo separado, não como fixo da casa.
+- Despesas da mãe: havia registro antigo de TV R$ 50,00 temporário e TIM R$ 38,99; confirmar se isso foi substituído pelos planos TIM/Claro atuais ou se ainda existe algo separado.
+
+## Ajuste — planos pessoais x despesas da mãe
+
+Confirmação de Jadielson:
+
+- Os planos TIM R$ 46,99 e Claro R$ 69,90 informados anteriormente são planos pessoais dele e permanecem na base limpa de repasse.
+- As despesas da mãe são separadas da base principal.
+- Despesas da mãe a controlar em bloco próprio:
+  - Plano de telefone TIM dela: valor a confirmar.
+  - Claro empresa: valor a confirmar e separar conforme natureza/empresa.
+  - Energia: valor a confirmar.
+
+Regra: não misturar despesas da mãe nem Claro empresa na base limpa pessoal/esposa sem confirmação explícita de valor e responsabilidade de pagamento.
