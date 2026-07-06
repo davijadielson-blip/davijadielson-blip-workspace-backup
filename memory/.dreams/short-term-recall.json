@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T11:00:47.194Z",
+  "updatedAt": "2026-07-06T06:27:06.550Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -676,6 +676,99 @@
         "visita",
         "prevenção",
         "iniciar"
+      ]
+    },
+    "memory:memory/2026-06-05.md:1:26": {
+      "key": "memory:memory/2026-06-05.md:1:26",
+      "path": "memory/2026-06-05.md",
+      "startLine": 1,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "# 2026-06-05 - Primeira interação do agente My Finance. - Usuário batizou o agente de **Warren**. - Identidade inicial definida: agente de finanças pessoais, cuidadoso, conservador, prático e direto; emoji 🧾. - Usuário pediu análise do vault, especialmente conteúdos de FINANÇAS pessoais. - Vault localizado em `/data/.openclaw/workspace/vaults/segundo-cerebro-jadielson`. ## Análise inicial do vault financeiro - Análise focou em `[F1] 4-Pessoal/Financas/` e projetos pessoais de planejamento financeiro, quitação de dívidas e multiplicação de renda. - Relatório criado em `AUDITORIA_VAULT_FINANCAS_2026-06-05.md`. - Diagnóstico inicial: estrutura existe, mas dados estão incompletos/inconsisten",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.42697426676750183,
+      "maxScore": 0.42697426676750183,
+      "firstRecalledAt": "2026-07-06T06:27:06.550Z",
+      "lastRecalledAt": "2026-07-06T06:27:06.550Z",
+      "queryHashes": [
+        "14c36c700446"
+      ],
+      "recallDays": [
+        "2026-07-06"
+      ],
+      "conceptTags": [
+        "4-pessoal/financas",
+        "incompletos/inconsisten",
+        "primeira",
+        "interação",
+        "agente",
+        "finance",
+        "usuário",
+        "batizou"
+      ]
+    },
+    "memory:memory/2026-06-05.md:21:50": {
+      "key": "memory:memory/2026-06-05.md:21:50",
+      "path": "memory/2026-06-05.md",
+      "startLine": 21,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "- Receita pessoal segura para orçamento: R$ 3.820,00/mês. - Carro: parcela R$ 995,13, vencimento dia 13, faltam cerca de 36 meses. - Moto: parcela R$ 683,00, vencimento dia 15, faltam cerca de 40 meses. - Casa está em dia. - Mercado/alimentação: média R$ 1.500,00. - Escola Eloáh: R$ 380,00; itens básicos/fraldas ficam em média R$ 200–300. - Cartão pessoal: aproximadamente R$ 500,00 no mês; usuário informou que cartões estão mais controlados e reservados para assinaturas básicas. - BS2 segue pendente de quitação. - Pedro Fiuza e Marinilda: arquivar por enquanto. ## Organização do vault financeiro — Warren - Usuário autorizou reorganizar somente a área de FINANÇAS do vault. - Backup completo",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.41225507557392116,
+      "maxScore": 0.41225507557392116,
+      "firstRecalledAt": "2026-07-06T06:27:06.550Z",
+      "lastRecalledAt": "2026-07-06T06:27:06.550Z",
+      "queryHashes": [
+        "14c36c700446"
+      ],
+      "recallDays": [
+        "2026-07-06"
+      ],
+      "conceptTags": [
+        "backup",
+        "3.820",
+        "00/mês",
+        "mercado/alimentação",
+        "1.500",
+        "básicos/fraldas",
+        "receita",
+        "pessoal"
+      ]
+    },
+    "memory:memory/2026-06-05.md:44:61": {
+      "key": "memory:memory/2026-06-05.md:44:61",
+      "path": "memory/2026-06-05.md",
+      "startLine": 44,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "- `07-Referencias/REFERENCIAS_E_NOTAS_ANTIGAS.md` - `99-Arquivo/originais-reorganizados-2026-06-05/` - Arquivos antigos/repetidos foram preservados no arquivo; nada foi apagado. - Relatório para coordenação criado em `05-Planos/RELATORIO_PARA_COORDENACAO_ALFRED_ARCA_2026-06-05.md`. ## Diagnóstico operacional atual - O orçamento pessoal está pressionado; calendário de 30 dias estima déficit aproximado de R$ 2.196,14 antes de assinaturas não confirmadas e imprevistos. - Prioridade definida: sobrevivência financeira de 30 dias, sem misturar empresa e pessoal, sem aumentar cartão e sem acordo novo do BS2 antes de conferir caixa. - Usuário pagará contas mais tarde e depois enviará valores r",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.40202470123767853,
+      "maxScore": 0.40202470123767853,
+      "firstRecalledAt": "2026-07-06T06:27:06.550Z",
+      "lastRecalledAt": "2026-07-06T06:27:06.550Z",
+      "queryHashes": [
+        "14c36c700446"
+      ],
+      "recallDays": [
+        "2026-07-06"
+      ],
+      "conceptTags": [
+        "antigos/repetidos",
+        "2.196",
+        "referencias",
+        "referencias-e-notas-antigas.md",
+        "arquivo",
+        "originais",
+        "reorganizados",
+        "arquivos"
       ]
     }
   }
