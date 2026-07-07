@@ -99,3 +99,18 @@ Arquivo enviado ao Drive pessoal:
 - Link: `https://drive.google.com/file/d/18G1v-s2fNjBNY3zBYWq5NHHXhCHLyxJs/view?usp=drivesdk`
 
 Observação de controle: não tratar como quitação confirmada da parcela corrente até Jadielson validar com a escola.
+
+### 5 comprovantes adicionais pagos — upload concluído — 2026-07-07 17:35 UTC
+
+Jadielson enviou 5 imagens e pediu para acrescentar aos comprovantes pagos. Upload confirmado no Drive pessoal em `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`.
+
+| Arquivo | Valor | Status | Drive ID |
+|---|---:|---|---|
+| 2026-07-07__MERCADO__pagamento-mercado-geni-genilson-alfredo__R-32-00__PAGO.jpg | R$ 32,00 | PAGO | 1TC8Vbu_g6TeoFd0njoalVTrJ-8-YEOmT |
+| 2026-07-06__OUTROS__quiteria-de-almeida-santos-ltda__R-126-10__PAGO-VERIFICAR.jpg | R$ 126,10 | PAGO-VERIFICAR classificação | 1gnD6Q10D0TbrA6UqHMP1Q_9cjMoQOgvY |
+| 2026-07-07__VEICULO__associacao-protecao-veicular-ceara-01__R-95-00__PAGO.jpg | R$ 95,00 | PAGO | 1YHBu_4bt0-GtzQWbyaI6xp-6cIn-UQpY |
+| 2026-07-07__CASA__plano-funerario-cristo-rei__R-51-50__PAGO.jpg | R$ 51,50 | PAGO | 1-YSYLk92MyY6gJ4Nno-waJfdFn3y6LsR |
+| 2026-07-07__VEICULO__associacao-protecao-veicular-ceara-02__R-50-00__PAGO.jpg | R$ 50,00 | PAGO | 1uIJ9bGY14OO498SR4VYIcouDX3YcBbkM |
+
+Total adicional: R$ 354,60.
+Observação: os dois de proteção veicular foram mantidos como lançamentos separados porque têm valores diferentes, embora a descrição seja parecida.

@@ -61,3 +61,7 @@ Itens criados via integração direta do Notion:
 
 Resultado técnico salvo em:
 - `F2-memory/outputs/saude-sao-sebastiao/notion/2026-07-07-notion-calendario-v2-visible-fix-result.json`
+
+## 2026-07-07 — Ajuste da pauta do dia em campo
+
+Jadielson informou mudanças na pauta de hoje: no laboratório só conseguiu imagens de bastidores; à tarde o laboratório está em trabalho interno para melhor qualidade e agilidade na entrega; acrescentar atendimento de ultrassonografia; não há oftalmologista hoje, apenas amanhã; tentará fazer fotos dos dentistas. Pauta ajustada salva em `F2-memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-07-pauta-ajustada-laboratorio-ultrassom-saude-bucal.md`.
