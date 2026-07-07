@@ -111,3 +111,25 @@ Ou:
 - 1 vídeo principal em formato vertical 9:16 para Reels/Instagram/WhatsApp.
 - Se possível, entregar também uma versão sem legenda queimada e outra com legenda/subtitle nas falas.
 - Atenção ao áudio das falas: vereador e prefeito precisam estar claros, mesmo que sejam trechos curtos.
+
+---
+
+## Retorno do solicitante
+
+**Data:** 2026-07-07  
+**Canal:** Telegram — Grupo LÓGIKA / tópico Rogério Rocha (`topic_id: 5878`)  
+**Retorno de Jadielson:** "esse deu certo. salve tudo."
+
+### Aprendizado operacional
+Este formato de briefing funcionou para delegação a editor externo/colega editor.
+
+Elementos que devem ser preservados em briefings semelhantes:
+- objetivo principal explícito antes da estrutura técnica;
+- separação clara entre enaltecer o evento e posicionar o protagonista político;
+- indicação objetiva de duração, ordem narrativa e prioridades de imagem;
+- orientação sobre equilíbrio de protagonismo entre vereador e prefeito;
+- checklist de cenas prioritárias: fala do vereador, fala do prefeito, povo, estrutura, segurança e fechamento com o vereador;
+- copy/legenda sugerida para facilitar publicação.
+
+### Status
+✅ Briefing aprovado na prática por Jadielson para conduzir edição de vídeo político/evento tradicional.
