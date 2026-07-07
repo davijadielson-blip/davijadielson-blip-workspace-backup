@@ -66,3 +66,39 @@ Linha sugerida: mostrar que a rede segue em movimento em diferentes frentes — 
 3. Bastidores, exames e atendimento: a saúde funcionando em diferentes frentes.
 4. Da organização interna ao atendimento especializado, a rede segue cuidando.
 5. Saúde em movimento: diagnóstico, bastidores e cuidado com a população.
+
+## Headlines refinadas — Laboratório com cuidado e tecnologia
+
+1. Laboratório Municipal: tecnologia, cuidado e precisão a serviço da saúde da população.
+2. Cada exame começa com cuidado: bastidores de um laboratório preparado para servir melhor.
+3. Mais tecnologia, mais organização e mais segurança no cuidado com a saúde.
+4. Por trás de cada resultado, existe uma equipe, processos e tecnologia trabalhando pela população.
+5. O cuidado também acontece nos bastidores: laboratório equipado, equipe atenta e compromisso com a qualidade.
+6. Laboratório em evolução: estrutura, tecnologia e trabalho interno para entregar mais agilidade e confiança.
+7. Cuidar da saúde também é investir em diagnóstico com qualidade.
+8. Um laboratório organizado fortalece toda a rede de atendimento.
+9. Tecnologia e responsabilidade para apoiar diagnósticos e decisões mais seguras.
+10. Bastidores que fazem diferença: qualidade no laboratório é mais segurança para quem precisa de cuidado.
+11. Antes do atendimento avançar, o diagnóstico precisa de cuidado, técnica e confiança.
+12. Laboratório Municipal: onde tecnologia e compromisso ajudam a cuidar melhor da nossa gente.
+
+## Ajuste — CEO / Saúde Bucal
+
+Jadielson orientou que, para o CEO, a pauta deve mostrar apenas o atendimento, sem aprofundar bastidores, especialidades ou promessas de serviço.
+
+### Linha editorial CEO
+
+- Mostrar o atendimento acontecendo.
+- Valorizar o cuidado odontológico especializado.
+- Linguagem simples, institucional e direta.
+- Evitar detalhar procedimentos específicos se não houver confirmação.
+- Não expor pacientes, prontuários, imagens sensíveis ou procedimentos invasivos.
+
+### Headlines CEO — atendimento
+
+1. Atendimento no CEO: cuidado odontológico especializado para a população.
+2. Saúde bucal em atendimento: mais cuidado dentro da rede municipal.
+3. CEO em funcionamento: atendimento e cuidado para quem precisa.
+4. Cuidado odontológico especializado também faz parte da saúde integral.
+5. Atendimento no CEO fortalece o cuidado com a saúde bucal da população.
+6. Mais uma frente de cuidado em movimento na rede municipal de saúde.
