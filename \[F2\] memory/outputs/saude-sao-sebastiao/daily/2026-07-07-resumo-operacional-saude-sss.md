@@ -28,3 +28,36 @@ Diretriz operacional a incorporar nos próximos calendários:
 ## 2026-07-07 — Decisão: calendário existente precisa ser atualizado
 
 Jadielson perguntou se o calendário já criado precisa ser atualizado. Avaliação: sim, precisa de atualização/refinamento, não necessariamente refazer do zero. Ajuste necessário: transformar o calendário em ciclo editorial completo com macrofrente por dia, rotação explícita de setores/serviços, tema do mês embutido e coluna de controle para evitar repetição/omissão. Também deve incluir explicitamente setores antes pouco visíveis: urgência/24h, farmácia, laboratório, gestão/administrativo, RH, CPD/sistemas, controle e avaliação, procuradoria, almoxarifado, cirurgias/exames externos e conselho/participação social.
+
+## 2026-07-07 — Atualização executada: Calendário Cíclico v2
+
+Após autorização de Jadielson, foi criada a versão atualizada do calendário editorial cíclico da Saúde SSS.
+
+Arquivos criados/atualizados:
+- `F2-memory/outputs/saude-sao-sebastiao/sistema-producao/grade-matriz/2026-calendario-editorial-ciclico-saude-v2.md`
+- `F2-memory/outputs/saude-sao-sebastiao/sistema-producao/templates/template-calendario-mensal-ciclico-v2.md`
+
+Conteúdo incorporado:
+- macrofrentes fixas por dia;
+- rotação interna por setor/serviço;
+- tema do mês embutido como camada narrativa;
+- controle de cobertura mensal;
+- inclusão explícita de setores/serviços antes menos visíveis: SAMU, Unidade Mista, Maternidade, Farmácia, Laboratório, RH, CPD, Controle e Avaliação, Procuradoria, Almoxarifado, Gestão, Conselho/Participação Social, exames/cirurgias externas;
+- checklist de fechamento do mês para evitar repetição ou omissão.
+
+## 2026-07-07 — Correção concluída: atualização visível no Notion
+
+Após Jadielson informar que não percebeu mudança no Notion, foi feita correção no local operacional visível.
+
+Itens criados via integração direta do Notion:
+
+1. Database `Calendário de conteúdo`
+   - Página: `[PANORAMA] Calendário Editorial Cíclico — Saúde SSS v2`
+   - URL: https://app.notion.com/p/PANORAMA-Calend-rio-Editorial-C-clico-Sa-de-SSS-v2-396207e6f14581f695b5eb7b436347e8
+
+2. Database `Produção & Agenda — LÓGIKA`
+   - Página: `[SAÚDE] Atualizar panorama — Calendário Editorial Cíclico v2`
+   - URL: https://app.notion.com/p/SA-DE-Atualizar-panorama-Calend-rio-Editorial-C-clico-v2-396207e6f1458169a494ddfb7bba285b
+
+Resultado técnico salvo em:
+- `F2-memory/outputs/saude-sao-sebastiao/notion/2026-07-07-notion-calendario-v2-visible-fix-result.json`

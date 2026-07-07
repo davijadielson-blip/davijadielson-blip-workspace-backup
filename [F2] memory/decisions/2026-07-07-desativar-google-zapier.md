@@ -55,5 +55,5 @@ Esta regra foi inserida na seção **Safety** do `AGENTS.md` e vale para todos o
 
 ## Próximos passos
 
-- [ ] Verificar se YouTube via Zapier continua funcionando sem conflito
-- [ ] Confirmar que Facebook/Instagram no Zapier 1 estão OK
+- [x] Verificar se YouTube via Zapier continua funcionando sem conflito ✅
+- [x] Confirmar que Facebook/Instagram no Zapier 1 estão OK ✅

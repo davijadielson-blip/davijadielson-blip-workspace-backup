@@ -1,0 +1,1893 @@
+{
+  "results": [
+    {
+      "id": "1mXTHn73gmpz3Yf5eKYqEkkwP7D6pSrt2",
+      "path": "03_LOGIKA_NEGOCIO",
+      "name": "03_LOGIKA_NEGOCIO",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1p2ibCUenge-zMD5nYkvCRv-ex7Dz_JbS",
+      "path": "PERFIL DA EMPRESA LÓGIKA CREATIVE",
+      "name": "PERFIL DA EMPRESA LÓGIKA CREATIVE",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1ytWOD3DwDTB4-M4I3hCUc8byDRAM5Zuo",
+      "path": "PROPOSTAS",
+      "name": "PROPOSTAS",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1V7YVDLFOgsCqDZNKbD9rtF2LSSdmD3zr",
+      "path": "CURSOS_EBOOKS/EMPRESA 1P",
+      "name": "EMPRESA 1P",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1TGIyKuALQMCCFCegmXZJdjqaj1YrvrrD",
+      "path": "CURSOS_EBOOKS/EMPRESA 1P/CRMaster_Gestão Automatizada de Clientes",
+      "name": "CRMaster_Gestão Automatizada de Clientes",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1QrcBM6v4XF8vYjMUO4hKs5CAl8taS1uh",
+      "path": "CURSOS_EBOOKS/EMPRESA 1P/CRMaster_Gestão Automatizada de Clientes/AULA+FORMS.pdf",
+      "name": "AULA+FORMS.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "12Gvlto0MKft5pfZW5LB9oSKpQXCPKl6Y",
+      "path": "CURSOS_EBOOKS/EMPRESA 1P/CRMaster_Gestão Automatizada de Clientes/CRMaster+[DOWNLOAD].pdf",
+      "name": "CRMaster+[DOWNLOAD].pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1FgRP9V_h0QaU9sqF6oQkGS3Ejr23y0cs",
+      "path": "CURSOS_EBOOKS/VENDE-C/IdentificandoPerfildeClienteIdealICP.pdf",
+      "name": "IdentificandoPerfildeClienteIdealICP.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1kAz5gNYWNEq7qEHfZeVNnRlZy1rkIrrm",
+      "path": "CURSOS_EBOOKS/VIDEO AULAS/⭐️ Me Ensina AE! Curso de After Effects - Brainstorm Academy/Módulo 10 - PROJETO 01 ELEMENTOS DE VÍDEO PARA O YOUTUBE/01 - Briefing de criação do projeto.MP4",
+      "name": "01 - Briefing de criação do projeto.MP4",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1hKo_WiRvK2Nb2JipvoCazm97JE-tnZaJ",
+      "path": "CURSOS_EBOOKS/VIDEO AULAS/⭐️ Me Ensina AE! Curso de After Effects - Brainstorm Academy/Módulo 13 - AULA ESPECIAL + PROJETO 02 TIPOGRAFIA PARA LYRIC VIDEOS/03 - AULA ESPECIAL- Banda ZAMBAZIM - Maria Joana LYRIC VIDEO + BRIEFING.MP4",
+      "name": "03 - AULA ESPECIAL- Banda ZAMBAZIM - Maria Joana LYRIC VIDEO + BRIEFING.MP4",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1iaLKYRs3Vk9mJOBm-e45F_uEfsfAYWbL",
+      "path": "CURSOS_EBOOKS/VIDEO AULAS/⭐️ Me Ensina AE! Curso de After Effects - Brainstorm Academy/Módulo 13 - AULA ESPECIAL + PROJETO 02 TIPOGRAFIA PARA LYRIC VIDEOS/03.1 - AULA ESPECIAL- Banda ZAMBAZIM - Maria Joana LYRIC VIDEO + BRIEFING_2.MP4",
+      "name": "03.1 - AULA ESPECIAL- Banda ZAMBAZIM - Maria Joana LYRIC VIDEO + BRIEFING_2.MP4",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1YYh8M6RUKbJIimy0514UTLQOKxh_XtVT",
+      "path": "JADIELSON/PESSOAIS - JADIELSON/MENTORIA INGRID/CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE MENTORIA - Jahdielson.pdf",
+      "name": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE MENTORIA - Jahdielson.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "16Tpbhn-YPHVutb_7uDOz9_yxQc-2RD0d",
+      "path": "CURSOS/AGENCIA DE ELITE/[Modelo] Briefing Agência.docx",
+      "name": "[Modelo] Briefing Agência.docx",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1KZDluKlecZcxAzB7tCtCg-xh1mPaQsbD",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-001.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-001.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1gWkGlR8VPy1VjxmZNKRBagWSo_MT31uG",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-002.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-002.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1SAb0KMo3qiS1LML9MjtKzhxZin78zs6i",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-003.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-003.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1-zF41JvC5JZXq_GL6HZM7Hhzd8c5DChR",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-004.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-004.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1_7JJ8kpQKSd8toADGjHZqgv4j0sKzkq4",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-005.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-005.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1jKb2teKuK0lJFRPC345602g-dSpwxGuE",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-006.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-006.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1wtvpgtByya8KvXncjmoSyTv3_vhMeTjg",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-007.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-007.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1vEydMbKu_DnhdYACAzy2XtS-6h0P37G-",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-008.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-008.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1omqoPm_zSBeK3rCIed4PuPhKZ018aLmc",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-009.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-009.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1MxLLSgoRVOK2Fmwenagr7s8pEqWSXWs7",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-010.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-010.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1Iq91eK9SP8beUDt6aOi1Cla8CEJ-Rw9d",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-011.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-011.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1QxO_HLOFBLtxA0vuJpjveHzuVx9yumUE",
+      "path": "CURSOS/ASIMOV/._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-012.zip",
+      "name": "._07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-012.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1I8ZlxnF5GObIX0utoKEyG_hcSQ_b15BF",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-001.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-001.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1fksGNJVAJsKeKlR6dNp2zMCEm-henJEq",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-002.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-002.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1wflH2C7NudLWKN_88E51Qpbl4wF1rg8n",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-003.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-003.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1ObzAa8M6R-Oy9T5Cdrpe4BLPbHveJG4M",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-004.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-004.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1R8owTY_lbTwMocptu4vDaBYDqRxQgbJP",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-005.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-005.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1Y9r_Q-G-dhYLLFk48llRXHHTt4NRI05W",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-006.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-006.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1v_VUe55JqQD4c_fCn-83Sb8XAkWmBVav",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-007.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-007.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1LFzdLauL9vZcNK-otF9BlDI5ZvqOJG1Q",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-008.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-008.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1cxGe1DvdVsZW2oUezbhw71bUK_o7P_DP",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-009.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-009.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1zKpBQUjhixX9tH7LpABRw9McW8zfLGSR",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-010.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-010.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1rmq5Jeg8-KVxrMvV9j0P5Qd9WpdXHCH0",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-011.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-011.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1M4mPZW7OYUcAmtdQbGsLqVysrzXHuOMg",
+      "path": "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-012.zip",
+      "name": "07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-012.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "17slfVN399Xkh3XMNj7jVTj3rbkXrAwQs",
+      "path": "Cópia de Raio x da empresa.xlsx",
+      "name": "Cópia de Raio x da empresa.xlsx",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1EctKFJqehDmOIFnp9h3zLSKWez-QuFvObnMoLJpDHfc",
+      "path": "PLANILHA DE CÁLCULO VALOR DA HORA DE TRABALHO - LÓGIKA",
+      "name": " PLANILHA DE CÁLCULO VALOR DA HORA DE TRABALHO - LÓGIKA",
+      "permissionCount": 2,
+      "permissions": [
+        {
+          "id": "anyoneWithLink",
+          "role": "reader",
+          "type": "anyone"
+        },
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "18EZLKQ8gPWlQq1xmt0diUWCfGUoZ3niMX8LFFW3Rqco",
+      "path": "Rapidinho: Me Conta do Seu Negócio! (respostas)",
+      "name": "Rapidinho: Me Conta do Seu Negócio! (respostas)",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1pg2wFusjqwFfA4vbY_BDKrykLPxXj_1xO7gCqbu_rvY",
+      "path": "BRIEFING PARA IDENTIDADE VISUAL",
+      "name": "BRIEFING PARA IDENTIDADE VISUAL",
+      "permissionCount": 2,
+      "permissions": [
+        {
+          "emailAddress": "logikacreative.mkt@gmail.com",
+          "id": "05060999074523970329",
+          "role": "writer",
+          "type": "user"
+        },
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1jtbeCfg5Y5kdvjDvpahEzAu0xp0FvINH25mz9Uv2ta4",
+      "path": "Diagnóstico Estratégico - Lógika Creative",
+      "name": "Diagnóstico Estratégico - Lógika Creative",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1ZhXl_PlzmBcuxkeJp_r1AA5sgN_ni9ga5R3uPV-VCmk",
+      "path": "Rapidinho: Me Conta do Seu Negócio!",
+      "name": "Rapidinho: Me Conta do Seu Negócio!",
+      "permissionCount": 3,
+      "permissions": [
+        {
+          "id": "anyoneWithLink",
+          "role": "writer",
+          "type": "anyone"
+        },
+        {
+          "emailAddress": "logikacreative.mkt@gmail.com",
+          "id": "05060999074523970329",
+          "role": "writer",
+          "type": "user"
+        },
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1ePSR9x_zBQr2MTFCgsnsUS92VKx_0NwQ",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001",
+      "name": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1gtv_-IMu2mVxPChnM5s8Uvg7DpARAiMc",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/APRESENTAÇÃO IDENTIDADE VISUAL - LÓGIKA CREATIVE.pdf",
+      "name": "APRESENTAÇÃO IDENTIDADE VISUAL - LÓGIKA CREATIVE.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1ToV6IgL9YOg7B-9cz__ndfrFHHAeVQrR",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/BOTTOM",
+      "name": "BOTTOM",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1UnVmhXHTGr_VlZlKAlcC0bI5YlcpsXOQ",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/BOTTOM/BOTTOM - IMAGEM.png",
+      "name": "BOTTOM - IMAGEM.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1liSvhOI1mhGPTC1RrPPDI-NplKoKt7OE",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/BOTTOM/BOTTOM - IMPRESSÃO.pdf",
+      "name": "BOTTOM - IMPRESSÃO.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1mcsGwN-uHSDBOm4n6X3nnIAtJAwSD6pF",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CANECA",
+      "name": "CANECA",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1JTMXU_soCmCbeD56RRNlhMagmpMlchKD",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CANECA/CANECA - IMAGEM.png",
+      "name": "CANECA - IMAGEM.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1utSthehbRzxhvko2HFByegxBx01zJix0",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CANECA/CANECA - IMPRESSÃO.pdf",
+      "name": "CANECA - IMPRESSÃO.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1dh8u2M1e2wawWkmzlA5qVlguyKtS7KDM",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CARTÃO DE VISITA",
+      "name": "CARTÃO DE VISITA",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1IKL4cn37HIsdUt99dMzeY9i6BGBX80FT",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CARTÃO DE VISITA/CARTÃO DE VISITA LOGIKA - FRENTE.pdf",
+      "name": "CARTÃO DE VISITA LOGIKA - FRENTE.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1JbDsxoMzxMNabrrCn6GEfZHbOMocz9ls",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CARTÃO DE VISITA/CARTÃO DE VISITA LOGIKA - VERSO.pdf",
+      "name": "CARTÃO DE VISITA LOGIKA - VERSO.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1fsTUt51PQYTwnk8xt-9zGro9vQXZmLXp",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CRACHÁ",
+      "name": "CRACHÁ",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1qVfqdIyyH14mty62REVhJwuIohufsCep",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CRACHÁ/BASE - CRACHÁ.pdf",
+      "name": "BASE - CRACHÁ.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1-L_nBwV2jl5kQ-Fv2FFRI5UKhDBcB_q9",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/CRACHÁ/CORDÃO - CRACHÁ.pdf",
+      "name": "CORDÃO - CRACHÁ.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1N4V4LyRcrnErcF95eZ7-RAklO6syKp1-",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS",
+      "name": "LOGOS",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1xN_ozjyQNkMlcJi_Dwi98yM5cZ75kYkV",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - BRANCA FUNDO MAGENTA.png",
+      "name": "LOGO 01 - BRANCA FUNDO MAGENTA.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1wo7CWe_z4KOTYxePg4lOgx2Pv2NPC8df",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - BRANCA FUNDO PRETO.png",
+      "name": "LOGO 01 - BRANCA FUNDO PRETO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "17-HBBTSJKiKoZ1KkLnrly1sOrWzRs2EF",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - BRANCA SEM FUNDO.png",
+      "name": "LOGO 01 - BRANCA SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1DFsxMBVDVXlxEK8TM5dJuRfDovLq1aET",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - COLORIDA 1 SEM FUNDO.png",
+      "name": "LOGO 01 - COLORIDA 1 SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1yATQkjcwxMwKZGDLqgds5JCG9zm58Fpf",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - COLORIDA 2 SEM FUNDO.png",
+      "name": "LOGO 01 - COLORIDA 2 SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1YfkGmZbvkmvsJ03quu4uXeZFNqPhan7g",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - COLORIDA FUNDO BRANCO.png",
+      "name": "LOGO 01 - COLORIDA FUNDO BRANCO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1KxDe3JwCWC7FBhBcdMcQJji7Dfm2x3hf",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - COLORIDA FUNDO PRETO.png",
+      "name": "LOGO 01 - COLORIDA FUNDO PRETO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1xUeFtICFKl-H1FW33IaoeavXAyb-vfFu",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - MAGENTA FUNDO BRANCO.png",
+      "name": "LOGO 01 - MAGENTA FUNDO BRANCO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1eDJDZki1Mts-V8i0b_G4ep3Q3-_Y5JLA",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - MAGENTA FUNDO PRETO.png",
+      "name": "LOGO 01 - MAGENTA FUNDO PRETO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "10kHR9GJ3O_Mfi-Um_LvUaRhEn3aaD2Xk",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - MAGENTA SEM FUNDO.png",
+      "name": "LOGO 01 - MAGENTA SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1_KW8pyT1q7V70cDmA130i7QojNXa-FqP",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - PRETA FUNDO BRANCO.png",
+      "name": "LOGO 01 - PRETA FUNDO BRANCO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1RiEP7jWTO0a8RLOKIp0oReUTXU3fi8DI",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - PRETA FUNDO MAGENTA_.png",
+      "name": "LOGO 01 - PRETA FUNDO MAGENTA_.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "19uERIIvUywB3KH7PU2UlKJnvaAaY_9x2",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - PRETA SEM FUNDO.png",
+      "name": "LOGO 01 - PRETA SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1m35PH7YyfI_nMUMG0HfaHkAvdWoLVSfy",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - BRANCA FUNDO PRETO.png",
+      "name": "LOGO 02 - BRANCA FUNDO PRETO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1D31kVYmN-T0Rm5uJAjVPl6hY9N6K_hhV",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - BRANCA SEM FUNDO.png",
+      "name": "LOGO 02 - BRANCA SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1BYJAhzwsVYIyeGcYPIk6KY4FSLEKCZXz",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - COLORIDA 1 FUNDO PRETO.png",
+      "name": "LOGO 02 - COLORIDA 1 FUNDO PRETO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1WegUlItYvunF4WQWaV3RTughbKfH1vCe",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - COLORIDA 1 SEM FUNDO.png",
+      "name": "LOGO 02 - COLORIDA 1 SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1jouYMsDXQ-88f0jGAhxWTzCV-3HLJ_h2",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - COLORIDA 2 FUNDO BRANCO.png",
+      "name": "LOGO 02 - COLORIDA 2 FUNDO BRANCO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1lLnUO5Tavzv9KoRIF_dwBCfpAFHvEu87",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - COLORIDA 2 SEM FUNDO.png",
+      "name": "LOGO 02 - COLORIDA 2 SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1QGr0xRcpxZqIVySPA0WKoHfqeAD1M1E_",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - MAGENTA FUNDO BRANCO.png",
+      "name": "LOGO 02 - MAGENTA FUNDO BRANCO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1E-AgFdBZzHRudaKonDPfjy90BvzYQpff",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - MAGENTA FUNDO PRETO.png",
+      "name": "LOGO 02 - MAGENTA FUNDO PRETO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1B6GB4PO8HejjHZI9jvlJpndFj7AMMcBk",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - MAGENTA SEM FUNDO.png",
+      "name": "LOGO 02 - MAGENTA SEM FUNDO.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1IJdj6LL4xphxNnaBXBQIuEhDLJdqOV7m",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001.zip",
+      "name": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001.zip",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1XBq1KxANzSZA2jKfSnhP5I4XdwbxS-Rm",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/PAPEL DE PAREDE - MACBOOK",
+      "name": "PAPEL DE PAREDE - MACBOOK",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1ZJHtiUIMqCLjRk6-Ea31eua0jyNWZnsJ",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/PAPEL DE PAREDE - MACBOOK/PAPEL DE PAREDE - LOGIKA CREATIVE.png",
+      "name": "PAPEL DE PAREDE - LOGIKA CREATIVE.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1y4BWVT4JDurzHlQ4vpgJCZWH5xjxNoDx",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/PLACA",
+      "name": "PLACA",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1VWzlJM-pF01OAjsrpWTBvfPHYkEidE3r",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/PLACA/PLACA LOGIKA - IMAGEM.png",
+      "name": "PLACA LOGIKA - IMAGEM.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1Ieb2rFhnfVMFgP7zRGOzWUAIXk9APkjF",
+      "path": "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001/PLACA/PLACA LOGIKA - IMPRESSÃO.pdf",
+      "name": "PLACA LOGIKA - IMPRESSÃO.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1zK_IUKc7rNC9e9PpV8fvjsG79x9o9-EdwrH2YiUq73E",
+      "path": "PROPROSTA PRESTAÇÃO DE SERVIÇO 02",
+      "name": "PROPROSTA PRESTAÇÃO DE SERVIÇO 02",
+      "permissionCount": 2,
+      "permissions": [
+        {
+          "id": "anyoneWithLink",
+          "role": "reader",
+          "type": "anyone"
+        },
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1UfyvuOhV9jMUW47tbxGJ5MB1sNIWB4D7",
+      "path": "FINANCEIRO",
+      "name": "FINANCEIRO",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "14cT1vOLNwtwvy22lJLBW7ShYleB6H3ld",
+      "path": "JADIELSON/EBOOK's/CONVERTIDOS EM AZW3/Como-faturar-3k-vendendo-produtos-de-Social-Media.azw3",
+      "name": "Como-faturar-3k-vendendo-produtos-de-Social-Media.azw3",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1jBihdnj4vuWlKquqxxVV2WkHGv7h-xU4",
+      "path": "JADIELSON/EBOOK's/CONVERTIDOS EM EPUB/Como faturar 3k vendendo produtos de Social Media.epub",
+      "name": "Como faturar 3k vendendo produtos de Social Media.epub",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1G_6ikByUMoHdZkRbe1RvSwJeW_HdtfzX",
+      "path": "JADIELSON/EBOOK's/Como faturar 3k vendendo produtos de Social Media.pdf",
+      "name": "Como faturar 3k vendendo produtos de Social Media.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1NTPTF6dPcCKx0lP61c6w7PBvtHSyEEq1",
+      "path": "JADIELSON/ROTINAS/cartao_anti_estresse_operacao_do_dia.png",
+      "name": "cartao_anti_estresse_operacao_do_dia.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1agstGE37vUto3jpKLJKe7GXtCEnxytKe",
+      "path": "ROTINAS/cartao_anti_estresse_operacao_do_dia.png",
+      "name": "cartao_anti_estresse_operacao_do_dia.png",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "11dJIQeJkV7W9G644xuDesZ6YkgAFtv-s",
+      "path": "EBOOKs/._Como faturar 3k vendendo produtos de Social Media.pdf",
+      "name": "._Como faturar 3k vendendo produtos de Social Media.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1IuaPIVcbgudxQ73qe1m0zfcQtDzxe5ap",
+      "path": "EBOOKs/CONVERTIDOS EM AZW3/._Como-faturar-3k-vendendo-produtos-de-Social-Media.azw3",
+      "name": "._Como-faturar-3k-vendendo-produtos-de-Social-Media.azw3",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1hRpen2Aw0qrARCZ-cZsFAmcP3NpxdAJh",
+      "path": "EBOOKs/CONVERTIDOS EM AZW3/Como-faturar-3k-vendendo-produtos-de-Social-Media.azw3",
+      "name": "Como-faturar-3k-vendendo-produtos-de-Social-Media.azw3",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1KhBOB2HVc0fNpKJIMO5Zsp_XEBqgG8yq",
+      "path": "EBOOKs/CONVERTIDOS EM EPUB/._Como faturar 3k vendendo produtos de Social Media.epub",
+      "name": "._Como faturar 3k vendendo produtos de Social Media.epub",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "183e7j31eoAmhW-Fn3LXsFu17u767u4zG",
+      "path": "EBOOKs/CONVERTIDOS EM EPUB/Como faturar 3k vendendo produtos de Social Media.epub",
+      "name": "Como faturar 3k vendendo produtos de Social Media.epub",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1JdvU_9c7QGc3L1Q1I8jgX8M9zkPDXjK3",
+      "path": "EBOOKs/Como faturar 3k vendendo produtos de Social Media.epub",
+      "name": "Como faturar 3k vendendo produtos de Social Media.epub",
+      "permissionCount": 2,
+      "permissions": [
+        {
+          "id": "anyoneWithLink",
+          "role": "reader",
+          "type": "anyone"
+        },
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1aO2FIkddtYY9Zt3nCC3tnPAOSlVxwA6H",
+      "path": "EBOOKs/Como faturar 3k vendendo produtos de Social Media.epub",
+      "name": "Como faturar 3k vendendo produtos de Social Media.epub",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1ZOaXBCyWc347cZAWJgUa1ijH_HzCAuMP",
+      "path": "EBOOKs/Como faturar 3k vendendo produtos de Social Media.epub",
+      "name": "Como faturar 3k vendendo produtos de Social Media.epub",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1OzhWvlefhxkrUFgwibQ5QtCDd0eduO_X",
+      "path": "EBOOKs/Como faturar 3k vendendo produtos de Social Media.pdf",
+      "name": "Como faturar 3k vendendo produtos de Social Media.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1FGFIaDwsUK1u-CxmBhaI_TldjQ29Bn8h",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos",
+      "name": "02-Comprovantes-Pagos",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "177O51rqOvR0F7nTBgxK_QVon9AnRyCum",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__AGUA__conta-atrasada-01__R-76-87__PAGO.jpg",
+      "name": "2026-07-06__AGUA__conta-atrasada-01__R-76-87__PAGO.jpg",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1XpKH71vQitFVkvESPUOwgWav38WXUqot",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__AGUA__conta-atrasada-02__R-89-77__PAGO.jpg",
+      "name": "2026-07-06__AGUA__conta-atrasada-02__R-89-77__PAGO.jpg",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "199Z3EqO2X5l_cvd1LvdtqqKxGL-mJd4a",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__AGUA__conta-atrasada-03__R-100-60__PAGO.jpg",
+      "name": "2026-07-06__AGUA__conta-atrasada-03__R-100-60__PAGO.jpg",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1nlWhlkWCZqgeTDh8Yh9SjfeJeXS2xXsn",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__CARRO__bradesco-financiamento-geraldo-jose-dos-santos__R-1041-07__PAGO.jpg",
+      "name": "2026-07-06__CARRO__bradesco-financiamento-geraldo-jose-dos-santos__R-1041-07__PAGO.jpg",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1eHOEx0AxSIK-jrT64hwNiuT8xj8uONTi",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__CASA__prestacao-casa-debito-automatico__R-535-25__PAGO.jpg",
+      "name": "2026-07-06__CASA__prestacao-casa-debito-automatico__R-535-25__PAGO.jpg",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "18G1v-s2fNjBNY3zBYWq5NHHXhCHLyxJs",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__ESCOLA__eloah-mensalidade-futura-paga-por-equivoco__R-380-00__PAGO-VERIFICAR.pdf",
+      "name": "2026-07-06__ESCOLA__eloah-mensalidade-futura-paga-por-equivoco__R-380-00__PAGO-VERIFICAR.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1VXxUoTRgv98GgIOkZmEU1banq41ne33k",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__LUZ__equatorial-alagoas__R-159-77__PAGO.jpg",
+      "name": "2026-07-06__LUZ__equatorial-alagoas__R-159-77__PAGO.jpg",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1TnIGs_rIU6bApEfmLkKsar62oF4EEEFy",
+      "path": "2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__MERCADO__compras-cartao-sogra__R-639-57__PAGO.jpg",
+      "name": "2026-07-06__MERCADO__compras-cartao-sogra__R-639-57__PAGO.jpg",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1Cp5LCWTi7TSsM83ckxb3ZmxYawherp4W",
+      "path": "CURSOS_EBOOKS/CONTRATOEQJC.pdf",
+      "name": "CONTRATOEQJC.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1nYT1qqvqSrSDDqWczmsCysoGo3_76h-M",
+      "path": "CURSOS_EBOOKS/NOTION/02 - Organização de tarefas com Notion.mp4",
+      "name": "02 - Organização de tarefas com Notion.mp4",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1xOn-wJkICbHAsJklE8IbI-SjEhIH6mT0",
+      "path": "CURSOS_EBOOKS/NOTION/Live #12 - Organização de Projetos com Notion.mp4",
+      "name": "Live #12 - Organização de Projetos com Notion.mp4",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1cDjvesBfeykdcbXPLYaGNRimeX9afolb",
+      "path": "CURSOS_EBOOKS/ULTRA INTELIGÊNCIA/Perguntas-Frequentes-Ultrainteligencia.pdf",
+      "name": "Perguntas-Frequentes-Ultrainteligencia.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1aziYHNtjFSpJUUBvfXPooPIRyQ_kvgqB",
+      "path": "CURSOS_EBOOKS/VIDEO AULAS/⭐️ Me Ensina AE! Curso de After Effects - Brainstorm Academy/Módulo 05 - Textos e Paths/41 - Crise de Identidade - Morph de Shapes.MP4",
+      "name": "41 - Crise de Identidade - Morph de Shapes.MP4",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "11ohNJF8Rym_7tH9GMaA55yTiWPhykqXO",
+      "path": "CURSOS_EBOOKS/VIDEO AULAS/⭐️ Me Ensina AE! Curso de After Effects - Brainstorm Academy/Módulo 05 - Textos e Paths/Materiais/41 CrisedeIdentidade.rar",
+      "name": "41 CrisedeIdentidade.rar",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1MHtNboqC53RqNNj4Q1WK-VHGqlzhkh1S",
+      "path": "JADIELSON/EBOOK's/As 48 leis do poder (Robert Greene) (z-lib.org).pdf",
+      "name": "As 48 leis do poder (Robert Greene) (z-lib.org).pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1AH2bbcK1qJf1eZFzYNpyo6hipcwt9iNH",
+      "path": "JADIELSON/PESSOAIS - JADIELSON/MENTORIA INGRID/CONTRATO_DE_PRESTACAO_DE_SERVICOS_DE_MENTORIA_-_Jahdielson_assinado.pdf",
+      "name": "CONTRATO_DE_PRESTACAO_DE_SERVICOS_DE_MENTORIA_-_Jahdielson_assinado.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1TNN2Wf4WLvd4tS2G5iljxrca2ibrNjkJ",
+      "path": "CURSOS/CURSOS DE INGLÊS/🎓 Curso de Inglês Junior Silveira 2.0/MODULO 1/Modulo 1 -Direitos e garantias  Curso de Inglês Junior Silveira/CONTRATO+CURSO+DE+INGLE-S+JUNIOR+SILVEIRA+4.0.pdf",
+      "name": "CONTRATO+CURSO+DE+INGLE-S+JUNIOR+SILVEIRA+4.0.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1w8u7TyrtABZOT18a3CgwQYLgr2CZ9ibV",
+      "path": "CURSOS/CURSOS DE INGLÊS/🎓 Curso de Inglês Junior Silveira 2.0/MODULO 3/Modulo 3 material/Modulo 3/Aula19HOMEWORK fazer perguntas sobre situações imaginárias",
+      "name": "Aula19HOMEWORK fazer perguntas sobre situações imaginárias",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1W49V2cGfxDjlEGcoNc0hmihAhaAR1PDA",
+      "path": "CURSOS/CURSOS DE INGLÊS/🎓 Curso de Inglês Junior Silveira 2.0/MODULO 3/Modulo 3 material/Modulo 3/Aula19HOMEWORK fazer perguntas sobre situações imaginárias/HOMEWORKAula19.pdf",
+      "name": "HOMEWORKAula19.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1SM4CUdKmIGwTi8zvza2U7DU3QrS8IOFP",
+      "path": "CURSOS/CURSOS DE INGLÊS/🎓 Curso de Inglês Junior Silveira 2.0/MODULO 3/Modulo 3 material/Modulo 3/Aula19HOMEWORK fazer perguntas sobre situações imaginárias/dialogue_aula19.mp3",
+      "name": "dialogue_aula19.mp3",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1rFzPy10ZhXc2shFa_nHiCiYcrXRQsqga",
+      "path": "CURSOS/CURSOS DE INGLÊS/🎓 Ingles do Jerry 3.0/15. Aprendendo com músicas/31. Passenger- Let Her Go/Materiais/EXERCICIOPassengerLetHerGo.pdf",
+      "name": "EXERCICIOPassengerLetHerGo.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1A7UWQFUafu2XJSZgHy2JRZQ23KiON9dM",
+      "path": "CURSOS/CURSOS DE INGLÊS/🎓 Inglês 5.0 - Mairo Vergara 2021 (Telegram)",
+      "name": "🎓 Inglês 5.0 - Mairo Vergara 2021 (Telegram)",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "18kNSBF_zc4rO3dECFZToaw0igugH_kGi",
+      "path": "CURSOS/CURSOS DE INGLÊS/🎓 Inglês 5.0 - Mairo Vergara 2021 (Telegram)/ACESSO AO CURSO.docx",
+      "name": "ACESSO AO CURSO.docx",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "12UxRSbRkia5wF7XRGWr_i_FJHzVX8dWJ",
+      "path": "EBOOKs/._As 48 leis do poder (Robert Greene) (z-lib.org).pdf",
+      "name": "._As 48 leis do poder (Robert Greene) (z-lib.org).pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "1jzXpguOl9OGjRc6sqP4wPivGNfPh46ZU",
+      "path": "EBOOKs/As 48 leis do poder (Robert Greene) (z-lib.org).pdf",
+      "name": "As 48 leis do poder (Robert Greene) (z-lib.org).pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "127Jdb8Na2HgCm2mkgvomvw0wULoJYbVA",
+      "path": "Digitalização Proesp - JADIELSON DAVI DOS SANTOS.pdf",
+      "name": "Digitalização Proesp - JADIELSON DAVI DOS SANTOS.pdf",
+      "permissionCount": 1,
+      "permissions": [
+        {
+          "emailAddress": "davijadielson@gmail.com",
+          "id": "10977845502640564813",
+          "role": "owner",
+          "type": "user"
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "1EctKFJqehDmOIFnp9h3zLSKWez-QuFvObnMoLJpDHfc",
+      "path": "PLANILHA DE CÁLCULO VALOR DA HORA DE TRABALHO - LÓGIKA",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink"
+    },
+    {
+      "id": "1pg2wFusjqwFfA4vbY_BDKrykLPxXj_1xO7gCqbu_rvY",
+      "path": "BRIEFING PARA IDENTIDADE VISUAL",
+      "permissionType": "user",
+      "role": "writer",
+      "email": "logikacreative.mkt@gmail.com",
+      "permId": "05060999074523970329"
+    },
+    {
+      "id": "1ZhXl_PlzmBcuxkeJp_r1AA5sgN_ni9ga5R3uPV-VCmk",
+      "path": "Rapidinho: Me Conta do Seu Negócio!",
+      "permissionType": "anyone",
+      "role": "writer",
+      "email": "",
+      "permId": "anyoneWithLink"
+    },
+    {
+      "id": "1ZhXl_PlzmBcuxkeJp_r1AA5sgN_ni9ga5R3uPV-VCmk",
+      "path": "Rapidinho: Me Conta do Seu Negócio!",
+      "permissionType": "user",
+      "role": "writer",
+      "email": "logikacreative.mkt@gmail.com",
+      "permId": "05060999074523970329"
+    },
+    {
+      "id": "1zK_IUKc7rNC9e9PpV8fvjsG79x9o9-EdwrH2YiUq73E",
+      "path": "PROPROSTA PRESTAÇÃO DE SERVIÇO 02",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink"
+    },
+    {
+      "id": "1JdvU_9c7QGc3L1Q1I8jgX8M9zkPDXjK3",
+      "path": "EBOOKs/Como faturar 3k vendendo produtos de Social Media.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink"
+    }
+  ],
+  "errors": []
+}

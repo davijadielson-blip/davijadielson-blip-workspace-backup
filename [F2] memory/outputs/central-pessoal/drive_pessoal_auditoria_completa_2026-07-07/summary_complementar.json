@@ -1,0 +1,823 @@
+{
+  "items": 3378,
+  "folders": 610,
+  "files": 2768,
+  "known_size_bytes": 502877296384,
+  "by_top": [
+    [
+      "CURSOS",
+      2086
+    ],
+    [
+      "CURSOS_EBOOKS",
+      572
+    ],
+    [
+      "JADIELSON",
+      399
+    ],
+    [
+      "EBOOKs",
+      132
+    ],
+    [
+      "FOTOS ANIVERSARIO ELOAH _3 ANOS",
+      74
+    ],
+    [
+      "MATERIAL IDV - LÓGIKA CREATIVE-20250915T204950Z-1-001",
+      43
+    ],
+    [
+      "ROTINAS",
+      11
+    ],
+    [
+      "2026",
+      11
+    ],
+    [
+      "MINHA MÃE",
+      2
+    ],
+    [
+      "Planilha sem título",
+      2
+    ],
+    [
+      "01_PROJETOS",
+      1
+    ],
+    [
+      "02_FOTOS_SOLTAS",
+      1
+    ],
+    [
+      "03_LOGIKA_NEGOCIO",
+      1
+    ],
+    [
+      "04_PESSOAL",
+      1
+    ],
+    [
+      "05_OUTROS",
+      1
+    ],
+    [
+      "CONTADOS CELULAR",
+      1
+    ],
+    [
+      "ESTUDOS",
+      1
+    ],
+    [
+      "EXCEL  e SHEETS",
+      1
+    ],
+    [
+      "FINANCEIRO",
+      1
+    ],
+    [
+      "FORMULÁRIOS",
+      1
+    ],
+    [
+      "Google Earth",
+      1
+    ],
+    [
+      "PDF's",
+      1
+    ],
+    [
+      "PERFIL DA EMPRESA LÓGIKA CREATIVE",
+      1
+    ],
+    [
+      "POWER POINT",
+      1
+    ],
+    [
+      "PRODUTIVIDADE",
+      1
+    ],
+    [
+      "PROPOSTAS",
+      1
+    ],
+    [
+      "Bloco de anotações de Jadielson.url",
+      1
+    ],
+    [
+      "MAPA DAS 7 CAMAPAS DO EU SOU.docx",
+      1
+    ],
+    [
+      "MARIA_ESCOPAMENTO E FUNÇÃO ESTRATÉGICA.docx",
+      1
+    ],
+    [
+      "MATRIZ DE AIZEN HAWARD.png",
+      1
+    ],
+    [
+      "Contatos.vcf",
+      1
+    ],
+    [
+      "Jadielson Davi.vcf",
+      1
+    ],
+    [
+      "Todos do Jahdielson.vcf",
+      1
+    ],
+    [
+      "Anexo-102\tTemplate de Viabilidade comercial, financeira e dimensionamento .xlsx",
+      1
+    ],
+    [
+      "Cópia de Anexo-102\tTemplate de Viabilidade comercial, financeira e dimensionamento .xlsx",
+      1
+    ],
+    [
+      "Cópia de Mapa de finanças pessoais.xlsx",
+      1
+    ],
+    [
+      "Cópia de Plano Estratégico Pessoal",
+      1
+    ],
+    [
+      "Cópia de Raio x da empresa.xlsx",
+      1
+    ],
+    [
+      "Cópia de Roda da Vida",
+      1
+    ],
+    [
+      "Formulário ID VISUAL (respostas)",
+      1
+    ],
+    [
+      "PLANILHA DE CÁLCULO VALOR DA HORA DE TRABALHO - LÓGIKA",
+      1
+    ],
+    [
+      "Rapidinho: Me Conta do Seu Negócio! (respostas)",
+      1
+    ],
+    [
+      "_WARREN_TESTE_PERMISSAO_ESCRITA",
+      1
+    ],
+    [
+      "BRIEFING PARA IDENTIDADE VISUAL",
+      1
+    ],
+    [
+      "Diagnóstico Estratégico - Lógika Creative",
+      1
+    ],
+    [
+      "Rapidinho: Me Conta do Seu Negócio!",
+      1
+    ],
+    [
+      "Projeto sem título",
+      1
+    ],
+    [
+      "1736257559456-3938ac34-b2d8-4423-a3ab-de8bb939b48d.pdf",
+      1
+    ],
+    [
+      "Banner seminário 2.pdf",
+      1
+    ],
+    [
+      "CPMI-INSS-Relatório final.pdf",
+      1
+    ]
+  ],
+  "by_type": [
+    [
+      "application/pdf",
+      494
+    ],
+    [
+      "video/mp4",
+      443
+    ],
+    [
+      "audio/mpeg",
+      344
+    ],
+    [
+      "image/jpeg",
+      336
+    ],
+    [
+      "application/zip",
+      329
+    ],
+    [
+      "video/quicktime",
+      108
+    ],
+    [
+      "application/octet-stream",
+      81
+    ],
+    [
+      "text/html",
+      78
+    ],
+    [
+      "text/markdown",
+      64
+    ],
+    [
+      "image/heif",
+      64
+    ],
+    [
+      "image/x-sony-arw",
+      64
+    ],
+    [
+      "video/mp2t",
+      62
+    ],
+    [
+      "application/epub+zip",
+      61
+    ],
+    [
+      "image/png",
+      52
+    ],
+    [
+      "text/javascript",
+      39
+    ],
+    [
+      "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      24
+    ],
+    [
+      "application/vnd.ms-powerpoint",
+      16
+    ],
+    [
+      "text/plain",
+      15
+    ],
+    [
+      "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      15
+    ],
+    [
+      "text/texmacs",
+      14
+    ],
+    [
+      "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      12
+    ],
+    [
+      "application/rar",
+      10
+    ],
+    [
+      "application/vnd.google-apps.spreadsheet",
+      8
+    ],
+    [
+      "application/x-rar",
+      6
+    ],
+    [
+      "text/x-url",
+      4
+    ],
+    [
+      "text/css",
+      3
+    ],
+    [
+      "image/x-photoshop",
+      3
+    ],
+    [
+      "application/vnd.google-apps.shortcut",
+      3
+    ],
+    [
+      "application/vnd.google-apps.form",
+      3
+    ],
+    [
+      "text/x-vcard",
+      2
+    ],
+    [
+      "application/x-apple-diskimage",
+      2
+    ],
+    [
+      "application/vnd.oasis.opendocument.text",
+      2
+    ],
+    [
+      "video/x-ms-wmv",
+      1
+    ],
+    [
+      "application/x-ms-shortcut",
+      1
+    ],
+    [
+      "text/vcard",
+      1
+    ],
+    [
+      "video/matroska",
+      1
+    ],
+    [
+      "application/msword",
+      1
+    ],
+    [
+      "application/vnd.google-apps.earth",
+      1
+    ],
+    [
+      "application/vnd.google-apps.document",
+      1
+    ]
+  ],
+  "by_ext": [
+    [
+      ".pdf",
+      493
+    ],
+    [
+      ".mp4",
+      443
+    ],
+    [
+      ".mp3",
+      344
+    ],
+    [
+      ".zip",
+      329
+    ],
+    [
+      ".jpg",
+      216
+    ],
+    [
+      ".jpeg",
+      120
+    ],
+    [
+      ".mov",
+      108
+    ],
+    [
+      ".ts",
+      76
+    ],
+    [
+      ".html",
+      75
+    ],
+    [
+      "(sem extensão)",
+      65
+    ],
+    [
+      ".md",
+      64
+    ],
+    [
+      ".heic",
+      64
+    ],
+    [
+      ".arw",
+      64
+    ],
+    [
+      ".epub",
+      61
+    ],
+    [
+      ".png",
+      52
+    ],
+    [
+      ".js",
+      39
+    ],
+    [
+      ".docx",
+      24
+    ],
+    [
+      ".azw3",
+      24
+    ],
+    [
+      ".rar",
+      16
+    ],
+    [
+      ".ppt",
+      16
+    ],
+    [
+      ".txt",
+      15
+    ],
+    [
+      ".pptx",
+      15
+    ],
+    [
+      ".xlsx",
+      12
+    ],
+    [
+      ".aep",
+      8
+    ],
+    [
+      ".url",
+      4
+    ],
+    [
+      ".css",
+      3
+    ],
+    [
+      ".psd",
+      3
+    ],
+    [
+      ".vcf",
+      3
+    ],
+    [
+      ".ds_store",
+      2
+    ],
+    [
+      ".dmg",
+      2
+    ],
+    [
+      ".odt",
+      2
+    ],
+    [
+      ".000 ebooks prls traduzidos",
+      2
+    ],
+    [
+      ".wmv",
+      1
+    ],
+    [
+      ".lnk",
+      1
+    ],
+    [
+      ".mkv",
+      1
+    ],
+    [
+      ".doc",
+      1
+    ]
+  ],
+  "category_counts": {
+    "logika_empresa": 87,
+    "financeiro": 25,
+    "sensivel_pessoal": 24,
+    "familia_casa": 262,
+    "estudos_cursos": 2875,
+    "fotos_midias": 1558
+  },
+  "duplicate_group_count": 179,
+  "top_large": [
+    [
+      2147429188,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-001 (2).zip",
+      "17SGVHIH7L7p_scjIKpU3ZODMEBlLIhMk",
+      "application/zip"
+    ],
+    [
+      2147429188,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-001.zip",
+      "18JVzKIAYEH_Yw8W2tpKfSDDE9OIcb6Sk",
+      "application/zip"
+    ],
+    [
+      2147429188,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-001 (2).zip",
+      "1I0j3yx4E5SA4gaJtCTVEP0SQ3CcKbbYN",
+      "application/zip"
+    ],
+    [
+      2147429188,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-001 (2).zip",
+      "1j1A8VPhs2wB9mUTZEQ3tF591pG04PQVa",
+      "application/zip"
+    ],
+    [
+      2147429188,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-001.zip",
+      "1hmdHLO9xMqlKfOGw2290xV3IbjjtXu6A",
+      "application/zip"
+    ],
+    [
+      2147429188,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-001.zip",
+      "1HYreRy_0qWGERbr9y_gEuparsPlp2o8n",
+      "application/zip"
+    ],
+    [
+      2147391507,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-016.zip",
+      "1gee5DboL_sUyRTPW3fiTQh5LGbRdi88Q",
+      "application/zip"
+    ],
+    [
+      2147391507,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-016.zip",
+      "100pOUqgCvz13reYNWZBVQRSNcPNG5MmU",
+      "application/zip"
+    ],
+    [
+      2147391507,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-016.zip",
+      "1CLe1HTq6vamK699YPKuFZQbFRAag6PRg",
+      "application/zip"
+    ],
+    [
+      2147341509,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-004.zip",
+      "1dwjWQKFJUvGZ1QxThTosP1LLD1hjQcd2",
+      "application/zip"
+    ],
+    [
+      2147341509,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-004.zip",
+      "1oK69ozLtItgmI6NLnNYbjUsTKbAahJEt",
+      "application/zip"
+    ],
+    [
+      2147341509,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-004.zip",
+      "1YPA2H6MlsgRAyCyT5EkbxLQJ1-t24FKT",
+      "application/zip"
+    ],
+    [
+      2147327512,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-001.zip",
+      "1gLG9CVC4lsvQaRj4iCdrMAHWKFKpO9OG",
+      "application/zip"
+    ],
+    [
+      2147327512,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-001.zip",
+      "1n0xt4gZWptr92XKmU-it_oQ50q3wcW_-",
+      "application/zip"
+    ],
+    [
+      2147327512,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-001.zip",
+      "1iynwFf3nYu9u1onUusWHZ5FdEtn8kg2X",
+      "application/zip"
+    ],
+    [
+      2147164401,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-009.zip",
+      "1W-7hKjdG-xTG0u4us0YsYZyebok6y5Gk",
+      "application/zip"
+    ],
+    [
+      2147164401,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-009.zip",
+      "14QEjGJRPas4XAX_TwrNzEWuhBDqF7beM",
+      "application/zip"
+    ],
+    [
+      2147164401,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-009.zip",
+      "1lvb9nGWrTFleKAtEB93PDKbuJjd0cZfW",
+      "application/zip"
+    ],
+    [
+      2147145199,
+      "CURSOS/ASIMOV/Formações em Python & Inteligência Artificial/Formações em Python & Inteligência Artificial-20260529T103415Z-3-001.zip",
+      "1SBlvIp40XXHIppFxABkwDmWxPffZYD0r",
+      "application/zip"
+    ],
+    [
+      2147003886,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-002.zip",
+      "1ROf8gIJLJfpxMMj6O-MM9idYeOZbG3mi",
+      "application/zip"
+    ],
+    [
+      2147003886,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-002.zip",
+      "1GpSKbmuSyUxPr3intlN-NEuKykVedZOc",
+      "application/zip"
+    ],
+    [
+      2147003886,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-002.zip",
+      "1wMp3MjB5kYFUu_1gaF2k2zkxyLrTiFcp",
+      "application/zip"
+    ],
+    [
+      2146359623,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-014.zip",
+      "1Q5-bOx1wPcT0Vy7tP5v23S3qz98vnWWr",
+      "application/zip"
+    ],
+    [
+      2146359623,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-014.zip",
+      "1uScNLGknZaAoSaw1dMkxsbLldI_SsZ4k",
+      "application/zip"
+    ],
+    [
+      2146359623,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-014.zip",
+      "1-Y4ax00ZSzqAVGKh4J72jYs3LBwVlUNn",
+      "application/zip"
+    ],
+    [
+      2146353170,
+      "CURSOS/ASIMOV/Formações em Python & Inteligência Artificial/Formações em Python & Inteligência Artificial-20260529T103415Z-3-006.zip",
+      "1bVBjs3YF9vtSQXDaIWYwOvqmExTRMjm4",
+      "application/zip"
+    ],
+    [
+      2146057306,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-006.zip",
+      "1b9FzMUDqmaAX_iQvSnD6C_upPYspuhaB",
+      "application/zip"
+    ],
+    [
+      2146057306,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-006.zip",
+      "1iMDjSrYb1ww83LE5ukA-QIn8n1LikDfS",
+      "application/zip"
+    ],
+    [
+      2146057306,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-006.zip",
+      "1eXWdACxD-0aGhofi5orouM3hw1e-x_WK",
+      "application/zip"
+    ],
+    [
+      2145914106,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-008.zip",
+      "1d1iHOwLPhRE_I6AFmxda_EslahwCCpmZ",
+      "application/zip"
+    ],
+    [
+      2145914106,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-008.zip",
+      "1BX_O9UTilQ2olGcUzVL5ttRV4j3Zmyjc",
+      "application/zip"
+    ],
+    [
+      2145914106,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-008.zip",
+      "1U9wsL5D_a4ym2RsQ2hayJeIgIhbOX585",
+      "application/zip"
+    ],
+    [
+      2145625447,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-017.zip",
+      "1AzI0vYns1BSz0nnsATut4df7SEbsfdA7",
+      "application/zip"
+    ],
+    [
+      2145625447,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-017.zip",
+      "12RoZb6dwCL8ltaIXJMsw7gFZEwoM1dT8",
+      "application/zip"
+    ],
+    [
+      2145625447,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-017.zip",
+      "1TtQF-IJOwDDS9TYvoUVyl_JsIjcD-glf",
+      "application/zip"
+    ],
+    [
+      2145543674,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-003.zip",
+      "1pBEfWFy9BmEXnRyfG-ppSMRZxtSjJUJu",
+      "application/zip"
+    ],
+    [
+      2145543674,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-003.zip",
+      "1hnf-9PVKXUDb1X_xHop8HZw4gt1AyZaP",
+      "application/zip"
+    ],
+    [
+      2145543674,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-003.zip",
+      "1aRvGbaUifaBIkuMHL-xwwWPyCsjTinbA",
+      "application/zip"
+    ],
+    [
+      2144908535,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-005.zip",
+      "1dZcCMYXr3AGzm7bMnxt-YryT13jw-gdT",
+      "application/zip"
+    ],
+    [
+      2144908535,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-005.zip",
+      "1tcS6Z6zZ1ONLeFI3AAhVVald5OSYKoBi",
+      "application/zip"
+    ],
+    [
+      2144908535,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-005.zip",
+      "1wJc9CIWx0ENoibUrPThAvTc65XhRDxXu",
+      "application/zip"
+    ],
+    [
+      2144477713,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-006.zip",
+      "1-vv6CjIR9IdH9wDjiEdqqxo99HmqLT9x",
+      "application/zip"
+    ],
+    [
+      2144477713,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-006.zip",
+      "1rbEIkj7wlkPI4zP0H_zkUMi1dIuEGuas",
+      "application/zip"
+    ],
+    [
+      2144477713,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260529T041136Z-3-006.zip",
+      "1F4Bif0PRw_-HypiB7Z7A5UNKb5sDpzyh",
+      "application/zip"
+    ],
+    [
+      2144333741,
+      "CURSOS/ASIMOV/07 - [TRILHA] Python Office - Python para Empresas-20260529T122935Z-3-001.zip",
+      "1I8ZlxnF5GObIX0utoKEyG_hcSQ_b15BF",
+      "application/zip"
+    ],
+    [
+      2142864290,
+      "CURSOS/ASIMOV/05 - [TRILHA] Python Office - Automações com Python-20260529T114723Z-3-006.zip",
+      "1L5BRumGk4_9SWFFVE8G9ojrcC-nxLI9U",
+      "application/zip"
+    ],
+    [
+      2142152645,
+      "CURSOS/ASIMOV/Formações em Python & Inteligência Artificial/Formações em Python & Inteligência Artificial-20260529T103415Z-3-002.zip",
+      "1eeXZ6H_vmfB9C8hdomVtDJFRNa9c3W-j",
+      "application/zip"
+    ],
+    [
+      2141460048,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-014.zip",
+      "1AXwO3ehChNoFwiWBUZv47K4-5z9BA6Fd",
+      "application/zip"
+    ],
+    [
+      2141460048,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-014.zip",
+      "1vy4VDvFrdToRYlHdZrcPZ1ZUkN8ZKRRw",
+      "application/zip"
+    ],
+    [
+      2141460048,
+      "CURSOS/ASIMOV/TRILHAS RETIRADAS DA PLATAFORMA/TRILHAS RETIRADAS DA PLATAFORMA-20260528T150600Z-3-014.zip",
+      "1DC0_lbNynU8F_AVXG6L5IC7aVAKBwZgv",
+      "application/zip"
+    ]
+  ]
+}
