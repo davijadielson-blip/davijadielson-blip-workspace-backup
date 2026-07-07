@@ -30,3 +30,72 @@ Jadielson esclareceu as classificações dos comprovantes recebidos em 2026-07-0
 | 7 | R$ 100,60 | ÁGUA | Conta de água; pode haver repetição por contas atrasadas. |
 
 Arquivos locais renomeados no Cofre conforme nova classificação. Pendência: subir/espelhar no Google Drive FINANCEIRO quando a integração Zapier estiver liberada.
+
+### Nova tentativa — 2026-07-07 04:06 UTC
+
+Jadielson pediu: "TENTE NOVAMENTE AGORA".
+
+Resultado técnico:
+- Acesso direto `gog` da conta pessoal `davijadielson@gmail.com` continua autenticado e consegue ler/localizar a pasta pessoal `FINANCEIRO`.
+- Pasta pessoal confirmada: `FINANCEIRO` — id `1UfyvuOhV9jMUW47tbxGJ5MB1sNIWB4D7` — proprietário `davijadielson@gmail.com`.
+- Tentativa de criar a pasta `2026` dentro de `FINANCEIRO` falhou com: `Google API error (403 insufficientPermissions): Request had insufficient authentication scopes.`
+- Zapier MCP principal consultado: não há ações habilitadas no momento; portanto não há caminho alternativo por Zapier nesta tentativa.
+- Tentativa de usar navegador com perfil do usuário falhou porque o Chrome do usuário não estava disponível para anexação/DevTools.
+
+Diagnóstico atualizado: a autorização atual do Drive pessoal ainda está sem escopo de escrita/criação. Continua permitindo leitura, mas não permite criar pastas nem fazer upload.
+
+Pendência mantida: reautorizar `davijadielson@gmail.com` no gog/Google Drive com escopo de escrita, por exemplo Drive full ou Drive file/upload. Depois, subir os 7 comprovantes locais para `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`.
+
+### Pedido de mensagem para Lôh — 2026-07-07 04:11 UTC
+
+Jadielson pediu ao Warren uma mensagem para a Lôh tomar ciência e liberar/reautorizar o Drive pessoal com permissão de escrita/upload, pois a tentativa direta via gog continua falhando com `403 insufficientPermissions` ao criar pasta dentro de `FINANCEIRO`.
+
+### Liberação concluída e upload realizado — 2026-07-07 04:32 UTC
+
+Jadielson informou que Lôh fez alterações e pediu nova tentativa.
+
+Resultado:
+- Autorização `gog` da conta pessoal `davijadielson@gmail.com` passou a aceitar escrita no Drive.
+- Smoke test de permissão criou a pasta `_WARREN_TESTE_PERMISSAO_ESCRITA` dentro de `FINANCEIRO` — id `1lCm0cRSvuG10UNu2LV_pJGC_JaAI_TIl`. Não foi apagada por regra de não exclusão sem autorização humana.
+- Foram criadas as pastas no Drive pessoal:
+  - `FINANCEIRO/2026` — id `1sOjH6cgghlDVk0im4hq4Asgzllz47UvX`
+  - `FINANCEIRO/2026/07-Julho` — id `1ti1GKSJ1aAUzCqurItKuFDf1BejUMoNR`
+  - `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos` — id `1FGFIaDwsUK1u-CxmBhaI_TldjQ29Bn8h`
+
+Arquivos enviados ao Drive:
+| Arquivo | Drive ID |
+|---|---|
+| 2026-07-06__AGUA__conta-atrasada-01__R-76-87__PAGO.jpg | 177O51rqOvR0F7nTBgxK_QVon9AnRyCum |
+| 2026-07-06__AGUA__conta-atrasada-02__R-89-77__PAGO.jpg | 1XpKH71vQitFVkvESPUOwgWav38WXUqot |
+| 2026-07-06__AGUA__conta-atrasada-03__R-100-60__PAGO.jpg | 199Z3EqO2X5l_cvd1LvdtqqKxGL-mJd4a |
+| 2026-07-06__CARRO__bradesco-financiamento-geraldo-jose-dos-santos__R-1041-07__PAGO.jpg | 1nlWhlkWCZqgeTDh8Yh9SjfeJeXS2xXsn |
+| 2026-07-06__CASA__prestacao-casa-debito-automatico__R-535-25__PAGO.jpg | 1eHOEx0AxSIK-jrT64hwNiuT8xj8uONTi |
+| 2026-07-06__LUZ__equatorial-alagoas__R-159-77__PAGO.jpg | 1VXxUoTRgv98GgIOkZmEU1banq41ne33k |
+| 2026-07-06__MERCADO__compras-cartao-sogra__R-639-57__PAGO.jpg | 1TnIGs_rIU6bApEfmLkKsar62oF4EEEFy |
+
+Status: concluído. Total dos comprovantes registrados: R$ 2.642,90.
+
+### Comprovante escola Eloah — pago em competência futura — 2026-07-07 04:40 UTC
+
+Jadielson enviou comprovante RecargaPay e esclareceu:
+- É da escola da Eloah.
+- A esposa se equivocou e pagou uma conta futura, não a corrente.
+- Mesmo assim deve ser salvo; depois será visto com a escola como ficará.
+
+Dados extraídos do comprovante/imagem:
+- Data/hora do pagamento: 2026-07-06 14:52.
+- Valor: R$ 380,00.
+- Instituição: RecargaPay / Banco Rendimento S.A.
+- Descrição/linha principal identificada: E B Dos Santos.
+- Classificação financeira: ESCOLA / Eloah.
+- Status operacional: PAGO — VERIFICAR COM ESCOLA / competência futura paga por equívoco.
+
+Arquivo local no Cofre:
+`[F2] memory/inbox-externa/financeiro/2026/07-Julho/02-Comprovantes-Pagos/2026-07-06__ESCOLA__eloah-mensalidade-futura-paga-por-equivoco__R-380-00__PAGO-VERIFICAR.pdf`
+
+Arquivo enviado ao Drive pessoal:
+- Pasta: `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`
+- Drive ID: `18G1v-s2fNjBNY3zBYWq5NHHXhCHLyxJs`
+- Link: `https://drive.google.com/file/d/18G1v-s2fNjBNY3zBYWq5NHHXhCHLyxJs/view?usp=drivesdk`
+
+Observação de controle: não tratar como quitação confirmada da parcela corrente até Jadielson validar com a escola.

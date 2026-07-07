@@ -81,6 +81,19 @@ Regras:
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
 
+### 🚫 REGRA ABSOLUTA — NADA DE EXCLUSÃO SEM REVISÃO HUMANA
+
+> **NENHUM agente, subagente, skill ou automação do ecossistema pode EXCLUIR arquivos, pastas, documentos, e-mails, registros ou qualquer dado definitivamente sem revisão humana explícita e autorização por escrito de Jadielson.**
+
+- **Podem:** Criar, editar, modificar, mover, copiar, organizar.
+- **Não podem, JAMAIS:** Excluir, deletar, apagar, destruir, remover permanentemente.
+- **Exceção:** Mover para uma **pasta exclusiva de quarentena/revisão** (ex: `_lixeira_revisao/`, `_para_exclusao/`) — onde um humano revisa antes da exclusão real.
+- **`trash` > `rm` sempre.** Se a ferramenta não tiver lixeira, não delete — mova para quarentena.
+- **Vale para:** Google Drive, Gmail, arquivos locais, YouTube, Facebook, Instagram, Notion, qualquer serviço conectado.
+- **Consequência por violação:** Revisão do acesso do agente ao recurso.
+
+> 📌 Esta regra está registrada em `AGENTS.md` (aqui) e foi propagada para todo o ecossistema em 2026-07-07.
+
 ## External vs Internal
 
 **Safe to do freely:**
