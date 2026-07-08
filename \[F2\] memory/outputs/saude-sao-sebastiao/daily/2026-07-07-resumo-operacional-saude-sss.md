@@ -65,3 +65,23 @@ Resultado técnico salvo em:
 ## 2026-07-07 — Ajuste da pauta do dia em campo
 
 Jadielson informou mudanças na pauta de hoje: no laboratório só conseguiu imagens de bastidores; à tarde o laboratório está em trabalho interno para melhor qualidade e agilidade na entrega; acrescentar atendimento de ultrassonografia; não há oftalmologista hoje, apenas amanhã; tentará fazer fotos dos dentistas. Pauta ajustada salva em `F2-memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-07-pauta-ajustada-laboratorio-ultrassom-saude-bucal.md`.
+
+## 2026-07-08 — Guia de redação aprovado: legendas criativas, persuasivas e acolhedoras
+
+Jadielson aprovou a lógica de pauta por macrofrente → setor/unidade → serviço específico protagonista do feed, com stories de apoio. Também definiu guia permanente de redação para legendas da Saúde SSS: evitar repetição mecânica de palavras e encerramentos; não usar “A gente faz com coração” como assinatura fixa; inserir a ideia/slogan de forma orgânica quando fizer sentido; escrever sempre de modo criativo, persuasivo, acolhedor e específico para o serviço do dia.
+
+Registro detalhado salvo em: `F2-memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-08-pauta-do-dia-vigilancia-prevencao-rodizio-servico.md`.
+
+## 2026-07-08 — Calendário de julho atualizado no Notion a partir de hoje
+
+Jadielson autorizou recriar e atualizar no Notion o calendário do mês corrente a partir de 08/07, com a regra aprovada: macrofrente fixa por dia, feed com um serviço específico protagonista, stories de apoio e tema do mês sem dominar a pauta. Também solicitou, para hoje, acréscimo de um story sobre o atendimento mensal de oftalmologista, serviço que atende quase 50 pessoas. Atualização executada em 18 páginas do Notion de 08/07 a 31/07.
+
+Arquivos:
+- `F2-memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-08-calendario-julho-a-partir-de-hoje-v3-rodizio-servicos.md`
+- `F2-memory/outputs/saude-sao-sebastiao/notion/2026-07-08-notion-calendario-julho-a-partir-08-v3-result.json`
+
+## 2026-07-08 — Correção: Notion agora com roteiro completo no corpo da pauta
+
+Jadielson observou que as páginas no Notion estavam atualizadas, mas incompletas na descrição. Solicitou que a pauta do dia no Notion venha como enviada no chat: script completo com headline, legenda, cenas, stories e observações. Foi executada atualização complementar nas 18 páginas de 08/07 a 31/07, anexando seção `ROTEIRO COMPLETO` com pauta do dia, headline/gancho, roteiro do feed por cenas, abordagem narrativa, legenda, stories completos, cuidados de captação e controle de rodízio. Também atualizados os campos `Briefing/Roteiro` e `Observações` com referência ao roteiro completo no corpo da página.
+
+Resultado salvo em: `F2-memory/outputs/saude-sao-sebastiao/notion/2026-07-08-notion-calendario-julho-full-scripts-result.json`.

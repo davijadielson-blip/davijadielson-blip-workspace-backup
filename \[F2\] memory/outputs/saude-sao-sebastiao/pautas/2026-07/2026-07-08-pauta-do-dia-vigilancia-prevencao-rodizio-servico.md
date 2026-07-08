@@ -110,3 +110,50 @@ Durante as visitas, os Agentes de Combate às Endemias orientam as famílias, id
 
 Eliminar água parada, receber bem o agente identificado e manter o quintal em atenção são atitudes que fazem diferença. É esse cuidado diário, feito com presença e coração, que fortalece a saúde de São Sebastião.
 
+
+---
+
+# Guia permanente de redação — legendas Saúde SSS
+
+## Diretriz aprovada por Jadielson em 2026-07-08
+
+As legendas da Saúde São Sebastião devem ser sempre criativas, persuasivas e acolhedoras, evitando repetição mecânica de palavras, fórmulas e assinaturas.
+
+### Regras práticas
+
+- Não repetir o slogan “A gente faz com coração” como assinatura fixa em todas as legendas.
+- Quando usar o slogan/ideia da gestão, inserir de forma orgânica no texto.
+- Evitar encerramentos automáticos e previsíveis.
+- Variar vocabulário entre cuidado, presença, território, orientação, proteção, acolhimento, rotina, serviço, vínculo, compromisso e comunidade.
+- Priorizar texto humano, claro e institucional, mas com força de convencimento.
+- Cada legenda deve parecer escrita para aquele serviço específico, não reaproveitada de outro post.
+- Manter tom acolhedor e útil, com CTA natural quando fizer sentido.
+
+### Fórmula recomendada
+
+1. Abrir com uma frase forte ligada ao serviço real do dia.
+2. Explicar o que a equipe faz e por que isso importa para a população.
+3. Conectar o serviço à vida cotidiana das famílias.
+4. Fechar com uma ideia de cuidado/presença/compromisso, sem carimbo repetitivo.
+
+
+---
+
+# Ajuste solicitado — story extra de oftalmologia em 08/07
+
+## Diretriz de Jadielson em 2026-07-08
+
+Na pauta de hoje, além da lógica principal de Vigilância/Prevenção com Endemias como feed protagonista, acrescentar apenas mais um story sobre o atendimento de oftalmologista: serviço mensal que atende quase 50 pessoas.
+
+## Story extra inserido
+
+### Story 6 — Serviço complementar / Oftalmologia mensal
+Texto: “Hoje também tem atendimento com oftalmologista na rede municipal: um serviço mensal que atende quase 50 pessoas e amplia o cuidado com a visão.”
+Cena sugerida: ambiente do atendimento, profissional/equipamento ou recepção organizada, sem expor pacientes ou dados pessoais.
+Observação: manter como story complementar do dia, sem trocar o feed protagonista de Endemias.
+
+---
+
+# Atualização Notion — calendário julho a partir de 08/07
+
+Calendário do mês corrente recriado e atualizado no Notion a partir de 08/07/2026, seguindo a nova regra: macrofrente fixa → setor/unidade → serviço específico protagonista do feed → stories de apoio. Resultado salvo em `F2-memory/outputs/saude-sao-sebastiao/notion/2026-07-08-notion-calendario-julho-a-partir-08-v3-result.json`.
