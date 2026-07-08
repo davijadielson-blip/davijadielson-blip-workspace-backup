@@ -92,3 +92,17 @@ Observação: nenhuma exclusão foi executada.
 - Link: https://drive.google.com/drive/folders/1U6us-zXwjjAExu321JdLIakiypE-PFU9
 - Relatório: `F2-memory/outputs/reports/drive-01-clientes-reorganizacao-2026-07-08.md`.
 - Observação: conteúdos financeiros permanecem separados em `03_EMPRESA/FINANCEIRO`; a organização de `01_CLIENTES` tratou principalmente produção, identidade, planejamento, entregas e revisão de clientes não cadastrados.
+
+## Comprovante — OFF de áudio MiniDoc Karapotó Terra Nova (2026-07-08)
+
+- Tipo: pagamento Pix referente a OFF de áudio para produção do MiniDoc do 2º Jogos Indígenas Karapotó Terra Nova.
+- Classificação operacional: custo de produção / áudio / off / MiniDoc.
+- Valor visível no comprovante: R$ 70,91.
+- Data/hora visível: 08/07/2026 13:36:48.
+- Recebedor visível: BELTCONNECT — instituição EFI S.A. - IP.
+- Pagador visível: empresa de Jadielson Davi, via Nu Pagamentos.
+- Arquivo salvo no Drive em:
+  - `01_CLIENTES/ALDEIA KARAPOTÓ TERRA NOVA/03_PRODUCAO_BRUTA/II JOGOS INDIGENAS TERRA NOVA_2026/00_ADMIN_FINANCEIRO/01_COMPROVANTES_CUSTOS/01_AUDIO_OFF/2026-07-08_comprovante_pix_R-70-91_off-audio_minidoc_2-jogos-indigenas-karapoto-terra-nova.jpg`
+- Link do arquivo: https://drive.google.com/file/d/17umL2VUj4aFM1mZLSgwy_Q4ct15HauNw/view?usp=drivesdk
+- Link da pasta `01_AUDIO_OFF`: https://drive.google.com/drive/folders/1ALd1uzMxAc-RGtrb2BAZm9JZEEmW0W9j
+- Observação: não foi lançado na planilha financeira ainda; aguardar confirmação se o lançamento contábil deve ser feito agora.
