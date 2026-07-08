@@ -1,0 +1,707 @@
+{
+  "items": [
+    {
+      "id": "1wFqz9i3YVqagIDB4EZBPWoXZoVKN5CDE",
+      "name": "01_IDENTIDADE_VISUAL_LOGIKA",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA",
+      "parentId": "1RLmU3ArJZ8YXdjvUh21heW4BcXB8_JK4",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:54:45.114Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "name": "MATERIAL IDV - LO\\u0301GIKA CREATIVE-20250915T204950Z-1-001",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001",
+      "parentId": "1wFqz9i3YVqagIDB4EZBPWoXZoVKN5CDE",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:54:59.258Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1IZX6JOubTluveZNZpfaxV1L0B7a2msXL",
+      "name": "APRESENTAC\\u0327A\\u0303O IDENTIDADE VISUAL - LO\\u0301GIKA CREATIVE.pdf",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/APRESENTAC_u0327A_u0303O IDENTIDADE VISUAL - LO_u0301GIKA CREATIVE.pdf",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/pdf",
+      "size": 76414403,
+      "modifiedTime": "2026-07-08T02:55:08.397Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1mRkuEEw9ASoKtnIoEId-hyUGwMND85b_",
+      "name": "BOTTOM",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/BOTTOM",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:55:00.338Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1gTmHM7aM3b1R9MN_zPg8oUN-q6ME_SGM",
+      "name": "BOTTOM - IMAGEM.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/BOTTOM/BOTTOM - IMAGEM.png",
+      "parentId": "1mRkuEEw9ASoKtnIoEId-hyUGwMND85b_",
+      "mimeType": "image/png",
+      "size": 10196920,
+      "modifiedTime": "2026-07-08T02:55:10.214Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "11tfFaGsHpH1MBri-C51aaGpUYrh3WZN4",
+      "name": "BOTTOM - IMPRESSA\\u0303O.pdf",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/BOTTOM/BOTTOM - IMPRESSA_u0303O.pdf",
+      "parentId": "1mRkuEEw9ASoKtnIoEId-hyUGwMND85b_",
+      "mimeType": "application/pdf",
+      "size": 4463653,
+      "modifiedTime": "2026-07-08T02:55:13.734Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "10qq8iYiC7lJQWdzG3D2XbGGoXCRiAxIj",
+      "name": "CANECA",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CANECA",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:55:01.798Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1ogMP5T9UAUJEkyTGFERMOQoYKeigniqb",
+      "name": "CANECA - IMAGEM.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CANECA/CANECA - IMAGEM.png",
+      "parentId": "10qq8iYiC7lJQWdzG3D2XbGGoXCRiAxIj",
+      "mimeType": "image/png",
+      "size": 14147555,
+      "modifiedTime": "2026-07-08T02:55:15.540Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1AsVq66r8Fsvt0SbiiVeYrFGSC--xKCpM",
+      "name": "CANECA - IMPRESSA\\u0303O.pdf",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CANECA/CANECA - IMPRESSA_u0303O.pdf",
+      "parentId": "10qq8iYiC7lJQWdzG3D2XbGGoXCRiAxIj",
+      "mimeType": "application/pdf",
+      "size": 292091,
+      "modifiedTime": "2026-07-08T02:55:19.226Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1IZAjz1NxMjyRiZKKQ3qvEDbmSN3sr1lQ",
+      "name": "CARTA\\u0303O DE VISITA",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CARTA_u0303O DE VISITA",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:55:02.798Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1W516ofhD-xysBIC-ljy3R3YoAfkxBIVG",
+      "name": "CARTA\\u0303O DE VISITA LOGIKA - FRENTE.pdf",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CARTA_u0303O DE VISITA/CARTA_u0303O DE VISITA LOGIKA - FRENTE.pdf",
+      "parentId": "1IZAjz1NxMjyRiZKKQ3qvEDbmSN3sr1lQ",
+      "mimeType": "application/pdf",
+      "size": 230166,
+      "modifiedTime": "2026-07-08T02:55:21.185Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1sVtCsN9_ESOhIGlXnsndhcNie64azpRZ",
+      "name": "CARTA\\u0303O DE VISITA LOGIKA - VERSO.pdf",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CARTA_u0303O DE VISITA/CARTA_u0303O DE VISITA LOGIKA - VERSO.pdf",
+      "parentId": "1IZAjz1NxMjyRiZKKQ3qvEDbmSN3sr1lQ",
+      "mimeType": "application/pdf",
+      "size": 495384,
+      "modifiedTime": "2026-07-08T02:55:22.995Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1buzm_ut-W1655D7Kgn5i6RB6PF9kovlB",
+      "name": "CRACHA\\u0301",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CRACHA_u0301",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:55:04.062Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1c66JbV1biFO2ZxopCed2d9Hcx2PM8TfT",
+      "name": "BASE - CRACHA\\u0301.pdf",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CRACHA_u0301/BASE - CRACHA_u0301.pdf",
+      "parentId": "1buzm_ut-W1655D7Kgn5i6RB6PF9kovlB",
+      "mimeType": "application/pdf",
+      "size": 1964495,
+      "modifiedTime": "2026-07-08T02:55:24.895Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1gCF75Hx4k2WekSTRsuFuTOwDHU0l1klO",
+      "name": "CORDA\\u0303O - CRACHA\\u0301.pdf",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/CRACHA_u0301/CORDA_u0303O - CRACHA_u0301.pdf",
+      "parentId": "1buzm_ut-W1655D7Kgn5i6RB6PF9kovlB",
+      "mimeType": "application/pdf",
+      "size": 323542,
+      "modifiedTime": "2026-07-08T02:55:26.674Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "name": "LOGOS",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:55:05.068Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "19ZeHKIdFuvVeJka-tyOCg3ggYj5n4DdU",
+      "name": "LOGO 01 - BRANCA FUNDO MAGENTA.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - BRANCA FUNDO MAGENTA.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 124380,
+      "modifiedTime": "2026-07-08T02:55:28.632Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "103VAjG-8s2VXOxzA1ZKO3sVvXljFsnXo",
+      "name": "LOGO 01 - BRANCA FUNDO PRETO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - BRANCA FUNDO PRETO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 136002,
+      "modifiedTime": "2026-07-08T02:55:31.336Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "18kodn6G-mknnW1GLv00kxapYuGdwIRHQ",
+      "name": "LOGO 01 - BRANCA SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - BRANCA SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 108168,
+      "modifiedTime": "2026-07-08T02:55:33.562Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1nYrb254tIvW7a82ntHDcdhRXIgiYXsuc",
+      "name": "LOGO 01 - COLORIDA 1 SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - COLORIDA 1 SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 105260,
+      "modifiedTime": "2026-07-08T02:55:35.818Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "18dGb67nhPyC9TU2k8zlJtEL-0oDheDiQ",
+      "name": "LOGO 01 - COLORIDA 2 SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - COLORIDA 2 SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 110108,
+      "modifiedTime": "2026-07-08T02:55:38.251Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1IiFX56AWi6O9t5cKPLN_0skwAPQImwC3",
+      "name": "LOGO 01 - COLORIDA FUNDO BRANCO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - COLORIDA FUNDO BRANCO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 127082,
+      "modifiedTime": "2026-07-08T02:55:40.633Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1FEdaWDxy39rzqG8Nw9qXzb65lxTVWkDP",
+      "name": "LOGO 01 - COLORIDA FUNDO PRETO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - COLORIDA FUNDO PRETO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 135915,
+      "modifiedTime": "2026-07-08T02:55:43.119Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1Rdt3vW27DvtiI-5vU67bK78ARJ_f6Nya",
+      "name": "LOGO 01 - MAGENTA FUNDO BRANCO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - MAGENTA FUNDO BRANCO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 123909,
+      "modifiedTime": "2026-07-08T02:55:45.398Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "18AJVDw0t1H_c5-NHbm1W1gvW12yun76q",
+      "name": "LOGO 01 - MAGENTA FUNDO PRETO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - MAGENTA FUNDO PRETO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 124439,
+      "modifiedTime": "2026-07-08T02:55:47.952Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1krMhwWqA04fNC8VmJZ_QM73NBAciRHfj",
+      "name": "LOGO 01 - MAGENTA SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - MAGENTA SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 98107,
+      "modifiedTime": "2026-07-08T02:55:50.471Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1V_Z9ui8QvSpsZuZFwpfyC7h5I4cjbvTk",
+      "name": "LOGO 01 - PRETA FUNDO BRANCO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - PRETA FUNDO BRANCO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 126264,
+      "modifiedTime": "2026-07-08T02:55:52.847Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "10IfpxrMPWKbkLg_tJ57crFgaUkXcM15s",
+      "name": "LOGO 01 - PRETA FUNDO MAGENTA_.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - PRETA FUNDO MAGENTA_.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 124575,
+      "modifiedTime": "2026-07-08T02:55:55.086Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1DpAW3TO4OAQyQjilcYtPFL3MUCBDbbKQ",
+      "name": "LOGO 01 - PRETA SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 01 - PRETA SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 98563,
+      "modifiedTime": "2026-07-08T02:55:57.632Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1EBXlF6S36U_J5lFPwuWFN8s3jXyVbW0c",
+      "name": "LOGO 02 - BRANCA FUNDO PRETO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - BRANCA FUNDO PRETO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 148778,
+      "modifiedTime": "2026-07-08T02:55:59.841Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1IsNBdw7eOkLV-om0dqY7PLSxezBLfQCy",
+      "name": "LOGO 02 - BRANCA SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - BRANCA SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 108595,
+      "modifiedTime": "2026-07-08T02:56:02.694Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "17twmWzHVsTDAbTEygTvmECfIuB-Zl8Bc",
+      "name": "LOGO 02 - COLORIDA 1 FUNDO PRETO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - COLORIDA 1 FUNDO PRETO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 146475,
+      "modifiedTime": "2026-07-08T02:56:05.346Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1ApaQg8l6akthWzz57PUBQ7EUeLhH7Voh",
+      "name": "LOGO 02 - COLORIDA 1 SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - COLORIDA 1 SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 127924,
+      "modifiedTime": "2026-07-08T02:56:07.708Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1zDXNHJH5iJtuvwo_o--LoZ77XKUqMmjK",
+      "name": "LOGO 02 - COLORIDA 2 FUNDO BRANCO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - COLORIDA 2 FUNDO BRANCO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 146863,
+      "modifiedTime": "2026-07-08T02:56:10.528Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1YO_us6t_rIf_v0BkWiUL7z7EsTG8tl3u",
+      "name": "LOGO 02 - COLORIDA 2 SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - COLORIDA 2 SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 131216,
+      "modifiedTime": "2026-07-08T02:56:12.926Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1vNxJ7FKzvu3uWGVtjmB3oHQwhB2xBHE5",
+      "name": "LOGO 02 - MAGENTA FUNDO BRANCO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - MAGENTA FUNDO BRANCO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 140348,
+      "modifiedTime": "2026-07-08T02:56:15.466Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1Ln8LD5tpRbJoCuOl2oE0H3T6hQ4SUF6f",
+      "name": "LOGO 02 - MAGENTA FUNDO PRETO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - MAGENTA FUNDO PRETO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 139093,
+      "modifiedTime": "2026-07-08T02:56:17.837Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1oKskI4wazY1h_2JE7PuoBS9aBfRk3opq",
+      "name": "LOGO 02 - MAGENTA SEM FUNDO.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/LOGOS/LOGO 02 - MAGENTA SEM FUNDO.png",
+      "parentId": "1VKRDrE4N5ALWy92eoJgAwF5s2XxN-Suu",
+      "mimeType": "image/png",
+      "size": 115498,
+      "modifiedTime": "2026-07-08T02:56:20.013Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1vjbIE7v9wYWd5puAs2gETriTdSsPxvfg",
+      "name": "MATERIAL IDV - LO\\u0301GIKA CREATIVE-20250915T204950Z-1-001.zip",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001.zip",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/zip",
+      "size": 55428041,
+      "modifiedTime": "2026-07-08T02:56:22.873Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1tpwGZ_vEGxjf5EBqhKJQW1QETyXfvzsA",
+      "name": "PAPEL DE PAREDE - MACBOOK",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/PAPEL DE PAREDE - MACBOOK",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:55:05.980Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1DPHMXPxpWRqlFkzBslbrEqsv0t1HSAj-",
+      "name": "PAPEL DE PAREDE - LOGIKA CREATIVE.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/PAPEL DE PAREDE - MACBOOK/PAPEL DE PAREDE - LOGIKA CREATIVE.png",
+      "parentId": "1tpwGZ_vEGxjf5EBqhKJQW1QETyXfvzsA",
+      "mimeType": "image/png",
+      "size": 173327,
+      "modifiedTime": "2026-07-08T02:56:24.646Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1goMXnRjolsnpeck7RCC-xP-G_zsnbAaY",
+      "name": "PLACA",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/PLACA",
+      "parentId": "1jkxaPOdAx1fLcoBma0DdVvAM4QjDX7ys",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:55:06.943Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 3
+    },
+    {
+      "id": "1NLLZa7bnlP8uWMmnfoZY34KA8hbwU7O3",
+      "name": "PLACA LOGIKA - IMAGEM.png",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/PLACA/PLACA LOGIKA - IMAGEM.png",
+      "parentId": "1goMXnRjolsnpeck7RCC-xP-G_zsnbAaY",
+      "mimeType": "image/png",
+      "size": 20332306,
+      "modifiedTime": "2026-07-08T02:56:26.804Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "1aCdsGlAx1qKJVTB0KrxBs_ta9E89G4cz",
+      "name": "PLACA LOGIKA - IMPRESSA\\u0303O.pdf",
+      "path": "01_IDENTIDADE_VISUAL_LOGIKA/MATERIAL IDV - LO_u0301GIKA CREATIVE-20250915T204950Z-1-001/PLACA/PLACA LOGIKA - IMPRESSA_u0303O.pdf",
+      "parentId": "1goMXnRjolsnpeck7RCC-xP-G_zsnbAaY",
+      "mimeType": "application/pdf",
+      "size": 362171,
+      "modifiedTime": "2026-07-08T02:56:31.220Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 4
+    },
+    {
+      "id": "16pnKTawg_YW7e_l2a1xgnO5VhKx_Sv8U",
+      "name": "02_FORMULARIOS_BRIEFINGS",
+      "path": "02_FORMULARIOS_BRIEFINGS",
+      "parentId": "1RLmU3ArJZ8YXdjvUh21heW4BcXB8_JK4",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:54:46.123Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1DLBqkVea87k5nVa5kafqmKGuGqvA9czgQQc7facCJ7w",
+      "name": "BRIEFING PARA IDENTIDADE VISUAL",
+      "path": "02_FORMULARIOS_BRIEFINGS/BRIEFING PARA IDENTIDADE VISUAL",
+      "parentId": "16pnKTawg_YW7e_l2a1xgnO5VhKx_Sv8U",
+      "mimeType": "application/vnd.google-apps.form",
+      "size": 280127,
+      "modifiedTime": "2026-07-08T02:56:42.044Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1xfFSWfDYZI6cRXIPHM-HgwgfDvpkPrcHMVWgQYyL2cU",
+      "name": "Diagn\\u00f3stico Estrat\\u00e9gico - L\\u00f3gika Creative",
+      "path": "02_FORMULARIOS_BRIEFINGS/Diagn_u00f3stico Estrat_u00e9gico - L_u00f3gika Creative",
+      "parentId": "16pnKTawg_YW7e_l2a1xgnO5VhKx_Sv8U",
+      "mimeType": "application/vnd.google-apps.form",
+      "size": 2679,
+      "modifiedTime": "2026-07-08T02:56:48.049Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "11m7u9T6Hl5wR-3k2evU3LDqFkDXqrfSOYNzMar59u70",
+      "name": "Rapidinho: Me Conta do Seu Neg\\u00f3cio!",
+      "path": "02_FORMULARIOS_BRIEFINGS/Rapidinho: Me Conta do Seu Neg_u00f3cio!",
+      "parentId": "16pnKTawg_YW7e_l2a1xgnO5VhKx_Sv8U",
+      "mimeType": "application/vnd.google-apps.form",
+      "size": 7929061,
+      "modifiedTime": "2026-07-08T02:56:54.544Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1fWJFxvRtCzoyO-ezBIN3ZotqlF2B4WpJORNwSWyXytU",
+      "name": "Rapidinho: Me Conta do Seu Neg\\u00f3cio! (respostas)",
+      "path": "02_FORMULARIOS_BRIEFINGS/Rapidinho: Me Conta do Seu Neg_u00f3cio! (respostas)",
+      "parentId": "16pnKTawg_YW7e_l2a1xgnO5VhKx_Sv8U",
+      "mimeType": "application/vnd.google-apps.spreadsheet",
+      "size": 3307,
+      "modifiedTime": "2026-07-08T02:56:34.976Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "179s9P-4GNnonlaVeSZXbtS-L8n0LUhAm",
+      "name": "03_PLANILHAS_E_DOCUMENTOS",
+      "path": "03_PLANILHAS_E_DOCUMENTOS",
+      "parentId": "1RLmU3ArJZ8YXdjvUh21heW4BcXB8_JK4",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:54:47.241Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1IlowZmIvb1QQQg-D4TBb-MfQBcGazh1fPZ3bQwQnOcE",
+      "name": "PLANILHA DE CÁLCULO VALOR DA HORA DE TRABALHO - LÓGIKA",
+      "path": "03_PLANILHAS_E_DOCUMENTOS/PLANILHA DE CÁLCULO VALOR DA HORA DE TRABALHO - LÓGIKA",
+      "parentId": "179s9P-4GNnonlaVeSZXbtS-L8n0LUhAm",
+      "mimeType": "application/vnd.google-apps.spreadsheet",
+      "size": 68431,
+      "modifiedTime": "2026-07-08T02:53:30.253Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1oSWSUOAWeMA40HdX-GKUf8PN2yj0otV-",
+      "name": "04_PROPOSTAS",
+      "path": "04_PROPOSTAS",
+      "parentId": "1RLmU3ArJZ8YXdjvUh21heW4BcXB8_JK4",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:54:48.629Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1vGaq6DODaWLcL2QLQb8Gu26I2ccEjf8VxMTMBYgBDvc",
+      "name": "PROPROSTA PRESTA\\u00c7\\u00c3O DE SERVI\\u00c7O 02",
+      "path": "04_PROPOSTAS/PROPROSTA PRESTA_u00c7_u00c3O DE SERVI_u00c7O 02",
+      "parentId": "1oSWSUOAWeMA40HdX-GKUf8PN2yj0otV-",
+      "mimeType": "application/vnd.google-apps.document",
+      "size": 4227,
+      "modifiedTime": "2026-07-08T02:56:59.673Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "1jXXxBKVYwDRLF-jAlVsrLqFNOxSOZzbu",
+      "name": "99_TRIAGEM_EMPRESA",
+      "path": "99_TRIAGEM_EMPRESA",
+      "parentId": "1RLmU3ArJZ8YXdjvUh21heW4BcXB8_JK4",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-07-08T02:54:49.636Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 1
+    },
+    {
+      "id": "1Q8Xlh5gZ36vTUzpkLjDvA3JhmtsLS6n8",
+      "name": "C\\u00f3pia de Raio x da empresa.xlsx",
+      "path": "99_TRIAGEM_EMPRESA/C_u00f3pia de Raio x da empresa.xlsx",
+      "parentId": "1jXXxBKVYwDRLF-jAlVsrLqFNOxSOZzbu",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 34256,
+      "modifiedTime": "2026-07-08T02:57:05.530Z",
+      "owners": [
+        "logikacreative.mkt@gmail.com"
+      ],
+      "depth": 2
+    }
+  ],
+  "truncated": false
+}
