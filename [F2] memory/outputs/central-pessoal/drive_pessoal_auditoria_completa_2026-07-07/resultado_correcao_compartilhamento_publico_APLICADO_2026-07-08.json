@@ -1,0 +1,159 @@
+{
+  "timestamp": "2026-07-08T01:35:23.930581Z",
+  "results": [
+    {
+      "id": "1KUIUH7C4uIWYSAf9t1Z2hRNu03U7D_mB",
+      "path": "EBOOKs/100 Títulos Que Chamam a Atenção.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1KUIUH7C4uIWYSAf9t1Z2hRNu03U7D_mB\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1fVOfFtvWvybaSYP8f8e2qIyKCDok-bfM",
+      "path": "EBOOKs/100 Títulos Que Chamam a Atenção.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1fVOfFtvWvybaSYP8f8e2qIyKCDok-bfM\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "10mOuup8VILhxdRTU-U8k_0hdXEgTScOa",
+      "path": "EBOOKs/A CARTA DE VENDAS DE 16 PALAVRAS.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"10mOuup8VILhxdRTU-U8k_0hdXEgTScOa\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1T52vDmscKhdXy3AtZu-LTmT0ngzJKT3K",
+      "path": "EBOOKs/Armas da persuasão - Robert B. Cialdini .epub.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1T52vDmscKhdXy3AtZu-LTmT0ngzJKT3K\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1JdvU_9c7QGc3L1Q1I8jgX8M9zkPDXjK3",
+      "path": "EBOOKs/Como faturar 3k vendendo produtos de Social Media.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1JdvU_9c7QGc3L1Q1I8jgX8M9zkPDXjK3\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1O7BwwLxkx6hLzotG8nI_-Nx55QHFE8Mr",
+      "path": "EBOOKs/Escolha Voce - James Altucher.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1O7BwwLxkx6hLzotG8nI_-Nx55QHFE8Mr\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "11zlm3Q3ybJaInNKAcxFNFcmuoQUNfdeL",
+      "path": "EBOOKs/Fora de Serie - Outliers - Malcolm Gladwell.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"11zlm3Q3ybJaInNKAcxFNFcmuoQUNfdeL\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1mYS9Q9jmFdIyq_jBInbJMlDDsIUJADF1",
+      "path": "EBOOKs/Hackeando o Conteúdo - Rafael Marques.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1mYS9Q9jmFdIyq_jBInbJMlDDsIUJADF1\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1AA-nphfKyc0inUrKQPYoinUqcLLg9AqS",
+      "path": "EBOOKs/Mario Schwartzmann - De Olhos Abertos.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1AA-nphfKyc0inUrKQPYoinUqcLLg9AqS\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1guLSO39AddR5McuRq89ff6xWwSXe6BXh",
+      "path": "EBOOKs/Profissão Social Media.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1guLSO39AddR5McuRq89ff6xWwSXe6BXh\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "13mLs6d7DNI8QH57nY9zEDJbT2XPUXEB5",
+      "path": "EBOOKs/Roube Como Um Artista - Austin Kleon.epub",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"13mLs6d7DNI8QH57nY9zEDJbT2XPUXEB5\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1EctKFJqehDmOIFnp9h3zLSKWez-QuFvObnMoLJpDHfc",
+      "path": "PLANILHA DE CÁLCULO VALOR DA HORA DE TRABALHO - LÓGIKA",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1EctKFJqehDmOIFnp9h3zLSKWez-QuFvObnMoLJpDHfc\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1ZhXl_PlzmBcuxkeJp_r1AA5sgN_ni9ga5R3uPV-VCmk",
+      "path": "Rapidinho: Me Conta do Seu Negócio!",
+      "permissionType": "anyone",
+      "role": "writer",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1ZhXl_PlzmBcuxkeJp_r1AA5sgN_ni9ga5R3uPV-VCmk\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "id": "1zK_IUKc7rNC9e9PpV8fvjsG79x9o9-EdwrH2YiUq73E",
+      "path": "PROPROSTA PRESTAÇÃO DE SERVIÇO 02",
+      "permissionType": "anyone",
+      "role": "reader",
+      "email": "",
+      "permId": "anyoneWithLink",
+      "returncode": 0,
+      "stdout": "{\n  \"fileId\": \"1zK_IUKc7rNC9e9PpV8fvjsG79x9o9-EdwrH2YiUq73E\",\n  \"permissionId\": \"anyoneWithLink\",\n  \"removed\": true\n}\n",
+      "stderr": ""
+    }
+  ]
+}
