@@ -74,6 +74,26 @@ Base inicial: comprovantes pessoais registrados em julho/2026 no arquivo `[F2] m
 - Zapier Google Sheets foi localizado e habilitado, mas exige autenticação própria antes de executar criação/edição de planilhas por esse caminho.
 - Próximo passo: criar a planilha via `gog` assim que o limite técnico do container normalizar, ou autenticar Google Sheets no Zapier se Jadielson/Lôh preferirem esse caminho.
 
+## Atualização — 2026-07-08 21:18 UTC
+
+Lôh informou que a planilha já foi criada com sucesso no turno anterior usando Python direto com Google Sheets API v4 e credenciais OAuth autorizadas.
+
+- Planilha: `Warren — Controle Financeiro Pessoal 2026`
+- Spreadsheet ID: `1HS9w4c04l2tUlggaztNPQuk-2BYIDmaTHTI7Df0QCGs`
+- URL: `https://docs.google.com/spreadsheets/d/1HS9w4c04l2tUlggaztNPQuk-2BYIDmaTHTI7Df0QCGs/edit`
+- Local: pasta `FINANCEIRO` no Drive pessoal.
+- Abas criadas:
+  - `Resumo` — 10 colunas, de Mês a % Economia.
+  - `Lançamentos` — 11 colunas, de Data a Observações.
+  - `Contas a pagar` — 10 colunas, de Vencimento a Pago em.
+  - `Config` — 4 colunas, de Parâmetro a Descrição.
+- Token OAuth com refresh automático salvo em `scripts/.secrets/google-sheets-token.json`.
+- Script operacional indicado por Lôh: `scripts/.secrets/financeiro_criar_planilha.py`.
+- Zapier não é necessário para alimentar a planilha.
+- Risco técnico persistente: quando o container estiver carregado, comandos podem falhar com `EAGAIN`/limite de processos.
+
+Próximo passo do Warren: alimentar a aba `Lançamentos` com os comprovantes pessoais de julho/2026 já registrados no Cofre e depois atualizar `Resumo` e `Contas a pagar`.
+
 ## Regra de segurança
 
 Não registrar dados empresariais da LÓGIKA nesta planilha. Se algum comprovante ou despesa empresarial aparecer no My Finance, encaminhar para Alfred/Lôh ou para o tópico financeiro da LÓGIKA.
