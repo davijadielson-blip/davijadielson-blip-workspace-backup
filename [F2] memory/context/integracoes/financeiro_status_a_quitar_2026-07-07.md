@@ -23,13 +23,22 @@ Escopo: finanças pessoais de Jadielson.
 
 ## Ainda sem comprovante/pendente de confirmação
 - Escola Eloah corrente: pendente de confirmação com a escola, pois comprovante de R$ 380,00 foi de conta futura.
-- Internet: referência R$ 126,00.
+- Internet: PAGA em 2026-07-07 — TC Telecom Ltda — R$ 108,00.
 - Água mineral: referência R$ 36,00.
-- Plano TIM: referência R$ 46,99.
-- Plano Claro: referência R$ 69,90.
 - Mercado/alimentação: teto mensal R$ 1.000,00; pagos/registrados R$ 671,57; saldo de referência R$ 328,43.
 - Prestação da moto: R$ 683,00 — fora do repasse; esposa paga diretamente, mas falta confirmação de pagamento do mês.
 - Cartão pessoal/Nubank: referência antiga ~R$ 500,00; falta confirmar fatura atual.
 - iCloud/assinaturas no cartão: fora do repasse; falta conferir no cartão.
 - Combustível: variável; falta controle/valor do mês.
 - BS2: pendente estrutural, mas não entrar em acordo/quitação sem caixa e proposta atualizada.
+
+
+## Ajuste 2026-07-08 — planos telefônicos fora do pessoal
+
+Jadielson decidiu tirar os planos telefônicos do pessoal e jogar para o empresarial.
+
+Assim, deixam de constar como pendência pessoal:
+- Plano TIM: R$ 46,99.
+- Plano Claro: R$ 69,90.
+
+Atenção: não lançar no pessoal. Encaminhar classificação/controle empresarial para Alfred/Lôh.

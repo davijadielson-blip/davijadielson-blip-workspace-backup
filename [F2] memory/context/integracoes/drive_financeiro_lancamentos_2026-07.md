@@ -114,3 +114,24 @@ Jadielson enviou 5 imagens e pediu para acrescentar aos comprovantes pagos. Uplo
 
 Total adicional: R$ 354,60.
 Observação: os dois de proteção veicular foram mantidos como lançamentos separados porque têm valores diferentes, embora a descrição seja parecida.
+
+### Internet paga — TC Telecom — 2026-07-08 03:58 UTC
+
+Jadielson enviou comprovante de internet paga.
+
+Dados extraídos:
+- Data do pagamento: 2026-07-07.
+- Valor: R$ 108,00.
+- Beneficiário/descrição: Pagamento de boleto — TC Telecom Ltda.
+- Categoria: INTERNET.
+- Status: PAGO.
+
+Arquivo local no Cofre:
+`[F2] memory/inbox-externa/financeiro/2026/07-Julho/02-Comprovantes-Pagos/2026-07-07__INTERNET__tc-telecom-ltda__R-108-00__PAGO.jpg`
+
+Arquivo enviado ao Drive pessoal:
+- Pasta: `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`
+- Drive ID: `1g-P_JPOI7tarBFdwVJUXd3wSqZ9C87WO`
+- Link: `https://drive.google.com/file/d/1g-P_JPOI7tarBFdwVJUXd3wSqZ9C87WO/view?usp=drivesdk`
+
+Impacto no status a quitar: Internet sai da lista de pendências. Valor de referência anterior era R$ 126,00; pago real foi R$ 108,00.

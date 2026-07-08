@@ -152,3 +152,18 @@ Confirmação de Jadielson:
   - Energia: valor a confirmar.
 
 Regra: não misturar despesas da mãe nem Claro empresa na base limpa pessoal/esposa sem confirmação explícita de valor e responsabilidade de pagamento.
+
+
+## Ajuste — retirar planos telefônicos do pessoal / migrar para empresarial
+
+Data: 2026-07-08
+
+Decisão de Jadielson: tirar os planos telefônicos do controle pessoal e jogar para o empresarial.
+
+Impacto no controle pessoal:
+- Plano TIM R$ 46,99 sai da lista de pendências pessoais e do repasse à esposa.
+- Plano Claro R$ 69,90 sai da lista de pendências pessoais e do repasse à esposa.
+- Redução da base pessoal de referência: R$ 116,89.
+- Base limpa atualizada, retirando TIM/Claro: R$ 3.506,83/mês.
+
+Parede d'água: Warren apenas retira do pessoal. A classificação/lançamento empresarial deve ser tratada pelo fluxo empresarial com Alfred/Lôh, sem misturar no orçamento pessoal.
