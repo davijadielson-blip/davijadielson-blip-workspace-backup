@@ -70,3 +70,25 @@ Estrutura raiz resultante:
   - recebeu `MIGRADO_DO_DRIVE_PESSOAL_2026-07-08/`
 
 Observação: nenhuma exclusão foi executada.
+
+## Atualização — reorganização profunda de `03_EMPRESA` em 2026-07-08
+
+- A planilha `Receitas e Despesas — LÓGIKA` agora está em:
+  - `03_EMPRESA/FINANCEIRO/01_CONTROLE_RECEITAS_DESPESAS/Receitas e Despesas — LÓGIKA`
+- Itens financeiros antigos encontrados em `LÓGIKA/FINANCEIRO` foram redistribuídos entre:
+  - `01_CONTROLE_RECEITAS_DESPESAS`
+  - `02_PRECIFICACAO_ORCAMENTOS`
+  - `03_COMPROVANTES_NF`
+  - `04_RELATORIOS_HISTORICO`
+  - `05_PLANILHAS_MODELOS`
+  - `99_DUPLICADOS_REVISAR`
+  - `99_ARQUIVOS_SENSIVEIS_REVISAR`
+- Nada foi apagado; duplicados aparentes foram isolados para revisão.
+- Relatório completo: `F2-memory/outputs/reports/drive-03-empresa-reorganizacao-2026-07-08.md`.
+
+## Referência operacional — reorganização de clientes no Drive
+
+- A pasta `01_CLIENTES` do Drive LÓGIKA foi reorganizada em 2026-07-08 por cliente e função operacional.
+- Link: https://drive.google.com/drive/folders/1U6us-zXwjjAExu321JdLIakiypE-PFU9
+- Relatório: `F2-memory/outputs/reports/drive-01-clientes-reorganizacao-2026-07-08.md`.
+- Observação: conteúdos financeiros permanecem separados em `03_EMPRESA/FINANCEIRO`; a organização de `01_CLIENTES` tratou principalmente produção, identidade, planejamento, entregas e revisão de clientes não cadastrados.
