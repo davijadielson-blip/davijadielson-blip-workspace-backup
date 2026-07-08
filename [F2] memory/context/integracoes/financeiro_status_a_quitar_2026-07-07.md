@@ -28,9 +28,17 @@ Escopo: finanças pessoais de Jadielson.
 - Mercado/alimentação: teto mensal R$ 1.000,00; pagos/registrados R$ 671,57; saldo de referência R$ 328,43.
 - Prestação da moto: R$ 683,00 — fora do repasse; esposa paga diretamente, mas falta confirmação de pagamento do mês.
 - Cartão pessoal/Nubank: referência antiga ~R$ 500,00; falta confirmar fatura atual.
-- iCloud/assinaturas no cartão: fora do repasse; falta conferir no cartão.
 - Combustível: variável; falta controle/valor do mês.
-- BS2: pendente estrutural, mas não entrar em acordo/quitação sem caixa e proposta atualizada.
+
+## Ajuste 2026-07-08 — iCloud e débitos estruturais fora da lista mensal urgente
+
+Jadielson decidiu que o iCloud deve ser transferido para as contas da empresa. Portanto:
+- iCloud/assinaturas Apple deixam de constar como pendência mensal pessoal.
+- Encaminhar o controle do iCloud para o fluxo empresarial da LÓGIKA/Alfred/Lôh, sem misturar na planilha pessoal.
+
+Jadielson também definiu que débitos pendentes estruturais, como BS2, devem ficar fora da lista de contas mensais urgentes, porque ainda será estudada uma forma de pagamento. Portanto:
+- BS2 permanece registrado como dívida estrutural, mas não entra no quadro de quitação rigorosa do mês.
+- Prioridade do Warren no My Finance: contas mensais recorrentes que precisam ser quitadas rigorosamente.
 
 
 ## Ajuste 2026-07-08 — planos telefônicos fora do pessoal
