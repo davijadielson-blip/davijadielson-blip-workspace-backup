@@ -85,3 +85,11 @@ Arquivos:
 Jadielson observou que as páginas no Notion estavam atualizadas, mas incompletas na descrição. Solicitou que a pauta do dia no Notion venha como enviada no chat: script completo com headline, legenda, cenas, stories e observações. Foi executada atualização complementar nas 18 páginas de 08/07 a 31/07, anexando seção `ROTEIRO COMPLETO` com pauta do dia, headline/gancho, roteiro do feed por cenas, abordagem narrativa, legenda, stories completos, cuidados de captação e controle de rodízio. Também atualizados os campos `Briefing/Roteiro` e `Observações` com referência ao roteiro completo no corpo da página.
 
 Resultado salvo em: `F2-memory/outputs/saude-sao-sebastiao/notion/2026-07-08-notion-calendario-julho-full-scripts-result.json`.
+
+## 2026-07-08 — Confirmação final de Jadielson: padrão aprovado para próximos calendários
+
+Jadielson conferiu o Notion após a correção que adicionou roteiro completo nas páginas e confirmou: “Conferi e tá certinho agora. Assim deve ser para os próximos.”
+
+Fica aprovado como padrão permanente da Saúde SSS: macrofrente fixa por dia; feed com um serviço específico protagonista; stories de apoio mostrando amplitude; rodízio por serviços internos de cada setor; tema do mês sem dominar as pautas; legendas criativas, persuasivas e acolhedoras; e Notion sempre com roteiro completo (headline, legenda, cenas, stories, cuidados de captação e controle de rodízio).
+
+Guia consolidado salvo em: `F2-memory/outputs/saude-sao-sebastiao/sistema-producao/2026-07-08-guia-operacional-calendario-social-media-saude.md`.
