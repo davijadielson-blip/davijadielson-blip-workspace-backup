@@ -1,0 +1,555 @@
+{
+  "object": "database",
+  "id": "375207e6-f145-8111-bba0-e132fd820542",
+  "cover": null,
+  "icon": null,
+  "created_time": "2026-06-04T20:36:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "370207e6-f145-815a-8f08-00270140a55b"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "370207e6-f145-815a-8f08-00270140a55b"
+  },
+  "last_edited_time": "2026-06-04T20:44:00.000Z",
+  "title": [
+    {
+      "type": "text",
+      "text": {
+        "content": "Produção & Agenda — LÓGIKA",
+        "link": null
+      },
+      "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+      },
+      "plain_text": "Produção & Agenda — LÓGIKA",
+      "href": null
+    }
+  ],
+  "description": [
+    {
+      "type": "text",
+      "text": {
+        "content": "Database mestre para agenda operacional, eventos e produção de conteúdo da LÓGIKA. Criada sem migrar ou excluir bases antigas.",
+        "link": null
+      },
+      "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+      },
+      "plain_text": "Database mestre para agenda operacional, eventos e produção de conteúdo da LÓGIKA. Criada sem migrar ou excluir bases antigas.",
+      "href": null
+    }
+  ],
+  "is_inline": false,
+  "properties": {
+    "Data de publicação": {
+      "id": "%3CTO%3E",
+      "name": "Data de publicação",
+      "description": null,
+      "type": "date",
+      "date": {}
+    },
+    "Origem": {
+      "id": "FBD%5D",
+      "name": "Origem",
+      "description": null,
+      "type": "select",
+      "select": {
+        "options": [
+          {
+            "id": "92ef1d26-ad1c-48b9-8ffd-8b32c8e6822a",
+            "name": "Captura Geral",
+            "color": "blue",
+            "description": null
+          },
+          {
+            "id": "1758f829-0bb7-4fe2-a68b-0b003c8c5106",
+            "name": "Calendário Editorial antigo",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "36054053-038b-46ea-b813-c667cfa1a108",
+            "name": "Agenda de Eventos antiga",
+            "color": "yellow",
+            "description": null
+          },
+          {
+            "id": "e604fe15-5d4c-44a1-b32f-3025ec733f13",
+            "name": "Manual",
+            "color": "orange",
+            "description": null
+          },
+          {
+            "id": "8a38c6cd-cbb2-48a2-bc97-f2da75277cc4",
+            "name": "Telegram",
+            "color": "red",
+            "description": null
+          },
+          {
+            "id": "208d6dcc-13e5-4f24-a243-cfb6cfbc2573",
+            "name": "Outro",
+            "color": "purple",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Status produção": {
+      "id": "IDjW",
+      "name": "Status produção",
+      "description": null,
+      "type": "select",
+      "select": {
+        "options": [
+          {
+            "id": "03542d48-89c1-4ea6-9863-496de6a92972",
+            "name": "Captado",
+            "color": "yellow",
+            "description": null
+          },
+          {
+            "id": "8754c2f9-a1a3-43d1-90b1-025478ac4097",
+            "name": "Não iniciado",
+            "color": "blue",
+            "description": null
+          },
+          {
+            "id": "79daee23-719f-4d5f-8db8-75269fa334a2",
+            "name": "Aguardando captação",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "0c604d90-2bab-494d-9586-bc4d2149f2df",
+            "name": "Roteiro/briefing",
+            "color": "orange",
+            "description": null
+          },
+          {
+            "id": "04e0fd35-edf6-499e-97a2-fc2fcc456957",
+            "name": "Em edição",
+            "color": "red",
+            "description": null
+          },
+          {
+            "id": "860454f1-7d8a-4ed4-a5f8-7f40adb57f2f",
+            "name": "Aguardando aprovação",
+            "color": "purple",
+            "description": null
+          },
+          {
+            "id": "09ab0c85-720d-4c03-95ed-84630f909fcc",
+            "name": "Agendado",
+            "color": "pink",
+            "description": null
+          },
+          {
+            "id": "4b111068-7697-4a64-9ead-77aa5b0e8e31",
+            "name": "Publicado",
+            "color": "brown",
+            "description": null
+          },
+          {
+            "id": "7bf52392-bdf9-4a63-bbaf-b0c9b87ace64",
+            "name": "Não se aplica",
+            "color": "gray",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Gera conteúdo?": {
+      "id": "Qhvq",
+      "name": "Gera conteúdo?",
+      "description": null,
+      "type": "select",
+      "select": {
+        "options": [
+          {
+            "id": "fcd44972-438b-4e38-86a3-f08fb5a7b6ad",
+            "name": "Sim",
+            "color": "blue",
+            "description": null
+          },
+          {
+            "id": "1631c717-1701-4afb-b7e7-9aba257fb606",
+            "name": "Não",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "8b155533-9b09-42e3-ae76-ac8e6e3915f3",
+            "name": "Talvez",
+            "color": "yellow",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Observações": {
+      "id": "S%5D%3Dq",
+      "name": "Observações",
+      "description": null,
+      "type": "rich_text",
+      "rich_text": {}
+    },
+    "Briefing/Roteiro": {
+      "id": "TJ%5DQ",
+      "name": "Briefing/Roteiro",
+      "description": null,
+      "type": "rich_text",
+      "rich_text": {}
+    },
+    "Prioridade": {
+      "id": "TY_t",
+      "name": "Prioridade",
+      "description": null,
+      "type": "select",
+      "select": {
+        "options": [
+          {
+            "id": "8fa98f81-1d16-433d-9fc3-98df1dbcdffc",
+            "name": "Baixa",
+            "color": "blue",
+            "description": null
+          },
+          {
+            "id": "2474ed37-0ad5-4c14-b336-cad29dc98c92",
+            "name": "Média",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "3fd13088-4a74-4171-ab02-9152fbda0c13",
+            "name": "Alta",
+            "color": "yellow",
+            "description": null
+          },
+          {
+            "id": "4109c203-ab07-4a1e-9d58-dadfe215037f",
+            "name": "Urgente",
+            "color": "orange",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Responsável": {
+      "id": "W_%7D%3D",
+      "name": "Responsável",
+      "description": null,
+      "type": "people",
+      "people": {}
+    },
+    "Entregas previstas": {
+      "id": "WuH%7C",
+      "name": "Entregas previstas",
+      "description": null,
+      "type": "multi_select",
+      "multi_select": {
+        "options": [
+          {
+            "id": "f2db4186-564d-458c-add4-c8df6a95056e",
+            "name": "Stories",
+            "color": "blue",
+            "description": null
+          },
+          {
+            "id": "b9d05ed7-44ef-47c6-a955-9ff81ea5027f",
+            "name": "Reels",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "f923a0fb-b854-453f-a783-15d680a35a16",
+            "name": "Fotos",
+            "color": "yellow",
+            "description": null
+          },
+          {
+            "id": "309813ec-adc4-48a1-a86e-2a5f389ae019",
+            "name": "Carrossel",
+            "color": "orange",
+            "description": null
+          },
+          {
+            "id": "552e2779-db5c-46e9-8f50-afb88e220d0a",
+            "name": "Post estático",
+            "color": "red",
+            "description": null
+          },
+          {
+            "id": "21ec70c4-f092-4a63-b8ec-c495d43ece8e",
+            "name": "Vídeo",
+            "color": "purple",
+            "description": null
+          },
+          {
+            "id": "3c35f397-14ad-4162-acd3-42a286910e78",
+            "name": "Texto/Legenda",
+            "color": "pink",
+            "description": null
+          },
+          {
+            "id": "07eeed27-c2e9-4186-8aea-c2cfae3e03c0",
+            "name": "Cobertura",
+            "color": "brown",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Criado em": {
+      "id": "Xf_U",
+      "name": "Criado em",
+      "description": null,
+      "type": "created_time",
+      "created_time": {}
+    },
+    "Última edição": {
+      "id": "%5BSOA",
+      "name": "Última edição",
+      "description": null,
+      "type": "last_edited_time",
+      "last_edited_time": {}
+    },
+    "Data do evento": {
+      "id": "_Xnf",
+      "name": "Data do evento",
+      "description": null,
+      "type": "date",
+      "date": {}
+    },
+    "Tipo": {
+      "id": "%60A%3Dp",
+      "name": "Tipo",
+      "description": null,
+      "type": "select",
+      "select": {
+        "options": [
+          {
+            "id": "3c93061c-91fa-4741-8d2e-b16d715e4c77",
+            "name": "Conteúdo planejado",
+            "color": "blue",
+            "description": null
+          },
+          {
+            "id": "71e2b94d-a9fa-4f14-902b-2489be420c32",
+            "name": "Demanda recebida",
+            "color": "yellow",
+            "description": null
+          },
+          {
+            "id": "d30c1b1d-4a8d-4673-b012-b508208c882e",
+            "name": "Evento/Cobertura",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "bdf915ba-33c4-4b52-bbf8-94780c77f8ff",
+            "name": "Reunião",
+            "color": "orange",
+            "description": null
+          },
+          {
+            "id": "826043bf-998e-4cf2-a918-76e3d87a8a05",
+            "name": "Entrega interna",
+            "color": "red",
+            "description": null
+          },
+          {
+            "id": "1ca3472b-6e4a-4cc5-a262-9d2bc61ab122",
+            "name": "Ideia/Pauta",
+            "color": "purple",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Frente/Cliente": {
+      "id": "aN%3Ba",
+      "name": "Frente/Cliente",
+      "description": null,
+      "type": "select",
+      "select": {
+        "options": [
+          {
+            "id": "963b7e4a-5a7d-419c-aad5-c4eab65bf1e3",
+            "name": "Secretaria de Saúde",
+            "color": "blue",
+            "description": null
+          },
+          {
+            "id": "544ab397-18ac-46b2-bc28-27b05b507e09",
+            "name": "Câmara",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "30a2b31a-0a7b-4b4e-b795-e0dc779001a3",
+            "name": "SINDSS",
+            "color": "yellow",
+            "description": null
+          },
+          {
+            "id": "bdcfcd6d-73bd-4a54-abbb-7ec452e12859",
+            "name": "LÓGIKA",
+            "color": "orange",
+            "description": null
+          },
+          {
+            "id": "0de8f57f-6d14-4620-b0aa-cd6479694592",
+            "name": "Outro",
+            "color": "red",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Arquivos/Links": {
+      "id": "c%60EP",
+      "name": "Arquivos/Links",
+      "description": null,
+      "type": "url",
+      "url": {}
+    },
+    "Status": {
+      "id": "g%3E%7C~",
+      "name": "Status",
+      "description": null,
+      "type": "select",
+      "select": {
+        "options": [
+          {
+            "id": "8f08d1e2-fafb-4ead-a87c-47243a88c89c",
+            "name": "A iniciar",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "4cb295d2-4b49-4433-b8b4-fe00ad397773",
+            "name": "Confirmado",
+            "color": "orange",
+            "description": null
+          },
+          {
+            "id": "6a4f4936-6b89-404e-b0c2-4dae914ec7c9",
+            "name": "Em produção",
+            "color": "red",
+            "description": null
+          },
+          {
+            "id": "9dcff86c-c99b-4887-8187-a0cbd7ec0c64",
+            "name": "Aguardando aprovação",
+            "color": "purple",
+            "description": null
+          },
+          {
+            "id": "68c7646a-ce2f-46f3-91ee-ed5bea9265de",
+            "name": "Publicado",
+            "color": "default",
+            "description": null
+          },
+          {
+            "id": "60404e32-2b1f-45e1-bbc3-7073f10ddf07",
+            "name": "Concluído",
+            "color": "default",
+            "description": null
+          },
+          {
+            "id": "2bc6fc39-b39b-456c-adee-582857e8f21d",
+            "name": "Cancelado",
+            "color": "brown",
+            "description": null
+          },
+          {
+            "id": "0ae7fcf3-26f8-4be5-b38f-a5d84a832e99",
+            "name": "Arquivado",
+            "color": "gray",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Plataforma": {
+      "id": "z%3Fcj",
+      "name": "Plataforma",
+      "description": null,
+      "type": "multi_select",
+      "multi_select": {
+        "options": [
+          {
+            "id": "eed4bf80-7def-4617-950b-7eb5d5f0f8d6",
+            "name": "Instagram",
+            "color": "blue",
+            "description": null
+          },
+          {
+            "id": "3582d4e9-0580-492a-8385-7b67c2c39b33",
+            "name": "Facebook",
+            "color": "green",
+            "description": null
+          },
+          {
+            "id": "56a042e6-10de-4a31-82ef-9c122c7e7a33",
+            "name": "WhatsApp",
+            "color": "yellow",
+            "description": null
+          },
+          {
+            "id": "8df597f2-6cd9-4c75-b2f6-8929f7f4b5b6",
+            "name": "YouTube",
+            "color": "orange",
+            "description": null
+          },
+          {
+            "id": "69e82874-7cdd-4b2f-87cf-c6d392d353bb",
+            "name": "Site",
+            "color": "red",
+            "description": null
+          },
+          {
+            "id": "f9068af9-c41c-410b-b5a2-ddbb4fc341ed",
+            "name": "Impresso",
+            "color": "purple",
+            "description": null
+          },
+          {
+            "id": "ecf04ec1-cb8f-4c82-841e-85876ea16cbd",
+            "name": "Outro",
+            "color": "pink",
+            "description": null
+          }
+        ]
+      }
+    },
+    "Nome": {
+      "id": "title",
+      "name": "Nome",
+      "description": null,
+      "type": "title",
+      "title": {}
+    }
+  },
+  "parent": {
+    "type": "page_id",
+    "page_id": "375207e6-f145-8168-a6bc-c780b217b003"
+  },
+  "url": "https://app.notion.com/p/375207e6f1458111bba0e132fd820542",
+  "public_url": null,
+  "in_trash": false,
+  "archived": false,
+  "request_id": "19bad6df-2ded-4c75-a359-3de62f7d0795"
+}

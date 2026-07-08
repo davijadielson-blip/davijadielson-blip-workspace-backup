@@ -1,0 +1,38 @@
+---
+tipo: plano
+projeto: {{TITULO_PROPOSITO}}
+---
+
+# Plano — {{TITULO_PROPOSITO}}
+
+> Não é um cronograma rígido. É uma direção com marcos.
+
+## Onde estou agora
+*Estado atual honesto — sem filtro.*
+
+→
+
+## Onde quero chegar (em 1 ano)
+*Resultado concreto e verificável.*
+
+→
+
+## Marcos intermediários
+*(O que precisa acontecer antes disso? Trabalhe de trás pra frente.)*
+
+- [ ] Marco 3 (mais próximo do sonho):
+- [ ] Marco 2:
+- [ ] Marco 1 (próximo, nos próximos 30 dias):
+
+## Próxima ação concreta
+*Algo que posso fazer esta semana. Verbal, específico.*
+
+→
+
+## O que pode me travar?
+*Obstáculos internos e externos — antecipar é vencer.*
+
+-
+
+---
+*Criado em {{HOJE}}. Revisar mensalmente.*

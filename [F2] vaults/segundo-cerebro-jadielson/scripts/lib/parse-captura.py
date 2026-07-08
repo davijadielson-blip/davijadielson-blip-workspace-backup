@@ -1,0 +1,349 @@
+#!/usr/bin/env python3
+"""
+Parseia texto livre e cria entrada no Notion Captura Geral.
+Uso: python3 parse-captura.py "Reunião com Ceiça sexta 14h SINDSS"
+     echo "texto" | python3 parse-captura.py
+Env: CAPTURA_ORIGEM = "Telegram" | "Claude.ai" | "Manual Notion" (padrão: Claude.ai)
+Saída stdout: URL da página criada.
+"""
+import json
+import os
+import re
+import sys
+import urllib.request
+from datetime import date, timedelta
+from pathlib import Path
+
+_vault_env  = os.environ.get("TG_VAULT_PATH", "")
+VAULT       = Path(_vault_env) if _vault_env else Path(__file__).parent.parent.parent
+SECRETS_DIR = VAULT / "scripts" / ".secrets"
+
+
+def _load_env(path):
+    env = {}
+    for line in path.read_text().splitlines():
+        line = line.strip()
+        if "=" in line and not line.startswith("#"):
+            k, v = line.split("=", 1)
+            env[k.strip()] = v.strip().strip('"')
+    return env
+
+
+_env          = _load_env(SECRETS_DIR / "notion.env")
+NOTION_TOKEN  = _env["NOTION_TOKEN"]
+DATABASE_ID   = _env["NOTION_CAPTURA_DATABASE_ID"]
+NOTION_VER    = "2022-06-28"
+INBOX_DIR     = VAULT / "[F0] 0-Inbox"
+
+# ── Prefixos de comando ────────────────────────────────────────────────────────
+
+PREFIXOS = {
+    "/t": "Tarefa",        "/tarefa": "Tarefa",
+    "/c": "Compromisso",   "/compromisso": "Compromisso",
+    "/r": "Reunião",       "/reuniao": "Reunião",       "/reunião": "Reunião",
+    "/g": "Gravação",      "/gravacao": "Gravação",     "/gravação": "Gravação",
+    "/n": "Captura",       "/nota": "Captura",          "/captura": "Captura",
+    "/p": "Publicação",    "/publicacao": "Publicação", "/publicação": "Publicação",
+    "/i": "Inbox",         "/inbox": "Inbox",
+}
+
+
+def _strip_prefix(text):
+    """Remove prefixo de comando e retorna (tipo_forçado_ou_None, texto_limpo)."""
+    word = text.split()[0].lower() if text.strip() else ""
+    if word in PREFIXOS:
+        tipo = PREFIXOS[word]
+        clean = text[len(word):].strip()
+        return tipo, clean
+    return None, text
+
+
+# ── Date / time parser ─────────────────────────────────────────────────────────
+
+_WEEKDAYS = {
+    "segunda": 0, "segunda-feira": 0,
+    "terça": 1, "terca": 1, "terça-feira": 1,
+    "quarta": 2, "quarta-feira": 2,
+    "quinta": 3, "quinta-feira": 3,
+    "sexta": 4, "sexta-feira": 4,
+    "sábado": 5, "sabado": 5,
+    "domingo": 6,
+}
+
+
+def _parse_date_time(text):
+    """Retorna (date_str_iso, is_datetime). date_str pode ser None."""
+    t = text.lower()
+    today = date.today()
+    target = None
+
+    if "hoje" in t:
+        target = today
+    elif "depois de amanhã" in t or "depois de amanha" in t:
+        target = today + timedelta(days=2)
+    elif "amanhã" in t or "amanha" in t:
+        target = today + timedelta(days=1)
+    else:
+        for name, num in _WEEKDAYS.items():
+            if re.search(r'\b' + name + r'\b', t):
+                days = (num - today.weekday()) % 7 or 7
+                target = today + timedelta(days=days)
+                break
+
+    # ISO YYYY-MM-DD
+    m = re.search(r'\b(\d{4}-\d{2}-\d{2})\b', text)
+    if m:
+        try:
+            target = date.fromisoformat(m.group(1))
+        except ValueError:
+            pass
+
+    # BR DD/MM ou DD/MM/AAAA
+    m = re.search(r'\b(\d{1,2})/(\d{1,2})(?:/(\d{4}))?\b', text)
+    if m:
+        try:
+            yr = int(m.group(3)) if m.group(3) else today.year
+            target = date(yr, int(m.group(2)), int(m.group(1)))
+        except ValueError:
+            pass
+
+    # Hora: 14h30, 14h, 14:30
+    hm = re.search(r'\b(\d{1,2})h(\d{2})?\b', t)
+    if not hm:
+        hm = re.search(r'\b(\d{1,2}):(\d{2})\b', t)
+
+    if target is None:
+        return None, False
+
+    if hm:
+        h = int(hm.group(1))
+        mn = int(hm.group(2)) if hm.group(2) else 0
+        return f"{target.isoformat()}T{h:02d}:{mn:02d}:00-03:00", True
+
+    return target.isoformat(), False
+
+
+# ── Classificadores ────────────────────────────────────────────────────────────
+
+_TIPO = [
+    ("Reunião",     ["reunião", "reuniao", "meet", "call", "videoconferência", "videochamada"]),
+    ("Gravação",    ["gravação", "gravacao", "gravar", "filmar", "filmagem", "gravando"]),
+    ("Edição",      ["edição", "edicao", "editar", "editando", "cortar", "montar"]),
+    ("Publicação",  ["publicar", "publicação", "publicacao", "postar", "subir"]),
+    ("Compromisso", ["compromisso", "consulta", "médico", "medico", "dentista", "visita", "ir ao", "ir a "]),
+    ("Tarefa",      ["tarefa", "fazer", "finalizar", "entregar", "enviar", "resolver"]),
+]
+
+_FRENTE = [
+    ("Saúde São Sebastião", ["saúde", "saude", "secretaria", "sus", "psf", "emulti", "caps", "dentinho"]),
+    ("Câmara Municipal",    ["câmara", "camara", "vereador", "sessão", "plenária", "plenaria", "procuradoria"]),
+    ("SINDSS",              ["sindss", "sindicato", "servidor", "servidores"]),
+    ("Rogério Rocha",       ["rogério", "rogerio"]),
+    ("Outros Vereadores",   ["josi", "curtinhos", "vando", "cana brava", "manoel", "gongo"]),
+    ("Lógika Creative",     ["lógika", "logika", "agência", "agencia", "audiovisual"]),
+    ("ALÉM DA FOTO",        ["além da foto", "alem da foto", "documental"]),
+    ("Lives Louvor",        ["lives", "louvor", "gospel", "assembleia", "culto"]),
+    ("Pessoal",             ["pessoal", "família", "familia", "eloáh", "eloah"]),
+]
+
+# Apenas nomes que existem no campo Pessoas do banco
+_PESSOAS = {
+    "ceiça": "Ceiça", "ceica": "Ceiça",
+    "charles": "Charles",
+    "patrícia": "Patrícia", "patricia": "Patrícia",
+    "felipe": "Felipe Regueira", "regueira": "Felipe Regueira",
+    "rogério": "Rogério Rocha", "rogerio": "Rogério Rocha",
+    "josi": "Josi Curtinhos",
+    "vando": "Vando da Cana Brava",
+    "manoel": "Manoel do Gongo", "gongo": "Manoel do Gongo",
+    "ewander": "Ewander",
+    "ismael": "Professor Ismael",
+    "jadielson": "Jadielson",
+    "eloáh": "Eloáh", "eloah": "Eloáh",
+}
+
+
+def _classify(text):
+    t = text.lower()
+
+    tipo = "Captura"
+    for name, kws in _TIPO:
+        if any(k in t for k in kws):
+            tipo = name
+            break
+
+    frente = "Geral"
+    for name, kws in _FRENTE:
+        if any(k in t for k in kws):
+            frente = name
+            break
+
+    # Inferir SINDSS se Ceiça aparece
+    if "ceiça" in t or "ceica" in t:
+        frente = frente if frente != "Geral" else "SINDSS"
+
+    pessoas, seen = [], set()
+    for kw, nome in _PESSOAS.items():
+        if kw in t and nome not in seen:
+            pessoas.append(nome)
+            seen.add(nome)
+
+    return tipo, frente, pessoas
+
+
+def _extract_title(text):
+    first = text.strip().split("\n")[0]
+    clean = re.sub(r'\b\d{1,2}h\d{0,2}\b', '', first, flags=re.IGNORECASE)
+    clean = re.sub(r'\b\d{1,2}:\d{2}\b', '', clean)
+    clean = re.sub(r'\s+', ' ', clean).strip(" -:,.")
+    return (clean or first)[:120]
+
+
+# ── Notion API ─────────────────────────────────────────────────────────────────
+
+def _notion_headers():
+    return {
+        "Authorization": f"Bearer {NOTION_TOKEN}",
+        "Notion-Version": NOTION_VER,
+        "Content-Type": "application/json",
+    }
+
+
+def _create_page(titulo, tipo, frente, pessoas, date_str, is_datetime, notas, origem):
+    props = {
+        "Título":  {"title": [{"text": {"content": titulo}}]},
+        "Tipo":    {"select": {"name": tipo}},
+        "Frente":  {"select": {"name": frente}},
+        "Status":  {"select": {"name": "A fazer"}},
+        "Origem":  {"select": {"name": origem}},
+    }
+
+    if notas:
+        props["Notas"] = {"rich_text": [{"text": {"content": notas[:2000]}}]}
+
+    if pessoas:
+        props["Pessoas"] = {"multi_select": [{"name": p} for p in pessoas]}
+
+    if date_str:
+        props["Data"] = {"date": {"start": date_str}}
+
+    body = {"parent": {"database_id": DATABASE_ID}, "properties": props}
+    req = urllib.request.Request(
+        "https://api.notion.com/v1/pages",
+        data=json.dumps(body).encode(),
+        headers=_notion_headers(),
+        method="POST",
+    )
+    with urllib.request.urlopen(req) as resp:
+        return json.loads(resp.read())["url"]
+
+
+# ── Main ───────────────────────────────────────────────────────────────────────
+
+def _create_inbox_note(text, origem):
+    """Escreve nota em [F0] 0-Inbox/ e retorna o caminho do arquivo."""
+    from datetime import datetime
+    now = datetime.now()
+    # Filename: caixa alta, espaços, sem hifens
+    title_up = re.sub(r'[\r\n]+', ' ', text[:60]).strip().upper()
+    title_up = re.sub(r'[<>:"/\\|?*]', '', title_up)
+    title_up = re.sub(r'\s+', ' ', title_up).strip() or "INBOX"
+    fname = f"{title_up}.md"
+    fpath = INBOX_DIR / fname
+    if fpath.exists():
+        fname = f"{title_up} {now.strftime('%H%M')}.md"
+        fpath = INBOX_DIR / fname
+    INBOX_DIR.mkdir(parents=True, exist_ok=True)
+    fpath.write_text(
+        f"---\ntipo: inbox\nsubtipo: \ndata: {now.strftime('%Y-%m-%d')}\n"
+        f"hora: {now.strftime('%H:%M')}\norigem: {origem}\n---\n\n"
+        f"# {title_up}\n\n"
+        f"> {text}\n\n"
+        f"---\n\n"
+        f"## Destino\n"
+        f"- [ ] TAREFA SIMPLES — executar e encerrar\n"
+        f"- [ ] IDEIA / PROJETO NOVO — mover para [[Possíveis Projetos]]\n"
+        f"- [ ] PROJETO EM ANDAMENTO — mover para a frente certa\n\n"
+        f"---\n\n"
+        f"## TAREFA\n**Prazo:** \n**Frente:** \n- [ ] próximo passo\n\n"
+        f"## PROJETO / IDEIA\n**Objetivo:** \n**Fases:**\n- [ ] Fase 1\n",
+        encoding="utf-8"
+    )
+    return str(fpath)
+
+
+def parse_and_capture(text, origem="Claude.ai"):
+    tipo_forcado, text_clean = _strip_prefix(text)
+
+    if tipo_forcado == "Inbox":
+        fpath = _create_inbox_note(text_clean or text, origem)
+        return {
+            "status": "ok",
+            "tipo": "Inbox",
+            "titulo": (text_clean or text)[:80],
+            "frente": "—",
+            "data": None,
+            "hora": None,
+            "notion_url": None,
+            "inbox_path": fpath,
+        }
+
+    date_str, is_dt       = _parse_date_time(text_clean)
+    tipo, frente, pessoas = _classify(text_clean)
+    if tipo_forcado:
+        tipo = tipo_forcado
+    titulo = _extract_title(text_clean)
+    notas  = text if len(text) > len(titulo) + 5 else ""
+
+    data = hora = None
+    if date_str:
+        if "T" in date_str:
+            data = date_str.split("T")[0]
+            hora = date_str.split("T")[1][:5]
+        else:
+            data = date_str
+
+    notion_url = _create_page(titulo, tipo, frente, pessoas, date_str, is_dt, notas, origem)
+    return {
+        "status": "ok",
+        "tipo": tipo,
+        "titulo": titulo,
+        "frente": frente,
+        "data": data,
+        "hora": hora,
+        "notion_url": notion_url,
+        "inbox_path": None,
+    }
+
+
+def extract_date(text):
+    """Retorna (data_iso, hora_str) extraídos do texto, ou (None, None)."""
+    date_str, is_dt = _parse_date_time(text)
+    if not date_str:
+        return None, None
+    if is_dt and "T" in date_str:
+        data = date_str.split("T")[0]
+        hora = date_str.split("T")[1][:5]
+    else:
+        data = date_str
+        hora = None
+    return data, hora
+
+
+def main():
+    text = " ".join(sys.argv[1:]).strip() if len(sys.argv) > 1 else sys.stdin.read().strip()
+    if not text:
+        print(json.dumps({"status": "error", "tipo_erro": "sem_texto", "mensagem": "Nenhum texto fornecido"}))
+        sys.exit(1)
+
+    origem = os.environ.get("CAPTURA_ORIGEM", "Claude.ai")
+    try:
+        result = parse_and_capture(text, origem)
+        print(json.dumps(result, ensure_ascii=False))
+    except Exception as e:
+        print(json.dumps({"status": "error", "tipo_erro": "excecao", "mensagem": str(e)[:200]}))
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

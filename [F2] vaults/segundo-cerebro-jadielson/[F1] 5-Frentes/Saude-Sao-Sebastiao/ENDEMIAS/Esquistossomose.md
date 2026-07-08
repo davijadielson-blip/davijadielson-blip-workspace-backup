@@ -1,0 +1,2 @@
+- Busca ativa 
+- Stand Educativa em pontos estratégicos 

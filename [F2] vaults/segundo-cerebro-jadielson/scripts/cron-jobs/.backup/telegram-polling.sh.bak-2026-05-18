@@ -1,0 +1,167 @@
+#!/usr/bin/env bash
+# telegram-polling.sh — Busca mensagens novas no Telegram e cria entradas no Captura Geral.
+# Roda via launchd a cada 2 minutos. Offset salvo em .secrets/ entre execuções.
+set -euo pipefail
+
+VAULT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
+SECRETS="$VAULT/scripts/.secrets"
+PARSE_SCRIPT="$VAULT/scripts/lib/parse-captura.py"
+SEND_SCRIPT="$VAULT/scripts/lib/send-telegram.sh"
+OFFSET_FILE="$SECRETS/telegram-polling-offset.txt"
+LIB_DIR="$VAULT/scripts/lib"
+TMP="$(mktemp /tmp/tg-updates-XXXXXX.json)"
+
+trap 'rm -f "$TMP"' EXIT
+
+# Credenciais
+source "$SECRETS/telegram.env"
+
+# Offset anterior
+OFFSET=0
+[ -f "$OFFSET_FILE" ] && OFFSET=$(cat "$OFFSET_FILE")
+
+# Buscar updates (timeout=5s para não bloquear)
+curl -sf \
+    "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getUpdates?offset=${OFFSET}&timeout=5" \
+    -o "$TMP" 2>/dev/null \
+    || echo '{"result":[]}' > "$TMP"
+
+# Processar via Python (heredoc com 'PYEOF' = sem substituição bash)
+export TMP PARSE_SCRIPT SEND_SCRIPT OFFSET_FILE TELEGRAM_CHAT_ID TELEGRAM_BOT_TOKEN LIB_DIR
+
+python3 << 'PYEOF'
+import json, os, subprocess, sys, importlib.util, urllib.request
+
+tmp         = os.environ["TMP"]
+script      = os.environ["PARSE_SCRIPT"]
+send_script = os.environ["SEND_SCRIPT"]
+offset_f    = os.environ["OFFSET_FILE"]
+expected    = os.environ["TELEGRAM_CHAT_ID"]
+bot_token   = os.environ["TELEGRAM_BOT_TOKEN"]
+lib_dir     = os.environ["LIB_DIR"]
+
+
+def _load_mod(name, path):
+    spec = importlib.util.spec_from_file_location(name, path)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+state_mgr = _load_mod("state_manager", f"{lib_dir}/state-manager.py")
+router    = _load_mod("telegram_router", f"{lib_dir}/telegram-router.py")
+
+
+try:
+    data = json.loads(open(tmp).read())
+except Exception:
+    sys.exit(0)
+
+
+def _send(msg):
+    """Envia mensagem HTML de volta pro Telegram."""
+    try:
+        subprocess.run(["bash", send_script, msg, "HTML"],
+                       capture_output=True, timeout=10)
+    except Exception:
+        pass
+
+
+def _answer_callback(callback_id):
+    """answerCallbackQuery — obrigatório pra remover loading do botão."""
+    try:
+        url = f"https://api.telegram.org/bot{bot_token}/answerCallbackQuery"
+        body = json.dumps({"callback_query_id": callback_id}).encode()
+        req = urllib.request.Request(url, data=body,
+                                     headers={"Content-Type": "application/json"})
+        urllib.request.urlopen(req, timeout=5)
+    except Exception:
+        pass
+
+
+def _build_confirmation(cap):
+    if cap.get("inbox_path"):
+        fname = cap["inbox_path"].split("/")[-1]
+        return (
+            f"✓ <b>Salvo no inbox</b>\n\n"
+            f"📝 <b>Nota:</b> {cap.get('titulo','')}\n"
+            f"📁 <b>Arquivo:</b> {fname}"
+        )
+
+    lines = [
+        "✓ <b>Capturado</b>",
+        "",
+        f"📝 <b>Título:</b> {cap.get('titulo','')}",
+        f"🏢 <b>Frente:</b> {cap.get('frente','')}",
+        f"📂 <b>Tipo:</b> {cap.get('tipo','')}",
+    ]
+    data_val = cap.get("data")
+    hora = cap.get("hora")
+    if data_val:
+        data_fmt = data_val[8:10] + "/" + data_val[5:7]
+        lines.append(f"📅 <b>Data:</b> {data_fmt}" + (f" às {hora}" if hora else ""))
+    url = cap.get("notion_url")
+    if url:
+        lines.append(f'📲 <a href="{url}">Abrir no Notion</a>')
+    lines.append("🗓️ <i>Calendar: sync em ~7h (daily-brief)</i>")
+    return "\n".join(lines)
+
+
+results = data.get("result", [])
+max_id  = 0
+
+for u in results:
+    uid    = u.get("update_id", 0)
+    max_id = max(max_id, uid + 1)
+
+    # ── Mensagem de texto ──────────────────────────────────────────────────────
+    if "message" in u:
+        msg     = u["message"]
+        chat_id = str(msg.get("chat", {}).get("id", ""))
+        text    = msg.get("text", "").strip()
+
+        if not text or chat_id != expected:
+            continue
+
+        # Roteador: True = tratado, False = cai na captura
+        if router.route_message(chat_id, text, _send):
+            continue
+
+        # ── Lógica de captura (original) ──────────────────────────────────────
+        env = os.environ.copy()
+        env["CAPTURA_ORIGEM"] = "Telegram"
+
+        r = subprocess.run(
+            ["python3", script, text],
+            capture_output=True, text=True, env=env, timeout=30
+        )
+
+        if r.returncode == 0:
+            try:
+                cap = json.loads(r.stdout)
+            except Exception:
+                cap = {"status": "ok", "notion_url": r.stdout.strip()}
+            confirm_msg = _build_confirmation(cap)
+            _send(confirm_msg)
+            state_mgr.set_last_capture(chat_id, cap)
+            print(f"[captura] {text[:60]!r} → ok")
+        else:
+            err = r.stderr.strip()[:200]
+            _send(f"❌ <b>Captura falhou</b>\n\n<code>{err}</code>")
+            print(f"[ERRO] {err}", file=sys.stderr)
+
+    # ── Callback de botão inline ───────────────────────────────────────────────
+    elif "callback_query" in u:
+        cq      = u["callback_query"]
+        cq_id   = str(cq.get("id", ""))
+        chat_id = str(cq.get("message", {}).get("chat", {}).get("id", ""))
+        cb_data = cq.get("data", "")
+
+        if chat_id != expected:
+            continue
+
+        router.route_callback(chat_id, cb_data, lambda cid=cq_id: _answer_callback(cid))
+
+if max_id > 0:
+    open(offset_f, "w").write(str(max_id))
+PYEOF

@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "ok": true,
+      "name": "Inbox — Novos",
+      "id": "375207e6-f145-816b-b135-000c5cd08039",
+      "type": "table"
+    },
+    {
+      "ok": true,
+      "name": "Inbox — Aguardando informação",
+      "id": "375207e6-f145-813e-bd6b-000c64bd01ce",
+      "type": "table"
+    },
+    {
+      "ok": true,
+      "name": "Inbox — Para decidir hoje",
+      "id": "375207e6-f145-818c-bdf7-000cacfeef94",
+      "type": "table"
+    },
+    {
+      "ok": true,
+      "name": "Inbox — Por Frente/Cliente",
+      "id": "375207e6-f145-8108-96ff-000c40b6db08",
+      "type": "table"
+    },
+    {
+      "ok": true,
+      "name": "Produção & Agenda — Esta semana",
+      "id": "375207e6-f145-81ab-9463-000ce4b2707b",
+      "type": "calendar"
+    },
+    {
+      "ok": true,
+      "name": "Produção & Agenda — Por cliente",
+      "id": "375207e6-f145-81c7-bb05-000cb469d263",
+      "type": "table"
+    }
+  ]
+}

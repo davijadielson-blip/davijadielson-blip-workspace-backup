@@ -1,0 +1,1 @@
+Através da Justiça, Conselho Tutelar, PSF, ACS, Familiares, vizinhos e etc

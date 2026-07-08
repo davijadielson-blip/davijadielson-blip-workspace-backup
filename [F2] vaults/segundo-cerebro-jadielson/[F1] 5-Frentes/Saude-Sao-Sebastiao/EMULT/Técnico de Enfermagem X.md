@@ -1,0 +1,1 @@
+**Técnico de Enfermagem: Executa procedimentos básicos de enfermagem e monitoramento**

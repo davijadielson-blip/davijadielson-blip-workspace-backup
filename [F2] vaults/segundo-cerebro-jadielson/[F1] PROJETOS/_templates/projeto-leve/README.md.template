@@ -1,0 +1,50 @@
+---
+{{FRONTMATTER_PRESERVADO}}
+ultimo_update: {{HOJE}}
+saude: 💡 ideia bruta
+proximo-review:
+---
+
+# 💡 {{TITULO_IDEIA}}
+
+> Status: ideia capturada, ainda não avaliada
+
+## A ideia
+
+{{CONTEUDO_ORIGINAL}}
+
+---
+
+## 🤔 Perguntas pra decidir
+
+### 1. Vale a pena?
+*(Resolve um problema real? Aproveita uma oportunidade real?)*
+
+→
+
+### 2. Em qual frente se encaixa?
+- [ ] Lógika Creative
+- [ ] Saúde
+- [ ] Câmara
+- [ ] SINDSS
+- [ ] Rogério
+- [ ] ALÉM DA FOTO
+- [ ] Lives de Louvor
+- [ ] Pessoal/Família
+- [ ] Outra:
+
+### 3. Próxima ação concreta (se for prosseguir)
+*Não "estudar mais sobre". Algo verbal de execução.*
+
+→
+
+---
+
+## Decisão
+
+- [ ] **PROMOVER** pra A INICIAR (mover arquivo + criar estrutura completa)
+- [ ] **DESCARTAR** (mover pra DESCARTADO com nota do motivo)
+- [ ] **AGUARDAR** (revisar em {{DATA+30}})
+
+---
+*Capturada em {{HOJE}}*

@@ -1,0 +1,1 @@
+artesanato, culinária, música, teatro, entre outras

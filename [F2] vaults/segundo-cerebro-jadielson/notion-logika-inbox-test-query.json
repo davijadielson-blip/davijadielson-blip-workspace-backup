@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "count": 3,
+  "items": [
+    {
+      "Título": "[TESTE] Link de referência para campanha SINDSS",
+      "Tipo de entrada": "Link/Referência",
+      "Frente/Cliente": "SINDSS",
+      "Status de triagem": "Aguardando informação",
+      "Destino": "Arquivo/Referência",
+      "Data": null,
+      "Prioridade": "Baixa",
+      "Resumo/Observações": "Entrada de teste para validar item incompleto que deve gerar pergunta objetiva."
+    },
+    {
+      "Título": "[TESTE] Ideia de Reels institucional para Câmara",
+      "Tipo de entrada": "Ideia",
+      "Frente/Cliente": "Câmara",
+      "Status de triagem": "Novo",
+      "Destino": "Aguardando decisão",
+      "Data": "2026-06-05",
+      "Prioridade": "Média",
+      "Resumo/Observações": "Entrada de teste para validar item que precisa de decisão antes de virar produção."
+    },
+    {
+      "Título": "[TESTE] Pauta 07h — cobertura de reunião da Saúde",
+      "Tipo de entrada": "Compromisso",
+      "Frente/Cliente": "Secretaria de Saúde",
+      "Status de triagem": "Novo",
+      "Destino": "Produção & Agenda",
+      "Data": "2026-06-05T07:00:00.000-03:00",
+      "Prioridade": "Alta",
+      "Resumo/Observações": "Entrada de teste para validar fluxo: secretária deixa pauta pela manhã; Jarvis revisa às 17h e desti"
+    }
+  ]
+}

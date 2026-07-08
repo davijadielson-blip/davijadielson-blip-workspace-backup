@@ -1,0 +1,1 @@
+: para pessoas que precisam de cuidados diferenciados por condições médicas específicas(Incluindo usuários do CAPS)

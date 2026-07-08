@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "count": 4,
+  "items": [
+    {
+      "Nome": "[AMOSTRA/ANTIGO] Oftalmologista — evento Saúde",
+      "Frente/Cliente": "Secretaria de Saúde",
+      "Tipo": "Evento/Cobertura",
+      "Tipo de conteúdo": [
+        "Cobertura",
+        "Stories"
+      ],
+      "Status": "Arquivado",
+      "Data do evento": "2026-05-06T07:00:00.000-03:00",
+      "Gera conteúdo?": "Talvez",
+      "Origem": "Agenda de Eventos antiga",
+      "Link de origem": "https://app.notion.com/p/OFTALMOLOGISTA-356207e6f145805b9cd6fdc77b2b5350",
+      "Observações": "Cópia-teste de evento antigo apenas para validar estrutura de evento/cobertura. "
+    },
+    {
+      "Nome": "[AMOSTRA] Instagram Saúde — modelo de stories explicando uso do serviço",
+      "Frente/Cliente": "Secretaria de Saúde",
+      "Tipo": "Ideia/Pauta",
+      "Tipo de conteúdo": [
+        "Stories"
+      ],
+      "Status": "A iniciar",
+      "Data do evento": null,
+      "Gera conteúdo?": "Sim",
+      "Origem": "Manual",
+      "Link de origem": "https://app.notion.com/p/INSTAGRAM-SA-DE-USAR-UM-MODELO-DE-STORIES-QUE-INDIQUE-PARA-OS-USU-RIOS-COMO-USAR-O-SERVI-O-316207e6f14580e19ed9e39df10c69d3",
+      "Observações": "Cópia-teste a partir da database Ideias. Parece aproveitável como pauta futura."
+    },
+    {
+      "Nome": "[AMOSTRA] Revisar briefing LÓGIKA até sexta",
+      "Frente/Cliente": "LÓGIKA",
+      "Tipo": "Demanda recebida",
+      "Tipo de conteúdo": [
+        "Texto/Legenda"
+      ],
+      "Status": "A iniciar",
+      "Data do evento": "2026-05-15",
+      "Gera conteúdo?": "Talvez",
+      "Origem": "Captura Geral",
+      "Link de origem": "https://app.notion.com/p/revisar-briefing-L-gika-at-sexta-35e207e6f14581c095a6c19c9a543459",
+      "Observações": "Cópia-teste da migração por amostra. Veio da Captura Geral/Claude.ai; revisar va"
+    },
+    {
+      "Nome": "[AMOSTRA] Editar vídeo vereador Francisco Euzébio neste domingo",
+      "Frente/Cliente": "Câmara",
+      "Tipo": "Demanda recebida",
+      "Tipo de conteúdo": [
+        "Vídeo comercial",
+        "Reels"
+      ],
+      "Status": "A iniciar",
+      "Data do evento": "2026-05-17",
+      "Gera conteúdo?": "Sim",
+      "Origem": "Captura Geral",
+      "Link de origem": "https://app.notion.com/p/Editar-v-deo-vereador-Francisco-Euz-bio-neste-domingo-362207e6f14581a8badff0f5ba069816",
+      "Observações": "Cópia-teste da migração por amostra. Item antigo/atrasado; revisar antes de trat"
+    }
+  ]
+}

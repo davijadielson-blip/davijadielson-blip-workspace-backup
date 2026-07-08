@@ -1,0 +1,20 @@
+
+- **PLACA DE ÁUDIO + CABO USB**
+- **MESA DE CORTE (+PLACA DE CAPTURA caso necessite)**
+- **TRANSMISSOR SEM FIO DE VÍDEO**
+- **FONTE DE ALIMENTAÇÃO PRÓPRIA**
+- **BATERIAS NP-F970**
+- **MONITOR LCD + CABO VGA(caso necessite)**
+- **TRIPÉS**
+- **CABOS HDMI**
+- **NOBREAK**
+- **EXTENCÕES**
+- **CÂMERAS
+- **CABO DE REDE RJ45**
+- **CABOS DE ÁUDIO**
+- **TV (p/ retorno de video)**
+- **SWEET DE REDE**
+- **CARREGADOR DE CELULAR**
+- **RÁDIO COMUNICADORES**
+- **CAIXA DE FERRAMENTAS**
+- **FITAS ADESIVAS - crepe, larga...**

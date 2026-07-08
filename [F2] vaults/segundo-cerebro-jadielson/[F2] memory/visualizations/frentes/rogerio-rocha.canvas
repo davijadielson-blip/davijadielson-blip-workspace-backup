@@ -1,0 +1,70 @@
+{
+  "nodes": [
+    {
+      "id": "rogerio-hub",
+      "type": "text",
+      "text": "# Rogério Rocha\n*(cliente inativo — pode retornar)*",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 80,
+      "color": "7"
+    },
+    {
+      "id": "rogerio-pasta",
+      "type": "file",
+      "file": "5-Frentes/Inativos/Rogerio-Rocha",
+      "x": -500,
+      "y": -80,
+      "width": 240,
+      "height": 60,
+      "color": "7"
+    },
+    {
+      "id": "rogerio-historico",
+      "type": "text",
+      "text": "**Histórico**\n[a preencher — trabalhos realizados]",
+      "x": 400,
+      "y": -150,
+      "width": 220,
+      "height": 80,
+      "color": "7"
+    },
+    {
+      "id": "rogerio-reativacao",
+      "type": "text",
+      "text": "**Reativação**\nCondições para retomar\n[a preencher]",
+      "x": 400,
+      "y": 20,
+      "width": 220,
+      "height": 80,
+      "color": "7"
+    },
+    {
+      "id": "status-inativo",
+      "type": "text",
+      "text": "⚠️ Status: INATIVO\nNenhuma produção em curso.",
+      "x": -200,
+      "y": 180,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "back-hub",
+      "type": "file",
+      "file": "[F2] claude/visualizations/Hub.md",
+      "x": -500,
+      "y": 200,
+      "width": 200,
+      "height": 50,
+      "color": "0"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "rogerio-pasta", "fromSide": "right", "toNode": "rogerio-hub", "toSide": "left" },
+    { "id": "e2", "fromNode": "rogerio-hub", "fromSide": "right", "toNode": "rogerio-historico", "toSide": "left" },
+    { "id": "e3", "fromNode": "rogerio-hub", "fromSide": "right", "toNode": "rogerio-reativacao", "toSide": "left" },
+    { "id": "e4", "fromNode": "rogerio-hub", "fromSide": "bottom", "toNode": "status-inativo", "toSide": "top" }
+  ]
+}

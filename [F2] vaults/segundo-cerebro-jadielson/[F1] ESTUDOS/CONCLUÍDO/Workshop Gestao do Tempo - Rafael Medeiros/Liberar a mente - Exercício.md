@@ -1,0 +1,14 @@
+- Eu tenho que organizar a produção dos criativos do Instagram saúde 
+- Tenho que reformar a casa e muro garagem da minha casa ou comprar uma casa noutro lugar mais interessante 
+- Tenho que emitir nota pra camara
+- tenho que atualizar portal da câmara 
+- Tenho fazer plano funeral pra família 
+- Fazer plano de saúde 
+- Preciso comprar meu carro
+- Aumentar a receitas pessoais e da empresa
+- Fazer exames de Rotina
+- Manter as disciplinas semanais de treino e corridas
+- Pagar pessoal da campanha
+- Criativos para Instagram Sindss
+- Editar vídeos atrasados
+- 

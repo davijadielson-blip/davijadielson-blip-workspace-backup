@@ -1,0 +1,2 @@
+- Priozar Projetos na Execução do Trabalho 
+- Se conectar com pessoas

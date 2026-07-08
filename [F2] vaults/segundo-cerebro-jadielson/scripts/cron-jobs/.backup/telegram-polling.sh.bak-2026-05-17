@@ -1,0 +1,131 @@
+#!/usr/bin/env bash
+# telegram-polling.sh — Busca mensagens novas no Telegram e cria entradas no Captura Geral.
+# Roda via launchd a cada 2 minutos. Offset salvo em .secrets/ entre execuções.
+set -euo pipefail
+
+VAULT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
+SECRETS="$VAULT/scripts/.secrets"
+PARSE_SCRIPT="$VAULT/scripts/lib/parse-captura.py"
+SEND_SCRIPT="$VAULT/scripts/lib/send-telegram.sh"
+OFFSET_FILE="$SECRETS/telegram-polling-offset.txt"
+TMP="$(mktemp /tmp/tg-updates-XXXXXX.json)"
+
+trap 'rm -f "$TMP"' EXIT
+
+# Credenciais
+source "$SECRETS/telegram.env"
+
+# Offset anterior
+OFFSET=0
+[ -f "$OFFSET_FILE" ] && OFFSET=$(cat "$OFFSET_FILE")
+
+# Buscar updates (timeout=5s para não bloquear)
+curl -sf \
+    "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getUpdates?offset=${OFFSET}&timeout=5" \
+    -o "$TMP" 2>/dev/null \
+    || echo '{"result":[]}' > "$TMP"
+
+# Processar via Python (heredoc com 'PYEOF' = sem substituição bash)
+export TMP PARSE_SCRIPT SEND_SCRIPT OFFSET_FILE TELEGRAM_CHAT_ID
+
+python3 << 'PYEOF'
+import json, os, subprocess, sys
+
+tmp         = os.environ["TMP"]
+script      = os.environ["PARSE_SCRIPT"]
+send_script = os.environ["SEND_SCRIPT"]
+offset_f    = os.environ["OFFSET_FILE"]
+expected    = os.environ["TELEGRAM_CHAT_ID"]
+
+try:
+    data = json.loads(open(tmp).read())
+except Exception:
+    sys.exit(0)
+
+
+def _send(msg):
+    """Envia mensagem HTML de volta pro Telegram."""
+    try:
+        subprocess.run(["bash", send_script, msg, "HTML"],
+                       capture_output=True, timeout=10)
+    except Exception:
+        pass
+
+
+def _build_confirmation(cap):
+    if cap.get("inbox_path"):
+        fname = cap["inbox_path"].split("/")[-1]
+        return (
+            f"✓ <b>Salvo no inbox</b>\n\n"
+            f"📝 <b>Nota:</b> {cap.get('titulo','')}\n"
+            f"📁 <b>Arquivo:</b> {fname}"
+        )
+
+    lines = [
+        "✓ <b>Capturado</b>",
+        "",
+        f"📝 <b>Título:</b> {cap.get('titulo','')}",
+        f"🏢 <b>Frente:</b> {cap.get('frente','')}",
+        f"📂 <b>Tipo:</b> {cap.get('tipo','')}",
+    ]
+    data = cap.get("data")
+    hora = cap.get("hora")
+    if data:
+        data_fmt = data[8:10] + "/" + data[5:7]
+        lines.append(f"📅 <b>Data:</b> {data_fmt}" + (f" às {hora}" if hora else ""))
+    url = cap.get("notion_url")
+    if url:
+        lines.append(f'📲 <a href="{url}">Abrir no Notion</a>')
+    lines.append("🗓️ <i>Calendar: sync em ~7h (daily-brief)</i>")
+    return "\n".join(lines)
+
+
+results = data.get("result", [])
+max_id  = 0
+
+for u in results:
+    uid    = u.get("update_id", 0)
+    max_id = max(max_id, uid + 1)
+
+    msg     = u.get("message", {})
+    chat_id = str(msg.get("chat", {}).get("id", ""))
+    text    = msg.get("text", "").strip()
+
+    # Prefixos de captura aceitos; outros comandos / ignorados
+    CAPTURE_PREFIXES = {
+        "/t", "/tarefa", "/c", "/compromisso",
+        "/r", "/reuniao", "/reunião",
+        "/g", "/gravacao", "/gravação",
+        "/n", "/nota", "/captura",
+        "/p", "/publicacao", "/publicação",
+        "/i", "/inbox",
+    }
+    first = text.split()[0].lower() if text else ""
+    is_capture_cmd = first in CAPTURE_PREFIXES
+    if not text or chat_id != expected or (text.startswith("/") and not is_capture_cmd):
+        continue
+
+    env = os.environ.copy()
+    env["CAPTURA_ORIGEM"] = "Telegram"
+
+    r = subprocess.run(
+        ["python3", script, text],
+        capture_output=True, text=True, env=env, timeout=30
+    )
+
+    if r.returncode == 0:
+        try:
+            cap = json.loads(r.stdout)
+        except Exception:
+            cap = {"status": "ok", "notion_url": r.stdout.strip()}
+        confirm_msg = _build_confirmation(cap)
+        _send(confirm_msg)
+        print(f"[captura] {text[:60]!r} → ok")
+    else:
+        err = r.stderr.strip()[:200]
+        _send(f"❌ <b>Captura falhou</b>\n\n<code>{err}</code>")
+        print(f"[ERRO] {err}", file=sys.stderr)
+
+if max_id > 0:
+    open(offset_f, "w").write(str(max_id))
+PYEOF

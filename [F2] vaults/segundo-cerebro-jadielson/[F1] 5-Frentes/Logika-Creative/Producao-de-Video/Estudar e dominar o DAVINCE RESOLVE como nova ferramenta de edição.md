@@ -1,0 +1,1 @@
+- A nova versão 20 dispõe de um recurso que corta os vídeos através da escolha pelo texto falado

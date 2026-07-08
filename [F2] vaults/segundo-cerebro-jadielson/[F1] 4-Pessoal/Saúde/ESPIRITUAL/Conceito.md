@@ -1,0 +1,1 @@
+É a dimensão de bem-estar relacionada à fá, e as crenças do ser humano. É preciso ter liberdade para exercer a fé, valores e próposito pessoal.

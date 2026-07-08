@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1754243681921,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1754243815872,
+          "path": "ARQUIVOS-REVISTOS/PROJETOS/PROJETOS PROFISSIONAIS/PROJETOS CULTURAIS/ENTRE TEMPOS"
+        }
+      ],
+      "title": "PROJETOS EM ANDAMENTO"
+    },
+    {
+      "type": "group",
+      "ctime": 1754243733888,
+      "items": [],
+      "title": "PROJETOS PAUSADOS"
+    },
+    {
+      "type": "group",
+      "ctime": 1754243743003,
+      "items": [],
+      "title": "PROJETOS ABORTADOS"
+    },
+    {
+      "type": "group",
+      "ctime": 1754243764402,
+      "items": [],
+      "title": "PROJETOS CONCLUÍDOS"
+    },
+    {
+      "type": "group",
+      "ctime": 1754243846434,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1754243888356,
+          "path": "ARQUIVOS-REVISTOS/PROJETOS/PROJETOS PROFISSIONAIS/PROJETOS CULTURAIS/O FIO DA MEMÓRIA"
+        },
+        {
+          "type": "file",
+          "ctime": 1754245834851,
+          "path": "ARQUIVOS-REVISTOS/PROJETOS/PROJETOS PROFISSIONAIS/SAÚDE SÃO SEBASTIÃO/VIDEO DA VITÓRIA SOBRE O PROJETO RESPIRAR.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1754245898591,
+          "path": "ARQUIVOS-REVISTOS/PROJETOS/PROJETOS PESSOAIS/APRENDER INGLÊS E ESPANHOL.md"
+        },
+        {
+          "type": "folder",
+          "ctime": 1754247520136,
+          "path": "ARQUIVOS-REVISTOS/PROJETOS/PROJETOS PROFISSIONAIS/PARCERIA COM ALEX"
+        },
+        {
+          "type": "folder",
+          "ctime": 1754247533870,
+          "path": "ARQUIVOS-REVISTOS/PROJETOS/PROJETOS PROFISSIONAIS/CANAL YOUTUBE E INSTAGRAM"
+        },
+        {
+          "type": "folder",
+          "ctime": 1754247671432,
+          "path": "ARQUIVOS-REVISTOS/PROJETOS/PROJETOS PROFISSIONAIS/ESTRATÉGIAS DE CONTEÚDOS PARA INSTAGRAM"
+        }
+      ],
+      "title": "PROJETOS PARA INICIAR"
+    }
+  ]
+}

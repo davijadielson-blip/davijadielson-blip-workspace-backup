@@ -1,0 +1,37 @@
+---
+tipo: kanban
+projeto: {{TITULO_PROJETO}}
+---
+
+# 🎯 Próximas Etapas — {{TITULO_PROJETO}}
+
+```mermaid
+graph LR
+    A[A Fazer] --> B[Fazendo]
+    B --> C[Feito]
+
+    style A fill:#fef1d1,stroke:#666
+    style B fill:#c9daf8,stroke:#666
+    style C fill:#b9e4d0,stroke:#666
+```
+
+## 🟡 A FAZER (prioridade decrescente)
+- [ ]
+- [ ]
+- [ ]
+
+## 🔵 FAZENDO (máx 2 itens)
+- [ ]
+
+## 🟢 FEITO (últimos 7 dias)
+- [x]
+
+---
+
+## ⚡ Próxima ação concreta
+*Qual o menor passo que faz o projeto avançar HOJE?*
+
+→
+
+---
+*Atualizar pelo menos 1x por semana.*

@@ -1,0 +1,1 @@
+**: Dor, abscessos, traumas leves**

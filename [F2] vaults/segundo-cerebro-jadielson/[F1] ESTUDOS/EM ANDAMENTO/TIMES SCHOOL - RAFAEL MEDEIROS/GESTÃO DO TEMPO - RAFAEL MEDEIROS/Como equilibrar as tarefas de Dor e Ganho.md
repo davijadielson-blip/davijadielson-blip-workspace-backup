@@ -1,0 +1,5 @@
+- Manutenção e Produção
+- Produção de ganho em ritmo; sem pressa.
+- A produção de ganho se baseia na evoluacao em busca de conquistas do objetivos e sonhos
+- Sempre a cada conquista ter um novo horizonte e Expectativas na ampliação
+- Focar num métrica de 80 a 90% de PREVENCAO DE DOR e 10 a 20% PRODUÇAO DE GANHO.

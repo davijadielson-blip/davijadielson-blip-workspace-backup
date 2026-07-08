@@ -1,0 +1,6 @@
+- **CARREGADOR**
+- **TECLADO**
+- **MOUSE**
+- FONE DE OUVIDO
+- MOUSEPAD
+- 

@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "mode": "delete_by_name",
+  "properties": [
+    "Data de publicação",
+    "Origem",
+    "Gera conteúdo?",
+    "Observações",
+    "Briefing/Roteiro",
+    "Prioridade",
+    "Responsável",
+    "Entregas previstas",
+    "Criado em",
+    "Última edição",
+    "Data do evento",
+    "Tipo",
+    "Frente/Cliente",
+    "Arquivos/Links",
+    "Status",
+    "Plataforma",
+    "Nome"
+  ]
+}

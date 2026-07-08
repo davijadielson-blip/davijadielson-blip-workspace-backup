@@ -1,0 +1,2 @@
+- PREVENÇÃO DE DOR - Gera administra o que já existe. administrar rotina
+- PRODUÇÃO DE GANHO - Gera administrar o crescimento e experimentar coisas novas sem urgência; com ritmo.

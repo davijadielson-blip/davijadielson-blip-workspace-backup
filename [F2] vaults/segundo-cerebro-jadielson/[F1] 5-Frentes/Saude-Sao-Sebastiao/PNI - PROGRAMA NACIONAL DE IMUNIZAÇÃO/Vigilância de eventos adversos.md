@@ -1,0 +1,1 @@
+**Notificação e investigação de reações após vacinação**

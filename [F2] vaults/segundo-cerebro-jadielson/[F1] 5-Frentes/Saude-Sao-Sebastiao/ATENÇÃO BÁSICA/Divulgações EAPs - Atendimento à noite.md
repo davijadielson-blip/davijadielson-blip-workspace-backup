@@ -1,0 +1,5 @@
+- São José ( já dentista )
+- Peroba
+- Rancho Alegre ( já com dentistas)
+- Cruzeiro
+- Centro

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"camara-hub","type":"text","text":"# Câmara Municipal\nVereadores · Plenário · Mandato","x":0,"y":0,"width":280,"height":80,"color":"3"},
+		{"id":"camara-pasta","type":"file","file":"5-Frentes/Camara-Municipal","x":-500,"y":-100,"width":240,"height":60,"color":"3"},
+		{"id":"camara-vereadores","type":"text","text":"**Vereadores Ativos**\nJosi · Vando · Manoel\n+ outros","x":400,"y":-200,"width":200,"height":90,"color":"3"},
+		{"id":"camara-sessoes","type":"text","text":"**Sessões Plenárias**\nCalendário legislativo","x":400,"y":-80,"width":200,"height":70,"color":"3"},
+		{"id":"camara-conteudo","type":"text","text":"**Conteúdo**\nRoteiros · Posts · Reels","x":400,"y":40,"width":200,"height":70,"color":"3"},
+		{"id":"fluxo-editorial","type":"text","text":"**Fluxo Editorial**\nPauta → Gravação → Edição → Aprovação → Publicação","x":-200,"y":180,"width":340,"height":80,"color":"0"},
+		{"id":"back-hub","type":"file","file":"[F2] claude/visualizations/Hub.md","x":-500,"y":200,"width":200,"height":50,"color":"0"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"camara-pasta","fromSide":"right","toNode":"camara-hub","toSide":"left"},
+		{"id":"e2","fromNode":"camara-hub","fromSide":"right","toNode":"camara-vereadores","toSide":"left"},
+		{"id":"e3","fromNode":"camara-hub","fromSide":"right","toNode":"camara-sessoes","toSide":"left"},
+		{"id":"e4","fromNode":"camara-hub","fromSide":"right","toNode":"camara-conteudo","toSide":"left"},
+		{"id":"e5","fromNode":"camara-hub","fromSide":"bottom","toNode":"fluxo-editorial","toSide":"top"}
+	]
+}

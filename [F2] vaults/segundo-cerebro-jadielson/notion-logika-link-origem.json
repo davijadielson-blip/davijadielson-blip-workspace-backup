@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "properties": [
+    "Data de publicação",
+    "Tipo de conteúdo",
+    "Origem",
+    "Gera conteúdo?",
+    "Link de origem",
+    "Observações",
+    "Briefing/Roteiro",
+    "Prioridade",
+    "Responsável",
+    "Entregas previstas",
+    "Criado em",
+    "Última edição",
+    "Data do evento",
+    "Tipo",
+    "Frente/Cliente",
+    "Arquivos/Links",
+    "Status",
+    "Plataforma",
+    "Nome"
+  ],
+  "link_de_origem_present": true
+}
