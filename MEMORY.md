@@ -546,3 +546,38 @@ Regras:
 - Tudo que for útil para continuidade deve ser salvo no Cofre, no caminho correto do mapa geral.
 - O objetivo é elevar a qualidade da decisão, não gerar ruído ou disputa performática.
 
+---
+
+## 2026-07-09 — Validação da Arquitetura Alfred como Secretário Pessoal/Triador
+
+**Solicitante:** Jadielson Davi
+**Validado por:** Lôh (Orquestradora Tier 0)
+**Status:** ✅ Arquiteto validado e documentado
+
+Jadielson confirmou que Alfred (General da Central Pessoal) deve atuar como secretário pessoal com capacidade de triar demandas e encaminhar entre grupos.
+
+### Decisões da validação
+
+1. **Papel confirmado:** Alfred é General da Central Pessoal + Secretário Pessoal/Triador. Papeis compatíveis.
+2. **Acesso entre grupos:** Alfred NÃO lê todos os grupos diretamente. A ponte entre grupos é feita pela Lôh. Alfred prepara a rota e sugere; Lôh executa o encaminhamento real.
+3. **Matriz de Roteamento:** criada e documentada com 15 tipos de demanda, destino, nível de autonomia e gatilho de escala para Lôh.
+4. **Níveis de Autonomia:** Autônomo (🟢) / Preparar Minuta (🟡) / Encaminhar interno (🟠) / Escalar Lôh (🔴).
+5. **Paredes-d'água preservadas:** pessoal ↔ LÓGIKA, pessoal ↔ instituições, F1 ↔ F2.
+6. **Log obrigatório:** todo encaminhamento registrado em `[F2] memory/context/central-pessoal/encaminhamentos-alfred.md`.
+7. **Comando /triar:** criado para Jadielson enviar demandas de qualquer grupo para a triagem do Alfred.
+
+### Arquivos criados/atualizados
+
+- `[F2] memory/agents/central-pessoal/alfred-secretario-pessoal.md` — prompt completo do Alfred com matriz, autonomia, limites e referências
+- `[F2] memory/context/central-pessoal/encaminhamentos-alfred.md` — log de rastreabilidade
+- `[F2] memory/context/central-pessoal/comando-triar-alfred.md` — instruções do /triar
+- `[F2] memory/decisions/2026-07-08-alfred-secretario-pessoal.md` — já existia, mantido
+- `[F2] memory/context/central-pessoal/2026-07-09-requisitos-acesso-alfred-secretario.md` — já existia, mantido
+
+### Próximos passos
+
+- Alfred agora deve operar com o prompt atualizado.
+- Jadielson pode testar o /triar de qualquer grupo.
+- Log de encaminhamentos começa vazio — primeiro encaminhamento real será o marco zero.
+- Sempre que Alfred escalar para Lôh, Lôh executa a ponte real entre grupos.
+
