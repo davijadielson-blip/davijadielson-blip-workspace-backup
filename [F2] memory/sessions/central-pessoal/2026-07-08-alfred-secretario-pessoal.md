@@ -68,3 +68,12 @@ Jadielson enviou lista de pendências/tarefas para deixar visível, definir dias
 
 ## 2026-07-09 03:45 UTC — Ajuste de formato das pendências
 Jadielson não gostou do formato anterior, pediu algo mais simples: apenas ciência do que deve fazer e impacto causado, resumindo em Produção de Ganho ou Prevenção de Dor, com PG no máximo 30% do dia para não tensionar. Também detalhou próximos passos dos projetos CRM/Notion/Forms, skills eleja.se e proposta Francisco Euzébio. Novo arquivo salvo em `[F2] memory/context/central-pessoal/2026-07-09-pendencias-visiveis-pg-pd.md`.
+
+## 2026-07-09 03:49 UTC — Atualização dos projetos a fatiar
+Jadielson atualizou os pontos 4 a 8: templates para produção real time; O Fio da Memória já em andamento com tópico próprio; Entre Tempos/pré-lançamento com teasers a iniciar; minidoc dos índios em início de edição com imagens dos jogos e narração, podendo precisar de imagens complementares; lançamento do clipe segue lógica do pré-lançamento/teasers. Arquivo simplificado atualizado.
+
+## 2026-07-09 03:51 UTC — Refeito em formato simples final
+Jadielson pediu para refazer exatamente no formato solicitado: Produção de Ganho ou Prevenção de Dor, com impacto e próxima ação, sem complexidade. Arquivo salvo em `[F2] memory/context/central-pessoal/2026-07-09-pendencias-formato-simples-final.md`.
+
+## 2026-07-09 03:55 UTC — Projetos fatiados em formato simples
+Jadielson pediu como ficariam os projetos fatiados. Alfred criou arquivo com 8 projetos fatiados em pequenas ações: CRM+Notion+Forms, Skills eleja.se, Proposta Francisco Euzébio, Templates vídeos/stories, O Fio da Memória, Entre Tempos/pré-lançamento, Minidoc dos índios e Lançamento do clipe. Arquivo: `[F2] memory/context/central-pessoal/2026-07-09-projetos-fatiados-formato-simples.md`.

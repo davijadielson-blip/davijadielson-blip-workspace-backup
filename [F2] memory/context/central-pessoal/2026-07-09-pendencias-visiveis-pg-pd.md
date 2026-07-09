@@ -86,6 +86,36 @@
 - Tipo: PG.
 - Impacto: possível receita nova e cliente político ativo.
 
+### 4. Templates para vídeos/stories
+- Situação: precisa iniciar para otimizar produções em tempo real.
+- Próxima ação: escolher os formatos mais repetidos e criar o primeiro template base.
+- Tipo: PG.
+- Impacto: reduz retrabalho e acelera produção.
+
+### 5. O Fio da Memória
+- Situação: já está em andamento e tem tópico próprio no grupo Projeto.
+- Próxima ação: manter avanço no tópico próprio e registrar próximos marcos.
+- Tipo: PG.
+- Impacto: continuidade de projeto cultural estratégico.
+
+### 6. Entre Tempos / pré-lançamento
+- Situação: já está em preparação para o pré-lançamento.
+- Próxima ação: iniciar teasers.
+- Tipo: PG.
+- Impacto: movimenta lançamento, percepção pública e portfólio.
+
+### 7. Minidoc dos índios
+- Situação: início de edição; já existem imagens dos jogos e narração.
+- Próxima ação: montar primeira versão e identificar se faltam imagens complementares.
+- Tipo: PG.
+- Impacto: avanço de entrega cultural/audiovisual.
+
+### 8. Lançamento do clipe
+- Situação: mesmo fluxo do ponto 6: preparação para pré-lançamento.
+- Próxima ação: iniciar teasers e alinhar artes.
+- Tipo: PG.
+- Impacto: destrava lançamento e comunicação.
+
 ## Observação para Alfred
 
 Responder de forma simples. Evitar tabelas grandes e excesso de categorias. Usar apenas PG/PD + impacto + próxima ação quando necessário.
