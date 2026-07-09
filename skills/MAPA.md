@@ -11,7 +11,8 @@ skills/
 ├── starter/          ← wizards do Starter Kit
 ├── operacional/      ← backup, segurança, manutenção e rotinas
 ├── planejamento/     ← planos, brainstorming, execução e verificação
-└── canais/           ← configuração de canais, como WhatsApp
+├── canais/           ← configuração de canais, como WhatsApp
+└── estudos/          ← aprendizagem, cursos, revisão e métodos cognitivos
 ```
 
 ## Como usar
@@ -24,6 +25,7 @@ Cada skill deve ter pelo menos um `SKILL.md` com instruções claras. Quando a t
 - `operacional/` — tarefas de manutenção, backup, segurança e logs.
 - `planejamento/` — criação, execução e verificação de planos.
 - `canais/` — configuração de canais externos.
+- `estudos/` — habilidades de aprendizagem, cursos e revisão ativa.
 
 ## Atualizar este mapa quando
 

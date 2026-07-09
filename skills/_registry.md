@@ -10,7 +10,13 @@
 | operacional | Backup, logs, segurança, manutenção e rotinas |
 | planejamento | Brainstorming, planos, execução e verificação |
 | canais | Configuração de canais como WhatsApp |
+| estudos | Habilidades de aprendizagem, cursos, revisão e mentoria cognitiva |
 
 ## Regra
 
 Quando uma skill nova for adicionada, registre a categoria aqui e mantenha o `_registry.md` local atualizado.
+
+
+## Skills instaladas manualmente
+
+- `estudos/ultraaprendizagem` — aprendizado ativo, ciclo A.R.L., revisão espaçada, Pareto/Parkinson aplicado aos estudos.

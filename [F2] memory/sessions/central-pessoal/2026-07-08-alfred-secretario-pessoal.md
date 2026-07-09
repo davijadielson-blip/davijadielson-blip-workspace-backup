@@ -41,3 +41,6 @@ Status: compatível e já alinhado ao arquivo validado pela Lôh (`alfred-secret
 Arquivos anexados salvos em:
 - `[F2] memory/outputs/central-pessoal/2026-07-09-habilidades-gestao-rotina-energia-alfred.txt`
 - `[F2] memory/outputs/central-pessoal/2026-07-09-habilidades-gestao-rotina-energia-alfred.md`
+
+## 2026-07-09 — Rotina-Diretor marcada como ultrapassada
+Jadielson informou que a grade de rotina diária encontrada em `[F2] memory/context/rotina.md` está ultrapassada e pediu para atualizar. Alfred deve tratar a Rotina-Diretor antiga como referência histórica, não como rotina atual, até que a nova grade seja definida e salva.
