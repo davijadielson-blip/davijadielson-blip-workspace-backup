@@ -88,3 +88,11 @@
 
 - **Focar no resultado, não no atraso.**
 - **Focar em fazer mais dinheiro, não apenas em sair das dívidas.**
+
+## Adição — 2026-07-09
+
+### PG/PD — Orçamento grupo JJ audiovisual
+- **Orçamento grupo JJ — gravação 2 ou 3 câmeras + áudio separado**
+  - Impacto: possível receita nova e evita perda de oportunidade por atraso.
+  - Próxima ação: montar orçamento com opção 2 câmeras e opção 3 câmeras, definindo se inclui edição/finalização.
+  - Lembrete: `f7cf6dab-7f50-487a-bc64-66e619ce5afd`, 2026-07-09 19h30 America/Maceio.
