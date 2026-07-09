@@ -1,25 +1,28 @@
 # Lembrete diário — saldar pendências PG/PD
 
-**Data de criação:** 2026-07-09
+**Data de criação:** 2026-07-09 (original)
+**Última atualização:** 2026-07-09 (integrado aos lembretes da Lôh)
 **Solicitante:** Jadielson Davi
-**Origem:** Telegram — Central Pessoal / Alfred (`chat_id: -1003740871403`, `topic_id: 1`)
-**Responsável local:** Alfred
-**Via desejada:** Lôh, quando possível, pois ela já realiza outros avisos.
+**Responsável:** Lôh (main session) — integrado ao fluxo diário de lembretes
 
-## Pedido
-Jadielson pediu lembrete diário para ir saldando as pendências já listadas em Produção de Ganho (PG) e Prevenção de Dor (PD).
+## Pedido original
+Jadielson pediu lembrete diário para ir saldando as pendências listadas em Produção de Ganho (PG) e Prevenção de Dor (PD).
 
-## Configuração criada
+## Configuração atual
 - **Job cron:** `a4edff95-84c2-4c70-8363-15b964da62eb`
-- **Nome:** Lembrete diário — saldar pendências PG/PD Alfred
+- **Nome:** LÔH — Lembrete diário PG/PD (incorporado aos meus avisos)
 - **Frequência:** diária
 - **Horário:** 20h30
 - **Timezone:** America/Maceio
-- **Destino:** Telegram — Central Pessoal / tópico Alfred (`-1003740871403`, `thread_id: 1`)
-- **Mensagem:** curta, pedindo escolha de 1 PG e 1 PD para saldar.
+- **Destino:** Privado de Jadielson (Telegram `7654417048`)
+- **Mensagem:** Lôh pergunta 1 PG + 1 PD para saldar, com a lista base
 
 ## Lista-base
 Arquivo de referência: `[F2] memory/context/central-pessoal/2026-07-09-pendencias-formato-simples-final.md`
 
+## Histórico
+- **2026-07-09:** Criado por Lôh no agente Alfred, delivery no tópico Central Pessoal
+- **2026-07-09:** Migrado para Lôh (main session), delivery no privado de Jadielson — a pedido dele
+
 ## Observação operacional
-Caso Jadielson queira outro horário ou concentração com outros lembretes da Lôh, ajustar o cron em vez de criar lembretes duplicados.
+Caso Jadielson queira outro horário ou ajuste, alterar o cron job em vez de criar duplicados.
