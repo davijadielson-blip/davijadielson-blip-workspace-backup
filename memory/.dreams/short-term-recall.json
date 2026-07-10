@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T17:11:31.311Z",
+  "updatedAt": "2026-07-10T22:38:02.422Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -778,16 +778,17 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "# 2026-06-22 — Registro de Memória ## Ações e Decisões ### 1. Orquestração de Agentes e Modelos - **Novos Agentes Ativados:** CCO, CMO, CIO, COO, CTO, CFO agora estão configurados com `configured: true`, nomes e prompts apropriados. Eles trabalham como subagentes sob orquestração da Lôh. - **Modelos de IA Atualizados:** - Modelo primário global setado para `openai-codex/gpt-5.5`. - Modelo secundário automático (fallback) configurado como `openrouter/deepseek/deepseek-v4-flash`, garantindo transição suave em caso de limitações do modelo principal. - **Gateway Reiniciado:** Para aplicar as mudanças de modelo e configuração de agentes. ### 2. Validação de Ativos de Marca (Pendente) -",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T17:08:16.075Z",
-      "lastRecalledAt": "2026-07-10T17:11:31.311Z",
+      "lastRecalledAt": "2026-07-10T22:38:02.422Z",
       "queryHashes": [
         "df7f1efcb4a1",
-        "7dc4b708c2f5"
+        "7dc4b708c2f5",
+        "e78bcf2f9e66"
       ],
       "recallDays": [
         "2026-07-10"
@@ -895,6 +896,37 @@
         "tipo",
         "sync",
         "log"
+      ]
+    },
+    "memory:memory/2026-06-22.md:20:49": {
+      "key": "memory:memory/2026-06-22.md:20:49",
+      "path": "memory/2026-06-22.md",
+      "startLine": 20,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "- Revisamos a árvore completa e a hierarquia de comando dos agentes, confirmando a Lôh como orquestradora principal e os C-Levels como seus braços estratégicos. --- **Próximos Passos Sugeridos:** - Revisitar a auditoria de ativos de marca no Drive em um momento oportuno. - Continuar as tarefas delegadas aos agentes recém-ativados (CCO, CMO, etc.). ## 21:30 — Cron: ensure-critical-integrations - Script executado: `ensure-integrations.sh` - Tavily: ✅ restaurado - Notion: ✅ OK - Whisper: ✅ OK - Config: ✅ válida - Resultado: \"integrações reaplicadas\" ## 23:27 UTC — Estado de repouso dos agentes Jadielson solicitou: deixar todos os agentes dormindo, mas de prontidão quando forem requisitado",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-10T22:38:02.422Z",
+      "lastRecalledAt": "2026-07-10T22:38:02.422Z",
+      "queryHashes": [
+        "e78bcf2f9e66"
+      ],
+      "recallDays": [
+        "2026-07-10"
+      ],
+      "conceptTags": [
+        "c-levels",
+        "recém-ativados",
+        "ensure-critical-integrations",
+        "ensure-integrations.sh",
+        "revisamos",
+        "árvore",
+        "completa",
+        "hierarquia"
       ]
     }
   }
