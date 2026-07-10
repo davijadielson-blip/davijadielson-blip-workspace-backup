@@ -85,3 +85,10 @@ A vacinação dos recém-nascidos atendidos pela Casa Maternal acontece de forma
 Em média, quase **20 bebês por mês** recebem essa proteção, fundamental para fortalecer a imunização desde o nascimento e prevenir doenças que podem comprometer a saúde da criança.
 
 A iniciativa faz parte do cuidado contínuo da Saúde em assegurar que cada recém-nascido tenha acesso às vacinas no tempo certo, com organização, presença e atenção desde o começo da vida — porque saúde também se faz com coração.
+
+## Legenda final aprovada — formato fácil de copiar/colar
+A vacinação dos recém-nascidos atendidos pela Casa Maternal acontece de forma quinzenal, garantindo a aplicação das vacinas **BCG e Hepatite B** ainda nos primeiros dias de vida.
+
+Em média, quase **20 bebês por mês** recebem essa proteção, fundamental para fortalecer a imunização desde o nascimento e prevenir doenças que podem comprometer a saúde da criança.
+
+A iniciativa faz parte do cuidado contínuo da Saúde em assegurar que cada recém-nascido tenha acesso às vacinas no tempo certo, com organização, presença e atenção desde o começo da vida — porque saúde também se faz com coração.
