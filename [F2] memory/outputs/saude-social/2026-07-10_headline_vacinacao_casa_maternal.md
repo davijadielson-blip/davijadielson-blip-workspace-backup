@@ -39,3 +39,49 @@ A ação atende uma média de quase **20 recém-nascidos por mês**, reforçando
 **Mais Trabalho, Mais Avanço, Mais Saúde.**
 
 #maistrabalhomaisavanco #saudesaosebastiaoal
+
+## Correção de slogan — 2026-07-10
+Jadielson corrigiu que o slogan anterior **"Mais Trabalho, Mais Avanço, Mais Saúde."** é antigo.
+Slogan novo/oficial informado por Jadielson: **"A gente faz com coração"**.
+Usar este slogan nas próximas peças da Saúde São Sebastião, salvo orientação posterior.
+
+## Legenda final corrigida com slogan novo
+**Cuidado que começa nos primeiros dias de vida.** 💉👶
+
+Quinzenalmente, a Casa Maternal recebe um profissional do PNI para realizar a vacinação dos recém-nascidos dos últimos 15 dias, garantindo a aplicação das vacinas **BCG e Hepatite B**, fundamentais para a proteção dos bebês.
+
+A ação atende uma média de quase **20 recém-nascidos por mês**, reforçando o compromisso da Secretaria de Saúde em assegurar o acesso à imunização e o cuidado com nossas crianças desde o nascimento.
+
+**Vacinar é proteger. É cuidar do presente e garantir um futuro mais saudável.**
+
+**A gente faz com coração.**
+
+#saudesaosebastiaoal
+
+## Diretriz editorial reforçada por Jadielson — 2026-07-10
+- Não usar o slogan como assinatura estampada no final.
+- A ideia **"A gente faz com coração"** deve aparecer diluída no contexto, principalmente no fechamento.
+- Estrutura preferida para legendas da Saúde: **pirâmide invertida** — informação principal no início, contexto/explicação no meio, fechamento institucional leve e integrado no fim.
+
+## Legenda ajustada com slogan diluído e pirâmide invertida
+A Casa Maternal recebe, quinzenalmente, um profissional do PNI para realizar a vacinação dos recém-nascidos dos últimos 15 dias, garantindo a aplicação das vacinas **BCG e Hepatite B** ainda nos primeiros dias de vida.
+
+A ação atende uma média de quase **20 bebês por mês** e reforça a importância da imunização como uma das primeiras formas de proteção à saúde da criança.
+
+Com cuidado, planejamento e presença, a Secretaria de Saúde segue garantindo que nossos recém-nascidos tenham acesso à proteção que precisam desde o começo da vida — porque saúde também se faz com coração.
+
+## Ajuste de protagonismo editorial — 2026-07-10
+Jadielson reforçou que a informação principal não deve ser a presença/deslocamento dos profissionais do PNI, mas **a ação/serviço entregue à população**. Protagonismo deve ser sempre do serviço público e do benefício para o cidadão/recém-nascido. Secretaria/Prefeitura/Saúde devem aparecer com naturalidade, sem abertura autocentrada ou institucionalmente chata.
+
+Diretriz prática:
+- Abrir pelo serviço/benefício: vacinação dos recém-nascidos na Casa Maternal.
+- Mencionar PNI apenas como bastidor operacional, se necessário.
+- Prefeitura/Secretaria entram de forma orgânica no meio/fim, conectadas à garantia do cuidado.
+- Manter pirâmide invertida e slogan diluído.
+
+## Legenda reajustada com protagonismo do serviço
+A vacinação dos recém-nascidos atendidos pela Casa Maternal acontece de forma quinzenal, garantindo a aplicação das vacinas **BCG e Hepatite B** ainda nos primeiros dias de vida.
+
+Em média, quase **20 bebês por mês** recebem essa proteção, fundamental para fortalecer a imunização desde o nascimento e prevenir doenças que podem comprometer a saúde da criança.
+
+A iniciativa faz parte do cuidado contínuo da Saúde em assegurar que cada recém-nascido tenha acesso às vacinas no tempo certo, com organização, presença e atenção desde o começo da vida — porque saúde também se faz com coração.
