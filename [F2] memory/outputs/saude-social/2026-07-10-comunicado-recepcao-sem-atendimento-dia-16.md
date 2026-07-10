@@ -26,3 +26,21 @@ Lembrar Jadielson de pedir/encaminhar a criação da divulgação assim que cheg
 
 ## Sugestão inicial de texto-base
 > Comunicado: informamos que, no dia 16, a recepção da Secretaria estará sem atendimento devido à participação da equipe em treinamento externo. Novas orientações serão divulgadas conforme confirmação dos responsáveis.
+
+## Texto de introdução para ASCOM Geral — 2026-07-10 14:32 BRT
+Jadielson solicitou um comunicado simples de introdução para enviar à ASCOM Geral, responsável pela produção final. Objetivo: informar a população para evitar deslocamento desnecessário até a Secretaria no dia 16.
+
+### Mensagem sugerida para enviar à ASCOM
+Olá, pessoal. Precisamos preparar um comunicado simples para informar à população que, no dia 16, a recepção da Secretaria estará sem atendimento devido a um treinamento externo da equipe.
+
+A ideia é apenas orientar com antecedência para que as pessoas não se desloquem até a Secretaria sem necessidade nesse dia. Pode ser uma comunicação objetiva, em formato de aviso, com tom institucional e claro.
+
+Se possível, destacar que o atendimento na recepção será retomado normalmente após o treinamento, conforme a organização da Secretaria.
+
+### Versão curta
+Olá, pessoal. Precisamos de um comunicado simples informando que, no dia 16, a recepção da Secretaria estará sem atendimento por conta de um treinamento externo da equipe. A intenção é orientar a população com antecedência para evitar que as pessoas percam viagem indo até a Secretaria nesse dia.
+
+## Confirmação de envio — 2026-07-10 14:36 BRT
+Jadielson informou que usou a versão curta do texto para encaminhar à ASCOM Geral:
+
+> Olá, pessoal. Precisamos de um comunicado simples informando que, no dia 16, a recepção da Secretaria estará sem atendimento por conta de um treinamento externo da equipe. A intenção é orientar a população com antecedência para evitar que as pessoas percam viagem indo até a Secretaria nesse dia.
