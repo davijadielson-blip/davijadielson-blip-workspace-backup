@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T06:27:06.550Z",
+  "updatedAt": "2026-07-10T17:11:31.311Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -769,6 +769,132 @@
         "originais",
         "reorganizados",
         "arquivos"
+      ]
+    },
+    "memory:memory/2026-06-22.md:1:27": {
+      "key": "memory:memory/2026-06-22.md:1:27",
+      "path": "memory/2026-06-22.md",
+      "startLine": 1,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "# 2026-06-22 — Registro de Memória ## Ações e Decisões ### 1. Orquestração de Agentes e Modelos - **Novos Agentes Ativados:** CCO, CMO, CIO, COO, CTO, CFO agora estão configurados com `configured: true`, nomes e prompts apropriados. Eles trabalham como subagentes sob orquestração da Lôh. - **Modelos de IA Atualizados:** - Modelo primário global setado para `openai-codex/gpt-5.5`. - Modelo secundário automático (fallback) configurado como `openrouter/deepseek/deepseek-v4-flash`, garantindo transição suave em caso de limitações do modelo principal. - **Gateway Reiniciado:** Para aplicar as mudanças de modelo e configuração de agentes. ### 2. Validação de Ativos de Marca (Pendente) -",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-10T17:08:16.075Z",
+      "lastRecalledAt": "2026-07-10T17:11:31.311Z",
+      "queryHashes": [
+        "df7f1efcb4a1",
+        "7dc4b708c2f5"
+      ],
+      "recallDays": [
+        "2026-07-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "openai",
+        "router",
+        "openai-codex/gpt-5.5",
+        "registro",
+        "memória",
+        "ações"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-07.md:65:80": {
+      "key": "memory:memory/sessions/sync/2026-07-07.md:65:80",
+      "path": "memory/sessions/sync/2026-07-07.md",
+      "startLine": 65,
+      "endLine": 80,
+      "source": "memory",
+      "snippet": "| 2026-07-14 | Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão e prevenção | A iniciar | | 2026-07-15 | Endemias / LIRAa / Vigilância — ACE em campo | A iniciar | | 2026-07-16 | EMULTI / Melhor em Casa — cuidado domiciliar e vínculo | A iniciar | | 2026-07-17 | Unidade Mista / SAMU / Referências — orientação de urgência | A iniciar | | 2026-07-20 | PSFs Rurais e Indígenas / ACS — território e proteção | A iniciar | | 2026-07-21 | Laboratório / CEO / Saúde Bucal — exames e hepatites | A iniciar | | 2026-07-22 | Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS | A iniciar | | 2026-07-23 | Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto | A inic",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-10T17:08:16.075Z",
+      "lastRecalledAt": "2026-07-10T17:11:31.311Z",
+      "queryHashes": [
+        "df7f1efcb4a1",
+        "7dc4b708c2f5"
+      ],
+      "recallDays": [
+        "2026-07-10"
+      ],
+      "conceptTags": [
+        "oftalmologia",
+        "laboratório",
+        "saúde",
+        "bucal",
+        "diabetes",
+        "visão",
+        "prevenção",
+        "iniciar"
+      ]
+    },
+    "memory:memory/2026-06-28.md:1:30": {
+      "key": "memory:memory/2026-06-28.md:1:30",
+      "path": "memory/2026-06-28.md",
+      "startLine": 1,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "## 02:45 — Backup incremental automático - Script: `backup-github-if-changed.sh` - Resultado: 1 novo arquivo commitado/puahdo - Arquivo: `[F3] PROJETOS/EM ANDAMENTO/DOCUMENTÁRIO O FIO DA MEMÓRIA/2-pesquisas/2026-06-28_sintese_final_pre_roteiro.md` - Commit: `7484101` - Status: sucesso ## 03:15 UTC — CCO: resposta pendente Julho Amarelo - CCO leu pedido de capa para destaque Instagram Julho Amarelo da Saúde São Sebastião. - Gerou rascunhos visuais em PNG/SVG (opção A com texto; opção B ícone limpo) em `\\\\[F2\\\\] memory/outputs/saude-sao-sebastiao/drafts/julho-amarelo-capa-destaque-2026-06-28/`. - Recomendação: usar opção B para destaque fixo por legibilidade em miniatura. - Pendência: inse",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-10T17:11:31.311Z",
+      "lastRecalledAt": "2026-07-10T17:11:31.311Z",
+      "queryHashes": [
+        "7dc4b708c2f5"
+      ],
+      "recallDays": [
+        "2026-07-10"
+      ],
+      "conceptTags": [
+        "backup",
+        "backup-github-if-changed.sh",
+        "commitado/puahdo",
+        "projetos/em",
+        "andamento/documentário",
+        "png/svg",
+        "incremental",
+        "automático"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-03.md:1:46": {
+      "key": "memory:memory/sessions/sync/2026-07-03.md:1:46",
+      "path": "memory/sessions/sync/2026-07-03.md",
+      "startLine": 1,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "--- tipo: sync-log data: 2026-07-03 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-03 **Horário:** 13:00 UTC **Duração:** 4s **Status:** ⚠️ PARCIAL — Google Calendar token expirado/revogado ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 27 (todos por token Google inválido) - Total: 27 itens lidos do Notion ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 1 ([TESTE] Pauta 07h) ## Notion (leitura) - ✅ Produção & Agenda (Saúde): 27 itens elegíveis - ✅ Editorial (Saúde): 27 itens elegíveis - Leitura do Notion funcionando normalmente ## Google Calendar - ❌ Token OAuth expirado/revogado (`invalid_grant`) - Refresh",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-10T17:11:31.311Z",
+      "lastRecalledAt": "2026-07-10T17:11:31.311Z",
+      "queryHashes": [
+        "7dc4b708c2f5"
+      ],
+      "recallDays": [
+        "2026-07-10"
+      ],
+      "conceptTags": [
+        "sync-log",
+        "gerado-por",
+        "notion-to-calendar",
+        "expirado/revogado",
+        "invalid-grant",
+        "tipo",
+        "sync",
+        "log"
       ]
     }
   }
