@@ -105,3 +105,73 @@ Variações de apoio:
 - **BCG e Hepatite B: cuidado começa cedo para bebês atendidos na Casa Maternal**
 
 Diretriz: para WhatsApp, priorizar clareza, utilidade pública e leitura rápida; evitar manchete longa ou excessivamente institucional.
+
+## Manchete + resuminho para WhatsApp — 2026-07-10
+Pedido: acrescentar resumo abaixo da manchete, com outras palavras em relação à legenda.
+
+Versão recomendada:
+**Recém-nascidos recebem BCG e Hepatite B na Casa Maternal**
+
+A ação acontece a cada 15 dias e ajuda a garantir que os bebês tenham acesso às primeiras vacinas no tempo certo, fortalecendo a proteção desde o início da vida.
+
+Variação mais institucional:
+**Casa Maternal garante vacinação essencial para recém-nascidos**
+
+Com atendimento quinzenal, os bebês recebem as vacinas BCG e Hepatite B ainda nos primeiros dias, reforçando o cuidado preventivo e a atenção à saúde infantil no município.
+
+## Ajuste final — equipe de imunização + cuidado da Secretaria — 2026-07-10
+Pedido de Jadielson: deixar claro que a equipe de imunização faz plantão a cada 15 dias na Casa Maternal e reforçar o cuidado da Secretaria.
+
+Versão ajustada:
+**Recém-nascidos recebem BCG e Hepatite B na Casa Maternal**
+
+A cada 15 dias, a equipe de imunização realiza um plantão na Casa Maternal para garantir que os bebês recebam as primeiras vacinas no tempo certo. A ação reforça o cuidado da Secretaria de Saúde com os recém-nascidos desde os primeiros dias de vida.
+
+## Ajuste final com CTA para link — 2026-07-10
+Pedido de Jadielson: acrescentar CTA para divulgação do link no WhatsApp.
+
+Versão final recomendada:
+**Recém-nascidos recebem BCG e Hepatite B na Casa Maternal**
+
+A cada 15 dias, a equipe de imunização realiza um plantão na Casa Maternal para garantir que os bebês recebam as primeiras vacinas no tempo certo. A ação reforça o cuidado da Secretaria de Saúde com os recém-nascidos desde os primeiros dias de vida.
+
+**Clique no link e confira a matéria completa.**
+
+## Ajuste de CTA leve/invisível — 2026-07-10
+Jadielson não gostou do CTA direto “Clique no link...”. Diretriz: CTA deve ser mais leve ou invisível no texto, integrado ao encerramento.
+
+Versão recomendada:
+**Recém-nascidos recebem BCG e Hepatite B na Casa Maternal**
+
+A cada 15 dias, a equipe de imunização realiza um plantão na Casa Maternal para garantir que os bebês recebam as primeiras vacinas no tempo certo. A ação reforça o cuidado da Secretaria de Saúde com os recém-nascidos desde os primeiros dias de vida.
+
+Na matéria, você confere mais detalhes sobre esse cuidado.
+
+Variações leves:
+- Saiba mais sobre essa ação na matéria.
+- Veja como esse cuidado acontece na Casa Maternal.
+- Entenda mais sobre essa iniciativa da Saúde.
+
+## Ajuste de CTA persuasivo e alegre — 2026-07-10
+Jadielson orientou que o CTA ainda estava direto demais. Diretriz: final deve ser mais persuasivo, alegre e integrado ao texto, sem cara de chamada mecânica.
+
+Versão recomendada:
+**Recém-nascidos recebem BCG e Hepatite B na Casa Maternal**
+
+A cada 15 dias, a equipe de imunização realiza um plantão na Casa Maternal para garantir que os bebês recebam as primeiras vacinas no tempo certo. A ação reforça o cuidado da Secretaria de Saúde com os recém-nascidos desde os primeiros dias de vida.
+
+É mais proteção, mais tranquilidade para as famílias e mais um cuidado que começa cheio de carinho na Casa Maternal.
+
+Variações de fechamento:
+- Um começo de vida mais protegido, acolhido e cheio de cuidado para os pequenos sebastianenses.
+- Porque cada nova vida merece começar com proteção, atenção e muito cuidado.
+- Na Casa Maternal, o cuidado chega cedo para proteger quem acabou de chegar ao mundo.
+
+## Versão aprovada para WhatsApp — 2026-07-10
+Jadielson aprovou a versão com fechamento mais emocional.
+
+**Recém-nascidos recebem BCG e Hepatite B na Casa Maternal**
+
+A cada 15 dias, a equipe de imunização realiza um plantão na Casa Maternal para garantir que os bebês recebam as primeiras vacinas no tempo certo. A ação reforça o cuidado da Secretaria de Saúde com os recém-nascidos desde os primeiros dias de vida.
+
+Porque cada nova vida merece começar com proteção, atenção e muito cuidado.
