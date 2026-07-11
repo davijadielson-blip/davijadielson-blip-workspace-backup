@@ -135,3 +135,26 @@ Arquivo enviado ao Drive pessoal:
 - Link: `https://drive.google.com/file/d/1g-P_JPOI7tarBFdwVJUXd3wSqZ9C87WO/view?usp=drivesdk`
 
 Impacto no status a quitar: Internet sai da lista de pendências. Valor de referência anterior era R$ 126,00; pago real foi R$ 108,00.
+
+### Gás de cozinha — restante pago — 2026-07-10
+
+Jadielson enviou comprovante Pix e esclareceu que se trata de restante do gás de cozinha.
+
+Dados extraídos do comprovante/imagem:
+- Data/hora da transação: 2026-07-10 20:54:48.
+- Valor: R$ 42,00.
+- Recebedor: Alan Laurindo Silva.
+- Descrição visível: Restante Gas.
+- Forma de pagamento: Pix enviado pela conta Banco do Brasil.
+- Classificação financeira pessoal: GÁS / gás de cozinha.
+- Status: PAGO.
+
+Arquivo local no Cofre:
+`[F2] memory/inbox-externa/financeiro/2026/07-Julho/02-Comprovantes-Pagos/2026-07-10__GAS__restante-gas-cozinha-alan-laurindo-silva__R-42-00__PAGO.jpg`
+
+Observação: lançamento pessoal doméstico; manter separado de qualquer controle empresarial/LÓGIKA.
+
+Arquivo enviado ao Drive pessoal:
+- Pasta: `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`
+- Drive ID: `1_mXOqQs0N5b3IkNl4DJ71WUPmnP6u67N`
+- Link: `https://drive.google.com/file/d/1_mXOqQs0N5b3IkNl4DJ71WUPmnP6u67N/view?usp=drivesdk`
