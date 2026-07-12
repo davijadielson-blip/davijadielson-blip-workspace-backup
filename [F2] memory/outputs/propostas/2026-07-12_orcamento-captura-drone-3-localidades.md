@@ -188,3 +188,79 @@ Modelo sugerido para serviço bruto, sem deslocamento/alimentação/estadia:
 - 60% pró-labore/lucro.
 
 Observação: a alíquota real futura deve ser confirmada com contador, pois depende do regime, CNAE, anexo do Simples Nacional, fator R e faturamento acumulado.
+
+## Política de caixinhas — Conta PJ Nubank LÓGIKA
+Jadielson confirmou que a empresa possui conta PJ exclusiva e deseja criar caixinhas no Nubank para reservas/oportunidades. Diretriz consolidada: comportar-se como empresa maior desde o MEI; despesas variáveis de locomoção, alimentação e estadia ficam fora do serviço, cobradas à parte ou reembolsadas; a divisão percentual incide somente sobre o valor do serviço.
+
+### Caixinhas recomendadas
+1. LÓGIKA — Equipamentos e Upgrades — 20% do serviço.
+2. LÓGIKA — Operacional da Empresa — 10% do serviço.
+3. LÓGIKA — Impostos Futuros — 6% do serviço.
+4. LÓGIKA — Risco e Transição — 4% do serviço.
+5. LÓGIKA — Pró-labore/Jadielson — 60% do serviço, podendo permanecer na conta principal até transferência pessoal.
+
+### Regra de lançamento
+Quando pagamento de cliente cair:
+- primeiro separar/reembolsar despesas externas: combustível, passagem, alimentação, estadia, se houver;
+- sobre o valor do serviço, aplicar 20/10/6/4/60;
+- registrar a origem do serviço e o destino de cada caixinha.
+
+### Exemplo aprovado — serviço drone R$ 250
+- R$ 50 Equipamentos e Upgrades;
+- R$ 25 Operacional;
+- R$ 15 Impostos Futuros;
+- R$ 10 Risco e Transição;
+- R$ 150 Pró-labore/lucro.
+
+## Ajuste conceitual — onde entra o transporte além do combustível
+Jadielson questionou onde entra o desgaste do transporte além do combustível. Diretriz corrigida: transporte deve ser tratado como despesa variável externa, separado do valor do serviço, sempre que possível. A linha "deslocamento/transporte" deve incluir combustível + desgaste do veículo/moto/carro, como pneu, óleo, freio, corrente/relação, manutenção, risco e depreciação.
+
+### Regra correta
+- Valor do serviço: recebe a divisão 20/10/6/4/60.
+- Deslocamento/transporte: cobrado à parte ou reembolsado, sem entrar na divisão percentual das caixinhas.
+- Alimentação/estadia/passagens: também fora do serviço, cobradas à parte quando houver.
+
+### Quando o transporte já estiver embutido no pacote
+Se o cliente paga um valor fechado que já inclui deslocamento, primeiro retirar a estimativa de transporte total (combustível + desgaste) e só depois aplicar a régua percentual sobre o valor líquido do serviço.
+
+Exemplo no serviço de R$ 250, se houver transporte embutido estimado em R$ 55:
+- R$ 40 combustível;
+- R$ 15 desgaste de transporte;
+- Base do serviço: R$ 195.
+Aplicar 20/10/6/4/60 sobre R$ 195.
+
+## Custo por km — transporte em carro popular
+Jadielson pediu uma referência de custo por km considerando carro popular com autonomia aproximada de 10 km por litro (corrigindo a formulação: provavelmente quis dizer 10 km/L, não 10 litros/km). Diretriz: calcular deslocamento fora do valor do serviço, sempre considerando ida e volta.
+
+### Fórmula
+Custo combustível por km = preço do litro / autonomia em km por litro.
+Exemplo com gasolina a R$ 6,50 e autonomia de 10 km/L: R$ 6,50 / 10 = R$ 0,65 por km.
+
+### Acréscimo de desgaste
+Além do combustível, reservar/cobrar desgaste do carro: pneus, óleo, freio, manutenção, depreciação e risco. Referência simples: R$ 0,35 a R$ 0,60 por km.
+
+### Régua prática recomendada
+- Custo mínimo técnico: R$ 1,00/km.
+- Valor recomendado para orçamento: R$ 1,20/km.
+- Estrada ruim, zona rural, poeira/barro ou urgência: R$ 1,50/km.
+- Deslocamentos curtos: usar taxa mínima de R$ 30 a R$ 50 para não cobrar pouco demais.
+
+### Regra
+Sempre calcular km total rodado: ida + volta + deslocamentos entre pontos.
+
+## Exemplo de deslocamento — 20 km ida e volta
+Para uma situação com 20 km totais rodados (ida + volta), usando a régua de transporte:
+- R$ 1,00/km = R$ 20,00 mínimo técnico;
+- R$ 1,20/km = R$ 24,00 recomendado por km;
+- R$ 1,50/km = R$ 30,00 para estrada ruim/zona rural/poeira/barro.
+
+Como deslocamentos curtos não devem ficar baixos demais, recomenda-se aplicar taxa mínima de deslocamento de R$ 30,00. Se houver estrada ruim, espera ou múltiplos pontos, pode arredondar para R$ 40,00 ou R$ 50,00 conforme contexto.
+
+## Esclarecimento — valor por km inclui combustível + desgaste
+Jadielson perguntou se a taxa de deslocamento por km inclui tudo ou apenas combustível. Diretriz consolidada: a taxa recomendada de R$ 1,20/km e a taxa mínima de deslocamento de R$ 30,00 devem incluir combustível + desgaste básico do transporte (pneu, óleo, freio, manutenção, depreciação e risco). Não inclui alimentação, estadia, pedágio/passagem ou espera longa, que devem ser cobrados à parte quando houver.
+
+## Confirmação — R$ 1,50/km
+Jadielson confirmou entendimento sobre cobrar R$ 1,50/km. Diretriz: R$ 1,50/km deve ser tratado como taxa completa de deslocamento básico, incluindo combustível + desgaste do veículo (pneu, óleo, freio, manutenção básica, depreciação e risco). Não inclui alimentação, estadia, pedágio, passagem, espera longa ou deslocamento extra não combinado. Para estrada ruim/zona rural/poeira/barro, R$ 1,50/km é uma régua adequada.
+
+## Esclarecimento metodológico — custo por km de transporte
+Jadielson perguntou se a régua de R$ 1,20 a R$ 1,50/km foi pesquisada ou estimada. Esclarecimento: a régua foi uma estimativa operacional prática, baseada em categorias comuns de custo veicular (combustível, pneus, óleo, freio, manutenção, depreciação e risco), não uma pesquisa formal/tabela oficial. Para maior precisão, recomenda-se validar posteriormente com dados reais do veículo, preço local do combustível, consumo médio real, manutenção/pneus e eventualmente referência pública de custo por km. A régua continua útil como parâmetro inicial, mas deve ser calibrada com histórico real da LÓGIKA.
