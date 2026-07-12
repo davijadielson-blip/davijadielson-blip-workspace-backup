@@ -104,3 +104,23 @@ Para cada serviço simples de R$ 250,00:
 
 ### Esclarecimento — custos operacionais pequenos
 Foi esclarecido que "custo operacional pequeno" é uma margem simbólica para despesas indiretas que aparecem no processo, como armazenamento/backup, internet para envio, carregamento de baterias, desgaste de acessórios menores, embalagem/organização e tempo administrativo. Para serviços muito simples, esse item pode ser incorporado à reserva técnica ou ao pró-labore. Modelo revisado recomendado: combustível real + reserva técnica de R$ 50,00 + restante como lucro/pró-labore.
+
+### Ajuste — custo de transporte além do combustível
+Jadielson observou corretamente que o custo do transporte não é apenas combustível. Deve-se considerar também desgaste/manutenção do veículo usado, seja carro ou moto: pneu, óleo, relação/corrente, freio, lavagem, manutenção preventiva, risco de deslocamento e depreciação. Modelo revisado para orçamento de R$ 250,00: separar combustível real de R$ 30,00 a R$ 50,00; reservar R$ 10,00 a R$ 20,00 para desgaste do transporte; reservar R$ 50,00 para equipamento/drone; reservar R$ 10,00 para custos operacionais pequenos; lucro/pró-labore estimado entre R$ 120,00 e R$ 150,00 conforme gasto real de deslocamento.
+
+### Modelo percentual recomendado
+Jadielson pediu a divisão em percentuais. Para serviços simples de drone nesse padrão, foi recomendado usar como base:
+- 15% combustível/deslocamento direto;
+- 5% desgaste do transporte;
+- 20% reserva técnica do drone/equipamentos;
+- 5% custos operacionais pequenos;
+- 55% lucro líquido/pró-labore.
+
+Aplicado a R$ 250,00:
+- 15% = R$ 37,50 combustível;
+- 5% = R$ 12,50 desgaste do transporte;
+- 20% = R$ 50,00 reserva técnica do drone;
+- 5% = R$ 12,50 custos operacionais;
+- 55% = R$ 137,50 lucro/pró-labore.
+
+Regra prática: arredondar para R$ 40 combustível, R$ 10 a R$ 15 transporte, R$ 50 reserva drone, R$ 10 operacional e R$ 135 a R$ 140 lucro.
