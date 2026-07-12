@@ -124,3 +124,67 @@ Aplicado a R$ 250,00:
 - 55% = R$ 137,50 lucro/pró-labore.
 
 Regra prática: arredondar para R$ 40 combustível, R$ 10 a R$ 15 transporte, R$ 50 reserva drone, R$ 10 operacional e R$ 135 a R$ 140 lucro.
+
+## Modelo percentual revisado — serviço bruto sem despesas externas
+Jadielson ajustou a lógica: combustível, passagens, alimentação e estadia devem ficar fora da divisão percentual, pois variam por situação e podem ser cobrados/reembolsados à parte. A divisão percentual deve incidir apenas sobre o valor bruto do serviço/profissional, sem locomoção, alimentação e estadia.
+
+### Régua percentual recomendada para serviços de drone/vídeo simples
+Base: valor bruto do serviço, excluindo despesas externas variáveis.
+
+- 20% — Reserva técnica de equipamentos: drone, câmera, baterias, hélices, cartões, HD/SSD, manutenção, troca e upgrades.
+- 10% — Reserva operacional/empresa: internet, energia, armazenamento, softwares, embalagens, pequenos acessórios, organização, administração e estrutura da LÓGIKA.
+- 10% — Reserva financeira/risco/impostos: taxas, imprevistos, inadimplência, remarcações, margem de segurança e possíveis tributos.
+- 60% — Pró-labore/lucro do operador: remuneração direta pelo tempo, técnica, responsabilidade, experiência e execução.
+
+### Aplicação no orçamento de R$ 250,00
+Como neste caso o valor de R$ 250,00 foi aprovado como pacote simples e perto, pode-se aplicar a régua ao valor total ou, se houver combustível real, retirar o combustível antes e aplicar sobre o serviço líquido.
+
+Opção A — se R$ 250,00 for tratado como serviço bruto sem separar combustível:
+- R$ 50,00 — reserva técnica de equipamentos;
+- R$ 25,00 — reserva operacional/empresa;
+- R$ 25,00 — reserva financeira/risco/impostos;
+- R$ 150,00 — pró-labore/lucro.
+
+Opção B — se retirar combustível real antes, exemplo R$ 40,00:
+Base do serviço: R$ 210,00
+- R$ 42,00 — reserva técnica de equipamentos;
+- R$ 21,00 — reserva operacional/empresa;
+- R$ 21,00 — reserva financeira/risco/impostos;
+- R$ 126,00 — pró-labore/lucro.
+
+### Regra comercial para próximos serviços
+Para trabalhos fora da cidade ou com custos variáveis relevantes, orçamento deve separar:
+1. Valor do serviço profissional;
+2. Deslocamento/combustível/passagem;
+3. Alimentação;
+4. Estadia, se houver.
+
+A régua percentual 20/10/10/60 deve incidir apenas sobre o item 1 — serviço profissional.
+
+## Diretriz MEI e crescimento futuro
+Jadielson informou que a LÓGIKA hoje opera como MEI, com custo mensal principal de DAS de R$ 81,90 e contador anual apenas para declaração, considerando teto anual informado de R$ 150 mil. A orientação estratégica consolidada foi: manter disciplina financeira desde já como se a empresa estivesse em fase de transição, separando contas/reservas, usando a régua 20/10/10/60 sobre o valor do serviço, separando despesas variáveis de deslocamento/alimentação/estadia, acompanhando faturamento acumulado e projetado, e criando reserva para transição futura para ME/Simples Nacional quando o teto estiver próximo de ser rompido.
+
+### Comportamento recomendado
+- Não misturar dinheiro pessoal e dinheiro da empresa.
+- Manter reserva técnica/equipamentos separada.
+- Manter reserva operacional/tributária separada, mesmo com custo MEI baixo.
+- Acompanhar faturamento mensal e acumulado do ano.
+- Quando a projeção anual passar de 70% a 80% do teto, acionar contador para planejar transição.
+- Quando começar a faturar com recorrência mais alta, migrar mentalmente de “freela” para “empresa com centro de custos”.
+
+## Diretriz tributária preventiva nos orçamentos
+Jadielson confirmou que deseja operar com mentalidade de empresa maior mesmo ainda sendo MEI, incluindo nos orçamentos uma reserva percentual equivalente ao regime futuro. Foi discutida a hipótese de considerar 6% sobre o faturamento/serviço como referência preventiva, semelhante à faixa inicial de algumas empresas no Simples Nacional, a validar com contador conforme CNAE/atividade/anexo aplicável.
+
+### Recomendação operacional
+Separar a régua interna em duas versões:
+1. Régua MEI atual, já disciplinada;
+2. Régua empresa em transição, incluindo 6% tributário preventivo dentro do bloco de risco/impostos/transição.
+
+Modelo sugerido para serviço bruto, sem deslocamento/alimentação/estadia:
+- 20% reserva técnica/equipamentos;
+- 10% operacional/empresa;
+- 6% imposto futuro preventivo;
+- 4% reserva de risco/transição/contador;
+- 60% pró-labore/lucro.
+
+Observação: a alíquota real futura deve ser confirmada com contador, pois depende do regime, CNAE, anexo do Simples Nacional, fator R e faturamento acumulado.
