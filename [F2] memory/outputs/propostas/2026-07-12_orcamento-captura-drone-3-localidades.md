@@ -332,3 +332,53 @@ Demais despesas recorrentes podem permanecer na conta principal PJ, especialment
 - Valor do serviço profissional: aplicar 20% Equipamentos, 10% Operacional/Empresa, 6% Imposto Futuro, 4% Risco/Transição, 60% Pró-labore.
 - Deslocamento: calcular separado a R$ 2,00/km e destinar ao cofre Transporte e Manutenção Veicular.
 - Alimentação, estadia, pedágio e passagens: cobrar/reembolsar à parte quando houver; podem permanecer na conta principal ou ser separados futuramente se ganharem volume.
+
+
+## Correção — caixinha de transporte não recebe combustível/reembolsos imediatos
+Jadielson corrigiu: combustível, alimentação, estadia, pedágio/passagem e outros custos imediatos devem sair/retornar ao caixa principal, pois são despesas instantâneas ou reembolsáveis. A caixinha Transporte e Manutenção Veicular deve receber apenas a parte de eventualidades futuras: manutenção, pneus, óleo, freios, suspensão, limpeza, depreciação e oportunidades relacionadas ao transporte.
+
+Aplicação: cobrando R$ 2,00/km, separar internamente uma parte para combustível/gasto imediato e outra para reserva de manutenção/depreciação.
+
+## Estrutura refeita da conta PJ
+A estrutura da conta foi refeita conforme correção de Jadielson: combustível, alimentação, estadia, pedágio, passagens e gastos imediatos ficam na conta principal PJ para pagamento/reembolso. A caixinha Transporte e Manutenção Veicular recebe somente a sobra/margem futura do deslocamento, destinada a manutenção, depreciação e eventualidades. Documento oficial atualizado em `[F2] memory/context/financeiro/politica-caixinhas-logika-servicos-e-deslocamento.md`.
+
+## Correção — orçamento aprovado de R$ 250 já inclui deslocamento
+Jadielson corrigiu que, no orçamento aprovado com o cliente, os R$ 250,00 já incluem o deslocamento. Portanto, para este caso específico, não haverá acréscimo ao cliente. A divisão interna correta deve primeiro estimar/retirar a locomoção embutida e só depois aplicar a régua percentual sobre o valor líquido do serviço profissional.
+
+### Exemplo operacional se a locomoção total for 20 km
+Valor recebido: R$ 250,00.
+Locomoção embutida: 20 km x R$ 2,00 = R$ 40,00.
+Base líquida do serviço profissional: R$ 210,00.
+
+Divisão da locomoção embutida:
+- combustível imediato estimado: 20 km / 10 km/L x R$ 6,50 = R$ 13,00 — fica/recompõe a conta principal PJ;
+- margem de transporte/manutenção futura: R$ 27,00 — vai para Transporte e Manutenção Veicular.
+
+Divisão do serviço profissional líquido de R$ 210,00:
+- 20% Equipamentos e Upgrades: R$ 42,00;
+- 10% Operacional/Empresa: R$ 21,00;
+- 6% Impostos Futuros: R$ 12,60;
+- 4% Risco e Transição: R$ 8,40;
+- 60% Pró-labore/Lucro: R$ 126,00.
+
+Regra: quando o valor do cliente já vier fechado com deslocamento embutido, retirar primeiro a locomoção estimada; depois aplicar a régua do serviço sobre o saldo.
+
+## Correção — guardar apenas reservas futuras em caixinhas
+Jadielson reforçou que só devem ser enviados para caixinhas/cofres os valores destinados ao futuro. Os demais valores — combustível imediato, operacional corrente, impostos ainda não vencidos/sem caixinha dedicada e pró-labore até retirada — podem permanecer no caixa principal PJ.
+
+### Regra prática
+Caixinhas atuais prioritárias:
+- Equipamentos e Upgrades: reserva futura de equipamentos.
+- Transporte e Manutenção Veicular: apenas margem futura do deslocamento, sem combustível imediato.
+
+Conta principal PJ:
+- combustível imediato;
+- alimentação, estadia, pedágio/passagens e reembolsos;
+- operacional corrente;
+- impostos futuros/risco se ainda não houver caixinha específica;
+- pró-labore até transferência/retirada.
+
+No exemplo de R$ 250 com R$ 40 de locomoção embutida, guardar em caixinhas apenas:
+- R$ 27 Transporte e Manutenção Veicular;
+- R$ 42 Equipamentos e Upgrades.
+O restante permanece no caixa principal, com controle interno.

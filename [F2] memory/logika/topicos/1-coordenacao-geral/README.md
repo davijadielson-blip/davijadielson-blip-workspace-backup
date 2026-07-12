@@ -16,3 +16,11 @@ Cliente aprovou a proposta de R$ 250,00 para captação simples com drone em Ran
 
 ### Política financeira — caixinhas PJ Nubank
 Definido por Jadielson: usar R$ 2,00/km como padrão de locomoção. Criar dois cofres/caixinhas principais para oportunidades futuras: (1) Equipamentos e Upgrades, alimentado pela reserva técnica dos serviços; (2) Transporte e Manutenção Veicular, alimentado pelo valor de deslocamento. Outras despesas recorrentes seguem na conta principal PJ quando já estiverem em débito automático.
+
+## 2026-07-12 — Política de orçamentos, despesas e caixinhas da LÓGIKA
+Jadielson deliberou a estrutura inicial para orçamentos e separação financeira da LÓGIKA. Diretriz: mesmo sendo MEI, comportar-se como empresa maior desde agora. Foi definido que a régua percentual incide apenas sobre o serviço profissional; deslocamento, alimentação, estadia, pedágio/passagens e reembolsáveis ficam separados. Locomoção com carro próprio será considerada a R$ 2,00/km. Caixinhas prioritárias no Nubank PJ: Equipamentos e Upgrades; Transporte e Manutenção Veicular. Somente reservas futuras vão para caixinhas; combustível e gastos imediatos ficam/recompõem caixa principal. Pró-labore e outras despesas/receitas serão debatidos futuramente.
+
+Arquivos de referência:
+- `[F2] memory/context/financeiro/README-politica-orcamentos-despesas-logika.md`
+- `[F2] memory/context/financeiro/politica-caixinhas-logika-servicos-e-deslocamento.md`
+- `[F2] memory/decisions/logika/2026-07-12-politica-orcamentos-despesas-caixinhas.md`
