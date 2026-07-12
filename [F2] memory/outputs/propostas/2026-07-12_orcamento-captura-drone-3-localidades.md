@@ -264,3 +264,71 @@ Jadielson confirmou entendimento sobre cobrar R$ 1,50/km. Diretriz: R$ 1,50/km d
 
 ## Esclarecimento metodológico — custo por km de transporte
 Jadielson perguntou se a régua de R$ 1,20 a R$ 1,50/km foi pesquisada ou estimada. Esclarecimento: a régua foi uma estimativa operacional prática, baseada em categorias comuns de custo veicular (combustível, pneus, óleo, freio, manutenção, depreciação e risco), não uma pesquisa formal/tabela oficial. Para maior precisão, recomenda-se validar posteriormente com dados reais do veículo, preço local do combustível, consumo médio real, manutenção/pneus e eventualmente referência pública de custo por km. A régua continua útil como parâmetro inicial, mas deve ser calibrada com histórico real da LÓGIKA.
+
+## Calibração real — transporte carro próprio Classic 2014/2014
+Jadielson informou que o carro é próprio, um Classic 2014/2014, e trouxe tabela de custos médios de manutenção. Diretriz: usar como base de orçamento a pior estrada/condição mais conservadora, para que estradas melhores gerem margem positiva e não perda.
+
+### Premissas adotadas
+- Consumo tratado como 10 km/L (a expressão "10 litros por km" foi interpretada como 10 km por litro; se for diferente, recalcular).
+- Combustível de referência a validar no dia; exemplo operacional: gasolina a R$ 6,50/L.
+- Carro próprio: Classic 2014/2014.
+- Transporte deve ficar fora do valor do serviço e ser cobrado/reembolsado como deslocamento.
+
+### Cálculo aproximado por km
+Com combustível a R$ 6,50 e consumo de 10 km/L:
+- Combustível: R$ 0,65/km.
+
+Com base na tabela de manutenção informada, usando médias de preço e vida útil, os itens recorrentes somam aproximadamente:
+- Manutenção/desgaste técnico: cerca de R$ 0,29/km a R$ 0,35/km.
+
+Para completar o custo realista, considerar ainda:
+- depreciação do veículo;
+- risco de estrada ruim/zona rural;
+- poeira, barro, impactos e uso severo;
+- margem de segurança e arredondamento.
+
+### Régua consolidada
+- Custo técnico estimado: cerca de R$ 0,95/km a R$ 1,10/km.
+- Valor mínimo operacional: R$ 1,20/km.
+- Valor padrão recomendado/pior estrada: R$ 1,50/km.
+
+### Política recomendada
+A LÓGIKA deve usar R$ 1,50/km como padrão de deslocamento para carro próprio em orçamento, calculando ida + volta + deslocamentos entre pontos. Esse valor inclui combustível + manutenção/desgaste + depreciação básica + risco operacional do transporte. Não inclui alimentação, estadia, pedágio/passagem ou espera longa.
+
+### Exemplo
+20 km totais x R$ 1,50/km = R$ 30,00 de deslocamento.
+
+## Revisão crítica — manutenção completa e depreciação do Classic
+Jadielson questionou se todos os custos da tabela de manutenção e depreciação foram realmente considerados. Correção metodológica: a régua anterior de R$ 1,50/km considerava uma estimativa operacional simplificada com combustível, parte da manutenção média e margem de risco, mas não era um cálculo completo e preciso item a item com todos os custos temporais e de depreciação.
+
+### Ajuste recomendado
+Para orçamento simples e mercado local, R$ 1,50/km continua útil como mínimo/padrão competitivo, mas deve ser visto como régua enxuta. Para considerar com mais segurança todos os custos de carro próprio — manutenção completa, itens por tempo, imprevistos e depreciação — a LÓGIKA deve trabalhar com faixas:
+- R$ 1,50/km: mínimo comercial/local, asfalto ou deslocamento simples.
+- R$ 1,80/km: recomendado quando quiser cobrir melhor manutenção + depreciação.
+- R$ 2,00/km: zona rural, estrada ruim, poeira/barro, deslocamento severo ou maior risco.
+
+### Regra consolidada
+Usar R$ 1,50/km como piso, não como teto. Para pior estrada como padrão conservador, usar R$ 2,00/km quando o cliente aceitar ou quando o deslocamento for relevante.
+
+## Confirmação — combustível e manutenção inclusos na taxa por km
+Jadielson perguntou se, nas faixas de R$ 1,50/km, R$ 1,80/km e R$ 2,00/km, combustível e manutenção já estão inclusos considerando gasolina a R$ 6,50/L e consumo de 10 km/L. Resposta consolidada: sim, essas faixas devem ser tratadas como taxa completa de deslocamento básico, incluindo combustível + manutenção/desgaste + parte de depreciação/margem. Com gasolina a R$ 6,50 e consumo de 10 km/L, o combustível representa R$ 0,65/km. O restante da taxa cobre manutenção, desgaste, depreciação e risco.
+
+Distribuição aproximada:
+- R$ 1,50/km: R$ 0,65 combustível + R$ 0,85 manutenção/desgaste/depreciação/margem.
+- R$ 1,80/km: R$ 0,65 combustível + R$ 1,15 manutenção/desgaste/depreciação/margem.
+- R$ 2,00/km: R$ 0,65 combustível + R$ 1,35 manutenção/desgaste/depreciação/margem.
+
+Diretriz: se a gasolina subir, recalcular a parte do combustível; se o consumo real cair abaixo de 10 km/L em estrada ruim, usar R$ 2,00/km como padrão mínimo conservador.
+
+## Política final — caixinhas de oportunidades e deslocamento
+Jadielson definiu que, para locomoção com carro próprio, a LÓGIKA usará R$ 2,00/km como padrão. Também definiu a criação de dois cofres/caixinhas principais na conta PJ Nubank para oportunidades futuras:
+
+1. Equipamentos e Upgrades — recebe a reserva técnica dos serviços, principalmente 20% do valor do serviço profissional. Finalidade: drone, câmera, áudio, luz, baterias, cartões, HD/SSD, manutenção, troca e upgrades.
+2. Transporte e Manutenção Veicular — recebe a parte de deslocamento calculada a R$ 2,00/km quando houver locomoção. Finalidade: combustível, pneus, óleo, freio, suspensão, manutenção, limpeza, depreciação e oportunidades relacionadas ao transporte.
+
+Demais despesas recorrentes podem permanecer na conta principal PJ, especialmente as que já estão em débito automático.
+
+### Regra operacional consolidada
+- Valor do serviço profissional: aplicar 20% Equipamentos, 10% Operacional/Empresa, 6% Imposto Futuro, 4% Risco/Transição, 60% Pró-labore.
+- Deslocamento: calcular separado a R$ 2,00/km e destinar ao cofre Transporte e Manutenção Veicular.
+- Alimentação, estadia, pedágio e passagens: cobrar/reembolsar à parte quando houver; podem permanecer na conta principal ou ser separados futuramente se ganharem volume.

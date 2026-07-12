@@ -13,3 +13,6 @@ Jadielson pediu para guardar tudo. Consolidado: orçamento enviado por R$ 250,00
 
 ### Resultado — orçamento drone aprovado
 Cliente aprovou a proposta de R$ 250,00 para captação simples com drone em Rancho Alegre, Cana Brava e Tabela. Aprendizado: R$ 250,00 se confirmou como valor viável para serviço curto, simples e sem edição na realidade local, preservando valor e margem.
+
+### Política financeira — caixinhas PJ Nubank
+Definido por Jadielson: usar R$ 2,00/km como padrão de locomoção. Criar dois cofres/caixinhas principais para oportunidades futuras: (1) Equipamentos e Upgrades, alimentado pela reserva técnica dos serviços; (2) Transporte e Manutenção Veicular, alimentado pelo valor de deslocamento. Outras despesas recorrentes seguem na conta principal PJ quando já estiverem em débito automático.
