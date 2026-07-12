@@ -58,3 +58,49 @@ Para a realidade local, serviço simples e curto:
 Se for somente captação rápida, sem edição, em até 1h total: cobrar R$ 250,00.
 Se houver atraso, espera, repetição, local adicional ou edição: acrescentar à parte.
 
+
+## 2026-07-12 — Status de negociação
+Jadielson enviou ao cliente o orçamento de R$ 250,00. Estratégia definida: se houver pechincha, negociar sem deixar cair demais; alternativa possível é manter valor mais baixo somente se o cliente fornecer transporte/deslocamento. Régua operacional: preservar percepção de valor e evitar queda abaixo do mínimo estratégico.
+
+## Confirmação final — guardar tudo
+Jadielson confirmou que seguirá a estratégia: proposta enviada em R$ 250,00; se houver pechincha, negociar sem desvalorizar; possível ajuste para R$ 200,00 somente com transporte por conta do cliente; não deixar o serviço cair abaixo do mínimo estratégico.
+
+### Régua consolidada para casos semelhantes
+- Serviço simples de drone, curto, até cerca de 1h total com deslocamento local: R$ 250,00.
+- Se o cliente pedir desconto: manter primeiro; se necessário, negociar para R$ 220,00 ou R$ 200,00 com contrapartida.
+- Contrapartida preferencial: transporte/deslocamento por conta do cliente.
+- Evitar aceitar abaixo de R$ 200,00, salvo situação muito estratégica.
+- Sempre separar captação de edição: edição deve ser cobrada à parte.
+
+## Resultado — proposta aprovada
+O cliente retornou e aprovou o orçamento de R$ 250,00 para a captação simples com drone nas três localidades. A estratégia de precificação foi validada na prática para a realidade local: valor acessível ao cliente, sem desvalorizar o trabalho e mantendo margem mínima saudável.
+
+### Aprendizado comercial
+Para captações simples com drone na realidade local/interior de Alagoas, quando o serviço for curto e sem edição, R$ 250,00 pode ser usado como referência inicial viável, com negociação condicionada a contrapartidas como transporte. A proposta não deve começar baixa demais, pois o cliente aceitou o valor justo apresentado.
+
+## Divisão financeira sugerida — orçamento aprovado de R$ 250,00
+Jadielson ressaltou que o combustível deve ficar entre R$ 30,00 e R$ 50,00 e que é necessário considerar custo/depreciação da aeronave, destinando parte do valor para uma conta/reserva de manutenção, troca e compra de equipamentos.
+
+### Modelo recomendado de separação
+Receita bruta: R$ 250,00
+
+Cenário recomendado:
+- Combustível/deslocamento: R$ 40,00 como média operacional, podendo variar de R$ 30,00 a R$ 50,00.
+- Reserva técnica/equipamentos: R$ 50,00 — 20% do orçamento, destinada a manutenção, baterias, hélices, troca de drone, acessórios e oportunidades de upgrade.
+- Custos operacionais menores: R$ 10,00 — cartão, armazenamento, desgaste geral, internet/transferência/organização.
+- Lucro líquido aproximado/pró-labore: R$ 150,00.
+
+### Faixa realista de lucro líquido
+- Se combustível for R$ 30,00: lucro líquido estimado de R$ 160,00.
+- Se combustível for R$ 40,00: lucro líquido estimado de R$ 150,00.
+- Se combustível for R$ 50,00: lucro líquido estimado de R$ 140,00.
+
+### Regra financeira consolidada para serviços simples de drone
+Para cada serviço simples de R$ 250,00:
+- guardar pelo menos R$ 50,00 em reserva técnica de equipamento;
+- pagar combustível real à parte;
+- considerar o restante como lucro/pró-labore;
+- não misturar reserva técnica com dinheiro de uso pessoal.
+
+### Esclarecimento — custos operacionais pequenos
+Foi esclarecido que "custo operacional pequeno" é uma margem simbólica para despesas indiretas que aparecem no processo, como armazenamento/backup, internet para envio, carregamento de baterias, desgaste de acessórios menores, embalagem/organização e tempo administrativo. Para serviços muito simples, esse item pode ser incorporado à reserva técnica ou ao pró-labore. Modelo revisado recomendado: combustível real + reserva técnica de R$ 50,00 + restante como lucro/pró-labore.
