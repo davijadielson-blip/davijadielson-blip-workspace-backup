@@ -153,3 +153,23 @@ Observação técnica:
 
 - `tavily_search` e `tavily_extract` diretos ainda acusaram ausência de `TAVILY_API_KEY` no Gateway.
 - `web_search` funcionou com provider Tavily e foi usado como caminho operacional para retomar a pesquisa.
+
+---
+
+## Atualização técnica — 2026-07-13 11h UTC
+
+Após solicitação de Jadielson informando que Lôh corrigiu o problema, as ferramentas diretas foram testadas novamente.
+
+Resultado:
+
+- `tavily_search` direto: **funcionou**.
+- `tavily_extract` direto: **funcionou parcialmente/majoritariamente**; extraiu Asana, The Decision Lab e NIH/PMC. A URL da APA sobre multitarefa falhou no fetch, mas a busca anterior já havia localizado a referência.
+
+Novos dados confirmados:
+
+1. Columbia SPS descreve a Eisenhower Matrix como ferramenta de produtividade, priorização e gestão do tempo, categorizando tarefas por urgência e importância.
+2. The Decision Lab reforça a “urgency trap” / “mere-urgency effect”: pessoas tendem a priorizar tarefas urgentes ou que parecem urgentes em detrimento das importantes sem urgência imediata.
+3. NIH/PMC, em “The Illusion of Urgency”, recomenda priorizar a lista para que itens importantes recebam tempo e energia, e reforça a releitura de Covey: necessidade, efetividade, distração e desperdício.
+4. Asana confirma os quatro movimentos operacionais: fazer primeiro, agendar, delegar e deletar/eliminar.
+
+Conclusão técnica: o bloqueio Tavily direto foi corrigido. A pesquisa pode continuar agora pela via principal exigida pelo protocolo.
