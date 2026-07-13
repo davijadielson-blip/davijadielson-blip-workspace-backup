@@ -66,3 +66,12 @@ Jarvis não encontrou/recebeu briefing operacional específico além do contexto
 - Se é apenas captação bruta ou se haverá edição.
 - Formato de entrega: arquivos brutos, takes selecionados ou vídeo pronto.
 - Condição climática e segurança dos locais.
+
+## Ajuste drone — 2026-07-12 noite
+Jadielson informou que pretende sair amanhã às **13h** para a captura de drone. Observação operacional: a rota é favorável e grande parte será em rodovia.
+
+### Implicação para planejamento
+- Tratar segunda-feira como dia com bloco externo no início da tarde.
+- Evitar colocar edição pesada antes/depois da captura.
+- Manhã deve ser usada para preparação leve: baterias, cartão, drone, checklist, clima e confirmação com cliente.
+- Pós-captura: descarregar/backup e separar material; não prometer edição no mesmo dia, salvo necessidade real.
