@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T01:04:20.343Z",
+  "updatedAt": "2026-07-13T09:00:40.345Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -234,24 +234,26 @@
       "endLine": 68,
       "source": "memory",
       "snippet": "5. 2026-07-31 — Bastidores / Prestação de Contas — fechamento Julho Amarelo 6. 2026-07-30 — Assistência Social / CAPS / Melhor em Casa 7. 2026-07-29 — PNI / Vigilância Sanitária / Endemias — prevenção 8. 2026-07-28 — Laboratório / Hepatites Virais — Dia Mundial Prevenção 9. 2026-07-27 — PSF / ACS / Academia — véspera Hepatites 10. 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo 11. 2026-07-23 — Maternidade / Gestantes / Rede de Apoio 12. 2026-07-22 — Vigilância Sanitária / Endemias / PNI 13. 2026-07-21 — Laboratório / CEO / Saúde Bucal 14. 2026-07-20 — PSFs Rurais e Indígenas / ACS 15. 2026-07-17 — Unidade Mista / SAMU / Referências 16. 2026-07-16 — EMULTI / Melhor em Casa 17. 2026-07-15 —",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.221787270903587,
+      "totalScore": 2.6195381760597227,
       "maxScore": 0.430519700050354,
       "firstRecalledAt": "2026-07-04T14:00:47.862Z",
-      "lastRecalledAt": "2026-07-05T11:00:47.194Z",
+      "lastRecalledAt": "2026-07-13T09:00:16.604Z",
       "queryHashes": [
         "e063b6cf4cda",
         "af208cc0c6dc",
         "b2895dd1b2fe",
         "6d430c254356",
         "8f52d7b81641",
-        "fa1c8060f8b4"
+        "fa1c8060f8b4",
+        "30f7f1dcd098"
       ],
       "recallDays": [
         "2026-07-04",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-13"
       ],
       "conceptTags": [
         "bastidores",
@@ -1051,6 +1053,197 @@
         "openai-codex/gpt-5.5",
         "critério",
         "final"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-11.md:34:52": {
+      "key": "memory:memory/sessions/sync/2026-07-11.md:34:52",
+      "path": "memory/sessions/sync/2026-07-11.md",
+      "startLine": 34,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8607880175113678,
+      "maxScore": 0.4311466544866562,
+      "firstRecalledAt": "2026-07-13T09:00:16.604Z",
+      "lastRecalledAt": "2026-07-13T09:00:40.345Z",
+      "queryHashes": [
+        "30f7f1dcd098",
+        "4af39e19d7b4"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-12.md:34:52": {
+      "key": "memory:memory/sessions/sync/2026-07-12.md:34:52",
+      "path": "memory/sessions/sync/2026-07-12.md",
+      "startLine": 34,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8607336312532424,
+      "maxScore": 0.4311176776885986,
+      "firstRecalledAt": "2026-07-13T09:00:16.604Z",
+      "lastRecalledAt": "2026-07-13T09:00:40.345Z",
+      "queryHashes": [
+        "30f7f1dcd098",
+        "4af39e19d7b4"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-09.md:50:59": {
+      "key": "memory:memory/sessions/sync/2026-07-09.md:50:59",
+      "path": "memory/sessions/sync/2026-07-09.md",
+      "startLine": 50,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "- 2026-07-08 — SMS São Sebastião — 08/07/2026 — Quarta [Publicado] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [Publicado] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 28 item(ns) com erro — verifique o log do terminal.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8360852032899857,
+      "maxScore": 0.41859045922756194,
+      "firstRecalledAt": "2026-07-13T09:00:16.604Z",
+      "lastRecalledAt": "2026-07-13T09:00:40.345Z",
+      "queryHashes": [
+        "30f7f1dcd098",
+        "4af39e19d7b4"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "08/07/2026",
+        "sms",
+        "são",
+        "sebastião",
+        "quarta",
+        "publicado",
+        "ceo",
+        "laboratório"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-10.md:42:54": {
+      "key": "memory:memory/sessions/sync/2026-07-10.md:42:54",
+      "path": "memory/sessions/sync/2026-07-10.md",
+      "startLine": 42,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "**Calendário: Calendário Editorial SMS São Sebastião** ## Eventos criados hoje | Data | Evento | |------|--------| | 2026-07-10 | SMS SÃO SEBASTIÃO — 10/07/2026 — SEXTA | | 2026-07-13 | SMS SÃO SEBASTIÃO — 13/07/2026 — SEGUNDA | | 2026-07-14 | SMS SÃO SEBASTIÃO — 14/07/2026 — TERÇA | | 2026-07-15 | SMS SÃO SEBASTIÃO — 15/07/2026 — QUARTA | | +24 outros eventos editoriais | (julho/2026) | ## Recomendação Manter o `gog` como fonte de tokens OAuth para evitar expiração. O script `notion-to-calendar.py` deve ser atualizado para usar `gog` como backend de autenticação em vez de token.json estático, garantindo refresh automático.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8201602101325989,
+      "maxScore": 0.4172580480575561,
+      "firstRecalledAt": "2026-07-13T09:00:16.604Z",
+      "lastRecalledAt": "2026-07-13T09:00:40.345Z",
+      "queryHashes": [
+        "30f7f1dcd098",
+        "4af39e19d7b4"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "10/07/2026",
+        "13/07/2026",
+        "14/07/2026",
+        "15/07/2026",
+        "julho/2026",
+        "notion-to-calendar.py",
+        "token.json",
+        "calendário"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-09.md:34:53": {
+      "key": "memory:memory/sessions/sync/2026-07-09.md:34:53",
+      "path": "memory/sessions/sync/2026-07-09.md",
+      "startLine": 34,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "- 2026-07-30 — SMS São Sebastião — 30/07/2026 — Quinta [Aguardando aprovação] - 2026-07-29 — SMS São Sebastião — 29/07/2026 — Quarta [Aguardando aprovação] - 2026-07-28 — SMS São Sebastião — 28/07/2026 — Terça [Aguardando aprovação] - 2026-07-27 — SMS São Sebastião — 27/07/2026 — Segunda [Aguardando aprovação] - 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação]",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8479837149381637,
+      "maxScore": 0.4327557951211929,
+      "firstRecalledAt": "2026-07-13T09:00:16.604Z",
+      "lastRecalledAt": "2026-07-13T09:00:40.345Z",
+      "queryHashes": [
+        "30f7f1dcd098",
+        "4af39e19d7b4"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "30/07/2026",
+        "29/07/2026",
+        "28/07/2026",
+        "27/07/2026",
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-08.md:34:55": {
+      "key": "memory:memory/sessions/sync/2026-07-08.md:34:55",
+      "path": "memory/sessions/sync/2026-07-08.md",
+      "startLine": 34,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4016779392957687,
+      "maxScore": 0.4016779392957687,
+      "firstRecalledAt": "2026-07-13T09:00:40.345Z",
+      "lastRecalledAt": "2026-07-13T09:00:40.345Z",
+      "queryHashes": [
+        "4af39e19d7b4"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
       ]
     }
   }
