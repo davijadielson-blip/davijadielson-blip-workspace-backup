@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T13:14:00.913Z",
+  "updatedAt": "2026-07-13T13:33:28.488Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -339,18 +339,19 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5899276614189146,
+      "totalScore": 1.9849686414003371,
       "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
         "977444e0e34f",
-        "4f70a3a9855f"
+        "4f70a3a9855f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-04",
@@ -374,18 +375,19 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5899276614189146,
+      "totalScore": 1.9849686414003371,
       "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
         "977444e0e34f",
-        "4f70a3a9855f"
+        "4f70a3a9855f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-04",
@@ -409,17 +411,18 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.2104141980409622,
+      "totalScore": 1.6054551780223845,
       "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
-        "4f70a3a9855f"
+        "4f70a3a9855f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-04",
@@ -443,17 +446,18 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.2104141980409622,
+      "totalScore": 1.6054551780223845,
       "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
-        "4f70a3a9855f"
+        "4f70a3a9855f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-04",
@@ -477,17 +481,18 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.2104141980409622,
+      "totalScore": 1.6054551780223845,
       "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
-        "4f70a3a9855f"
+        "4f70a3a9855f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-04",
@@ -511,19 +516,21 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.767572808265686,
+      "totalScore": 1.1626137882471084,
       "maxScore": 0.4082276344299316,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-04T14:03:01.117Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "ef4dc82b9ee7",
-        "af208cc0c6dc"
+        "af208cc0c6dc",
+        "d094bc004364"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-13"
       ],
       "conceptTags": [
         "samu",
@@ -832,19 +839,20 @@
       "endLine": 80,
       "source": "memory",
       "snippet": "| 2026-07-14 | Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão e prevenção | A iniciar | | 2026-07-15 | Endemias / LIRAa / Vigilância — ACE em campo | A iniciar | | 2026-07-16 | EMULTI / Melhor em Casa — cuidado domiciliar e vínculo | A iniciar | | 2026-07-17 | Unidade Mista / SAMU / Referências — orientação de urgência | A iniciar | | 2026-07-20 | PSFs Rurais e Indígenas / ACS — território e proteção | A iniciar | | 2026-07-21 | Laboratório / CEO / Saúde Bucal — exames e hepatites | A iniciar | | 2026-07-22 | Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS | A iniciar | | 2026-07-23 | Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto | A inic",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.124533686041832,
+      "totalScore": 3.5292332649230955,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T17:08:16.075Z",
-      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "df7f1efcb4a1",
         "7dc4b708c2f5",
         "7ec3d0e443a0",
         "6ca29934d5f7",
-        "977444e0e34f"
+        "977444e0e34f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-10",
@@ -1293,17 +1301,18 @@
       "endLine": 42,
       "source": "memory",
       "snippet": "Observação: calendário `logikacreative.mkt@gmail.com` sem eventos no período; `loh.open.logika@gmail.com` retornou `invalid_grant`, indicando pendência técnica de autenticação se for usar essa conta para agenda. ## Correção — Jadielson pediu tarefas/projetos pendentes, não frentes estruturais Após Jadielson corrigir: \"nao. me refiro a tarefas e projetos que estao pendentes\", Jarvis deve responder com lista operacional de tarefas/projetos ativos e não com análise macro da empresa. Lista mais útil/atual para tópico LÓGIKA: - Captação drone 3 localidades: sair 13h; confirmar se é Rancho Alegre/Cana Brava/Tabela, ponto de encontro, transporte, entrega e edição. - MiniDoc Jogos Indígenas Karap",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.2046556383371354,
+      "totalScore": 1.6063707739114763,
       "maxScore": 0.4126335889101028,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
-        "977444e0e34f"
+        "977444e0e34f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1326,18 +1335,19 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5966184228658675,
+      "totalScore": 1.9917152702808378,
       "maxScore": 0.4319266498088836,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
         "6466990bce48",
-        "977444e0e34f"
+        "977444e0e34f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1552,15 +1562,16 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "- 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados - 2026-07-08 — PNI / Endemias / Julho Amarelo — vacina, visita e prevenção - 2026-07-09 — CAPS / EMULTI / Melhor em Casa — cuidado humanizado - 2026-07-10 — SAMU / Unidade Mista / Referências — utilidade pública de fluxo - 2026-07-13 — PSF Rural / ACS / Caderneta — férias também são cuidado - 2026-07-14 — Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão - 2026-07-15 — Endemias / LIRAa / Vigilância —",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3826914608478546,
-      "maxScore": 0.3826914608478546,
+      "totalScore": 0.7846648007631302,
+      "maxScore": 0.40197333991527556,
       "firstRecalledAt": "2026-07-13T12:47:41.790Z",
-      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
+      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
       "queryHashes": [
-        "977444e0e34f"
+        "977444e0e34f",
+        "d094bc004364"
       ],
       "recallDays": [
         "2026-07-13"
