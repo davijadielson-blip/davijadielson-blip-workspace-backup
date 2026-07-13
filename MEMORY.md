@@ -581,3 +581,16 @@ Jadielson confirmou que Alfred (General da Central Pessoal) deve atuar como secr
 - Log de encaminhamentos começa vazio — primeiro encaminhamento real será o marco zero.
 - Sempre que Alfred escalar para Lôh, Lôh executa a ponte real entre grupos.
 
+
+## 🚫 ZAPIER — Removido em 13/07/2026
+
+O Zapier MCP foi **completamente removido** do ecossistema por decisão de Jadielson.
+
+- Nenhum servidor Zapier está disponível (zapier-1, zapier-3, zapier-youtube, canva-zapier)
+- Agentes **não devem tentar usar** ferramentas Zapier
+- Alternativas:
+  - Google (Drive, Gmail, Calendar) → `gog_drive`, `gog_gmail` (autenticação direta)
+  - Web → `web_search`, `tavily_search`, `tavily_extract`, `browser`
+  - YouTube, Instagram, Facebook → acesso direto via `browser` ou `web_search`
+
+📁 Decisão completa: `[F2] memory/decisions/2026-07-13-remocao-total-zapier.md`
