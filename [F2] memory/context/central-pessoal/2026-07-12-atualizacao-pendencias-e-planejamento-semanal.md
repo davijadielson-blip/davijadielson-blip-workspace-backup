@@ -75,3 +75,16 @@ Jadielson informou que pretende sair amanhã às **13h** para a captura de drone
 - Evitar colocar edição pesada antes/depois da captura.
 - Manhã deve ser usada para preparação leve: baterias, cartão, drone, checklist, clima e confirmação com cliente.
 - Pós-captura: descarregar/backup e separar material; não prometer edição no mesmo dia, salvo necessidade real.
+
+## Ajuste prioridade — minidoc dos índios
+Jadielson ressaltou que o **minidoc dos índios** também é prioridade porque está ligado a recebimento de dinheiro.
+
+### Reclassificação
+- Tipo: PD financeiro + PG audiovisual.
+- Prioridade: alta na semana.
+- Motivo: entrega destrava pagamento/recebimento.
+- Próxima ação: abrir o material, montar primeira timeline, identificar faltas e definir o menor corte entregável para liberar pagamento sem comprometer qualidade.
+
+### Implicação no planejamento
+- Minidoc dos índios deve entrar antes dos minidocs da Assembleia de Deus, porque tem impacto financeiro direto.
+- Assembleia de Deus segue importante, mas entra como projeto de portfólio/entrega após destravar o que gera recebimento imediato.

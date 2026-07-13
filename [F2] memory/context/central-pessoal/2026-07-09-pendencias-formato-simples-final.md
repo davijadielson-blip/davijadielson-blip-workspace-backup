@@ -140,3 +140,27 @@
   4. **Virar projeto/PG** — algo que gera ganho, portfólio, venda ou crescimento.
   5. **Enviar para Arca** — conhecimento/contexto que precisa ser organizado.
 - Próxima ação: Alfred preparar lote inicial com sugestão de destino para cada arquivo antes de mover/deletar qualquer coisa.
+
+## Triagem Inbox — atualização 2026-07-13
+
+### Nova pendência comercial da semana
+- **Orçamento para Quiel, Kauã e Lídio**
+  - Tipo: PG comercial / PD por dívida de resposta.
+  - Status: Jadielson informou que ainda está devendo.
+  - Próxima ação: montar/enviar orçamento nesta semana.
+  - Prioridade: entrar no planejamento semanal 13–19/07.
+
+### Prospect futuro
+- **Beto Saara**
+  - Status: resposta antiga já passou; item de Inbox excluído.
+  - Observação: manter como prospect futuro. Empresário; esposo da cantora Martinha. Pode render trabalhos futuros.
+
+### Demandas recorrentes/observações
+- **Consultas cirurgião geral / Espaço Cuidar**
+  - Status: não é tarefa fixa; demandas surgem esporadicamente no Espaço Cuidar.
+  - Ação: arquivada como referência recorrente, sem compromisso aberto.
+
+### Itens encerrados/arquivados
+- **Ficha online para Secretaria** — arquivada; fora do rol atual, para não assumir compromisso indevido.
+- **Movimentar conta BBMD** — resolvido e arquivado.
+- **VENDE-C / Cursos e implementações** — manter como estudos/backlog ativo; parecem já empenhados em alguma frente de estudo.

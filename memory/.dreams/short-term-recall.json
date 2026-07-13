@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T22:38:02.422Z",
+  "updatedAt": "2026-07-13T01:04:20.343Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -927,6 +927,130 @@
         "árvore",
         "completa",
         "hierarquia"
+      ]
+    },
+    "memory:memory/2026-06-24.md:1:27": {
+      "key": "memory:memory/2026-06-24.md:1:27",
+      "path": "memory/2026-06-24.md",
+      "startLine": 1,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "- [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (IDs antigos de conta anterior) **Resultado:** S",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-13T01:04:20.343Z",
+      "lastRecalledAt": "2026-07-13T01:04:20.343Z",
+      "queryHashes": [
+        "956602bdb011"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "ensure-integrations",
+        "ensure-integrations.sh",
+        "ensure-critical-integrations",
+        "openclaw.json",
+        "expirado/revogado",
+        "re-autenticação",
+        "loh.open.logika",
+        "gmail.com"
+      ]
+    },
+    "memory:memory/2026-06-26.md:103:125": {
+      "key": "memory:memory/2026-06-26.md:103:125",
+      "path": "memory/2026-06-26.md",
+      "startLine": 103,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "- Reaplicado patch canônico via `openclaw config patch --file /tmp/openclaw-agents-definitive.patch.json`. - Atualizado `scripts/health/ensure-integrations.sh` para incluir trava antirreversão de agentes/modelos. - O próprio script agora força: - 20 agentes em `agents.list`. - modelo primário `openai-codex/gpt-5.5`. - fallbacks `openrouter/deepseek/deepseek-v4-flash` e `openrouter/google/gemini-2.5-flash-lite`. - prompt com precedência operacional da Lôh sobre persona. - Executado `bash scripts/health/ensure-integrations.sh` com sucesso; ele manteve a configuração canônica. - Recarregado Gateway. - `agents_list` confirmou 20 agentes, todos `configured: true`, todos com `openai-codex/",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-13T01:04:20.343Z",
+      "lastRecalledAt": "2026-07-13T01:04:20.343Z",
+      "queryHashes": [
+        "956602bdb011"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "openai",
+        "router",
+        "agentes/modelos",
+        "agents.list",
+        "openai-codex/gpt-5.5",
+        "agents-list"
+      ]
+    },
+    "memory:memory/2026-06-26.md:122:139": {
+      "key": "memory:memory/2026-06-26.md:122:139",
+      "path": "memory/2026-06-26.md",
+      "startLine": 122,
+      "endLine": 139,
+      "source": "memory",
+      "snippet": "- Desativado cron `ensure-critical-integrations` (`0ff6060b-2c96-4ec9-8d89-b25ba054694a`) porque ele rodava a cada 30 minutos e estava associado às regravações/backs `openclaw.json.bak-ensure-integrations-*`, podendo consolidar padrões antigos. - Reaplicado patch canônico via `openclaw config patch --file /tmp/openclaw-agents-definitive.patch.json`. - Recarregado Gateway. - `ops/verify-agents-config.sh`: OK. - `agents_list`: 20 agentes, todos `configured: true`, todos com `openai-codex/gpt-5.5`. Pendências restantes conhecidas: 1. `ensure-critical-integrations` está DESATIVADO por segurança até ser redesenhado sem risco de reverter config. 2. `daily-brief` teve último run com erro por timeo",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-13T01:04:20.343Z",
+      "lastRecalledAt": "2026-07-13T01:04:20.343Z",
+      "queryHashes": [
+        "956602bdb011"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "openai",
+        "ensure-critical-integrations",
+        "regravações/backs",
+        "ops/verify-agents-config.sh",
+        "agents-list",
+        "openai-codex/gpt-5.5"
+      ]
+    },
+    "memory:memory/2026-06-26.md:67:90": {
+      "key": "memory:memory/2026-06-26.md:67:90",
+      "path": "memory/2026-06-26.md",
+      "startLine": 67,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "- Critério final: ciência operacional passa a ser garantida pela configuração/prompt ativo validado, não por resposta conversacional do agente, já que a própria falha testada era persona dominante. Validação final: - `jq` em `/data/.openclaw/openclaw.json`: `total: 20`, `bad: []`. - `agents_list`: 20 agentes listados, todos `configured: true`, todos com modelo principal `openai-codex/gpt-5.5`. Status: sem pendências operacionais conhecidas nesta frente. ## Correção antirreversão — configuração persistente dos agentes — 2026-06-26 Foi detectada uma reversão após edição direta de `/data/.openclaw/openclaw.json`: o arquivo retornou para 14 agentes e modelos antigos. Diagnóstico: edição dire",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-13T01:04:20.343Z",
+      "lastRecalledAt": "2026-07-13T01:04:20.343Z",
+      "queryHashes": [
+        "956602bdb011"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "configuração/prompt",
+        "openclaw/openclaw.json",
+        "agents-list",
+        "openai-codex/gpt-5.5",
+        "critério",
+        "final"
       ]
     }
   }
