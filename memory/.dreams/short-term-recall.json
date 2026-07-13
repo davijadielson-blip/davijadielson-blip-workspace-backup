@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T12:47:41.790Z",
+  "updatedAt": "2026-07-13T13:14:00.913Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -339,17 +339,18 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.1470862716436385,
-      "maxScore": 0.4082276344299316,
+      "totalScore": 1.5899276614189146,
+      "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
+      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
-        "977444e0e34f"
+        "977444e0e34f",
+        "4f70a3a9855f"
       ],
       "recallDays": [
         "2026-07-04",
@@ -373,17 +374,18 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.1470862716436385,
-      "maxScore": 0.4082276344299316,
+      "totalScore": 1.5899276614189146,
+      "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
+      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
-        "977444e0e34f"
+        "977444e0e34f",
+        "4f70a3a9855f"
       ],
       "recallDays": [
         "2026-07-04",
@@ -407,19 +409,21 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.767572808265686,
-      "maxScore": 0.4082276344299316,
+      "totalScore": 1.2104141980409622,
+      "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-04T14:03:01.117Z",
+      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
       "queryHashes": [
         "ef4dc82b9ee7",
-        "af208cc0c6dc"
+        "af208cc0c6dc",
+        "4f70a3a9855f"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-13"
       ],
       "conceptTags": [
         "samu",
@@ -439,19 +443,21 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.767572808265686,
-      "maxScore": 0.4082276344299316,
+      "totalScore": 1.2104141980409622,
+      "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-04T14:03:01.117Z",
+      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
       "queryHashes": [
         "ef4dc82b9ee7",
-        "af208cc0c6dc"
+        "af208cc0c6dc",
+        "4f70a3a9855f"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-13"
       ],
       "conceptTags": [
         "samu",
@@ -471,19 +477,21 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.767572808265686,
-      "maxScore": 0.4082276344299316,
+      "totalScore": 1.2104141980409622,
+      "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-04T14:03:01.117Z",
+      "lastRecalledAt": "2026-07-13T13:14:00.913Z",
       "queryHashes": [
         "ef4dc82b9ee7",
-        "af208cc0c6dc"
+        "af208cc0c6dc",
+        "4f70a3a9855f"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-13"
       ],
       "conceptTags": [
         "samu",
@@ -1182,18 +1190,19 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "**Calendário: Calendário Editorial SMS São Sebastião** ## Eventos criados hoje | Data | Evento | |------|--------| | 2026-07-10 | SMS SÃO SEBASTIÃO — 10/07/2026 — SEXTA | | 2026-07-13 | SMS SÃO SEBASTIÃO — 13/07/2026 — SEGUNDA | | 2026-07-14 | SMS SÃO SEBASTIÃO — 14/07/2026 — TERÇA | | 2026-07-15 | SMS SÃO SEBASTIÃO — 15/07/2026 — QUARTA | | +24 outros eventos editoriais | (julho/2026) | ## Recomendação Manter o `gog` como fonte de tokens OAuth para evitar expiração. O script `notion-to-calendar.py` deve ser atualizado para usar `gog` como backend de autenticação em vez de token.json estático, garantindo refresh automático.",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.9094643617022604,
+      "totalScore": 2.3784065658200353,
       "maxScore": 0.7353827917922108,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-13T10:01:54.341Z",
+      "lastRecalledAt": "2026-07-13T13:01:14.539Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
         "7ec3d0e443a0",
-        "eaf20a0aa54e"
+        "eaf20a0aa54e",
+        "38fdedec4390"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1416,15 +1425,16 @@
       "endLine": 38,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-08 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-08 **Horário:** 13:01 **Duração:** 5s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 28 - Total: 28 ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-07-07 — [SAÚDE] Atualizar panorama — Calendário Editorial Cíclico v2 [Concluído] - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3701635122299194,
-      "maxScore": 0.3701635122299194,
+      "totalScore": 1.083359872913411,
+      "maxScore": 0.7131963606834917,
       "firstRecalledAt": "2026-07-13T10:01:54.341Z",
-      "lastRecalledAt": "2026-07-13T10:01:54.341Z",
+      "lastRecalledAt": "2026-07-13T13:01:14.539Z",
       "queryHashes": [
-        "eaf20a0aa54e"
+        "eaf20a0aa54e",
+        "38fdedec4390"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1447,15 +1457,16 @@
       "endLine": 38,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-11 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-11 **Horário:** 13:00 **Duração:** 13s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 28 - ⚠️ Erros: 0 - Total: 28 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-07-07 — [SAÚDE] Atualizar panorama — Calendário Editorial Cíclico v2 [Concluído] - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.36933712065219876,
-      "maxScore": 0.36933712065219876,
+      "totalScore": 1.0835030671120196,
+      "maxScore": 0.7141659464598208,
       "firstRecalledAt": "2026-07-13T10:01:54.341Z",
-      "lastRecalledAt": "2026-07-13T10:01:54.341Z",
+      "lastRecalledAt": "2026-07-13T13:01:14.539Z",
       "queryHashes": [
-        "eaf20a0aa54e"
+        "eaf20a0aa54e",
+        "38fdedec4390"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1478,15 +1489,16 @@
       "endLine": 38,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-12 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-12 **Horário:** 13:00 **Duração:** 14s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 28 - ⚠️ Erros: 0 - Total: 28 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-07-07 — [SAÚDE] Atualizar panorama — Calendário Editorial Cíclico v2 [Concluído] - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.36827584803104396,
-      "maxScore": 0.36827584803104396,
+      "totalScore": 1.0821587856770067,
+      "maxScore": 0.7138829376459628,
       "firstRecalledAt": "2026-07-13T10:01:54.341Z",
-      "lastRecalledAt": "2026-07-13T10:01:54.341Z",
+      "lastRecalledAt": "2026-07-13T13:01:14.539Z",
       "queryHashes": [
-        "eaf20a0aa54e"
+        "eaf20a0aa54e",
+        "38fdedec4390"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1562,6 +1574,68 @@
         "tabu",
         "samu",
         "unidade"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-10.md:1:50": {
+      "key": "memory:memory/sessions/sync/2026-07-10.md:1:50",
+      "path": "memory/sessions/sync/2026-07-10.md",
+      "startLine": 1,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "--- tipo: sync-log data: 2026-07-10 gerado-por: notion-to-calendar revisado: true status: ✅ SUCESSO (após reparo) --- # Sync Notion → Calendar — 2026-07-10 **Horário:** 13:01 UTC → 13:12 UTC (após reparo) **Duração:** ~3s (reparo anexo) ## Resultado Final ### Calendário Editorial - ✅ **Criados:** 28 - 🔄 **Atualizados:** 0 - ⚠️ **Erros:** 0 - **Total:** 28 itens sincronizados do Notion ### Captura Geral - ✅ **Criados:** 1 - 🔄 **Atualizados:** 0 - ⚠️ **Erros:** 0 ## Problema Encontrado e Reparo **Problema:** Token OAuth expirado/revogado (`invalid_grant`) - Token expirou em: 2026-07-07T16:45:00Z - Tentativa de refresh falhou — refresh_token também invalidado - Primeira execução: 28/28",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7168679224327199,
+      "maxScore": 0.7168679224327199,
+      "firstRecalledAt": "2026-07-13T13:01:14.539Z",
+      "lastRecalledAt": "2026-07-13T13:01:14.539Z",
+      "queryHashes": [
+        "38fdedec4390"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "sync-log",
+        "gerado-por",
+        "notion-to-calendar",
+        "expirado/revogado",
+        "invalid-grant",
+        "2026-07-07t16",
+        "refresh-token",
+        "28/28"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-09.md:1:38": {
+      "key": "memory:memory/sessions/sync/2026-07-09.md:1:38",
+      "path": "memory/sessions/sync/2026-07-09.md",
+      "startLine": 1,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "--- tipo: sync-log data: 2026-07-09 gerado-por: notion-to-calendar revisado: false > ⛔ **Sincronização falhou — token Google Calendar expirado/revogado.** > Todos os 28 itens do Editorial e 1 da Captura falharam com `invalid_grant: Token has been expired or revoked.` > Necessário reautenticar via `reauth-google-v2.py` (abrir URL no navegador). --- # Sync Notion → Calendar — 2026-07-09 **Horário:** 13:01 **Duração:** 3s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 28 - Total: 28 ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-07-07 — [SAÚDE] Atualizar panorama — Calendário Editorial Cíclico v2 [Concluído] - 2026-06",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.70571230924974,
+      "maxScore": 0.70571230924974,
+      "firstRecalledAt": "2026-07-13T13:01:14.539Z",
+      "lastRecalledAt": "2026-07-13T13:01:14.539Z",
+      "queryHashes": [
+        "38fdedec4390"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "sync-log",
+        "gerado-por",
+        "notion-to-calendar",
+        "expirado/revogado",
+        "invalid-grant",
+        "reauth-google-v2.py",
+        "2026-06",
+        "tipo"
       ]
     }
   }
