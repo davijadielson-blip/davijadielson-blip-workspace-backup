@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T10:02:13.592Z",
+  "updatedAt": "2026-07-13T12:47:41.790Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -339,19 +339,21 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.767572808265686,
+      "totalScore": 1.1470862716436385,
       "maxScore": 0.4082276344299316,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-04T14:03:01.117Z",
+      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
       "queryHashes": [
         "ef4dc82b9ee7",
-        "af208cc0c6dc"
+        "af208cc0c6dc",
+        "977444e0e34f"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-13"
       ],
       "conceptTags": [
         "samu",
@@ -371,19 +373,21 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.767572808265686,
+      "totalScore": 1.1470862716436385,
       "maxScore": 0.4082276344299316,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-04T14:03:01.117Z",
+      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
       "queryHashes": [
         "ef4dc82b9ee7",
-        "af208cc0c6dc"
+        "af208cc0c6dc",
+        "977444e0e34f"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-13"
       ],
       "conceptTags": [
         "samu",
@@ -820,18 +824,19 @@
       "endLine": 80,
       "source": "memory",
       "snippet": "| 2026-07-14 | Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão e prevenção | A iniciar | | 2026-07-15 | Endemias / LIRAa / Vigilância — ACE em campo | A iniciar | | 2026-07-16 | EMULTI / Melhor em Casa — cuidado domiciliar e vínculo | A iniciar | | 2026-07-17 | Unidade Mista / SAMU / Referências — orientação de urgência | A iniciar | | 2026-07-20 | PSFs Rurais e Indígenas / ACS — território e proteção | A iniciar | | 2026-07-21 | Laboratório / CEO / Saúde Bucal — exames e hepatites | A iniciar | | 2026-07-22 | Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS | A iniciar | | 2026-07-23 | Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto | A inic",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.7354967445135117,
+      "totalScore": 3.124533686041832,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T17:08:16.075Z",
-      "lastRecalledAt": "2026-07-13T10:02:13.592Z",
+      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
       "queryHashes": [
         "df7f1efcb4a1",
         "7dc4b708c2f5",
         "7ec3d0e443a0",
-        "6ca29934d5f7"
+        "6ca29934d5f7",
+        "977444e0e34f"
       ],
       "recallDays": [
         "2026-07-10",
@@ -1279,16 +1284,17 @@
       "endLine": 42,
       "source": "memory",
       "snippet": "Observação: calendário `logikacreative.mkt@gmail.com` sem eventos no período; `loh.open.logika@gmail.com` retornou `invalid_grant`, indicando pendência técnica de autenticação se for usar essa conta para agenda. ## Correção — Jadielson pediu tarefas/projetos pendentes, não frentes estruturais Após Jadielson corrigir: \"nao. me refiro a tarefas e projetos que estao pendentes\", Jarvis deve responder com lista operacional de tarefas/projetos ativos e não com análise macro da empresa. Lista mais útil/atual para tópico LÓGIKA: - Captação drone 3 localidades: sair 13h; confirmar se é Rancho Alegre/Cana Brava/Tabela, ponto de encontro, transporte, entrega e edição. - MiniDoc Jogos Indígenas Karap",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7920220494270325,
-      "maxScore": 0.40623574554920194,
+      "totalScore": 1.2046556383371354,
+      "maxScore": 0.4126335889101028,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T10:02:13.592Z",
+      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
       "queryHashes": [
         "7ec3d0e443a0",
-        "6ca29934d5f7"
+        "6ca29934d5f7",
+        "977444e0e34f"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1311,16 +1317,18 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.8127197444438934,
+      "totalScore": 1.5966184228658675,
       "maxScore": 0.4319266498088836,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T10:02:13.592Z",
+      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
       "queryHashes": [
         "7ec3d0e443a0",
-        "6ca29934d5f7"
+        "6ca29934d5f7",
+        "6466990bce48",
+        "977444e0e34f"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1343,16 +1351,17 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.8098782241344451,
+      "totalScore": 1.1919348239898682,
       "maxScore": 0.44164407849311826,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T10:02:13.592Z",
+      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
       "queryHashes": [
         "7ec3d0e443a0",
-        "6ca29934d5f7"
+        "6ca29934d5f7",
+        "977444e0e34f"
       ],
       "recallDays": [
         "2026-07-13"
@@ -1491,6 +1500,68 @@
         "log",
         "data",
         "gerado"
+      ]
+    },
+    "memory:memory/2026-07-13.md:39:44": {
+      "key": "memory:memory/2026-07-13.md:39:44",
+      "path": "memory/2026-07-13.md",
+      "startLine": 39,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "- O Fio da Memória: pesquisa pronta; escolher protagonista, confirmar narrador-historiador e migrar para roteiro/captação. - Saúde/SMS: rotina editorial em teste; pautas semanais e demanda pontual da recepção sem atendimento no dia 16 aguardando dados. - JD AutoCenter: checar se ainda existe pendência; se concluído, arquivar como resolvido. - Inbox do Cofre: triar em lote por destino simples. - LÓGIKA marca/comercial: propostas, serviços, identidade visual, leads/Notion/Make seguem como projeto estruturante, não urgência de entrega do dia.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38784157037734984,
+      "maxScore": 0.38784157037734984,
+      "firstRecalledAt": "2026-07-13T12:19:44.985Z",
+      "lastRecalledAt": "2026-07-13T12:19:44.985Z",
+      "queryHashes": [
+        "6466990bce48"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "narrador-historiador",
+        "roteiro/captação",
+        "saúde/sms",
+        "marca/comercial",
+        "leads/notion/make",
+        "fio",
+        "memória",
+        "pesquisa"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-05.md:34:54": {
+      "key": "memory:memory/sessions/sync/2026-07-05.md:34:54",
+      "path": "memory/sessions/sync/2026-07-05.md",
+      "startLine": 34,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "- 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados - 2026-07-08 — PNI / Endemias / Julho Amarelo — vacina, visita e prevenção - 2026-07-09 — CAPS / EMULTI / Melhor em Casa — cuidado humanizado - 2026-07-10 — SAMU / Unidade Mista / Referências — utilidade pública de fluxo - 2026-07-13 — PSF Rural / ACS / Caderneta — férias também são cuidado - 2026-07-14 — Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão - 2026-07-15 — Endemias / LIRAa / Vigilância —",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3826914608478546,
+      "maxScore": 0.3826914608478546,
+      "firstRecalledAt": "2026-07-13T12:47:41.790Z",
+      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
+      "queryHashes": [
+        "977444e0e34f"
+      ],
+      "recallDays": [
+        "2026-07-13"
+      ],
+      "conceptTags": [
+        "caps",
+        "emulti",
+        "gestantes",
+        "acolhimento",
+        "sem",
+        "tabu",
+        "samu",
+        "unidade"
       ]
     }
   }
