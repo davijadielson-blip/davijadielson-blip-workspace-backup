@@ -45,3 +45,10 @@ Só entra quando houver folga ou bloco comercial próprio.
 A prioridade da semana é: compromisso marcado > dinheiro preso > resposta comercial devida > obrigação que evita desgaste > produção de valor > sistema > futuro.
 
 Mas a vida/energia precisa aparecer todo dia em dose pequena, porque sem energia o resto falha.
+
+## Nota de método — 2026-07-13
+Jadielson perguntou se a ordem prioritária foi pesquisa aprofundada ou chute.
+
+Resposta metodológica: não foi chute. A ordem foi construída a partir do contexto do Cofre, das pendências reais de Jadielson, do método PG/PD debatido, da matriz de decisão já existente no Cofre e de princípios práticos de priorização: hora marcada, dinheiro preso, dívida de resposta, obrigação que evita desgaste, produção de valor, sistemas e futuro.
+
+Limite: ainda não foi uma pesquisa externa aprofundada/benchmark formal. Tentativa de consulta Tavily/web falhou por falta de chave Tavily configurada no Gateway. Se necessário, aprofundar depois com pesquisa externa quando Tavily estiver disponível ou com outra fonte habilitada.
