@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T13:33:28.488Z",
+  "updatedAt": "2026-07-14T09:00:33.760Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -9,20 +9,22 @@
       "endLine": 36,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-06-26 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-06-26 **Horário:** 13:01 **Duração:** 15s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7192802101373672,
-      "maxScore": 0.3672570288181305,
+      "totalScore": 1.0866023063659667,
+      "maxScore": 0.3673220962285995,
       "firstRecalledAt": "2026-07-03T11:01:28.103Z",
-      "lastRecalledAt": "2026-07-04T14:00:47.862Z",
+      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
       "queryHashes": [
         "67cd57a24aab",
-        "e063b6cf4cda"
+        "e063b6cf4cda",
+        "20bf8e9349e0"
       ],
       "recallDays": [
         "2026-07-03",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-14"
       ],
       "conceptTags": [
         "sync-log",
@@ -73,20 +75,22 @@
       "endLine": 36,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-06-28 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-06-28 **Horário:** 13:01 **Duração:** 14s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7162503302097321,
+      "totalScore": 1.082052281498909,
       "maxScore": 0.36584313213825226,
       "firstRecalledAt": "2026-07-03T11:01:28.103Z",
-      "lastRecalledAt": "2026-07-04T14:00:47.862Z",
+      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
       "queryHashes": [
         "67cd57a24aab",
-        "e063b6cf4cda"
+        "e063b6cf4cda",
+        "20bf8e9349e0"
       ],
       "recallDays": [
         "2026-07-03",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-14"
       ],
       "conceptTags": [
         "sync-log",
@@ -170,20 +174,22 @@
       "endLine": 36,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-06-24 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-06-24 **Horário:** 14:54 **Duração:** 12s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7156888604164123,
-      "maxScore": 0.3652275264263153,
+      "totalScore": 1.0834443986415863,
+      "maxScore": 0.36775553822517393,
       "firstRecalledAt": "2026-07-03T11:01:28.103Z",
-      "lastRecalledAt": "2026-07-04T14:00:47.862Z",
+      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
       "queryHashes": [
         "67cd57a24aab",
-        "e063b6cf4cda"
+        "e063b6cf4cda",
+        "20bf8e9349e0"
       ],
       "recallDays": [
         "2026-07-03",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-14"
       ],
       "conceptTags": [
         "sync-log",
@@ -277,18 +283,20 @@
       "endLine": 36,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-01 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-01 **Horário:** 13:01 **Duração:** 13s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.35052984356880185,
-      "maxScore": 0.35052984356880185,
+      "totalScore": 0.7183450669050215,
+      "maxScore": 0.36781522333621974,
       "firstRecalledAt": "2026-07-04T14:00:47.862Z",
-      "lastRecalledAt": "2026-07-04T14:00:47.862Z",
+      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
       "queryHashes": [
-        "e063b6cf4cda"
+        "e063b6cf4cda",
+        "20bf8e9349e0"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-14"
       ],
       "conceptTags": [
         "sync-log",
@@ -1403,19 +1411,21 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final - 2026-07-27 — PSF / ACS / Academia — véspera do Dia Mundial das Hepatites - 2026-07-28 — Laboratório / Hepatites Virais — Dia Mundial de Prevenção - 2026-07-29 — PNI / Vigilância Sanitária / Endemias — prevenção continua - 2026-07-30 — Assistência Social / CAPS / Melhor em Casa — rede sem preconceito - 2026-07-31 — Bastidores / Prestação de Contas — fechamento do Julho Amarelo - (mais 4 itens de semanas anteriores já com data passada) ## Próximos Passos 1. Reautenticar Google Calendar manualmente 2. Rodar sync novamente: `python3 scripts/sync/notion-to-calendar.py` 3. Verificar se os eventos foram criados no Go",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7246340334415435,
-      "maxScore": 0.365874320268631,
+      "totalScore": 1.0917590707540512,
+      "maxScore": 0.3671250373125076,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T10:01:54.287Z",
+      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
       "queryHashes": [
         "7ec3d0e443a0",
-        "da9d843a9a43"
+        "da9d843a9a43",
+        "20bf8e9349e0"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-14"
       ],
       "conceptTags": [
         "samu",
@@ -1647,6 +1657,37 @@
         "reauth-google-v2.py",
         "2026-06",
         "tipo"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-06.md:1:37": {
+      "key": "memory:memory/sessions/sync/2026-07-06.md:1:37",
+      "path": "memory/sessions/sync/2026-07-06.md",
+      "startLine": 1,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "--- tipo: sync-log data: 2026-07-06 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-06 **Horário:** 13:01 **Duração:** 4s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 27 - Total: 27 ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho ce",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.37194012999534604,
+      "maxScore": 0.37194012999534604,
+      "firstRecalledAt": "2026-07-14T09:00:33.760Z",
+      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
+      "queryHashes": [
+        "20bf8e9349e0"
+      ],
+      "recallDays": [
+        "2026-07-14"
+      ],
+      "conceptTags": [
+        "sync-log",
+        "gerado-por",
+        "notion-to-calendar",
+        "tipo",
+        "sync",
+        "log",
+        "data",
+        "gerado"
       ]
     }
   }
