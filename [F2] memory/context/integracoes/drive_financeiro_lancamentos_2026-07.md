@@ -158,3 +158,25 @@ Arquivo enviado ao Drive pessoal:
 - Pasta: `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`
 - Drive ID: `1_mXOqQs0N5b3IkNl4DJ71WUPmnP6u67N`
 - Link: `https://drive.google.com/file/d/1_mXOqQs0N5b3IkNl4DJ71WUPmnP6u67N/view?usp=drivesdk`
+
+### Água mineral paga — 2026-07-14
+
+Jadielson enviou comprovante Pix de água mineral paga.
+
+Dados extraídos do comprovante/imagem:
+- Data/hora da transação: 2026-07-14 17:07:51.
+- Valor: R$ 36,00.
+- Recebedor: M Messias dos Santos.
+- Forma de pagamento: Pix enviado pela conta Banco do Brasil.
+- Classificação financeira pessoal: ÁGUA MINERAL / despesa doméstica.
+- Status: PAGO.
+
+Arquivo local no Cofre:
+`[F2] memory/inbox-externa/financeiro/2026/07-Julho/02-Comprovantes-Pagos/2026-07-14__AGUA-MINERAL__m-messias-dos-santos__R-36-00__PAGO.jpg`
+
+Observação: lançamento pessoal doméstico; manter separado de qualquer controle empresarial/LÓGIKA.
+Arquivo enviado ao Drive pessoal:
+- Pasta: `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`
+- Drive ID: `1UQ9rxKem46SG7lCIUHlZ9kWdQVrk-YjQ`
+- Link: `https://drive.google.com/file/d/1UQ9rxKem46SG7lCIUHlZ9kWdQVrk-YjQ/view?usp=drivesdk`
+
