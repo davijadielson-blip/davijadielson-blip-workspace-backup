@@ -4,7 +4,9 @@ This folder is home. Treat it that way.
 
 ## First Run
 
-If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.
+`BOOTSTRAP.md` era apenas um ritual temporário de primeiro nascimento. Neste workspace, a identidade já está consolidada; portanto, o arquivo foi removido para evitar confusão.
+
+Agentes e subagentes **não dependem** dele para operar. Devem carregar identidade e contexto pelos arquivos centrais: `SOUL.md`, `IDENTITY.md`, `USER.md`, `MEMORY.md`, `MAPA.md` e `memory/YYYY-MM-DD.md`.
 
 ## Every Session
 
