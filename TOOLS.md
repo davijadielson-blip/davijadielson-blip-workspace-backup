@@ -44,3 +44,24 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+## Google — acesso oficial via `gog`
+
+Decisão de Jadielson/Lôh: Google não deve ser acessado via Zapier MCP.
+
+Use `gog` e scripts diretos para:
+
+- Google Drive: `gog_drive`
+- Gmail: `gog_gmail`
+- Google Calendar: `gog_calendar` ou scripts do Cofre
+- Google Sheets: `gog`/scripts diretos com OAuth
+
+Antes de qualquer operação Google, carregar ambiente quando necessário:
+
+```bash
+cd /data/.openclaw/workspace
+source scripts/gog-auth.sh
+```
+
+Proibido reabilitar Google no Zapier sem autorização explícita de Jadielson/Lôh.
+
+Decisão: `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`

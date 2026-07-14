@@ -523,6 +523,16 @@ skills/                    ← workflows complexos portáveis (cerebro, rotina, 
 
 ---
 
+## Política Google — `gog` oficial, Zapier proibido para Google
+
+Decisão vigente de Jadielson/Lôh: **Google não deve ser acessado via Zapier MCP**.
+
+- Para Google Drive, Google Calendar, Gmail e Google Sheets, use `gog` e/ou scripts diretos do Cofre.
+- Não habilite Google novamente no Zapier sem autorização explícita de Jadielson/Lôh.
+- Não sugira Zapier como alternativa inicial para Google; diagnostique `gog`, OAuth, escopos e scripts locais primeiro.
+- Zapier pode permanecer apenas para apps não-Google quando estiver habilitado e fizer sentido.
+- Decisão registrada em `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`.
+
 ## 9. Ritual de manutenção
 
 **Rotina automática (launchd):**
@@ -569,9 +579,9 @@ Comandos customizados disponíveis no Codex. Digite `/` para ver a lista complet
 
 Principais: `/hoje`, `/captura`, `/legenda`, `/revisar`, `/post-saude`, `/post-camara`, `/post-sindss`, `/post-rogerio`, `/post-logika`, `/roteiro-rogerio`, `/planejar-semana`, `/manutencao`, `/sazonal`, `/aniversariante`, `/busca`, `/conecta`, `/ideia`, `/resumo-whats`, `/prioridades`, `/financeiro`.
 
-**Google Calendar:** `/agenda`, `/agendar`, `/sincronizar-sazonais`, `/bloquear-rotina`, `/conflitos-agenda`, `/agenda-frente`, `/agenda-email`.
+**Google Calendar:** `/agenda`, `/agendar`, `/sincronizar-sazonais`, `/bloquear-rotina`, `/conflitos-agenda`, `/agenda-frente`, `/agenda-email` — via `gog`/scripts diretos, nunca Zapier.
 
-**Fontes externas (Tier 1 — MCP):** `/inbox`, `/inbox-cliente`, `/drive-recente`, `/drive-buscar`, `/drive-arquivo`.
+**Fontes externas (Tier 1 — MCP/CLI):** `/inbox`, `/inbox-cliente`, `/drive-recente`, `/drive-buscar`, `/drive-arquivo` — Google via `gog`, não Zapier.
 
 **Fontes externas (Tier 2 — manual):** `/whats-importar`, `/audio-importar`.
 
