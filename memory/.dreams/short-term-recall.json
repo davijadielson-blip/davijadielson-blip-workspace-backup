@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T09:00:33.760Z",
+  "updatedAt": "2026-07-14T10:00:21.168Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -9,17 +9,18 @@
       "endLine": 36,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-06-26 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-06-26 **Horário:** 13:01 **Duração:** 15s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.0866023063659667,
-      "maxScore": 0.3673220962285995,
+      "totalScore": 1.4599287539720534,
+      "maxScore": 0.3733264476060867,
       "firstRecalledAt": "2026-07-03T11:01:28.103Z",
-      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.133Z",
       "queryHashes": [
         "67cd57a24aab",
         "e063b6cf4cda",
-        "20bf8e9349e0"
+        "20bf8e9349e0",
+        "43c2abb00512"
       ],
       "recallDays": [
         "2026-07-03",
@@ -44,18 +45,20 @@
       "endLine": 36,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-06-29 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-06-29 **Horário:** 13:01 **Duração:** 19s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3666345179080963,
+      "totalScore": 0.7201570868492126,
       "maxScore": 0.3666345179080963,
       "firstRecalledAt": "2026-07-03T11:01:28.103Z",
-      "lastRecalledAt": "2026-07-03T11:01:28.103Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.168Z",
       "queryHashes": [
-        "67cd57a24aab"
+        "67cd57a24aab",
+        "81b875f68955"
       ],
       "recallDays": [
-        "2026-07-03"
+        "2026-07-03",
+        "2026-07-14"
       ],
       "conceptTags": [
         "sync-log",
@@ -110,18 +113,20 @@
       "endLine": 36,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-06-23 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-06-23 **Horário:** 13:10 **Duração:** 13s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3653626888990402,
-      "maxScore": 0.3653626888990402,
+      "totalScore": 0.7386622667312621,
+      "maxScore": 0.37329957783222195,
       "firstRecalledAt": "2026-07-03T11:01:28.103Z",
-      "lastRecalledAt": "2026-07-03T11:01:28.103Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.133Z",
       "queryHashes": [
-        "67cd57a24aab"
+        "67cd57a24aab",
+        "43c2abb00512"
       ],
       "recallDays": [
-        "2026-07-03"
+        "2026-07-03",
+        "2026-07-14"
       ],
       "conceptTags": [
         "sync-log",
@@ -240,13 +245,13 @@
       "endLine": 68,
       "source": "memory",
       "snippet": "5. 2026-07-31 — Bastidores / Prestação de Contas — fechamento Julho Amarelo 6. 2026-07-30 — Assistência Social / CAPS / Melhor em Casa 7. 2026-07-29 — PNI / Vigilância Sanitária / Endemias — prevenção 8. 2026-07-28 — Laboratório / Hepatites Virais — Dia Mundial Prevenção 9. 2026-07-27 — PSF / ACS / Academia — véspera Hepatites 10. 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo 11. 2026-07-23 — Maternidade / Gestantes / Rede de Apoio 12. 2026-07-22 — Vigilância Sanitária / Endemias / PNI 13. 2026-07-21 — Laboratório / CEO / Saúde Bucal 14. 2026-07-20 — PSFs Rurais e Indígenas / ACS 15. 2026-07-17 — Unidade Mista / SAMU / Referências 16. 2026-07-16 — EMULTI / Melhor em Casa 17. 2026-07-15 —",
-      "recallCount": 11,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.1076659232378,
+      "totalScore": 4.848553416132926,
       "maxScore": 0.430519700050354,
       "firstRecalledAt": "2026-07-04T14:00:47.862Z",
-      "lastRecalledAt": "2026-07-13T10:02:13.592Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.168Z",
       "queryHashes": [
         "e063b6cf4cda",
         "af208cc0c6dc",
@@ -258,12 +263,15 @@
         "7ec3d0e443a0",
         "da9d843a9a43",
         "eaf20a0aa54e",
-        "6ca29934d5f7"
+        "6ca29934d5f7",
+        "43c2abb00512",
+        "81b875f68955"
       ],
       "recallDays": [
         "2026-07-04",
         "2026-07-05",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-14"
       ],
       "conceptTags": [
         "bastidores",
@@ -283,16 +291,18 @@
       "endLine": 36,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-01 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-01 **Horário:** 13:01 **Duração:** 13s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7183450669050215,
-      "maxScore": 0.36781522333621974,
+      "totalScore": 1.4494819194078443,
+      "maxScore": 0.3765495479106903,
       "firstRecalledAt": "2026-07-04T14:00:47.862Z",
-      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.168Z",
       "queryHashes": [
         "e063b6cf4cda",
-        "20bf8e9349e0"
+        "20bf8e9349e0",
+        "43c2abb00512",
+        "81b875f68955"
       ],
       "recallDays": [
         "2026-07-04",
@@ -347,23 +357,25 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.9849686414003371,
+      "totalScore": 2.350600007176399,
       "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
         "977444e0e34f",
         "4f70a3a9855f",
-        "d094bc004364"
+        "d094bc004364",
+        "19add55e8324"
       ],
       "recallDays": [
         "2026-07-04",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-14"
       ],
       "conceptTags": [
         "samu",
@@ -1309,21 +1321,23 @@
       "endLine": 42,
       "source": "memory",
       "snippet": "Observação: calendário `logikacreative.mkt@gmail.com` sem eventos no período; `loh.open.logika@gmail.com` retornou `invalid_grant`, indicando pendência técnica de autenticação se for usar essa conta para agenda. ## Correção — Jadielson pediu tarefas/projetos pendentes, não frentes estruturais Após Jadielson corrigir: \"nao. me refiro a tarefas e projetos que estao pendentes\", Jarvis deve responder com lista operacional de tarefas/projetos ativos e não com análise macro da empresa. Lista mais útil/atual para tópico LÓGIKA: - Captação drone 3 localidades: sair 13h; confirmar se é Rancho Alegre/Cana Brava/Tabela, ponto de encontro, transporte, entrega e edição. - MiniDoc Jogos Indígenas Karap",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.6063707739114763,
-      "maxScore": 0.4126335889101028,
+      "totalScore": 2.0301500618457795,
+      "maxScore": 0.42377928793430325,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
         "977444e0e34f",
-        "d094bc004364"
+        "d094bc004364",
+        "19add55e8324"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-14"
       ],
       "conceptTags": [
         "logikacreative.mkt",
@@ -1343,22 +1357,24 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.9917152702808378,
+      "totalScore": 2.39711922109127,
       "maxScore": 0.4319266498088836,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
         "6466990bce48",
         "977444e0e34f",
-        "d094bc004364"
+        "d094bc004364",
+        "19add55e8324"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-14"
       ],
       "conceptTags": [
         "operação/automação",
@@ -1378,20 +1394,22 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.1919348239898682,
+      "totalScore": 1.5810769706964494,
       "maxScore": 0.44164407849311826,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-13T12:47:41.790Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
-        "977444e0e34f"
+        "977444e0e34f",
+        "19add55e8324"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-14"
       ],
       "conceptTags": [
         "1/lógika",
@@ -1411,17 +1429,19 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final - 2026-07-27 — PSF / ACS / Academia — véspera do Dia Mundial das Hepatites - 2026-07-28 — Laboratório / Hepatites Virais — Dia Mundial de Prevenção - 2026-07-29 — PNI / Vigilância Sanitária / Endemias — prevenção continua - 2026-07-30 — Assistência Social / CAPS / Melhor em Casa — rede sem preconceito - 2026-07-31 — Bastidores / Prestação de Contas — fechamento do Julho Amarelo - (mais 4 itens de semanas anteriores já com data passada) ## Próximos Passos 1. Reautenticar Google Calendar manualmente 2. Rodar sync novamente: `python3 scripts/sync/notion-to-calendar.py` 3. Verificar se os eventos foram criados no Go",
-      "recallCount": 3,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.0917590707540512,
-      "maxScore": 0.3671250373125076,
+      "totalScore": 1.849756935238838,
+      "maxScore": 0.3986367732286453,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.168Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "da9d843a9a43",
-        "20bf8e9349e0"
+        "20bf8e9349e0",
+        "43c2abb00512",
+        "81b875f68955"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1541,18 +1561,20 @@
       "endLine": 44,
       "source": "memory",
       "snippet": "- O Fio da Memória: pesquisa pronta; escolher protagonista, confirmar narrador-historiador e migrar para roteiro/captação. - Saúde/SMS: rotina editorial em teste; pautas semanais e demanda pontual da recepção sem atendimento no dia 16 aguardando dados. - JD AutoCenter: checar se ainda existe pendência; se concluído, arquivar como resolvido. - Inbox do Cofre: triar em lote por destino simples. - LÓGIKA marca/comercial: propostas, serviços, identidade visual, leads/Notion/Make seguem como projeto estruturante, não urgência de entrega do dia.",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.38784157037734984,
-      "maxScore": 0.38784157037734984,
+      "totalScore": 0.7949530869722365,
+      "maxScore": 0.40711151659488676,
       "firstRecalledAt": "2026-07-13T12:19:44.985Z",
-      "lastRecalledAt": "2026-07-13T12:19:44.985Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
       "queryHashes": [
-        "6466990bce48"
+        "6466990bce48",
+        "19add55e8324"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-14"
       ],
       "conceptTags": [
         "narrador-historiador",
@@ -1666,15 +1688,79 @@
       "endLine": 37,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-06 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-06 **Horário:** 13:01 **Duração:** 4s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 27 - Total: 27 ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho ce",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.1057782918214798,
+      "maxScore": 0.3776778072118759,
+      "firstRecalledAt": "2026-07-14T09:00:33.760Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.168Z",
+      "queryHashes": [
+        "20bf8e9349e0",
+        "43c2abb00512",
+        "81b875f68955"
+      ],
+      "recallDays": [
+        "2026-07-14"
+      ],
+      "conceptTags": [
+        "sync-log",
+        "gerado-por",
+        "notion-to-calendar",
+        "tipo",
+        "sync",
+        "log",
+        "data",
+        "gerado"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-06.md:34:54": {
+      "key": "memory:memory/sessions/sync/2026-07-06.md:34:54",
+      "path": "memory/sessions/sync/2026-07-06.md",
+      "startLine": 34,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "- 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão e prevenção [A iniciar] - 2026-07-",
       "recallCount": 1,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.37194012999534604,
-      "maxScore": 0.37194012999534604,
-      "firstRecalledAt": "2026-07-14T09:00:33.760Z",
-      "lastRecalledAt": "2026-07-14T09:00:33.760Z",
+      "totalScore": 0.37228259444236755,
+      "maxScore": 0.37228259444236755,
+      "firstRecalledAt": "2026-07-14T10:00:21.079Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
       "queryHashes": [
-        "20bf8e9349e0"
+        "19add55e8324"
+      ],
+      "recallDays": [
+        "2026-07-14"
+      ],
+      "conceptTags": [
+        "2026-07",
+        "maternidade",
+        "gestantes",
+        "rede",
+        "apoio",
+        "cuidado",
+        "antes",
+        "depois"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-06-30.md:1:36": {
+      "key": "memory:memory/sessions/sync/2026-06-30.md:1:36",
+      "path": "memory/sessions/sync/2026-06-30.md",
+      "startLine": 1,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "--- tipo: sync-log data: 2026-06-30 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-06-30 **Horário:** 13:00 **Duração:** 15s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 27 - ⚠️ Erros: 0 - Total: 27 ## Captura Geral - ✅ Criados: 1 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho c",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.35267074704170226,
+      "maxScore": 0.35267074704170226,
+      "firstRecalledAt": "2026-07-14T10:00:21.168Z",
+      "lastRecalledAt": "2026-07-14T10:00:21.168Z",
+      "queryHashes": [
+        "81b875f68955"
       ],
       "recallDays": [
         "2026-07-14"
