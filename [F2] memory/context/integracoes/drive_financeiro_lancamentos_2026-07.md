@@ -180,3 +180,26 @@ Arquivo enviado ao Drive pessoal:
 - Drive ID: `1UQ9rxKem46SG7lCIUHlZ9kWdQVrk-YjQ`
 - Link: `https://drive.google.com/file/d/1UQ9rxKem46SG7lCIUHlZ9kWdQVrk-YjQ/view?usp=drivesdk`
 
+
+### Água mineral paga — 2026-07-15
+
+Jadielson enviou comprovante Pix e informou: "2 Água mineral".
+
+Dados extraídos do comprovante/imagem:
+- Data/hora da transação: 2026-07-15 10:26:44.
+- Valor: R$ 18,00.
+- Recebedor: Manoel M Santos.
+- Forma de pagamento: Pix enviado pela conta Banco do Brasil.
+- Classificação financeira pessoal: ÁGUA MINERAL / despesa doméstica.
+- Quantidade informada: 2.
+- Status: PAGO.
+
+Arquivo local no Cofre:
+`[F2] memory/inbox-externa/financeiro/2026/07-Julho/02-Comprovantes-Pagos/2026-07-15__AGUA-MINERAL__manoel-m-santos__R-18-00__PAGO.jpg`
+
+Observação: lançamento pessoal doméstico; manter separado de qualquer controle empresarial/LÓGIKA.
+
+Tentativa de upload ao Drive pessoal:
+- Resultado: pendente.
+- Motivo técnico: `gog` retornou `invalid_grant` / token expirado ou revogado para `davijadielson@gmail.com` ao tentar upload em `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`.
+- Próximo passo: reautorizar a conta pessoal no `gog` para Drive antes de espelhar este comprovante no Google Drive.
