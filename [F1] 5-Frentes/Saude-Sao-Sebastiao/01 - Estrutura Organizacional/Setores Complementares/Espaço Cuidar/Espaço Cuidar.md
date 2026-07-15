@@ -29,16 +29,44 @@ tags:
 
 ## O que oferece
 
+### Cronograma habitual informado pela coordenação/comunicação
+
+> Atualização operacional recebida em 2026-07-15 para uso em produção de conteúdo. Usar como referência habitual, mas confirmar agenda antes de divulgar chamadas com data/horário, pois algumas especialidades dependem da agenda médica.
+
+| Dia | Especialidade(s) habituais | Observação |
+|---|---|---|
+| **Segunda-feira** | **Pediatria** e **Cardiologia** | Cronograma habitual |
+| **Terça-feira** | **Pneumologia** | Cronograma habitual |
+| **Quarta-feira** | **Ginecologia** | Cronograma habitual |
+| **Quinta-feira** | **Cirurgião Geral / Cirurgia Geral** | Cronograma habitual |
+| **Sexta-feira** | **Psiquiatria** | Cronograma habitual |
+| **1 vez ao mês** | **Pequenas Cirurgias** | Geralmente no penúltimo domingo do mês; em julho/2026 informado para **19/07** |
+
+### Outras especialidades/serviços com agenda variável
+
+Também há atendimento mensal ou recorrente de outras especialidades, conforme agenda dos médicos e disponibilidade do serviço:
+
+- **Ultrassonografia**
+- **Ortopedia / Ortopedista**
+- **Urologia / Urologista**
+- **Neurologia / Neurologista**
+
+### Lista histórica/geral de serviços registrados
+
 | Especialidade | Dia(s) | Observação |
 |---|---|---|
-| **Cardiologia** | Toda sexta — manhã | ECG disponível (dia a definir) |
-| **Pediatria** | Segunda — manhã | |
-| **Ginecologia** | Quarta — manhã | |
-| **Cirurgia Geral** | Quinta (Dr. Antonio) · Sexta (Dr. Leonardo) | |
-| **Psicologia** | Seg · Ter · Qui — atendimentos; Qua · Sex — palestras e visitas | |
-| **Psiquiatria** | A definir | Articulação com [[CAPS]] |
-| **Neurologia** | A definir | |
-| **Ultrassom** | A definir | |
+| **Cardiologia** | Segunda — cronograma habitual informado em 2026-07-15 | Registro anterior citava sexta de manhã; priorizar atualização mais recente e confirmar antes de divulgar agenda datada |
+| **Pediatria** | Segunda | Cronograma habitual |
+| **Pneumologia** | Terça | Cronograma habitual |
+| **Ginecologia** | Quarta | Cronograma habitual |
+| **Cirurgia Geral** | Quinta | Cronograma habitual |
+| **Psiquiatria** | Sexta | Articulação com [[CAPS]] quando necessário |
+| **Psicologia** | Agenda própria/variável | Registro anterior: Seg · Ter · Qui — atendimentos; Qua · Sex — palestras e visitas |
+| **Neurologia** | Agenda variável | Depende da agenda médica |
+| **Ultrassonografia / Ultrassom** | Agenda variável | Depende da agenda médica |
+| **Ortopedia** | Agenda variável | Depende da agenda médica |
+| **Urologia** | Agenda variável | Depende da agenda médica |
+| **Pequenas Cirurgias** | Mensal | Geralmente no penúltimo domingo; julho/2026: 19/07 |
 
 > Coordenação: **Alissandra** (EMULTI · Espaço Cuidar · Academias)
 
