@@ -203,3 +203,14 @@ Tentativa de upload ao Drive pessoal:
 - Resultado: pendente.
 - Motivo técnico: `gog` retornou `invalid_grant` / token expirado ou revogado para `davijadielson@gmail.com` ao tentar upload em `FINANCEIRO/2026/07-Julho/02-Comprovantes-Pagos`.
 - Próximo passo: reautorizar a conta pessoal no `gog` para Drive antes de espelhar este comprovante no Google Drive.
+
+### Correção de regra — comprovantes da empresa no Drive da empresa — 2026-07-15 15:13 UTC
+
+Jadielson corrigiu a regra operacional: comprovantes **da empresa/LÓGIKA** devem ser colocados no **Drive da empresa**, não no Drive pessoal.
+
+Regra a seguir daqui em diante:
+- Comprovante empresarial/LÓGIKA → Drive `logikacreative.mkt@gmail.com` / estrutura financeira empresarial.
+- Comprovante pessoal/doméstico → Drive `davijadielson@gmail.com` / `FINANCEIRO` pessoal.
+- Se a natureza não estiver clara, perguntar antes de subir.
+
+Pendência técnica no momento: tokens `gog` retornando `invalid_grant`/expirados para as contas testadas; acionar/reautorizar antes de upload.

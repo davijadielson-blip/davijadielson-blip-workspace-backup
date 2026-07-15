@@ -123,3 +123,48 @@ Planilha:
 - A linha de referência de mercado/alimentação em `Contas a pagar` foi ajustada para indicar teto mensal de R$ 1.000,00 e realizado aproximado de R$ 1.232,81, ou seja, referência estourada em cerca de R$ 232,81.
 
 Observação de controle: essa compra entra como consumo de mercado de julho, mas como foi no crédito precisa ser conciliada com a fatura para não duplicar quando a fatura for paga.
+
+## Atualização — 2026-07-15 15:07 UTC — pagamento do cartão e fatura parcial de agosto
+
+Jadielson informou:
+- O cartão/fatura foi pago em `R$ 413,71`.
+- A imagem anexada é da fatura parcial do próximo mês e deve ser considerada nas contas do próximo mês.
+
+Dados extraídos da imagem da fatura parcial:
+- Competência visível: agosto/2026.
+- Vencimento: não visível.
+- Total da fatura: não visível; apenas lançamentos parciais.
+- Pagamento recebido em 10/07: `-R$ 413,71`.
+- Valor pendente do mês anterior/rotativo em 09/07: `R$ 413,71`, compensado pelo pagamento recebido.
+- IOF/encargos visíveis: `R$ 2,64`.
+- Lançamentos parcelados visíveis para agosto:
+  - Paytcc*Titanium Public — parcela 4/12 — `R$ 26,84`.
+  - Autocenter Avenida — parcela 2/4 — `R$ 150,00`.
+  - Assiny*AW Funnels — parcela 4/12 — `R$ 30,71`.
+  - HTM*Solus Treinamentos — parcela 4/12 — `R$ 30,72`.
+- Parcial visível considerada para agosto: `R$ 244,55` (R$ 2,64 + R$ 26,84 + R$ 150,00 + R$ 30,71 + R$ 30,72).
+
+Ajustes na planilha:
+- `Contas a pagar` julho/2026: `Cartão pessoal/Nubank` atualizado para `R$ 413,71`, status `PAGO`, pago em `2026-07-10`.
+- `Contas a pagar` agosto/2026: adicionada linha `Cartão pessoal/Nubank — fatura parcial agosto visível`, valor parcial `R$ 244,55`, status `PARCIAL / PRÓXIMO MÊS`.
+- `Lançamentos`: adicionada referência da fatura parcial de agosto como despesa futura/parcial, para acompanhamento, sem tratar como fechamento total.
+
+Arquivo local no Cofre:
+`[F2] memory/inbox-externa/financeiro/2026/08-Agosto/03-Faturas/2026-07-15__CARTAO-NUBANK__fatura-parcial-agosto-2026__R-244-55__PARCIAL.jpg`
+
+Drive:
+- Pasta: `FINANCEIRO/2026/08-Agosto/03-Faturas`
+- Drive ID: `1FKxIrG1YQvj2w2PMUvblDujEV-Y9OpUe`
+- Link: `https://drive.google.com/file/d/1FKxIrG1YQvj2w2PMUvblDujEV-Y9OpUe/view?usp=drivesdk`
+
+Observação de segurança financeira: tratar os R$ 244,55 como parcial de agosto, pois a fatura ainda pode receber novos lançamentos até o fechamento.
+
+## Atualização — 2026-07-15 15:12 UTC — vencimento fixo do cartão
+
+Jadielson informou que a fatura do cartão/Nubank vence sempre no dia 09 de cada mês.
+
+Ajustes operacionais:
+- `Contas a pagar` julho/2026: cartão/Nubank com vencimento `2026-07-09`, já marcado como pago em `2026-07-10` no valor de `R$ 413,71`.
+- `Contas a pagar` agosto/2026: fatura parcial do cartão/Nubank com vencimento `2026-08-09`, valor parcial atualmente visível de `R$ 244,55`, status `PARCIAL / PRÓXIMO MÊS`.
+
+Regra para continuidade: sempre considerar vencimento do cartão pessoal/Nubank no dia 09 de cada mês, salvo Jadielson informar mudança.
