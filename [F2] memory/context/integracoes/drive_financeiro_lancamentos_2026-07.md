@@ -214,3 +214,26 @@ Regra a seguir daqui em diante:
 - Se a natureza não estiver clara, perguntar antes de subir.
 
 Pendência técnica no momento: tokens `gog` retornando `invalid_grant`/expirados para as contas testadas; acionar/reautorizar antes de upload.
+
+### Reteste `gog` concluído e comprovante enviado ao Drive da empresa — 2026-07-15 16:00 UTC
+
+Jadielson informou que Lôh fez novas alterações e pediu novo teste.
+
+Resultado técnico:
+- `gog auth doctor --check` retornou status OK.
+- Tokens legíveis: 2/2.
+- Refresh token OK para:
+  - `davijadielson@gmail.com`
+  - `logikacreative.mkt@gmail.com`
+- Leitura do Drive da empresa OK.
+- Leitura do Drive pessoal OK.
+
+Comprovante pendente enviado ao Drive da empresa, conforme regra de que comprovantes empresariais/LÓGIKA devem ir para o Drive LÓGIKA:
+- Arquivo: `2026-07-15__AGUA-MINERAL__manoel-m-santos__R-18-00__PAGO.jpg`
+- Conta Drive: `logikacreative.mkt@gmail.com`
+- Pasta destino: `03_EMPRESA/00_ADMIN_FINANCEIRO/01_COMPROVANTES_CUSTOS`
+- Pasta ID: `1cBYkqrURQDIxOZSaqZlVw6TY-HDrZs_h`
+- Drive ID: `1cd3O-VstOK1-IQQRQ-H-YyxHbbqHa_k2`
+- Link: `https://drive.google.com/file/d/1cd3O-VstOK1-IQQRQ-H-YyxHbbqHa_k2/view?usp=drivesdk`
+
+Observação: lançamento mantido como ÁGUA MINERAL / custo operacional. Se Jadielson indicar que era pessoal/doméstico, mover/duplicar para o Drive pessoal conforme nova orientação.

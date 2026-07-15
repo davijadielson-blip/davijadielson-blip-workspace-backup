@@ -110,3 +110,16 @@ gog auth add davijadielson@gmail.com \
 - O comando `gog config show` falha com `expected "<key>"` porque o config.json está vazio `{}` — isso não afeta o funcionamento, as configurações estão no keyring.
 - A variável `GOG_KEYRING_PASSWORD` precisa ser mantida em todos os ambientes (shell, serviços, agente) para o gog funcionar.
 - Token `loh.open.logika@gmail.com` também foi removido por estar corrompido; reautorizar se necessário.
+
+### 🔑 Senha Canônica do Keyring
+
+A senha canônica do keyring está armazenada em:
+- `/data/.openclaw/credentials/gog/keyring-password`
+- `/data/.openclaw/workspace/scripts/.secrets/gog-keyring-password`
+
+**Uso pelos agentes:**
+```bash
+export GOG_KEYRING_PASSWORD="$(cat /data/.openclaw/credentials/gog/keyring-password)"
+```
+
+**Importante:** Sempre usar esta senha, não criar uma ad-hoc. Se a senha mudar, re-exportar e re-importar os tokens via `gog auth tokens export/import`.

@@ -52,3 +52,40 @@ Após receber a URL/autorização final, completar com `--step 2 --auth-url '<UR
 
 Depois da correção, espelhar o comprovante recente pendente no Drive correto conforme natureza da despesa:
 - `2026-07-15__AGUA-MINERAL__manoel-m-santos__R-18-00__PAGO.jpg`
+
+## Reteste após Lôh informar correção — 2026-07-15 15:48 UTC
+
+Jadielson informou: "PRONTO. A LOH JA RESOLVEU. TENTE NOVAMENTE."
+
+Resultado do reteste:
+- Os arquivos de token no keyring foram atualizados por volta de 2026-07-15 15:33 UTC, indicando que houve reautorização.
+- Porém o `gog` ainda não consegue ler os tokens no ambiente do Jarvis.
+- Erro atual mudou para:
+
+`aes.KeyUnwrap(): integrity check failed`
+
+Diagnóstico: não é mais o `invalid_grant` anterior. Agora parece **mismatch da senha do file keyring**: os tokens foram gravados com uma `GOG_KEYRING_PASSWORD` diferente da senha canônica usada pelos agentes em:
+- `/data/.openclaw/credentials/gog/keyring-password`
+- `/data/.openclaw/workspace/scripts/.secrets/gog-keyring-password`
+
+`gog auth doctor --check` confirma: `file keyring password mismatch or corrupted entry`.
+
+Necessário: Lôh alinhar a senha do keyring usada na reautorização com a senha canônica dos agentes ou reexecutar a reautorização/exportação usando exatamente a senha desses arquivos. Depois rodar `gog auth doctor --check` até retornar tokens legíveis.
+
+## Reteste final após novas alterações — 2026-07-15 16:00 UTC
+
+Jadielson informou: "TENTE AGORA. MAIS ALTERACOES FORAM FEITAS".
+
+Resultado:
+- `gog auth doctor --check`: OK.
+- Tokens legíveis: 2/2.
+- Refresh token exchange OK para `davijadielson@gmail.com` e `logikacreative.mkt@gmail.com`.
+- Leitura do Drive da empresa OK.
+- Leitura do Drive pessoal OK.
+- Upload do comprovante de água mineral para o Drive da empresa concluído.
+
+Arquivo enviado:
+`03_EMPRESA/00_ADMIN_FINANCEIRO/01_COMPROVANTES_CUSTOS/2026-07-15__AGUA-MINERAL__manoel-m-santos__R-18-00__PAGO.jpg`
+
+Drive ID: `1cd3O-VstOK1-IQQRQ-H-YyxHbbqHa_k2`
+Link: `https://drive.google.com/file/d/1cd3O-VstOK1-IQQRQ-H-YyxHbbqHa_k2/view?usp=drivesdk`

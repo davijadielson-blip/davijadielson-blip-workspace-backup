@@ -19,10 +19,23 @@ O sistema `gog` (Google OAuth CLI, v0.21.0) está configurado com duas contas Go
 
 ```bash
 # A variável GOG_KEYRING_PASSWORD é OBRIGATÓRIA
-export GOG_KEYRING_PASSWORD="logika-gog-keyring-2026"
+# Usar a senha canônica dos arquivos de secrets
+export GOG_KEYRING_PASSWORD="$(cat /data/.openclaw/credentials/gog/keyring-password)"
 ```
 
 Sem ela, o gog não consegue descriptografar os tokens — retorna erro de keyring.
+
+**⚠️ Não criar senha própria!** Sempre usar a senha canônica dos arquivos:
+- `/data/.openclaw/credentials/gog/keyring-password`
+- `/data/.openclaw/workspace/scripts/.secrets/gog-keyring-password`
+
+Se a senha mudar, re-exportar e re-importar os tokens:
+```bash
+export OLD="senha-antiga"
+export NEW="$(cat /data/.openclaw/credentials/gog/keyring-password)"
+GOG_KEYRING_PASSWORD=$OLD gog auth tokens export email@ --out /tmp/token.json
+GOG_KEYRING_PASSWORD=$NEW gog auth tokens import /tmp/token.json
+```
 
 ### Comandos Úteis
 
