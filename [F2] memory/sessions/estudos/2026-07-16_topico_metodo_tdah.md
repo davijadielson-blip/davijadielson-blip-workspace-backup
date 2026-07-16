@@ -26,3 +26,18 @@ PDFs bônus foram processados por extração de texto local (`pypdf`). Criada s�
 
 ## 2026-07-16 — PDFs enviados ao Google Drive
 Por solicitação de Jadielson, foi criada/confirmada pasta `ESTUDOS` no Google Drive conectado via Zapier e criada subpasta `Você não é preguiçoso — Método TDAH`. Os 5 bônus foram enviados para a subpasta. Registro detalhado em `00_INBOX/2026-07-16_upload_drive.md`. Pendência: ebook principal ainda sem caminho local disponível para upload.
+
+## 2026-07-16 — Regra de armazenamento: Drive para não Markdown
+Jadielson definiu que todo arquivo que não seja Markdown deve ser salvo no Drive pessoal, não no Cofre. No Cofre ficam apenas notas/registros em `.md`. Regra adicionada ao `_MAPA.md` do curso e registro em `00_INBOX/2026-07-16_regra_arquivos_drive.md`. PDFs e textos extraídos não-Markdown removidos do Cofre após upload dos bônus ao Drive.
+
+## 2026-07-16 — Extração integral dos bônus em Markdown
+Jadielson esclareceu que quer extrair tudo dos PDFs e converter em `.md`, não apenas resumo/principal. Foram criados arquivos integrais dos 5 bônus em `02_EBOOKS/bonus_extraidos_md/`, mantendo os PDFs brutos somente no Drive. Pendência: ebook principal ainda precisa de arquivo acessível para extração/upload.
+
+## 2026-07-16 — Ebook principal localizado no histórico, mas arquivo não acessível pela ferramenta
+Jadielson respondeu à mensagem original do ebook principal dizendo “EBOOK PRINCIPAL TA AQUI.” O contexto confirma que o ebook principal está na mensagem Telegram 335, porém o arquivo bruto não está disponível em `/data/.openclaw/media/inbound` para extração/upload neste momento. Solicitar reenvio do documento como anexo atual se necessário. Regra mantida: bruto no Drive, extração integral em `.md` no Cofre.
+
+## 2026-07-16 — Reenvio do ebook principal sem arquivo acessível
+Jadielson reenviou uma mensagem com `<media:document>` no tópico (message_id 392), mas a ferramenta não disponibilizou caminho local, nome de arquivo ou file_id do documento em `/data/.openclaw/media/inbound`. Não foi possível subir ao Drive nem extrair para Markdown. Solicitar novo envio como documento/anexo, preferencialmente não apenas resposta/encaminhamento, até que apareça no inbound.
+
+## 2026-07-16 — File ID do ebook principal recebido
+Jadielson reenviou o ebook principal como documento no tópico e informou: “ESTE É O ARQUIVO PRINCIPAL...”. Metadados da mensagem 398: file_id `BQACAgEAAyEFAATqAZWZAAIBjmpYyZpbDpmEVneksQYK5dQ0WPcxAAJnBgACcxfIRsWeZsTtBchKPQQ`. Ainda não apareceu caminho local em `/data/.openclaw/media/inbound`, então falta materialização/download do arquivo para upload ao Drive e extração integral em Markdown.

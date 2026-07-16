@@ -29,3 +29,9 @@ Acompanhar o estudo do método, transformar os ebooks em notas úteis e converte
 - Receber o primeiro ebook/material.
 - Criar uma ficha por material em `02_EBOOKS/`.
 - Montar uma trilha de estudo curta após conhecer o conteúdo dos ebooks.
+
+## Regra de armazenamento de arquivos — definida por Jadielson em 2026-07-16
+- Arquivos que **não sejam Markdown** (`.md`) devem ser salvos no **Google Drive pessoal**, dentro de `ESTUDOS/Você não é preguiçoso — Método TDAH`.
+- O Cofre deve guardar apenas notas, mapas, resumos, fichamentos, checklists e registros em Markdown.
+- PDFs, imagens, documentos e outros binários não devem permanecer no Cofre; no Cofre ficam apenas referências/links/metadados.
+- Pasta Drive do curso: https://drive.google.com/drive/folders/1BjcZN82ECe3R1AtBoG1dzbnoz7BujTgH

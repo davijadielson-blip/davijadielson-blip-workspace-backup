@@ -1,0 +1,52 @@
+# Bônus 05 — Seu sistema em 1 Página
+
+**Fonte bruta:** PDF salvo no Google Drive pessoal, pasta `ESTUDOS/Você não é preguiçoso — Método TDAH`.
+**Tipo de nota:** extração integral convertida para Markdown.
+**Observação:** arquivo bruto não deve ficar no Cofre; este `.md` preserva o conteúdo textual extraído para estudo.
+
+---
+
+## Página 1
+
+Seu Sistema em 1 Página
+Este é o seu painel de controle pessoal. Preencha com honestidade. Você não precisa ter todas as respostas agora — escreva o que sabe hoje e
+revise mensalmente.
+👤 MEU PERFIL EXECUTIVO
+Como funciona meu cérebro? Quais são meus melhores horários,
+formatos de trabalho e gatilhos de foco?
+✏ Meu pico de energia é às: _______________
+✏ Trabalho melhor quando: ________________
+✏ Perco foco quando: ____________________
+✏ Meu ambiente ideal de trabalho: __________
+🎯 ONDE TUDO TRAVA
+Seja específico: em que momento do dia, tipo de tarefa ou situação
+você para de avançar?
+✏ Meu maior bloqueio é: __________________
+✏ Isso geralmente acontece quando: _________
+✏ O padrão invisível que mais me afeta: ______
+⚡ MINHA ESTRATÉGIA PRINCIPAL
+Das ferramentas que você aprendeu, qual é a sua estratégia central?
+Escolha uma e comprometa-se com ela por 30 dias.
+✏ Minha estratégia #1 é: __________________
+✏ Vou aplicar ela às: h, por _____ minutos
+✏ Como vou saber que está funcionando: _____
+✏ Meu indicador de sucesso semanal: ________
+🚫 ERROS QUE VOU EVITAR
+Com base no seu histórico, quais armadilhas você sabe que vão
+aparecer? Escreva-as aqui como um aviso para o seu eu futuro.
+✏ Erro #1 que costumo cometer: ____________
+✏ Erro #2 que costumo cometer: ____________
+✏ Quando esses erros aparecerem, vou: _______
+📅 Meu Compromisso
+Vou revisar esse painel em: ___/___/______
+🏆 Minha Maior Meta de 30
+Dias
+✏
+____________________________________
+___
+💬 Minha Afirmação de
+Execução
+✏ "Eu sou capaz de
+_______________________"
+✅ Você tem um sistema. Não é perfeito — e não precisa ser. É seu, é real e está na página. Agora execute. Uma ação, agora, vale mais do
+que mil planos perfeitos.

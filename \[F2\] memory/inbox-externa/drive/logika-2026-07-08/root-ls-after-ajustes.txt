@@ -1,9 +1,0 @@
-ID                                 NAME                                       TYPE    SIZE  MODIFIED          OWNER
-1Wz-riI5jCF7pRdSjaCfERYE52PTImx42  99_TRIAGEM_E_QUARENTENA                    folder  -     2026-07-08 20:44  logikacreative.mkt@gmail.com
-1UfkCBwBShFPwvxPMXjujstFoRnd4bbga  05_ACERVO_E_REFERENCIAS                    folder  -     2026-07-08 20:44  logikacreative.mkt@gmail.com
-1cydc6pp3CCKvGY5jilTu10Xb1xAzdh9X  04_PORTFOLIO_E_CASES                       folder  -     2026-07-08 20:44  logikacreative.mkt@gmail.com
-1hCh9ohlW_bh1ekY8JgokyAbHB6clgAOC  00_LEIA-ME_E_MAPA_DO_DRIVE                 folder  -     2026-07-08 20:44  logikacreative.mkt@gmail.com
-1vfLZoLnKyszLIF17iD5fRNvT_kqrTGHy  99_TRIAGEM_ARQUIVOS_PARADOS_ANTIGO_OUTROS  folder  -     2026-07-08 20:44  logikacreative.mkt@gmail.com
-1U6us-zXwjjAExu321JdLIakiypE-PFU9  01_CLIENTES                                folder  -     2026-07-08 04:55  logikacreative.mkt@gmail.com
-16e9BqRj4rk4PTLoETHBQeBJi4WQGG0wW  03_EMPRESA                                 folder  -     2026-07-06 04:15  logikacreative.mkt@gmail.com
-1ToxIv1hyhk_zyfml4jldYHUUtXg7Q6gF  02_PROJETOS                                folder  -     2026-07-06 01:32  logikacreative.mkt@gmail.com

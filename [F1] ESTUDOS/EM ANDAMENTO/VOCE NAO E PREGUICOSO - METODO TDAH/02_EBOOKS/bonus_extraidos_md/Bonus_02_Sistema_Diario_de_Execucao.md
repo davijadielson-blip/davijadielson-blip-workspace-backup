@@ -1,0 +1,56 @@
+# Bônus 02 — Sistema Diário de Execução
+
+**Fonte bruta:** PDF salvo no Google Drive pessoal, pasta `ESTUDOS/Você não é preguiçoso — Método TDAH`.
+**Tipo de nota:** extração integral convertida para Markdown.
+**Observação:** arquivo bruto não deve ficar no Cofre; este `.md` preserva o conteúdo textual extraído para estudo.
+
+---
+
+## Página 1
+
+Sistema Diário de Execução
+Um sistema com 4 fases que organiza seu dia do começo ao fim. Preencha cada campo antes de avançar para a próxima fase.
+Ativação
+Prepare corpo e mente antes de começar
+Execução
+Foco total na tarefa prioritária
+Controle
+Revisão e redirecionamento do dia
+Resultado
+Registro e celebração do que foi feito
+⚡ ATIVAÇÃO — Primeiros 15 Min
+Antes de abrir qualquer tarefa: hidrate-se, revise sua lista de
+prioridades e declare em voz alta o que vai fazer primeiro.
+Exemplo: "Hoje minha única tarefa crítica é terminar a proposta do
+cliente. "
+Tomei água e me alonguei
+Revisei minha lista de tarefas
+Defini minha tarefa #1 do dia
+✏ Minha tarefa #1 hoje: _________________________
+🎯 EXECUÇÃO — Bloco Principal
+Use blocos de 25–50 minutos com pausas de 5 minutos. Sem
+multitarefa. Uma coisa de cada vez.
+Exemplo: "Das 9h às 9h50 trabalho sem interrupção. Depois descanso
+10 minutos. "
+Iniciei o timer antes de começar
+Celular em modo avião ou outro cômodo
+Completei pelo menos 1 bloco completo
+✏ Quantos blocos completei hoje: _________________
+📊 CONTROLE — Revisão do Meio-Dia
+Pare, respire e avalie: você está no caminho certo? Se desviou, sem
+drama — redirecione agora.
+Exemplo: "Perdi 40 minutos nas redes. Vou recuperar usando meu
+próximo bloco de foco. "
+Avaliei o progresso até agora
+Identifiquei o que me desviou
+Redirecionei para a próxima prioridade
+✏ O que me desviou hoje: _______________________
+✅ RESULTADO — Fechamento do Dia
+Antes de encerrar: registre o que concluiu, prepare a lista de amanhã
+e celebre — mesmo que tenha sido um dia difícil.
+Exemplo: "Terminei a proposta. Amanhã preciso fazer a
+apresentação. Hoje foi um bom dia. "
+Registrei o que completei hoje
+Escrevi as 3 prioridades de amanhã
+Me reconheci pelo esforço do dia
+✏ Minha maior conquista hoje: ___________________
