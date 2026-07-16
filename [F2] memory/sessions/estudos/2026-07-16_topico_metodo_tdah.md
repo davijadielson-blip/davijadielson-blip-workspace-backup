@@ -41,3 +41,6 @@ Jadielson reenviou uma mensagem com `<media:document>` no tópico (message_id 39
 
 ## 2026-07-16 — File ID do ebook principal recebido
 Jadielson reenviou o ebook principal como documento no tópico e informou: “ESTE É O ARQUIVO PRINCIPAL...”. Metadados da mensagem 398: file_id `BQACAgEAAyEFAATqAZWZAAIBjmpYyZpbDpmEVneksQYK5dQ0WPcxAAJnBgACcxfIRsWeZsTtBchKPQQ`. Ainda não apareceu caminho local em `/data/.openclaw/media/inbound`, então falta materialização/download do arquivo para upload ao Drive e extração integral em Markdown.
+
+## 2026-07-16 — Ebook principal extraído via link do Drive
+Jadielson enviou link do Drive para o ebook principal: `https://drive.google.com/file/d/17FWFd39GuEg6AM9maxFSqz0Es9pdQBNo/view?usp=sharing`. O PDF foi baixado temporariamente para extração, convertido integralmente para Markdown em `02_EBOOKS/ebook_principal_extraido_integral.md` (61 páginas, ~79.696 caracteres) e o bruto temporário foi removido. Tentativa de copiar o bruto para a subpasta do curso via Zapier falhou por quota (`insufficient tasks on account`); link bruto registrado no Cofre.
