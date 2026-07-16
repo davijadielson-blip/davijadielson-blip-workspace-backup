@@ -23,3 +23,6 @@ Jadielson enviou 5 PDFs bônus complementares ao método: Bônus 01 a 05. Arquiv
 
 ## 2026-07-16 — Síntese inicial dos bônus
 PDFs bônus foram processados por extração de texto local (`pypdf`). Criada síntese em `03_RESUMOS_E_NOTAS/2026-07-16_sintese_bonus.md` e exercício em `05_EXERCICIOS/experimento_7_dias_sair_da_inercia.md`.
+
+## 2026-07-16 — PDFs enviados ao Google Drive
+Por solicitação de Jadielson, foi criada/confirmada pasta `ESTUDOS` no Google Drive conectado via Zapier e criada subpasta `Você não é preguiçoso — Método TDAH`. Os 5 bônus foram enviados para a subpasta. Registro detalhado em `00_INBOX/2026-07-16_upload_drive.md`. Pendência: ebook principal ainda sem caminho local disponível para upload.
