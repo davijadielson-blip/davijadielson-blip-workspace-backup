@@ -44,3 +44,9 @@ Jadielson reenviou o ebook principal como documento no tópico e informou: “ES
 
 ## 2026-07-16 — Ebook principal extraído via link do Drive
 Jadielson enviou link do Drive para o ebook principal: `https://drive.google.com/file/d/17FWFd39GuEg6AM9maxFSqz0Es9pdQBNo/view?usp=sharing`. O PDF foi baixado temporariamente para extração, convertido integralmente para Markdown em `02_EBOOKS/ebook_principal_extraido_integral.md` (61 páginas, ~79.696 caracteres) e o bruto temporário foi removido. Tentativa de copiar o bruto para a subpasta do curso via Zapier falhou por quota (`insufficient tasks on account`); link bruto registrado no Cofre.
+
+## 2026-07-16 — Zapier desativado; Drive via gog
+Jadielson corrigiu o protocolo: “O zapier tá desativado. Agora é via gog mesmo. Consulte a Lôh.” A partir daqui, não usar Zapier para Drive. Para arquivos do curso: brutos ficam no Google Drive via ferramenta/protocolo `gog`; Cofre guarda apenas Markdown extraído/organizado. Alfred foi acionado, mas não retornou protocolo específico do `gog`; é necessário consultar Lôh/arquitetura quando a ferramenta/protocolo estiver disponível/documentado.
+
+## 2026-07-16 — Confirmação da política Lôh: Google via gog, não Zapier
+Consulta ao Cofre confirmou a decisão vigente de Jadielson/Lôh: Google não deve ser acessado via Zapier; usar `gog` e/ou scripts diretos. Documento consultado: `AGENTS.md` seção “Política Google — gog oficial, Zapier proibido para Google” e `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`. Também foi consultado `[F2] memory/context/integracoes/google_drive_jadielson.md`, que documenta `gog` como CLI Go com contas autenticadas e Drive em modo readonly.

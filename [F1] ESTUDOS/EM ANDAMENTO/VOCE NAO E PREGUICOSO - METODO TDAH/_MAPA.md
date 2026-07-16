@@ -35,3 +35,9 @@ Acompanhar o estudo do método, transformar os ebooks em notas úteis e converte
 - O Cofre deve guardar apenas notas, mapas, resumos, fichamentos, checklists e registros em Markdown.
 - PDFs, imagens, documentos e outros binários não devem permanecer no Cofre; no Cofre ficam apenas referências/links/metadados.
 - Pasta Drive do curso: https://drive.google.com/drive/folders/1BjcZN82ECe3R1AtBoG1dzbnoz7BujTgH
+
+## Regra Google/Drive — atualizada em 2026-07-16
+- Não usar Zapier para Google Drive/Gmail/Calendar/Sheets.
+- Protocolo oficial da Central para Google é `gog`, conforme decisão de Jadielson/Lôh registrada no Cofre.
+- Para este curso: arquivos brutos devem ficar no Drive pessoal; quando necessário, o agente pode ler/baixar temporariamente via link/`gog` apenas para extrair conteúdo e converter em `.md` no Cofre.
+- Como o Drive via `gog` está documentado com escopo `readonly`, uploads/movimentações de brutos devem ser feitos pelo próprio Jadielson ou por outro fluxo autorizado pela Lôh.
