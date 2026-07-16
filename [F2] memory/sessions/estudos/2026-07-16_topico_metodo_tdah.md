@@ -50,3 +50,6 @@ Jadielson corrigiu o protocolo: “O zapier tá desativado. Agora é via gog mes
 
 ## 2026-07-16 — Confirmação da política Lôh: Google via gog, não Zapier
 Consulta ao Cofre confirmou a decisão vigente de Jadielson/Lôh: Google não deve ser acessado via Zapier; usar `gog` e/ou scripts diretos. Documento consultado: `AGENTS.md` seção “Política Google — gog oficial, Zapier proibido para Google” e `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`. Também foi consultado `[F2] memory/context/integracoes/google_drive_jadielson.md`, que documenta `gog` como CLI Go com contas autenticadas e Drive em modo readonly.
+
+## 2026-07-16 — Análise integrada gestão do tempo + método TDAH
+Jadielson pediu análise aprofundada sobre seus estudos de gestão do tempo, rotina e produtividade, integrando o método TDAH e bônus. Foram consultados materiais do Cofre, registros do Alfred, relatório COO e Tavily. Relatório salvo em `[F2] memory/outputs/central-pessoal/2026-07-16-analise-gestao-tempo-metodo-tdah-vida-empresario.md`.
