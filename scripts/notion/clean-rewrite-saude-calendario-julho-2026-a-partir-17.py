@@ -97,7 +97,10 @@ def blocks(it):
     return out
 
 updated=[]
+START_DATE=os.environ.get('START_DATE')
 for it in items:
+    if START_DATE and it['date'] < START_DATE:
+        continue
     title=f"SMS São Sebastião — {it['date_br']} — {it['weekday']}"
     page=find_by_title(title)
     if not page: raise RuntimeError('Não encontrada: '+title)
