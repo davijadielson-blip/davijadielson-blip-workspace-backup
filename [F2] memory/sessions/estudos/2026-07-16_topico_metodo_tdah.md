@@ -65,3 +65,6 @@ Com autorização de Jadielson, o resumo de rotina e pendências já debatidas f
 - `[F2] memory/outputs/central-pessoal/2026-07-18-painel-operacional-sistema-empresario-70.md`
 - `[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/01_PLANEJAMENTO/2026-07-18_painel_operacional_sistema_empresario_70.md`
 O painel separa Hoje, Semana, PG, PD, Saúde/SMS imprevisível, modo mínimo para tarde quebrada, check-in diário e placar único simples.
+
+## 2026-07-18 — Semana imaginada do Sistema Empresário 70%
+Jadielson perguntou como ficaria a semana inteira. Foi criado arquivo `[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/01_PLANEJAMENTO/2026-07-18_semana_imaginada_sistema_empresario_70.md`, com semana-tipo de segunda a domingo baseada na rotina híbrida, poços de energia, PG/PD, modo mínimo e pendências atuais.
