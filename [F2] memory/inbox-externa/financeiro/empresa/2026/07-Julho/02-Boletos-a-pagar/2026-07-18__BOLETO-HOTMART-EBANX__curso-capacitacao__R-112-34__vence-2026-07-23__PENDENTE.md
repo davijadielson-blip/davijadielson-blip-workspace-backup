@@ -91,3 +91,21 @@ Próxima ação: quando Jadielson enviar comprovante/valor da entrada, registrar
 | 9/11 | 2027-03-23 | `04fb84f0-1e00-4463-b216-076bc50a5bc2` |
 | 10/11 | 2027-04-23 | `29b1fa35-b003-4659-b7f4-da26ea75f0fd` |
 | 11/11 | 2027-05-23 | `f7199f9d-692c-4e8c-8894-3157a44732c9` |
+
+## Atualização — entrada confirmada por Jadielson em 2026-07-18 17:50 UTC
+
+Jadielson confirmou que a **entrada no ato da aquisição foi do mesmo valor das parcelas**:
+
+- **Entrada:** R$ 112,34 — paga no ato da aquisição / a confirmar comprovante se necessário.
+- **11 parcelas mensais:** 11 × R$ 112,34 = R$ 1.235,74.
+- **Total do curso/capacitação:** R$ 1.348,08.
+
+A linha informativa da entrada na planilha deve ser atualizada de `R$ 0,00 / A CONFIRMAR` para **R$ 112,34 / INFORMADO — ENTRADA NO ATO**, mantendo observação de que o comprovante da entrada ainda pode ser anexado se Jadielson enviar.
+
+## Registro operacional executado após confirmação da entrada
+
+- Planilha `Receitas e Despesas — LÓGIKA` atualizada na linha da entrada:
+  - Valor: **R$ 112,34**.
+  - Status: **INFORMADO / ENTRADA NO ATO**.
+  - ID: `LOG-DESP-TEMP-HOTMART-ENTRADA`.
+- Total consolidado do curso/capacitação registrado para controle: **R$ 1.348,08** = entrada R$ 112,34 + 11 parcelas de R$ 112,34.
