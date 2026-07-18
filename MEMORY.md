@@ -598,3 +598,20 @@ Jadielson reforçou em 14/07/2026: para Google, os agentes devem usar **`gog`**,
   - Web → `tavily_search`, `tavily_extract`, `web_search`, `browser`
 
 📁 Decisão vigente: `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`
+
+---
+
+## ⏳ 2026-07-17 — Dia operacional autônomo
+
+Em 17/07/2026, todas as sessões do ecossistema foram exclusivamente **cron-driven** (automáticas). Não houve interação humana, debates estratégicos, decisões nem aprovações. O sistema manteve operação autônoma estável.
+
+### Sessões executadas (30+)
+
+- **SAÚDE Social Media** — Pautas do dia (06h e 21h Maceió)
+- **Daily Briefing** — Resumo de calendário
+- **Notion → Google Calendar Sync** — Sincronização editorial
+- **Friday Maintenance** — Rituais de manutenção semanal
+- **Guard C-Level Agents** — Verificação de configuração
+- **Heartbeat polls e outros crons** — Manutenção rotineira
+
+📁 Registro completo: `[F2] memory/decisions/2026-07-17-decisoes.md`

@@ -53,3 +53,15 @@ Consulta ao Cofre confirmou a decisão vigente de Jadielson/Lôh: Google não de
 
 ## 2026-07-16 — Análise integrada gestão do tempo + método TDAH
 Jadielson pediu análise aprofundada sobre seus estudos de gestão do tempo, rotina e produtividade, integrando o método TDAH e bônus. Foram consultados materiais do Cofre, registros do Alfred, relatório COO e Tavily. Relatório salvo em `[F2] memory/outputs/central-pessoal/2026-07-16-analise-gestao-tempo-metodo-tdah-vida-empresario.md`.
+
+## 2026-07-18 — Pedido para despejar rotina e pendências
+Jadielson perguntou se pode deixar no tópico a rotina que já estudou/pesquisou e as pendências atuais para que o agente ajude melhor. Resposta recomendada: sim, usar o tópico como ponto de captura estruturada; pedir envio em blocos simples: rotina ideal, rotina real, pendências, compromissos fixos, projetos, energia/travas e urgências. Depois organizar no Cofre em planejamento/checklist/placar.
+
+## 2026-07-18 — Cofre confirmado como fonte para rotina e pendências
+Jadielson confirmou que rotina e pendências já estão no Cofre e perguntou se o agente consegue acessar por lá. Foi feita busca semântica, que falhou por erro de embeddings/API key; aplicado fallback por leitura direta (`find`, `grep`, `read`). Encontrado resumo consolidado em `[F2] memory/outputs/central-pessoal/2026-07-18-resumo-rotina-pendencias-ja-debatidas.md`, com rotina híbrida, áreas A-G, PG/PD e pendências ativas. Próximo passo: transformar esse conteúdo em mapa operacional do Sistema Empresário 70% e placar único.
+
+## 2026-07-18 — Painel operacional Sistema Empresário 70% criado
+Com autorização de Jadielson, o resumo de rotina e pendências já debatidas foi transformado em painel prático do Sistema Empresário 70%. Arquivos salvos:
+- `[F2] memory/outputs/central-pessoal/2026-07-18-painel-operacional-sistema-empresario-70.md`
+- `[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/01_PLANEJAMENTO/2026-07-18_painel_operacional_sistema_empresario_70.md`
+O painel separa Hoje, Semana, PG, PD, Saúde/SMS imprevisível, modo mínimo para tarde quebrada, check-in diário e placar único simples.
