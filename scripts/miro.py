@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-Integração Miro via API REST — Para agentes do OpenClaw
+Integração Miro via API REST — EXCLUSIVO PARA PROJETOS (JACK)
 Uso: python3 scripts/miro.py [acao] [args]
+
+ATENÇÃO: Uso restrito ao Jack Lemley e tópicos do GRUPO PROJETOS.
+Não utilizar para outros fins sem autorização de Jadielson.
 
 Ações:
   list-boards                             Lista boards
