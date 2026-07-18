@@ -601,17 +601,14 @@ Jadielson reforçou em 14/07/2026: para Google, os agentes devem usar **`gog`**,
 
 ---
 
-## ⏳ 2026-07-17 — Dia operacional autônomo
+## ✅ 2026-07-17 — Decisões extraídas
 
-Em 17/07/2026, todas as sessões do ecossistema foram exclusivamente **cron-driven** (automáticas). Não houve interação humana, debates estratégicos, decisões nem aprovações. O sistema manteve operação autônoma estável.
+Em 17/07/2026, a varredura diária encontrou uma decisão/aprovação operacional relevante na frente **SAÚDE Social Media**. A maior parte das sessões do período foi cron-driven (backups, Guard C-Level, heartbeats e rotinas), mas houve registro de regra aprovada por Jadielson para uso dos cronogramas reais dos setores na programação diária.
 
-### Sessões executadas (30+)
+### Decisões e aprovações
 
-- **SAÚDE Social Media** — Pautas do dia (06h e 21h Maceió)
-- **Daily Briefing** — Resumo de calendário
-- **Notion → Google Calendar Sync** — Sincronização editorial
-- **Friday Maintenance** — Rituais de manutenção semanal
-- **Guard C-Level Agents** — Verificação de configuração
-- **Heartbeat polls e outros crons** — Manutenção rotineira
+- **SAÚDE Social Media — Matriz de cronogramas dos setores:** a partir de 2026-07-17, todo roteiro/programação diária da Saúde deve incluir, além da pauta editorial do dia, um bloco de **lembretes de captação por cronograma real dos setores**.
+- **Regra fina aprovada:** fora da terça, serviço especializado só entra na publicação se reforçar o pilar do dia; se não reforçar, a orientação é captar e guardar para a próxima terça de Serviços Especializados.
+- **Pauta 17/07/2026:** sexta-feira flexível, com foco em bastidores/prestação de contas/fluxo da rede; pauta principal sugerida: Unidade Mista + SAMU + Referências Regionais.
 
 📁 Registro completo: `[F2] memory/decisions/2026-07-17-decisoes.md`
