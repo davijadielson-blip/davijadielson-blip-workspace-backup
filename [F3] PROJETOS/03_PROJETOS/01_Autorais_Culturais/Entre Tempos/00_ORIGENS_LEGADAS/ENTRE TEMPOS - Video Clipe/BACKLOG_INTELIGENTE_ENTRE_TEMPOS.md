@@ -13,15 +13,16 @@ Lançar e sustentar a campanha cultural **ENTRE TEMPOS — Uma Homenagem a São 
 ## MAPA
 
 1. **Base e checagem final** — vídeo, canal, capa, ficha técnica, créditos, links e permissões.
-2. **Pré-lançamento** — posts de 21 a 29/07, teaser, trailer, bastidores, contagem regressiva e mensagens.
-3. **Lançamento oficial** — publicação/estreia em 30/07 às 20h, posts de apoio e compartilhamento.
-4. **Imprensa e circuito cultural** — William Nelson, Levy Félix, Alagoar, jornais e feiras culturais.
-5. **Pós-lançamento de agosto** — cortes, bastidores, memória territorial, créditos, agradecimentos e legado.
-6. **Fechamento/registro** — organizar resultados, links, aprendizados e próximos usos do clipe.
+2. **Complementação visual do clipe** — capturar imagens das rendeiras, melhorar imagem do Rio Perucaba e inserir imagens do Serraria fazendo os bilros.
+3. **Pré-lançamento** — posts de 21 a 29/07, teaser, trailer, bastidores, contagem regressiva e mensagens.
+4. **Lançamento oficial** — publicação/estreia em 30/07 às 20h, posts de apoio e compartilhamento.
+5. **Imprensa e circuito cultural** — William Nelson, Levy Félix, Alagoar, jornais e feiras culturais.
+6. **Pós-lançamento de agosto** — cortes, bastidores, memória territorial, créditos, agradecimentos e legado.
+7. **Fechamento/registro** — organizar resultados, links, aprendizados e próximos usos do clipe.
 
 ## ONDE ESTAMOS
 
-Projeto em fase de **Base e checagem final / preparação do pré-lançamento**. Já existe plano oficial de lançamento para **30/07/2026 às 20h** e estratégia de pós-lançamento; agora falta transformar tudo em execução diária com microtarefas.
+Projeto em fase de **Base e checagem final + complementação visual + preparação do pré-lançamento**. Além das peças de campanha, Jadielson registrou que faltam: capturar imagens das rendeiras, conseguir uma imagem melhor do Rio Perucaba e inserir imagens do Serraria fazendo os bilros.
 
 ## GRADE DE PAUTAS
 
@@ -57,14 +58,24 @@ Projeto em fase de **Base e checagem final / preparação do pré-lançamento**.
 | 28 | Montar calendário simples da semana 1 de agosto | Pós-lançamento | Após lançamento | 20 min | P2 pode esperar | ⛔ travada (depende de #22) |
 | 29 | Separar prints/comentários recebidos após estreia | Pós-lançamento | Após 30/07 | 10 min | P2 pode esperar | ⛔ travada (depende do lançamento) |
 | 30 | Registrar links finais do clipe e posts publicados | Fechamento | Após publicação | 15 min | P1 importante | ⛔ travada (depende do lançamento) |
+| 31 | Listar exatamente quais imagens das rendeiras faltam | Complementação visual | Hoje | 10 min | P0 destrava tudo | 🔲 liberada |
+| 32 | Definir local e melhor horário para captar as rendeiras | Complementação visual | Hoje | 10 min | P0 destrava tudo | ⛔ travada (depende de #31) |
+| 33 | Confirmar autorização/combinação com as rendeiras antes da captação | Complementação visual | Antes da captação | 10 min | P0 destrava tudo | ⛔ travada (depende de #32) |
+| 34 | Capturar imagens das rendeiras trabalhando | Complementação visual | A definir | 40–60 min | P0 destrava tudo | ⛔ travada (depende de #33) |
+| 35 | Listar o que está ruim na imagem atual do Rio Perucaba | Complementação visual | Hoje | 10 min | P1 importante | 🔲 liberada |
+| 36 | Definir ponto e horário para captar imagem melhor do Rio Perucaba | Complementação visual | Hoje/amanhã | 10 min | P1 importante | ⛔ travada (depende de #35) |
+| 37 | Capturar imagem melhor do Rio Perucaba | Complementação visual | A definir | 30–45 min | P1 importante | ⛔ travada (depende de #36) |
+| 38 | Localizar as imagens do Serraria fazendo os bilros | Complementação visual | Hoje | 15 min | P0 destrava tudo | 🔲 liberada |
+| 39 | Selecionar melhores trechos/imagens do Serraria fazendo os bilros | Complementação visual | Hoje/amanhã | 20 min | P0 destrava tudo | ⛔ travada (depende de #38) |
+| 40 | Enviar ao editor a lista das imagens novas/selecionadas para inserir no clipe | Complementação visual | Após seleção | 15 min | P0 destrava tudo | ⛔ travada (depende de #34, #37 e #39) |
 
 ## PAUTAS DE HOJE — sugestão inicial
 
-1. **#1 Confirmar canal principal do lançamento** — 5 min — P0
-2. **#2 Confirmar horário oficial como 20h em todos os documentos** — 10 min — P0
-3. **#3 Abrir a pasta do Drive e localizar o vídeo final aprovado** — 10 min — P0
-4. **#7 Listar ficha técnica mínima em rascunho** — 20 min — P0
-5. **#10 Escrever legenda curta do post de abertura de 21/07** — 15 min — P0
+1. **#31 Listar exatamente quais imagens das rendeiras faltam** — 10 min — P0
+2. **#38 Localizar as imagens do Serraria fazendo os bilros** — 15 min — P0
+3. **#35 Listar o que está ruim na imagem atual do Rio Perucaba** — 10 min — P1
+4. **#1 Confirmar canal principal do lançamento** — 5 min — P0
+5. **#3 Abrir a pasta do Drive e localizar o vídeo final aprovado** — 10 min — P0
 
 ## ATALHOS
 
@@ -80,6 +91,10 @@ Projeto em fase de **Base e checagem final / preparação do pré-lançamento**.
 - [ ] Vídeo final conferido
 - [ ] Canal definido
 - [ ] Horário confirmado
+- [ ] Imagens das rendeiras capturadas
+- [ ] Imagem melhor do Rio Perucaba capturada
+- [ ] Imagens do Serraria fazendo os bilros localizadas e selecionadas
+- [ ] Editor recebeu lista/material de inserção visual
 - [ ] Thumbnail/capa definida
 - [ ] Descrição do YouTube escrita
 - [ ] Créditos/ficha técnica revisados

@@ -41,3 +41,6 @@ Cofre + transcrição de áudio enviada por Jadielson no Telegram.
 ## 19:28 UTC — Confirmação de contexto no tópico
 
 Jadielson perguntou no tópico `Backlog Inteligente`: "OK. O QUE SABE MAIS?". Resposta deve partir do contexto já salvo: identidade operacional de estudos, objetivo do curso, sete passos iniciais, princípios do backlog e estrutura em funil/pirâmide.
+
+## 2026-07-19 — Localização do método no Cofre
+Jadielson perguntou: “ONDE ESTÁ SALVO NOSSO MÉTODO?”. Foi localizado que o método Backlog Inteligente está salvo principalmente em `[F2] memory/context/estudos/`, com o resumo mais completo em `backlog-inteligente-resumo-conceitual-completo-v3-2026-07-19.md` e a base inicial em `backlog-inteligente.md`. Também há registro transversal em `[F2] memory/context/central-pessoal/2026-07-19-registro-metodo-backlog.md`.
