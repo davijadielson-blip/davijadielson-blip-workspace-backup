@@ -31,3 +31,17 @@ Em 2026-07-14, Jadielson confirmou explicitamente: “mas a pasta macro deve ser
 
 ## Confirmação final
 Jadielson pediu para salvar tudo e confirmou a decisão em 2026-07-14. Este protocolo passa a ser a referência operacional para organização de brutos de cursos no Drive pessoal.
+
+## Reforço operacional — 2026-07-19
+
+Jadielson reforçou, após upload do PDF do curso Backlog Inteligente, que o arquivo bruto não deve ficar solto na pasta macro `ESTUDOS` quando não houver pasta específica do curso.
+
+Regra reforçada para Albert e agentes de estudos:
+
+1. Antes de subir qualquer bruto de curso no Drive pessoal, procurar uma pasta específica do curso dentro de `ESTUDOS`.
+2. Se a pasta específica não existir, criar uma pasta com nome claro do curso/aprendizado.
+3. Subir o bruto dentro da pasta específica do curso, não diretamente na macro `ESTUDOS`.
+4. Registrar no Cofre o link/ID da pasta e dos arquivos relevantes.
+5. Usar `gog` como caminho oficial para Google Drive; não usar Zapier para Google.
+
+Caso já tenha sido salvo solto por engano, corrigir movendo o arquivo para a pasta específica do curso quando possível.

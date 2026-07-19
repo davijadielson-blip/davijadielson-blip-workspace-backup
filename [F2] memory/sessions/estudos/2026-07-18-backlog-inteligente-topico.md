@@ -44,3 +44,32 @@ Jadielson perguntou no tópico `Backlog Inteligente`: "OK. O QUE SABE MAIS?". Re
 
 ## 2026-07-19 — Localização do método no Cofre
 Jadielson perguntou: “ONDE ESTÁ SALVO NOSSO MÉTODO?”. Foi localizado que o método Backlog Inteligente está salvo principalmente em `[F2] memory/context/estudos/`, com o resumo mais completo em `backlog-inteligente-resumo-conceitual-completo-v3-2026-07-19.md` e a base inicial em `backlog-inteligente.md`. Também há registro transversal em `[F2] memory/context/central-pessoal/2026-07-19-registro-metodo-backlog.md`.
+
+## 2026-07-19 — PDF das aulas do Backlog Inteligente
+Jadielson enviou um PDF com material das aulas do Backlog Inteligente e pediu para extrair tudo, guardar em `.md`, formar juízo de valor e avaliar pontos para agregar ao método. Também pediu para guardar o bruto no Drive pessoal, pasta Estudos.
+
+Arquivos salvos no Cofre:
+- `[F2] memory/context/estudos/backlog-inteligente-material-aulas-extracao-bruta-2026-07-19.md`
+- `[F2] memory/context/estudos/backlog-inteligente-juizo-valor-material-aulas-2026-07-19.md`
+
+Observação operacional: tentativa de usar Google Drive via Zapier falhou por limite/insuficiência de tarefas da conta (`insufficient tasks on account`). Upload do PDF bruto para o Drive ficou pendente.
+
+## 2026-07-19 — Correção: Google via gog, não Zapier
+Jadielson corrigiu que Google não deve mais usar Zapier; caminho oficial é `gog`. Foi consultada a decisão `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md` e usado `gog` com a conta pessoal `davijadielson@gmail.com`.
+
+Upload realizado no Drive pessoal, pasta `ESTUDOS`:
+- Arquivo: `2026-07-19_Backlog_Inteligente_material_aulas.pdf`
+- File ID: `1QA_Xkaf_yp_OWhQkO9rAO_4gZ2oybnBl`
+- Link: https://drive.google.com/file/d/1QA_Xkaf_yp_OWhQkO9rAO_4gZ2oybnBl/view?usp=drivesdk
+
+## 2026-07-19 — Regra reforçada para Albert: brutos em pasta específica do curso
+Jadielson confirmou que o PDF foi salvo no Drive, mas ficou solto na pasta macro `ESTUDOS`. Orientou que, da próxima vez, quando não houver pasta do curso, o agente deve criar uma pasta específica do curso e salvar o bruto dentro dela. Regra reforçada em:
+- `[F2] memory/context/estudos/protocolo-drive-brutos-cursos.md`
+- `[F2] memory/agents/central-pessoal/albert-estudos.md`
+
+## 2026-07-19 — Consolidação salva: Método Operacional v4
+Jadielson respondeu “Perfeito. Salve tudo.” após a síntese dos aprendizados do todo. Foi criado e salvo o arquivo oficial de consolidação:
+
+- `[F2] memory/context/estudos/backlog-inteligente-metodo-operacional-v4-2026-07-19.md`
+
+Este arquivo consolida: captura imediata, clareza por perguntas, tarefa com verbo, prazo de execução vs prazo de entrega, fatiamento, regra dos 5 estados, priorização por dificuldade/energia/PG-PD, agenda como dashboard e revisão diária/semanal.
