@@ -612,3 +612,18 @@ Em 17/07/2026, a varredura diária encontrou uma decisão/aprovação operaciona
 - **Pauta 17/07/2026:** sexta-feira flexível, com foco em bastidores/prestação de contas/fluxo da rede; pauta principal sugerida: Unidade Mista + SAMU + Referências Regionais.
 
 📁 Registro completo: `[F2] memory/decisions/2026-07-17-decisoes.md`
+
+---
+
+## ✅ 2026-07-18 — Varredura diária de decisões
+
+Em 18/07/2026, a extração diária verificou as sessões `.jsonl` do dia anterior e **não encontrou decisões, aprovações ou debates estratégicos humanos** a registrar. O recorte continha 106 sessões `.jsonl`: 104 entradas cron e 2 heartbeats/lembretes internos, sem mensagens humanas diretas.
+
+### Resultado
+
+- **Debates:** nenhum debate estratégico identificado.
+- **Decisões:** nenhuma decisão nova identificada.
+- **Aprovações:** nenhuma aprovação humana nova identificada.
+- **Ignorados:** crons rotineiros, backups, pautas automáticas, syncs operacionais, lembretes PG/PD e heartbeats.
+
+📁 Registro completo: `[F2] memory/decisions/2026-07-18-decisoes.md`
