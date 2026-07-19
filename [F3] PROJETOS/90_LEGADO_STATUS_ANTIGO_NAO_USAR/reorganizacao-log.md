@@ -1,0 +1,103 @@
+# Log da reorganização F3 pelo Mapa 360
+
+**Data:** 2026-07-19 05:05 UTC
+
+## Resumo
+
+- Pastas movidas/preservadas: 92
+- Origens mapeadas mas não encontradas: 0
+
+## Movimentações
+
+- `A INICIAR/PLANEJAMENTO FINANCEIRO PESSOAL` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/PLANEJAMENTO FINANCEIRO PESSOAL` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/NOÇÃO DE GASTOS E DESPESAS` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/NOÇÃO DE GASTOS E DESPESAS` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/QUITACAO - BUSCAR MANEIRA DE QUITAR AS DIVIDAS` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/QUITACAO - BUSCAR MANEIRA DE QUITAR AS DIVIDAS` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/QUITAR DÍVIDAS E CASA PRÓPRIA` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/QUITAR DÍVIDAS E CASA PRÓPRIA` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/Me libertar das Dívidas e comprar a VISTA` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/Me libertar das Dívidas e comprar a VISTA` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/PROCURAR USAR E COMPRAR MAIS A VISTA DE PREFERENCIA COM O DINHEIRO EM ESPÉCIE` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/PROCURAR USAR E COMPRAR MAIS A VISTA DE PREFERENCIA COM O DINHEIRO EM ESPÉCIE` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/DEFINIR ORÇAMENTO E META PARA COMPRAS` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/DEFINIR ORÇAMENTO E META PARA COMPRAS` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/DEFINIR ORÇAMENTO E META PARA COMPRAS (Propósitos)` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/DEFINIR ORÇAMENTO E META PARA COMPRAS (Propósitos)` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/APRIMORAR A EDUCAÇÃO FINANCEIRA` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/APRIMORAR A EDUCAÇÃO FINANCEIRA` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/APRIMORAR A EDUCAÇÃO FINANCEIRA (Propósitos)` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/APRIMORAR A EDUCAÇÃO FINANCEIRA (Propósitos)` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/MULTIPLICAR RENDA` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/MULTIPLICAR RENDA` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/MULTIPLICAR RENDA (Pessoal)` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/MULTIPLICAR RENDA (Pessoal)` — canônico: **Finanças pessoais e liberdade financeira**
+- `EM ANDAMENTO/VOLTAR A FAZER INVESTIMENTOS PESSOAIS E EMPRESARIAIS` → `01_PESSOAL/01_Financas_Pessoais/Finanças pessoais e liberdade financeira/00_ORIGENS_LEGADAS/VOLTAR A FAZER INVESTIMENTOS PESSOAIS E EMPRESARIAIS` — canônico: **Finanças pessoais e liberdade financeira**
+- `A INICIAR/QUITAR CASA` → `01_PESSOAL/01_Financas_Pessoais/Quitação da casa/00_ORIGENS_LEGADAS/QUITAR CASA` — canônico: **Quitação da casa**
+- `A INICIAR/AQUISIÇÕES PESSOAIS — CARRO NOVO` → `01_PESSOAL/01_Financas_Pessoais/Aquisição de carro/00_ORIGENS_LEGADAS/AQUISIÇÕES PESSOAIS — CARRO NOVO` — canônico: **Aquisição de carro**
+- `A INICIAR/COMPRAR UM CARRO NOVO E MODERNO` → `01_PESSOAL/01_Financas_Pessoais/Aquisição de carro/00_ORIGENS_LEGADAS/COMPRAR UM CARRO NOVO E MODERNO` — canônico: **Aquisição de carro**
+- `A INICIAR/TROCAR CARRO POR UM NOVO` → `01_PESSOAL/01_Financas_Pessoais/Aquisição de carro/00_ORIGENS_LEGADAS/TROCAR CARRO POR UM NOVO` — canônico: **Aquisição de carro**
+- `A INICIAR/TROCAR MOTO POR UMA NOVA` → `01_PESSOAL/01_Financas_Pessoais/Troca de moto/00_ORIGENS_LEGADAS/TROCAR MOTO POR UMA NOVA` — canônico: **Troca de moto**
+- `A INICIAR/CASA — MORADIA` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Casa, moradia e manutenção/00_ORIGENS_LEGADAS/CASA — MORADIA` — canônico: **Casa, moradia e manutenção**
+- `A INICIAR/MORADIA` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Casa, moradia e manutenção/00_ORIGENS_LEGADAS/MORADIA` — canônico: **Casa, moradia e manutenção**
+- `A INICIAR/MANUTENCAO, REFORMA E AMPLIACAO DA CASA` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Casa, moradia e manutenção/00_ORIGENS_LEGADAS/MANUTENCAO, REFORMA E AMPLIACAO DA CASA` — canônico: **Casa, moradia e manutenção**
+- `A INICIAR/REFORMAR CASA — MANUTENÇÕES` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Casa, moradia e manutenção/00_ORIGENS_LEGADAS/REFORMAR CASA — MANUTENÇÕES` — canônico: **Casa, moradia e manutenção**
+- `A INICIAR/REFORMA DA CASA DA MÃE` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Reforma da casa da mãe/00_ORIGENS_LEGADAS/REFORMA DA CASA DA MÃE` — canônico: **Reforma da casa da mãe**
+- `A INICIAR/REFORMA DA CASA - MARIA DAVI` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Reforma da casa da mãe/00_ORIGENS_LEGADAS/REFORMA DA CASA - MARIA DAVI` — canônico: **Reforma da casa da mãe**
+- `A INICIAR/CONCLUIR REFORMA E CONTABILIDADE DA CASA DA MINHA MÃE` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Reforma da casa da mãe/00_ORIGENS_LEGADAS/CONCLUIR REFORMA E CONTABILIDADE DA CASA DA MINHA MÃE` — canônico: **Reforma da casa da mãe**
+- `A INICIAR/ORGANIZAR SALA` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Sala e interiores/00_ORIGENS_LEGADAS/ORGANIZAR SALA` — canônico: **Sala e interiores**
+- `A INICIAR/PLANEJAR INTERIORES DA SALA` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Sala e interiores/00_ORIGENS_LEGADAS/PLANEJAR INTERIORES DA SALA` — canônico: **Sala e interiores**
+- `A INICIAR/FAMÍLIA — VISITAR FAMILIARES` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Família e visitas/00_ORIGENS_LEGADAS/FAMÍLIA — VISITAR FAMILIARES` — canônico: **Família e visitas**
+- `A INICIAR/VISITAR REGULARMENTE MEUS FAMILIARES` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Família e visitas/00_ORIGENS_LEGADAS/VISITAR REGULARMENTE MEUS FAMILIARES` — canônico: **Família e visitas**
+- `A INICIAR/VISITAR REGULARMENTE MEUS FAMILIARES (Propósitos)` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Família e visitas/00_ORIGENS_LEGADAS/VISITAR REGULARMENTE MEUS FAMILIARES (Propósitos)` — canônico: **Família e visitas**
+- `A INICIAR/COMPRAR MOTO PARA ALÍCIA ESPOSA` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Compras familiares/00_ORIGENS_LEGADAS/COMPRAR MOTO PARA ALÍCIA ESPOSA` — canônico: **Compras familiares**
+- `A INICIAR/TROCAR CELULAR DA MINHA MÃE` → `01_PESSOAL/02_Casa_Familia_Base_de_Vida/Compras familiares/00_ORIGENS_LEGADAS/TROCAR CELULAR DA MINHA MÃE` — canônico: **Compras familiares**
+- `A INICIAR/ALIMENTAÇÃO — DIETAS (NUTRI GESSY)` → `01_PESSOAL/03_Saude_Corpo_Energia/Saúde, corpo e energia/00_ORIGENS_LEGADAS/ALIMENTAÇÃO — DIETAS (NUTRI GESSY)` — canônico: **Saúde, corpo e energia**
+- `A INICIAR/DESENVOLVIMENTO DAS SAÚDES` → `01_PESSOAL/03_Saude_Corpo_Energia/Saúde, corpo e energia/00_ORIGENS_LEGADAS/DESENVOLVIMENTO DAS SAÚDES` — canônico: **Saúde, corpo e energia**
+- `A INICIAR/DELEGAR OPERAÇÕES DE SAÚDE` → `01_PESSOAL/03_Saude_Corpo_Energia/Saúde, corpo e energia/00_ORIGENS_LEGADAS/DELEGAR OPERAÇÕES DE SAÚDE` — canônico: **Saúde, corpo e energia**
+- `A INICIAR/METAS DE SAÚDE E BEM-ESTAR` → `01_PESSOAL/03_Saude_Corpo_Energia/Saúde, corpo e energia/00_ORIGENS_LEGADAS/METAS DE SAÚDE E BEM-ESTAR` — canônico: **Saúde, corpo e energia**
+- `A INICIAR/METAS PESSOAIS — 90KG` → `01_PESSOAL/03_Saude_Corpo_Energia/Saúde, corpo e energia/00_ORIGENS_LEGADAS/METAS PESSOAIS — 90KG` — canônico: **Saúde, corpo e energia**
+- `A INICIAR/FAZER PLANO DE SAÚDE` → `01_PESSOAL/03_Saude_Corpo_Energia/Plano de saúde/00_ORIGENS_LEGADAS/FAZER PLANO DE SAÚDE` — canônico: **Plano de saúde**
+- `A INICIAR/FAZER PLANO DE SAÚDE PARA A FAMÍLIA` → `01_PESSOAL/03_Saude_Corpo_Energia/Plano de saúde/00_ORIGENS_LEGADAS/FAZER PLANO DE SAÚDE PARA A FAMÍLIA` — canônico: **Plano de saúde**
+- `A INICIAR/CONCLUIR CANAIS E IMPLANTES DOS DENTES (Propósitos)` → `01_PESSOAL/03_Saude_Corpo_Energia/Dentes, canais e implantes/00_ORIGENS_LEGADAS/CONCLUIR CANAIS E IMPLANTES DOS DENTES (Propósitos)` — canônico: **Dentes, canais e implantes**
+- `A INICIAR/CONCLUIR CANAIS E IMPLANTES DOS MEUS DENTES` → `01_PESSOAL/03_Saude_Corpo_Energia/Dentes, canais e implantes/00_ORIGENS_LEGADAS/CONCLUIR CANAIS E IMPLANTES DOS MEUS DENTES` — canônico: **Dentes, canais e implantes**
+- `A INICIAR/IGREJA — ESPIRITUALIDADE` → `01_PESSOAL/04_Espiritualidade_Proposito_Lazer/Espiritualidade e igreja/00_ORIGENS_LEGADAS/IGREJA — ESPIRITUALIDADE` — canônico: **Espiritualidade e igreja**
+- `A INICIAR/VOLTAR À ESCOLA DOMINICAL E CULTOS` → `01_PESSOAL/04_Espiritualidade_Proposito_Lazer/Espiritualidade e igreja/00_ORIGENS_LEGADAS/VOLTAR À ESCOLA DOMINICAL E CULTOS` — canônico: **Espiritualidade e igreja**
+- `A INICIAR/ELIMINAR O QUE NÃO É INTERESSANTE` → `01_PESSOAL/04_Espiritualidade_Proposito_Lazer/Eliminar o que não é interessante/00_ORIGENS_LEGADAS/ELIMINAR O QUE NÃO É INTERESSANTE` — canônico: **Eliminar o que não é interessante**
+- `A INICIAR/CHECAR-ANALISAR O PROGRESSO-EVOLUÇÃO DAS ÁREAS DA VIDA` → `01_PESSOAL/05_Governanca_Pessoal/Progresso das áreas da vida/00_ORIGENS_LEGADAS/CHECAR-ANALISAR O PROGRESSO-EVOLUÇÃO DAS ÁREAS DA VIDA` — canônico: **Progresso das áreas da vida**
+- `A INICIAR/FICHAS DE INTERESSE` → `01_PESSOAL/05_Governanca_Pessoal/Progresso das áreas da vida/00_ORIGENS_LEGADAS/FICHAS DE INTERESSE` — canônico: **Progresso das áreas da vida**
+- `A INICIAR/PRODUTIVIDADE` → `01_PESSOAL/05_Governanca_Pessoal/Progresso das áreas da vida/00_ORIGENS_LEGADAS/PRODUTIVIDADE` — canônico: **Progresso das áreas da vida**
+- `A INICIAR/CARREIRA E POSICIONAMENTO PESSOAL` → `02_PROFISSIONAL/01_Carreira_Posicionamento_Marca_Pessoal/Carreira, posicionamento e imagem/00_ORIGENS_LEGADAS/CARREIRA E POSICIONAMENTO PESSOAL` — canônico: **Carreira, posicionamento e imagem**
+- `A INICIAR/CARREIRA E POSICIONAMENTO PROFISSIONAL` → `02_PROFISSIONAL/01_Carreira_Posicionamento_Marca_Pessoal/Carreira, posicionamento e imagem/00_ORIGENS_LEGADAS/CARREIRA E POSICIONAMENTO PROFISSIONAL` — canônico: **Carreira, posicionamento e imagem**
+- `A INICIAR/IMAGEM PESSOAL` → `02_PROFISSIONAL/01_Carreira_Posicionamento_Marca_Pessoal/Carreira, posicionamento e imagem/00_ORIGENS_LEGADAS/IMAGEM PESSOAL` — canônico: **Carreira, posicionamento e imagem**
+- `A INICIAR/INVESTIR NA IMAGEM PESSOAL (Propósitos)` → `02_PROFISSIONAL/01_Carreira_Posicionamento_Marca_Pessoal/Carreira, posicionamento e imagem/00_ORIGENS_LEGADAS/INVESTIR NA IMAGEM PESSOAL (Propósitos)` — canônico: **Carreira, posicionamento e imagem**
+- `A INICIAR/INVESTIR NA IMAGEM PESSOAL - roupas e acessórios` → `02_PROFISSIONAL/01_Carreira_Posicionamento_Marca_Pessoal/Carreira, posicionamento e imagem/00_ORIGENS_LEGADAS/INVESTIR NA IMAGEM PESSOAL - roupas e acessórios` — canônico: **Carreira, posicionamento e imagem**
+- `A INICIAR/FOTOS E POSICIONAMENTO` → `02_PROFISSIONAL/01_Carreira_Posicionamento_Marca_Pessoal/Carreira, posicionamento e imagem/00_ORIGENS_LEGADAS/FOTOS E POSICIONAMENTO` — canônico: **Carreira, posicionamento e imagem**
+- `A INICIAR/PROJETOS PROFISSIONAIS` → `02_PROFISSIONAL/01_Carreira_Posicionamento_Marca_Pessoal/Carreira, posicionamento e imagem/00_ORIGENS_LEGADAS/PROJETOS PROFISSIONAIS` — canônico: **Carreira, posicionamento e imagem**
+- `A INICIAR/ACELERAR A LEITURA — FAST READ` → `02_PROFISSIONAL/02_Estudos_Profissionais_Aplicados/Trilha de estudos profissionais/00_ORIGENS_LEGADAS/ACELERAR A LEITURA — FAST READ` — canônico: **Trilha de estudos profissionais**
+- `A INICIAR/APRENDER INGLÊS E ESPANHOL` → `02_PROFISSIONAL/02_Estudos_Profissionais_Aplicados/Trilha de estudos profissionais/00_ORIGENS_LEGADAS/APRENDER INGLÊS E ESPANHOL` — canônico: **Trilha de estudos profissionais**
+- `A INICIAR/APRENDER INGLÊS E ESPANHOL (Pessoal)` → `02_PROFISSIONAL/02_Estudos_Profissionais_Aplicados/Trilha de estudos profissionais/00_ORIGENS_LEGADAS/APRENDER INGLÊS E ESPANHOL (Pessoal)` — canônico: **Trilha de estudos profissionais**
+- `A INICIAR/MANTER UMA VIDA DE ESTUDOS PERMANENTE` → `02_PROFISSIONAL/02_Estudos_Profissionais_Aplicados/Trilha de estudos profissionais/00_ORIGENS_LEGADAS/MANTER UMA VIDA DE ESTUDOS PERMANENTE` — canônico: **Trilha de estudos profissionais**
+- `A INICIAR/METAS DE APRENDIZADO E EDUCAÇÃO` → `02_PROFISSIONAL/02_Estudos_Profissionais_Aplicados/Trilha de estudos profissionais/00_ORIGENS_LEGADAS/METAS DE APRENDIZADO E EDUCAÇÃO` — canônico: **Trilha de estudos profissionais**
+- `A INICIAR/MENTORIAS` → `02_PROFISSIONAL/02_Estudos_Profissionais_Aplicados/Trilha de estudos profissionais/00_ORIGENS_LEGADAS/MENTORIAS` — canônico: **Trilha de estudos profissionais**
+- `A INICIAR/ESTUDOS DE MÚSICA` → `02_PROFISSIONAL/02_Estudos_Profissionais_Aplicados/Trilha de estudos profissionais/00_ORIGENS_LEGADAS/ESTUDOS DE MÚSICA` — canônico: **Trilha de estudos profissionais**
+- `EM ANDAMENTO/DOCUMENTÁRIO O FIO DA MEMÓRIA` → `03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA` — canônico: **Documentário O Fio da Memória**
+- `A INICIAR/O FIO DA MEMÓRIA - DOCUMENTÁRIO (Frentes)` → `03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/O FIO DA MEMÓRIA - DOCUMENTÁRIO (Frentes)` — canônico: **Documentário O Fio da Memória**
+- `PAUSADO/ENTRE TEMPOS` → `03_PROJETOS/01_Autorais_Culturais/Entre Tempos/00_ORIGENS_LEGADAS/ENTRE TEMPOS` — canônico: **Entre Tempos**
+- `EM ANDAMENTO/ENTRE TEMPOS - Video Clipe` → `03_PROJETOS/01_Autorais_Culturais/Entre Tempos/00_ORIGENS_LEGADAS/ENTRE TEMPOS - Video Clipe` — canônico: **Entre Tempos**
+- `A INICIAR/IDEIA DE SÉRIE DOCUMENTAL SOBRE PESCADOR` → `03_PROJETOS/01_Autorais_Culturais/Série documental sobre pescador/00_ORIGENS_LEGADAS/IDEIA DE SÉRIE DOCUMENTAL SOBRE PESCADOR` — canônico: **Série documental sobre pescador**
+- `A INICIAR/Formar equipe e Elenco para produção de projetos culturais` → `03_PROJETOS/01_Autorais_Culturais/Projetos culturais e elenco/00_ORIGENS_LEGADAS/Formar equipe e Elenco para produção de projetos culturais` — canônico: **Projetos culturais e elenco**
+- `A INICIAR/CRIAR CANAL NO YOUTUBE` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/YouTube e canais autorais/00_ORIGENS_LEGADAS/CRIAR CANAL NO YOUTUBE` — canônico: **YouTube e canais autorais**
+- `A INICIAR/GANHAR DINHEIRO COM CANAL NO YOUTUBE` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/YouTube e canais autorais/00_ORIGENS_LEGADAS/GANHAR DINHEIRO COM CANAL NO YOUTUBE` — canônico: **YouTube e canais autorais**
+- `A INICIAR/GANHAR DINHEIRO COM O YOUTUBE` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/YouTube e canais autorais/00_ORIGENS_LEGADAS/GANHAR DINHEIRO COM O YOUTUBE` — canônico: **YouTube e canais autorais**
+- `A INICIAR/MINHA CARREIRA — CANAL NO YOUTUBE` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/YouTube e canais autorais/00_ORIGENS_LEGADAS/MINHA CARREIRA — CANAL NO YOUTUBE` — canônico: **YouTube e canais autorais**
+- `A INICIAR/CRIAÇÃO DE CURSOS ONLINE` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/Criação de cursos online/00_ORIGENS_LEGADAS/CRIAÇÃO DE CURSOS ONLINE` — canônico: **Criação de cursos online**
+- `A INICIAR/ESTÚDIO DE PODCAST` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/Estúdio de podcast/00_ORIGENS_LEGADAS/ESTÚDIO DE PODCAST` — canônico: **Estúdio de podcast**
+- `A INICIAR/ESTÚDIO DE PODCAST - QUESTÃO DE LÓGICA` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/Estúdio de podcast/00_ORIGENS_LEGADAS/ESTÚDIO DE PODCAST - QUESTÃO DE LÓGICA` — canônico: **Estúdio de podcast**
+- `A INICIAR/PENSAR NO ESTÚDIO DE PODCAST` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/Estúdio de podcast/00_ORIGENS_LEGADAS/PENSAR NO ESTÚDIO DE PODCAST` — canônico: **Estúdio de podcast**
+- `A INICIAR/ECO - ESTRATÉGIA DE COMUNICAÇÃO OTIMIZADA (SUGESTAO DE NOME` → `03_PROJETOS/02_Midia_Conteudo_Audiencia/ECO Estratégia de Comunicação Otimizada/00_ORIGENS_LEGADAS/ECO - ESTRATÉGIA DE COMUNICAÇÃO OTIMIZADA (SUGESTAO DE NOME` — canônico: **ECO Estratégia de Comunicação Otimizada**
+- `A INICIAR/FILANTROPIA (pessoal)` → `03_PROJETOS/03_Legado_Impacto/Filantropia e Instituto MD/00_ORIGENS_LEGADAS/FILANTROPIA (pessoal)` — canônico: **Filantropia e Instituto MD**
+- `A INICIAR/FILANTROPIA - INSTITUTO MD` → `03_PROJETOS/03_Legado_Impacto/Filantropia e Instituto MD/00_ORIGENS_LEGADAS/FILANTROPIA - INSTITUTO MD` — canônico: **Filantropia e Instituto MD**
+- `A INICIAR/FILANTROPIA E INSTITUTO MD` → `03_PROJETOS/03_Legado_Impacto/Filantropia e Instituto MD/00_ORIGENS_LEGADAS/FILANTROPIA E INSTITUTO MD` — canônico: **Filantropia e Instituto MD**
+- `A INICIAR/PLANO DE CRESCIMENTO LÓGIKA` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Crescimento e lucratividade LÓGIKA/00_ORIGENS_LEGADAS/PLANO DE CRESCIMENTO LÓGIKA` — canônico: **Crescimento e lucratividade LÓGIKA**
+- `A INICIAR/TRANSFORMAR A LÓGIKA EM NEGÓCIO LUCRATIVO` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Crescimento e lucratividade LÓGIKA/00_ORIGENS_LEGADAS/TRANSFORMAR A LÓGIKA EM NEGÓCIO LUCRATIVO` — canônico: **Crescimento e lucratividade LÓGIKA**
+- `A INICIAR/LÓGIKA CODE — REBRANDING` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/LÓGIKA Code Rebranding/00_ORIGENS_LEGADAS/LÓGIKA CODE — REBRANDING` — canônico: **LÓGIKA Code Rebranding**
+- `A INICIAR/CALENDÁRIO EDITORIAL LÓGIKA` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Calendário editorial LÓGIKA/00_ORIGENS_LEGADAS/CALENDÁRIO EDITORIAL LÓGIKA` — canônico: **Calendário editorial LÓGIKA**
+- `A INICIAR/PRODUTORA DE VÍDEO` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Produtora de vídeo e LÓGIKA Films/00_ORIGENS_LEGADAS/PRODUTORA DE VÍDEO` — canônico: **Produtora de vídeo e LÓGIKA Films**
+- `A INICIAR/PRODUTORA DE VÍDEO (Pessoal)` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Produtora de vídeo e LÓGIKA Films/00_ORIGENS_LEGADAS/PRODUTORA DE VÍDEO (Pessoal)` — canônico: **Produtora de vídeo e LÓGIKA Films**
+- `A INICIAR/PRODUTORA DE VÍDEO — ESTRUTURAR LÓGIKA FILMS` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Produtora de vídeo e LÓGIKA Films/00_ORIGENS_LEGADAS/PRODUTORA DE VÍDEO — ESTRUTURAR LÓGIKA FILMS` — canônico: **Produtora de vídeo e LÓGIKA Films**
+- `A INICIAR/CRIAR UM NEGOCIO DE AUTOMACOES DE ATENDIMENTO PELO ZAP` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Automações de atendimento pelo Zap/00_ORIGENS_LEGADAS/CRIAR UM NEGOCIO DE AUTOMACOES DE ATENDIMENTO PELO ZAP` — canônico: **Automações de atendimento pelo Zap**
+- `A INICIAR/VENDAS ONLINE` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Vendas online/00_ORIGENS_LEGADAS/VENDAS ONLINE` — canônico: **Vendas online**
+- `A INICIAR/Calcular investimentos em equipamentos e na empresa` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Investimentos em equipamentos e empresa/00_ORIGENS_LEGADAS/Calcular investimentos em equipamentos e na empresa` — canônico: **Investimentos em equipamentos e empresa**
+- `A INICIAR/PARCERIA COM ALEX` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Parcerias comerciais/00_ORIGENS_LEGADAS/PARCERIA COM ALEX` — canônico: **Parcerias comerciais**
+- `A INICIAR/PARCERIA COM FREELANCER` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Parcerias comerciais/00_ORIGENS_LEGADAS/PARCERIA COM FREELANCER` — canônico: **Parcerias comerciais**
+- `A INICIAR/ESTUDO PARCERIA LOGIKA - PAPO DE VISAO` → `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio/Parcerias comerciais/00_ORIGENS_LEGADAS/ESTUDO PARCERIA LOGIKA - PAPO DE VISAO` — canônico: **Parcerias comerciais**
