@@ -73,3 +73,16 @@ Jadielson respondeu “Perfeito. Salve tudo.” após a síntese dos aprendizado
 - `[F2] memory/context/estudos/backlog-inteligente-metodo-operacional-v4-2026-07-19.md`
 
 Este arquivo consolida: captura imediata, clareza por perguntas, tarefa com verbo, prazo de execução vs prazo de entrega, fatiamento, regra dos 5 estados, priorização por dificuldade/energia/PG-PD, agenda como dashboard e revisão diária/semanal.
+
+## 2026-07-19 — Análise dos bônus do Método TDAH para Backlog Inteligente
+Jadielson reenviou os 5 bônus do curso `Você não é preguiçoso — Método TDAH` e pediu análise de pertinência para o Backlog Inteligente. Foi criada análise em:
+
+- `[F2] memory/context/estudos/backlog-inteligente-analise-bonus-metodo-tdah-2026-07-19.md`
+
+Veredito: alta pertinência. Os bônus complementam o Backlog com ativação, execução diária, padrões de trava, rotina 70% e painel de 1 página. Também foi criada no Drive pessoal > `ESTUDOS` a pasta `Você não é preguiçoso — Método TDAH` via `gog`, com upload dos 5 bônus e cópia do ebook principal.
+
+## 2026-07-19 — Confirmação de anexo Bonus 05 duplicado
+Jadielson respondeu “estão todos aqui” anexando `Bonus_05-_Seu_sistema_em_01_Pa_gina`. Conferido: o arquivo é o Bônus 05, 1 página, já contemplado na análise anterior dos bônus. Não foi necessário duplicar upload/análise; análise consolidada permanece em `[F2] memory/context/estudos/backlog-inteligente-analise-bonus-metodo-tdah-2026-07-19.md`.
+
+## 2026-07-19 — Confirmação do link do ebook principal
+Jadielson confirmou que o link `https://drive.google.com/file/d/17FWFd39GuEg6AM9maxFSqz0Es9pdQBNo/view?usp=sharing` é o ebook principal. O link já está registrado no índice do curso `Você não é preguiçoso — Método TDAH`, o conteúdo integral já foi extraído para Markdown em `[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/02_EBOOKS/ebook_principal_extraido_integral.md`, e uma cópia do PDF já foi colocada via `gog` na pasta do Drive criada para o curso dentro de `ESTUDOS`.

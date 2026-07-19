@@ -1,0 +1,304 @@
+# 🚀 Mission Control — Jadielson / Lôh
+
+**Status:** MVP documental v0.4 — placar semanal de execução pronto  
+**Última atualização:** 2026-07-19 23:45 UTC  
+**Fonte de verdade:** Cofre `/data/.openclaw/workspace/`  
+**Direção aprovada:** Tudo integrado, começando simples.
+
+---
+
+## 1. Cockpit — Agora
+
+### Prioridade central
+
+> Transformar o Cofre em cockpit operacional: agência, clientes, projetos pessoais/profissionais, conteúdo, estudos, agentes e decisões numa visão única.
+
+### Em foco nesta semana
+
+- [x] Mapear frentes/projetos ativos no Cofre.
+- [x] Listar agentes principais e funções.
+- [x] Montar Kanban operacional inicial.
+- [x] Criar primeira estrutura de pipeline de conteúdo.
+- [x] Revisar com Jadielson quais frentes entram como prioridade real da semana.
+- [x] Criar backlog estruturado do Mission Control.
+- [x] Criar placar semanal de execução com cards reais.
+- [ ] Definir primeiro formato visual: web, Telegram ou ambos em fases.
+
+### Alertas da Lôh
+
+- O Mission Control já tem base documental funcional.
+- A próxima melhoria crítica é separar **prioridade real** de **inventário geral**, para não virar um painel bonito e pesado.
+- Regra recomendada: máximo de **3 frentes em foco por semana**.
+
+---
+
+## 2. Projetos e Frentes — Mapa Integrado
+
+### 2.1 Frentes de trabalho — `[F1] 5-Frentes/`
+
+| Frente | Status inicial | Papel no Mission Control | Fonte no Cofre |
+|---|---|---|---|
+| Lógika Creative | Ativa / negócio próprio | Agência, posicionamento, clientes, produção, financeiro, estratégia | `[F1] 5-Frentes/Logika-Creative/` |
+| Saúde São Sebastião | Ativa / frente institucional | Comunicação pública, campanhas, unidades, pautas e organização da saúde | `[F1] 5-Frentes/Saude-Sao-Sebastiao/` |
+| Câmara Municipal | Ativa / frente política-institucional | Conteúdo legislativo, sessões, projetos, referências editoriais | `[F1] 5-Frentes/Camara-Municipal/` |
+| SINDSS | Ativa / frente sindical | Publicações, itinerário, identidade, conteúdo institucional | `[F1] 5-Frentes/SINDSS/` |
+| Além da Foto | Autoral / conteúdo documental | Canal/projeto documental, memória, roteiro, narrativa | `[F1] 5-Frentes/Alem-da-Foto/` |
+| Lives Louvor Reflexão | Autoral / espiritual-gospel | Projeto de lives, louvor, reflexão, edital/estrutura | `[F1] 5-Frentes/Lives-Louvor-Reflexao/` |
+| Outros Vereadores | Potencial / relacionamento | Frentes políticas avulsas e possíveis clientes | `[F1] 5-Frentes/Outros-Vereadores/` |
+| Projetos transversais | Apoio / ideias | Projetos em pensamento, aguardando ou cruzados | `[F1] 5-Frentes/Projetos/` |
+
+### 2.2 Projetos canônicos — `[F3] PROJETOS/`
+
+> Regra vigente: não voltar à lógica antiga dos 92 projetos soltos. Usar Mapa 360: `Macroárea → Frente → Projeto/Subprojeto → Tarefa → Microtarefa`.
+
+| Macroárea | Frentes principais detectadas | Papel no Mission Control | Fonte |
+|---|---|---|---|
+| 01_PESSOAL | Finanças, casa/família, saúde, espiritualidade, governança pessoal | Vida pessoal e base de estabilidade | `[F3] PROJETOS/01_PESSOAL/` |
+| 02_PROFISSIONAL | Carreira, posicionamento, estudos aplicados, ferramentas/parcerias | Evolução profissional e marca pessoal | `[F3] PROJETOS/02_PROFISSIONAL/` |
+| 03_PROJETOS | Autorais culturais, mídia/conteúdo, legado/impacto | Projetos criativos e autorais | `[F3] PROJETOS/03_PROJETOS/` |
+| 04_TRABALHO | Lógika, clientes, banco de mídias e referências | Operação de negócio/clientes | `[F3] PROJETOS/04_TRABALHO/` |
+| 90_LEGADO | Itens antigos preservados | Consulta histórica, não usar como sistema principal | `[F3] PROJETOS/90_LEGADO_STATUS_ANTIGO_NAO_USAR/` |
+
+### 2.3 Estudos — `[F1] ESTUDOS/`
+
+| Categoria | Itens detectados | Status no Mission Control |
+|---|---|---|
+| Em andamento | Comunidade 1P; Times School — Rafael Medeiros; Você Não é Preguiçoso — Método TDAH | Acompanhar como trilha ativa |
+| A iniciar | Automação; Cursos Marçal; Livros; Gestão do Tempo e Produtividade | Backlog de aprendizado |
+| Pausado | ADAPTA IA; Designer; Gestão do Tempo e Projetos; Marketing Digital; Produção de Vídeo; Redes Sociais; Social Media; Oficinas; Mentorias | Revisar depois, sem virar pressão diária |
+| Concluído | Agência 5.0; Workshop Gestão do Tempo; Exercícios Quânticos de Jesus Cristo | Consulta e extração de aprendizados |
+
+---
+
+## 3. Kanban Operacional Inicial
+
+### Backlog
+
+- [ ] Escolher stack visual futura do dashboard.
+- [ ] Mapear integrações desejadas: Sheets, Notion/Trello, calendário, redes sociais.
+- [ ] Criar visão semanal automática a partir dos arquivos do Cofre.
+- [ ] Criar template único de card: projeto, status, responsável, fonte, próxima ação.
+- [ ] Definir se finanças pessoais entram no cockpit com detalhe ou apenas alerta/resumo.
+
+### Próximas
+
+- [ ] Priorizar com Jadielson as 3 frentes da semana.
+- [ ] Criar seção “Top 3 da Semana”.
+- [ ] Mapear conteúdos em andamento por frente.
+- [ ] Mapear agentes operacionais por tipo de demanda.
+- [ ] Propor primeira arquitetura visual web.
+
+### Em andamento
+
+- [x] PRD do Mission Control integrado.
+- [x] Painel Markdown inicial.
+- [x] Mapa de frentes reais do Cofre.
+- [x] Mapa inicial de estudos e agentes.
+
+### Aguardando Jadielson
+
+- [ ] Confirmar as 3 prioridades da semana.
+- [ ] Confirmar se o primeiro dashboard visual deve ser web, Telegram ou ambos em fases.
+- [ ] Confirmar se quer começar por operação da Lógika ou por visão geral pessoal/profissional.
+
+### Concluído
+
+- [x] Escolha macro definida: opção 5 — tudo integrado.
+- [x] Briefing inicial criado.
+- [x] PRD v0.1 criado.
+- [x] Arquivo central do Mission Control criado.
+- [x] Varredura inicial de `[F1] 5-Frentes/`, `[F3] PROJETOS/`, `[F1] ESTUDOS/` e `[F2] agentes/` realizada.
+
+---
+
+## 3A. Placar Semanal de Execução
+
+**Arquivo operacional:** `[F2] memory/projects/mission-control/placar-semanal-execucao.md`  
+**Semana:** 2026-07-20 a 2026-07-26  
+**Status:** pronto para uso operacional v0.1
+
+### Top 3 ativo
+
+1. Lógika Creative
+2. Saúde São Sebastião / Câmara / SINDSS
+3. Estudos + produtividade pessoal
+
+### Cards em andamento
+
+| Card | Frente | Próxima ação mínima | Fonte |
+|---|---|---|---|
+| MC-001 — Placar semanal de execução | Mission Control | Usar como tela semanal | `placar-semanal-execucao.md` |
+| LOG-001 — Placar único Lógika | Lógika Creative | Consolidar gargalos e pendências críticas | relatório COO 2026-07-16 |
+| SAU-001 — Rotina diária Saúde com cronogramas | Saúde São Sebastião | Aplicar matriz de captação nas pautas diárias | matriz Saúde 2026-07-17 |
+
+### Próximos cards prontos
+
+- LOG-002 — CRM/Base Leads e Clientes.
+- LOG-003 — Calendário editorial Lógika.
+- SAU-002 — Registro planejado vs publicado.
+- CAM-001 — Checklist Câmara.
+- SIN-001 — Calendário SINDSS.
+- EST-001 — Estudo principal da semana.
+
+---
+
+## 4. Produção de Conteúdo — Pipeline Integrado
+
+### Pipeline padrão
+
+1. Ideia
+2. Pesquisa/referência
+3. Roteiro
+4. Captação/gravação
+5. Edição
+6. Aprovação
+7. Publicação
+8. Reaproveitamento
+9. Métrica/aprendizado
+
+### Frentes de conteúdo detectadas
+
+| Frente | Tipo de conteúdo provável | Fonte |
+|---|---|---|
+| Lógika Creative | Bastidores, autoridade, vendas, portfólio, institucional | `[F1] 5-Frentes/Logika-Creative/` |
+| Saúde São Sebastião | Campanhas, educação em saúde, informativos, unidades e serviços | `[F1] 5-Frentes/Saude-Sao-Sebastiao/` |
+| Câmara Municipal | Sessões, projetos, agenda legislativa, prestação de contas | `[F1] 5-Frentes/Camara-Municipal/` |
+| SINDSS | Informativos sindicais, comunicados, depoimentos, identidade institucional | `[F1] 5-Frentes/SINDSS/` |
+| Além da Foto | Documentário, história local, bastidores, entrevistas | `[F1] 5-Frentes/Alem-da-Foto/` |
+| Lives Louvor Reflexão | Conteúdo gospel, lives, cortes, reflexões | `[F1] 5-Frentes/Lives-Louvor-Reflexao/` |
+| YouTube/canais autorais | Conteúdo autoral e audiência | `[F3] PROJETOS/03_PROJETOS/02_Midia_Conteudo_Audiencia/YouTube e canais autorais/` |
+
+---
+
+## 5. Agentes / Ecossistema
+
+### Coordenação macro
+
+| Agente | Função | Quando acionar | Fonte |
+|---|---|---|---|
+| Lôh | Orquestração Tier 0 | Decisão, síntese, roteamento, comando e integração entre frentes | `SOUL.md`, `CONSTITUICAO.md` |
+| Jarvis | General local da LÓGIKA/empresa | Triagem operacional da agência, clientes, comercial e produção | `[F2] agentes/ARQUITETURA-AGENTES.md` |
+| Alfred | General local da Central Pessoal | Organização pessoal, estudos, rotina, projetos pessoais | `[F2] agentes/ARQUITETURA-AGENTES.md`, `[F2] memory/agents/central-pessoal/alfred-secretario-pessoal.md` |
+
+### Lógika C-Level Squad
+
+| Agente | Domínio | Uso no Mission Control | Fonte |
+|---|---|---|---|
+| COO | Operações & Scaling | Processos, prazos, capacidade, dashboards | `[F2] agentes/logika-c-level-squad/logika-coo-operacoes.md` |
+| CRO | Receita & Vendas | Comercial, prospecção, funil, WhatsApp, clientes | `[F2] agentes/logika-c-level-squad/logika-cro-receita.md` |
+| CMO | Marketing & Brand | Calendário, marca, conteúdo, performance | `[F2] agentes/logika-c-level-squad/logika-cmo-marketing.md` |
+| CCO | Criação & Audiovisual | Roteiro, produção de vídeo, assets criativos | `[F2] agentes/logika-c-level-squad/logika-cco-criacao.md` |
+| CFO | Finanças & Caixa | Custos, margem, caixa, auditoria | `[F2] agentes/logika-c-level-squad/logika-cfo-financas.md` |
+| CAIO | IA & Automação | Arquitetura de agentes, automações, inteligência operacional | `[F2] agentes/logika-c-level-squad/logika-caio-ia.md` |
+| CTO | Tecnologia & Software | Infra, integrações, bots, segurança técnica | `[F2] agentes/logika-c-level-squad/logika-cto-tecnologia.md` |
+| CIO | Governança & Compliance | Dados, acesso, compliance, organização documental | `[F2] agentes/logika-c-level-squad/logika-cio-governanca.md` |
+
+### Central pessoal
+
+| Agente | Domínio | Uso no Mission Control | Fonte |
+|---|---|---|---|
+| Alfred | Secretário/General pessoal | Rotina, prioridades pessoais, triagem | `[F2] memory/agents/central-pessoal/alfred-secretario-pessoal.md` |
+| Albert | Estudos | Trilhas, cursos, aprendizagem aplicada | `[F2] memory/agents/central-pessoal/albert-estudos.md` |
+| My Finance | Finanças pessoais | Organização financeira e prioridades materiais | `[F2] agentes/central-pessoal/my-finance.md` |
+| Saúde/Corpo/Energia | Saúde pessoal | Energia, corpo, cuidados e constância | `[F2] agentes/central-pessoal/saude-corpo-energia.md` |
+| Espiritualidade/Propósitos | Propósito e espiritualidade | Coerência de vida e decisões pessoais | `[F2] agentes/central-pessoal/espiritualidade-propositos.md` |
+
+---
+
+## 6. Vida / Produtividade Pessoal
+
+### Blocos detectados
+
+| Área | Fonte | Uso recomendado no cockpit |
+|---|---|---|
+| Finanças pessoais | `[F3] PROJETOS/01_PESSOAL/01_Financas_Pessoais/` | Mostrar apenas prioridade/resumo, não detalhes sensíveis por padrão |
+| Casa, família e base de vida | `[F3] PROJETOS/01_PESSOAL/02_Casa_Familia_Base_de_Vida/` | Acompanhar projetos domésticos e familiares |
+| Saúde, corpo e energia | `[F3] PROJETOS/01_PESSOAL/03_Saude_Corpo_Energia/` | Acompanhar cuidados importantes |
+| Espiritualidade, propósito e lazer | `[F3] PROJETOS/01_PESSOAL/04_Espiritualidade_Proposito_Lazer/` | Manter direção e equilíbrio |
+| Governança pessoal | `[F3] PROJETOS/01_PESSOAL/05_Governanca_Pessoal/` | Revisão das áreas da vida |
+
+---
+
+## 7. Decisões Recentes
+
+| Data | Decisão | Fonte |
+|---|---|---|
+| 2026-07-19 | Mission Control será tudo integrado, começando simples | `[F2] memory/projects/mission-control/2026-07-19-prd-mission-control-integrado.md` |
+| 2026-07-19 | Gestão de projetos deve seguir Mapa 360 e não os 92 projetos soltos antigos | `[F3] PROJETOS/00_LEIA-ME_MAPA_360.md` |
+| 2026-07-19 | MVP documental do Mission Control populado com frentes reais do Cofre | `[F2] memory/visualizations/dashboards/mission-control.md` |
+
+---
+
+## 8. Top 3 da Semana — confirmado por Jadielson
+
+> Confirmado por Jadielson em 2026-07-19: “isso. prossiga”.
+
+1. **Lógika Creative** — estruturar operação, conteúdo e clientes.
+2. **Saúde São Sebastião / Câmara / SINDSS** — organizar frentes institucionais ativas.
+3. **Estudos + produtividade pessoal** — manter energia e capacidade de execução.
+
+### Ordem operacional da Lôh
+
+- **Primeiro:** Lógika Creative, porque é o eixo de negócio e pode organizar clientes, produção e receita.
+- **Segundo:** Saúde/Câmara/SINDSS, porque são frentes institucionais com entrega recorrente e risco de atraso.
+- **Terceiro:** Estudos + produtividade, porque sustenta energia, método e capacidade de execução sem virar sobrecarga.
+
+---
+
+## 9. Arquitetura Visual Futura — proposta inicial
+
+### Tela 1 — Cockpit Geral
+
+- Hoje
+- Semana
+- Top 3 prioridades
+- Alertas
+- Aguardando Jadielson
+
+### Tela 2 — Operação Lógika
+
+- Clientes/frentes
+- Produção de vídeo
+- comercial
+- financeiro
+- calendário editorial
+
+### Tela 3 — Conteúdo
+
+- Pipeline por frente
+- ideias
+- roteiros
+- gravações
+- publicações
+
+### Tela 4 — Projetos 360
+
+- pessoal
+- profissional
+- autoral
+- trabalho
+
+### Tela 5 — Agentes
+
+- Lôh
+- Jarvis
+- Alfred
+- C-Level Squad
+- Central Pessoal
+
+### Tela 6 — Decisões e Memória
+
+- decisões recentes
+- próximos passos
+- links internos do Cofre
+
+---
+
+## 10. Próximas Ações da Lôh
+
+- [x] Criar arquivo de backlog estruturado do Mission Control.
+- [x] Criar template de card operacional.
+- [x] Criar placar semanal com cards reais por frente.
+- [ ] Fazer varredura mais profunda dos arquivos de cada frente prioritária.
+- [ ] Preparar proposta do dashboard visual web.
+- [ ] Se autorizado depois, iniciar protótipo técnico fora do Cofre ou em pasta apropriada, respeitando que no Cofre só entra `.md`.
