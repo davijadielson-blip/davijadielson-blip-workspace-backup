@@ -1,0 +1,184 @@
+# Backlog Inteligente — Mapa 360 com todos os 92 itens classificados v1
+
+**Data:** 2026-07-18 23:55 UTC  
+**Origem:** Telegram `ESTUDOS`, tópico `Backlog Inteligente`.  
+**Pedido:** Jadielson perguntou se a classificação simples anterior continha todos os 92 itens. Correção: a resposta anterior classificou apenas exemplos; este arquivo classifica todos os itens da captura.
+
+## Observação
+
+- A lista bruta tem 92 entradas de status, mas contém duplicidades e sobreposições.
+- Aqui, nada foi apagado: os itens foram agrupados e alguns aparecem como duplicidade/subprojeto do mesmo guarda-chuva.
+
+---
+
+# PESSOAL
+
+## Saúde e bem-estar
+- ALIMENTAÇÃO — DIETAS (NUTRI GESSY)
+- FAZER PLANO DE SAÚDE
+- FAZER PLANO DE SAÚDE PARA A FAMÍLIA
+- CONCLUIR CANAIS E IMPLANTES DOS DENTES (Propósitos)
+- CONCLUIR CANAIS E IMPLANTES DOS MEUS DENTES
+- DELEGAR OPERAÇÕES DE SAÚDE
+- DESENVOLVIMENTO DAS SAÚDES
+- METAS DE SAÚDE E BEM-ESTAR
+- METAS PESSOAIS — 90KG
+
+## Família e relações próximas
+- FAMÍLIA — VISITAR FAMILIARES
+- VISITAR REGULARMENTE MEUS FAMILIARES
+- VISITAR REGULARMENTE MEUS FAMILIARES (Propósitos)
+- COMPRAR MOTO PARA ALÍCIA ESPOSA
+- TROCAR CELULAR DA MINHA MÃE
+
+## Casa, moradia e patrimônio pessoal
+- CASA — MORADIA
+- MORADIA
+- MANUTENCAO, REFORMA E AMPLIACAO DA CASA
+- REFORMAR CASA — MANUTENÇÕES
+- ORGANIZAR SALA
+- PLANEJAR INTERIORES DA SALA
+- CONCLUIR REFORMA E CONTABILIDADE DA CASA DA MINHA MÃE
+- REFORMA DA CASA - MARIA DAVI
+- REFORMA DA CASA DA MÃE
+
+## Finanças pessoais e aquisições
+- VOLTAR A FAZER INVESTIMENTOS PESSOAIS E EMPRESARIAIS
+- APRIMORAR A EDUCAÇÃO FINANCEIRA
+- APRIMORAR A EDUCAÇÃO FINANCEIRA (Propósitos)
+- PLANEJAMENTO FINANCEIRO PESSOAL
+- Me libertar das Dívidas e comprar a VISTA
+- QUITACAO - BUSCAR MANEIRA DE QUITAR AS DIVIDAS
+- QUITAR CASA
+- QUITAR DÍVIDAS E CASA PRÓPRIA
+- NOÇÃO DE GASTOS E DESPESAS
+- DEFINIR ORÇAMENTO E META PARA COMPRAS
+- DEFINIR ORÇAMENTO E META PARA COMPRAS (Propósitos)
+- PROCURAR USAR E COMPRAR MAIS A VISTA DE PREFERENCIA COM O DINHEIRO EM ESPÉCIE
+- MULTIPLICAR RENDA
+- MULTIPLICAR RENDA (Pessoal)
+- AQUISIÇÕES PESSOAIS — CARRO NOVO
+- COMPRAR UM CARRO NOVO E MODERNO
+- TROCAR CARRO POR UM NOVO
+- TROCAR MOTO POR UMA NOVA
+
+## Espiritualidade e rotina pessoal
+- IGREJA — ESPIRITUALIDADE
+- VOLTAR À ESCOLA DOMINICAL E CULTOS
+- PRODUTIVIDADE
+- CHECAR-ANALISAR O PROGRESSO-EVOLUÇÃO DAS ÁREAS DA VIDA
+- ELIMINAR O QUE NÃO É INTERESSANTE
+
+---
+
+# PROFISSIONAL
+
+## Carreira, imagem e posicionamento
+- CARREIRA E POSICIONAMENTO PESSOAL
+- CARREIRA E POSICIONAMENTO PROFISSIONAL
+- IMAGEM PESSOAL
+- INVESTIR NA IMAGEM PESSOAL (Propósitos)
+- INVESTIR NA IMAGEM PESSOAL - roupas e acessórios
+- FOTOS E POSICIONAMENTO
+- PROJETOS PROFISSIONAIS
+- MINHA CARREIRA — CANAL NO YOUTUBE
+
+## Estudos e habilidades
+- ACELERAR A LEITURA — FAST READ
+- APRENDER INGLÊS E ESPANHOL
+- APRENDER INGLÊS E ESPANHOL (Pessoal)
+- ESTUDOS DE MÚSICA
+- MANTER UMA VIDA DE ESTUDOS PERMANENTE
+- METAS DE APRENDIZADO E EDUCAÇÃO
+- MENTORIAS
+
+---
+
+# TRABALHO
+
+## Operação LÓGIKA e obrigações profissionais
+- CALENDÁRIO EDITORIAL LÓGIKA
+- FICHAS DE INTERESSE
+- PLANO DE CRESCIMENTO LÓGIKA
+- TRANSFORMAR A LÓGIKA EM NEGÓCIO LUCRATIVO
+- PRODUTORA DE VÍDEO
+- PRODUTORA DE VÍDEO (Pessoal)
+- PRODUTORA DE VÍDEO — ESTRUTURAR LÓGIKA FILMS
+- VENDAS ONLINE
+
+## Parcerias e estrutura de trabalho
+- ESTUDO PARCERIA LOGIKA - PAPO DE VISAO
+- PARCERIA COM ALEX
+- PARCERIA COM FREELANCER
+- Calcular investimentos em equipamentos e na empresa
+
+---
+
+# PROJETOS
+
+## Projetos audiovisuais / autorais
+- DOCUMENTÁRIO O FIO DA MEMÓRIA
+- O FIO DA MEMÓRIA - DOCUMENTÁRIO (Frentes)
+- ENTRE TEMPOS
+- ENTRE TEMPOS - Video Clipe
+- IDEIA DE SÉRIE DOCUMENTAL SOBRE PESCADOR
+- Formar equipe e Elenco para produção de projetos culturais
+
+### Sugestão de subprojetos
+- `O Fio da Memória - DOCUMENTÁRIO (Frentes)` parece duplicidade/subprojeto de `DOCUMENTÁRIO O FIO DA MEMÓRIA`.
+- `ENTRE TEMPOS - Video Clipe` é subprojeto de `ENTRE TEMPOS`.
+
+## Projetos de conteúdo / produtos
+- CRIAR CANAL NO YOUTUBE
+- GANHAR DINHEIRO COM CANAL NO YOUTUBE
+- GANHAR DINHEIRO COM O YOUTUBE
+- CRIAÇÃO DE CURSOS ONLINE
+- ESTÚDIO DE PODCAST
+- ESTÚDIO DE PODCAST - QUESTÃO DE LÓGICA
+- PENSAR NO ESTÚDIO DE PODCAST
+
+### Sugestão de subprojetos
+- `GANHAR DINHEIRO COM CANAL NO YOUTUBE`, `GANHAR DINHEIRO COM O YOUTUBE` e `MINHA CARREIRA — CANAL NO YOUTUBE` podem ficar sob `CRIAR CANAL NO YOUTUBE`.
+- `ESTÚDIO DE PODCAST - QUESTÃO DE LÓGICA` e `PENSAR NO ESTÚDIO DE PODCAST` podem ficar sob `ESTÚDIO DE PODCAST`.
+- `CRIAÇÃO DE CURSOS ONLINE` pode ser projeto próprio ou subprojeto do ecossistema YouTube/autoridade.
+
+## Projetos empresariais
+- CRIAR UM NEGOCIO DE AUTOMACOES DE ATENDIMENTO PELO ZAP
+- ECO - ESTRATÉGIA DE COMUNICAÇÃO OTIMIZADA (SUGESTAO DE NOME
+- LÓGIKA CODE — REBRANDING
+
+### Sugestão de subprojetos
+- `LÓGIKA CODE — REBRANDING`, `ECO` e `automações pelo Zap` podem ser subprojetos de `TRANSFORMAR A LÓGIKA EM NEGÓCIO LUCRATIVO`, caso sejam ofertas/estruturas da empresa.
+
+## Projetos filantrópicos
+- FILANTROPIA (pessoal)
+- FILANTROPIA - INSTITUTO MD
+- FILANTROPIA E INSTITUTO MD
+
+### Sugestão de subprojetos
+- `FILANTROPIA (pessoal)` pode ser subprojeto/hábito de `FILANTROPIA - INSTITUTO MD`, se a intenção for estruturar.
+- `FILANTROPIA E INSTITUTO MD` parece duplicidade/guarda-chuva do mesmo tema.
+
+## Projetos patrimoniais / estruturais
+- CASA — MORADIA
+- MORADIA
+- MANUTENCAO, REFORMA E AMPLIACAO DA CASA
+- REFORMAR CASA — MANUTENÇÕES
+- ORGANIZAR SALA
+- PLANEJAR INTERIORES DA SALA
+- REFORMA DA CASA - MARIA DAVI
+- REFORMA DA CASA DA MÃE
+- CONCLUIR REFORMA E CONTABILIDADE DA CASA DA MINHA MÃE
+- AQUISIÇÕES PESSOAIS — CARRO NOVO
+- COMPRAR UM CARRO NOVO E MODERNO
+- TROCAR CARRO POR UM NOVO
+- TROCAR MOTO POR UMA NOVA
+
+### Sugestão de subprojetos
+- `MORADIA`, `REFORMAR CASA — MANUTENÇÕES`, `ORGANIZAR SALA`, `PLANEJAR INTERIORES DA SALA` podem ser subprojetos de `CASA — MORADIA`.
+- `REFORMA DA CASA - MARIA DAVI`, `REFORMA DA CASA DA MÃE`, `CONCLUIR REFORMA E CONTABILIDADE DA CASA DA MINHA MÃE` parecem o mesmo projeto.
+- `AQUISIÇÕES PESSOAIS — CARRO NOVO`, `COMPRAR UM CARRO NOVO E MODERNO`, `TROCAR CARRO POR UM NOVO` parecem o mesmo projeto.
+
+## Fonte
+
+Cofre: `CONSTITUICAO.md`, `backlog-inteligente-projetos-captura-2026-07-18.md`, `backlog-inteligente-mapa-360-agrupado-v2-2026-07-18.md`.
