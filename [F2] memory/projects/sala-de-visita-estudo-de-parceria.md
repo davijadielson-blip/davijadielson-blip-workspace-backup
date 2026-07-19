@@ -2,87 +2,177 @@
 
 > Registro de continuidade do tópico Telegram `PROJETOS / 🎙️ Sala de Visita — Estudo de Parceria`.
 > Criado em: 2026-07-19
+> Atualizado em: 2026-07-19
 > Método: Backlog Inteligente
+
+## FONTES LOCALIZADAS NO COFRE
+
+Arquivos principais já existentes:
+- `/data/.openclaw/workspace/[F3] PROJETOS/A INICIAR/ESTUDO PARCERIA LOGIKA - PAPO DE VISAO/ESTUDO-PARCERIA-LOGIKA-SALA-DE-VISITA.md`
+- `/data/.openclaw/workspace/[F3] PROJETOS/A INICIAR/ESTUDO PARCERIA LOGIKA - PAPO DE VISAO/PROPOSTA-PATROCINIO-SALA-DE-VISITA.md`
+- `/data/.openclaw/workspace/[F2] vaults/segundo-cerebro-jadielson/[F2] memory/2026-06-18.md`
+- `/data/.openclaw/workspace/MEMORY.md` — tópico Telegram 151 registrado
+
+Observação: `memory_search` estava indisponível por erro de embeddings/API key; a recuperação foi feita por fallback obrigatório com `find`, `grep` e `read`.
 
 ## NORTE
 
-Resultado final: concluir um estudo de parceria para o projeto “Sala de Visita”, com decisão clara sobre viabilidade, formato da parceria, próximos responsáveis e critérios mínimos para iniciar ou descartar a parceria. *(a confirmar)*
+Resultado final: decidir e preparar uma parceria entre Logika Creative × Sala de Visita, com modelo operacional, financeiro e comercial claro, protegendo a capacidade da Logika e transformando o podcast em vitrine/ativo local.
 
-Critério de concluído: existe um documento/briefing simples com objetivo da parceria, possíveis parceiros, proposta de valor, riscos, contrapartidas, próximos passos e decisão final. *(a confirmar)*
+Critério de concluído:
+- modelo de parceria validado ou descartado;
+- termos financeiros revisados;
+- responsabilidades da Logika e do Sala de Visita definidas;
+- pacote comercial de patrocínio revisado;
+- checklist operacional mínimo pronto;
+- roteiro de conversa com criadores do Sala de Visita pronto;
+- decisão final de avançar ou não para piloto.
 
-## MAPA
+## CONTEXTO JÁ PESQUISADO
 
-1. Definir o objetivo da parceria.
-2. Levantar parceiros possíveis.
-3. Organizar proposta de valor e contrapartidas.
-4. Avaliar viabilidade, riscos e encaixe.
-5. Definir recomendação e próximos passos.
-6. Preparar abordagem/mensagem para parceiro escolhido.
+### Sala de Visita
+- Podcast/videocast local de São Sebastião, AL.
+- Instagram: `@podcast_sala_de_visita`.
+- Antes chamado/informado como “Papo de Visão”.
+- Canal YouTube temporário: `FALE TUDO SE PUDER`; ideia é ter canal próprio.
+- Plataformas planejadas: YouTube, Spotify e Instagram.
+- Convidados analisados: personagens locais — pastor, sindicalista, socorrista/SAMU, cuidadora, cultura popular/forró.
+- Views atuais registradas: 78–148 por episódio.
+- Já existem patrocinadores, mas sem valor/pacote definido: cada um dá “o que quer”.
+- Diferencial: histórias reais de gente comum que faz São Sebastião acontecer.
 
-## ONDE ESTAMOS
+### Logika Creative
+- Agência audiovisual de Jadielson Davi em São Sebastião, AL.
+- Pode oferecer sala de gravação, edição, distribuição, cortes, estratégia, thumbnails/descrições e profissionalização audiovisual.
+- Ganhos esperados: vitrine, portfólio, leads, networking local, novo produto/serviço de podcast.
 
-Fase atual: abertura e estruturação inicial.
+## MODELO DE PARCERIA PROPOSTO
 
-Já foi feito:
-- O tópico foi definido como um projeto dedicado.
-- O método de gestão escolhido é Backlog Inteligente.
+### Fase 1 — Barter / Prova de Conceito
+Duração sugerida: 1 a 3 meses / 3 episódios-piloto.
 
-Em aberto:
-- Confirmar qual é exatamente o projeto “Sala de Visita”.
-- Confirmar qual tipo de parceria será estudada.
-- Levantar nomes de parceiros, objetivo, prazos e materiais existentes.
+Logika entrega:
+- sala para gravação;
+- edição completa para YouTube;
+- 3 cortes estratégicos por episódio para Instagram;
+- distribuição em YouTube + Spotify;
+- storytelling/roteiro dos cortes;
+- thumbnail e descrição otimizada.
 
-## BACKLOG FATIADO
+Sala de Visita entrega:
+- selo “Realização Logika Creative”;
+- insert de 15s apresentando a Logika;
+- posts marcando/agradecendo a Logika;
+- menção verbal em todos os episódios;
+- autorização para Logika usar conteúdo como portfólio.
 
-### Fase 1 — Definir objetivo da parceria
+Investimento financeiro: R$ 0,00 na fase inicial.
 
-- [ ] Escrever em uma frase o objetivo da parceria.
-  - O quê: declarar para que a parceria existe.
-  - Quando: agora / primeira etapa.
-  - Como: completar a frase: “Queremos parceria para ______ porque ______.”
+### Fase 2 — Monetização
+Atenção: modelo 50/50 com gatilho de 500 views foi considerado inviável pelo CFO.
 
-- [ ] Definir critério de sucesso.
-  - O quê: dizer como saberemos que a parceria vale a pena.
-  - Quando: antes de falar com parceiros.
-  - Como: listar 2–3 sinais objetivos de sucesso.
+Sugestão revisada:
+- revenue share 50/50 só quando receita bruta mensal ultrapassar R$ 3.000;
+- abaixo disso, Logika fica com 70% até cobrir custos de produção;
+- patrocínios prospectados ativamente pela Logika: 70% Logika / 30% podcast;
+- patrocínios trazidos pelo podcast: 50/50.
 
-### Fase 2 — Levantar possíveis parceiros
+## PACOTES DE PATROCÍNIO JÁ CRIADOS
 
-- [ ] Listar parceiros candidatos.
-  - O quê: nomes de pessoas, instituições, marcas ou organizações possíveis.
-  - Quando: após objetivo definido.
-  - Como: fazer lista bruta, sem filtrar demais.
+- Bronze: R$ 250/mês.
+- Prata: R$ 600/mês.
+- Ouro: R$ 1.200/mês.
+- Master: R$ 4.500/trimestre.
 
-- [ ] Separar parceiros por prioridade.
-  - O quê: classificar em A/B/C.
-  - Quando: depois da lista bruta.
-  - Como: usar critérios de encaixe, acesso e impacto.
+Regra comercial: cota única por segmento.
 
-### Fase 3 — Proposta de valor e contrapartidas
+Lista de prospecção prioritária:
+- comércio local;
+- profissionais liberais;
+- empresas estabelecidas;
+- pré-candidatos;
+- órgãos públicos/associações;
+- mídias locais.
 
-- [ ] Listar o que o Sala de Visita oferece.
-- [ ] Listar o que o projeto precisa receber.
-- [ ] Montar uma proposta simples de troca.
+## PARECER DO CONSELHO DE IA JÁ REGISTRADO
 
-### Fase 4 — Avaliação
+- CMO: favorável com condições — proteger marca e padrão de qualidade.
+- CRO: favorável — leads são o ganho real; rastrear desde o dia 1.
+- COO: cautela — operação pode consumir 7,5 a 13h/semana.
+- CFO: contra os termos financeiros atuais — custo estimado ~R$ 850/episódio; 500 views é insuficiente.
+- CCO: recomenda com condições — transformação amador → profissional é o grande valor; precisa rebranding e padrão audiovisual.
 
-- [ ] Mapear riscos.
-- [ ] Mapear dependências.
-- [ ] Decidir se vale abordar o parceiro agora.
+Consenso: parceria tem valor estratégico, mas precisa contrato claro, período de teste, processos e revisão financeira.
 
-### Fase 5 — Abordagem
+## BACKLOG INTELIGENTE ATUALIZADO
 
-- [ ] Escrever mensagem curta de convite/conversa.
-- [ ] Definir canal de contato.
-- [ ] Fazer contato inicial.
+### Fase 1 — Recuperar e validar o estudo existente
+- [x] Localizar arquivos já salvos no Cofre.
+- [x] Confirmar que já existe estudo completo e proposta comercial.
+- [ ] Revisar o estudo antigo e marcar o que continua válido.
+- [ ] Separar o que é decisão, hipótese e pendência.
+
+### Fase 2 — Fechar decisão de modelo
+- [ ] Definir duração do piloto: 1 mês, 3 episódios ou 3 meses.
+- [ ] Confirmar entregas mínimas da Logika.
+- [ ] Confirmar contrapartidas obrigatórias do Sala de Visita.
+- [ ] Definir gatilho financeiro realista para revenue share.
+
+### Fase 3 — Preparar conversa com criadores
+- [ ] Montar pauta de reunião.
+- [ ] Criar resumo de 1 página da proposta.
+- [ ] Criar lista de perguntas para os criadores.
+- [ ] Definir proposta de piloto.
+
+### Fase 4 — Preparar operação do piloto
+- [ ] Criar checklist de episódio.
+- [ ] Criar fluxo de gravação → edição → aprovação → publicação → cortes.
+- [ ] Definir tempo máximo semanal que a Logika pode dedicar.
+- [ ] Definir padrão mínimo audiovisual.
+
+### Fase 5 — Preparar monetização
+- [ ] Revisar pacotes Bronze/Prata/Ouro/Master.
+- [ ] Levantar patrocinadores atuais e valores/contribuições.
+- [ ] Criar abordagem para migrar apoiadores atuais para pacote definido.
+- [ ] Criar lista de prospects por segmento.
+
+## GRADE DE PAUTAS DIÁRIAS
+
+Arquivo criado para execução diária:
+- `/data/.openclaw/workspace/[F3] PROJETOS/A INICIAR/ESTUDO PARCERIA LOGIKA - PAPO DE VISAO/GRADE-DE-PAUTAS-SALA-DE-VISITA.md`
+
+A grade transforma as fases do backlog em 20 pautas pequenas, escolhíveis diariamente:
+
+1. Separar o que já está válido.
+2. Separar o que precisa revisar.
+3. Separar o que precisa confirmar com o Sala de Visita.
+4. Resumir o estudo em 1 página.
+5. Definir duração do piloto.
+6. Listar entregas mínimas da Logika.
+7. Listar contrapartidas obrigatórias do Sala de Visita.
+8. Revisar modelo financeiro.
+9. Montar pauta da reunião.
+10. Criar perguntas de validação.
+11. Escrever proposta verbal de 2 minutos.
+12. Definir decisão esperada da reunião.
+13. Criar checklist de episódio.
+14. Definir fluxo de aprovação.
+15. Definir limite semanal da Logika.
+16. Definir padrão mínimo audiovisual.
+17. Revisar pacotes Bronze/Prata/Ouro/Master.
+18. Levantar patrocinadores atuais.
+19. Criar mensagem para migrar apoiadores atuais.
+20. Criar lista de prospects por segmento.
 
 ## PRÓXIMA AÇÃO
 
-Microtarefa imediata: escrever a frase-base do objetivo da parceria: “Queremos estudar uma parceria para o Sala de Visita com foco em ______, buscando ______.”
+Microtarefa imediata: executar a **Pauta 01 — Separar o que já está válido**, gerando uma lista com 5 pontos válidos do estudo antigo.
 
 ## CRITÉRIO DE AVANÇO
 
-A etapa inicial avança quando houver:
-- objetivo em uma frase;
-- 1 critério mínimo de sucesso;
-- pelo menos 3 possíveis parceiros ou 1 parceiro principal identificado.
+A etapa atual avança quando tivermos uma pauta de reunião com:
+- objetivo da conversa;
+- modelo de piloto;
+- entregas da Logika;
+- contrapartidas do podcast;
+- 5 perguntas para validar viabilidade.
