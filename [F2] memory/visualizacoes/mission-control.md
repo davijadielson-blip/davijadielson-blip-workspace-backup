@@ -50,3 +50,37 @@
 - Conteúdo operacional concentrado em `DATA`.
 - Foco de teclado visível nos botões do mapa.
 - Layout responsivo com grids que colapsam no celular.
+
+## Versão 2.0.0 — App editável
+
+### Caminho do app
+`/data/.openclaw/mission-control-next/`
+
+### Como rodar
+```bash
+cd /data/.openclaw/mission-control-next
+npm run dev
+```
+Abrir no navegador: `http://127.0.0.1:4174`
+
+### Fonte persistente editável
+`/data/.openclaw/workspace/[F2] memory/visualizacoes/mission-control-data.md`
+
+### Changelog
+- 2.0.0 — Mission Control virou app editável: botão Editar painel, campos editáveis, botão Salvar no Cofre, API local `/api/mission-control`, persistência em Markdown e design com tokens visuais cinema orange & teal.
+
+### Arquitetura de otimização
+- UI lê `initialData` do servidor.
+- API lê/escreve somente Markdown no Cofre.
+- Conteúdo operacional fica no JSON dentro de `mission-control-data.md`.
+- Mudanças visuais ficam concentradas em tokens CSS no topo de `globals.css`.
+- Próximas melhorias devem referenciar seções por id: `#header`, `#mapa`, `#frentes`, etc.
+
+### Teste
+- `npm run build` executado com sucesso em 2026-07-20.
+
+## Acesso externo temporário — 2026-07-20
+- Problema: `127.0.0.1` só abre dentro do servidor; no celular de Jadielson não acessa.
+- Correção operacional: app reiniciado em `0.0.0.0:4174` com autenticação básica e túnel temporário via localtunnel.
+- URL temporária: `https://mission-control-jadielson.loca.lt`
+- Observação: túnel é sessão temporária; se cair, pedir à Lôh para reacender o Mission Control.
