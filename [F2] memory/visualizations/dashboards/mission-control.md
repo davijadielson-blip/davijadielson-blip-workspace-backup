@@ -1,7 +1,7 @@
 # 🚀 Mission Control — Jadielson / Lôh
 
-**Status:** Mission Control v1.9 com smoke test de produção local  
-**Última atualização:** 2026-07-20 02:49 UTC  
+**Status:** Mission Control v2.0 rodando em produção local controlada  
+**Última atualização:** 2026-07-20 02:52 UTC  
 **Fonte de verdade:** Cofre `/data/.openclaw/workspace/`  
 **Direção aprovada:** Tudo integrado, começando simples.
 
@@ -544,6 +544,32 @@ Basic Auth opcional para deploy privado/controlado.
 ### Registro técnico
 
 `[F2] memory/projects/mission-control/web/2026-07-20-smoke-prod-local-v19.md`
+
+---
+
+## 3R. Mission Control v2.0 — Produção local controlada
+
+**Status:** rodando e testado.
+
+### URL local
+
+`http://127.0.0.1:4174`
+
+### Segurança
+
+- Basic Auth ativado.
+- Acesso sem senha retorna `401`.
+- Token e senha não foram salvos no Cofre.
+
+### Testes
+
+- Build: OK.
+- Smoke autenticado: OK.
+- `/api/logika-crm`: OK.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-producao-local-controlada-v20.md`
 
 ---
 
