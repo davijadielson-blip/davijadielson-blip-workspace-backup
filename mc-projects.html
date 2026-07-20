@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🧠 Mission Control — Jadielson Davi</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #0f172a; color: #e2e8f0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; min-height: 100vh; }
+
+    /* Header */
+    .header { background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border-bottom: 1px solid #334155; padding: 14px 24px; display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+    .header-brand { display: flex; align-items: center; gap: 12px; }
+    .header-brand .logo { font-size: 1.5rem; }
+    .header-brand h1 { font-size: 1.15rem; font-weight: 700; color: #f8fafc; letter-spacing: -0.02em; }
+    .header-brand .sub { font-size: 0.72rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.08em; }
+    .header-status { margin-left: auto; display: flex; align-items: center; gap: 16px; }
+    .status-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+    .status-dot.online { background: #22c55e; box-shadow: 0 0 6px #22c55e88; }
+    .header-date { color: #94a3b8; font-size: 0.82rem; }
+    .foco-badge { background: #1e3a5f; border: 1px solid #3b82f6; border-radius: 20px; padding: 4px 14px; font-size: 0.78rem; color: #93c5fd; display: flex; align-items: center; gap: 6px; }
+
+    /* Tabs */
+    .tabs { background: #1e293b; border-bottom: 1px solid #334155; display: flex; overflow-x: auto; padding: 0 16px; gap: 2px; }
+    .tab { padding: 12px 20px; font-size: 0.85rem; font-weight: 500; color: #94a3b8; cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.15s; white-space: nowrap; user-select: none; }
+    .tab:hover { color: #e2e8f0; background: #1e293b; }
+    .tab.active { color: #60a5fa; border-bottom-color: #3b82f6; background: #0f172a; }
+
+    /* Content */
+    .tab-content { display: none; padding: 20px; max-width: 1400px; margin: 0 auto; }
+    .tab-content.active { display: block; }
+
+    /* Grid */
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+    .grid-2-1 { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; }
+    .grid-1-2 { display: grid; grid-template-columns: 1fr 2fr; gap: 16px; }
+    @media (max-width: 900px) { .grid-2, .grid-3, .grid-4, .grid-2-1, .grid-1-2 { grid-template-columns: 1fr; } }
+
+    /* Cards */
+    .card { background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 16px; }
+    .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
+    .card-header h3 { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: #64748b; font-weight: 600; }
+    .card-header .badge { font-size: 0.7rem; padding: 2px 10px; border-radius: 12px; font-weight: 600; }
+    .badge-blue { background: #1e3a5f; color: #93c5fd; }
+    .badge-green { background: #0f2417; color: #4ade80; }
+    .badge-red { background: #3b1a1a; color: #f87171; }
+    .badge-yellow { background: #2a2410; color: #fbbf24; }
+    .badge-purple { background: #2a1a3b; color: #c4a5f9; }
+
+    /* Metrics */
+    .metric { padding: 4px 0; }
+    .metric .value { font-size: 1.4rem; font-weight: 700; color: #f8fafc; line-height: 1.3; }
+    .metric .label { font-size: 0.75rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; }
+    .metric .change { font-size: 0.75rem; margin-top: 2px; }
+    .metric .change.up { color: #4ade80; }
+    .metric .change.down { color: #f87171; }
+
+    /* Progress bar */
+    .progress-bar { background: #334155; border-radius: 4px; height: 6px; margin-top: 8px; overflow: hidden; }
+    .progress-fill { height: 100%; border-radius: 4px; transition: width 0.3s; }
+    .progress-fill.blue { background: #3b82f6; }
+    .progress-fill.green { background: #22c55e; }
+    .progress-fill.red { background: #ef4444; }
+    .progress-fill.purple { background: #a855f7; }
+    .progress-fill.yellow { background: #eab308; }
+
+    /* Lists */
+    .item-list { list-style: none; }
+    .item-list li { padding: 8px 0; border-bottom: 1px solid #1e293b; font-size: 0.85rem; display: flex; align-items: center; gap: 8px; }
+    .item-list li:last-child { border-bottom: none; }
+    .item-list .tag { font-size: 0.65rem; padding: 2px 8px; border-radius: 4px; font-weight: 600; text-transform: uppercase; }
+    .tag-critical { background: #3b1a1a; color: #f87171; }
+    .tag-warning { background: #2a2410; color: #fbbf24; }
+    .tag-info { background: #1e3a5f; color: #93c5fd; }
+    .tag-success { background: #0f2417; color: #4ade80; }
+    .tag-agent { background: #2a1a3b; color: #c4a5f9; }
+
+    /* Kanban columns */
+    .kanban { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+    @media (max-width: 1000px) { .kanban { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 600px) { .kanban { grid-template-columns: 1fr; } }
+    .kanban-col { background: #0f172a; border-radius: 8px; padding: 10px; min-height: 200px; }
+    .kanban-col h4 { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; color: #64748b; margin-bottom: 10px; padding-bottom: 8px; border-bottom: 1px solid #1e293b; display: flex; justify-content: space-between; }
+    .kanban-col h4 .count { color: #94a3b8; }
+    .kanban-card { background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 10px 12px; margin-bottom: 8px; font-size: 0.82rem; cursor: default; }
+    .kanban-card .title { font-weight: 600; color: #e2e8f0; margin-bottom: 4px; }
+    .kanban-card .meta { display: flex; gap: 6px; flex-wrap: wrap; font-size: 0.7rem; }
+    .kanban-card .priority { width: 6px; height: 6px; border-radius: 50%; display: inline-block; margin-right: 4px; }
+    .priority-high { background: #ef4444; }
+    .priority-mid { background: #eab308; }
+    .priority-low { background: #22c55e; }
+
+    /* Agent card */
+    .agent-card { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid #1e293b; }
+    .agent-card:last-child { border-bottom: none; }
+    .agent-avatar { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 1rem; }
+    .agent-info { flex: 1; }
+    .agent-info .name { font-size: 0.85rem; font-weight: 600; color: #e2e8f0; }
+    .agent-info .role { font-size: 0.72rem; color: #64748b; }
+    .agent-status { font-size: 0.7rem; padding: 2px 8px; border-radius: 4px; }
+    .agent-status.active { background: #0f2417; color: #4ade80; }
+    .agent-status.idle { background: #1e293b; color: #94a3b8; }
+    .agent-status.working { background: #1e3a5f; color: #93c5fd; }
+
+    /* Report */
+    .report-item { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #1e293b; font-size: 0.85rem; }
+    .report-item:last-child { border-bottom: none; }
+    .report-item .label { color: #94a3b8; }
+    .report-item .value { font-weight: 600; color: #e2e8f0; }
+
+    /* Footer */
+    .footer-note { text-align: center; color: #334155; font-size: 0.7rem; padding: 16px; border-top: 1px solid #1e293b; margin-top: 20px; }
+
+    /* Inline agenda */
+    .agenda-item { display: flex; gap: 10px; padding: 6px 0; border-bottom: 1px solid #1e293b; font-size: 0.82rem; }
+    .agenda-item:last-child { border-bottom: none; }
+    .agenda-time { color: #64748b; font-size: 0.75rem; min-width: 48px; }
+    .agenda-desc { color: #e2e8f0; flex: 1; }
+
+    /* Bloco horário */
+    .bloco { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border-radius: 8px; margin-bottom: 4px; font-size: 0.82rem; }
+    .bloco-done { background: #0f2417; color: #4ade80; }
+    .bloco-now { background: #1d3a6e; color: #93c5fd; border: 1px solid #3b82f6; font-weight: 600; }
+    .bloco-next { background: #1e293b; color: #94a3b8; }
+    .bloco .time { margin-left: auto; font-size: 0.75rem; color: #64748b; }
+
+    /* Table */
+    .data-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+    .data-table th { text-align: left; padding: 8px 10px; color: #64748b; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid #334155; }
+    .data-table td { padding: 8px 10px; border-bottom: 1px solid #1e293b; }
+    .data-table tr:last-child td { border-bottom: none; }
+  </style>
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<div class="header">
+  <div class="header-brand">
+    <span class="logo">🧠</span>
+    <div>
+      <h1>Mission Control</h1><span style="font-size:0.8rem;color:#60a5fa;margin-left:8px">· 📁 Projetos</span>
+      <div class="sub">Jadielson Davi · Orquestradora Lôh</div>
+    </div>
+  </div>
+  <div class="foco-badge">🎯 Foco de hoje: <strong>Revisão de projetos</strong></div>
+  <div class="header-status">
+    <span class="status-dot online"></span>
+    <span style="font-size:0.8rem;color:#4ade80">Sistema operacional</span>
+    <span class="header-date" id="headerDate">—</span>
+  </div>
+</div>
+
+<!-- ===== TABS ===== -->
+<div class="tabs" id="tabNav">
+  <div class="tab" data-tab="overview">📊 Visão Geral</div>
+  <div class="tab" data-tab="tasks">📋 Tarefas</div>
+  <div class="tab active" data-tab="projects">📁 Projetos</div>
+  <div class="tab" data-tab="agents">🤖 Agentes</div>
+  <div class="tab" data-tab="alerts">⚠️ Alertas</div>
+  <div class="tab" data-tab="report">📈 Relatório</div>
+</div>
+
+<!-- ============================================================ -->
+<!-- TAB: VISÃO GERAL -->
+<!-- ============================================================ -->
+<div class="tab-content" id="tab-overview">
+  <div class="grid-2" style="margin-bottom:16px">
+    <!-- Blocos do dia -->
+    <div class="card">
+      <div class="card-header"><h3>🕐 HOJE — Blocos</h3></div>
+      <div class="bloco bloco-done">✅ 🌅 Despertar<span class="time">06h00–07h40</span></div>
+      <div class="bloco bloco-done">✅ 🔵 Elite<span class="time">07h40–11h30</span></div>
+      <div class="bloco bloco-done">✅ 🍽️ Almoço<span class="time">11h30–13h00</span></div>
+      <div class="bloco bloco-now">🔄 🟥 Tático<span class="time">13h00–18h00</span></div>
+      <div class="bloco bloco-next">⏳ 🌙 Ancoragem<span class="time">18h00–21h00</span></div>
+      <div class="bloco bloco-next">⏳ 😴 Sono<span class="time">21h00–00h00</span></div>
+    </div>
+    <!-- Agenda -->
+    <div class="card">
+      <div class="card-header"><h3>📅 Agenda de hoje</h3></div>
+      <div class="agenda-item"><span class="agenda-time">14h00</span><span class="agenda-desc">Revisão semanal com Alfred</span></div>
+      <div class="agenda-item"><span class="agenda-time">15h30</span><span class="agenda-desc">Briefing conteúdo — LÓGIKA</span></div>
+      <div class="agenda-item"><span class="agenda-time">17h00</span><span class="agenda-desc">Check-in projetos com Lôh</span></div>
+      <div class="agenda-item"><span class="agenda-time">19h00</span><span class="agenda-desc">📝 Ancoragem — planejar amanhã</span></div>
+    </div>
+  </div>
+
+  <!-- Métricas rápidas -->
+  <div class="grid-4" style="margin-bottom:16px">
+    <div class="card">
+      <div class="metric">
+        <div class="label">💰 Receita Potencial (mês)</div>
+        <div class="value">R$ 4.800</div>
+        <div class="change up">↑ 12% vs. mês passado</div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="metric">
+        <div class="label">✅ Tarefas hoje</div>
+        <div class="value">5 / 12</div>
+        <div class="progress-bar"><div class="progress-fill blue" style="width:42%"></div></div>
+        <div class="change" style="font-size:0.75rem;color:#94a3b8;margin-top:4px">42% concluído</div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="metric">
+        <div class="label">⏱️ Horas trabalhadas (semana)</div>
+        <div class="value">14h</div>
+        <div class="label" style="font-size:0.7rem;margin-top:2px">Meta: 20h</div>
+        <div class="progress-bar"><div class="progress-fill green" style="width:70%"></div></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="metric">
+        <div class="label">🚀 Projetos ativos</div>
+        <div class="value">3 / 3</div>
+        <div class="change up">✅ Limite ok</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-2-1">
+    <!-- Mini Kanban -->
+    <div class="card">
+      <div class="card-header"><h3>📋 Task Board (resumo)</h3></div>
+      <div class="kanban">
+        <div class="kanban-col">
+          <h4>📥 Backlog <span class="count">5</span></h4>
+          <div class="kanban-card"><div class="title">Revisar contratos</div><div class="meta"><span class="tag tag-info">Pendente</span></div></div>
+          <div class="kanban-card"><div class="title">Proposta novo cliente</div><div class="meta"><span class="tag tag-info">Pendente</span></div></div>
+        </div>
+        <div class="kanban-col">
+          <h4>🎯 A Fazer <span class="count">4</span></h4>
+          <div class="kanban-card"><div class="title">Briefing MKT</div><div class="meta"><span class="tag tag-warning">Hoje</span></div></div>
+          <div class="kanban-card"><div class="title">Editar vídeo</div><div class="meta"><span class="tag tag-info">Alfred</span></div></div>
+        </div>
+        <div class="kanban-col">
+          <h4>🔄 Fazendo <span class="count">3</span></h4>
+          <div class="kanban-card"><div class="title">Roteiro LÓGIKA</div><div class="meta"><span class="tag tag-agent">Jarvis</span></div></div>
+          <div class="kanban-card"><div class="title">Análise métricas</div><div class="meta"><span class="tag tag-agent">Alfred</span></div></div>
+        </div>
+        <div class="kanban-col">
+          <h4>✅ Feito <span class="count">5</span></h4>
+          <div class="kanban-card"><div class="title" style="color:#4ade80">Reunião com equipe</div></div>
+          <div class="kanban-card"><div class="title" style="color:#4ade80">Revisão Instagram</div></div>
+        </div>
+      </div>
+    </div>
+    <!-- Alertas rápidos -->
+    <div class="card">
+      <div class="card-header"><h3>⚠️ Alertas ativos</h3><span class="badge badge-red">2 urgentes</span></div>
+      <ul class="item-list">
+        <li><span class="tag tag-critical">CRÍTICO</span> Job de extração falhou</li>
+        <li><span class="tag tag-warning">ATENÇÃO</span> Prazo relatório semanal amanhã</li>
+        <li><span class="tag tag-info">INFO</span> 3 tarefas paradas há 3+ dias</li>
+      </ul>
+      <div class="card-header" style="margin-top:16px"><h3>🤖 Agentes rodando agora</h3></div>
+      <div class="agent-card">
+        <div class="agent-avatar" style="background:#1e3a5f">🤖</div>
+        <div class="agent-info"><div class="name">Alfred</div><div class="role">Head de Operações</div></div>
+        <span class="agent-status working">analisando</span>
+      </div>
+      <div class="agent-card">
+        <div class="agent-avatar" style="background:#2a1a3b">🧠</div>
+        <div class="agent-info"><div class="name">Jarvis</div><div class="role">Head Criativo</div></div>
+        <span class="agent-status working">escrevendo</span>
+      </div>
+      <div class="agent-card">
+        <div class="agent-avatar" style="background:#0f2417">⚡</div>
+        <div class="agent-info"><div class="name">Lôh</div><div class="role">Orquestradora</div></div>
+        <span class="agent-status active">🟢 ativa</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- TAB: TAREFAS (KANBAN COMPLETO) -->
+<!-- ============================================================ -->
+<div class="tab-content" id="tab-tasks">
+  <div class="card" style="margin-bottom:16px">
+    <div class="card-header">
+      <h3>📋 Kanban Completo</h3>
+      <div style="display:flex;gap:8px;font-size:0.75rem">
+        <span style="color:#94a3b8">Filtrar:</span>
+        <span style="color:#60a5fa;cursor:pointer">Todos</span>
+        <span style="color:#94a3b8;cursor:pointer">Projetos</span>
+        <span style="color:#94a3b8;cursor:pointer">Conteúdo</span>
+        <span style="color:#94a3b8;cursor:pointer">Agentes</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="kanban">
+    <!-- Coluna 1: Backlog -->
+    <div class="kanban-col" style="background:#1e293b">
+      <h4>📥 Backlog <span class="count">7</span></h4>
+      <div class="kanban-card">
+        <div class="title">Revisar contratos de serviço</div>
+        <div class="meta"><span class="tag tag-info">Jurídico</span> <span style="color:#64748b">· 5 dias</span></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Proposta comercial — novo cliente</div>
+        <div class="meta"><span class="tag tag-info">Comercial</span> <span class="priority"><span class="priority-high"></span></span></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Template de orçamento</div>
+        <div class="meta"><span class="tag tag-info">Operacional</span></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Pesquisa concorrência Instagram</div>
+        <div class="meta"><span class="tag tag-info">MKT</span></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Organizar drive de assets</div>
+        <div class="meta"><span class="tag tag-info">Organização</span></div>
+      </div>
+    </div>
+
+    <!-- Coluna 2: A Fazer -->
+    <div class="kanban-col" style="background:#1e293b">
+      <h4>🎯 A Fazer <span class="count">4</span></h4>
+      <div class="kanban-card">
+        <div class="title">Briefing de marketing — LÓGIKA</div>
+        <div class="meta"><span class="tag tag-warning">Hoje</span> <span class="priority"><span class="priority-high"></span></span> <span style="color:#64748b">· Jadielson</span></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Editar vídeo institucional</div>
+        <div class="meta"><span class="tag tag-info">Alfred</span> <span style="color:#64748b">· 3 dias</span></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Responder e-mails pendentes</div>
+        <div class="meta"><span class="priority"><span class="priority-mid"></span></span> <span style="color:#64748b">· Jadielson</span></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Revisar calendário de posts</div>
+        <div class="meta"><span class="tag tag-info">Jarvis</span></div>
+      </div>
+    </div>
+
+    <!-- Coluna 3: Fazendo -->
+    <div class="kanban-col" style="background:#1e293b">
+      <h4>🔄 Fazendo <span class="count">3</span></h4>
+      <div class="kanban-card">
+        <div class="title">Roteiro para vídeo LÓGIKA</div>
+        <div class="meta"><span class="tag tag-agent">Jarvis</span> <span style="color:#64748b">· 60%</span></div>
+        <div class="progress-bar"><div class="progress-fill purple" style="width:60%"></div></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Análise de métricas semanais</div>
+        <div class="meta"><span class="tag tag-agent">Alfred</span> <span style="color:#64748b">· 30%</span></div>
+        <div class="progress-bar"><div class="progress-fill blue" style="width:30%"></div></div>
+      </div>
+      <div class="kanban-card">
+        <div class="title">Organizar F3 PROJETOS</div>
+        <div class="meta"><span class="tag tag-agent">Lôh</span> <span style="color:#64748b">· em andamento</span></div>
+      </div>
+    </div>
+
+    <!-- Coluna 4: Feito -->
+    <div class="kanban-col" style="background:#1e293b">
+      <h4>✅ Concluído (hoje) <span class="count">5</span></h4>
+      <div class="kanban-card"><div class="title" style="color:#4ade80">✅ Reunião com equipe — 10h</div></div>
+      <div class="kanban-card"><div class="title" style="color:#4ade80">✅ Revisão Instagram — stories</div></div>
+      <div class="kanban-card"><div class="title" style="color:#4ade80">✅ Feedback para Alfred</div></div>
+      <div class="kanban-card"><div class="title" style="color:#4ade80">✅ Backup do workspace</div></div>
+      <div class="kanban-card"><div class="title" style="color:#4ade80">✅ Compras material escritório</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- TAB: PROJETOS -->
+<!-- ============================================================ -->
+<div class="tab-content active" id="tab-projects">
+  <div class="grid-2" style="margin-bottom:16px">
+    <div class="card">
+      <div class="card-header"><h3>🚀 Projetos em andamento</h3><span class="badge badge-green">3 ativos</span></div>
+      <!-- Projeto 1 -->
+      <div style="padding:12px 0;border-bottom:1px solid #334155">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+          <span style="font-weight:600;color:#e2e8f0">📹 LÓGIKA — Conteúdo Semanal</span>
+          <span class="tag tag-success">65%</span>
+        </div>
+        <div style="font-size:0.78rem;color:#94a3b8">Frente: Agência · Fase: Produção · Próximo marco: 22/07</div>
+        <div class="progress-bar"><div class="progress-fill green" style="width:65%"></div></div>
+        <div style="font-size:0.75rem;color:#f87171;margin-top:4px">⚠️ Bloqueio: Aprovação de roteiro pendente</div>
+      </div>
+      <!-- Projeto 2 -->
+      <div style="padding:12px 0;border-bottom:1px solid #334155">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+          <span style="font-weight:600;color:#e2e8f0">🏗️ Mission Control — Painel</span>
+          <span class="tag tag-warning">30%</span>
+        </div>
+        <div style="font-size:0.78rem;color:#94a3b8">Frente: Interno · Fase: Mockup · Próximo marco: 25/07</div>
+        <div class="progress-bar"><div class="progress-fill yellow" style="width:30%"></div></div>
+        <div style="font-size:0.75rem;color:#22c55e;margin-top:4px">✅ Dentro do prazo</div>
+      </div>
+      <!-- Projeto 3 -->
+      <div style="padding:12px 0">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+          <span style="font-weight:600;color:#e2e8f0">📱 Instagram — Reels Orgânicos</span>
+          <span class="tag tag-info">45%</span>
+        </div>
+        <div style="font-size:0.78rem;color:#94a3b8">Frente: MKT · Fase: Produção · Próximo marco: 21/07</div>
+        <div class="progress-bar"><div class="progress-fill blue" style="width:45%"></div></div>
+        <div style="font-size:0.75rem;color:#22c55e;margin-top:4px">✅ Dentro do prazo</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header"><h3>🟡 Próximos a iniciar</h3><span class="badge badge-yellow">2 standby</span></div>
+      <div style="padding:10px 0;border-bottom:1px solid #334155">
+        <div style="font-weight:600;color:#e2e8f0;font-size:0.9rem">📄 Site institucional LÓGIKA</div>
+        <div style="font-size:0.78rem;color:#94a3b8">Frente: Agência · Prioridade: Média</div>
+      </div>
+      <div style="padding:10px 0">
+        <div style="font-weight:600;color:#e2e8f0;font-size:0.9rem">🎬 Portfólio de serviços</div>
+        <div style="font-size:0.78rem;color:#94a3b8">Frente: Comercial · Prioridade: Baixa</div>
+      </div>
+
+      <div class="card-header" style="margin-top:16px"><h3>📁 Acesso rápido</h3></div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px">
+        <span class="tag tag-info" style="cursor:pointer;font-size:0.78rem;padding:4px 12px">📂 [F3] PROJETOS</span>
+        <span class="tag tag-info" style="cursor:pointer;font-size:0.78rem;padding:4px 12px">📂 [F1] 5-Frentes</span>
+        <span class="tag tag-info" style="cursor:pointer;font-size:0.78rem;padding:4px 12px">📂 [F2] memory/projects</span>
+        <span class="tag tag-info" style="cursor:pointer;font-size:0.78rem;padding:4px 12px">📂 COCKPIT.md</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- TAB: AGENTES -->
+<!-- ============================================================ -->
+<div class="tab-content" id="tab-agents">
+  <div class="grid-2-1">
+    <div class="card">
+      <div class="card-header"><h3>🤖 Agentes do Ecossistema</h3><span class="badge badge-purple">3 ativos agora</span></div>
+      <table class="data-table">
+        <thead>
+          <tr><th>Agente</th><th>Tier</th><th>Função</th><th>Status</th><th>Ocupação</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="font-weight:600">🟣 Lôh</td>
+            <td>Tier 0</td>
+            <td style="color:#94a3b8">Orquestradora Estratégica</td>
+            <td><span class="agent-status active">🟢 ativa</span></td>
+            <td style="color:#4ade80">Coordenando</td>
+          </tr>
+          <tr>
+            <td style="font-weight:600">🤖 Alfred</td>
+            <td>Coord.</td>
+            <td style="color:#94a3b8">Head de Operações</td>
+            <td><span class="agent-status working">🔵 trabalhando</span></td>
+            <td style="color:#93c5fd">Análise métricas</td>
+          </tr>
+          <tr>
+            <td style="font-weight:600">🧠 Jarvis</td>
+            <td>Coord.</td>
+            <td style="color:#94a3b8">Head Criativo</td>
+            <td><span class="agent-status working">🔵 trabalhando</span></td>
+            <td style="color:#93c5fd">Escrevendo roteiro</td>
+          </tr>
+          <tr>
+            <td style="font-weight:600">📊 CAIO</td>
+            <td>C-Level</td>
+            <td style="color:#94a3b8">Inovação & Estratégia</td>
+            <td><span class="agent-status idle">⚪ ocioso</span></td>
+            <td style="color:#64748b">—</td>
+          </tr>
+          <tr>
+            <td style="font-weight:600">📈 CRO</td>
+            <td>C-Level</td>
+            <td style="color:#94a3b8">Receita & Resultados</td>
+            <td><span class="agent-status idle">⚪ ocioso</span></td>
+            <td style="color:#64748b">—</td>
+          </tr>
+          <tr>
+            <td style="font-weight:600">🎨 CCO</td>
+            <td>C-Level</td>
+            <td style="color:#94a3b8">Criação & Conteúdo</td>
+            <td><span class="agent-status idle">⚪ ocioso</span></td>
+            <td style="color:#64748b">—</td>
+          </tr>
+          <tr>
+            <td style="font-weight:600">📣 CMO</td>
+            <td>C-Level</td>
+            <td style="color:#94a3b8">Marketing & Growth</td>
+            <td><span class="agent-status idle">⚪ ocioso</span></td>
+            <td style="color:#64748b">—</td>
+          </tr>
+          <tr>
+            <td style="font-weight:600">⚙️ COO</td>
+            <td>C-Level</td>
+            <td style="color:#94a3b8">Operações</td>
+            <td><span class="agent-status idle">⚪ ocioso</span></td>
+            <td style="color:#64748b">—</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <div class="card-header"><h3>📊 Ocupação</h3></div>
+      <div style="text-align:center;padding:16px 0">
+        <div style="font-size:2.5rem;font-weight:700;color:#f8fafc">3 / 10</div>
+        <div style="font-size:0.8rem;color:#94a3b8">agentes ativos agora</div>
+        <div class="progress-bar" style="margin:12px 0"><div class="progress-fill blue" style="width:30%"></div></div>
+      </div>
+      <div style="font-size:0.78rem;color:#94a3b8;text-align:center">Capacidade total disponível: 70%</div>
+
+      <div class="card-header" style="margin-top:20px"><h3>🔗 Acionar agente</h3></div>
+      <div style="font-size:0.82rem;color:#94a3b8;padding:8px 0">Clique para comandar diretamente:</div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px">
+        <span class="tag tag-agent" style="cursor:pointer;padding:6px 14px;font-size:0.82rem">🤖 Alfred</span>
+        <span class="tag tag-agent" style="cursor:pointer;padding:6px 14px;font-size:0.82rem">🧠 Jarvis</span>
+        <span class="tag tag-agent" style="cursor:pointer;padding:6px 14px;font-size:0.82rem">📊 CAIO</span>
+        <span class="tag tag-agent" style="cursor:pointer;padding:6px 14px;font-size:0.82rem">📈 CRO</span>
+        <span class="tag tag-agent" style="cursor:pointer;padding:6px 14px;font-size:0.82rem">🎨 CCO</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- TAB: ALERTAS -->
+<!-- ============================================================ -->
+<div class="tab-content" id="tab-alerts">
+  <div class="grid-3" style="margin-bottom:16px">
+    <div class="card">
+      <div class="card-header"><h3>🔴 Críticas</h3><span class="badge badge-red">1</span></div>
+      <ul class="item-list">
+        <li>
+          <div style="display:flex;flex-direction:column;gap:2px;width:100%">
+            <div style="display:flex;justify-content:space-between">
+              <span style="font-weight:600;color:#f87171">Job de extração falhou</span>
+              <span style="font-size:0.7rem;color:#64748b">20/07</span>
+            </div>
+            <div style="font-size:0.75rem;color:#94a3b8">extracao-diaria-decisoes — erro de API. Reiniciar manualmente.</div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-header"><h3>🟡 Atenção</h3><span class="badge badge-yellow">3</span></div>
+      <ul class="item-list">
+        <li>
+          <div style="display:flex;flex-direction:column;gap:2px;width:100%">
+            <div style="display:flex;justify-content:space-between">
+              <span>Prazo relatório semanal</span>
+              <span style="font-size:0.7rem;color:#fbbf24">amanhã</span>
+            </div>
+            <div style="font-size:0.75rem;color:#94a3b8">Relatório da semana 20/07 pendente</div>
+          </div>
+        </li>
+        <li>
+          <div style="display:flex;flex-direction:column;gap:2px;width:100%">
+            <div style="display:flex;justify-content:space-between">
+              <span>3 tarefas paradas há 3+ dias</span>
+              <span style="font-size:0.7rem;color:#fbbf24">paradas</span>
+            </div>
+            <div style="font-size:0.75rem;color:#94a3b8">Backlog acumulando — revisar prioridades</div>
+          </div>
+        </li>
+        <li>
+          <div style="display:flex;flex-direction:column;gap:2px;width:100%">
+            <div style="display:flex;justify-content:space-between">
+              <span>Projeto LÓGIKA — roteiro pendente</span>
+              <span style="font-size:0.7rem;color:#fbbf24">bloqueado</span>
+            </div>
+            <div style="font-size:0.75rem;color:#94a3b8">Aguardando aprovação de Jadielson</div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-header"><h3>🔵 Rotina</h3><span class="badge badge-blue">2</span></div>
+      <ul class="item-list">
+        <li>
+          <div style="display:flex;flex-direction:column;gap:2px;width:100%">
+            <div>📝 Ancoragem do dia — 18h00</div>
+            <div style="font-size:0.75rem;color:#94a3b8">Planejar tarefas de amanhã</div>
+          </div>
+        </li>
+        <li>
+          <div style="display:flex;flex-direction:column;gap:2px;width:100%">
+            <div>📊 Briefing automático diário</div>
+            <div style="font-size:0.75rem;color:#94a3b8">Job roda às 06h (já executado hoje)</div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header"><h3>✅ Resolvidas hoje</h3><span class="badge badge-green">2</span></div>
+    <div style="display:flex;gap:12px;flex-wrap:wrap">
+      <div style="background:#0f2417;border:1px solid #166534;border-radius:8px;padding:8px 14px;font-size:0.82rem;color:#4ade80">✅ Backup do workspace concluído</div>
+      <div style="background:#0f2417;border:1px solid #166534;border-radius:8px;padding:8px 14px;font-size:0.82rem;color:#4ade80">✅ Revisão Instagram finalizada</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- TAB: RELATÓRIO SEMANAL -->
+<!-- ============================================================ -->
+<div class="tab-content" id="tab-report">
+  <div class="grid-2" style="margin-bottom:16px">
+    <div class="card">
+      <div class="card-header"><h3>📊 Consolidado da Semana</h3><span class="badge badge-blue">13 a 19 Jul</span></div>
+      <div class="report-item"><span class="label">✅ Tarefas concluídas</span><span class="value">18</span></div>
+      <div class="report-item"><span class="label">📁 Projetos avançados</span><span class="value">3 de 3</span></div>
+      <div class="report-item"><span class="label">📝 Conteúdos publicados</span><span class="value">4</span></div>
+      <div class="report-item"><span class="label">⏱️ Horas trabalhadas</span><span class="value">18h / 20h meta</span></div>
+      <div class="progress-bar"><div class="progress-fill green" style="width:90%"></div></div>
+      <div class="report-item" style="margin-top:8px"><span class="label">💵 Receita gerada (semana)</span><span class="value" style="color:#4ade80">R$ 1.200</span></div>
+      <div class="report-item"><span class="label">💵 Receita potencial (mês)</span><span class="value" style="color:#93c5fd">R$ 4.800</span></div>
+    </div>
+
+    <div class="card">
+      <div class="card-header"><h3>📉 O que não foi feito</h3><span class="badge badge-red">2 pendentes</span></div>
+      <ul class="item-list">
+        <li>
+          <div style="display:flex;flex-direction:column;gap:2px;width:100%">
+            <span style="color:#f87171">❌ Proposta comercial novo cliente</span>
+            <span style="font-size:0.75rem;color:#94a3b8">Escorregou para próxima semana — falta briefing</span>
+          </div>
+        </li>
+        <li>
+          <div style="display:flex;flex-direction:column;gap:2px;width:100%">
+            <span style="color:#f87171">❌ Organização do drive de assets</span>
+            <span style="font-size:0.75rem;color:#94a3b8">Não houve tempo — repriorizar</span>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-header"><h3>🎯 Prioridades da Próxima Semana</h3></div>
+      <ol style="padding-left:20px;font-size:0.85rem;color:#e2e8f0;line-height:2">
+        <li><strong>Lançar Mission Control</strong> — finalizar mockup e aprovar</li>
+        <li><strong>Produzir conteúdo LÓGIKA</strong> — 2 vídeos + 1 post</li>
+        <li><strong>Revisar contratos</strong> — pendência jurídica</li>
+        <li><strong>Organizar drive</strong> — assets e templates</li>
+        <li><strong>Briefing novo cliente</strong> — proposta comercial</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <div class="card-header"><h3>📈 Métricas da Semana</h3></div>
+      <div style="display:flex;flex-direction:column;gap:12px">
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:0.82rem">
+            <span style="color:#94a3b8">Taxa de conclusão</span>
+            <span style="font-weight:600">72%</span>
+          </div>
+          <div class="progress-bar"><div class="progress-fill blue" style="width:72%"></div></div>
+        </div>
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:0.82rem">
+            <span style="color:#94a3b8">Produtividade (h/dia)</span>
+            <span style="font-weight:600">3,6h</span>
+          </div>
+          <div class="progress-bar"><div class="progress-fill purple" style="width:60%"></div></div>
+        </div>
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:0.82rem">
+            <span style="color:#94a3b8">Conteúdos publicados / meta</span>
+            <span style="font-weight:600">4 / 5</span>
+          </div>
+          <div class="progress-bar"><div class="progress-fill yellow" style="width:80%"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== FOOTER ===== -->
+<div class="footer-note">
+  🧠 Mission Control — Fase 1 (Mockup) · Dados fictícios para aprovação de layout · Julho 2026
+</div>
+
+<script>
+  // Navegação por abas
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      tab.classList.add('active');
+      document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
+    });
+  });
+
+  // Data atual
+  const now = new Date();
+  const diasSemana = ['Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado'];
+  const meses = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
+  document.getElementById('headerDate').textContent =
+    `${diasSemana[now.getDay()]}, ${now.getDate()} de ${meses[now.getMonth()]} de ${now.getFullYear()}`;
+</script>
+
+</body>
+</html>
