@@ -7,7 +7,7 @@
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      background: #0a0c10;
+      background: #000000;
       color: #e8edf2;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
       min-height: 100vh;
@@ -17,8 +17,8 @@
 
     /* ========== HEADER ========== */
     .header {
-      background: #0d1117;
-      border-bottom: 1px solid #1e2530;
+      background: #050505;
+      border-bottom: 1px solid #141414;
       padding: 14px 28px;
       display: flex;
       align-items: center;
@@ -44,14 +44,10 @@
       letter-spacing: 0.08em;
       margin-top: 1px;
     }
-    .header-center {
-      flex: 1;
-      display: flex;
-      justify-content: center;
-    }
+    .header-center { flex: 1; display: flex; justify-content: center; }
     .search-filter {
-      background: #161c24;
-      border: 1px solid #28323e;
+      background: #080808;
+      border: 1px solid #181818;
       border-radius: 20px;
       padding: 6px 18px;
       font-size: 0.82rem;
@@ -61,7 +57,10 @@
       gap: 8px;
       max-width: 340px;
       width: 100%;
+      cursor: pointer;
+      transition: border-color 0.2s;
     }
+    .search-filter:hover { border-color: #3b82f6; }
     .search-filter .icon { color: #5a6a7a; font-size: 0.8rem; }
     .search-filter .text { color: #c8d0d8; font-weight: 500; }
     .search-filter .hint { color: #5a6a7a; margin-left: auto; font-size: 0.7rem; }
@@ -78,7 +77,7 @@
       display: flex;
       align-items: center;
       gap: 6px;
-      background: #0f1a14;
+      background: #050505;
       border: 1px solid #1a3a28;
       border-radius: 16px;
       padding: 3px 12px 3px 8px;
@@ -89,12 +88,14 @@
       width: 7px; height: 7px; border-radius: 50%;
       background: #22c55e;
       box-shadow: 0 0 6px #22c55e88;
+      animation: pulse 1.5s infinite;
     }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.5} }
 
     /* ========== TABS ========== */
     .tabs {
-      background: #0d1117;
-      border-bottom: 1px solid #1e2530;
+      background: #050505;
+      border-bottom: 1px solid #141414;
       display: flex;
       padding: 0 24px;
       gap: 0;
@@ -112,22 +113,12 @@
       user-select: none;
     }
     .tab:hover { color: #c8d0d8; }
-    .tab.active {
-      color: #60a5fa;
-      border-bottom-color: #3b82f6;
-    }
+    .tab.active { color: #60a5fa; border-bottom-color: #3b82f6; }
 
     /* ========== LAYOUT ========== */
-    .content {
-      flex: 1;
-      padding: 18px 24px;
-      max-width: 1440px;
-      margin: 0 auto;
-      width: 100%;
-    }
+    .content { flex: 1; padding: 18px 24px; max-width: 1440px; margin: 0 auto; width: 100%; }
     .tab-content { display: none; }
     .tab-content.active { display: block; }
-
     .row { display: grid; gap: 14px; margin-bottom: 14px; }
     .row-2 { grid-template-columns: 1fr 1fr; }
     .row-4 { grid-template-columns: repeat(4, 1fr); }
@@ -136,17 +127,17 @@
       .row-4 { grid-template-columns: repeat(2, 1fr); }
       .row-2-1 { grid-template-columns: 1fr; }
     }
-    @media (max-width: 700px) {
-      .row-2 { grid-template-columns: 1fr; }
-    }
+    @media (max-width: 700px) { .row-2 { grid-template-columns: 1fr; } }
 
     /* ========== CARDS ========== */
     .card {
-      background: #111820;
-      border: 1px solid #1e2835;
+      background: #080808;
+      border: 1px solid #181818;
       border-radius: 10px;
       padding: 14px 16px;
+      transition: border-color 0.2s;
     }
+    .card:hover { border-color: #282828; }
     .card-title {
       font-size: 0.68rem;
       text-transform: uppercase;
@@ -180,15 +171,12 @@
       border-radius: 6px;
       margin-bottom: 3px;
       font-size: 0.8rem;
+      transition: all 0.2s;
     }
     .bloco-done { background: #0c1f14; color: #4ade80; }
-    .bloco-now {
-      background: #0c1a30;
-      color: #93c5fd;
-      border: 1px solid #1a3a6a;
-      font-weight: 600;
-    }
+    .bloco-now { background: #0c1a30; color: #93c5fd; border: 1px solid #1a3a6a; font-weight: 600; }
     .bloco-next { color: #5a6a7a; }
+    .bloco-next:hover { color: #8a9aa8; }
     .bloco .time { margin-left: auto; font-size: 0.75rem; color: #5a6a7a; }
     .bloco-now .time { color: #6a8aaa; }
 
@@ -198,15 +186,14 @@
       gap: 10px;
       padding: 5px 0;
       font-size: 0.8rem;
+      cursor: default;
     }
+    .agenda-item:hover { color: #f0f4f8; }
     .agenda-time { color: #5a6a7a; min-width: 44px; font-size: 0.76rem; }
     .agenda-desc { color: #c8d0d8; flex: 1; }
 
-    /* ========== HOURS MINI ========== */
     .hours-mini {
-      margin-top: 10px;
-      padding-top: 10px;
-      border-top: 1px solid #18202a;
+      margin-top: 10px; padding-top: 10px; border-top: 1px solid #141414;
     }
     .hours-mini .label { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; color: #5a6a7a; }
     .hours-mini .value { font-size: 1.1rem; font-weight: 700; color: #e8edf2; }
@@ -215,28 +202,18 @@
 
     /* ========== PROGRESS BAR ========== */
     .bar { background: #1a2535; border-radius: 4px; height: 5px; overflow: hidden; }
-    .bar-fill { height: 100%; border-radius: 4px; }
-    .bar-blue { background: #3b82f6; }
-    .bar-green { background: #22c55e; }
-    .bar-orange { background: #fb923c; }
+    .bar-fill { height: 100%; border-radius: 4px; transition: width 0.5s ease; }
 
     /* ========== WIDGETS ========== */
     .widget .num { font-size: 1.6rem; font-weight: 700; color: #f0f4f8; line-height: 1.2; }
-    .widget .num-small { font-size: 1.2rem; }
     .widget .change { font-size: 0.72rem; margin-top: 2px; }
     .widget .change.up { color: #4ade80; }
     .widget .change .arrow { color: #4ade80; }
     .widget .meta { font-size: 0.7rem; color: #5a6a7a; margin-top: 3px; }
     .widget .bar { margin-top: 6px; }
     .widget .tag-result {
-      display: inline-block;
-      font-size: 0.7rem;
-      padding: 1px 8px;
-      border-radius: 4px;
-      background: #0c1f14;
-      color: #4ade80;
-      font-weight: 600;
-      margin-top: 3px;
+      display: inline-block; font-size: 0.7rem; padding: 1px 8px;
+      border-radius: 4px; background: #0c1f14; color: #4ade80; font-weight: 600; margin-top: 3px;
     }
 
     /* ========== KANBAN ========== */
@@ -244,43 +221,59 @@
     @media (max-width: 1000px) { .kanban { grid-template-columns: 1fr 1fr; } }
     @media (max-width: 600px) { .kanban { grid-template-columns: 1fr; } }
     .kanban-col {
-      background: #0a0c10;
+      background: #000000;
       border-radius: 6px;
       padding: 8px;
       min-height: 160px;
+      transition: background 0.2s;
     }
+    .kanban-col.drag-over { background: #0a0f1a; }
     .kanban-col h4 {
-      font-size: 0.65rem;
-      text-transform: uppercase;
-      letter-spacing: 0.07em;
-      color: #5a6a7a;
-      margin-bottom: 8px;
-      padding-bottom: 6px;
-      border-bottom: 1px solid #18202a;
-      display: flex;
-      justify-content: space-between;
+      font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.07em;
+      color: #5a6a7a; margin-bottom: 8px; padding-bottom: 6px;
+      border-bottom: 1px solid #141414;
+      display: flex; justify-content: space-between;
     }
     .kanban-col h4 .count { color: #6a7a8a; }
+
     .k-card {
-      background: #111820;
-      border: 1px solid #1e2835;
+      background: #080808;
+      border: 1px solid #181818;
       border-radius: 6px;
       padding: 8px 10px;
       margin-bottom: 6px;
       font-size: 0.78rem;
+      cursor: grab;
+      transition: all 0.15s;
+      user-select: none;
+    }
+    .k-card:hover {
+      border-color: #3b82f6;
+      background: #0c0c0c;
+    }
+    .k-card:active { cursor: grabbing; }
+    .k-card.dragging {
+      opacity: 0.4;
+      border-style: dashed;
     }
     .k-card .title { font-weight: 500; color: #d0d8e0; margin-bottom: 4px; }
     .k-card .meta { display: flex; gap: 4px; flex-wrap: wrap; font-size: 0.66rem; align-items: center; }
     .k-card .owner { color: #6a7a8a; }
     .k-card .bar { margin-top: 5px; }
     .k-card .bar-fill { height: 4px; }
+    .k-card .done { text-decoration: line-through; color: #4ade80; }
+    .k-card .check-btn {
+      cursor: pointer;
+      font-size: 0.7rem;
+      padding: 0 4px;
+      color: #5a6a7a;
+      transition: color 0.2s;
+    }
+    .k-card .check-btn:hover { color: #4ade80; }
 
     .tag {
-      font-size: 0.62rem;
-      padding: 1px 7px;
-      border-radius: 3px;
-      font-weight: 600;
-      display: inline-block;
+      font-size: 0.62rem; padding: 1px 7px; border-radius: 3px;
+      font-weight: 600; display: inline-block;
     }
     .tag-pend { background: #11223a; color: #93c5fd; }
     .tag-hoje { background: #221e0e; color: #fbbf24; }
@@ -289,58 +282,77 @@
     .tag-warning { background: #221e0e; color: #fbbf24; }
     .tag-info { background: #11223a; color: #93c5fd; }
 
+    /* ========== FILTERS ========== */
+    .filter-bar {
+      display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+    }
+    .filter-btn {
+      font-size: 0.7rem; padding: 3px 12px; border-radius: 12px;
+      border: 1px solid #181818; background: transparent; color: #6a7a8a;
+      cursor: pointer; transition: all 0.15s;
+    }
+    .filter-btn:hover { border-color: #3b82f6; color: #93c5fd; }
+    .filter-btn.active { background: #11223a; border-color: #3b82f6; color: #93c5fd; }
+
     /* ========== ALERT LIST ========== */
     .alert-item {
-      display: flex;
-      gap: 8px;
-      padding: 6px 0;
-      border-bottom: 1px solid #0a0c10;
-      font-size: 0.78rem;
-      align-items: center;
+      display: flex; gap: 8px; padding: 6px 0;
+      border-bottom: 1px solid #000000; font-size: 0.78rem; align-items: center;
     }
     .alert-item:last-child { border-bottom: none; }
 
-    /* ========== AGENT CARD ========== */
+    /* ========== AGENT ========== */
     .agent-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 6px 0;
+      display: flex; align-items: center; gap: 8px; padding: 6px 0;
+      cursor: pointer; transition: background 0.15s; border-radius: 6px; margin: 0 -4px; padding: 6px 4px;
     }
+    .agent-row:hover { background: #0a0a0a; }
     .agent-icon {
-      width: 28px; height: 28px;
-      border-radius: 6px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0.8rem;
-      background: #18202a;
+      width: 28px; height: 28px; border-radius: 6px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.8rem; background: #0f0f0f;
     }
     .agent-info { flex: 1; }
     .agent-info .name { font-size: 0.8rem; font-weight: 600; color: #c8d0d8; }
     .agent-info .role { font-size: 0.68rem; color: #5a6a7a; }
     .agent-status {
-      font-size: 0.68rem;
-      padding: 1px 8px;
-      border-radius: 4px;
-      font-weight: 500;
+      font-size: 0.68rem; padding: 1px 8px; border-radius: 4px; font-weight: 500;
     }
     .agent-status.working { background: #0c1a30; color: #93c5fd; }
     .agent-status.active { background: #0c1f14; color: #4ade80; }
+    .agent-status.idle { background: #0f0f0f; color: #5a6a7a; }
+
+    /* ========== TOAST ========== */
+    .toast-container {
+      position: fixed; bottom: 24px; right: 24px; z-index: 999;
+      display: flex; flex-direction: column; gap: 8px;
+    }
+    .toast {
+      background: #0a0a0a; border: 1px solid #282828; border-radius: 8px;
+      padding: 10px 16px; font-size: 0.78rem; color: #c8d0d8;
+      animation: slideIn 0.3s ease, fadeOut 0.3s ease 2.5s forwards;
+      max-width: 320px;
+    }
+    .toast.success { border-left: 3px solid #22c55e; }
+    .toast.info { border-left: 3px solid #3b82f6; }
+    .toast.warning { border-left: 3px solid #fbbf24; }
+    @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+    @keyframes fadeOut { to { opacity: 0; transform: translateY(10px); } }
+
+    /* ========== TABLE ========== */
+    .data-table { width: 100%; border-collapse: collapse; font-size: 0.78rem; }
+    .data-table th { text-align: left; padding: 6px 8px; color: #5a6a7a; font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid #1a1a1a; }
+    .data-table td { padding: 6px 8px; border-bottom: 1px solid #0f0f0f; }
 
     /* ========== SCROLLBAR ========== */
     ::-webkit-scrollbar { width: 6px; }
-    ::-webkit-scrollbar-track { background: #0a0c10; }
-    ::-webkit-scrollbar-thumb { background: #28323e; border-radius: 3px; }
-    ::-webkit-scrollbar-thumb:hover { background: #3a4a5a; }
+    ::-webkit-scrollbar-track { background: #000000; }
+    ::-webkit-scrollbar-thumb { background: #1a1a1a; border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #2a2a2a; }
 
     .footer {
-      text-align: center;
-      color: #1e2530;
-      font-size: 0.65rem;
-      padding: 12px;
-      border-top: 1px solid #0d1117;
-      margin-top: 10px;
+      text-align: center; color: #141414; font-size: 0.65rem;
+      padding: 12px; border-top: 1px solid #050505; margin-top: 10px;
     }
   </style>
 </head>
@@ -353,7 +365,7 @@
     <div class="subtitle">JADIELSON DAVI — ORQUESTRADORA LÔH</div>
   </div>
   <div class="header-center">
-    <div class="search-filter">
+    <div class="search-filter" onclick="showToast('🔍 Foco definido: Revisão de projetos', 'info')">
       <span class="icon">🔍</span>
       <span class="text">Foco de hoje: Revisão de projetos</span>
       <span class="hint">⌘K</span>
@@ -369,7 +381,7 @@
 </div>
 
 <!-- ===== TABS ===== -->
-<div class="tabs">
+<div class="tabs" id="tabNav">
   <div class="tab active" data-tab="overview">📊 Visão Geral</div>
   <div class="tab" data-tab="tasks">📋 Tarefas</div>
   <div class="tab" data-tab="projects">📁 Projetos</div>
@@ -382,7 +394,6 @@
 <div class="content">
 <div class="tab-content active" id="tab-overview">
 
-  <!-- Linha superior: Blocos + Agenda -->
   <div class="row row-2">
     <div class="card">
       <div class="card-title">🕐 HOJE — BLOCOS</div>
@@ -400,7 +411,6 @@
       <div class="agenda-item"><span class="agenda-time">15h30</span><span class="agenda-desc">Briefing conteúdo — LÓGIKA</span></div>
       <div class="agenda-item"><span class="agenda-time">17h00</span><span class="agenda-desc">Check-in projetos com Lôh</span></div>
       <div class="agenda-item"><span class="agenda-time">19h00</span><span class="agenda-desc">📝 Ancoragem — planejar amanhã</span></div>
-
       <div class="hours-mini">
         <div class="label">⏱ HORAS TRABALHADAS (SEMANA)</div>
         <div class="value">14h</div>
@@ -410,7 +420,6 @@
     </div>
   </div>
 
-  <!-- Linha de widgets -->
   <div class="row row-4">
     <div class="card widget">
       <div class="card-title">📊 EFICIÊNCIA OPERACIONAL (MÊS)</div>
@@ -419,14 +428,14 @@
     </div>
     <div class="card widget">
       <div class="card-title">✅ TAREFAS HOJE</div>
-      <div class="num">5 / 12</div>
-      <div class="bar"><div class="bar-fill bar-blue" style="width:42%"></div></div>
-      <div class="meta">42% concluído</div>
+      <div class="num" id="taskCountToday">5 / 12</div>
+      <div class="bar"><div class="bar-fill" id="taskBarToday" style="width:42%;background:#3b82f6"></div></div>
+      <div class="meta" id="taskPctToday">42% concluído</div>
     </div>
     <div class="card widget">
       <div class="card-title">⏱ CARGA DE TRABALHO (SEMANA)</div>
       <div class="num">14h</div>
-      <div class="bar"><div class="bar-fill bar-green" style="width:70%"></div></div>
+      <div class="bar"><div class="bar-fill" style="width:70%;background:#22c55e"></div></div>
       <div class="meta">META: 20h</div>
     </div>
     <div class="card widget">
@@ -436,86 +445,56 @@
     </div>
   </div>
 
-  <!-- Linha inferior: Task Board + Alertas -->
   <div class="row row-2-1">
     <div class="card">
-      <div class="card-title">📋 TASK BOARD (RESUMO)</div>
-      <div class="kanban">
-        <!-- BACKLOG -->
-        <div class="kanban-col">
-          <h4>📥 BACKLOG <span class="count">6</span></h4>
-          <div class="k-card">
-            <div class="title">Revisar contratos</div>
-            <div class="meta"><span class="tag tag-pend">Pendente</span></div>
-          </div>
-          <div class="k-card">
-            <div class="title">Proposta novo cliente</div>
-            <div class="meta"><span class="tag tag-pend">Pendente</span></div>
-          </div>
+      <div class="card-title">
+        <span>📋 TASK BOARD (RESUMO)</span>
+        <span class="badge badge-blue" style="font-size:0.6rem;cursor:pointer" onclick="switchTab('tasks')">Ver completo →</span>
+      </div>
+      <div class="kanban" id="kanbanOverview">
+        <div class="kanban-col" data-col="backlog">
+          <h4>📥 BACKLOG <span class="count" id="count-blog">6</span></h4>
+          <div class="k-card" draggable="true" data-id="b1"><div class="title">Revisar contratos</div><div class="meta"><span class="tag tag-pend">Pendente</span></div></div>
+          <div class="k-card" draggable="true" data-id="b2"><div class="title">Proposta novo cliente</div><div class="meta"><span class="tag tag-pend">Pendente</span></div></div>
         </div>
-        <!-- A FAZER -->
-        <div class="kanban-col">
-          <h4>🎯 A FAZER <span class="count">4</span></h4>
-          <div class="k-card">
-            <div class="title">Briefing MKT</div>
-            <div class="meta"><span class="tag tag-hoje">Hoje</span> <span class="owner">Alfred</span></div>
-          </div>
-          <div class="k-card">
-            <div class="title">Editar vídeo</div>
-            <div class="meta"><span class="owner">Alfred</span></div>
-          </div>
+        <div class="kanban-col" data-col="todo">
+          <h4>🎯 A FAZER <span class="count" id="count-todo">4</span></h4>
+          <div class="k-card" draggable="true" data-id="t1"><div class="title">Briefing MKT</div><div class="meta"><span class="tag tag-hoje">Hoje</span> <span class="owner">Alfred</span></div></div>
+          <div class="k-card" draggable="true" data-id="t2"><div class="title">Editar vídeo</div><div class="meta"><span class="owner">Alfred</span></div></div>
         </div>
-        <!-- FAZENDO -->
-        <div class="kanban-col">
-          <h4>🔄 FAZENDO <span class="count">5</span></h4>
-          <div class="k-card">
-            <div class="title">Roteiro LÓGIKA</div>
-            <div class="meta"><span class="owner">Jarvis</span></div>
-            <div class="bar"><div class="bar-fill bar-orange" style="width:40%"></div></div>
-          </div>
-          <div class="k-card">
-            <div class="title">Análise métricas</div>
-            <div class="meta"><span class="owner">Jarvis</span></div>
-            <div class="bar"><div class="bar-fill bar-green" style="width:70%"></div></div>
-          </div>
+        <div class="kanban-col" data-col="doing">
+          <h4>🔄 FAZENDO <span class="count" id="count-doing">5</span></h4>
+          <div class="k-card" draggable="true" data-id="d1"><div class="title">Roteiro LÓGIKA</div><div class="meta"><span class="owner">Jarvis</span></div><div class="bar"><div class="bar-fill" style="width:40%;background:#fb923c"></div></div></div>
+          <div class="k-card" draggable="true" data-id="d2"><div class="title">Análise métricas</div><div class="meta"><span class="owner">Jarvis</span></div><div class="bar"><div class="bar-fill" style="width:70%;background:#22c55e"></div></div></div>
         </div>
-        <!-- FEITO -->
-        <div class="kanban-col">
-          <h4>✅ FEITO <span class="count">5</span></h4>
-          <div class="k-card">
-            <div class="title" style="color:#4ade80">Reunião com equipe</div>
-            <div class="meta"><span class="tag tag-ok">OK</span></div>
-          </div>
-          <div class="k-card">
-            <div class="title" style="color:#4ade80">Revisão Instagram</div>
-            <div class="meta"><span class="tag tag-ok">OK</span></div>
-          </div>
+        <div class="kanban-col" data-col="done">
+          <h4>✅ FEITO <span class="count" id="count-done">5</span></h4>
+          <div class="k-card" draggable="true" data-id="f1"><div class="title" style="color:#4ade80">Reunião com equipe</div><div class="meta"><span class="tag tag-ok">OK</span></div></div>
+          <div class="k-card" draggable="true" data-id="f2"><div class="title" style="color:#4ade80">Revisão Instagram</div><div class="meta"><span class="tag tag-ok">OK</span></div></div>
         </div>
       </div>
     </div>
 
-    <!-- Painel direito: Alertas + Agentes -->
     <div>
       <div class="card" style="margin-bottom:12px">
         <div class="card-title">⚠️ ALERTAS ATIVOS <span class="badge badge-orange">2 urgentes</span></div>
-        <div class="alert-item"><span class="tag tag-critical">CRÍTICO</span> Job de extração falhou</div>
-        <div class="alert-item"><span class="tag tag-warning">ATENÇÃO</span> Prazo relatório semanal amanhã</div>
-        <div class="alert-item"><span class="tag tag-info">INFO</span> 3 tarefas paradas há 3+ dias</div>
+        <div class="alert-item" onclick="showToast('🔴 Job: extracao-diaria-decisoes falhou. Reiniciar manualmente.', 'warning')"><span class="tag tag-critical">CRÍTICO</span> Job de extração falhou</div>
+        <div class="alert-item" onclick="showToast('🟡 Prazo: Relatório semanal vence amanhã!', 'warning')"><span class="tag tag-warning">ATENÇÃO</span> Prazo relatório semanal amanhã</div>
+        <div class="alert-item" onclick="showToast('🔵 3 tarefas paradas há 3+ dias no backlog.', 'info')"><span class="tag tag-info">INFO</span> 3 tarefas paradas há 3+ dias</div>
       </div>
-
       <div class="card">
         <div class="card-title">🤖 AGENTES RODANDO AGORA</div>
-        <div class="agent-row">
+        <div class="agent-row" onclick="showToast('🎯 Acionando Alfred para análise de métricas', 'info')">
           <div class="agent-icon">👤</div>
           <div class="agent-info"><div class="name">Alfred</div><div class="role">Head de Operações</div></div>
           <span class="agent-status working">analisando</span>
         </div>
-        <div class="agent-row">
+        <div class="agent-row" onclick="showToast('🎯 Acionando Jarvis para escrita de roteiro', 'info')">
           <div class="agent-icon">👤</div>
           <div class="agent-info"><div class="name">Jarvis</div><div class="role">Head Criativo</div></div>
           <span class="agent-status working">escrevendo</span>
         </div>
-        <div class="agent-row">
+        <div class="agent-row" onclick="showToast('🟢 Lôh online e pronta para orquestrar', 'success')">
           <div class="agent-icon">⚡</div>
           <div class="agent-info"><div class="name">Lôh</div><div class="role">Orquestradora</div></div>
           <span class="agent-status active">Ativa</span>
@@ -528,37 +507,47 @@
 <!-- ======================== TAB: TAREFAS ======================== -->
 <div class="tab-content" id="tab-tasks">
   <div class="card" style="margin-bottom:12px">
-    <div class="card-title">📋 Kanban Completo</div>
+    <div class="card-title">
+      <span>📋 Kanban Completo</span>
+      <span class="badge badge-blue" style="font-size:0.6rem;cursor:pointer" onclick="resetBoard()">↺ Resetar</span>
+    </div>
+    <div class="filter-bar">
+      <span class="filter-btn active" data-filter="all">Todos</span>
+      <span class="filter-btn" data-filter="proj">Projetos</span>
+      <span class="filter-btn" data-filter="mkt">Conteúdo</span>
+      <span class="filter-btn" data-filter="alfred">Alfred</span>
+      <span class="filter-btn" data-filter="jarvis">Jarvis</span>
+    </div>
   </div>
-  <div class="kanban">
-    <div class="kanban-col" style="background:#111820">
-      <h4>📥 BACKLOG <span class="count">7</span></h4>
-      <div class="k-card"><div class="title">Revisar contratos de serviço</div><div class="meta"><span class="tag tag-pend">Jurídico</span></div></div>
-      <div class="k-card"><div class="title">Proposta comercial — novo cliente</div><div class="meta"><span class="tag tag-pend">Comercial</span></div></div>
-      <div class="k-card"><div class="title">Template de orçamento</div><div class="meta"><span class="tag tag-pend">Operacional</span></div></div>
-      <div class="k-card"><div class="title">Pesquisa concorrência Instagram</div><div class="meta"><span class="tag tag-pend">MKT</span></div></div>
-      <div class="k-card"><div class="title">Organizar drive de assets</div><div class="meta"><span class="tag tag-pend">Organização</span></div></div>
+  <div class="kanban" id="kanbanFull">
+    <div class="kanban-col" style="background:#050505" data-col="backlog">
+      <h4>📥 BACKLOG <span class="count" id="fcount-blog">7</span></h4>
+      <div class="k-card" draggable="true" data-id="fb1" data-tags="juridico"><div class="title">Revisar contratos de serviço</div><div class="meta"><span class="tag tag-pend">Jurídico</span></div></div>
+      <div class="k-card" draggable="true" data-id="fb2" data-tags="comercial"><div class="title">Proposta comercial — novo cliente</div><div class="meta"><span class="tag tag-pend">Comercial</span></div></div>
+      <div class="k-card" draggable="true" data-id="fb3" data-tags="operacional"><div class="title">Template de orçamento</div><div class="meta"><span class="tag tag-pend">Operacional</span></div></div>
+      <div class="k-card" draggable="true" data-id="fb4" data-tags="mkt"><div class="title">Pesquisa concorrência Instagram</div><div class="meta"><span class="tag tag-pend">MKT</span></div></div>
+      <div class="k-card" draggable="true" data-id="fb5" data-tags="organizacao"><div class="title">Organizar drive de assets</div><div class="meta"><span class="tag tag-pend">Organização</span></div></div>
     </div>
-    <div class="kanban-col" style="background:#111820">
-      <h4>🎯 A FAZER <span class="count">4</span></h4>
-      <div class="k-card"><div class="title">Briefing de marketing — LÓGIKA</div><div class="meta"><span class="tag tag-hoje">Hoje</span> <span class="owner">Jadielson</span></div></div>
-      <div class="k-card"><div class="title">Editar vídeo institucional</div><div class="meta"><span class="owner">Alfred</span></div></div>
-      <div class="k-card"><div class="title">Responder e-mails pendentes</div><div class="meta"><span class="owner">Jadielson</span></div></div>
-      <div class="k-card"><div class="title">Revisar calendário de posts</div><div class="meta"><span class="owner">Jarvis</span></div></div>
+    <div class="kanban-col" style="background:#050505" data-col="todo">
+      <h4>🎯 A FAZER <span class="count" id="fcount-todo">4</span></h4>
+      <div class="k-card" draggable="true" data-id="ft1" data-tags="mkt"><div class="title">Briefing de marketing — LÓGIKA</div><div class="meta"><span class="tag tag-hoje">Hoje</span> <span class="owner">Jadielson</span></div></div>
+      <div class="k-card" draggable="true" data-id="ft2" data-tags="proj-alfred"><div class="title">Editar vídeo institucional</div><div class="meta"><span class="owner">Alfred</span></div></div>
+      <div class="k-card" draggable="true" data-id="ft3" data-tags="admin"><div class="title">Responder e-mails pendentes</div><div class="meta"><span class="owner">Jadielson</span></div></div>
+      <div class="k-card" draggable="true" data-id="ft4" data-tags="mkt-jarvis"><div class="title">Revisar calendário de posts</div><div class="meta"><span class="owner">Jarvis</span></div></div>
     </div>
-    <div class="kanban-col" style="background:#111820">
-      <h4>🔄 FAZENDO <span class="count">3</span></h4>
-      <div class="k-card"><div class="title">Roteiro para vídeo LÓGIKA</div><div class="meta"><span class="owner">Jarvis</span> 60%</div><div class="bar"><div class="bar-fill bar-orange" style="width:60%"></div></div></div>
-      <div class="k-card"><div class="title">Análise de métricas</div><div class="meta"><span class="owner">Alfred</span> 30%</div><div class="bar"><div class="bar-fill bar-blue" style="width:30%"></div></div></div>
-      <div class="k-card"><div class="title">Organizar F3 PROJETOS</div><div class="meta"><span class="owner">Lôh</span></div></div>
+    <div class="kanban-col" style="background:#050505" data-col="doing">
+      <h4>🔄 FAZENDO <span class="count" id="fcount-doing">3</span></h4>
+      <div class="k-card" draggable="true" data-id="fd1" data-tags="mkt-jarvis"><div class="title">Roteiro para vídeo LÓGIKA</div><div class="meta"><span class="owner">Jarvis</span> 60%</div><div class="bar"><div class="bar-fill" style="width:60%;background:#fb923c"></div></div></div>
+      <div class="k-card" draggable="true" data-id="fd2" data-tags="proj-alfred"><div class="title">Análise de métricas</div><div class="meta"><span class="owner">Alfred</span> 30%</div><div class="bar"><div class="bar-fill" style="width:30%;background:#3b82f6"></div></div></div>
+      <div class="k-card" draggable="true" data-id="fd3" data-tags="organizacao"><div class="title">Organizar F3 PROJETOS</div><div class="meta"><span class="owner">Lôh</span></div></div>
     </div>
-    <div class="kanban-col" style="background:#111820">
-      <h4>✅ CONCLUÍDO (HOJE) <span class="count">5</span></h4>
-      <div class="k-card"><div class="title" style="color:#4ade80">✅ Reunião com equipe — 10h</div></div>
-      <div class="k-card"><div class="title" style="color:#4ade80">✅ Revisão Instagram — stories</div></div>
-      <div class="k-card"><div class="title" style="color:#4ade80">✅ Feedback para Alfred</div></div>
-      <div class="k-card"><div class="title" style="color:#4ade80">✅ Backup do workspace</div></div>
-      <div class="k-card"><div class="title" style="color:#4ade80">✅ Compras material escritório</div></div>
+    <div class="kanban-col" style="background:#050505" data-col="done">
+      <h4>✅ CONCLUÍDO (HOJE) <span class="count" id="fcount-done">5</span></h4>
+      <div class="k-card" draggable="true" data-id="ff1" data-tags="admin"><div class="title" style="color:#4ade80">✅ Reunião com equipe — 10h</div></div>
+      <div class="k-card" draggable="true" data-id="ff2" data-tags="mkt"><div class="title" style="color:#4ade80">✅ Revisão Instagram — stories</div></div>
+      <div class="k-card" draggable="true" data-id="ff3" data-tags="admin"><div class="title" style="color:#4ade80">✅ Feedback para Alfred</div></div>
+      <div class="k-card" draggable="true" data-id="ff4" data-tags="admin"><div class="title" style="color:#4ade80">✅ Backup do workspace</div></div>
+      <div class="k-card" draggable="true" data-id="ff5" data-tags="admin"><div class="title" style="color:#4ade80">✅ Compras material escritório</div></div>
     </div>
   </div>
 </div>
@@ -568,37 +557,37 @@
   <div class="row row-2">
     <div class="card">
       <div class="card-title">🚀 Projetos em andamento <span class="badge badge-green">3 ativos</span></div>
-      <div style="padding:10px 0;border-bottom:1px solid #18202a">
+      <div class="project-item" style="padding:10px 0;border-bottom:1px solid #141414;cursor:pointer" onclick="showToast('📂 Abrindo [F3] PROJETOS/LOGIKA', 'info')">
         <div style="display:flex;justify-content:space-between;margin-bottom:4px">
           <span style="font-weight:600;color:#d0d8e0;font-size:0.85rem">📹 LÓGIKA — Conteúdo Semanal</span>
           <span class="tag tag-ok" style="background:#0c1f14;color:#4ade80">65%</span>
         </div>
         <div style="font-size:0.74rem;color:#5a6a7a">Frente: Agência · Fase: Produção · Marco: 22/07</div>
-        <div class="bar" style="margin-top:5px"><div class="bar-fill bar-green" style="width:65%"></div></div>
+        <div class="bar" style="margin-top:5px"><div class="bar-fill" style="width:65%;background:#22c55e"></div></div>
         <div style="font-size:0.7rem;color:#f87171;margin-top:4px">⚠️ Bloqueio: Aprovação de roteiro pendente</div>
       </div>
-      <div style="padding:10px 0;border-bottom:1px solid #18202a">
+      <div class="project-item" style="padding:10px 0;border-bottom:1px solid #141414;cursor:pointer" onclick="showToast('📂 Abrindo [F3] PROJETOS/mission-control', 'info')">
         <div style="display:flex;justify-content:space-between;margin-bottom:4px">
           <span style="font-weight:600;color:#d0d8e0;font-size:0.85rem">🏗️ Mission Control — Painel</span>
           <span class="tag tag-hoje" style="background:#221e0e;color:#fbbf24">30%</span>
         </div>
         <div style="font-size:0.74rem;color:#5a6a7a">Frente: Interno · Fase: Mockup · Marco: 25/07</div>
-        <div class="bar" style="margin-top:5px"><div class="bar-fill bar-orange" style="width:30%"></div></div>
+        <div class="bar" style="margin-top:5px"><div class="bar-fill" style="width:30%;background:#fb923c"></div></div>
         <div style="font-size:0.7rem;color:#4ade80;margin-top:4px">✅ Dentro do prazo</div>
       </div>
-      <div style="padding:10px 0">
+      <div class="project-item" style="padding:10px 0;cursor:pointer" onclick="showToast('📂 Abrindo [F3] PROJETOS/instagram-reels', 'info')">
         <div style="display:flex;justify-content:space-between;margin-bottom:4px">
           <span style="font-weight:600;color:#d0d8e0;font-size:0.85rem">📱 Instagram — Reels Orgânicos</span>
           <span class="tag tag-info" style="background:#11223a;color:#93c5fd">45%</span>
         </div>
         <div style="font-size:0.74rem;color:#5a6a7a">Frente: MKT · Fase: Produção · Marco: 21/07</div>
-        <div class="bar" style="margin-top:5px"><div class="bar-fill bar-blue" style="width:45%"></div></div>
+        <div class="bar" style="margin-top:5px"><div class="bar-fill" style="width:45%;background:#3b82f6"></div></div>
         <div style="font-size:0.7rem;color:#4ade80;margin-top:4px">✅ Dentro do prazo</div>
       </div>
     </div>
     <div class="card">
       <div class="card-title">🟡 Próximos a iniciar <span class="badge badge-yellow">2 standby</span></div>
-      <div style="padding:8px 0;border-bottom:1px solid #18202a">
+      <div style="padding:8px 0;border-bottom:1px solid #141414">
         <div style="font-weight:600;color:#d0d8e0;font-size:0.85rem">📄 Site institucional LÓGIKA</div>
         <div style="font-size:0.74rem;color:#5a6a7a">Frente: Agência · Prioridade: Média</div>
       </div>
@@ -608,9 +597,9 @@
       </div>
       <div class="card-title" style="margin-top:16px">📁 Acesso rápido</div>
       <div style="display:flex;flex-wrap:wrap;gap:6px">
-        <span class="tag tag-info" style="cursor:pointer;font-size:0.75rem;padding:4px 10px">📂 [F3] PROJETOS</span>
-        <span class="tag tag-info" style="cursor:pointer;font-size:0.75rem;padding:4px 10px">📂 [F1] 5-Frentes</span>
-        <span class="tag tag-info" style="cursor:pointer;font-size:0.75rem;padding:4px 10px">📂 [F2] memory</span>
+        <span class="tag tag-info" style="cursor:pointer;font-size:0.75rem;padding:4px 10px" onclick="showToast('📂 [F3] PROJETOS — projetos ativos', 'info')">📂 [F3] PROJETOS</span>
+        <span class="tag tag-info" style="cursor:pointer;font-size:0.75rem;padding:4px 10px" onclick="showToast('📂 [F1] 5-Frentes — clientes ativos', 'info')">📂 [F1] 5-Frentes</span>
+        <span class="tag tag-info" style="cursor:pointer;font-size:0.75rem;padding:4px 10px" onclick="showToast('📂 [F2] memory — cérebro do sistema', 'info')">📂 [F2] memory</span>
       </div>
     </div>
   </div>
@@ -621,19 +610,17 @@
   <div class="row row-2-1">
     <div class="card">
       <div class="card-title">🤖 Agentes do Ecossistema <span class="badge badge-blue">3 ativos agora</span></div>
-      <table style="width:100%;border-collapse:collapse;font-size:0.78rem">
-        <thead><tr style="color:#5a6a7a;font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;border-bottom:1px solid #1e2835">
-          <th style="text-align:left;padding:6px 8px">Agente</th><th style="text-align:left;padding:6px 8px">Tier</th><th style="text-align:left;padding:6px 8px">Função</th><th style="text-align:left;padding:6px 8px">Status</th>
-        </tr></thead>
+      <table class="data-table">
+        <thead><tr><th>Agente</th><th>Tier</th><th>Função</th><th>Status</th></tr></thead>
         <tbody>
-          <tr style="border-bottom:1px solid #0f1620"><td style="padding:6px 8px;font-weight:600">🟣 Lôh</td><td style="padding:6px 8px;color:#5a6a7a">Tier 0</td><td style="padding:6px 8px;color:#8a9aa8">Orquestradora</td><td style="padding:6px 8px"><span class="agent-status active">🟢 ativa</span></td></tr>
-          <tr style="border-bottom:1px solid #0f1620"><td style="padding:6px 8px;font-weight:600">🤖 Alfred</td><td style="padding:6px 8px;color:#5a6a7a">Coord.</td><td style="padding:6px 8px;color:#8a9aa8">Head Operações</td><td style="padding:6px 8px"><span class="agent-status working">🔵 trabalhando</span></td></tr>
-          <tr style="border-bottom:1px solid #0f1620"><td style="padding:6px 8px;font-weight:600">🧠 Jarvis</td><td style="padding:6px 8px;color:#5a6a7a">Coord.</td><td style="padding:6px 8px;color:#8a9aa8">Head Criativo</td><td style="padding:6px 8px"><span class="agent-status working">🔵 trabalhando</span></td></tr>
-          <tr style="border-bottom:1px solid #0f1620"><td style="padding:6px 8px;font-weight:600">📊 CAIO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Inovação & Estratégia</td><td style="padding:6px 8px"><span class="agent-status" style="background:#0f1620;color:#5a6a7a">⚪ ocioso</span></td></tr>
-          <tr style="border-bottom:1px solid #0f1620"><td style="padding:6px 8px;font-weight:600">📈 CRO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Receita & Resultados</td><td style="padding:6px 8px"><span class="agent-status" style="background:#0f1620;color:#5a6a7a">⚪ ocioso</span></td></tr>
-          <tr style="border-bottom:1px solid #0f1620"><td style="padding:6px 8px;font-weight:600">🎨 CCO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Criação & Conteúdo</td><td style="padding:6px 8px"><span class="agent-status" style="background:#0f1620;color:#5a6a7a">⚪ ocioso</span></td></tr>
-          <tr style="border-bottom:1px solid #0f1620"><td style="padding:6px 8px;font-weight:600">📣 CMO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Marketing & Growth</td><td style="padding:6px 8px"><span class="agent-status" style="background:#0f1620;color:#5a6a7a">⚪ ocioso</span></td></tr>
-          <tr><td style="padding:6px 8px;font-weight:600">⚙️ COO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Operações</td><td style="padding:6px 8px"><span class="agent-status" style="background:#0f1620;color:#5a6a7a">⚪ ocioso</span></td></tr>
+          <tr style="cursor:pointer" onclick="showToast('🟣 Lôh — Orquestradora ativa. Sempre online.', 'success')"><td style="padding:6px 8px;font-weight:600">🟣 Lôh</td><td style="padding:6px 8px;color:#5a6a7a">Tier 0</td><td style="padding:6px 8px;color:#8a9aa8">Orquestradora</td><td style="padding:6px 8px"><span class="agent-status active">🟢 ativa</span></td></tr>
+          <tr style="cursor:pointer" onclick="showToast('🤖 Alfred — Head de Operações. Atribuir tarefa?', 'info')"><td style="padding:6px 8px;font-weight:600">🤖 Alfred</td><td style="padding:6px 8px;color:#5a6a7a">Coord.</td><td style="padding:6px 8px;color:#8a9aa8">Head Operações</td><td style="padding:6px 8px"><span class="agent-status working">🔵 trabalhando</span></td></tr>
+          <tr style="cursor:pointer" onclick="showToast('🧠 Jarvis — Head Criativo. Atribuir tarefa?', 'info')"><td style="padding:6px 8px;font-weight:600">🧠 Jarvis</td><td style="padding:6px 8px;color:#5a6a7a">Coord.</td><td style="padding:6px 8px;color:#8a9aa8">Head Criativo</td><td style="padding:6px 8px"><span class="agent-status working">🔵 trabalhando</span></td></tr>
+          <tr style="cursor:pointer" onclick="showToast('📊 CAIO — Inovação & Estratégia. Disponível.', 'info')"><td style="padding:6px 8px;font-weight:600">📊 CAIO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Inovação & Estratégia</td><td style="padding:6px 8px"><span class="agent-status idle">⚪ ocioso</span></td></tr>
+          <tr style="cursor:pointer" onclick="showToast('📈 CRO — Receita & Resultados. Disponível.', 'info')"><td style="padding:6px 8px;font-weight:600">📈 CRO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Receita & Resultados</td><td style="padding:6px 8px"><span class="agent-status idle">⚪ ocioso</span></td></tr>
+          <tr style="cursor:pointer" onclick="showToast('🎨 CCO — Criação & Conteúdo. Disponível.', 'info')"><td style="padding:6px 8px;font-weight:600">🎨 CCO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Criação & Conteúdo</td><td style="padding:6px 8px"><span class="agent-status idle">⚪ ocioso</span></td></tr>
+          <tr style="cursor:pointer" onclick="showToast('📣 CMO — Marketing & Growth. Disponível.', 'info')"><td style="padding:6px 8px;font-weight:600">📣 CMO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Marketing & Growth</td><td style="padding:6px 8px"><span class="agent-status idle">⚪ ocioso</span></td></tr>
+          <tr style="cursor:pointer" onclick="showToast('⚙️ COO — Operações. Disponível.', 'info')"><td style="padding:6px 8px;font-weight:600">⚙️ COO</td><td style="padding:6px 8px;color:#5a6a7a">C-Level</td><td style="padding:6px 8px;color:#8a9aa8">Operações</td><td style="padding:6px 8px"><span class="agent-status idle">⚪ ocioso</span></td></tr>
         </tbody>
       </table>
     </div>
@@ -642,9 +629,14 @@
       <div style="text-align:center;padding:12px 0">
         <div style="font-size:2.2rem;font-weight:700;color:#f0f4f8">3 / 10</div>
         <div style="font-size:0.75rem;color:#5a6a7a">agentes ativos agora</div>
-        <div class="bar" style="margin:10px 0"><div class="bar-fill bar-blue" style="width:30%"></div></div>
+        <div class="bar" style="margin:10px 0"><div class="bar-fill" style="width:30%;background:#3b82f6"></div></div>
       </div>
       <div style="font-size:0.72rem;color:#5a6a7a;text-align:center">Capacidade disponível: 70%</div>
+      <div style="margin-top:12px;display:flex;gap:6px;flex-wrap:wrap">
+        <span class="tag tag-info" style="cursor:pointer;padding:5px 12px;font-size:0.75rem" onclick="showToast('🎯 Comando enviado para Alfred', 'success')">🤖 Acionar Alfred</span>
+        <span class="tag tag-info" style="cursor:pointer;padding:5px 12px;font-size:0.75rem" onclick="showToast('🎯 Comando enviado para Jarvis', 'success')">🧠 Acionar Jarvis</span>
+        <span class="tag tag-info" style="cursor:pointer;padding:5px 12px;font-size:0.75rem" onclick="showToast('🎯 Comando enviado para CAIO', 'info')">📊 Acionar CAIO</span>
+      </div>
     </div>
   </div>
 </div>
@@ -654,7 +646,7 @@
   <div class="row row-3" style="grid-template-columns:1fr 1.5fr 1fr">
     <div class="card">
       <div class="card-title">🔴 Críticas <span class="badge badge-red">1</span></div>
-      <div class="alert-item">
+      <div class="alert-item" onclick="showToast('🔴 Job extracao-diaria-decisoes falhou. API key inválida.', 'warning')">
         <div style="display:flex;flex-direction:column;gap:2px;width:100%">
           <div style="display:flex;justify-content:space-between"><span style="font-weight:600;color:#f87171">Job de extração falhou</span><span style="font-size:0.7rem;color:#5a6a7a">20/07</span></div>
           <div style="font-size:0.72rem;color:#8a9aa8">extracao-diaria-decisoes — erro de API</div>
@@ -663,9 +655,9 @@
     </div>
     <div class="card">
       <div class="card-title">🟡 Atenção <span class="badge badge-yellow">3</span></div>
-      <div class="alert-item"><div style="display:flex;flex-direction:column;gap:2px;width:100%"><div style="display:flex;justify-content:space-between"><span>Prazo relatório semanal</span><span style="font-size:0.7rem;color:#fbbf24">amanhã</span></div><div style="font-size:0.72rem;color:#8a9aa8">Relatório da semana pendente</div></div></div>
-      <div class="alert-item"><div style="display:flex;flex-direction:column;gap:2px;width:100%"><div style="display:flex;justify-content:space-between"><span>3 tarefas paradas há 3+ dias</span><span style="font-size:0.7rem;color:#fbbf24">paradas</span></div><div style="font-size:0.72rem;color:#8a9aa8">Backlog acumulando</div></div></div>
-      <div class="alert-item"><div style="display:flex;flex-direction:column;gap:2px;width:100%"><div style="display:flex;justify-content:space-between"><span>Projeto LÓGIKA bloqueado</span><span style="font-size:0.7rem;color:#fbbf24">bloqueado</span></div><div style="font-size:0.72rem;color:#8a9aa8">Aguardando aprovação de Jadielson</div></div></div>
+      <div class="alert-item" onclick="showToast('🟡 Relatório semanal pendente. Vence amanhã!', 'warning')"><div style="display:flex;flex-direction:column;gap:2px;width:100%"><div style="display:flex;justify-content:space-between"><span>Prazo relatório semanal</span><span style="font-size:0.7rem;color:#fbbf24">amanhã</span></div><div style="font-size:0.72rem;color:#8a9aa8">Relatório da semana pendente</div></div></div>
+      <div class="alert-item" onclick="showToast('🟡 3 tarefas no backlog sem movimento há 3+ dias.', 'warning')"><div style="display:flex;flex-direction:column;gap:2px;width:100%"><div style="display:flex;justify-content:space-between"><span>3 tarefas paradas há 3+ dias</span><span style="font-size:0.7rem;color:#fbbf24">paradas</span></div><div style="font-size:0.72rem;color:#8a9aa8">Backlog acumulando</div></div></div>
+      <div class="alert-item" onclick="showToast('🟡 Projeto LÓGIKA aguardando sua aprovação.', 'warning')"><div style="display:flex;flex-direction:column;gap:2px;width:100%"><div style="display:flex;justify-content:space-between"><span>Projeto LÓGIKA bloqueado</span><span style="font-size:0.7rem;color:#fbbf24">bloqueado</span></div><div style="font-size:0.72rem;color:#8a9aa8">Aguardando aprovação de Jadielson</div></div></div>
     </div>
     <div class="card">
       <div class="card-title">🔵 Rotina <span class="badge badge-blue">2</span></div>
@@ -687,16 +679,16 @@
   <div class="row row-2">
     <div class="card">
       <div class="card-title">📊 Consolidado da Semana <span class="badge badge-blue">13 a 19 Jul</span></div>
-      <div style="display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #0f1620;font-size:0.82rem"><span style="color:#8a9aa8">✅ Tarefas concluídas</span><span style="font-weight:600;color:#e8edf2">18</span></div>
-      <div style="display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #0f1620;font-size:0.82rem"><span style="color:#8a9aa8">📁 Projetos avançados</span><span style="font-weight:600;color:#e8edf2">3 de 3</span></div>
-      <div style="display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #0f1620;font-size:0.82rem"><span style="color:#8a9aa8">📝 Conteúdos publicados</span><span style="font-weight:600;color:#e8edf2">4</span></div>
-      <div style="display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #0f1620;font-size:0.82rem"><span style="color:#8a9aa8">⏱️ Horas trabalhadas</span><span style="font-weight:600;color:#e8edf2">18h / 20h</span></div>
-      <div class="bar" style="margin-top:5px"><div class="bar-fill bar-green" style="width:90%"></div></div>
+      <div style="display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #0f0f0f;font-size:0.82rem"><span style="color:#8a9aa8">✅ Tarefas concluídas</span><span style="font-weight:600;color:#e8edf2">18</span></div>
+      <div style="display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #0f0f0f;font-size:0.82rem"><span style="color:#8a9aa8">📁 Projetos avançados</span><span style="font-weight:600;color:#e8edf2">3 de 3</span></div>
+      <div style="display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #0f0f0f;font-size:0.82rem"><span style="color:#8a9aa8">📝 Conteúdos publicados</span><span style="font-weight:600;color:#e8edf2">4</span></div>
+      <div style="display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #0f0f0f;font-size:0.82rem"><span style="color:#8a9aa8">⏱️ Horas trabalhadas</span><span style="font-weight:600;color:#e8edf2">18h / 20h</span></div>
+      <div class="bar" style="margin-top:5px"><div class="bar-fill" style="width:90%;background:#22c55e"></div></div>
       <div style="display:flex;justify-content:space-between;padding:7px 0;font-size:0.82rem;margin-top:4px"><span style="color:#8a9aa8">💵 Receita gerada (semana)</span><span style="font-weight:600;color:#4ade80">R$ 1.200</span></div>
     </div>
     <div class="card">
       <div class="card-title">📉 O que não foi feito <span class="badge badge-red">2</span></div>
-      <div style="padding:7px 0;border-bottom:1px solid #0f1620"><span style="color:#f87171">❌ Proposta comercial novo cliente</span><div style="font-size:0.72rem;color:#5a6a7a">Escorregou — falta briefing</div></div>
+      <div style="padding:7px 0;border-bottom:1px solid #0f0f0f"><span style="color:#f87171">❌ Proposta comercial novo cliente</span><div style="font-size:0.72rem;color:#5a6a7a">Escorregou — falta briefing</div></div>
       <div style="padding:7px 0"><span style="color:#f87171">❌ Organização do drive de assets</span><div style="font-size:0.72rem;color:#5a6a7a">Repriorizar</div></div>
     </div>
   </div>
@@ -713,19 +705,23 @@
     </div>
     <div class="card">
       <div class="card-title">📈 Métricas da Semana</div>
-      <div style="margin-bottom:10px"><div style="display:flex;justify-content:space-between;font-size:0.8rem"><span style="color:#8a9aa8">Taxa de conclusão</span><span style="font-weight:600">72%</span></div><div class="bar"><div class="bar-fill bar-blue" style="width:72%"></div></div></div>
-      <div style="margin-bottom:10px"><div style="display:flex;justify-content:space-between;font-size:0.8rem"><span style="color:#8a9aa8">Produtividade (h/dia)</span><span style="font-weight:600">3,6h</span></div><div class="bar"><div class="bar-fill bar-orange" style="width:60%"></div></div></div>
-      <div><div style="display:flex;justify-content:space-between;font-size:0.8rem"><span style="color:#8a9aa8">Conteúdos / meta</span><span style="font-weight:600">4 / 5</span></div><div class="bar"><div class="bar-fill bar-green" style="width:80%"></div></div></div>
+      <div style="margin-bottom:10px"><div style="display:flex;justify-content:space-between;font-size:0.8rem"><span style="color:#8a9aa8">Taxa de conclusão</span><span style="font-weight:600">72%</span></div><div class="bar"><div class="bar-fill" style="width:72%;background:#3b82f6"></div></div></div>
+      <div style="margin-bottom:10px"><div style="display:flex;justify-content:space-between;font-size:0.8rem"><span style="color:#8a9aa8">Produtividade (h/dia)</span><span style="font-weight:600">3,6h</span></div><div class="bar"><div class="bar-fill" style="width:60%;background:#fb923c"></div></div></div>
+      <div><div style="display:flex;justify-content:space-between;font-size:0.8rem"><span style="color:#8a9aa8">Conteúdos / meta</span><span style="font-weight:600">4 / 5</span></div><div class="bar"><div class="bar-fill" style="width:80%;background:#22c55e"></div></div></div>
     </div>
   </div>
 </div>
 
 </div><!-- .content -->
 
-<div class="footer">🧠 Mission Control — Fase 1 (Mockup) · Dados fictícios para aprovação · Julho 2026</div>
+<div class="footer">🧠 Mission Control — Interativo · Julho 2026</div>
 
+<!-- Toast container -->
+<div class="toast-container" id="toastContainer"></div>
+
+<!-- ===== JAVASCRIPT ===== -->
 <script>
-  // Tab navigation
+  // ===== TAB NAVIGATION =====
   document.querySelectorAll('.tab').forEach(tab => {
     tab.addEventListener('click', () => {
       document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
@@ -735,13 +731,219 @@
       if (el) el.classList.add('active');
     });
   });
+  function switchTab(name) {
+    const tab = document.querySelector(`.tab[data-tab="${name}"]`);
+    if (tab) tab.click();
+  }
 
-  // Date
+  // ===== DATE =====
   const now = new Date();
   const dias = ['Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado'];
   const meses = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
   document.getElementById('headerDate').textContent =
     `${dias[now.getDay()]}, ${now.getDate()} de ${meses[now.getMonth()]} de ${now.getFullYear()}`;
+
+  // ===== TOAST =====
+  function showToast(msg, type) {
+    const container = document.getElementById('toastContainer');
+    const toast = document.createElement('div');
+    toast.className = 'toast ' + (type || 'info');
+    toast.textContent = msg;
+    container.appendChild(toast);
+    setTimeout(() => toast.remove(), 3000);
+  }
+
+  // ===== DRAG & DROP =====
+  function initKanban(containerId) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    const cards = container.querySelectorAll('.k-card');
+    const cols = container.querySelectorAll('.kanban-col');
+
+    cards.forEach(card => {
+      card.addEventListener('dragstart', handleDragStart);
+      card.addEventListener('dragend', handleDragEnd);
+    });
+
+    cols.forEach(col => {
+      col.addEventListener('dragover', handleDragOver);
+      col.addEventListener('dragenter', handleDragEnter);
+      col.addEventListener('dragleave', handleDragLeave);
+      col.addEventListener('drop', handleDrop);
+    });
+  }
+
+  let dragSrc = null;
+
+  function handleDragStart(e) {
+    dragSrc = this;
+    this.classList.add('dragging');
+    e.dataTransfer.effectAllowed = 'move';
+    e.dataTransfer.setData('text/plain', this.dataset.id);
+  }
+
+  function handleDragEnd(e) {
+    this.classList.remove('dragging');
+    document.querySelectorAll('.kanban-col').forEach(c => c.classList.remove('drag-over'));
+  }
+
+  function handleDragOver(e) {
+    e.preventDefault();
+    e.dataTransfer.dropEffect = 'move';
+  }
+
+  function handleDragEnter(e) {
+    e.preventDefault();
+    this.classList.add('drag-over');
+  }
+
+  function handleDragLeave(e) {
+    this.classList.remove('drag-over');
+  }
+
+  function handleDrop(e) {
+    e.preventDefault();
+    this.classList.remove('drag-over');
+    if (!dragSrc) return;
+
+    const targetCol = this;
+    // Don't drop on same column
+    if (dragSrc.parentNode === targetCol) return;
+
+    // Move the card
+    targetCol.appendChild(dragSrc);
+    showToast('📦 Card movido para ' + targetCol.dataset.col, 'success');
+
+    // Update counts
+    updateAllCounts();
+    updateTaskWidget();
+    saveBoardState();
+  }
+
+  function updateCounts(containerId) {
+    const container = document.getElementById(containerId) || document;
+    container.querySelectorAll('.kanban-col').forEach(col => {
+      const colName = col.dataset.col;
+      const countEl = col.querySelector('.count');
+      if (countEl) {
+        const cardCount = col.querySelectorAll('.k-card').length;
+        countEl.textContent = cardCount;
+      }
+    });
+  }
+
+  function updateAllCounts() {
+    updateCounts('kanbanOverview');
+    updateCounts('kanbanFull');
+  }
+
+  function updateTaskWidget() {
+    const doneCol = document.querySelector('#kanbanOverview .kanban-col[data-col="done"]');
+    if (!doneCol) return;
+    const done = doneCol.querySelectorAll('.k-card').length;
+    const total = document.querySelectorAll('#kanbanOverview .k-card').length;
+    const pct = total > 0 ? Math.round(done/total*100) : 0;
+    const el = document.getElementById('taskCountToday');
+    const bar = document.getElementById('taskBarToday');
+    const pctEl = document.getElementById('taskPctToday');
+    if (el) el.textContent = done + ' / ' + total;
+    if (bar) bar.style.width = pct + '%';
+    if (pctEl) pctEl.textContent = pct + '% concluído';
+  }
+
+  // ===== FILTERS =====
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+      const parent = this.parentElement;
+      parent.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+      const filter = this.dataset.filter;
+      const cards = document.querySelectorAll('#kanbanFull .k-card');
+      cards.forEach(card => {
+        const tags = (card.dataset.tags || '').toLowerCase();
+        if (filter === 'all') {
+          card.style.display = '';
+        } else if (tags.includes(filter)) {
+          card.style.display = '';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    });
+  });
+
+  // ===== RESET BOARD =====
+  function resetBoard() {
+    if (!confirm('Resetar o kanban para o estado original?')) return;
+    location.reload();
+  }
+
+  // ===== LOCALSTORAGE PERSISTENCE =====
+  function saveBoardState() {
+    try {
+      const state = {};
+      document.querySelectorAll('.kanban').forEach(board => {
+        const boardId = board.id;
+        state[boardId] = {};
+        board.querySelectorAll('.kanban-col').forEach(col => {
+          const colName = col.dataset.col;
+          const ids = [];
+          col.querySelectorAll('.k-card').forEach(card => {
+            ids.push(card.dataset.id);
+          });
+          state[boardId][colName] = ids;
+        });
+      });
+      localStorage.setItem('mission-control-kanban', JSON.stringify(state));
+    } catch(e) {}
+  }
+
+  function loadBoardState() {
+    try {
+      const saved = localStorage.getItem('mission-control-kanban');
+      if (!saved) return;
+      const state = JSON.parse(saved);
+      Object.keys(state).forEach(boardId => {
+        const board = document.getElementById(boardId);
+        if (!board) return;
+        const boardState = state[boardId];
+        // Create a map of id -> element
+        const allCards = {};
+        board.querySelectorAll('.k-card').forEach(card => {
+          allCards[card.dataset.id] = card;
+        });
+        // Place cards in correct columns
+        Object.keys(boardState).forEach(colName => {
+          const col = board.querySelector(`.kanban-col[data-col="${colName}"]`);
+          if (!col) return;
+          const ids = boardState[colName] || [];
+          ids.forEach(id => {
+            if (allCards[id]) {
+              col.appendChild(allCards[id]);
+            }
+          });
+        });
+        updateCounts(boardId);
+      });
+      updateTaskWidget();
+    } catch(e) {}
+  }
+
+  // ===== INIT =====
+  document.addEventListener('DOMContentLoaded', () => {
+    initKanban('kanbanOverview');
+    initKanban('kanbanFull');
+    loadBoardState();
+  });
+
+  // Try loading state if DOM already loaded
+  if (document.readyState === 'complete' || document.readyState === 'interactive') {
+    setTimeout(() => {
+      initKanban('kanbanOverview');
+      initKanban('kanbanFull');
+      loadBoardState();
+    }, 100);
+  }
 </script>
 
 </body>
