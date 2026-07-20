@@ -1,7 +1,7 @@
 # 🚀 Mission Control — Jadielson / Lôh
 
-**Status:** MVP web v0.7 com CRM Notion operacional e KPIs comerciais  
-**Última atualização:** 2026-07-20 01:18 UTC  
+**Status:** MVP web v1.3 com Higiene CRM operacional  
+**Última atualização:** 2026-07-20 01:42 UTC  
 **Fonte de verdade:** Cofre `/data/.openclaw/workspace/`  
 **Direção aprovada:** Tudo integrado, começando simples.
 
@@ -310,6 +310,115 @@ O dashboard já mostra:
 ### Registro técnico
 
 `[F2] memory/projects/mission-control/web/2026-07-20-notion-api-crm-operacional-v07.md`
+
+---
+
+## 3H. Dashboard Web MVP v0.9 — Ações comerciais de hoje
+
+**Status:** implementado e testado.  
+**Fonte:** Notion API direta / databases `Pipeline` e `Tarefas`.
+
+### Resultado atual
+
+- 6 ações comerciais abertas.
+- 2 atrasadas.
+- 4 sem data.
+
+### Prioridade atual
+
+1. Guilherme — Follow Up atrasado.
+2. Gustavo — Enviar Proposta atrasado.
+3. Guilherme — Nova Tarefa.
+4. Guilherme — Follow Up.
+5. Kim Wayn — Follow Up.
+6. Kim Wayn — Follow Up.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-acoes-comerciais-hoje-v09.md`
+
+---
+
+## 3I. Dashboard Web MVP v1.0 — Snapshot CRM no Cofre
+
+**Status:** implementado e testado.  
+**Fonte:** Notion API direta / script `npm run snapshot:crm`.
+
+### Snapshot gerado
+
+`[F2] memory/outputs/logika/crm/2026-07-20-snapshot-crm-logika.md`
+
+### Resultado atual
+
+- Pipeline: 7 itens.
+- Valor pretendido: R$ 203.000.
+- Valor fechado: R$ 35.000.
+- Tarefas comerciais abertas: 6.
+- Ações atrasadas: 2.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-snapshot-crm-logika-v10.md`
+
+---
+
+## 3J. Mission Control Web v1.1 — Snapshot CRM diário agendado
+
+**Status:** agendado.  
+**Cron:** diário às 08:00 `America/Bahia`.
+
+### Job
+
+`Mission Control — snapshot diário CRM Lógika`
+
+### Job ID
+
+`a07badd8-d064-4fd8-963d-00f2a9dcbab4`
+
+### Saída esperada
+
+`[F2] memory/outputs/logika/crm/YYYY-MM-DD-snapshot-crm-logika.md`
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-cron-snapshot-diario-crm-v11.md`
+
+---
+
+## 3K. Mission Control Web v1.2 — Aging comercial
+
+**Status:** implementado e testado.  
+**Fonte:** Notion API direta / databases `Pipeline` e `Tarefas`.
+
+### Resultado atual
+
+- Leads com aging crítico: 7.
+- Leads com tarefas atrasadas: 2.
+- Maior atraso de tarefa: Guilherme — 857 dias.
+- Segundo maior atraso: Gustavo — 843 dias.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-aging-comercial-v12.md`
+
+---
+
+## 3L. Mission Control Web v1.3 — Higiene CRM
+
+**Status:** implementado e testado.  
+**Fonte:** Notion API direta / databases `Pipeline` e `Tarefas`.
+
+### Resultado atual
+
+- 16 itens de higiene CRM.
+- 2 tarefas atrasadas críticas.
+- 2 contatos incompletos principais.
+- 7 leads com contato antigo crítico.
+- Tarefas sem data incluídas como correção média.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-higiene-crm-v13.md`
 
 ---
 
