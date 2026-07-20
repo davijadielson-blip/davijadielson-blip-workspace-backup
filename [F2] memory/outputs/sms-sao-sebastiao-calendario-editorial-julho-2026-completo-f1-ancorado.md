@@ -414,7 +414,7 @@ Post — Headline: **Hepatite B tem prevenção: vacina é cuidado.**
 Legenda: **A Atenção Básica orienta a população sobre vacinação, prevenção e acompanhamento. Leve sua caderneta e converse com a equipe da unidade.**
 
 ### 21/07 — Terça — Serviços Especializados
-Tema: sinais que merecem atenção. Serviços: Laboratório, Espaço Cuidar, Oftalmologia, CEO, Saúde Bucal.
+Tema: sinais que merecem atenção e caminho correto para exames. Serviços: Laboratório, Espaço Cuidar, Oftalmologia, CEO/Saúde Bucal e Recepção/Regulação da Secretaria.
 
 Story 1 — [Laboratório]
 Cenas: • material para exame sem etiqueta • profissional preparando bancada • guia genérica coberta.
@@ -425,14 +425,14 @@ Headline/Legenda: **Cansaço, dor ou sinal persistente merece avaliação: a red
 Story 3 — [Oftalmologia]
 Cenas: • equipamento ocular • idoso/diabético de costas • profissional ajustando aparelho.
 Headline/Legenda: **Diabetes e pressão alta também pedem cuidado com os olhos.**
-Story 4 — [CEO]
-Cenas: • exame bucal com simulação/sem paciente • luvas e espelho • cartaz câncer de boca.
-Headline/Legenda: **Ferida na boca que não melhora precisa ser vista: diagnóstico cedo faz diferença.**
-Story 5 — [Saúde Bucal]
-Cenas: • escova/fio dental • profissional explicando gengiva • card “boca também é saúde”.
-Headline/Legenda: **Sangramento na gengiva não é normal: sua boca também merece atenção.**
-Post — Headline: **Sinais que merecem atenção não devem ser ignorados.**
-Legenda: **A rede especializada apoia a investigação e o acompanhamento quando a Atenção Básica identifica necessidade. Não se automedique; procure orientação.**
+Story 4 — [CEO / Saúde Bucal]
+Cenas: • exame bucal com simulação/sem paciente • luvas e espelho • cartaz câncer de boca • orientação de higiene/escova em close.
+Headline/Legenda: **Ferida na boca, dor ou sangramento na gengiva merecem orientação: saúde bucal também é parte do cuidado especializado.**
+Story 5 — [Recepção/Regulação da Secretaria — Marcação de Exames]
+Cenas: • recepção/balcão sem expor usuários • guia ou solicitação genérica com dados cobertos • computador/tela neutra • equipe orientando fluxo.
+Headline/Legenda: **Recepção da Secretaria organiza marcações de exames, protocolos e encaminhamentos via regulação.**
+Post — Headline: **Sinais que merecem atenção precisam de avaliação e caminho certo na rede.**
+Legenda: **A rede especializada apoia a investigação e o acompanhamento quando a Atenção Básica identifica necessidade. Laboratório, especialidades, saúde bucal e regulação ajudam a organizar o cuidado com mais segurança. Não se automedique; procure orientação e valide o fluxo correto antes de se deslocar.**
 
 ### 22/07 — Quarta — Vigilância / Prevenção
 Tema: cuidados diários contra hepatites. Serviços: PNI, VISA, Educação, Endemias, Campanha.
