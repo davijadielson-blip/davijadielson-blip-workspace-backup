@@ -32,18 +32,21 @@ Para comunicação pública, usar linguagem de compreensão popular:
 ## Mapa desta base
 
 - `00-moc/` — mapa geral e regras de consulta.
-- `01-matrizes/` — matriz principal de setores, matriz de unificação e matriz editorial.
+- `01-matrizes/` — matriz principal de setores, competências, matriz de unificação e matriz editorial.
 - `02-estrutura/` — visão organizada de unidades, PSFs e setores.
 - `03-editorial/` — uso em pautas, pilares, linguagem e cuidados.
 - `04-auditorias/` — síntese das auditorias realizadas.
+- `05-ambientes-operacionais/` — ramificação por ambiente e por setor, com ficha dedicada para cada parte.
 - `99-fontes-e-regras/` — fontes F1 usadas, decisões e cautelas.
 
 ## Como consultar
 
 1. Para saber **onde um setor entra na pauta**, leia `01-matrizes/matriz-setores-pilares-fontes.md`.
-2. Para saber **o que unir ou incorporar**, leia `01-matrizes/matriz-unificacao-frente-saude.md`.
-3. Para saber **unidades/território**, leia `02-estrutura/unidades-ubs-postinhos/ubs-postinhos-visao-operacional.md` e `02-estrutura/psfs-territorios/psfs-visao-operacional.md`.
-4. Para **conteúdo de recepção/regulação**, leia `02-estrutura/setores-complementares/recepcao-regulacao-marcacao-exames.md`.
+2. Para saber **o que cada setor faz e compete**, leia `01-matrizes/matriz-competencias-por-setor.md`.
+3. Para saber **o que unir ou incorporar**, leia `01-matrizes/matriz-unificacao-frente-saude.md`.
+4. Para saber **unidades/território**, leia `02-estrutura/unidades-ubs-postinhos/ubs-postinhos-visao-operacional.md` e `02-estrutura/psfs-territorios/psfs-visao-operacional.md`.
+5. Para **conteúdo de recepção/regulação**, leia `02-estrutura/setores-complementares/recepcao-regulacao-marcacao-exames.md`.
+6. Para navegar pela **ramificação completa por ambiente/setor**, leia `05-ambientes-operacionais/README.md`.
 
 ## Regra de segurança editorial
 

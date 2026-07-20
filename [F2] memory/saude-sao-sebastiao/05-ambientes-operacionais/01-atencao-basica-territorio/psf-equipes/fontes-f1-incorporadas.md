@@ -1,0 +1,53 @@
+---
+tipo: fontes-incorporadas
+status: ativo
+---
+
+# Fontes F1 incorporadas
+
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/00 - PSFs - MOC.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Indígenas/PSF Karapotó Plak-Ô.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Indígenas/PSF Karapotó Terra Nova.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/PSF Brejinho II.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/UBS Belisca Pau.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/UBS Brejinho.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/PSF Cana Brava.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/UBS Cana Brava.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/UBS Mata.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/PSF Curralinho.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Curralinho.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Tapera.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Terra Nova.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Flexeira/PSF Flexeira.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Flexeira/UBS Flexeiras.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/PSF Gado Bravo.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/UBS Gado Bravo.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/UBS Porteiras.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/PSF Grotão.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Estrada Nova.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Grotão.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Malhada da Onça.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/PSF Lagoa Seca.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/UBS Lagoa Seca.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/UBS Limoeirinho.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/PSF Maracujá.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Gongo.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Maracujá.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Prata.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/PSF Pedra Preta.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/UBS Capim Branco.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/UBS Pedra Preta.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/PSF Sapé.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/UBS Sapé.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/UBS Tabuleiro.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Centro Mestra Clarice/PSF Centro Mestra Clarice.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Centro Mestra Clarice/UBS Centro Mestra Clarice.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Cruzeiro/PSF Cruzeiro.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Cruzeiro/UBS Cruzeiro.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Peroba/PSF Peroba.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Peroba/UBS Peroba.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Rancho Alegre/PSF Rancho Alegre.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Rancho Alegre/UBS Rancho Alegre.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/São José/PSF São José.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/São José/UBS São José.md`
+- `[F1] 5-Frentes/Saude-Sao-Sebastiao/PSF - PROGRAMA SAUDE DA FAMILIA/SETORES NAS UBS.md`
