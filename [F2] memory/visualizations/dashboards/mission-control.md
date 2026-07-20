@@ -1,7 +1,7 @@
 # 🚀 Mission Control — Jadielson / Lôh
 
-**Status:** MVP web v1.3 com Higiene CRM operacional  
-**Última atualização:** 2026-07-20 01:42 UTC  
+**Status:** Mission Control v1.9 com smoke test de produção local  
+**Última atualização:** 2026-07-20 02:49 UTC  
 **Fonte de verdade:** Cofre `/data/.openclaw/workspace/`  
 **Direção aprovada:** Tudo integrado, começando simples.
 
@@ -419,6 +419,131 @@ O dashboard já mostra:
 ### Registro técnico
 
 `[F2] memory/projects/mission-control/web/2026-07-20-higiene-crm-v13.md`
+
+---
+
+## 3M. Mission Control v1.4/v1.5 — Limpeza CRM e Follow-ups
+
+**Status:** entregue.  
+**Fonte:** Snapshot CRM Lógika 2026-07-20.
+
+### v1.4 — Plano de limpeza CRM
+
+`[F2] memory/projects/mission-control/logika-crm/2026-07-20-plano-limpeza-crm-v14.md`
+
+### v1.5 — Mensagens de follow-up
+
+`[F2] memory/projects/mission-control/logika-crm/2026-07-20-mensagens-followup-crm-v15.md`
+
+### Prioridade de ação
+
+1. Guilherme — Em Negociação — R$ 32.000.
+2. Gustavo — Lead — R$ 35.000.
+3. Kim Wayn — Proposta Enviada — R$ 37.000.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-limpeza-e-followups-crm-v14-v15.md`
+
+---
+
+## 3N. Mission Control v1.6 — Rotina semanal comercial Lógika
+
+**Status:** rotina criada e agendada.
+
+### Arquivo operacional
+
+`[F2] memory/projects/mission-control/logika-crm/2026-07-20-rotina-semanal-comercial-v16.md`
+
+### Cadência
+
+- Segunda: revisão e priorização.
+- Terça: follow-ups de valor alto.
+- Quarta: propostas e negociação.
+- Quinta: higiene e reativação.
+- Sexta: fechamento e snapshot.
+
+### Cron semanal
+
+- Segunda-feira às 08:30 `America/Bahia`.
+- Job ID: `0b237eb2-fbaf-4c03-838e-ea56867f2472`
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-rotina-semanal-comercial-v16.md`
+
+---
+
+## 3O. Mission Control v1.7 — Deploy/acesso seguro
+
+**Status:** preparado e testado localmente.
+
+### App
+
+`/data/.openclaw/mission-control-next/`
+
+### Arquivos de deploy
+
+- `.env.example`
+- `next.config.js`
+- `DEPLOY.md`
+
+### Segurança
+
+Headers básicos configurados e variáveis documentadas sem segredos reais.
+
+### Pendência
+
+Escolher ambiente de deploy privado/controlado.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-deploy-seguro-v17.md`
+
+---
+
+## 3P. Mission Control v1.8 — Proteção de acesso
+
+**Status:** implementado e testado.
+
+### Arquivo criado
+
+`/data/.openclaw/mission-control-next/proxy.js`
+
+### Função
+
+Basic Auth opcional para deploy privado/controlado.
+
+### Variáveis
+
+- `MISSION_CONTROL_BASIC_AUTH`
+- `MISSION_CONTROL_USER`
+- `MISSION_CONTROL_PASSWORD`
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-auth-deploy-privado-v18.md`
+
+---
+
+## 3Q. Mission Control v1.9 — Smoke test produção local
+
+**Status:** implementado e testado.
+
+### Scripts
+
+- `npm run start:prod`
+- `npm run smoke`
+
+### Resultado
+
+- Build: OK.
+- Produção local em porta 4180: OK.
+- Smoke test `/` e `/api/logika-crm`: OK.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-smoke-prod-local-v19.md`
 
 ---
 
