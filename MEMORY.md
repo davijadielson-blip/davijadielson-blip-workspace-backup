@@ -628,3 +628,14 @@ Em 18/07/2026, a extração diária verificou as sessões `.jsonl` do dia anteri
 - **Ignorados:** crons rotineiros, backups, pautas automáticas, syncs operacionais, lembretes PG/PD e heartbeats.
 
 📁 Registro completo: `[F2] memory/decisions/2026-07-18-decisoes.md`
+
+## ✅ 2026-07-20 — Correções estruturais: subagentes, fallbacks e prompts C-Level
+
+### Decisões e ações
+
+- **Diagnóstico de falha de subagentes:** CMO e CCO falharam por rate limit do OpenAI Codex, compartilhado com a sessão principal. Hipótese confirmada: mesmo provider, mesma chave OAuth, 0 tokens consumidos.
+- **Configuração de fallbacks de modelo:** `agents.defaults.subagents.model` configurado com cadeia de 3 níveis: Codex (primário, mais barato) → OpenRouter DeepSeek (fallback) → Google Gemini Lite (último recurso). Timeout elevado para 300s.
+- **Regra de obediência nos prompts:** todos os 8 C-Levels receberam instrução de obediência a comandos diretos ("Responda APENAS em N linha(s)"), inserida antes do Protocolo Global para evitar leitura do Cofre em testes/pings.
+- **Testes comprovados:** 5/8 C-Levels completaram spawn com sucesso (CAIO 24s, CIO 58s, CFO 1m10s, CTO 1m45s, COO 2m34s). Os 3 que timeoutaram caíram no Codex ainda limitado.
+
+📁 Registros: `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`, `[F2] memory/decisions/2026-07-20-revisao-prompts-c-levels-obediencia-fallbacks.md`
