@@ -42,15 +42,3 @@ USER.md é o que a agente lê para saber quem eu sou. Quanto mais contexto útil
 
 *Criado em 2026-05-30 pelo wizard-aluno do Starter Kit OpenClaw v2.*
 *Edite direto. Mudanças refletem na próxima resposta.*
-
----
-
-## Preferências consolidadas — Sistema Lôh (2026-07-20)
-
-- Jadielson quer que o sistema evolua sem destruir o que já funciona.
-- Prefere que melhorias estruturais sejam consolidadas nos arquivos raiz quando estiverem claras, com backup prévio para reversão.
-- Quer prioridade máxima em evitar que a Lôh, agentes, subagentes ou tópicos se percam ou alucinem.
-- Autorizou briefing automático diário às 06h da manhã, no timezone America/Maceio.
-- Para conteúdo, prefere uma **roupagem neutra e original da empresa** como padrão-mãe para todos; clientes/frentes devem receber adaptações leves, não vozes completamente desconectadas.
-- Quer usar Content Waterfall para otimizar tempo e também fatiar projetos/demandas em partes executáveis sistematicamente.
-- Considera pertinente um checklist oficial para novos agentes, subagentes e tópicos dedicados a assuntos/frentes.
