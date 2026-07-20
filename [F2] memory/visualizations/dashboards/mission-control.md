@@ -1,7 +1,7 @@
 # 🚀 Mission Control — Jadielson / Lôh
 
-**Status:** MVP documental v0.4 — placar semanal de execução pronto  
-**Última atualização:** 2026-07-19 23:45 UTC  
+**Status:** MVP web v0.3 com dados espelhados do Cofre implementado e testado  
+**Última atualização:** 2026-07-20 00:16 UTC  
 **Fonte de verdade:** Cofre `/data/.openclaw/workspace/`  
 **Direção aprovada:** Tudo integrado, começando simples.
 
@@ -22,7 +22,11 @@
 - [x] Revisar com Jadielson quais frentes entram como prioridade real da semana.
 - [x] Criar backlog estruturado do Mission Control.
 - [x] Criar placar semanal de execução com cards reais.
-- [ ] Definir primeiro formato visual: web, Telegram ou ambos em fases.
+- [x] Definir primeiro formato visual: web primeiro.
+- [x] Registrar CRM da Lógika como Notion.
+- [x] Registrar Comunidade 1P como estudo principal da semana.
+- [x] Criar 5 artefatos operacionais.
+- [x] Criar wireframe web v0.1.
 
 ### Alertas da Lôh
 
@@ -139,6 +143,117 @@
 - CAM-001 — Checklist Câmara.
 - SIN-001 — Calendário SINDSS.
 - EST-001 — Estudo principal da semana.
+
+---
+
+## 3B. Decisões e Artefatos v0.5
+
+### Decisões confirmadas
+
+| Tema | Decisão | Fonte |
+|---|---|---|
+| Interface | Web primeiro | Jadielson, 2026-07-19 |
+| CRM Lógika | Notion | Jadielson, 2026-07-19 |
+| Estudo da semana | Comunidade 1P | Jadielson, 2026-07-19 |
+| Dashboard visual | Começar pelo web | Jadielson, 2026-07-19 |
+
+### Artefatos operacionais criados
+
+| Artefato | Caminho |
+|---|---|
+| Checklist de handoff criativo | `[F2] memory/projects/mission-control/artefatos-operacionais/checklist-handoff-criativo.md` |
+| Controle planejado vs publicado — Saúde | `[F2] memory/projects/mission-control/artefatos-operacionais/controle-planejado-vs-publicado-saude.md` |
+| Checklist de cobertura — Câmara | `[F2] memory/projects/mission-control/artefatos-operacionais/checklist-cobertura-camara.md` |
+| Calendário semanal — SINDSS | `[F2] memory/projects/mission-control/artefatos-operacionais/calendario-semanal-sindss.md` |
+| Calendário editorial — Lógika | `[F2] memory/projects/mission-control/artefatos-operacionais/calendario-editorial-logika.md` |
+| Plano de estudo — Comunidade 1P | `[F2] memory/projects/mission-control/artefatos-operacionais/plano-estudo-comunidade-1p-semana.md` |
+
+### Web
+
+| Artefato | Caminho |
+|---|---|
+| Wireframe dashboard web v0.1 | `[F2] memory/projects/mission-control/web/wireframe-dashboard-web-v01.md` |
+
+---
+
+## 3C. Dashboard Web MVP v0.1
+
+**Status:** implementado e testado localmente.  
+**Local do app:** `/data/.openclaw/mission-control-web/`  
+**URL local:** `http://127.0.0.1:4173`
+
+### Arquivos do app
+
+- `/data/.openclaw/mission-control-web/index.html`
+- `/data/.openclaw/mission-control-web/styles.css`
+- `/data/.openclaw/mission-control-web/README.md`
+
+### Conteúdo implementado
+
+- Cockpit geral.
+- Top 3 da semana.
+- Decisões confirmadas.
+- Kanban Lógika.
+- Cards Saúde/Câmara/SINDSS.
+- Estudo principal Comunidade 1P.
+- Agentes e roteamento.
+- Links rápidos do Cofre.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-19-dashboard-web-mvp-v01.md`
+
+---
+
+## 3D. Dashboard Web MVP v0.2 — Next.js modular
+
+**Status:** implementado e testado.  
+**Local do app:** `/data/.openclaw/mission-control-next/`  
+**URL local dev:** `http://127.0.0.1:4174`
+
+### Estrutura
+
+- `app/layout.jsx`
+- `app/page.jsx`
+- `app/globals.css`
+- `components/Card.jsx`
+- `components/Sidebar.jsx`
+- `lib/missionData.js`
+
+### Testes
+
+- `npm install`: OK, com alerta de 2 vulnerabilidades moderadas.
+- `npm run build`: OK.
+- Teste HTTP local: OK.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-19-nextjs-mvp-v02.md`
+
+---
+
+## 3E. Dashboard Web MVP v0.3 — Dados espelhados do Cofre
+
+**Status:** implementado e testado.  
+**Local do app:** `/data/.openclaw/mission-control-next/`  
+**URL local dev:** `http://127.0.0.1:4174`
+
+### Nova camada
+
+- `scripts/sync-cofre-data.mjs` lê arquivos `.md` do Cofre.
+- `lib/missionData.generated.js` é gerado automaticamente.
+- `app/page.jsx` consome os dados espelhados.
+- `npm run sync` atualiza o espelho.
+
+### Resultado
+
+- 15 cards espelhados do placar semanal.
+- Build OK.
+- Teste HTTP local OK.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-nextjs-dados-cofre-v03.md`
 
 ---
 
@@ -300,5 +415,5 @@
 - [x] Criar template de card operacional.
 - [x] Criar placar semanal com cards reais por frente.
 - [ ] Fazer varredura mais profunda dos arquivos de cada frente prioritária.
-- [ ] Preparar proposta do dashboard visual web.
+- [x] Preparar proposta/wireframe do dashboard visual web.
 - [ ] Se autorizado depois, iniciar protótipo técnico fora do Cofre ou em pasta apropriada, respeitando que no Cofre só entra `.md`.

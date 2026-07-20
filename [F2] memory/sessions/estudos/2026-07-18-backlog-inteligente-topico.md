@@ -86,3 +86,14 @@ Jadielson respondeu “estão todos aqui” anexando `Bonus_05-_Seu_sistema_em_0
 
 ## 2026-07-19 — Confirmação do link do ebook principal
 Jadielson confirmou que o link `https://drive.google.com/file/d/17FWFd39GuEg6AM9maxFSqz0Es9pdQBNo/view?usp=sharing` é o ebook principal. O link já está registrado no índice do curso `Você não é preguiçoso — Método TDAH`, o conteúdo integral já foi extraído para Markdown em `[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/02_EBOOKS/ebook_principal_extraido_integral.md`, e uma cópia do PDF já foi colocada via `gog` na pasta do Drive criada para o curso dentro de `ESTUDOS`.
+
+## 2026-07-20 — Blueprint Mission Control MVP criado
+Jadielson autorizou prosseguir com o blueprint do Mission Control/aplicativo inspirado no Backlog Inteligente, Método TDAH, xTiles e telas enviadas. Arquivos criados:
+
+- `[F2] memory/projects/backlog-inteligente/mission-control-blueprint-mvp-v1-2026-07-20.md`
+- `[F2] memory/context/arquitetura/pedido-loh-avaliar-mission-control-backlog-inteligente-2026-07-20.md`
+- `[F2] memory/templates/backlog-inteligente-template-tarefa-v1-2026-07-20.md`
+- `[F2] memory/templates/backlog-inteligente-painel-1-pagina-v1-2026-07-20.md`
+- `[F2] memory/templates/backlog-inteligente-revisao-semanal-v1-2026-07-20.md`
+
+Direção: validar primeiro Mission Control v0 no xTiles; depois Lôh avalia integração/app próprio.
