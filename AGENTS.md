@@ -523,15 +523,16 @@ skills/                    ← workflows complexos portáveis (cerebro, rotina, 
 
 ---
 
-## Política Google — `gog` oficial, Zapier proibido para Google
+## Política de integração — `gog` oficial, Zapier removido
 
-Decisão vigente de Jadielson/Lôh: **Google não deve ser acessado via Zapier MCP**.
+Decisão vigente de Jadielson/Lôh: **Zapier foi removido do ecossistema operacional**.
 
+- Não use Zapier MCP para Google, Notion, Miro, YouTube ou qualquer outra integração operacional.
+- Não habilite, reprovisione, descubra ações ou sugira Zapier como caminho inicial sem autorização explícita posterior de Jadielson.
 - Para Google Drive, Google Calendar, Gmail e Google Sheets, use `gog` e/ou scripts diretos do Cofre.
-- Não habilite Google novamente no Zapier sem autorização explícita de Jadielson/Lôh.
-- Não sugira Zapier como alternativa inicial para Google; diagnostique `gog`, OAuth, escopos e scripts locais primeiro.
-- Zapier pode permanecer apenas para apps não-Google quando estiver habilitado e fizer sentido.
-- Decisão registrada em `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`.
+- Para Notion e demais sistemas, priorize API direta, MCP específico, CLI, scripts locais ou Tavily/Pesquisador conforme o caso.
+- Se um briefing/rotina citar “Zapier” como fonte, considere falha de procedimento e corrija para `gog`/fonte direta.
+- Decisão registrada em `[F2] memory/decisions/2026-07-20-remocao-total-zapier-gog-oficial.md`.
 
 ## 9. Ritual de manutenção
 

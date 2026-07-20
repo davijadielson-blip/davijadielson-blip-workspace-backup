@@ -1,6 +1,6 @@
 # Snapshot CRM Lógika — 2026-07-20
 
-**Data/hora:** 2026-07-20T01:39:50.663Z  
+**Data/hora:** 2026-07-20T11:02:30.568Z  
 **Fonte:** Notion API direta / Mission Control Web  
 **Status da conexão:** Conectado via Notion API — 7 itens
 

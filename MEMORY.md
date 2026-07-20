@@ -582,22 +582,23 @@ Jadielson confirmou que Alfred (General da Central Pessoal) deve atuar como secr
 - Sempre que Alfred escalar para Lôh, Lôh executa a ponte real entre grupos.
 
 
-## 🚫 Google via Zapier — Removido; `gog` é oficial
+## 🚫 Zapier removido — `gog` é oficial para Google
 
-Jadielson reforçou em 14/07/2026: para Google, os agentes devem usar **`gog`**, porque é melhor e já é o caminho oficial.
+Jadielson reforçou em 20/07/2026: **Zapier estava atrapalhando e deve ser removido de vez**. A integração Google roda bem via **`gog`** e esse é o caminho oficial.
 
-- Google Drive, Google Calendar, Gmail e Google Sheets **não devem ser usados via Zapier MCP**.
-- As ações Google foram desabilitadas dos servidores Zapier disponíveis.
-- Estado atual: Zapier pode continuar existindo para apps não-Google, como Notion, quando explicitamente habilitado.
-- Agentes **não devem reabilitar Google no Zapier** sem autorização explícita de Jadielson/Lôh.
+- Zapier MCP **não deve ser usado** para Google, Notion, Miro, YouTube ou qualquer outra integração operacional.
+- Ações Zapier habilitadas foram desativadas nos servidores disponíveis: Gmail, Google Calendar, Google Drive, Notion e Miro.
+- Agentes **não devem habilitar, reprovisionar, descobrir ações ou sugerir Zapier** sem autorização explícita posterior de Jadielson.
+- Se algum briefing/rotina citar “Zapier” como fonte, tratar como erro de procedimento e corrigir para `gog`, API direta, MCP específico ou script local.
 - Alternativas:
   - Google Drive → `gog_drive`
   - Gmail → `gog_gmail`
   - Google Calendar → `gog_calendar` ou scripts diretos do Cofre
   - Google Sheets → `gog`/scripts diretos com OAuth Google
+  - Notion/outros sistemas → API direta, MCP específico ou scripts locais
   - Web → `tavily_search`, `tavily_extract`, `web_search`, `browser`
 
-📁 Decisão vigente: `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`
+📁 Decisão vigente: `[F2] memory/decisions/2026-07-20-remocao-total-zapier-gog-oficial.md`
 
 ---
 
