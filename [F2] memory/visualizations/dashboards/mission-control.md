@@ -1,7 +1,7 @@
 # 🚀 Mission Control — Jadielson / Lôh
 
-**Status:** MVP web v0.4 com CRM Notion modelado no dashboard  
-**Última atualização:** 2026-07-20 00:25 UTC  
+**Status:** MVP web v0.7 com CRM Notion operacional e KPIs comerciais  
+**Última atualização:** 2026-07-20 01:18 UTC  
 **Fonte de verdade:** Cofre `/data/.openclaw/workspace/`  
 **Direção aprovada:** Tudo integrado, começando simples.
 
@@ -284,6 +284,32 @@ O dashboard já mostra:
 ### Registro técnico
 
 `[F2] memory/projects/mission-control/web/2026-07-20-crm-notion-modelado-v04.md`
+
+---
+
+## 3G. Dashboard Web MVP v0.7 — CRM Notion operacional
+
+**Status:** implementado e testado.  
+**Fonte CRM:** Notion API direta / database `Pipeline`.
+
+### Resumo lido
+
+- 7 itens no pipeline.
+- R$ 203.000 em valor pretendido.
+- R$ 35.000 fechado.
+- 6 tarefas pendentes.
+
+### Status agrupados
+
+- Lead: 2
+- Contato: 2
+- Negociação: 1
+- Proposta: 1
+- Fechado: 1
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-notion-api-crm-operacional-v07.md`
 
 ---
 

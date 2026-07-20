@@ -370,3 +370,73 @@ Depois, se funcionar, Lôh avalia arquitetura para:
 2. Criar `Painel 1 Página do Backlog Inteligente`.
 3. Criar 3 templates `.md` no Cofre: tarefa, projeto, revisão semanal.
 4. Enviar para Lôh avaliar arquitetura técnica.
+
+---
+
+## 13. Atualização — Arquitetura hierárquica de projetos, subprojetos e tarefas
+
+Após novos prints e correção de Jadielson, fica decidido que o Mission Control não deve ser tratado apenas como um conjunto de matrizes.
+
+As matrizes são **visões de decisão**. O núcleo do sistema é uma hierarquia operacional:
+
+```text
+Área / Tema → Projeto → Subprojeto → Tarefa → Subtarefa / Próxima ação
+```
+
+### 13.1 Camada estrutural
+
+A camada estrutural organiza o universo de demandas antes de qualquer matriz:
+
+- áreas de vida;
+- frentes;
+- projetos;
+- subprojetos;
+- tarefas;
+- subtarefas;
+- responsáveis;
+- prazos;
+- vínculos com Cofre, Drive, Calendar e xTiles.
+
+### 13.2 Camada de visualização
+
+Depois que os itens estão estruturados, eles podem aparecer em múltiplas visões:
+
+- Hoje;
+- Amanhã;
+- Esta semana;
+- Atrasadas;
+- Backlog;
+- Agenda;
+- Matriz Eisenhower;
+- Esforço x Impacto;
+- Delegadas;
+- Travados / Protocolo 10 min;
+- Revisão semanal.
+
+### 13.3 Regra de modelagem
+
+Todo item deve responder primeiro:
+
+1. A qual área pertence?
+2. É projeto, subprojeto ou tarefa?
+3. Quem é responsável?
+4. Qual é a próxima ação?
+5. Qual o prazo de execução?
+6. Em quais visões deve aparecer?
+
+Só depois disso ele deve ser distribuído nas matrizes.
+
+### 13.4 Implicação para o MVP
+
+O MVP precisa incluir uma tela/visão de **Projetos** robusta, com navegação por:
+
+- Área;
+- Projeto;
+- Subprojeto;
+- Tarefas vinculadas;
+- Progresso;
+- Próxima ação;
+- Status;
+- Prazos.
+
+As telas de matriz continuam importantes, mas deixam de ser o centro do produto. O centro passa a ser a organização hierárquica + execução diária.

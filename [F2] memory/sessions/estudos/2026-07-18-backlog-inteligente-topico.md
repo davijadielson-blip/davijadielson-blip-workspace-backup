@@ -100,3 +100,15 @@ Direção: validar primeiro Mission Control v0 no xTiles; depois Lôh avalia int
 
 ## 2026-07-20 — Confirmação de visualização dos prints de dashboard
 Jadielson perguntou se os prints referência de dashboard foram vistos. Foi analisado o print da tela `Eisenhower` do Backlog Inteligente: menu lateral com Todas, Hoje, Amanhã, Esta Semana, Atrasadas, Backlog, Agenda, Matriz Eisenhower, Esforço x Impacto, Projetos, Templates, Integrações, Time e Delegadas; área central com busca, filtros, modo Inteligente, Mostrar sem data e quatro quadrantes. O print reforça o blueprint do Mission Control com sidebar fixa, busca/filtros no topo, cards de decisão com contadores, cores semânticas e botão de criação rápida.
+
+## 2026-07-20 — Correção conceitual: não é só matriz; é sistema projetos/subprojetos/tarefas
+Jadielson enviou novos prints e corrigiu que o sistema não deve ser visto apenas como matriz. A leitura foi atualizada: matrizes são visões de decisão; o núcleo do Mission Control é hierárquico: Área/Tema → Projeto → Subprojeto → Tarefa → Subtarefa/Próxima ação. Arquivos atualizados/criados:
+- `[F2] memory/context/estudos/backlog-inteligente-prints-projetos-subprojetos-tarefas-2026-07-20.md`
+- `[F2] memory/projects/backlog-inteligente/mission-control-blueprint-mvp-v1-2026-07-20.md` seção 13.
+
+## 2026-07-20 — Mission Control xTiles v0 gerado
+Jadielson perguntou se era possível gerar um Mission Control a partir dos prints e da análise. Foi criada uma versão prática, pronta para montar/copiar no xTiles:
+
+- `[F2] memory/projects/backlog-inteligente/mission-control-xtiles-v0-pronto-para-montar-2026-07-20.md`
+
+A estrutura inclui: Dashboard Hoje, Inbox, Áreas/Temas, Projetos, Subprojetos, Tarefas, Matriz Eisenhower, Esforço x Impacto, Travados/Protocolo 10 min, Agenda/Tempo, Revisão Semanal, prompt interno para Organizar com IA e teste de 7 dias.
