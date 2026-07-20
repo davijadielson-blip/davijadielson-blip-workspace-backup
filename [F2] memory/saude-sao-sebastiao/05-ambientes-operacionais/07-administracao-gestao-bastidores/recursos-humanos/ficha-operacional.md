@@ -4,39 +4,31 @@ frente: saude-sao-sebastiao
 ambiente: 07-administracao-gestao-bastidores
 setor: recursos-humanos
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Recursos Humanos — RH
+# Recursos Humanos — Gestão de Pessoas
 
 ## O que faz
 
-Cuida de frequência, folha, documentação funcional, benefícios, capacitações, progressões, direitos e vida funcional dos servidores.
+Gestão de pessoal da Secretaria de Saúde. Folha de pagamento, concursos, processos seletivos, contratações, férias, licenças, capacitação e direitos dos servidores.
 
-## O que compete
+## Serviços
+- Administração de pessoal e folha de pagamento
+- Concursos públicos e processos seletivos
+- Contratações temporárias
+- Gestão de férias, licenças e afastamentos
+- Direitos e vantagens dos servidores
+- Cadastro funcional
+- Capacitação e educação permanente
 
-Gestão de pessoas e servidores.
+## Público interno
+Profissionais de saúde e administrativos da SMS (médicos, enfermeiros, técnicos, ACS, ACE, administrativos)
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+Interno/gestão. Não é serviço ao público.
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Bastidores/Prestação de Contas |
-| Secundário | Institucional |
-
-## Linguagem pública recomendada
-
-“Cuidado e organização dos profissionais da saúde.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-RECURSOS HUMANOS
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Concurso na saúde: fique atento"
+- "Capacitação dos profissionais: qualidade no atendimento"
+- "Processo seletivo SMS: como participar"

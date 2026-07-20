@@ -4,39 +4,44 @@ frente: saude-sao-sebastiao
 ambiente: 07-administracao-gestao-bastidores
 setor: secretaria-administrativa
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Secretaria Administrativa
+# Secretaria Administrativa / Recepção e Regulação
 
 ## O que faz
 
-Atende população, orienta fluxos, organiza protocolos, documentos, marcação de exames e apoio administrativo.
+Sede administrativa da Secretaria Municipal de Saúde. Recepção ao público, protocolo, marcação de exames via regulação, orientação de fluxo. Ponto de apoio para usuários que precisam de exames/consultas não realizados na UBS/PSF de origem.
 
-## O que compete
+## Serviços
+- Recepção e atendimento ao público (presencial e telefone)
+- Marcação de exames (atenção básica e especializada via regulação)
+- Protocolo de documentos, solicitações e requerimentos
+- Orientação sobre fluxos e serviços
+- Agendamento de consultas especializadas
+- Regulação de vagas e referências
+- Apoio administrativo às unidades
 
-Porta administrativa e organizadora de acesso.
+## Tipos de exames/serviços relacionados à regulação
+- Ultrassonografia
+- Eletrocardiograma
+- Endoscopia
+- Consultas especializadas (oftalmologia, cardiologia, etc.)
+- Exames de alto custo (ressonância, tomografia)
+- TFD (Tratamento Fora de Domicílio)
 
-## Entra melhor em qual pilar editorial
+## Fluxo de regulação
+1. Médico na UBS/PSF solicita exame/consulta especializada
+2. Solicitação vai para a regulação na Secretaria
+3. Central de regulação agenda conforme disponibilidade
+4. Usuário é informado da data/horário/local
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Bastidores/Prestação de Contas |
-| Secundário | Serviços Especializados |
+## Linguagem pública
+"Secretaria de Saúde", "marcação de exames", "regulação", "protocolo"
 
-## Linguagem pública recomendada
-
-“Recepção da Secretaria”, “marcação e orientação”.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Secretaria; RECEPÇÃO
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Como marcar exame pela Secretaria de Saúde"
+- "Da solicitação ao agendamento: como funciona a regulação"
+- "Horário de funcionamento da Secretaria"
+- "Documentos necessários para protocolo"
+- "Regulação: o caminho do exame"

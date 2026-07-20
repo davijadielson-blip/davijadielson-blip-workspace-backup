@@ -4,39 +4,43 @@ frente: saude-sao-sebastiao
 ambiente: 04-urgencia-maternidade-movel
 setor: maternidade-municipal
 status: ativo
+curadoria: 360-concluida
 ---
 
 # Maternidade Municipal
 
 ## O que faz
 
-Atua no cuidado à gestante, parto, puerpério, bebê, triagens neonatais e urgências obstétricas conforme estrutura local.
+Atendimento obstétrico e neonatal no município. Acompanhamento do parto e puerpério. Casos de baixa complexidade são resolvidos localmente; média e alta complexidade são referenciados para Arapiraca (média) e Maceió (alta — UTI neonatal, cirurgias materno-fetais).
 
-## O que compete
+## Serviços
+- Acompanhamento do trabalho de parto
+- Parto humanizado (respeito às escolhas da gestante)
+- Pós-parto (puerpério) e cuidados com o recém-nascido
+- Aleitamento materno (apoio e orientação)
+- Primeiros cuidados neonatais
+- Estabilização antes de transferência, quando necessário
 
-Cuidado materno-infantil.
+## Fluxo
+1. Gestante acompanhada no pré-natal da UBS/PSF
+2. Encaminhamento para maternidade no momento do parto
+3. Atendimento ao parto e nascimento
+4. Alta com orientações
+5. Casos de risco: referência para Arapiraca/Maceió
 
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
+## Referências
+| Complexidade | Local |
 |---|---|
-| Principal | Rede de Apoio/Humanização |
-| Secundário | Urgência |
+| Baixa | Maternidade Municipal |
+| Média | Arapiraca |
+| Alta (UTIneo, cirurgias materno-fetais) | Maceió |
 
-## Linguagem pública recomendada
+## Linguagem pública
+"Maternidade", "parto", "gestante", "parto humanizado", "nascer em São Sebastião"
 
-“Cuidado com mãe e bebê.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Maternidade Municipal
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "São Sebastião tem maternidade — saiba como funciona"
+- "O que trazer na mala da maternidade"
+- "Parto humanizado: você tem direito a um parto respeitoso"
+- "Pré-natal + maternidade: cuidado contínuo"
+- "Aleitamento materno: apoio na maternidade e em casa"

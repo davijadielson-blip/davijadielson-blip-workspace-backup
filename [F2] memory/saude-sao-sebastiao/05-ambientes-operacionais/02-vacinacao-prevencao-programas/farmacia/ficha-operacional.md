@@ -4,39 +4,39 @@ frente: saude-sao-sebastiao
 ambiente: 02-vacinacao-prevencao-programas
 setor: farmacia
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Farmácia Municipal
+# Farmácia Municipal — Assistência Farmacêutica
 
 ## O que faz
 
-Organiza seleção, programação, aquisição, armazenamento, dispensação e orientação sobre medicamentos.
+Dispensação de medicamentos do componente básico da assistência farmacêutica (RENAME). Medicamentos gratuitos para hipertensão, diabetes, asma, anticoncepcionais, antibióticos básicos, anti-inflamatórios, analgésicos e outros itens do elenco municipal.
 
-## O que compete
+## Serviços
+- Dispensação de medicamentos básicos
+- Programa Farmácia Popular (quando disponível)
+- Medicamentos para hipertensão e diabetes (HAS/DM)
+- Anticoncepcionais
+- Antibióticos básicos
+- Medicamentos para asma e DPOC
+- Orientação sobre uso racional de medicamentos
 
-Assistência farmacêutica e acesso a medicamentos.
+## Como acessar
+- Prescrição médica ou de enfermagem da UBS/PSF
+- Retirar na farmácia da própria unidade ou na farmácia central
+- Apresentar receita e documento
 
-## Entra melhor em qual pilar editorial
+## Observação
+- Medicamentos de alto custo: competência do Estado, não do município
+- Alguns medicamentos especiais: ver com serviço social
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Atenção Básica/Programas |
-| Secundário | Bastidores |
+## Linguagem pública
+"Farmácia do SUS", "remédio gratuito", "medicação", "farmácia da UBS"
 
-## Linguagem pública recomendada
-
-“Farmácia”, “medicamentos”, “uso correto”.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Farmácia
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Você sabia que pode buscar remédios gratuitamente na UBS?"
+- "Medicamentos que o SUS fornece de graça"
+- "Uso racional de medicamentos: não se automedique"
+- "Farmácia do SUS: como retirar seus remédios"
+- "Hipertensão e diabetes: medicação gratuita todo mês"

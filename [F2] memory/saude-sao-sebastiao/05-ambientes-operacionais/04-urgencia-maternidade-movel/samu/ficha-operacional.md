@@ -4,39 +4,44 @@ frente: saude-sao-sebastiao
 ambiente: 04-urgencia-maternidade-movel
 setor: samu
 status: ativo
+curadoria: 360-concluida
 ---
 
-# SAMU
+# SAMU — Serviço de Atendimento Móvel de Urgência
 
 ## O que faz
 
-Realiza atendimento pré-hospitalar móvel regulado pelo 192 para urgências e emergências.
+Atendimento pré-hospitalar móvel de urgência. Recebe chamadas pelo 192, regula cada caso, envia ambulância quando necessário. Atende emergências clínicas, traumáticas, obstétricas e psiquiátricas no local da ocorrência.
 
-## O que compete
+## Estrutura
+- Central de Regulação (médico regulador)
+- Ambulâncias de suporte básico (USB)
+- Ambulância de suporte avançado (USA) — quando disponível
 
-Urgência móvel e resposta pré-hospitalar.
+## Quando ligar 192
+- Parada cardiorrespiratória
+- Acidentes graves
+- Dor no peito (suspeita de infarto)
+- Dificuldade respiratória grave
+- Convulsões
+- Intoxicação/overdose
+- Afogamento
+- Quedas com suspeita de fratura grave
 
-## Entra melhor em qual pilar editorial
+## Diferenciais
+| Serviço | Telefone | O que faz |
+|---|---|---|
+| SAMU | 192 | Urgências clínicas e traumáticas |
+| Bombeiros | 193 | Incêndios, resgates, desastres |
+| Polícia | 190 | Segurança pública |
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Urgência/Serviço |
-| Secundário | Prestação de contas |
+## Linguagem pública
+"SAMU", "192", "ambulância", "emergência"
 
-## Linguagem pública recomendada
-
-“Ligue 192 em caso de urgência grave.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/SAMU; 04 - Rede e Referências/SAMU; SAMU
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Quando ligar 192: o SAMU salva vidas"
+- "O que acontece quando você liga 192"
+- "SAMU x Bombeiros: qual a diferença?"
+- "Primeiros socorros: o que fazer enquanto o SAMU não chega"
+- "A importância da regulação médica"
+- "NÃO ligue 192 para transporte ou consulta"

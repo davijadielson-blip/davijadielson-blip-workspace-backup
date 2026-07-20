@@ -4,39 +4,45 @@ frente: saude-sao-sebastiao
 ambiente: 05-rede-apoio-humanizacao
 setor: melhor-em-casa
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Melhor em Casa
+# Melhor em Casa — Serviço de Atenção Domiciliar (SAD)
 
 ## O que faz
 
-Programa de atenção domiciliar para pacientes que precisam de cuidado continuado em casa, curativos, fisioterapia, orientação a cuidadores e pós-hospitalização.
+Atendimento domiciliar para pessoas com necessidades de cuidados prolongados, que têm dificuldade ou impossibilidade de locomoção até a UBS. Substitui ou reduz necessidade de internação hospitalar. Equipe multiprofissional vai até a residência do paciente.
 
-## O que compete
+## Serviços oferecidos
+- Curativos complexos (úlceras por pressão, feridas cirúrgicas)
+- Administração de medicamentos injetáveis ou enterais
+- Cuidados com sondas (nasoenteral, vesical, gastrostomia)
+- Cuidados com ostomias (colostomia, ileostomia, traqueostomia)
+- Fisioterapia respiratória e motora domiciliar
+- Cuidados paliativos
+- Orientação para cuidadores
+- Acompanhamento de pacientes crônicos complexos
 
-Atenção domiciliar.
+## Critérios de elegibilidade
+- Paciente com dificuldade de locomoção até a unidade de saúde
+- Necessidade de cuidados prolongados
+- Existência de cuidador no domicílio
+- Indicação clínica para atendimento domiciliar
 
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
+## Diferença Melhor em Casa vs EMULTI
+| Melhor em Casa | EMULTI |
 |---|---|
-| Principal | Rede de Apoio/Humanização |
-| Secundário | Domiciliar |
+| Foco em pacientes acamados/complexos | Atendimento compartilhado + domiciliar |
+| Cuidados prolongados/paliativos | Preventivo e reabilitador |
+| Substitui internação | Apoio técnico à UBS |
+| Equipe dedicada | Profissionais de várias áreas |
 
-## Linguagem pública recomendada
+## Linguagem pública
+"Atendimento em casa", "cuidador", "cuidados paliativos", "saúde em casa"
 
-“Cuidado em casa para quem precisa de acompanhamento.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Melhor em Casa
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Saúde que vai até sua casa — Programa Melhor em Casa"
+- "Quem pode ser atendido pelo Melhor em Casa"
+- "Cuidados paliativos: cuidar com dignidade até o fim"
+- "Curativos complexos em casa: como funciona"
+- "Dica para cuidadores: como cuidar de quem cuida"

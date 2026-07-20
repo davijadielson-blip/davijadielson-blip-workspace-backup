@@ -1,23 +1,33 @@
 ---
 tipo: ideias-de-conteudo
 status: ativo
+curadoria: 360-enriquecida
 ---
 
-# Ideias de conteúdo consolidadas
+# Ideias de conteúdo — Endemias / Controle de Vetores
 
+## Séries sugeridas
+- **"10 Minutos Contra a Dengue"** — série de prevenção
+- **"Conheça o ACE"** — o agente que protege sua casa
 
-## De `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Endemias/Endemias.md`
+## Ideias por formato
+### Reels
+- "10 minutos por semana: o suficiente para eliminar o Aedes"
+- "Agente de endemias: receba bem, ele protege você"
+- "Época de chuvas: checklist contra a dengue"
 
-## Ideias de Conteúdo
+### Carrosséis
+- "Dengue, zika e chikungunya: sintomas e diferenças"
+- "Como eliminar criadouros do Aedes (passo a passo)"
+- "ACE x ACS: qual a diferença?"
 
-- Post de alerta sazonal: "Época de chuvas — cuidado com a dengue"
-- Card: "10 minutos por semana para eliminar o Aedes aegypti" (dicas práticas)
-- Post apresentando os ACE: "Eles visitam sua casa para proteger sua saúde"
-- Infográfico: ciclo do Aedes e onde nascem os mosquitos
-- Post sobre esquistossomose: "Doença do caramujo — saiba como se proteger"
-- Campanha de mutirão comunitário de limpeza
+### Stories
+- "Dentro do borrifador: como funciona o fumacê"
+- "Inspeção domiciliar: o que o ACE procura"
+- "Mutirão de limpeza: participe"
 
----
-
-← [[00 - Setores Complementares - MOC|Setores Complementares]]
-
+## Ângulos inexplorados
+- Leishmaniose visceral: uma doença que também é combatida
+- Escorpiões: como evitar acidentes
+- Como denunciar foco de dengue
+- ACE: profissão que salva vidas silenciosamente

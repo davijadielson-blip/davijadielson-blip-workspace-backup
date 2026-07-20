@@ -4,39 +4,30 @@ frente: saude-sao-sebastiao
 ambiente: 07-administracao-gestao-bastidores
 setor: cpd-sistemas
 status: ativo
+curadoria: 360-concluida
 ---
 
-# CPD / Sistemas
+# CPD — Sistemas e Tecnologia da Informação
 
 ## O que faz
 
-Apoia sistemas de informação como e-SUS, SISREG, SINAN, SIM, SINASC, SI-PNI, HÓRUS e infraestrutura tecnológica.
+Gestão dos sistemas de informação em saúde. Responsável por sistemas como SI-PNI, SISREG, SINAN, e-SUS AB, CadWeb e outros. Manutenção de equipamentos, redes e suporte técnico às unidades.
 
-## O que compete
+## Serviços
+- Manutenção de equipamentos (computadores, impressoras, redes)
+- Suporte técnico às unidades de saúde
+- Gestão de sistemas de informação (e-SUS, SI-PNI, SISREG, SINAN)
+- Infraestrutura de TI
+- Alimentação e extração de dados dos sistemas
+- Apoio à gestão com dados e relatórios
 
-Tecnologia, sistemas e informação em saúde.
+## Impacto
+Sem TI funcionando, as unidades não registram atendimentos, não enviam dados, não regulam pacientes. É invisível, mas essencial.
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+Interno/gestão. Para conteúdo: "Bastidores digitais do SUS"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Bastidores/Prestação de Contas |
-| Secundário | Regulação |
-
-## Linguagem pública recomendada
-
-“Sistemas que organizam dados e atendimentos.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Citado no MOC; nota canônica F1 ausente
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Bastidores: como a tecnologia ajuda a saúde"
+- "Sistemas do SUS: o que são e para que servem"
+- "Desafios da saúde pública contados com honestidade"

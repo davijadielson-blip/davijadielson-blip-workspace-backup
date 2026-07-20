@@ -4,39 +4,29 @@ frente: saude-sao-sebastiao
 ambiente: 07-administracao-gestao-bastidores
 setor: almoxarifado
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Almoxarifado
+# Almoxarifado — Gestão de Insumos e Suprimentos
 
 ## O que faz
 
-Recebe, armazena, controla e distribui insumos, materiais e estoques para setores e unidades.
+Gestão de materiais, insumos e equipamentos da Secretaria de Saúde. Compra, armazenamento e distribuição de tudo que as unidades precisam: medicamentos, materiais de curativo, EPIs, materiais odontológicos, itens administrativos.
 
-## O que compete
+## Serviços
+- Recebimento e armazenamento de materiais
+- Distribuição para UBSs, PSFs, Unidade Mista e demais serviços
+- Controle de estoque e validade
+- Gestão de compras e licitações (suprimentos)
+- Abastecimento das unidades
 
-Logística e abastecimento.
+## Importância
+Sem almoxarifado funcionando, as unidades não têm insumo para atender. É logística pura — e essencial.
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+Interno/gestão. Quando virar conteúdo: "Bastidores do SUS: como os insumos chegam às unidades"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Bastidores/Prestação de Contas |
-| Secundário | Gestão |
-
-## Linguagem pública recomendada
-
-“Bastidor que garante material para a rede funcionar.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-99 - Referência Interna/Gestão/Almoxarifado; SAMU/Almoxarifado
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Bastidores: como chegam os materiais na UBS"
+- "Logística da saúde: o caminho do insumo"
+- "Abastecimento garantido: a saúde funciona"

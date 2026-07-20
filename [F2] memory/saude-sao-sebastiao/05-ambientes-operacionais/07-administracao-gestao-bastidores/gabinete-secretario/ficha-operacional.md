@@ -4,39 +4,32 @@ frente: saude-sao-sebastiao
 ambiente: 07-administracao-gestao-bastidores
 setor: gabinete-secretario
 status: ativo
+curadoria: 360-concluida
 ---
 
 # Gabinete do Secretário
 
 ## O que faz
 
-Coordena gestão estratégica, decisões institucionais e articulação com órgãos, Câmara, Ministério Público, CIR/CIB e parceiros.
+Gabinete do Secretário Municipal de Saúde. Direção superior da SMS. Responsável pelas decisões estratégicas, políticas de saúde, relação com o prefeito, Câmara de Vereadores, conselhos de saúde e imprensa.
 
-## O que compete
+## Competências
+- Direção superior da Secretaria
+- Planejamento estratégico da saúde municipal
+- Relação institucional (Prefeitura, Câmara, Conselho Municipal de Saúde)
+- Prestação de contas e transparência
+- Autorização de despesas e convênios
+- Representação do município em eventos de saúde
+- Gestão de crises sanitárias
 
-Gestão política e estratégica da SMS.
+## Secretário
+Felipe Regueira
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+"Secretaria de Saúde", "gestão municipal", "prestação de contas"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Institucional/Gestão |
-| Secundário | Prestação de contas |
-
-## Linguagem pública recomendada
-
-“Gestão da Secretaria”.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Citado no MOC; nota canônica F1 ausente
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Prestação de contas da saúde: o que foi feito"
+- "Entrevista com o secretário: planos e desafios"
+- "Conselho Municipal de Saúde: participe"
+- "Saúde em números: transparência"

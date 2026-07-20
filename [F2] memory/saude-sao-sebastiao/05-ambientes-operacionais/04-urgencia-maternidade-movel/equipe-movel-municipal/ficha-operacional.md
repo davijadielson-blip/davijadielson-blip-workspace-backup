@@ -4,39 +4,26 @@ frente: saude-sao-sebastiao
 ambiente: 04-urgencia-maternidade-movel
 setor: equipe-movel-municipal
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Equipe móvel municipal / viatura
+# Equipe Móvel Municipal
 
 ## O que faz
 
-Apoia deslocamentos/atendimentos móveis conforme organização municipal.
+Atendimento móvel para urgências e transporte de pacientes no âmbito municipal. Apoia a Unidade Mista, SAMU e serviços de saúde. Realiza transporte de pacientes para consultas, exames e tratamentos em Arapiraca e Maceió.
 
-## O que compete
+## Serviços
+- Transporte sanitário de pacientes
+- Remoção de urgência (quando SAMU não disponível)
+- Apoio à Unidade Mista e Maternidade
+- Transporte para TFD (Tratamento Fora de Domicílio)
+- Apoio em eventos de saúde
 
-Apoio operacional ao atendimento e transporte/serviço móvel.
+## Linguagem pública
+"Transporte de pacientes", "ambulância municipal", "remoção"
 
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
-|---|---|
-| Principal | Urgência/Serviço |
-| Secundário | Bastidores |
-
-## Linguagem pública recomendada
-
-Usar com cautela e confirmar função atual antes de publicar.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Hospital , Pronto Atendimento; UNIDADE MISTA
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Transporte sanitário: como funciona"
+- "A ambulância que leva você ao tratamento"
+- "Equipe móvel: apoio que salva vidas"

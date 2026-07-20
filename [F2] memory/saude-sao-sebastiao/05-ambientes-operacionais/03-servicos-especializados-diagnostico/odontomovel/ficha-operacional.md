@@ -4,39 +4,30 @@ frente: saude-sao-sebastiao
 ambiente: 03-servicos-especializados-diagnostico
 setor: odontomovel
 status: ativo
+curadoria: 360-concluida
 ---
 
 # Odontomóvel
 
 ## O que faz
 
-Leva atendimento odontológico itinerante a comunidades, zona rural e escolas quando programado.
+Unidade odontológica móvel. Leva atendimento odontológico básico a comunidades sem consultório odontológico fixo, especialmente zona rural, escolas e eventos.
 
-## O que compete
+## Serviços
+- Consultas odontológicas preventivas e restauradoras básicas
+- Exodontias simples (extrações)
+- Aplicação de flúor e selante
+- Orientação de higiene bucal
+- Triagem para encaminhamento ao CEO quando necessário
 
-Odontologia itinerante.
+## Cobertura
+Comunidades rurais, escolas municipais, eventos de saúde, áreas sem UBS com odontologia
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+"Odontomóvel", "dentista móvel", "consultório sobre rodas"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Serviços Especializados |
-| Secundário | Território |
-
-## Linguagem pública recomendada
-
-“Dentista mais perto da comunidade.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Odontomóvel
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "O dentista foi até você — conheça o Odontomóvel"
+- "Onde o Odontomóvel vai estar essa semana"
+- "Saúde bucal vai ao campo: Odontomóvel na zona rural"
+- "Escola + Odontomóvel: sorriso de criança"

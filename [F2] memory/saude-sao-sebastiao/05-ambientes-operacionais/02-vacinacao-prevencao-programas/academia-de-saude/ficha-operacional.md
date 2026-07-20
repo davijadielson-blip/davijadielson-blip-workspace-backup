@@ -4,39 +4,34 @@ frente: saude-sao-sebastiao
 ambiente: 02-vacinacao-prevencao-programas
 setor: academia-de-saude
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Academia de Saúde
+# Academia da Saúde
 
 ## O que faz
 
-Promove atividades físicas, grupos, prevenção e orientação para hábitos saudáveis.
+Programa de atividade física e promoção da saúde. Espaço público com equipamentos e profissionais orientando exercícios, grupos de caminhada, alongamento e atividades coletivas.
 
-## O que compete
+## Serviços
+- Atividades físicas orientadas
+- Grupos de caminhada
+- Alongamento e ginástica
+- Atividades coletivas (dança, funcional)
+- Orientação nutricional (quando disponível)
+- Avaliação física básica
+- Promoção do envelhecimento ativo
+- Integração social
 
-Promoção da saúde e cuidado preventivo.
+## Coordenação
+Alissandra (EMULTI · Espaço Cuidar · Academias)
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+"Academia da Saúde", "atividade física gratuita", "exercício na praça"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Promoção da Saúde |
-| Secundário | Humanização |
-
-## Linguagem pública recomendada
-
-“Atividade física acompanhada”, “cuidado com a rotina”.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Academia de Saúde
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Exercício é remédio: venha para a Academia da Saúde"
+- "Atividade física gratuita em São Sebastião"
+- "Grupo de caminhada: cuidado que move"
+- "Envelhecimento ativo: nunca é tarde para começar"
+- "Como participar da Academia da Saúde"

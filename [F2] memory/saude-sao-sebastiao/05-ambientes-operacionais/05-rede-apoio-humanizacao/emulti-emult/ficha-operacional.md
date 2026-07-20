@@ -4,39 +4,52 @@ frente: saude-sao-sebastiao
 ambiente: 05-rede-apoio-humanizacao
 setor: emulti-emult
 status: ativo
+curadoria: 360-concluida
 ---
 
-# EMULTI / EMULT
+# EMULTI — Equipe Multiprofissional
 
 ## O que faz
 
-Equipe multiprofissional que apoia cuidado domiciliar/territorial com fisioterapia, nutrição, psicologia, fono, terapia ocupacional, farmácia clínica, enfermagem e áreas médicas conforme agenda.
+Equipe que apoia a atenção básica com profissionais especializados. Atende casos que a UBS/PSF não consegue resolver sozinha. Realiza atendimento compartilhado, matriciamento e, quando necessário, atendimento domiciliar.
 
-## O que compete
+## Profissionais
+- Fisioterapeuta
+- Nutricionista
+- Fonoaudiólogo
+- Psicólogo
+- Assistente social
+- Terapeuta ocupacional (quando disponível)
 
-Apoio multiprofissional e cuidado ampliado.
+## Serviços
+- Atendimento compartilhado com a equipe da UBS/PSF
+- Matriciamento: apoio técnico às equipes
+- Atendimento domiciliar para pacientes com dificuldade de locomoção
+- Grupos terapêuticos e educativos
+- Reabilitação física
+- Orientação nutricional
+- Terapia fonoaudiológica
 
-## Entra melhor em qual pilar editorial
+## Coordenação
+Alissandra (EMULTI · Espaço Cuidar · Academias)
 
-| Tipo | Pilar |
+## Diferença EMULTI vs Melhor em Casa
+| EMULTI | Melhor em Casa |
 |---|---|
-| Principal | Rede de Apoio/Humanização |
-| Secundário | Domiciliar |
+| Atendimento compartilhado + domiciliar | Domiciliar exclusivo |
+| Casos que precisam de múltiplos profissionais | Pacientes acamados/complexos |
+| Apoio técnico à UBS/PSF | Substituição da internação |
+| Preventivo e reabilitador | Cuidados prolongados/paliativos |
 
-## Linguagem pública recomendada
+## Linguagem pública
+"Equipe multiprofissional", "atendimento especializado na UBS", "profissionais que vão até sua casa"
 
-“Equipe multiprofissional”, “cuidado que olha a pessoa inteira”.
+## Ideias de conteúdo
+- "Sua UBS tem mais profissionais do que você imagina"
+- "EMULTI: a equipe que cuida de você de vários jeitos"
+- "Fisioterapia gratuita: como acessar"
+- "Nutricionista no SUS: orientação que faz diferença"
+- "Quando o especialista vai até sua casa"
 
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/EMULTI; EMULT
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Fontes
+- `01 - Estrutura Organizacional/Setores Complementares/EMULTI/`

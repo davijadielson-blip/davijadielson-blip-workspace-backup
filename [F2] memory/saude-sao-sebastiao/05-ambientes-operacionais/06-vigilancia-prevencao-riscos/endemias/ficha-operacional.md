@@ -4,39 +4,46 @@ frente: saude-sao-sebastiao
 ambiente: 06-vigilancia-prevencao-riscos
 setor: endemias
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Endemias
+# Endemias — Controle de Vetores e Zoonoses
 
 ## O que faz
 
-Realiza visitas, controle vetorial, LIRAa, ações contra dengue, zika, chikungunya, esquistossomose, leishmaniose e orientação comunitária.
+Prevenção e controle de doenças transmitidas por vetores (dengue, zika, chikungunya, leishmaniose, esquistossomose, raiva). Agentes de Combate às Endemias (ACE) visitam imóveis, identificam focos, aplicam larvicidas, orientam a população.
 
-## O que compete
+## Serviços
+- Visitas domiciliares para identificação de focos do Aedes aegypti
+- Aplicação de larvicida em criadouros
+- Borrifação (UBV — fumacê) quando necessário
+- Controle de roedores, escorpiões e outros vetores
+- Investigação de casos notificados
+- Busca ativa de focos em pontos estratégicos
+- Campanhas de conscientização
+- Vacinação antirrábica animal (cães e gatos)
+- Controle de esquistossomose (caramujos)
 
-Controle de endemias e prevenção no território.
+## Ações sazonais
+- **Verão/chuvas:** intensificação contra dengue, zika, chikungunya
+- **Anual:** Campanha de vacinação antirrábica
+- **Periódicas:** mutirões de limpeza nos bairros
 
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
+## Diferença ACE vs ACS
+| ACE (Endemias) | ACS (Atenção Básica) |
 |---|---|
-| Principal | Vigilância/Prevenção |
-| Secundário | Território |
+| Foco em doenças transmitidas por vetores | Foco em saúde da família |
+| Visita para inspeção de focos | Visita para cadastro e acompanhamento |
+| Aplica larvicida e faz borrifação | Orienta sobre saúde geral e vacinação |
+| Ação pontual/periódica | Ação contínua com todas as famílias |
 
-## Linguagem pública recomendada
+## Linguagem pública
+"Agente de endemias", "dengue", "Aedes aegypti", "fumacê", "prevenção"
 
-“Combate ao mosquito”, “visita do agente de endemias”.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Endemias; ENDEMIAS
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "10 minutos por semana contra a dengue"
+- "Agente de endemias na sua casa: receba bem"
+- "Época de chuvas: cuidados com a dengue"
+- "Diferença entre agente de endemias e agente de saúde"
+- "Vacinação antirrábica: proteja seu pet"
+- "Mutirão contra a dengue: participe"

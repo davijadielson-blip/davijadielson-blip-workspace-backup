@@ -1,21 +1,31 @@
 ---
 tipo: ideias-de-conteudo
 status: ativo
+curadoria: 360-enriquecida
 ---
 
-# Ideias de conteúdo consolidadas
+# Ideias de conteúdo — Unidade Mista / Pronto Atendimento
 
+## Séries sugeridas
+- **"Onde Ir?"** — guia definitivo de quando procurar cada serviço
+- **"24h de Saúde"** — como funciona o atendimento noturno
 
-## De `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Unidade Mista/Unidade Mista.md`
+## Ideias por formato
+### Reels
+- "UBS x Unidade Mista x SAMU: quando ir em cada um"
+- "O que levar quando for ao Pronto Atendimento"
 
-## Ideias de Conteúdo
+### Carrosséis
+- "5 motivos para ir à Unidade Mista (e 3 para não ir)"
+- "Unidade Mista 24h: o que atende"
+- "Acolhimento no PA: como funciona"
 
-- Post: "Quando ir à Unidade Mista e quando ligar o 192 (SAMU)?"
-- Card: diferença entre UBS, Unidade Mista e Hospital
-- Post sobre a maternidade municipal — parto humanizado
-- Infográfico do fluxo de urgência no município
+### Stories
+- "Chegou na Unidade Mista: o que acontece"
+- "Classificação de risco: como é feita"
+- "Documentos necessários"
 
----
-
-← [[00 - Setores Complementares - MOC|Setores Complementares]]
-
+## Ângulos inexplorados
+- Acolhimento com classificação de risco: não é fila, é prioridade clínica
+- Quando a Unidade Mista não resolve: o fluxo para Arapiraca/Maceió
+- A equipe da Unidade Mista: quem trabalha 24h por você

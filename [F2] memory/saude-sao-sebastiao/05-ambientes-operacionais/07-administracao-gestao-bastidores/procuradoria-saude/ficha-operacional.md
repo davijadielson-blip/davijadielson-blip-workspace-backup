@@ -4,39 +4,26 @@ frente: saude-sao-sebastiao
 ambiente: 07-administracao-gestao-bastidores
 setor: procuradoria-saude
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Procuradoria Saúde
+# Procuradoria da Saúde — Assessoria Jurídica
 
 ## O que faz
 
-Dá apoio jurídico, pareceres, contratos, licitações, notas técnicas, orientação normativa e judicialização da saúde.
+Assessoria jurídica da Secretaria de Saúde. Processos administrativos, licitações, contratos, ações judiciais, Termos de Ajustamento de Conduta (TAC), defesa em processos.
 
-## O que compete
+## Serviços
+- Assessoria jurídica à gestão
+- Análise de contratos e licitações
+- Processos administrativos disciplinares
+- Ações judiciais envolvendo a saúde
+- Cumprimento de decisões judiciais (medicamentos, tratamentos)
+- TAC (Termo de Ajustamento de Conduta)
 
-Segurança jurídica da gestão.
+## Linguagem pública
+Interno/gestão. Baixo potencial de conteúdo público.
 
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
-|---|---|
-| Principal | Bastidores/Prestação de Contas |
-| Secundário | Gestão |
-
-## Linguagem pública recomendada
-
-“Apoio jurídico para a rede funcionar com responsabilidade.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-PROCURADORIA SAÚDE
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Direito à saúde: como funciona a judicialização"
+- "Garantia de medicamentos: o papel da procuradoria"

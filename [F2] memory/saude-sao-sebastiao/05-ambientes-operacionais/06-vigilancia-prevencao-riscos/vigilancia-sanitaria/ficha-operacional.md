@@ -4,39 +4,38 @@ frente: saude-sao-sebastiao
 ambiente: 06-vigilancia-prevencao-riscos
 setor: vigilancia-sanitaria
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Vigilância Sanitária
+# Vigilância Sanitária (VISA)
 
 ## O que faz
 
-Fiscaliza e orienta sobre alimentos, serviços de saúde, medicamentos, cosméticos, salões, piscinas, denúncias, licenciamento e segurança sanitária.
+Fiscalização de estabelecimentos, produtos e serviços que possam afetar a saúde da população. Alvarás sanitários, inspeções em feiras, bares, mercados, hospitais, farmácias, escolas, creches, salões de beleza, eventos públicos.
 
-## O que compete
+## Serviços
+- Emissão e renovação de alvará sanitário
+- Inspeção em estabelecimentos comerciais e de serviços
+- Fiscalização de feiras livres e eventos públicos
+- Controle de qualidade de alimentos e água
+- Investigação de denúncias (irregularidades sanitárias)
+- Interdição de estabelecimentos irregulares
+- Orientação a comerciantes e empresários
+- Ações educativas para manipuladores de alimentos
 
-Proteção sanitária da população.
+## Quando procurar a VISA
+- Abrir um negócio (restaurante, farmácia, supermercado)
+- Denunciar condições insalubres
+- Suspeita de intoxicação alimentar
+- Irregularidades em serviços de saúde
+- Água ou alimento suspeito
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+"Vigilância sanitária", "VISA", "fiscalização", "alvará sanitário", "denúncia"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Vigilância/Prevenção |
-| Secundário | Prestação de contas |
-
-## Linguagem pública recomendada
-
-“Segurança dos alimentos, ambientes e serviços.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Vigilância Sanitária; VIGILÂNCIA SANITÁRIA
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "VISA: quem fiscaliza o que você consome"
+- "Como denunciar um estabelecimento irregular"
+- "Alvará sanitário: o que é e por que importa"
+- "O que a vigilância sanitária fiscaliza nas feiras"
+- "Manipulação de alimentos: cuidados que salvam"

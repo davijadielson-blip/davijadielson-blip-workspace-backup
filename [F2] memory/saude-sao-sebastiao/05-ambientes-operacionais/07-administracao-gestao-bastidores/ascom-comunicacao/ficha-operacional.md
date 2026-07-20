@@ -4,39 +4,41 @@ frente: saude-sao-sebastiao
 ambiente: 07-administracao-gestao-bastidores
 setor: ascom-comunicacao
 status: ativo
+curadoria: 360-concluida
 ---
 
-# ASCOM / Comunicação
+# ASCOM — Assessoria de Comunicação
 
 ## O que faz
 
-Apoia comunicação institucional, divulgação, alinhamento de informações e relação com público.
+Comunicação social da Secretaria de Saúde. Produção de conteúdo para redes sociais (Instagram), fotografia, releases, mídias locais, campanhas, cobertura de eventos e ações de saúde. Mantém o calendário editorial.
 
-## O que compete
+## Produção
+- Conteúdo para Instagram (stories, feed, reels)
+- Cobertura de eventos e ações da SMS
+- Campanhas sazonais (vacinação, dengue, prevenção)
+- Release para imprensa local
+- Fotografia institucional
+- Banco de imagens e material gráfico
 
-Comunicação da saúde.
+## Calendário editorial
+Seg a Sex com pilares temáticos:
+- Seg: Atenção Básica/Território
+- Ter: Serviços Especializados
+- Qua: Vacinação/Prevenção
+- Qui: Rede de Apoio/Humanização
+- Sex: Bastidores + Prestação de Contas
+- Sáb/Dom: campanhas ou descanso
 
-## Entra melhor em qual pilar editorial
+## Formato das rotas
+- 4-5 stories por rota
+- 1 post/reel no feed
+- Padrão: card + foto + texto
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Bastidores |
-| Secundário | Institucional |
+## Linguagem pública
+Depende do conteúdo. Informativo, acolhedor, prestação de contas.
 
-## Linguagem pública recomendada
-
-“Informação clara para a população.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-ASCOM
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Bastidores da comunicação na saúde"
+- "Como é produzir conteúdo sobre saúde pública"
+- "O trabalho por trás das postagens"

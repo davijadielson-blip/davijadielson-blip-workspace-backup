@@ -4,39 +4,34 @@ frente: saude-sao-sebastiao
 ambiente: 03-servicos-especializados-diagnostico
 setor: oftalmologia
 status: ativo
+curadoria: 360-concluida
 ---
 
 # Oftalmologia
 
 ## O que faz
 
-Realiza consultas e avaliações de saúde ocular, óculos, glaucoma, catarata, retinopatia e triagem visual quando disponível.
+Atendimento oftalmológico especializado. Avaliação da visão, diagnóstico de doenças oculares, prescrição de óculos, identificação de glaucoma, catarata e retinopatias.
 
-## O que compete
+## Serviços
+- Consultas oftalmológicas (avaliação especializada da visão)
+- Refração e prescrição de lentes corretivas
+- Identificação de patologias (glaucoma, catarata, retinopatia diabética, degeneração macular)
+- Encaminhamento para cirurgias (catarata, glaucoma)
 
-Cuidado especializado com a visão.
+## Fluxo de acesso
+1. Consulta na UBS/PSF com queixa visual
+2. Encaminhamento para oftalmologia
+3. Agendamento via regulação
+4. Consulta especializada
+5. Prescrição ou encaminhamento cirúrgico
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+"Oftalmologista", "exame de vista", "óculos pelo SUS", "consulta de vista"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Serviços Especializados |
-| Secundário | Prestação de contas |
-
-## Linguagem pública recomendada
-
-“Cuidado com a visão”, “consulta/avaliação dos olhos”.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Oftalmologia
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Exame de vista gratuito pelo SUS"
+- "Glaucoma: o inimigo silencioso da visão"
+- "Catarata: quando operar pelo SUS"
+- "Como cuidar da visão em cada idade"
+- "Óculos pelo SUS: como conseguir"

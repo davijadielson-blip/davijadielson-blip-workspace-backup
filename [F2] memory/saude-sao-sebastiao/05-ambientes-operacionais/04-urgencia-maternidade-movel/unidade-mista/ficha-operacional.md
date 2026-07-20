@@ -4,39 +4,36 @@ frente: saude-sao-sebastiao
 ambiente: 04-urgencia-maternidade-movel
 setor: unidade-mista
 status: ativo
+curadoria: 360-concluida
 ---
 
 # Unidade Mista / Pronto Atendimento
 
 ## O que faz
 
-Acolhe urgências municipais, pronto atendimento, observação, estabilização, medicação, procedimentos e encaminhamentos quando necessário.
+Atendimento de urgência e emergência de baixa e média complexidade. Funciona 24h. Atende casos que não podem esperar o horário da UBS, estabiliza pacientes graves antes da transferência.
 
-## O que compete
+## Serviços
+- Pronto Atendimento 24h
+- Estabilização clínica de urgências
+- Pequenos procedimentos e suturas
+- Administração de medicamentos injetáveis
+- Observação clínica (leitos de observação)
+- Atendimento a urgências clínicas (crise hipertensiva, crise asmática, desidratação, etc.)
 
-Urgência municipal e estabilização.
-
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
+## Quando procurar
+| Local | Indicação |
 |---|---|
-| Principal | Urgência/Serviço |
-| Secundário | Bastidores |
+| UBS/PSF | Rotina, prevenção, consultas agendadas |
+| Unidade Mista | Urgências (dor, febre alta, mal-estar súbito) |
+| SAMU (192) | Emergências graves, acidentes, risco de morte |
 
-## Linguagem pública recomendada
+## Linguagem pública
+"Pronto Atendimento", "Unidade Mista", "24 horas"
 
-“Urgência”, “pronto atendimento”, “Unidade Mista”.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Unidade Mista; UNIDADE MISTA
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Quando ir à Unidade Mista e quando ir à UBS"
+- "Unidade Mista 24h: o que atende e o que não atende"
+- "Diferença entre UBS, Unidade Mista e SAMU"
+- "Pronto Atendimento: como funciona o acolhimento"
+- "Em caso de urgência: saiba aonde ir"

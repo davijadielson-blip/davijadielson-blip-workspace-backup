@@ -4,39 +4,46 @@ frente: saude-sao-sebastiao
 ambiente: 01-atencao-basica-territorio
 setor: psf-equipes
 status: ativo
+curadoria: 360-concluida
 ---
 
-# PSF / Equipes de Saúde da Família
+# PSF — Equipes de Saúde da Família
 
 ## O que faz
 
-Organizam o cuidado por território; acompanham famílias; integram médico, enfermagem, técnico e ACS.
+Estratégia central de atenção básica. 17 equipes de Saúde da Família (15 regulares + 2 indígenas Karapotó) que cobrem ~92% da população. Cada equipe faz promoção, prevenção, diagnóstico, tratamento e reabilitação — com foco no território.
+
+## Equipe padrão
+- Médico generalista
+- Enfermeiro(a)
+- Técnico(a) de enfermagem
+- Agentes Comunitários de Saúde (ACS)
+
+## PSFs urbanos (5)
+Centro Mestra Clarice, São José, Rancho Alegre, Cruzeiro, Peroba
+
+## PSFs rurais (10)
+Lagoa Seca, Flexeira, Cana Brava, Curralinho, Maracujá, Brejinho II, Grotão, Pedra Preta, Gado Bravo, Sapé
+
+## PSFs indígenas (2)
+Karapotó Plak-Ô, Karapotó Terra Nova
+- Equipe: médico, enfermeiro, dentista, AIS (Agente Indígena de Saúde)
+- Atendimento com abordagem culturalmente adequada (PNASPI)
 
 ## O que compete
+Porta de entrada do sistema. Conhecimento do território. Vínculo com a comunidade. Visita domiciliar. Cadastro e acompanhamento das famílias.
 
-Estratégia/equipe responsável pelo território da Atenção Básica.
+## Linguagem pública
+"Equipe de saúde da família", "PSF", "médico da família", "enfermeiro do PSF", "agente de saúde"
 
-## Entra melhor em qual pilar editorial
+## Ideias de conteúdo
+- Série "PSF em Foco" — cada equipe/setor
+- "Qual PSF atende sua rua?"
+- "O que o médico da família pode fazer por você"
+- "Agente de saúde na sua casa: não é visita, é cuidado"
+- "PSF indígena: saúde que respeita a cultura"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Atenção Básica/Território |
-| Secundário | Institucional |
-
-## Linguagem pública recomendada
-
-Para público, usar “equipe da unidade” e evitar explicar tecnicamente PSF quando não for necessário.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-[F1] 01 - Estrutura Organizacional/PSFs
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Fontes
+- `01 - Estrutura Organizacional/PSFs/`
+- Distritos I, II, III, IV
+- `PSFs/Indígenas/`

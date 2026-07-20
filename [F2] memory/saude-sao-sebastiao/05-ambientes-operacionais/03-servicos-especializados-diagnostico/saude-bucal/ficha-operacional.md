@@ -4,39 +4,32 @@ frente: saude-sao-sebastiao
 ambiente: 03-servicos-especializados-diagnostico
 setor: saude-bucal
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Saúde Bucal
+# Saúde Bucal — Odontologia Básica na UBS
 
 ## O que faz
 
-Coordena cuidado odontológico na Atenção Básica, prevenção, consultas, ações educativas e apoio às unidades.
+Atendimento odontológico básico nas UBSs e PSFs. Consultas preventivas e restauradoras, exodontias simples (extrações), aplicação de flúor e selante, orientação de higiene bucal e ações nas escolas.
 
-## O que compete
+## Serviços
+- Consultas odontológicas preventivas e restauradoras
+- Exodontias simples (extrações)
+- Aplicação de flúor e selante
+- Orientação de higiene bucal
+- Ações coletivas nas escolas (saúde do escolar)
+- Triagem para encaminhamento ao CEO
 
-Saúde oral na rede básica.
+## Cobertura
+Todas as unidades com consultório odontológico. Odontomóvel para comunidades sem estrutura fixa.
 
-## Entra melhor em qual pilar editorial
+## Linguagem pública
+"Saúde bucal", "dentista na UBS", "cuidar dos dentes", "prevenção"
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Atenção Básica |
-| Secundário | Serviços Especializados |
-
-## Linguagem pública recomendada
-
-“Saúde da boca também é saúde.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/Saúde Bucal; SAÚDE BUCAL
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Seu dente também é saúde — marque sua consulta na UBS"
+- "Diferença entre o que a UBS faz e o CEO faz"
+- "Saúde bucal nas escolas: prevenção desde cedo"
+- "10 dicas para cuidar dos dentes sem gastar nada"
+- "Odontomóvel: o dentista vai até você"

@@ -4,39 +4,23 @@ frente: saude-sao-sebastiao
 ambiente: 07-administracao-gestao-bastidores
 setor: aniversariantes-gestao-humana
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Aniversariantes / gestão humana interna
+# Aniversariantes — Gestão Humana
 
 ## O que faz
 
-Pode apoiar ações internas de valorização de servidores.
+Registro e acompanhamento de aniversariantes da Secretaria de Saúde. Ação de gestão de pessoas e clima organizacional. Lista de aniversários dos servidores por mês.
 
-## O que compete
+## Serviço
+- Registro de aniversários dos servidores
+- Ações de reconhecimento e valorização
+- Fortalecimento do clima organizacional
 
-Humanização interna/equipe.
+## Público
+Interno (servidores da SMS). Não é conteúdo público direto.
 
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
-|---|---|
-| Principal | Bastidores |
-| Secundário | Humanização interna |
-
-## Linguagem pública recomendada
-
-Usar com cuidado por envolver dados pessoais.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-ANIVERSARIANTES
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- Uso interno: cartão de aniversário coletivo
+- Pode virar conteúdo público: "Conheça quem cuida de você" — série de perfis de profissionais

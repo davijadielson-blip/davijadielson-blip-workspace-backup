@@ -1,35 +1,33 @@
 ---
 tipo: ideias-de-conteudo
 status: ativo
+curadoria: 360-enriquecida
 ---
 
-# Ideias de conteúdo consolidadas
+# Ideias de conteúdo — SAMU 192
 
+## Séries sugeridas
+- **"192: A Linha da Vida"** — série educativa sobre o SAMU
+- **"Não Ligue 192 Para Isso"** — o que NÃO é emergência
 
-## De `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/SAMU/SAMU.md`
+## Ideias por formato
+### Reels
+- "O que acontece quando você liga 192"
+- "3 coisas que NÃO são emergência (e lotam o SAMU)"
+- "Primeiros socorros: o que fazer antes do SAMU chegar"
 
-## Ideias de Conteúdo
+### Carrosséis
+- "SAMU x Bombeiros x Polícia: quando ligar cada um"
+- "Como fazer uma ligação eficiente para o 192"
+- "O que informar ao ligar 192"
 
-- Post: "Quando ligar 192? Conheça o SAMU"
-- Card: diferença entre 192 (SAMU) e 193 (Bombeiros)
-- Post sobre a importância da regulação médica
-- Campanha: não travar o 192 com ligações não urgentes
+### Stories
+- "Dentro da central de regulação"
+- "Tipos de ambulância do SAMU"
+- "Como o médico regulador decide o que fazer"
 
----
-
-← [[00 - Setores Complementares - MOC|Setores Complementares]]
-
-
-## De `[F1] 5-Frentes/Saude-Sao-Sebastiao/04 - Rede e Referências/SAMU.md`
-
-## Ideias de Conteúdo
-
-- Post: "Você sabe quando chamar o SAMU? Salve o 192"
-- Card: sintomas de AVC — F.A.C.E. (Face, Braço, Comunicação, Emergência)
-- Card: sintomas de infarto — não espere, ligue 192
-- Post apresentando a base do SAMU em São Sebastião
-
----
-
-← [[../00 - Saúde São Sebastião - MOC|MOC Principal]]
-
+## Ângulos inexplorados
+- Regulação médica: o médico que atende sem ver o paciente
+- Trotes: o prejuízo real de uma brincadeira
+- SAMU na zona rural: como o socorro chega longe
+- Perfil de um condutor socorrista

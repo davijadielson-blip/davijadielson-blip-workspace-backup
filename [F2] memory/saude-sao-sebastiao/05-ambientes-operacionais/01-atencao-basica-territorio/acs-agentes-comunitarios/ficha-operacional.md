@@ -4,39 +4,43 @@ frente: saude-sao-sebastiao
 ambiente: 01-atencao-basica-territorio
 setor: acs-agentes-comunitarios
 status: ativo
+curadoria: 360-concluida
 ---
 
 # ACS — Agentes Comunitários de Saúde
 
 ## O que faz
 
-Visitam famílias, orientam, acompanham território, ajudam na busca ativa e na ligação entre comunidade e unidade.
+Profissionais que fazem a ponte entre a comunidade e o sistema de saúde. Visitam as famílias regularmente, identificam necessidades, orientam sobre saúde, cadastram moradores, acompanham gestantes, crianças, idosos e pessoas com doenças crônicas. São o "radar" da atenção básica.
+
+## Funções principais
+- Visita domiciliar periódica a todas as famílias do território
+- Cadastro e atualização das famílias no sistema
+- Identificação de gestantes, crianças, idosos, acamados
+- Orientação sobre vacinação, exames, consultas
+- Acompanhamento de hipertensos e diabéticos
+- Promoção da saúde e prevenção de doenças
+- Identificação de situações de risco social
+
+## Perfil
+- Morador da própria comunidade
+- Conhece o território, as pessoas, as dificuldades
+- Capacitado pela Secretaria Municipal de Saúde
+
+## Agente Indígena de Saúde (AIS)
+- Atua nos territórios Karapotó Plak-Ô e Terra Nova
+- Mesmas funções do ACS, com adaptação cultural
+- Faz parte da equipe multidisciplinar indígena
 
 ## O que compete
+Vínculo, escuta, acolhimento, informação. Primeiro contato. Identificação precoce de riscos.
 
-Ponte entre população e UBS/postinho.
+## Linguagem pública
+"Agente de saúde", "ACS", "visita do agente", "agente de saúde na comunidade"
 
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
-|---|---|
-| Principal | Atenção Básica/Território |
-| Secundário | Prevenção |
-
-## Linguagem pública recomendada
-
-“O agente de saúde ajuda a levar orientação até perto de você.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-PSFs; Atenção Básica
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Quem é o agente de saúde que cuida de você?"
+- "A visita do agente de saúde: o que ele pergunta e por quê"
+- "Agente de saúde x Agente de Endemias: qual a diferença?"
+- "Agente Indígena de Saúde: cuidado que respeita a cultura"
+- Série "Conheça seu agente de saúde"

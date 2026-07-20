@@ -4,39 +4,42 @@ frente: saude-sao-sebastiao
 ambiente: 06-vigilancia-prevencao-riscos
 setor: epidemiologia
 status: ativo
+curadoria: 360-concluida
 ---
 
-# Epidemiologia
+# Epidemiologia — Informação e Vigilância em Saúde
 
 ## O que faz
 
-Monitora notificações, surtos, indicadores, doenças de notificação compulsória e informações de saúde pública.
+Análise de dados de saúde do município. Notificação e investigação de doenças, agravos e surtos. Monitoramento de indicadores. Articulação com o estado (7ª Regional, SESAU-AL) para pactuação de vagas, regulação de internações, TFD e referências.
 
-## O que compete
+## Serviços
+- Notificação e investigação de doenças de notificação compulsória
+- Monitoramento de surtos e epidemias
+- Análise de indicadores de saúde (mortalidade, morbidade, coberturas)
+- Articulação com a 7ª Regional de Saúde e SESAU-AL
+- Pactuação de vagas para média e alta complexidade
+- Regulação de internações hospitalares
+- Apoio técnico às UBS/PSF em epidemiologia
+- Transporte sanitário (organização)
+- Programa estadual de imunização (apoio)
+- Distribuição de insumos estratégicos
 
-Vigilância epidemiológica e inteligência sanitária.
+## Vinculações
+- PNI (vacinação) é vinculado à Epidemiologia
+- Vigilância Sanitária e Endemias articulam com a Epidemiologia
 
-## Entra melhor em qual pilar editorial
+## Referências
+- 7ª Regional de Saúde (sede em São Sebastião)
+- Maceió: referência para alta complexidade
+- Arapiraca: referência para média complexidade
 
-| Tipo | Pilar |
-|---|---|
-| Principal | Vigilância/Prevenção |
-| Secundário | Bastidores |
+## Linguagem pública
+"Vigilância em saúde", "dados de saúde", "epidemiologia"
 
-## Linguagem pública recomendada
-
-“Monitoramento de doenças e prevenção.”
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Citado no MOC; nota canônica F1 ausente
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Infográfico: o caminho da UBS ao hospital"
+- "Quando você precisa ir a Arapiraca ou Maceió"
+- "Transporte sanitário: como funciona"
+- "Como a secretaria monitora a saúde da população"
+- "7ª Regional de Saúde: o que é e como atende"

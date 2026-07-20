@@ -4,39 +4,43 @@ frente: saude-sao-sebastiao
 ambiente: 03-servicos-especializados-diagnostico
 setor: ceo
 status: ativo
+curadoria: 360-concluida
 ---
 
 # CEO — Centro de Especialidades Odontológicas
 
 ## O que faz
 
-Apoia casos odontológicos especializados: endodontia/canal, diagnóstico bucal, periodontia, cirurgia oral menor e atendimento PNE.
+Atendimento odontológico especializado. Serviços além do que a UBS faz: endodontia (canal), cirurgia oral menor, periodontia (gengiva), atendimento a pacientes com necessidades especiais (PNE).
 
-## O que compete
+## Serviços oferecidos
+- Endodontia (tratamento de canal)
+- Cirurgia oral menor (extrações complexas, biópsias)
+- Periodontia (tratamento de gengiva e osso)
+- Atendimento a pacientes com necessidades especiais (PNE)
+- Diagnóstico de lesões bucais (incluindo câncer de boca)
+- Radiologia odontológica
 
-Odontologia especializada.
+## Fluxo de acesso
+1. Avaliação na UBS/PSF (odontologia básica)
+2. Identificação de necessidade especializada
+3. Encaminhamento ao CEO
+4. Agendamento e atendimento
 
-## Entra melhor em qual pilar editorial
-
-| Tipo | Pilar |
+## Diferença CEO vs Odontologia na UBS
+| UBS (básico) | CEO (especializado) |
 |---|---|
-| Principal | Serviços Especializados |
-| Secundário | Saúde Bucal |
+| Restauração, limpeza, extração simples | Canal (endodontia) |
+| Prevenção e aplicação de flúor | Cirurgia oral |
+| Orientação de higiene | Periodontia (gengiva) |
+| Triagem | Raio-X, PNE, biópsia |
 
-## Linguagem pública recomendada
+## Linguagem pública
+"Tratamento de canal", "dentista especializado", "cirurgia dentária"
 
-“Dentista especializado”, “tratamento de canal”, “diagnóstico bucal”.
-
-## Cuidados antes de publicar
-
-- Não prometer vaga, data, horário, exame, atendimento ou profissional específico sem confirmação operacional.
-- Não expor usuários, documentos, telas, prontuários, listas, placas de residência ou dados pessoais.
-- Quando houver agenda, disponibilidade ou fluxo específico, validar com a SMS antes de publicar.
-
-## Fontes F1 principais
-
-Setores Complementares/CEO; CEO
-
-## Observação operacional
-
-Esta ficha é uma camada F2 para consulta rápida de agentes. A base histórica/autoral permanece em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
+## Ideias de conteúdo
+- "Tratamento de canal gratuito em São Sebastião"
+- "CEO: quando a odontologia básica não resolve"
+- "Câncer de boca: detectar cedo salva vidas"
+- "Diferença entre o que a UBS faz e o CEO faz"
+- "Atendimento odontológico para pessoas com necessidades especiais"
