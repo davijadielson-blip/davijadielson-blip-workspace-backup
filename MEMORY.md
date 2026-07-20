@@ -677,3 +677,7 @@ Em 18/07/2026, a extração diária verificou as sessões `.jsonl` do dia anteri
 - **Testes comprovados:** 5/8 C-Levels completaram spawn com sucesso (CAIO 24s, CIO 58s, CFO 1m10s, CTO 1m45s, COO 2m34s). Os 3 que timeoutaram caíram no Codex ainda limitado.
 
 📁 Registros: `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`, `[F2] memory/decisions/2026-07-20-revisao-prompts-c-levels-obediencia-fallbacks.md`
+
+- **Retorno do rate limit (20/07 tarde):** config de subagentes estava sumindo pós-restart do Gateway. Reaplicada e verificada: `model` + `runTimeoutSeconds=300` persistem agora. CCO rodou via OpenRouter DeepSeek: 3min45s, 97K tokens, curadoria Saúde concluída. Comprovado que fallback funciona quando Codex limita.
+
+📁 `[F2] memory/decisions/2026-07-20-politica-servico-mutuo-entre-agentes.md`
