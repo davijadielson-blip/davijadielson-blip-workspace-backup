@@ -1,7 +1,7 @@
 # 🚀 Mission Control — Jadielson / Lôh
 
-**Status:** MVP web v0.3 com dados espelhados do Cofre implementado e testado  
-**Última atualização:** 2026-07-20 00:16 UTC  
+**Status:** MVP web v0.4 com CRM Notion modelado no dashboard  
+**Última atualização:** 2026-07-20 00:25 UTC  
 **Fonte de verdade:** Cofre `/data/.openclaw/workspace/`  
 **Direção aprovada:** Tudo integrado, começando simples.
 
@@ -254,6 +254,36 @@
 ### Registro técnico
 
 `[F2] memory/projects/mission-control/web/2026-07-20-nextjs-dados-cofre-v03.md`
+
+---
+
+## 3F. Dashboard Web MVP v0.4 — CRM Notion modelado
+
+**Status:** implementado no dashboard; integração real Notion pendente.  
+**Motivo da pendência:** Zapier/Notion retornou `insufficient tasks on account`.
+
+### Criado no Cofre
+
+`[F2] memory/projects/mission-control/notion-crm-logika-modelo-v01.md`
+
+### Criado no app
+
+- `lib/notionCrmModel.js`
+- `components/CrmPanel.jsx`
+
+### Resultado
+
+O dashboard já mostra:
+
+- CRM — Lógika Creative;
+- status de integração;
+- campos mínimos;
+- pipeline sugerido;
+- leads de exemplo/modelo.
+
+### Registro técnico
+
+`[F2] memory/projects/mission-control/web/2026-07-20-crm-notion-modelado-v04.md`
 
 ---
 

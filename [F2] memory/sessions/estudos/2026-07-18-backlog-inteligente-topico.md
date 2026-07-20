@@ -97,3 +97,6 @@ Jadielson autorizou prosseguir com o blueprint do Mission Control/aplicativo ins
 - `[F2] memory/templates/backlog-inteligente-revisao-semanal-v1-2026-07-20.md`
 
 Direção: validar primeiro Mission Control v0 no xTiles; depois Lôh avalia integração/app próprio.
+
+## 2026-07-20 — Confirmação de visualização dos prints de dashboard
+Jadielson perguntou se os prints referência de dashboard foram vistos. Foi analisado o print da tela `Eisenhower` do Backlog Inteligente: menu lateral com Todas, Hoje, Amanhã, Esta Semana, Atrasadas, Backlog, Agenda, Matriz Eisenhower, Esforço x Impacto, Projetos, Templates, Integrações, Time e Delegadas; área central com busca, filtros, modo Inteligente, Mostrar sem data e quatro quadrantes. O print reforça o blueprint do Mission Control com sidebar fixa, busca/filtros no topo, cards de decisão com contadores, cores semânticas e botão de criação rápida.
