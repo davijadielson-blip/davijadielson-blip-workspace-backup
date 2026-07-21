@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T10:15:21.145Z",
+  "updatedAt": "2026-07-21T10:49:27.234Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -981,18 +981,19 @@
       "endLine": 49,
       "source": "memory",
       "snippet": "- Revisamos a árvore completa e a hierarquia de comando dos agentes, confirmando a Lôh como orquestradora principal e os C-Levels como seus braços estratégicos. --- **Próximos Passos Sugeridos:** - Revisitar a auditoria de ativos de marca no Drive em um momento oportuno. - Continuar as tarefas delegadas aos agentes recém-ativados (CCO, CMO, etc.). ## 21:30 — Cron: ensure-critical-integrations - Script executado: `ensure-integrations.sh` - Tavily: ✅ restaurado - Notion: ✅ OK - Whisper: ✅ OK - Config: ✅ válida - Resultado: \"integrações reaplicadas\" ## 23:27 UTC — Estado de repouso dos agentes Jadielson solicitou: deixar todos os agentes dormindo, mas de prontidão quando forem requisitado",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T22:38:02.422Z",
-      "lastRecalledAt": "2026-07-21T08:56:07.206Z",
+      "lastRecalledAt": "2026-07-21T10:36:51.521Z",
       "queryHashes": [
         "e78bcf2f9e66",
         "1bd53ec1bf9a",
         "72073eafbeea",
-        "b9ab963f04af"
+        "b9ab963f04af",
+        "7885995b138e"
       ],
       "recallDays": [
         "2026-07-10",
@@ -1016,13 +1017,13 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "- [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (IDs antigos de conta anterior) **Resultado:** S",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 7,
+      "totalScore": 8,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-21T09:58:07.086Z",
+      "lastRecalledAt": "2026-07-21T10:49:27.234Z",
       "queryHashes": [
         "956602bdb011",
         "92e8c5e6f882",
@@ -1030,7 +1031,8 @@
         "410c3b1fe569",
         "fe5b80892e59",
         "2346840d0ef7",
-        "f36153b2d4e6"
+        "f36153b2d4e6",
+        "b9b73287b8ad"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1419,13 +1421,13 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 10,
+      "recallCount": 11,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.554568797349929,
+      "totalScore": 4.906229633092879,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-21T09:03:33.204Z",
+      "lastRecalledAt": "2026-07-21T10:43:00.254Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1436,7 +1438,8 @@
         "14fa7a3590ab",
         "2de034ee0349",
         "dcabb6eea9b5",
-        "1ee8b2976ded"
+        "1ee8b2976ded",
+        "c8db195c6a50"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1461,13 +1464,13 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 12,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 7.769166934490204,
+      "totalScore": 8.769166934490205,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-21T09:58:07.086Z",
+      "lastRecalledAt": "2026-07-21T10:49:27.234Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1480,7 +1483,8 @@
         "fe5b80892e59",
         "2346840d0ef7",
         "dcabb6eea9b5",
-        "f36153b2d4e6"
+        "f36153b2d4e6",
+        "b9b73287b8ad"
       ],
       "recallDays": [
         "2026-07-13",
@@ -2109,13 +2113,13 @@
       "endLine": 106,
       "source": "memory",
       "snippet": "### 🔴 1. O Fio da Memória — Risco de Prestação de Contas - **Projeto aprovado no PNAB** (Chamamento 01/2024 — São Sebastião/AL) - **Recurso:** R$ 20.000 — recebido ~05/04/2025 (a confirmar) - **Já realizado:** pesquisa, matriz narrativa, argumento V3 aprovado - **Ainda não feito:** gravação, edição, publicação, relatório - **Risco:** edital indica execução até 31/08/2025 (possível atraso de 321 dias) - **Ação urgente:** solicitar à Secretaria de Cultura cópia do Termo de Execução Cultural; confirmar prazo vigente; entrar em modo emergencial de produção - **Status:** Jadielson informou não ter o termo em mãos ### 🟡 2. Disco do servidor em 90% - Uso: 9.0G de 10G (1.1G livres) - Limpeza de 1",
-      "recallCount": 8,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 7.399002560973168,
+      "totalScore": 8.399002560973168,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:08:24.346Z",
-      "lastRecalledAt": "2026-07-21T10:15:21.145Z",
+      "lastRecalledAt": "2026-07-21T10:38:11.919Z",
       "queryHashes": [
         "dffa53a3ce91",
         "89f6c8128a23",
@@ -2124,7 +2128,8 @@
         "67025b0deda7",
         "cd59d43e9c09",
         "4718f5a5903a",
-        "5a87f8161517"
+        "5a87f8161517",
+        "dc65f7d1bc66"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2244,13 +2249,13 @@
       "endLine": 141,
       "source": "memory",
       "snippet": "## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadielson! 🌞*",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 7,
+      "totalScore": 8,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T09:58:07.086Z",
+      "lastRecalledAt": "2026-07-21T10:49:27.234Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
@@ -2258,7 +2263,8 @@
         "2346840d0ef7",
         "cb0eab1c81ef",
         "df6201100059",
-        "f36153b2d4e6"
+        "f36153b2d4e6",
+        "b9b73287b8ad"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2281,13 +2287,13 @@
       "endLine": 76,
       "source": "memory",
       "snippet": "### 🟡 Calendário Saúde — Semana 4 | Dia | Pilar | Tema | |---|---|---| | **20/07 (seg)** | Atenção Básica | \"Hepatite B tem prevenção: vacina é cuidado\" | | **21/07 (ter)** | Serviços Especializados | \"Sinais que merecem atenção\" | | **22/07 (qua)** | Vigilância/Prevenção | \"Prevenir hepatites também é cuidado diário\" | | **23/07 (qui)** | Rede de Apoio | \"Cuidado sem preconceito\" | | **24/07 (sex)** | Bastidores/Prestação | \"Julho Amarelo em ação\" | > **Status dos drafts:** Semana 4 está marcada como \"Aguardando aprovação\" no Calendar. Pendência: confirmar/liberar pautas com a Secretaria. ### 📸 Entre Tempos — Pré-lançamento | Data | Peça | |---|---| | **21/07 (seg)** | Teaser/post 1:",
-      "recallCount": 9,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 6.5228380292654045,
+      "totalScore": 7.5228380292654045,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T09:58:07.086Z",
+      "lastRecalledAt": "2026-07-21T10:49:27.234Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
@@ -2297,7 +2303,8 @@
         "ca345f586bbe",
         "1ee8b2976ded",
         "04d0ec0c429e",
-        "f36153b2d4e6"
+        "f36153b2d4e6",
+        "b9b73287b8ad"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2320,13 +2327,13 @@
       "endLine": 133,
       "source": "memory",
       "snippet": "- ⏳ Observação de Jadielson: não viu os cards — foram reposicionados para área visível --- ## 🚀 PROJETOS EM ANDAMENTO ### ✅ Entre Tempos — Videoclipe - **Lançamento:** 30/07/2026, 20h - **Pré-lançamento começa:** 21/07 (segunda) - **Status:** plano de lançamento aprovado; peças a produzir - **Pendente:** confirmar canal, texto final, autorizações de uso ### ✅ Jogos Indígenas Karapotó — MiniDoc - **Status:** aguardando Jadielson — já tem proposta aprovada, narrativa em andamento - **Pendente:** cronograma de finalização e entrega ### ✅ Minidocs Assembleia de Deus - **Status:** material captado, precisa organizar por inauguração e criar timeline --- ## 📊 RESUMO DA SEMANA (12-17/07) |",
-      "recallCount": 8,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 7.602020214527585,
+      "totalScore": 8.602020214527585,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T09:58:07.086Z",
+      "lastRecalledAt": "2026-07-21T10:49:27.234Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
@@ -2335,7 +2342,8 @@
         "2de034ee0349",
         "2346840d0ef7",
         "ca345f586bbe",
-        "f36153b2d4e6"
+        "f36153b2d4e6",
+        "b9b73287b8ad"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2746,17 +2754,18 @@
       "endLine": 83,
       "source": "memory",
       "snippet": "- **Resultado**: 272 MB → **166 MB** (**106 MB liberados**, ~11% do disco) ### O que foi feito: - **📤 9 PDFs enviados ao Google Drive** via Zapier 3 (pasta \"workspace archive\" → subpasta \"PDFs\"): receitas/dietas (Plano alimentar, OMEGA 3, PRÉ-TREINO, FRAPPUCINO, SHAKE, SMOOTHIE), Planejamento Alimentar Semanal, Dados Lab SS, SINDSS - **🗑️ Duplicatas removidas**: [F2] vaults/segundo-cerebro-jadielson teve todos os binários removidos (manteve só .md) — ~55 MB liberados - **🗑️ Pasta duplicada removida**: F2-memory/ (antiga, ~21 MB) - **🗑️ 30+ JSONs do Notion** removidos (logs de processo) - **🗑️ JSONs de auditoria do Drive** removidos (~5 MB, já no Drive de origem) - **🗑️ Comprovantes fi",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:58:04.936Z",
-      "lastRecalledAt": "2026-07-21T09:52:19.307Z",
+      "lastRecalledAt": "2026-07-21T10:38:11.919Z",
       "queryHashes": [
         "1bd53ec1bf9a",
         "67025b0deda7",
-        "4718f5a5903a"
+        "4718f5a5903a",
+        "dc65f7d1bc66"
       ],
       "recallDays": [
         "2026-07-21"
@@ -3227,6 +3236,99 @@
         "ontem",
         "hoje",
         "teaser"
+      ]
+    },
+    "memory:memory/2026-07-18.md:1:23": {
+      "key": "memory:memory/2026-07-18.md:1:23",
+      "path": "memory/2026-07-18.md",
+      "startLine": 1,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "## Decisão: Miro exclusivo para Projetos (Jack) — 18/07/2026 ### Decisão tomada O Miro passa a ser **exclusivo para o GRUPO PROJETOS** ([F3]), sob gestão do **Jack Lemley**. Apenas Jack e seus tópicos utilizam a integração. ### O que foi feito - ❌ Cards de exemplo removidos do board (eram de sistemas/ecossistema) - ✅ Documentação criada em `[F3] PROJETOS/_miro-integration.md` - ✅ Script `scripts/miro.py` atualizado com aviso de uso restrito - ✅ Board \"MAPA MENTAL GERAL\" (ID: `uXjVJI0-H6E=`) limpo e pronto para o Jack ### Regras 1. Miro é para **projetos** — planejamento visual, cronogramas, marcos, entregas 2. Apenas **Jack Lemley** opera o Miro 3. Conteúdo do Cofre ([F3] PROJETOS/) deve",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T10:36:51.521Z",
+      "lastRecalledAt": "2026-07-21T10:36:51.521Z",
+      "queryHashes": [
+        "7885995b138e"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "18/07/2026",
+        "sistemas/ecossistema",
+        "miro-integration.md",
+        "scripts/miro.py",
+        "uxjvji0-h6e",
+        "decisão",
+        "miro",
+        "exclusivo"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-21.md:57:86": {
+      "key": "memory:memory/daily-briefs/2026-07-21.md:57:86",
+      "path": "memory/daily-briefs/2026-07-21.md",
+      "startLine": 57,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "**⚠️ Nota de correção de calendário:** Dias da semana estavam trocados nos planos anteriores. O correto é: - **Ontem 20/07 (seg)** — ✅ Post silêncio estratégico / \"Vem aí\" (deveria ter sido publicado) - **HOJE 21/07 (ter)** — 🎬 **Teaser 1 — Mistério (15-20s)** — YouTube + Instagram - **22/07 (qua)** — Fotos antigas + atuais — memória e cidade - **24/07 (sex)** — Depoimento 1 Cantor(a) (30-45s) - **26/07 (dom)** — Bastidores + Depoimento 2 - **28/07 (ter)** — Trailer oficial (45-60s) - **29/07 (qua)** — Contagem regressiva - **30/07 (qui)** — 🚀 **LANÇAMENTO OFICIAL 20h** **CCO produziu:** pacote criativo completo (`06-pacote-criativo-entre-tempos-aquecimento-fase1.md`) com conceito central",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T10:38:11.919Z",
+      "lastRecalledAt": "2026-07-21T10:38:11.919Z",
+      "queryHashes": [
+        "dc65f7d1bc66"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "20/07",
+        "21/07",
+        "15-20s",
+        "22/07",
+        "24/07",
+        "30-45s",
+        "26/07",
+        "28/07"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-21.md:81:114": {
+      "key": "memory:memory/daily-briefs/2026-07-21.md:81:114",
+      "path": "memory/daily-briefs/2026-07-21.md",
+      "startLine": 81,
+      "endLine": 114,
+      "source": "memory",
+      "snippet": "- **Bloqueado:** Zapier sem tasks (plano gratuito) para executar ações no Notion - **Fase 1 pendente:** re-compartilhar bases oficiais com Loh-bot no Notion (UI manual) - **Fase 2 pendente:** criar Central LÓGIKA — Mapa Operacional - **Fase 4 pendente:** arquivar 95 templates duplicados + 24 bases frias ### 🟡 3. Google/gog — Não Autenticado - Conta Lôh (loh.open.logika@gmail.com) não autenticada no gog - GOG_KEYRING_PASSWORD sem env var configurada - Shell incompatível com `source` - ⏳ Pendente de configuração ### 🟡 4. Zapier Residual — 3 MCPs ainda ativos - Decisão de Jadielson: Google não usa mais Zapier, caminho oficial é gog - Mas 3 MCPs Zapier (zapier-1, zapier-3, zapier-youtube) ai",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T10:38:11.919Z",
+      "lastRecalledAt": "2026-07-21T10:38:11.919Z",
+      "queryHashes": [
+        "dc65f7d1bc66"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "re-compartilhar",
+        "loh-bot",
+        "google/gog",
+        "loh.open.logika",
+        "gmail.com",
+        "gog-keyring-password",
+        "zapier-1",
+        "zapier-3"
       ]
     }
   }
