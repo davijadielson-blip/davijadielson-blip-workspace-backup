@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T06:10:11.469Z",
+  "updatedAt": "2026-07-21T06:28:14.147Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -2438,6 +2438,134 @@
         "projetos",
         "lançados",
         "miro"
+      ]
+    },
+    "memory:memory/2026-07-20.md:151:171": {
+      "key": "memory:memory/2026-07-20.md:151:171",
+      "path": "memory/2026-07-20.md",
+      "startLine": 151,
+      "endLine": 171,
+      "source": "memory",
+      "snippet": "- CMO e CCO falharam ao serem acionados com erro \"API rate limit reached\" — OpenAI Codex esgotou cota após curadoria 360 (horas de operação contínua, 33 setores, centenas de arquivos). - Diagnóstico completo salvo em `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`. ### Configuração de fallbacks - `agents.defaults.subagents.model` foi configurado com cadeia de 3 níveis: - Plano A: `openai-codex/gpt-5.5` (primário, mais barato) - Plano B: `openrouter/deepseek/deepseek-v4-flash` (fallback se Codex cair) - Plano C: `openrouter/google/gemini-2.5-flash-lite` (último recurso) - Timeout de subagentes aumentado de 180s para 300s para garantir tempo de fallback.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T06:28:07.476Z",
+      "lastRecalledAt": "2026-07-21T06:28:14.147Z",
+      "queryHashes": [
+        "071607745207",
+        "f76851bdefbc"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "router",
+        "agents.defaults.subagents.model",
+        "openai-codex/gpt-5.5",
+        "cmo",
+        "cco",
+        "falharam"
+      ]
+    },
+    "memory:memory/2026-07-20.md:347:367": {
+      "key": "memory:memory/2026-07-20.md:347:367",
+      "path": "memory/2026-07-20.md",
+      "startLine": 347,
+      "endLine": 367,
+      "source": "memory",
+      "snippet": "- CMO e CCO falharam ao serem acionados com erro \"API rate limit reached\" — OpenAI Codex esgotou cota após curadoria 360 (horas de operação contínua, 33 setores, centenas de arquivos). - Diagnóstico completo salvo em `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`. ### Configuração de fallbacks - `agents.defaults.subagents.model` foi configurado com cadeia de 3 níveis: - Plano A: `openai-codex/gpt-5.5` (primário, mais barato) - Plano B: `openrouter/deepseek/deepseek-v4-flash` (fallback se Codex cair) - Plano C: `openrouter/google/gemini-2.5-flash-lite` (último recurso) - Timeout de subagentes aumentado de 180s para 300s para garantir tempo de fallback.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T06:28:07.476Z",
+      "lastRecalledAt": "2026-07-21T06:28:14.147Z",
+      "queryHashes": [
+        "071607745207",
+        "f76851bdefbc"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "router",
+        "agents.defaults.subagents.model",
+        "openai-codex/gpt-5.5",
+        "cmo",
+        "cco",
+        "falharam"
+      ]
+    },
+    "memory:memory/2026-07-20.md:378:396": {
+      "key": "memory:memory/2026-07-20.md:378:396",
+      "path": "memory/2026-07-20.md",
+      "startLine": 378,
+      "endLine": 396,
+      "source": "memory",
+      "snippet": "- Jadielson reportou que o rate limit do Codex continuava bloqueando subagentes consecutivos: CMO passou (2min29s) mas consumiu a cota, CCO depois caiu. - **Causa:** a config de `agents.defaults.subagents.model` estava sumindo após restart do Gateway — não persistia. - **Solução:** config reaplicada e verificada pós-restart: `model` + `runTimeoutSeconds=300` persistiram. - **CCO rodou com sucesso** via OpenRouter DeepSeek: 3min45s, 97.348 tokens, curadoria editorial da Saúde concluída. - **Comprovação:** o fallback funciona. Quando Codex limita, o subagente cai no OpenRouter e executa sem barreira. ## SAÚDE — Grade editorial 6 semanas concluída - Estratégia de produção de conteúdo baseada e",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T06:28:07.476Z",
+      "lastRecalledAt": "2026-07-21T06:28:14.147Z",
+      "queryHashes": [
+        "071607745207",
+        "f76851bdefbc"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "gateway",
+        "router",
+        "agents.defaults.subagents.model",
+        "pós-restart",
+        "97.348",
+        "jadielson",
+        "reportou",
+        "rate"
+      ]
+    },
+    "memory:memory/2026-07-20.md:182:200": {
+      "key": "memory:memory/2026-07-20.md:182:200",
+      "path": "memory/2026-07-20.md",
+      "startLine": 182,
+      "endLine": 200,
+      "source": "memory",
+      "snippet": "- Jadielson reportou que o rate limit do Codex continuava bloqueando subagentes consecutivos: CMO passou (2min29s) mas consumiu a cota, CCO depois caiu. - **Causa:** a config de `agents.defaults.subagents.model` estava sumindo após restart do Gateway — não persistia. - **Solução:** config reaplicada e verificada pós-restart: `model` + `runTimeoutSeconds=300` persistiram. - **CCO rodou com sucesso** via OpenRouter DeepSeek: 3min45s, 97.348 tokens, curadoria editorial da Saúde concluída. - **Comprovação:** o fallback funciona. Quando Codex limita, o subagente cai no OpenRouter e executa sem barreira. ## SAÚDE — Grade editorial 6 semanas concluída - Estratégia de produção de conteúdo baseada e",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T06:28:07.476Z",
+      "lastRecalledAt": "2026-07-21T06:28:14.147Z",
+      "queryHashes": [
+        "071607745207",
+        "f76851bdefbc"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "gateway",
+        "router",
+        "agents.defaults.subagents.model",
+        "pós-restart",
+        "97.348",
+        "jadielson",
+        "reportou",
+        "rate"
       ]
     }
   }
