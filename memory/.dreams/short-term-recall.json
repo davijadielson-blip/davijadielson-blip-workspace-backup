@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T08:16:42.301Z",
+  "updatedAt": "2026-07-21T08:38:02.115Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -1002,19 +1002,20 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "- [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (IDs antigos de conta anterior) **Resultado:** S",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5,
+      "totalScore": 6,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-21T07:58:13.158Z",
+      "lastRecalledAt": "2026-07-21T08:22:27.928Z",
       "queryHashes": [
         "956602bdb011",
         "92e8c5e6f882",
         "07031c96ba69",
         "410c3b1fe569",
-        "fe5b80892e59"
+        "fe5b80892e59",
+        "2346840d0ef7"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1433,13 +1434,13 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 9,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5.382150691747666,
+      "totalScore": 6.382150691747666,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-21T07:58:13.158Z",
+      "lastRecalledAt": "2026-07-21T08:22:27.928Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1449,7 +1450,8 @@
         "07031c96ba69",
         "a9a838183beb",
         "410c3b1fe569",
-        "fe5b80892e59"
+        "fe5b80892e59",
+        "2346840d0ef7"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1899,16 +1901,17 @@
       "endLine": 38,
       "source": "memory",
       "snippet": "- Embeddings (text-embedding-3-small) custariam centavos/mês se funcionassem - Lôh sugeriu 3 opções: ignorar, gerar nova key, ou trocar provider (OpenRouter) - Jadielson não respondeu qual caminho seguir — pendente de decisão ## Próximos passos pendentes 1. Decidir o que fazer com a chave OpenAI (embeddings) — usar OpenRouter? Ignorar? 2. Autenticar conta Lôh (loh.open.logika@gmail.com) no gog 3. Configurar GOG_KEYRING_PASSWORD como env var global 4. Remover/desabilitar MCPs Zapier residuais 5. Sincronizar segundo-cérebro com workspace 6. Preencher arquivo de decisão vazio do Zapier",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:51.437Z",
-      "lastRecalledAt": "2026-07-21T06:59:39.928Z",
+      "lastRecalledAt": "2026-07-21T08:38:02.115Z",
       "queryHashes": [
         "252783da7f2e",
-        "5e659b5a6a83"
+        "5e659b5a6a83",
+        "5cd200a05d01"
       ],
       "recallDays": [
         "2026-07-21"
@@ -1931,16 +1934,17 @@
       "endLine": 33,
       "source": "memory",
       "snippet": "- Possíveis caminhos de integração registrados: Google Calendar como ponte via gog, export/import Markdown/CSV, API/MCP oficial do xTiles se disponível, ou automação por navegador como última opção. Integração profunda deve passar por Lôh por envolver arquitetura, segurança e autenticação. ## Mission Control / aplicativo - Jadielson enviou prints de referência de dashboard/app e perguntou se seria possível criar um **Mission Control** ou aplicativo nesse estilo. - Parecer: sim, é possível, mas não iniciar app pesado antes de validar. Caminho recomendado: MVP no xTiles → dados estruturados no Cofre → Google Calendar via gog → avaliação técnica por Lôh → possível app próprio. - Blueprint ini",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:51.437Z",
-      "lastRecalledAt": "2026-07-21T06:59:39.928Z",
+      "lastRecalledAt": "2026-07-21T08:38:02.115Z",
       "queryHashes": [
         "252783da7f2e",
-        "5e659b5a6a83"
+        "5e659b5a6a83",
+        "5cd200a05d01"
       ],
       "recallDays": [
         "2026-07-21"
@@ -1963,16 +1967,17 @@
       "endLine": 33,
       "source": "memory",
       "snippet": "# 2026-07-21 — Memória Durable ## Auditoria de Integrações **Contexto:** Jadielson pediu auditoria completa do que está integrado ao sistema. Lôh realizou varredura completa do Cofre, ferramentas, scripts, .env, crons e APIs. **Resultados principais salvos em:** `[F2] memory/outputs/auditoria-integracoes-2026-07-21.md` **Status das integrações:** - ✅ Telegram (onipresente, 39 crons ativos) - ✅ Miro (3 boards, token funcional) - ✅ Notion (Loh-bot autenticado, sync diário) - ✅ GitHub workspace (backup 30/30min) - ✅ GitHub segundo-cérebro (clonado, mas desatualizado) - ✅ Mission Control (CRM Lógika, snapshot diário) - ✅ Cron jobs Gateway (39 ativos, todos OK) - ⚠️ gog (Google) — Conta Lôh n",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:51.437Z",
-      "lastRecalledAt": "2026-07-21T06:59:39.928Z",
+      "lastRecalledAt": "2026-07-21T08:38:02.115Z",
       "queryHashes": [
         "252783da7f2e",
-        "5e659b5a6a83"
+        "5e659b5a6a83",
+        "5cd200a05d01"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2186,17 +2191,18 @@
       "endLine": 141,
       "source": "memory",
       "snippet": "## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadielson! 🌞*",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T07:58:13.158Z",
+      "lastRecalledAt": "2026-07-21T08:22:27.928Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
-        "fe5b80892e59"
+        "fe5b80892e59",
+        "2346840d0ef7"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2219,17 +2225,18 @@
       "endLine": 76,
       "source": "memory",
       "snippet": "### 🟡 Calendário Saúde — Semana 4 | Dia | Pilar | Tema | |---|---|---| | **20/07 (seg)** | Atenção Básica | \"Hepatite B tem prevenção: vacina é cuidado\" | | **21/07 (ter)** | Serviços Especializados | \"Sinais que merecem atenção\" | | **22/07 (qua)** | Vigilância/Prevenção | \"Prevenir hepatites também é cuidado diário\" | | **23/07 (qui)** | Rede de Apoio | \"Cuidado sem preconceito\" | | **24/07 (sex)** | Bastidores/Prestação | \"Julho Amarelo em ação\" | > **Status dos drafts:** Semana 4 está marcada como \"Aguardando aprovação\" no Calendar. Pendência: confirmar/liberar pautas com a Secretaria. ### 📸 Entre Tempos — Pré-lançamento | Data | Peça | |---|---| | **21/07 (seg)** | Teaser/post 1:",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T07:58:13.158Z",
+      "lastRecalledAt": "2026-07-21T08:22:27.928Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
-        "fe5b80892e59"
+        "fe5b80892e59",
+        "2346840d0ef7"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2252,19 +2259,20 @@
       "endLine": 133,
       "source": "memory",
       "snippet": "- ⏳ Observação de Jadielson: não viu os cards — foram reposicionados para área visível --- ## 🚀 PROJETOS EM ANDAMENTO ### ✅ Entre Tempos — Videoclipe - **Lançamento:** 30/07/2026, 20h - **Pré-lançamento começa:** 21/07 (segunda) - **Status:** plano de lançamento aprovado; peças a produzir - **Pendente:** confirmar canal, texto final, autorizações de uso ### ✅ Jogos Indígenas Karapotó — MiniDoc - **Status:** aguardando Jadielson — já tem proposta aprovada, narrativa em andamento - **Pendente:** cronograma de finalização e entrega ### ✅ Minidocs Assembleia de Deus - **Status:** material captado, precisa organizar por inauguração e criar timeline --- ## 📊 RESUMO DA SEMANA (12-17/07) |",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5,
+      "totalScore": 6,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T07:58:30.197Z",
+      "lastRecalledAt": "2026-07-21T08:22:27.928Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
         "89f6c8128a23",
         "fe5b80892e59",
-        "2de034ee0349"
+        "2de034ee0349",
+        "2346840d0ef7"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2473,18 +2481,19 @@
       "endLine": 171,
       "source": "memory",
       "snippet": "- CMO e CCO falharam ao serem acionados com erro \"API rate limit reached\" — OpenAI Codex esgotou cota após curadoria 360 (horas de operação contínua, 33 setores, centenas de arquivos). - Diagnóstico completo salvo em `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`. ### Configuração de fallbacks - `agents.defaults.subagents.model` foi configurado com cadeia de 3 níveis: - Plano A: `openai-codex/gpt-5.5` (primário, mais barato) - Plano B: `openrouter/deepseek/deepseek-v4-flash` (fallback se Codex cair) - Plano C: `openrouter/google/gemini-2.5-flash-lite` (último recurso) - Timeout de subagentes aumentado de 180s para 300s para garantir tempo de fallback.",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T08:00:03.348Z",
+      "lastRecalledAt": "2026-07-21T08:38:02.114Z",
       "queryHashes": [
         "071607745207",
         "f76851bdefbc",
         "d6137a2df26d",
-        "ab864c3a6607"
+        "ab864c3a6607",
+        "fe6f6c2fd15b"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2507,18 +2516,19 @@
       "endLine": 367,
       "source": "memory",
       "snippet": "- CMO e CCO falharam ao serem acionados com erro \"API rate limit reached\" — OpenAI Codex esgotou cota após curadoria 360 (horas de operação contínua, 33 setores, centenas de arquivos). - Diagnóstico completo salvo em `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`. ### Configuração de fallbacks - `agents.defaults.subagents.model` foi configurado com cadeia de 3 níveis: - Plano A: `openai-codex/gpt-5.5` (primário, mais barato) - Plano B: `openrouter/deepseek/deepseek-v4-flash` (fallback se Codex cair) - Plano C: `openrouter/google/gemini-2.5-flash-lite` (último recurso) - Timeout de subagentes aumentado de 180s para 300s para garantir tempo de fallback.",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T08:00:03.348Z",
+      "lastRecalledAt": "2026-07-21T08:38:02.114Z",
       "queryHashes": [
         "071607745207",
         "f76851bdefbc",
         "d6137a2df26d",
-        "ab864c3a6607"
+        "ab864c3a6607",
+        "fe6f6c2fd15b"
       ],
       "recallDays": [
         "2026-07-21"
