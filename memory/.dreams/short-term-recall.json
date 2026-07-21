@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T10:00:21.168Z",
+  "updatedAt": "2026-07-21T03:48:01.579Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -697,23 +697,25 @@
       "endLine": 58,
       "source": "memory",
       "snippet": "- 2026-07-08 — PNI / Endemias / Julho Amarelo — vacina, visita e prevenção [A iniciar] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [A iniciar] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 27 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.8380876928567886,
+      "totalScore": 2.214974510669708,
       "maxScore": 0.4160435050725937,
       "firstRecalledAt": "2026-07-04T14:03:01.117Z",
-      "lastRecalledAt": "2026-07-13T10:01:54.287Z",
+      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
       "queryHashes": [
         "af208cc0c6dc",
         "b2895dd1b2fe",
         "6d430c254356",
         "7ec3d0e443a0",
-        "da9d843a9a43"
+        "da9d843a9a43",
+        "a48157dd8181"
       ],
       "recallDays": [
         "2026-07-04",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-21"
       ],
       "conceptTags": [
         "pni",
@@ -1182,23 +1184,25 @@
       "endLine": 59,
       "source": "memory",
       "snippet": "- 2026-07-08 — SMS São Sebastião — 08/07/2026 — Quarta [Publicado] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [Publicado] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 28 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.3413272231817244,
+      "totalScore": 2.717366766929626,
       "maxScore": 0.41859045922756194,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-13T10:02:13.592Z",
+      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
         "7ec3d0e443a0",
         "da9d843a9a43",
         "eaf20a0aa54e",
-        "6ca29934d5f7"
+        "6ca29934d5f7",
+        "a48157dd8181"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-21"
       ],
       "conceptTags": [
         "08/07/2026",
@@ -1287,21 +1291,23 @@
       "endLine": 55,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5182755291461945,
+      "totalScore": 1.8899285405874253,
       "maxScore": 0.4016779392957687,
       "firstRecalledAt": "2026-07-13T09:00:40.345Z",
-      "lastRecalledAt": "2026-07-13T10:02:13.592Z",
+      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
       "queryHashes": [
         "4af39e19d7b4",
         "da9d843a9a43",
         "eaf20a0aa54e",
-        "6ca29934d5f7"
+        "6ca29934d5f7",
+        "a48157dd8181"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-21"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -1321,23 +1327,25 @@
       "endLine": 42,
       "source": "memory",
       "snippet": "Observação: calendário `logikacreative.mkt@gmail.com` sem eventos no período; `loh.open.logika@gmail.com` retornou `invalid_grant`, indicando pendência técnica de autenticação se for usar essa conta para agenda. ## Correção — Jadielson pediu tarefas/projetos pendentes, não frentes estruturais Após Jadielson corrigir: \"nao. me refiro a tarefas e projetos que estao pendentes\", Jarvis deve responder com lista operacional de tarefas/projetos ativos e não com análise macro da empresa. Lista mais útil/atual para tópico LÓGIKA: - Captação drone 3 localidades: sair 13h; confirmar se é Rancho Alegre/Cana Brava/Tabela, ponto de encontro, transporte, entrega e edição. - MiniDoc Jogos Indígenas Karap",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.0301500618457795,
+      "totalScore": 2.417857137322426,
       "maxScore": 0.42377928793430325,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
+      "lastRecalledAt": "2026-07-21T03:30:32.990Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
         "977444e0e34f",
         "d094bc004364",
-        "19add55e8324"
+        "19add55e8324",
+        "14fa7a3590ab"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-21"
       ],
       "conceptTags": [
         "logikacreative.mkt",
@@ -1357,24 +1365,26 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.39711922109127,
+      "totalScore": 2.7877399563789362,
       "maxScore": 0.4319266498088836,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
+      "lastRecalledAt": "2026-07-21T03:30:32.990Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
         "6466990bce48",
         "977444e0e34f",
         "d094bc004364",
-        "19add55e8324"
+        "19add55e8324",
+        "14fa7a3590ab"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-21"
       ],
       "conceptTags": [
         "operação/automação",
@@ -1394,22 +1404,24 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5810769706964494,
+      "totalScore": 1.9969089388847352,
       "maxScore": 0.44164407849311826,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
+      "lastRecalledAt": "2026-07-21T03:30:32.990Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
         "977444e0e34f",
-        "19add55e8324"
+        "19add55e8324",
+        "14fa7a3590ab"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-21"
       ],
       "conceptTags": [
         "1/lógika",
@@ -1721,18 +1733,20 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "- 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão e prevenção [A iniciar] - 2026-07-",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.37228259444236755,
+      "totalScore": 0.7375366359949111,
       "maxScore": 0.37228259444236755,
       "firstRecalledAt": "2026-07-14T10:00:21.079Z",
-      "lastRecalledAt": "2026-07-14T10:00:21.079Z",
+      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
       "queryHashes": [
-        "19add55e8324"
+        "19add55e8324",
+        "a48157dd8181"
       ],
       "recallDays": [
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-21"
       ],
       "conceptTags": [
         "2026-07",
@@ -1774,6 +1788,37 @@
         "log",
         "data",
         "gerado"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-15.md:34:57": {
+      "key": "memory:memory/sessions/sync/2026-07-15.md:34:57",
+      "path": "memory/sessions/sync/2026-07-15.md",
+      "startLine": 34,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.37457434833049774,
+      "maxScore": 0.37457434833049774,
+      "firstRecalledAt": "2026-07-21T03:48:01.579Z",
+      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
+      "queryHashes": [
+        "a48157dd8181"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
       ]
     }
   }
