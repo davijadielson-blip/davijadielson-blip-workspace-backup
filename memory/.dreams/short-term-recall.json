@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T03:48:01.579Z",
+  "updatedAt": "2026-07-21T04:12:05.738Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -697,20 +697,21 @@
       "endLine": 58,
       "source": "memory",
       "snippet": "- 2026-07-08 — PNI / Endemias / Julho Amarelo — vacina, visita e prevenção [A iniciar] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [A iniciar] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 27 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.214974510669708,
+      "totalScore": 2.630216261744499,
       "maxScore": 0.4160435050725937,
       "firstRecalledAt": "2026-07-04T14:03:01.117Z",
-      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
+      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
       "queryHashes": [
         "af208cc0c6dc",
         "b2895dd1b2fe",
         "6d430c254356",
         "7ec3d0e443a0",
         "da9d843a9a43",
-        "a48157dd8181"
+        "a48157dd8181",
+        "9f407761bfdf"
       ],
       "recallDays": [
         "2026-07-04",
@@ -1184,13 +1185,13 @@
       "endLine": 59,
       "source": "memory",
       "snippet": "- 2026-07-08 — SMS São Sebastião — 08/07/2026 — Quarta [Publicado] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [Publicado] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 28 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.717366766929626,
+      "totalScore": 3.1346693754196164,
       "maxScore": 0.41859045922756194,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
+      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
@@ -1198,7 +1199,8 @@
         "da9d843a9a43",
         "eaf20a0aa54e",
         "6ca29934d5f7",
-        "a48157dd8181"
+        "a48157dd8181",
+        "9f407761bfdf"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1291,19 +1293,20 @@
       "endLine": 55,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.8899285405874253,
-      "maxScore": 0.4016779392957687,
+      "totalScore": 2.312511977553368,
+      "maxScore": 0.42258343696594236,
       "firstRecalledAt": "2026-07-13T09:00:40.345Z",
-      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
+      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
       "queryHashes": [
         "4af39e19d7b4",
         "da9d843a9a43",
         "eaf20a0aa54e",
         "6ca29934d5f7",
-        "a48157dd8181"
+        "a48157dd8181",
+        "9f407761bfdf"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1733,16 +1736,17 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "- 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão e prevenção [A iniciar] - 2026-07-",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7375366359949111,
-      "maxScore": 0.37228259444236755,
+      "totalScore": 1.150191169977188,
+      "maxScore": 0.4126545339822769,
       "firstRecalledAt": "2026-07-14T10:00:21.079Z",
-      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
+      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
       "queryHashes": [
         "19add55e8324",
-        "a48157dd8181"
+        "a48157dd8181",
+        "9f407761bfdf"
       ],
       "recallDays": [
         "2026-07-14",
@@ -1797,15 +1801,16 @@
       "endLine": 57,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.37457434833049774,
-      "maxScore": 0.37457434833049774,
+      "totalScore": 0.7638206779956818,
+      "maxScore": 0.389246329665184,
       "firstRecalledAt": "2026-07-21T03:48:01.579Z",
-      "lastRecalledAt": "2026-07-21T03:48:01.579Z",
+      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
       "queryHashes": [
-        "a48157dd8181"
+        "a48157dd8181",
+        "9f407761bfdf"
       ],
       "recallDays": [
         "2026-07-21"
@@ -1819,6 +1824,223 @@
         "17/07/2026",
         "16/07/2026",
         "15/07/2026"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-18.md:1:47": {
+      "key": "memory:memory/daily-briefs/2026-07-18.md:1:47",
+      "path": "memory/daily-briefs/2026-07-18.md",
+      "startLine": 1,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "# ☀️ Daily Briefing — 18/07/2026 (Sábado) > Gerado por Lôh (Tier 0) | 10:00 UTC / 07:00 BRT > Fonte: Cofre (calendários, memórias diárias, decisões), Tavily (datas sazonais) --- ## 📅 HOJE É SÁBADO — DIA DE DESCANSO E PLANEJAMENTO | Info | Detalhe | |---|---| | **Data** | Sábado, 18 de julho de 2026 | | **Clima operacional** | 🟢 Dia sem pautas fixas de conteúdo — ideal para planejamento | | **Semana corrente** | Semana 3 de julho (encerrada ontem) | | **Fase da lua** | 🌒 Lua Crescente (próximo quarto: 24/07) | --- ## 🗓️ DATAS SAZONAIS DE JULHO ### Em andamento este mês | Data | Evento | Frente | |---|---|---| | Mês todo | 🟡 **Julho Amarelo** — hepatites virais | Saúde/SMS | | Mês",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:05:44.962Z",
+      "lastRecalledAt": "2026-07-21T04:05:44.962Z",
+      "queryHashes": [
+        "e854a62afc75"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "18/07/2026",
+        "24/07",
+        "saúde/sms",
+        "briefing",
+        "sábado",
+        "gerado",
+        "lôh",
+        "tier"
+      ]
+    },
+    "memory:memory/2026-07-21.md:27:38": {
+      "key": "memory:memory/2026-07-21.md:27:38",
+      "path": "memory/2026-07-21.md",
+      "startLine": 27,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "- Embeddings (text-embedding-3-small) custariam centavos/mês se funcionassem - Lôh sugeriu 3 opções: ignorar, gerar nova key, ou trocar provider (OpenRouter) - Jadielson não respondeu qual caminho seguir — pendente de decisão ## Próximos passos pendentes 1. Decidir o que fazer com a chave OpenAI (embeddings) — usar OpenRouter? Ignorar? 2. Autenticar conta Lôh (loh.open.logika@gmail.com) no gog 3. Configurar GOG_KEYRING_PASSWORD como env var global 4. Remover/desabilitar MCPs Zapier residuais 5. Sincronizar segundo-cérebro com workspace 6. Preencher arquivo de decisão vazio do Zapier",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:05:51.437Z",
+      "lastRecalledAt": "2026-07-21T04:05:51.437Z",
+      "queryHashes": [
+        "252783da7f2e"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "embedding",
+        "embeddings",
+        "openai",
+        "router",
+        "text-embedding-3-small",
+        "centavos/mês",
+        "loh.open.logika",
+        "gmail.com"
+      ]
+    },
+    "memory:memory/2026-07-20.md:21:33": {
+      "key": "memory:memory/2026-07-20.md:21:33",
+      "path": "memory/2026-07-20.md",
+      "startLine": 21,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "- Possíveis caminhos de integração registrados: Google Calendar como ponte via gog, export/import Markdown/CSV, API/MCP oficial do xTiles se disponível, ou automação por navegador como última opção. Integração profunda deve passar por Lôh por envolver arquitetura, segurança e autenticação. ## Mission Control / aplicativo - Jadielson enviou prints de referência de dashboard/app e perguntou se seria possível criar um **Mission Control** ou aplicativo nesse estilo. - Parecer: sim, é possível, mas não iniciar app pesado antes de validar. Caminho recomendado: MVP no xTiles → dados estruturados no Cofre → Google Calendar via gog → avaliação técnica por Lôh → possível app próprio. - Blueprint ini",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:05:51.437Z",
+      "lastRecalledAt": "2026-07-21T04:05:51.437Z",
+      "queryHashes": [
+        "252783da7f2e"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "export/import",
+        "markdown/csv",
+        "api/mcp",
+        "dashboard/app",
+        "possíveis",
+        "caminhos",
+        "integração",
+        "registrados"
+      ]
+    },
+    "memory:memory/2026-07-21.md:1:33": {
+      "key": "memory:memory/2026-07-21.md:1:33",
+      "path": "memory/2026-07-21.md",
+      "startLine": 1,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "# 2026-07-21 — Memória Durable ## Auditoria de Integrações **Contexto:** Jadielson pediu auditoria completa do que está integrado ao sistema. Lôh realizou varredura completa do Cofre, ferramentas, scripts, .env, crons e APIs. **Resultados principais salvos em:** `[F2] memory/outputs/auditoria-integracoes-2026-07-21.md` **Status das integrações:** - ✅ Telegram (onipresente, 39 crons ativos) - ✅ Miro (3 boards, token funcional) - ✅ Notion (Loh-bot autenticado, sync diário) - ✅ GitHub workspace (backup 30/30min) - ✅ GitHub segundo-cérebro (clonado, mas desatualizado) - ✅ Mission Control (CRM Lógika, snapshot diário) - ✅ Cron jobs Gateway (39 ativos, todos OK) - ⚠️ gog (Google) — Conta Lôh n",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:05:51.437Z",
+      "lastRecalledAt": "2026-07-21T04:05:51.437Z",
+      "queryHashes": [
+        "252783da7f2e"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "backup",
+        "gateway",
+        "loh-bot",
+        "30/30min",
+        "segundo-cérebro",
+        "memória",
+        "durable",
+        "auditoria"
+      ]
+    },
+    "memory:memory/2026-07-20.md:222:236": {
+      "key": "memory:memory/2026-07-20.md:222:236",
+      "path": "memory/2026-07-20.md",
+      "startLine": 222,
+      "endLine": 236,
+      "source": "memory",
+      "snippet": "- Parecer: sim, é possível, mas não iniciar app pesado antes de validar. Caminho recomendado: MVP no xTiles → dados estruturados no Cofre → Google Calendar via gog → avaliação técnica por Lôh → possível app próprio. - Blueprint inicial criado em `[F2] memory/projects/backlog-inteligente/mission-control-blueprint-mvp-v1-2026-07-20.md`. - Pedido para Lôh avaliar arquitetura técnica salvo em `[F2] memory/context/arquitetura/pedido-loh-avaliar-mission-control-backlog-inteligente-2026-07-20.md`. - Templates criados: - `[F2] memory/templates/backlog-inteligente-template-tarefa-v1-2026-07-20.md` - `[F2] memory/templates/backlog-inteligente-painel-1-pagina-v1-2026-07-20.md` - `[F2] memory/temp",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:05:51.437Z",
+      "lastRecalledAt": "2026-07-21T04:05:51.437Z",
+      "queryHashes": [
+        "252783da7f2e"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "memory/temp",
+        "parecer",
+        "sim",
+        "possível",
+        "mas",
+        "não",
+        "iniciar",
+        "app"
+      ]
+    },
+    "memory:memory/2026-07-19.md:44:58": {
+      "key": "memory:memory/2026-07-19.md:44:58",
+      "path": "memory/2026-07-19.md",
+      "startLine": 44,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "- Template salvo em `[F2] memory/context/estudos/backlog-inteligente-template-fatiamento-executivo-v2-2026-07-19.md`. - Essência do comando: assumir o contexto do tópico, desmembrar o todo em partes menores, listar microtarefas executáveis, indicar sequência, próximas ações e checklist final; se faltar informação, assumir hipótese razoável e marcar como “a confirmar”. ## Prioridades iniciais citadas para próximos dias - Jadielson citou gargalos/prioridades para fatiamento e trabalho gradual: 1. **O Fio da Memória** — urgente/atrasado, projeto cultural/documentário; execução detalhada deve ficar no grupo/tópico PROJETOS. 2. **Comunidade 1P** — estudo de IA/automação, dentro de `Profissio",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:08:24.346Z",
+      "lastRecalledAt": "2026-07-21T04:08:24.346Z",
+      "queryHashes": [
+        "dffa53a3ce91"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "gargalos/prioridades",
+        "urgente/atrasado",
+        "cultural/documentário",
+        "grupo/tópico",
+        "ia/automação",
+        "template",
+        "salvo",
+        "context"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-18.md:72:106": {
+      "key": "memory:memory/daily-briefs/2026-07-18.md:72:106",
+      "path": "memory/daily-briefs/2026-07-18.md",
+      "startLine": 72,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "### 🔴 1. O Fio da Memória — Risco de Prestação de Contas - **Projeto aprovado no PNAB** (Chamamento 01/2024 — São Sebastião/AL) - **Recurso:** R$ 20.000 — recebido ~05/04/2025 (a confirmar) - **Já realizado:** pesquisa, matriz narrativa, argumento V3 aprovado - **Ainda não feito:** gravação, edição, publicação, relatório - **Risco:** edital indica execução até 31/08/2025 (possível atraso de 321 dias) - **Ação urgente:** solicitar à Secretaria de Cultura cópia do Termo de Execução Cultural; confirmar prazo vigente; entrar em modo emergencial de produção - **Status:** Jadielson informou não ter o termo em mãos ### 🟡 2. Disco do servidor em 90% - Uso: 9.0G de 10G (1.1G livres) - Limpeza de 1",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:08:24.346Z",
+      "lastRecalledAt": "2026-07-21T04:08:24.346Z",
+      "queryHashes": [
+        "dffa53a3ce91"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "01/2024",
+        "sebastião/al",
+        "20.000",
+        "05/04/2025",
+        "31/08/2025",
+        "9.0g",
+        "1.1g",
+        "fio"
       ]
     }
   }
