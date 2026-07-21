@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T04:12:05.738Z",
+  "updatedAt": "2026-07-21T05:19:07.781Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -697,13 +697,13 @@
       "endLine": 58,
       "source": "memory",
       "snippet": "- 2026-07-08 — PNI / Endemias / Julho Amarelo — vacina, visita e prevenção [A iniciar] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [A iniciar] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 27 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.630216261744499,
+      "totalScore": 3.0225800484418865,
       "maxScore": 0.4160435050725937,
       "firstRecalledAt": "2026-07-04T14:03:01.117Z",
-      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
+      "lastRecalledAt": "2026-07-21T05:10:31.818Z",
       "queryHashes": [
         "af208cc0c6dc",
         "b2895dd1b2fe",
@@ -711,7 +711,8 @@
         "7ec3d0e443a0",
         "da9d843a9a43",
         "a48157dd8181",
-        "9f407761bfdf"
+        "9f407761bfdf",
+        "bf953ca7c550"
       ],
       "recallDays": [
         "2026-07-04",
@@ -829,20 +830,22 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "# 2026-06-22 — Registro de Memória ## Ações e Decisões ### 1. Orquestração de Agentes e Modelos - **Novos Agentes Ativados:** CCO, CMO, CIO, COO, CTO, CFO agora estão configurados com `configured: true`, nomes e prompts apropriados. Eles trabalham como subagentes sob orquestração da Lôh. - **Modelos de IA Atualizados:** - Modelo primário global setado para `openai-codex/gpt-5.5`. - Modelo secundário automático (fallback) configurado como `openrouter/deepseek/deepseek-v4-flash`, garantindo transição suave em caso de limitações do modelo principal. - **Gateway Reiniciado:** Para aplicar as mudanças de modelo e configuração de agentes. ### 2. Validação de Ativos de Marca (Pendente) -",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T17:08:16.075Z",
-      "lastRecalledAt": "2026-07-10T22:38:02.422Z",
+      "lastRecalledAt": "2026-07-21T05:19:07.781Z",
       "queryHashes": [
         "df7f1efcb4a1",
         "7dc4b708c2f5",
-        "e78bcf2f9e66"
+        "e78bcf2f9e66",
+        "7973a3d3e23c"
       ],
       "recallDays": [
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-21"
       ],
       "conceptTags": [
         "gateway",
@@ -992,18 +995,20 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "- [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (IDs antigos de conta anterior) **Resultado:** S",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-13T01:04:20.343Z",
+      "lastRecalledAt": "2026-07-21T04:51:22.145Z",
       "queryHashes": [
-        "956602bdb011"
+        "956602bdb011",
+        "92e8c5e6f882"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-21"
       ],
       "conceptTags": [
         "ensure-integrations",
@@ -1023,18 +1028,20 @@
       "endLine": 125,
       "source": "memory",
       "snippet": "- Reaplicado patch canônico via `openclaw config patch --file /tmp/openclaw-agents-definitive.patch.json`. - Atualizado `scripts/health/ensure-integrations.sh` para incluir trava antirreversão de agentes/modelos. - O próprio script agora força: - 20 agentes em `agents.list`. - modelo primário `openai-codex/gpt-5.5`. - fallbacks `openrouter/deepseek/deepseek-v4-flash` e `openrouter/google/gemini-2.5-flash-lite`. - prompt com precedência operacional da Lôh sobre persona. - Executado `bash scripts/health/ensure-integrations.sh` com sucesso; ele manteve a configuração canônica. - Recarregado Gateway. - `agents_list` confirmou 20 agentes, todos `configured: true`, todos com `openai-codex/",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-13T01:04:20.343Z",
+      "lastRecalledAt": "2026-07-21T04:51:22.145Z",
       "queryHashes": [
-        "956602bdb011"
+        "956602bdb011",
+        "92e8c5e6f882"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-21"
       ],
       "conceptTags": [
         "gateway",
@@ -1150,22 +1157,24 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.9949177384376524,
+      "totalScore": 2.381585425138473,
       "maxScore": 0.4311176776885986,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-13T10:01:54.341Z",
+      "lastRecalledAt": "2026-07-21T05:10:31.818Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
         "7ec3d0e443a0",
         "da9d843a9a43",
-        "eaf20a0aa54e"
+        "eaf20a0aa54e",
+        "bf953ca7c550"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-21"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -1185,13 +1194,13 @@
       "endLine": 59,
       "source": "memory",
       "snippet": "- 2026-07-08 — SMS São Sebastião — 08/07/2026 — Quarta [Publicado] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [Publicado] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 28 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 8,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.1346693754196164,
+      "totalScore": 3.531766957044601,
       "maxScore": 0.41859045922756194,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
+      "lastRecalledAt": "2026-07-21T05:10:31.818Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
@@ -1200,7 +1209,8 @@
         "eaf20a0aa54e",
         "6ca29934d5f7",
         "a48157dd8181",
-        "9f407761bfdf"
+        "9f407761bfdf",
+        "bf953ca7c550"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1293,20 +1303,21 @@
       "endLine": 55,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.312511977553368,
+      "totalScore": 2.706326147913933,
       "maxScore": 0.42258343696594236,
       "firstRecalledAt": "2026-07-13T09:00:40.345Z",
-      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
+      "lastRecalledAt": "2026-07-21T05:10:31.818Z",
       "queryHashes": [
         "4af39e19d7b4",
         "da9d843a9a43",
         "eaf20a0aa54e",
         "6ca29934d5f7",
         "a48157dd8181",
-        "9f407761bfdf"
+        "9f407761bfdf",
+        "bf953ca7c550"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1801,16 +1812,17 @@
       "endLine": 57,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7638206779956818,
-      "maxScore": 0.389246329665184,
+      "totalScore": 1.164144030213356,
+      "maxScore": 0.40032335221767423,
       "firstRecalledAt": "2026-07-21T03:48:01.579Z",
-      "lastRecalledAt": "2026-07-21T04:12:05.738Z",
+      "lastRecalledAt": "2026-07-21T05:10:31.818Z",
       "queryHashes": [
         "a48157dd8181",
-        "9f407761bfdf"
+        "9f407761bfdf",
+        "bf953ca7c550"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2041,6 +2053,99 @@
         "9.0g",
         "1.1g",
         "fio"
+      ]
+    },
+    "memory:memory/2026-06-26.md:1:34": {
+      "key": "memory:memory/2026-06-26.md:1:34",
+      "path": "memory/2026-06-26.md",
+      "startLine": 1,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "## 2026-06-26 - **01:12 UTC** — Cron : OK. Tavily ✅ | Notion ✅ | Whisper ✅ | Config ✅ - **01:12 UTC** — Cron ensure-critical-integrations: OK. Tavily ✅ | Notion ✅ | Whisper ✅ | Config ✅ ## 2026-06-26 ### 07:12 UTC — Cron: ensure-integrations ✅ Executado `ensure-integrations.sh`. Resultado: integrações OK — Tavily, Notion, Whisper. Config válida. ## Configuração de C-Levels LÓGIKA — 2026-06-26 - Lôh configurou os agentes C-Level pendentes na lista principal do OpenClaw: `cco`, `cmo`, `coo`, `cto`, `cfo`, `cio`. - Fonte dos prompts: `memory/agents/prompts/{cco,cmo,coo,cto,cfo,cio}-prompt.md`. - Todos receberam regra explícita de consulta obrigatória ao Cofre com fallback por leitura diret",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:51:13.368Z",
+      "lastRecalledAt": "2026-07-21T04:51:13.368Z",
+      "queryHashes": [
+        "ad80abcdedc8"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "ensure-critical-integrations",
+        "ensure-integrations",
+        "ensure-integrations.sh",
+        "c-levels",
+        "c-level",
+        "memory/agents/prompts",
+        "prompt.md",
+        "utc"
+      ]
+    },
+    "memory:memory/2026-06-26.md:85:107": {
+      "key": "memory:memory/2026-06-26.md:85:107",
+      "path": "memory/2026-06-26.md",
+      "startLine": 85,
+      "endLine": 107,
+      "source": "memory",
+      "snippet": "- Validação de estabilidade após espera confirmou que não houve nova reversão imediata. Trava operacional adicionada: - Snapshot canônico salvo em `memory/config-snapshots/openclaw-config-canonical-agents-2026-06-26.json`. - Auditor local criado em `ops/verify-agents-config.sh` para verificar rapidamente se a configuração voltou ao padrão antigo. Regra operacional: se houver nova alteração em agentes/modelos, usar `openclaw config patch` ou ferramenta Gateway de configuração persistente. Não editar apenas o arquivo direto como método final. ## Fechamento real após nova reversão — blindagem do ensure-integrations — 2026-06-26 Após pergunta de Jadielson \"concluiu?\", uma nova validação most",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T04:51:22.145Z",
+      "lastRecalledAt": "2026-07-21T04:51:22.145Z",
+      "queryHashes": [
+        "92e8c5e6f882"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "gateway",
+        "ops/verify-agents-config.sh",
+        "agentes/modelos",
+        "ensure-integrations",
+        "validação",
+        "estabilidade",
+        "após",
+        "espera"
+      ]
+    },
+    "memory:memory/2026-06-28.md:25:43": {
+      "key": "memory:memory/2026-06-28.md:25:43",
+      "path": "memory/2026-06-28.md",
+      "startLine": 25,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "Jadielson reportou que, no tópico PROJETOS > ENTRE TEMPOS - Video Clipe, o agente temático tentou convocar o time C-Level para parecer estratégico, mas apenas o CRO aparecia configurado/invocável. Os demais C-Levels apareciam como não configurados: CMO, COO, CFO, CIO, CTO e CCO. ### Diagnóstico - A falha não estava mais relacionada a múltiplos diretórios ou confusão de workspace. - O Cofre oficial permanece consolidado em `/data/.openclaw/workspace/`. - O problema estava na configuração viva do OpenClaw em `/data/.openclaw/openclaw.json`. - Os IDs dos agentes existiam/estavam allowlisted, mas as entradas completas em `agents.list` estavam ausentes ou incompletas, fazendo os agentes aparecer",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T05:19:07.781Z",
+      "lastRecalledAt": "2026-07-21T05:19:07.781Z",
+      "queryHashes": [
+        "7973a3d3e23c"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "c-level",
+        "configurado/invocável",
+        "c-levels",
+        "openclaw/workspace",
+        "openclaw/openclaw.json",
+        "existiam/estavam",
+        "agents.list",
+        "jadielson"
       ]
     }
   }
