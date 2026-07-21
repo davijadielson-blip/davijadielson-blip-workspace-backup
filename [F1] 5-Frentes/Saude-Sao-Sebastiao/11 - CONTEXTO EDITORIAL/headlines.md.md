@@ -1,3 +1,9 @@
+> ⚠️ **ATUALIZAÇÃO EM 21/07/2026:** O padrão vigente e validado por Jadielson para headlines de stories está no arquivo `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/2026-07-13-padrao-headlines-stories-saude.md`.
+> **Estrutura obrigatória:** cada story tem 2 linhas — (1) benefício percebido com linguagem humana + (2) explicação rápida do serviço/setor.
+> Este arquivo abaixo contém referências históricas e exemplos que podem não seguir o padrão validado. Em caso de conflito, o padrão validado vence.
+
+---
+
 Construímos as **headlines da Secretaria de Saúde** com uma lógica bem clara: elas precisam funcionar como **porta de entrada do conteúdo**, principalmente nos **stories**, onde a pessoa decide em 1 segundo se vai prestar atenção ou pular.
 
 ## A base da construção
