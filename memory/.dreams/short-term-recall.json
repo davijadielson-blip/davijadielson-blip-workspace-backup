@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T09:18:34.751Z",
+  "updatedAt": "2026-07-21T09:44:36.571Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -1367,13 +1367,13 @@
       "endLine": 42,
       "source": "memory",
       "snippet": "Observação: calendário `logikacreative.mkt@gmail.com` sem eventos no período; `loh.open.logika@gmail.com` retornou `invalid_grant`, indicando pendência técnica de autenticação se for usar essa conta para agenda. ## Correção — Jadielson pediu tarefas/projetos pendentes, não frentes estruturais Após Jadielson corrigir: \"nao. me refiro a tarefas e projetos que estao pendentes\", Jarvis deve responder com lista operacional de tarefas/projetos ativos e não com análise macro da empresa. Lista mais útil/atual para tópico LÓGIKA: - Captação drone 3 localidades: sair 13h; confirmar se é Rancho Alegre/Cana Brava/Tabela, ponto de encontro, transporte, entrega e edição. - MiniDoc Jogos Indígenas Karap",
-      "recallCount": 9,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.150676229596138,
+      "totalScore": 4.500875729322434,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-21T09:03:33.204Z",
+      "lastRecalledAt": "2026-07-21T09:20:40.216Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1383,7 +1383,8 @@
         "14fa7a3590ab",
         "f4a450a74f5f",
         "dcabb6eea9b5",
-        "1ee8b2976ded"
+        "1ee8b2976ded",
+        "5c566fb3635f"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1493,23 +1494,25 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final - 2026-07-27 — PSF / ACS / Academia — véspera do Dia Mundial das Hepatites - 2026-07-28 — Laboratório / Hepatites Virais — Dia Mundial de Prevenção - 2026-07-29 — PNI / Vigilância Sanitária / Endemias — prevenção continua - 2026-07-30 — Assistência Social / CAPS / Melhor em Casa — rede sem preconceito - 2026-07-31 — Bastidores / Prestação de Contas — fechamento do Julho Amarelo - (mais 4 itens de semanas anteriores já com data passada) ## Próximos Passos 1. Reautenticar Google Calendar manualmente 2. Rodar sync novamente: `python3 scripts/sync/notion-to-calendar.py` 3. Verificar se os eventos foram criados no Go",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.849756935238838,
-      "maxScore": 0.3986367732286453,
+      "totalScore": 2.849756935238838,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-14T10:00:21.168Z",
+      "lastRecalledAt": "2026-07-21T09:33:03.214Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "da9d843a9a43",
         "20bf8e9349e0",
         "43c2abb00512",
-        "81b875f68955"
+        "81b875f68955",
+        "df6201100059"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-21"
       ],
       "conceptTags": [
         "samu",
@@ -1625,17 +1628,18 @@
       "endLine": 44,
       "source": "memory",
       "snippet": "- O Fio da Memória: pesquisa pronta; escolher protagonista, confirmar narrador-historiador e migrar para roteiro/captação. - Saúde/SMS: rotina editorial em teste; pautas semanais e demanda pontual da recepção sem atendimento no dia 16 aguardando dados. - JD AutoCenter: checar se ainda existe pendência; se concluído, arquivar como resolvido. - Inbox do Cofre: triar em lote por destino simples. - LÓGIKA marca/comercial: propostas, serviços, identidade visual, leads/Notion/Make seguem como projeto estruturante, não urgência de entrega do dia.",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.7949530869722365,
+      "totalScore": 2.7949530869722365,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T12:19:44.985Z",
-      "lastRecalledAt": "2026-07-21T06:06:23.067Z",
+      "lastRecalledAt": "2026-07-21T09:33:03.214Z",
       "queryHashes": [
         "6466990bce48",
         "19add55e8324",
-        "f4a450a74f5f"
+        "f4a450a74f5f",
+        "df6201100059"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1888,18 +1892,20 @@
       "endLine": 47,
       "source": "memory",
       "snippet": "# ☀️ Daily Briefing — 18/07/2026 (Sábado) > Gerado por Lôh (Tier 0) | 10:00 UTC / 07:00 BRT > Fonte: Cofre (calendários, memórias diárias, decisões), Tavily (datas sazonais) --- ## 📅 HOJE É SÁBADO — DIA DE DESCANSO E PLANEJAMENTO | Info | Detalhe | |---|---| | **Data** | Sábado, 18 de julho de 2026 | | **Clima operacional** | 🟢 Dia sem pautas fixas de conteúdo — ideal para planejamento | | **Semana corrente** | Semana 3 de julho (encerrada ontem) | | **Fase da lua** | 🌒 Lua Crescente (próximo quarto: 24/07) | --- ## 🗓️ DATAS SAZONAIS DE JULHO ### Em andamento este mês | Data | Evento | Frente | |---|---|---| | Mês todo | 🟡 **Julho Amarelo** — hepatites virais | Saúde/SMS | | Mês",
-      "recallCount": 4,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.3856237083673477,
+      "totalScore": 5.385623708367348,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:44.962Z",
-      "lastRecalledAt": "2026-07-21T09:13:00.127Z",
+      "lastRecalledAt": "2026-07-21T09:33:12.528Z",
       "queryHashes": [
         "e854a62afc75",
         "6821ee9442b9",
         "1524e1944e00",
-        "1c148801e98a"
+        "1c148801e98a",
+        "df6201100059",
+        "0fa32ba7a9de"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2122,18 +2128,19 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "## 2026-06-26 - **01:12 UTC** — Cron : OK. Tavily ✅ | Notion ✅ | Whisper ✅ | Config ✅ - **01:12 UTC** — Cron ensure-critical-integrations: OK. Tavily ✅ | Notion ✅ | Whisper ✅ | Config ✅ ## 2026-06-26 ### 07:12 UTC — Cron: ensure-integrations ✅ Executado `ensure-integrations.sh`. Resultado: integrações OK — Tavily, Notion, Whisper. Config válida. ## Configuração de C-Levels LÓGIKA — 2026-06-26 - Lôh configurou os agentes C-Level pendentes na lista principal do OpenClaw: `cco`, `cmo`, `coo`, `cto`, `cfo`, `cio`. - Fonte dos prompts: `memory/agents/prompts/{cco,cmo,coo,cto,cfo,cio}-prompt.md`. - Todos receberam regra explícita de consulta obrigatória ao Cofre com fallback por leitura diret",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:51:13.368Z",
-      "lastRecalledAt": "2026-07-21T09:18:34.751Z",
+      "lastRecalledAt": "2026-07-21T09:44:36.571Z",
       "queryHashes": [
         "ad80abcdedc8",
         "921e06cc2f9b",
         "6868bcc09d62",
-        "30f6bbe8a7ad"
+        "30f6bbe8a7ad",
+        "d73ff8767d6a"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2218,19 +2225,20 @@
       "endLine": 141,
       "source": "memory",
       "snippet": "## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadielson! 🌞*",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5,
+      "totalScore": 6,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T09:10:29.038Z",
+      "lastRecalledAt": "2026-07-21T09:33:03.214Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
         "fe5b80892e59",
         "2346840d0ef7",
-        "cb0eab1c81ef"
+        "cb0eab1c81ef",
+        "df6201100059"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2931,6 +2939,161 @@
         "ops/verify-agents-config.sh",
         "ops/verify-c-level-agents.sh",
         "guard-c-level-agents-config"
+      ]
+    },
+    "memory:memory/2026-07-20.md:282:292": {
+      "key": "memory:memory/2026-07-20.md:282:292",
+      "path": "memory/2026-07-20.md",
+      "startLine": 282,
+      "endLine": 292,
+      "source": "memory",
+      "snippet": "- Nota de ajuste salva em `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-20-ajuste-calendario-servicos-especializados-recepcao-regulacao.md`. ## SAÚDE — auditoria da Estrutura da Secretaria - Jadielson pediu auditoria aprofundada da pasta `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/`. - Primeira passada concluída e salva em `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-07-20-auditoria-estrutura-secretaria-saude.md`. - Achados centrais: divergência de contagem PSF/UBS; Setores Complementares lista 26 setores, mas canônico detalha 20; faltam notas canônicas para Epidemiologia, Gabinete, RH, Almoxarifado, CPD e Procuradoria; há material operaci",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T09:31:01.962Z",
+      "lastRecalledAt": "2026-07-21T09:31:01.962Z",
+      "queryHashes": [
+        "a5af59f5b980"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "5-frentes/saude-sao-sebastiao/01",
+        "psf/ubs",
+        "nota",
+        "ajuste",
+        "salva",
+        "outputs",
+        "saude",
+        "sao"
+      ]
+    },
+    "memory:memory/2026-07-20.md:276:286": {
+      "key": "memory:memory/2026-07-20.md:276:286",
+      "path": "memory/2026-07-20.md",
+      "startLine": 276,
+      "endLine": 286,
+      "source": "memory",
+      "snippet": "- Para segunda-feira `Atenção Básica/Território`, só entra como complemento de fluxo/CTA (\"depois da solicitação na unidade, a regulação organiza o agendamento\"), não como tema principal. ## SAÚDE — calendário atualizado: Recepção/Regulação em Serviços Especializados - Jadielson autorizou incluir a Recepção/Regulação da Secretaria no pilar `Serviços Especializados`. - Calendário operacional F2 atualizado em `[F2] memory/outputs/sms-sao-sebastiao-calendario-editorial-julho-2026-completo-f1-ancorado.md`, seção `21/07 — Terça — Serviços Especializados`. - Ajuste aplicado: serviços agora incluem `Laboratório, Espaço Cuidar, Oftalmologia, CEO/Saúde Bucal e Recepção/Regulação da Secretaria`; Stor",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T09:31:01.962Z",
+      "lastRecalledAt": "2026-07-21T09:31:01.962Z",
+      "queryHashes": [
+        "a5af59f5b980"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "segunda-feira",
+        "básica/território",
+        "fluxo/cta",
+        "recepção/regulação",
+        "21/07",
+        "ceo/saúde",
+        "segunda",
+        "feira"
+      ]
+    },
+    "memory:memory/2026-07-20.md:84:94": {
+      "key": "memory:memory/2026-07-20.md:84:94",
+      "path": "memory/2026-07-20.md",
+      "startLine": 84,
+      "endLine": 94,
+      "source": "memory",
+      "snippet": "- Calendário operacional F2 atualizado em `[F2] memory/outputs/sms-sao-sebastiao-calendario-editorial-julho-2026-completo-f1-ancorado.md`, seção `21/07 — Terça — Serviços Especializados`. - Ajuste aplicado: serviços agora incluem `Laboratório, Espaço Cuidar, Oftalmologia, CEO/Saúde Bucal e Recepção/Regulação da Secretaria`; Story 5 virou `Recepção/Regulação da Secretaria — Marcação de Exames`. - Nota de ajuste salva em `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-20-ajuste-calendario-servicos-especializados-recepcao-regulacao.md`. ## SAÚDE — auditoria da Estrutura da Secretaria - Jadielson pediu auditoria aprofundada da pasta `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estru",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T09:31:01.962Z",
+      "lastRecalledAt": "2026-07-21T09:31:01.962Z",
+      "queryHashes": [
+        "a5af59f5b980"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "21/07",
+        "ceo/saúde",
+        "recepção/regulação",
+        "5-frentes/saude-sao-sebastiao/01",
+        "calendário",
+        "operacional",
+        "atualizado",
+        "outputs"
+      ]
+    },
+    "memory:memory/2026-07-20.md:291:302": {
+      "key": "memory:memory/2026-07-20.md:291:302",
+      "path": "memory/2026-07-20.md",
+      "startLine": 291,
+      "endLine": 302,
+      "source": "memory",
+      "snippet": "- Auditoria ampla primeira versão concluída e salva em `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-07-20-auditoria-ampla-frente-saude-divergencias-duplicatas.md`. - Inventário: 87 pastas internas, 269 arquivos `.md`, 8 arquivos não-md. Achados: 4 grupos de duplicata exata; 12 duplicatas por nome/título provável; 2 duplicatas próximas fortes; divergências PSF/UBS; setores canônicos faltantes; várias pastas operacionais paralelas à estrutura canônica. - Próximo passo recomendado: criar matriz de unificação `pasta/arquivo atual → setor canônico → ação sugerida`, sem mover/excluir nada sem autorização. ## SAÚDE — criação da base F2 otimizada - Jadielson autorizou criar uma estrutur",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T09:31:01.962Z",
+      "lastRecalledAt": "2026-07-21T09:31:01.962Z",
+      "queryHashes": [
+        "a5af59f5b980"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "não-md",
+        "nome/título",
+        "psf/ubs",
+        "pasta/arquivo",
+        "mover/excluir",
+        "auditoria",
+        "ampla",
+        "primeira"
+      ]
+    },
+    "memory:memory/2026-07-20.md:97:106": {
+      "key": "memory:memory/2026-07-20.md:97:106",
+      "path": "memory/2026-07-20.md",
+      "startLine": 97,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "- Próximo passo recomendado: criar matriz de unificação `pasta/arquivo atual → setor canônico → ação sugerida`, sem mover/excluir nada sem autorização. ## SAÚDE — criação da base F2 otimizada - Jadielson autorizou criar uma estrutura otimizada em `[F2] memory/saude-sao-sebastiao/` para reduzir confusão dos agentes e facilitar consulta. - Decisões fixadas: `UBS/postinhos = 28`; `PSF/equipes = 17`; linguagem pública deve preferir `UBS`, `postinho` e `unidade de saúde`, explicando PSF apenas quando necessário; setores complementares devem ser completos, incluindo gestão/bastidores, salvo duplicata/redundância. - Estrutura criada com README, mapa operacional, matriz de setores/pilares/fontes, m",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T09:31:01.962Z",
+      "lastRecalledAt": "2026-07-21T09:31:01.962Z",
+      "queryHashes": [
+        "a5af59f5b980"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "pasta/arquivo",
+        "mover/excluir",
+        "memory/saude-sao-sebastiao",
+        "ubs/postinhos",
+        "psf/equipes",
+        "gestão/bastidores",
+        "duplicata/redundância",
+        "setores/pilares/fontes"
       ]
     }
   }
