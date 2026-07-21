@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T07:18:57.925Z",
+  "updatedAt": "2026-07-21T08:16:42.301Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -1002,18 +1002,19 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "- [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (IDs antigos de conta anterior) **Resultado:** S",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-21T06:58:11.758Z",
+      "lastRecalledAt": "2026-07-21T07:58:13.158Z",
       "queryHashes": [
         "956602bdb011",
         "92e8c5e6f882",
         "07031c96ba69",
-        "410c3b1fe569"
+        "410c3b1fe569",
+        "fe5b80892e59"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1203,13 +1204,13 @@
       "endLine": 59,
       "source": "memory",
       "snippet": "- 2026-07-08 — SMS São Sebastião — 08/07/2026 — Quarta [Publicado] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [Publicado] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 28 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 10,
+      "recallCount": 11,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.900780096650123,
+      "totalScore": 4.265292528271675,
       "maxScore": 0.41859045922756194,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-21T06:10:11.469Z",
+      "lastRecalledAt": "2026-07-21T08:16:42.301Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
@@ -1220,7 +1221,8 @@
         "a48157dd8181",
         "9f407761bfdf",
         "bf953ca7c550",
-        "a9a838183beb"
+        "a9a838183beb",
+        "29abf40cab5e"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1391,13 +1393,13 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.7877399563789362,
-      "maxScore": 0.4319266498088836,
+      "totalScore": 3.7877399563789362,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-21T03:30:32.990Z",
+      "lastRecalledAt": "2026-07-21T07:58:30.197Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1405,7 +1407,8 @@
         "977444e0e34f",
         "d094bc004364",
         "19add55e8324",
-        "14fa7a3590ab"
+        "14fa7a3590ab",
+        "2de034ee0349"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1430,13 +1433,13 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 8,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.382150691747666,
+      "totalScore": 5.382150691747666,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-21T06:58:11.758Z",
+      "lastRecalledAt": "2026-07-21T07:58:13.158Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1445,7 +1448,8 @@
         "14fa7a3590ab",
         "07031c96ba69",
         "a9a838183beb",
-        "410c3b1fe569"
+        "410c3b1fe569",
+        "fe5b80892e59"
       ],
       "recallDays": [
         "2026-07-13",
@@ -2054,16 +2058,17 @@
       "endLine": 106,
       "source": "memory",
       "snippet": "### 🔴 1. O Fio da Memória — Risco de Prestação de Contas - **Projeto aprovado no PNAB** (Chamamento 01/2024 — São Sebastião/AL) - **Recurso:** R$ 20.000 — recebido ~05/04/2025 (a confirmar) - **Já realizado:** pesquisa, matriz narrativa, argumento V3 aprovado - **Ainda não feito:** gravação, edição, publicação, relatório - **Risco:** edital indica execução até 31/08/2025 (possível atraso de 321 dias) - **Ação urgente:** solicitar à Secretaria de Cultura cópia do Termo de Execução Cultural; confirmar prazo vigente; entrar em modo emergencial de produção - **Status:** Jadielson informou não ter o termo em mãos ### 🟡 2. Disco do servidor em 90% - Uso: 9.0G de 10G (1.1G livres) - Limpeza de 1",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:08:24.346Z",
-      "lastRecalledAt": "2026-07-21T07:18:57.925Z",
+      "lastRecalledAt": "2026-07-21T07:58:30.197Z",
       "queryHashes": [
         "dffa53a3ce91",
-        "89f6c8128a23"
+        "89f6c8128a23",
+        "2de034ee0349"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2181,16 +2186,17 @@
       "endLine": 141,
       "source": "memory",
       "snippet": "## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadielson! 🌞*",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T06:58:11.758Z",
+      "lastRecalledAt": "2026-07-21T07:58:13.158Z",
       "queryHashes": [
         "07031c96ba69",
-        "410c3b1fe569"
+        "410c3b1fe569",
+        "fe5b80892e59"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2213,16 +2219,17 @@
       "endLine": 76,
       "source": "memory",
       "snippet": "### 🟡 Calendário Saúde — Semana 4 | Dia | Pilar | Tema | |---|---|---| | **20/07 (seg)** | Atenção Básica | \"Hepatite B tem prevenção: vacina é cuidado\" | | **21/07 (ter)** | Serviços Especializados | \"Sinais que merecem atenção\" | | **22/07 (qua)** | Vigilância/Prevenção | \"Prevenir hepatites também é cuidado diário\" | | **23/07 (qui)** | Rede de Apoio | \"Cuidado sem preconceito\" | | **24/07 (sex)** | Bastidores/Prestação | \"Julho Amarelo em ação\" | > **Status dos drafts:** Semana 4 está marcada como \"Aguardando aprovação\" no Calendar. Pendência: confirmar/liberar pautas com a Secretaria. ### 📸 Entre Tempos — Pré-lançamento | Data | Peça | |---|---| | **21/07 (seg)** | Teaser/post 1:",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T06:58:11.758Z",
+      "lastRecalledAt": "2026-07-21T07:58:13.158Z",
       "queryHashes": [
         "07031c96ba69",
-        "410c3b1fe569"
+        "410c3b1fe569",
+        "fe5b80892e59"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2245,17 +2252,19 @@
       "endLine": 133,
       "source": "memory",
       "snippet": "- ⏳ Observação de Jadielson: não viu os cards — foram reposicionados para área visível --- ## 🚀 PROJETOS EM ANDAMENTO ### ✅ Entre Tempos — Videoclipe - **Lançamento:** 30/07/2026, 20h - **Pré-lançamento começa:** 21/07 (segunda) - **Status:** plano de lançamento aprovado; peças a produzir - **Pendente:** confirmar canal, texto final, autorizações de uso ### ✅ Jogos Indígenas Karapotó — MiniDoc - **Status:** aguardando Jadielson — já tem proposta aprovada, narrativa em andamento - **Pendente:** cronograma de finalização e entrega ### ✅ Minidocs Assembleia de Deus - **Status:** material captado, precisa organizar por inauguração e criar timeline --- ## 📊 RESUMO DA SEMANA (12-17/07) |",
-      "recallCount": 3,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T07:18:57.925Z",
+      "lastRecalledAt": "2026-07-21T07:58:30.197Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
-        "89f6c8128a23"
+        "89f6c8128a23",
+        "fe5b80892e59",
+        "2de034ee0349"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2464,16 +2473,18 @@
       "endLine": 171,
       "source": "memory",
       "snippet": "- CMO e CCO falharam ao serem acionados com erro \"API rate limit reached\" — OpenAI Codex esgotou cota após curadoria 360 (horas de operação contínua, 33 setores, centenas de arquivos). - Diagnóstico completo salvo em `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`. ### Configuração de fallbacks - `agents.defaults.subagents.model` foi configurado com cadeia de 3 níveis: - Plano A: `openai-codex/gpt-5.5` (primário, mais barato) - Plano B: `openrouter/deepseek/deepseek-v4-flash` (fallback se Codex cair) - Plano C: `openrouter/google/gemini-2.5-flash-lite` (último recurso) - Timeout de subagentes aumentado de 180s para 300s para garantir tempo de fallback.",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T06:28:14.147Z",
+      "lastRecalledAt": "2026-07-21T08:00:03.348Z",
       "queryHashes": [
         "071607745207",
-        "f76851bdefbc"
+        "f76851bdefbc",
+        "d6137a2df26d",
+        "ab864c3a6607"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2496,16 +2507,18 @@
       "endLine": 367,
       "source": "memory",
       "snippet": "- CMO e CCO falharam ao serem acionados com erro \"API rate limit reached\" — OpenAI Codex esgotou cota após curadoria 360 (horas de operação contínua, 33 setores, centenas de arquivos). - Diagnóstico completo salvo em `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`. ### Configuração de fallbacks - `agents.defaults.subagents.model` foi configurado com cadeia de 3 níveis: - Plano A: `openai-codex/gpt-5.5` (primário, mais barato) - Plano B: `openrouter/deepseek/deepseek-v4-flash` (fallback se Codex cair) - Plano C: `openrouter/google/gemini-2.5-flash-lite` (último recurso) - Timeout de subagentes aumentado de 180s para 300s para garantir tempo de fallback.",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T06:28:14.147Z",
+      "lastRecalledAt": "2026-07-21T08:00:03.348Z",
       "queryHashes": [
         "071607745207",
-        "f76851bdefbc"
+        "f76851bdefbc",
+        "d6137a2df26d",
+        "ab864c3a6607"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2528,16 +2541,17 @@
       "endLine": 396,
       "source": "memory",
       "snippet": "- Jadielson reportou que o rate limit do Codex continuava bloqueando subagentes consecutivos: CMO passou (2min29s) mas consumiu a cota, CCO depois caiu. - **Causa:** a config de `agents.defaults.subagents.model` estava sumindo após restart do Gateway — não persistia. - **Solução:** config reaplicada e verificada pós-restart: `model` + `runTimeoutSeconds=300` persistiram. - **CCO rodou com sucesso** via OpenRouter DeepSeek: 3min45s, 97.348 tokens, curadoria editorial da Saúde concluída. - **Comprovação:** o fallback funciona. Quando Codex limita, o subagente cai no OpenRouter e executa sem barreira. ## SAÚDE — Grade editorial 6 semanas concluída - Estratégia de produção de conteúdo baseada e",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T06:28:14.147Z",
+      "lastRecalledAt": "2026-07-21T07:59:55.310Z",
       "queryHashes": [
         "071607745207",
-        "f76851bdefbc"
+        "f76851bdefbc",
+        "d6137a2df26d"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2560,16 +2574,17 @@
       "endLine": 200,
       "source": "memory",
       "snippet": "- Jadielson reportou que o rate limit do Codex continuava bloqueando subagentes consecutivos: CMO passou (2min29s) mas consumiu a cota, CCO depois caiu. - **Causa:** a config de `agents.defaults.subagents.model` estava sumindo após restart do Gateway — não persistia. - **Solução:** config reaplicada e verificada pós-restart: `model` + `runTimeoutSeconds=300` persistiram. - **CCO rodou com sucesso** via OpenRouter DeepSeek: 3min45s, 97.348 tokens, curadoria editorial da Saúde concluída. - **Comprovação:** o fallback funciona. Quando Codex limita, o subagente cai no OpenRouter e executa sem barreira. ## SAÚDE — Grade editorial 6 semanas concluída - Estratégia de produção de conteúdo baseada e",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T06:28:14.147Z",
+      "lastRecalledAt": "2026-07-21T07:59:55.310Z",
       "queryHashes": [
         "071607745207",
-        "f76851bdefbc"
+        "f76851bdefbc",
+        "d6137a2df26d"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2707,6 +2722,99 @@
         "21/21",
         "9.1g",
         "mapa.md"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-20.md:34:52": {
+      "key": "memory:memory/sessions/sync/2026-07-20.md:34:52",
+      "path": "memory/sessions/sync/2026-07-20.md",
+      "startLine": 34,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Publicado] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Publicado] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Publicado] - 2026-07-13 — SMS São Sebastião —",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3616872876882553,
+      "maxScore": 0.3616872876882553,
+      "firstRecalledAt": "2026-07-21T08:16:42.301Z",
+      "lastRecalledAt": "2026-07-21T08:16:42.301Z",
+      "queryHashes": [
+        "29abf40cab5e"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-19.md:34:52": {
+      "key": "memory:memory/sessions/sync/2026-07-19.md:34:52",
+      "path": "memory/sessions/sync/2026-07-19.md",
+      "startLine": 34,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Publicado] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Publicado] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Publicado] - 2026-07-13 — SMS São Sebastião —",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3616872876882553,
+      "maxScore": 0.3616872876882553,
+      "firstRecalledAt": "2026-07-21T08:16:42.301Z",
+      "lastRecalledAt": "2026-07-21T08:16:42.301Z",
+      "queryHashes": [
+        "29abf40cab5e"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-18.md:34:52": {
+      "key": "memory:memory/sessions/sync/2026-07-18.md:34:52",
+      "path": "memory/sessions/sync/2026-07-18.md",
+      "startLine": 34,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Publicado] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Publicado] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Publicado] - 2026-07-13 — SMS São Sebastião —",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36168244779109954,
+      "maxScore": 0.36168244779109954,
+      "firstRecalledAt": "2026-07-21T08:16:42.301Z",
+      "lastRecalledAt": "2026-07-21T08:16:42.301Z",
+      "queryHashes": [
+        "29abf40cab5e"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
       ]
     }
   }
