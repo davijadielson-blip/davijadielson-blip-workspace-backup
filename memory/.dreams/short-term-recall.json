@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T06:28:14.147Z",
+  "updatedAt": "2026-07-21T07:18:57.925Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -968,18 +968,21 @@
       "endLine": 49,
       "source": "memory",
       "snippet": "- Revisamos a árvore completa e a hierarquia de comando dos agentes, confirmando a Lôh como orquestradora principal e os C-Levels como seus braços estratégicos. --- **Próximos Passos Sugeridos:** - Revisitar a auditoria de ativos de marca no Drive em um momento oportuno. - Continuar as tarefas delegadas aos agentes recém-ativados (CCO, CMO, etc.). ## 21:30 — Cron: ensure-critical-integrations - Script executado: `ensure-integrations.sh` - Tavily: ✅ restaurado - Notion: ✅ OK - Whisper: ✅ OK - Config: ✅ válida - Resultado: \"integrações reaplicadas\" ## 23:27 UTC — Estado de repouso dos agentes Jadielson solicitou: deixar todos os agentes dormindo, mas de prontidão quando forem requisitado",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T22:38:02.422Z",
-      "lastRecalledAt": "2026-07-10T22:38:02.422Z",
+      "lastRecalledAt": "2026-07-21T07:09:56.428Z",
       "queryHashes": [
-        "e78bcf2f9e66"
+        "e78bcf2f9e66",
+        "1bd53ec1bf9a",
+        "72073eafbeea"
       ],
       "recallDays": [
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-21"
       ],
       "conceptTags": [
         "c-levels",
@@ -999,17 +1002,18 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "- [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (IDs antigos de conta anterior) **Resultado:** S",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
+      "lastRecalledAt": "2026-07-21T06:58:11.758Z",
       "queryHashes": [
         "956602bdb011",
         "92e8c5e6f882",
-        "07031c96ba69"
+        "07031c96ba69",
+        "410c3b1fe569"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1426,13 +1430,13 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.3821506917476656,
+      "totalScore": 4.382150691747666,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-21T06:10:11.469Z",
+      "lastRecalledAt": "2026-07-21T06:58:11.758Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1440,7 +1444,8 @@
         "19add55e8324",
         "14fa7a3590ab",
         "07031c96ba69",
-        "a9a838183beb"
+        "a9a838183beb",
+        "410c3b1fe569"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1858,15 +1863,16 @@
       "endLine": 47,
       "source": "memory",
       "snippet": "# ☀️ Daily Briefing — 18/07/2026 (Sábado) > Gerado por Lôh (Tier 0) | 10:00 UTC / 07:00 BRT > Fonte: Cofre (calendários, memórias diárias, decisões), Tavily (datas sazonais) --- ## 📅 HOJE É SÁBADO — DIA DE DESCANSO E PLANEJAMENTO | Info | Detalhe | |---|---| | **Data** | Sábado, 18 de julho de 2026 | | **Clima operacional** | 🟢 Dia sem pautas fixas de conteúdo — ideal para planejamento | | **Semana corrente** | Semana 3 de julho (encerrada ontem) | | **Fase da lua** | 🌒 Lua Crescente (próximo quarto: 24/07) | --- ## 🗓️ DATAS SAZONAIS DE JULHO ### Em andamento este mês | Data | Evento | Frente | |---|---|---| | Mês todo | 🟡 **Julho Amarelo** — hepatites virais | Saúde/SMS | | Mês",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:44.962Z",
-      "lastRecalledAt": "2026-07-21T04:05:44.962Z",
+      "lastRecalledAt": "2026-07-21T07:09:56.422Z",
       "queryHashes": [
-        "e854a62afc75"
+        "e854a62afc75",
+        "6821ee9442b9"
       ],
       "recallDays": [
         "2026-07-21"
@@ -1889,15 +1895,16 @@
       "endLine": 38,
       "source": "memory",
       "snippet": "- Embeddings (text-embedding-3-small) custariam centavos/mês se funcionassem - Lôh sugeriu 3 opções: ignorar, gerar nova key, ou trocar provider (OpenRouter) - Jadielson não respondeu qual caminho seguir — pendente de decisão ## Próximos passos pendentes 1. Decidir o que fazer com a chave OpenAI (embeddings) — usar OpenRouter? Ignorar? 2. Autenticar conta Lôh (loh.open.logika@gmail.com) no gog 3. Configurar GOG_KEYRING_PASSWORD como env var global 4. Remover/desabilitar MCPs Zapier residuais 5. Sincronizar segundo-cérebro com workspace 6. Preencher arquivo de decisão vazio do Zapier",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:51.437Z",
-      "lastRecalledAt": "2026-07-21T04:05:51.437Z",
+      "lastRecalledAt": "2026-07-21T06:59:39.928Z",
       "queryHashes": [
-        "252783da7f2e"
+        "252783da7f2e",
+        "5e659b5a6a83"
       ],
       "recallDays": [
         "2026-07-21"
@@ -1920,15 +1927,16 @@
       "endLine": 33,
       "source": "memory",
       "snippet": "- Possíveis caminhos de integração registrados: Google Calendar como ponte via gog, export/import Markdown/CSV, API/MCP oficial do xTiles se disponível, ou automação por navegador como última opção. Integração profunda deve passar por Lôh por envolver arquitetura, segurança e autenticação. ## Mission Control / aplicativo - Jadielson enviou prints de referência de dashboard/app e perguntou se seria possível criar um **Mission Control** ou aplicativo nesse estilo. - Parecer: sim, é possível, mas não iniciar app pesado antes de validar. Caminho recomendado: MVP no xTiles → dados estruturados no Cofre → Google Calendar via gog → avaliação técnica por Lôh → possível app próprio. - Blueprint ini",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:51.437Z",
-      "lastRecalledAt": "2026-07-21T04:05:51.437Z",
+      "lastRecalledAt": "2026-07-21T06:59:39.928Z",
       "queryHashes": [
-        "252783da7f2e"
+        "252783da7f2e",
+        "5e659b5a6a83"
       ],
       "recallDays": [
         "2026-07-21"
@@ -1951,15 +1959,16 @@
       "endLine": 33,
       "source": "memory",
       "snippet": "# 2026-07-21 — Memória Durable ## Auditoria de Integrações **Contexto:** Jadielson pediu auditoria completa do que está integrado ao sistema. Lôh realizou varredura completa do Cofre, ferramentas, scripts, .env, crons e APIs. **Resultados principais salvos em:** `[F2] memory/outputs/auditoria-integracoes-2026-07-21.md` **Status das integrações:** - ✅ Telegram (onipresente, 39 crons ativos) - ✅ Miro (3 boards, token funcional) - ✅ Notion (Loh-bot autenticado, sync diário) - ✅ GitHub workspace (backup 30/30min) - ✅ GitHub segundo-cérebro (clonado, mas desatualizado) - ✅ Mission Control (CRM Lógika, snapshot diário) - ✅ Cron jobs Gateway (39 ativos, todos OK) - ⚠️ gog (Google) — Conta Lôh n",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:51.437Z",
-      "lastRecalledAt": "2026-07-21T04:05:51.437Z",
+      "lastRecalledAt": "2026-07-21T06:59:39.928Z",
       "queryHashes": [
-        "252783da7f2e"
+        "252783da7f2e",
+        "5e659b5a6a83"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2013,15 +2022,16 @@
       "endLine": 58,
       "source": "memory",
       "snippet": "- Template salvo em `[F2] memory/context/estudos/backlog-inteligente-template-fatiamento-executivo-v2-2026-07-19.md`. - Essência do comando: assumir o contexto do tópico, desmembrar o todo em partes menores, listar microtarefas executáveis, indicar sequência, próximas ações e checklist final; se faltar informação, assumir hipótese razoável e marcar como “a confirmar”. ## Prioridades iniciais citadas para próximos dias - Jadielson citou gargalos/prioridades para fatiamento e trabalho gradual: 1. **O Fio da Memória** — urgente/atrasado, projeto cultural/documentário; execução detalhada deve ficar no grupo/tópico PROJETOS. 2. **Comunidade 1P** — estudo de IA/automação, dentro de `Profissio",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:08:24.346Z",
-      "lastRecalledAt": "2026-07-21T04:08:24.346Z",
+      "lastRecalledAt": "2026-07-21T07:18:57.925Z",
       "queryHashes": [
-        "dffa53a3ce91"
+        "dffa53a3ce91",
+        "89f6c8128a23"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2044,15 +2054,16 @@
       "endLine": 106,
       "source": "memory",
       "snippet": "### 🔴 1. O Fio da Memória — Risco de Prestação de Contas - **Projeto aprovado no PNAB** (Chamamento 01/2024 — São Sebastião/AL) - **Recurso:** R$ 20.000 — recebido ~05/04/2025 (a confirmar) - **Já realizado:** pesquisa, matriz narrativa, argumento V3 aprovado - **Ainda não feito:** gravação, edição, publicação, relatório - **Risco:** edital indica execução até 31/08/2025 (possível atraso de 321 dias) - **Ação urgente:** solicitar à Secretaria de Cultura cópia do Termo de Execução Cultural; confirmar prazo vigente; entrar em modo emergencial de produção - **Status:** Jadielson informou não ter o termo em mãos ### 🟡 2. Disco do servidor em 90% - Uso: 9.0G de 10G (1.1G livres) - Limpeza de 1",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:08:24.346Z",
-      "lastRecalledAt": "2026-07-21T04:08:24.346Z",
+      "lastRecalledAt": "2026-07-21T07:18:57.925Z",
       "queryHashes": [
-        "dffa53a3ce91"
+        "dffa53a3ce91",
+        "89f6c8128a23"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2075,15 +2086,17 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "## 2026-06-26 - **01:12 UTC** — Cron : OK. Tavily ✅ | Notion ✅ | Whisper ✅ | Config ✅ - **01:12 UTC** — Cron ensure-critical-integrations: OK. Tavily ✅ | Notion ✅ | Whisper ✅ | Config ✅ ## 2026-06-26 ### 07:12 UTC — Cron: ensure-integrations ✅ Executado `ensure-integrations.sh`. Resultado: integrações OK — Tavily, Notion, Whisper. Config válida. ## Configuração de C-Levels LÓGIKA — 2026-06-26 - Lôh configurou os agentes C-Level pendentes na lista principal do OpenClaw: `cco`, `cmo`, `coo`, `cto`, `cfo`, `cio`. - Fonte dos prompts: `memory/agents/prompts/{cco,cmo,coo,cto,cfo,cio}-prompt.md`. - Todos receberam regra explícita de consulta obrigatória ao Cofre com fallback por leitura diret",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:51:13.368Z",
-      "lastRecalledAt": "2026-07-21T04:51:13.368Z",
+      "lastRecalledAt": "2026-07-21T06:56:18.550Z",
       "queryHashes": [
-        "ad80abcdedc8"
+        "ad80abcdedc8",
+        "921e06cc2f9b",
+        "6868bcc09d62"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2168,15 +2181,16 @@
       "endLine": 141,
       "source": "memory",
       "snippet": "## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadielson! 🌞*",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
+      "lastRecalledAt": "2026-07-21T06:58:11.758Z",
       "queryHashes": [
-        "07031c96ba69"
+        "07031c96ba69",
+        "410c3b1fe569"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2199,15 +2213,16 @@
       "endLine": 76,
       "source": "memory",
       "snippet": "### 🟡 Calendário Saúde — Semana 4 | Dia | Pilar | Tema | |---|---|---| | **20/07 (seg)** | Atenção Básica | \"Hepatite B tem prevenção: vacina é cuidado\" | | **21/07 (ter)** | Serviços Especializados | \"Sinais que merecem atenção\" | | **22/07 (qua)** | Vigilância/Prevenção | \"Prevenir hepatites também é cuidado diário\" | | **23/07 (qui)** | Rede de Apoio | \"Cuidado sem preconceito\" | | **24/07 (sex)** | Bastidores/Prestação | \"Julho Amarelo em ação\" | > **Status dos drafts:** Semana 4 está marcada como \"Aguardando aprovação\" no Calendar. Pendência: confirmar/liberar pautas com a Secretaria. ### 📸 Entre Tempos — Pré-lançamento | Data | Peça | |---|---| | **21/07 (seg)** | Teaser/post 1:",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
+      "lastRecalledAt": "2026-07-21T06:58:11.758Z",
       "queryHashes": [
-        "07031c96ba69"
+        "07031c96ba69",
+        "410c3b1fe569"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2230,15 +2245,17 @@
       "endLine": 133,
       "source": "memory",
       "snippet": "- ⏳ Observação de Jadielson: não viu os cards — foram reposicionados para área visível --- ## 🚀 PROJETOS EM ANDAMENTO ### ✅ Entre Tempos — Videoclipe - **Lançamento:** 30/07/2026, 20h - **Pré-lançamento começa:** 21/07 (segunda) - **Status:** plano de lançamento aprovado; peças a produzir - **Pendente:** confirmar canal, texto final, autorizações de uso ### ✅ Jogos Indígenas Karapotó — MiniDoc - **Status:** aguardando Jadielson — já tem proposta aprovada, narrativa em andamento - **Pendente:** cronograma de finalização e entrega ### ✅ Minidocs Assembleia de Deus - **Status:** material captado, precisa organizar por inauguração e criar timeline --- ## 📊 RESUMO DA SEMANA (12-17/07) |",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
+      "lastRecalledAt": "2026-07-21T07:18:57.925Z",
       "queryHashes": [
-        "07031c96ba69"
+        "07031c96ba69",
+        "410c3b1fe569",
+        "89f6c8128a23"
       ],
       "recallDays": [
         "2026-07-21"
@@ -2566,6 +2583,130 @@
         "jadielson",
         "reportou",
         "rate"
+      ]
+    },
+    "memory:memory/2026-06-26.md:49:72": {
+      "key": "memory:memory/2026-06-26.md:49:72",
+      "path": "memory/2026-06-26.md",
+      "startLine": 49,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "- Todos os 20 agentes têm a política no `systemPromptOverride`. - `agents_list` validou todos como `configured: true` e modelo principal `openai-codex/gpt-5.5`. Status: política salva e aplicada; comunicado aos agentes será reenviado em formato curto para ciência operacional. ## Fechamento definitivo — prioridade de modelos e ciência operacional dos agentes — 2026-06-26 Problema encontrado: alguns agentes, especialmente da Central Pessoal, respondiam aos comunicados com a persona dominante em vez de confirmar instruções técnicas. Também houve oscilação na configuração ativa, retornando temporariamente para 14 agentes e C-Levels não configurados. Correção aplicada: - `/data/.openclaw/open",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T06:56:18.549Z",
+      "lastRecalledAt": "2026-07-21T06:56:18.549Z",
+      "queryHashes": [
+        "c6c30b529498"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "agents-list",
+        "openai-codex/gpt-5.5",
+        "c-levels",
+        "openclaw/open",
+        "todos",
+        "agentes"
+      ]
+    },
+    "memory:memory/2026-07-20.md:194:203": {
+      "key": "memory:memory/2026-07-20.md:194:203",
+      "path": "memory/2026-07-20.md",
+      "startLine": 194,
+      "endLine": 203,
+      "source": "memory",
+      "snippet": "- CMO contribuiu com estratégia LÓGIKA (`[F2] memory/outputs/logika/2026-07-20-cmo-estrategia-completa.md`) - CCO contribuiu com 11 documentos criativos (`[F2] memory/outputs/cco-logika/`) incluindo roteiros e painel semanal - Lôh ajustou rate limit dos subagentes (resolvido) # Memória — 2026-07-20 ## ESTUDOS / Backlog Inteligente — consolidação e próximos passos - Jadielson confirmou que o método **Backlog Inteligente** está sendo desenvolvido no tópico Telegram `ESTUDOS > Backlog Inteligente` e perguntou onde estava salvo. Arquivo principal identificado: `[F2] memory/context/estudos/backlog-inteligente-resumo-conceitual-completo-v3-2026-07-19.md`; versão operacional criada depois em `[F2",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T06:56:18.549Z",
+      "lastRecalledAt": "2026-07-21T06:56:18.549Z",
+      "queryHashes": [
+        "c6c30b529498"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "memory/outputs/cco-logika",
+        "cmo",
+        "contribuiu",
+        "com",
+        "estratégia",
+        "lógika",
+        "outputs",
+        "logika"
+      ]
+    },
+    "memory:memory/2026-07-16.md:59:83": {
+      "key": "memory:memory/2026-07-16.md:59:83",
+      "path": "memory/2026-07-16.md",
+      "startLine": 59,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "- **Resultado**: 272 MB → **166 MB** (**106 MB liberados**, ~11% do disco) ### O que foi feito: - **📤 9 PDFs enviados ao Google Drive** via Zapier 3 (pasta \"workspace archive\" → subpasta \"PDFs\"): receitas/dietas (Plano alimentar, OMEGA 3, PRÉ-TREINO, FRAPPUCINO, SHAKE, SMOOTHIE), Planejamento Alimentar Semanal, Dados Lab SS, SINDSS - **🗑️ Duplicatas removidas**: [F2] vaults/segundo-cerebro-jadielson teve todos os binários removidos (manteve só .md) — ~55 MB liberados - **🗑️ Pasta duplicada removida**: F2-memory/ (antiga, ~21 MB) - **🗑️ 30+ JSONs do Notion** removidos (logs de processo) - **🗑️ JSONs de auditoria do Drive** removidos (~5 MB, já no Drive de origem) - **🗑️ Comprovantes fi",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T06:58:04.936Z",
+      "lastRecalledAt": "2026-07-21T06:58:04.936Z",
+      "queryHashes": [
+        "1bd53ec1bf9a"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "receitas/dietas",
+        "pré-treino",
+        "vaults/segundo-cerebro-jadielson",
+        "f2-memory",
+        "resultado",
+        "liberados",
+        "disco",
+        "foi"
+      ]
+    },
+    "memory:memory/2026-07-16.md:1:26": {
+      "key": "memory:memory/2026-07-16.md:1:26",
+      "path": "memory/2026-07-16.md",
+      "startLine": 1,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "# Memory — 2026-07-16 ## 🩺 Ecossistema Health Check (01:53 UTC) - **Gateway**: 🟢 Up 2d 19h, sistema há 113 dias - **Modelo atual Lôh**: openai-codex/gpt-5.6-sol (GPT-5.6 Sol Codex) — migrado em 02:07 UTC - **Agentes**: 🟢 21/21 online (Lôh, Alfred, Arca, CAIO, CCO, CFO, CIO, CMO, COO, CRO, CTO, Jarvis, Warren + agentes temáticos) - **Cofre**: ✅ Todos os arquivos críticos presentes (SOUL, IDENTITY, USER, AGENTS, MAPA, MEMORY, PIN) - **Zapier Skills**: 15 skills disponíveis - **Cache**: 48% hit rate, saudável ### 🟡 Atenção - **Disco**: 91% ocupado (9.1G de 10G, 985M livres). Ideal manter >2G livres. - **Estrutura do Cofre**: MAPA.md descreve ~4410 arquivos em vaults e 155 em agentes, mas",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T06:59:39.928Z",
+      "lastRecalledAt": "2026-07-21T06:59:39.928Z",
+      "queryHashes": [
+        "5e659b5a6a83"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "openai",
+        "openai-codex/gpt-5.6-sol",
+        "gpt-5.6",
+        "21/21",
+        "9.1g",
+        "mapa.md"
       ]
     }
   }
