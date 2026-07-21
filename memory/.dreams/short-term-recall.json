@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T05:19:07.781Z",
+  "updatedAt": "2026-07-21T05:46:56.061Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -995,16 +995,17 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "- [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (IDs antigos de conta anterior) **Resultado:** S",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-21T04:51:22.145Z",
+      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
       "queryHashes": [
         "956602bdb011",
-        "92e8c5e6f882"
+        "92e8c5e6f882",
+        "07031c96ba69"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1418,19 +1419,20 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.9969089388847352,
-      "maxScore": 0.44164407849311826,
+      "totalScore": 2.996908938884735,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-21T03:30:32.990Z",
+      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
         "977444e0e34f",
         "19add55e8324",
-        "14fa7a3590ab"
+        "14fa7a3590ab",
+        "07031c96ba69"
       ],
       "recallDays": [
         "2026-07-13",
@@ -2146,6 +2148,192 @@
         "existiam/estavam",
         "agents.list",
         "jadielson"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-18.md:128:141": {
+      "key": "memory:memory/daily-briefs/2026-07-18.md:128:141",
+      "path": "memory/daily-briefs/2026-07-18.md",
+      "startLine": 128,
+      "endLine": 141,
+      "source": "memory",
+      "snippet": "## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadielson! 🌞*",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T05:41:38.530Z",
+      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
+      "queryHashes": [
+        "07031c96ba69"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "1.1g",
+        "lembretes",
+        "rápidos",
+        "calendar",
+        "sync",
+        "eventos",
+        "google",
+        "saúde"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-18.md:41:76": {
+      "key": "memory:memory/daily-briefs/2026-07-18.md:41:76",
+      "path": "memory/daily-briefs/2026-07-18.md",
+      "startLine": 41,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "### 🟡 Calendário Saúde — Semana 4 | Dia | Pilar | Tema | |---|---|---| | **20/07 (seg)** | Atenção Básica | \"Hepatite B tem prevenção: vacina é cuidado\" | | **21/07 (ter)** | Serviços Especializados | \"Sinais que merecem atenção\" | | **22/07 (qua)** | Vigilância/Prevenção | \"Prevenir hepatites também é cuidado diário\" | | **23/07 (qui)** | Rede de Apoio | \"Cuidado sem preconceito\" | | **24/07 (sex)** | Bastidores/Prestação | \"Julho Amarelo em ação\" | > **Status dos drafts:** Semana 4 está marcada como \"Aguardando aprovação\" no Calendar. Pendência: confirmar/liberar pautas com a Secretaria. ### 📸 Entre Tempos — Pré-lançamento | Data | Peça | |---|---| | **21/07 (seg)** | Teaser/post 1:",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T05:41:38.530Z",
+      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
+      "queryHashes": [
+        "07031c96ba69"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "20/07",
+        "21/07",
+        "22/07",
+        "vigilância/prevenção",
+        "23/07",
+        "24/07",
+        "bastidores/prestação",
+        "confirmar/liberar"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-18.md:94:133": {
+      "key": "memory:memory/daily-briefs/2026-07-18.md:94:133",
+      "path": "memory/daily-briefs/2026-07-18.md",
+      "startLine": 94,
+      "endLine": 133,
+      "source": "memory",
+      "snippet": "- ⏳ Observação de Jadielson: não viu os cards — foram reposicionados para área visível --- ## 🚀 PROJETOS EM ANDAMENTO ### ✅ Entre Tempos — Videoclipe - **Lançamento:** 30/07/2026, 20h - **Pré-lançamento começa:** 21/07 (segunda) - **Status:** plano de lançamento aprovado; peças a produzir - **Pendente:** confirmar canal, texto final, autorizações de uso ### ✅ Jogos Indígenas Karapotó — MiniDoc - **Status:** aguardando Jadielson — já tem proposta aprovada, narrativa em andamento - **Pendente:** cronograma de finalização e entrega ### ✅ Minidocs Assembleia de Deus - **Status:** material captado, precisa organizar por inauguração e criar timeline --- ## 📊 RESUMO DA SEMANA (12-17/07) |",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-21T05:41:38.530Z",
+      "lastRecalledAt": "2026-07-21T05:41:38.530Z",
+      "queryHashes": [
+        "07031c96ba69"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "30/07/2026",
+        "pré-lançamento",
+        "21/07",
+        "12-17/07",
+        "observação",
+        "jadielson",
+        "não",
+        "viu"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-17.md:34:52": {
+      "key": "memory:memory/sessions/sync/2026-07-17.md:34:52",
+      "path": "memory/sessions/sync/2026-07-17.md",
+      "startLine": 34,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36387118697166443,
+      "maxScore": 0.36387118697166443,
+      "firstRecalledAt": "2026-07-21T05:46:56.061Z",
+      "lastRecalledAt": "2026-07-21T05:46:56.061Z",
+      "queryHashes": [
+        "5cba8fd60389"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-16.md:34:52": {
+      "key": "memory:memory/sessions/sync/2026-07-16.md:34:52",
+      "path": "memory/sessions/sync/2026-07-16.md",
+      "startLine": 34,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36387118697166443,
+      "maxScore": 0.36387118697166443,
+      "firstRecalledAt": "2026-07-21T05:46:56.061Z",
+      "lastRecalledAt": "2026-07-21T05:46:56.061Z",
+      "queryHashes": [
+        "5cba8fd60389"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-13.md:34:52": {
+      "key": "memory:memory/sessions/sync/2026-07-13.md:34:52",
+      "path": "memory/sessions/sync/2026-07-13.md",
+      "startLine": 34,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36387118697166443,
+      "maxScore": 0.36387118697166443,
+      "firstRecalledAt": "2026-07-21T05:46:56.061Z",
+      "lastRecalledAt": "2026-07-21T05:46:56.061Z",
+      "queryHashes": [
+        "5cba8fd60389"
+      ],
+      "recallDays": [
+        "2026-07-21"
+      ],
+      "conceptTags": [
+        "24/07/2026",
+        "23/07/2026",
+        "22/07/2026",
+        "21/07/2026",
+        "20/07/2026",
+        "17/07/2026",
+        "16/07/2026",
+        "15/07/2026"
       ]
     }
   }
