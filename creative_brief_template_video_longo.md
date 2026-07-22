@@ -1,3 +1,14 @@
+---
+tema: template de brief criativo para vídeo longo
+conteudo: modelo estruturado para briefings de vídeos longos (YouTube, institucionais, documentais)
+setor: audiovisual, marketing digital
+cliente: Lógika Creative
+tipo: template/brief
+prioridade: média
+atualizado_em: 2026-07-22
+usar_quando: criar brief criativo para vídeo longo, institucional ou documental
+nao_usar_quando: brief de mídias sociais ou parceria (ver templates específicos)
+---
 
 # BRIEF CRIATIVO - Vídeo Longo (YouTube, Institucional, etc.)
 

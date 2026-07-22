@@ -1,3 +1,16 @@
+---
+tema: mensagens de teste do starter kit v2.2
+conteudo: logs de mensagens de testers do kit na versão 2.2, feedback de falhas e acertos
+nicho: curso OpenClaw v2
+setor: tecnologia agentiva
+cliente: Alunos testers do mini-curso OpenClaw v2
+tipo: log de teste
+prioridade: baixa
+atualizado_em: 2026-07-22
+usar_quando: consultar histórico de mensagens e feedback de testers da versão 2.2
+nao_usar_quando: versão atual do kit (ver README.md) ou operação do ecossistema Lógika
+---
+
 # Mensagens pros testers da v2.2
 
 > Rascunhos pra Bruno enviar via Telegram/WhatsApp pros testers que receberam versões anteriores.

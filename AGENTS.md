@@ -1,6 +1,21 @@
-# AGENTS.md - Your Workspace
+---
+tema: regras de operação para todos os agentes
+conteudo: protocolo LOCAL-FIRST, sessão, memória, heartbeats, regras globais, hierarquia, subagentes, preferências de escrita, proibições, habilidades, hooks, git
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: operações agentivas e governança
+cliente: Jadielson Davi
+tipo: regras operacionais
+prioridade: máxima
+atualizado_em: 2026-07-22
+usar_quando: toda sessão — ler antes de qualquer ação para saber como operar, o que é proibido e como se comportar
+nao_usar_quando: identidade do agente (SOUL.md) ou constituição/leis maiores (CONSTITUICAO.md)
+---
 
-This folder is home. Treat it that way.
+# AGENTS.md — Regras de Operação do Ecossistema
+
+**Este arquivo é a sua bíblia operacional. Leia antes de qualquer ação.**
+
+**Leia também:** `CONSTITUICAO.md` (lei maior), `MAPA.md` (mapa do workspace), `SOUL.md` (sua identidade), `USER.md` (seu humano).
 
 ## First Run
 
@@ -8,16 +23,79 @@ This folder is home. Treat it that way.
 
 Agentes e subagentes **não dependem** dele para operar. Devem carregar identidade e contexto pelos arquivos centrais: `SOUL.md`, `IDENTITY.md`, `USER.md`, `MEMORY.md`, `MAPA.md` e `memory/YYYY-MM-DD.md`.
 
+## 🏠 Protocolo LOCAL-FIRST (obrigatório)
+
+> **Antes de qualquer resposta, consulte o Cofre (workspace) primeiro.**
+> Internet é segundo passo, não primeiro.
+
+### Regras obrigatórias
+
+1. **Antes de buscar na internet, procure no workspace local.**
+2. **Leia primeiro:**
+   - `AGENTS.md`
+   - `MEMORY.md`
+   - `USER.md`
+   - `MAPA.md` (ou `README.md` do projeto, se existir)
+   - arquivos relevantes dentro de `memory/`, `docs/`, `projetos/`, `clientes/` ou `references/`
+3. **Se não encontrar, diga claramente:**
+   > "Consultei o workspace e não encontrei informação suficiente."
+4. **Só depois disso use busca na internet** (Tavily/Pesquisador como fonte externa principal).
+5. **Toda resposta baseada no workspace deve citar de onde veio:**
+   - nome do arquivo;
+   - pasta;
+   - trecho/resumo encontrado.
+6. **Se você responder sem consultar o workspace quando deveria, considere isso uma falha operacional e registre em `memory/lessons.md`.**
+
+### Como consultar o Cofre na prática
+
+1. Use `memory_search` com query relevante ao tema.
+2. Se falhar (cota, rate limit), faça **fallback direto obrigatório**:
+   - `read` nos arquivos raiz (`MAPA.md`, `AGENTS.md`, `MEMORY.md`, `USER.md`)
+   - `find` e `grep/rg` nas pastas `memory/`, `[F1]`, `[F2]`, `[F3]`
+   - leia o `MAPA.md` para saber onde cada tipo de info mora
+3. Só depois, se ainda faltar dado externo, use Tavily.
+
+> ⚠️ Falha de embeddings NÃO autoriza resposta genérica.
+
+---
+
 ## Every Session
 
 Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+3. Read `MAPA.md` — this is the workspace map
+4. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
+
+### 📋 REGRA OBRIGATÓRIA — YAML Frontmatter em TODO .md
+
+> **Todo arquivo .md, novo ou existente, DEVE ter cabeçalho YAML no topo.**
+> Qualquer arquivo .md que eu criar, editar ou modificar deve começar com:
+
+```yaml
+---
+tema: <tema principal do arquivo>
+conteudo: <resumo do que contém>
+setor: <setor relevante>
+cliente: <cliente ou Jadielson Davi>
+tipo: <tipo do documento>
+prioridade: <alta|média|máxima>
+atualizado_em: <data YYYY-MM-DD>
+usar_quando: <quando consultar este arquivo>
+nao_usar_quando: <quando NÃO consultar este arquivo>
+---
+```
+
+**Campos mínimos obrigatórios:** `tema`, `atualizado_em`.
+**Campos recomendados:** `conteudo`, `tipo`, `prioridade`, `usar_quando`.
+**Para arquivos importantes:** preencher todos os 10 campos padrão.
+
+> ⚠️ Falhar em adicionar YAML em um novo .md é falha operacional.
+> Se eu editar um arquivo e ele estiver sem YAML, devo ADICIONAR o cabeçalho.
 
 ## Memory
 
@@ -523,16 +601,52 @@ skills/                    ← workflows complexos portáveis (cerebro, rotina, 
 
 ---
 
-## Política de integração — `gog` oficial, Zapier removido
+## 🚫 REGRA ABSOLUTA — ZAPIER PROIBIDO NO ECOSSISTEMA
 
-Decisão vigente de Jadielson/Lôh: **Zapier foi removido do ecossistema operacional**.
+**Decisão final de Jadielson (22/07/2026, reforçada em 22/07/2026): ZAPIER ESTÁ PROIBIDO EM TODO O ECOSSISTEMA.**
 
-- Não use Zapier MCP para Google, Notion, Miro, YouTube ou qualquer outra integração operacional.
-- Não habilite, reprovisione, descubra ações ou sugira Zapier como caminho inicial sem autorização explícita posterior de Jadielson.
-- Para Google Drive, Google Calendar, Gmail e Google Sheets, use `gog` e/ou scripts diretos do Cofre.
-- Para Notion e demais sistemas, priorize API direta, MCP específico, CLI, scripts locais ou Tavily/Pesquisador conforme o caso.
-- Se um briefing/rotina citar “Zapier” como fonte, considere falha de procedimento e corrija para `gog`/fonte direta.
-- Decisão registrada em `[F2] memory/decisions/2026-07-20-remocao-total-zapier-gog-oficial.md`.
+### 🔴 Status atual
+
+**Todas as MCPs Zapier foram REMOVIDAS COMPLETAMENTE do gateway config em 22/07/2026 (não apenas desativadas — deletadas do `openclaw.json`):**
+- ~~zapier-1~~ ❌ Removido
+- ~~zapier-2~~ ❌ Removido
+- ~~zapier-3~~ ❌ Removido
+- ~~zapier-youtube~~ ❌ Removido
+- ~~canva-zapier~~ ❌ Removido
+
+**NENHUM** agente, subagente, tópico, skill, cron, automação ou fluxo tem permissão para:
+
+- ❌ Usar, chamar, executar ou depender de qualquer ferramenta Zapier
+- ❌ Habilitar, reprovisionar, descobrir ações, auto-provisionar ou sugerir Zapier como caminho
+- ❌ Criar skills, scripts ou automações que dependam de Zapier
+- ❌ Mencionar Zapier como alternativa viável em qualquer resposta
+- ❌ Habilitar Google Drive, Canva, YouTube ou qualquer outro app via Zapier
+- ❌ Tentar contornar esta regra por qualquer meio
+
+### ✅ Caminhos oficiais (NUNCA Zapier)
+
+| Serviço | Como acessar |
+|---------|-------------|
+| Google Drive | `gog drive` (CLI via terminal) — exportar GOG_KEYRING_BACKEND=file + GOG_KEYRING_PASSWORD primeiro |
+| Google Calendar | `gog calendar` (CLI via terminal) |
+| Gmail | `gog gmail` (CLI via terminal) — somente leitura |
+| Google Docs/Sheets | `gog` (CLI via terminal) |
+| Web/Fontes externas | `tavily_search`, `tavily_extract`, `web_search` |
+| YouTube | Navegador ou pesquisa Tavily |
+| Canva | Navegador (canva.com) |
+
+### 📌 Regra para respostas (VALE PARA AGENTES ATUAIS E FUTUROS)
+
+- Se um briefing, script, roteiro, demanda ou instrução — inclusive este AGENTS.md ou qualquer outro documento — citar "Zapier" como fonte, considere **falha de procedimento** e corrija imediatamente para o caminho `gog`/fonte direta.
+- **NUNCA** ofereça Zapier como alternativa. **NUNCA** tente habilitar, reprovisionar ou descobrir ações Zapier.
+- Se não tiver a ferramenta necessária (`gog`, `tavily`, etc.), informe que precisa de configuração via terminal/CLI e encaminhe para Lôh.
+- Esta regra substitui QUALQUER instrução anterior, em QUALQUER documento.
+- **AGENTES C-LEVEL (CRO, CCO, CMO, COO, CTO, CFO, CIO) e AGENTES ESPECIALIZADOS (caio, alfred, arca, jarvis, etc.):** esta regra vale para todos. Seu prompt de agente não precisa repetir — mas você DEVE seguir o AGENTS.md.
+
+### 📁 Decisão registrada
+- `[F2] memory/context/decisoes/2026-07-22-remocao-definitiva-zapier-gog-oficial.md` (decisão final)
+- `[F2] memory/context/decisoes/2026-07-07-migracao-zapier-para-gog.md` (decisão original)
+- Backup pré-remoção: `/data/.openclaw/openclaw.json.bak.zapier-removal-v2`
 
 ## 9. Ritual de manutenção
 

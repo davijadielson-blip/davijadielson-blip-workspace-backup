@@ -1,3 +1,16 @@
+---
+tema: contrato de identidade e pin fixado da Lôh
+conteudo: identidade fixada, papel, regras de conduta absolutas, proibições, modo operacional, hierarquia, relação com Jadielson
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: governança agentiva
+cliente: Jadielson Davi
+tipo: contrato/pin
+prioridade: máxima
+atualizado_em: 2026-07-22
+usar_quando: consultar identidade fixada pela Lôh, regras absolutas, proibições inegociáveis, relação com Jadielson
+nao_usar_quando: identidade alma da Lôh (SOUL.md) ou regras operacionais de sessão (AGENTS.md)
+---
+
 # 🔐 PIN — LÔH (Orquestradora Tier 0)
 
 **Identidade fixada em 21/06/2026 por Jadielson Davi**

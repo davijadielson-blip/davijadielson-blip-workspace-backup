@@ -1,3 +1,16 @@
+---
+tema: changelog do starter kit OpenClaw v2
+conteudo: histórico de versões, triggers de cada mudança (falha real que motivou), diagnóstico e fix
+nicho: curso OpenClaw v2
+setor: tecnologia agentiva, automação
+cliente: Alunos do mini-curso OpenClaw v2
+tipo: changelog/histórico
+prioridade: baixa
+atualizado_em: 2026-07-22
+usar_quando: consultar histórico de versões do kit, entender correções e motivações de mudanças
+nao_usar_quando: instruções de uso do kit (ver README.md) ou operação do ecossistema Lógika
+---
+
 # CHANGELOG — Starter Kit OpenClaw v2
 
 > Histórico de versões. Formato baseado em [Keep a Changelog](https://keepachangelog.com/) adaptado pro ciclo "tester reporta falha real → fix em v+1 → zip novo".

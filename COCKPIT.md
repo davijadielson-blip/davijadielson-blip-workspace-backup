@@ -1,6 +1,14 @@
 ---
-tipo: cockpit
-subtipo: geral
+tema: cockpit geral — visão unificada de projetos e estudos
+conteudo: lista de projetos em andamento, em pausa, concluídos; estudos ativos e próximos passos
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: gestão de projetos e estudos
+cliente: Jadielson Davi
+tipo: cockpit/dashboard
+prioridade: alta
+atualizado_em: 2026-07-22
+usar_quando: visão geral do que está em andamento, escolher projeto ou estudo do dia
+nao_usar_quando: detalhes operacionais de frente (ver [F1] 5-Frentes/) ou mapa do workspace (MAPA.md)
 ---
 
 # 🧠 COCKPIT GERAL — Jadielson Davi

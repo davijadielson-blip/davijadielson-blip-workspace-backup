@@ -1,3 +1,16 @@
+---
+tema: proatividade segura e briefing diário
+conteudo: estado atual do heartbeat, regras de proatividade, formato do briefing diário, crons, itens de verificação
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: operações agentivas
+cliente: Jadielson Davi
+tipo: heartbeat/proatividade
+prioridade: alta
+atualizado_em: 2026-07-22
+usar_quando: verificar o que fazer em heartbeats, formato do briefing diário, regras de proatividade
+nao_usar_quando: consulta de contexto ou decisões (MEMORY.md) ou mapa do workspace (MAPA.md)
+---
+
 # HEARTBEAT.md — Proatividade segura da Lôh
 
 Atualizado em: 2026-07-20

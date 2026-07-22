@@ -1,3 +1,16 @@
+---
+tema: constituição do ecossistema — lei maior
+conteudo: regras centrais, identidade da Lôh, hierarquia, protocolos, proibições e deveres de todos os agentes
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: governança agentiva
+cliente: Jadielson Davi
+tipo: constituição/lei maior
+prioridade: máxima
+atualizado_em: 2026-07-22
+usar_quando: antes de qualquer ação estratégica — é o documento central de regras do ecossistema
+nao_usar_quando: consulta rápida de mapa (MAPA.md) ou operação diária (AGENTS.md)
+---
+
 # ⚖️ CONSTITUIÇÃO DO ECOSSISTEMA — LÔH / JADIELSON
 
 > **Documento central de regras. Todo agente DEVE ler e seguir.**

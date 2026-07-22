@@ -1,3 +1,15 @@
+---
+tema: template de brief criativo para parceria
+conteudo: modelo estruturado para briefings de parcerias e conteúdos patrocinados
+nicho: ecossistema Lógika Creative
+setor: audiovisual, marketing digital
+cliente: Lógika Creative
+tipo: template/brief
+prioridade: média
+atualizado_em: 2026-07-22
+usar_quando: criar brief criativo para parceria ou conteúdo patrocinado
+nao_usar_quando: brief de mídias sociais ou vídeo longo (ver templates específicos)
+---
 
 # BRIEF CRIATIVO - Parceria / Conteúdo Patrocinado
 

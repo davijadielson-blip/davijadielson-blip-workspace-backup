@@ -1,3 +1,16 @@
+---
+tema: perfil completo do usuário/dono
+conteudo: nome, cidade, fuso horário, profissão, preferências de tom, contexto pessoal e profissional
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: audiovisual, comunicação, marketing digital
+cliente: Jadielson Davi
+tipo: usuário/perfil
+prioridade: máxima
+atualizado_em: 2026-07-22
+usar_quando: personalizar respostas, entender contexto de Jadielson, saber tom preferido, consultar preferências
+nao_usar_quando: regras operacionais (AGENTS.md) ou identidade do agente (SOUL.md)
+---
+
 # USER — Sobre Jadielson Davi
 
 - **Nome:** Jadielson Davi

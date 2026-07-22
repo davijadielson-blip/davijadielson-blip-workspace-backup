@@ -1,3 +1,14 @@
+---
+tema: fluxo de aprovação de ativos criativos
+conteudo: etapas de criação, revisão, aprovação e publicação de materiais criativos (briefings, roteiros, layouts, edições)
+setor: audiovisual, marketing digital, comunicação
+cliente: Jadielson Davi
+tipo: workflow/processo
+prioridade: alta
+atualizado_em: 2026-07-22
+usar_quando: revisar ou aprovar materiais criativos, entender o fluxo de aprovação de ativos
+nao_usar_quando: briefings específicos de cliente ou frente (ver [F1] 5-Frentes/)
+---
 
 # Fluxo de Aprovação de Ativos Criativos
 

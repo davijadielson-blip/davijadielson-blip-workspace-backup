@@ -1,3 +1,15 @@
+---
+tema: estrutura de gerenciamento de ativos no Google Drive
+conteudo: organização de pastas, nomenclatura e fluxo de armazenamento de ativos criativos no Google Drive
+nicho: ecossistema Lógika Creative
+setor: audiovisual, gestão de ativos
+cliente: Lógika Creative
+tipo: documento/estrutura
+prioridade: média
+atualizado_em: 2026-07-22
+usar_quando: organizar, buscar ou salvar ativos criativos no Google Drive da Lógika
+nao_usar_quando: organização de arquivos no Cofre local (ver MAPA.md)
+---
 
 # Estrutura de Gerenciamento de Ativos (Google Drive)
 

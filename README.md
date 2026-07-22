@@ -1,3 +1,16 @@
+---
+tema: starter kit do curso OpenClaw v2 — boas-vindas e instruções
+conteudo: tese, pré-requisitos, estrutura do kit, jornada do aluno, manifesto, status do projeto
+nicho: curso OpenClaw v2
+setor: tecnologia agentiva, automação
+cliente: Alunos do mini-curso OpenClaw v2
+tipo: documentação/instruções
+prioridade: alta
+atualizado_em: 2026-07-22
+usar_quando: onboarding de novo aluno, consultar estrutura do starter kit, pré-requisitos do curso
+nao_usar_quando: operação do ecossistema Lógika (ver MAPA.md) ou regras de agente (AGENTS.md)
+---
+
 # Starter Kit — Curso OpenClaw v2
 
 > **O kit que o aluno baixa.** Pacote agêntico que transforma o agente do aluno em tutor da própria configuração.

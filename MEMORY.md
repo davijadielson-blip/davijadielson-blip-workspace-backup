@@ -1,4 +1,17 @@
-## 🔐 Arquitetura — Cofre / Fonte de Verdade Única
+---
+tema: memória de longo prazo e decisões do ecossistema
+conteudo: protocolo Cofre+Tavily, orquestração, ativação de agentes, políticas de serviço mútuo, decisões arquiteturais, remoção do Zapier, autenticações gog
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: governança, operações, tecnologia
+cliente: Jadielson Davi
+tipo: memória/registro de decisões
+prioridade: máxima
+atualizado_em: 2026-07-22
+usar_quando: consultar decisões passadas, protocolos vigentes, histórico de ativações e políticas
+nao_usar_quando: operação diária (AGENTS.md) ou mapa do workspace (MAPA.md)
+---
+
+## 🔐 Arquitetura - Cofre / Fonte de Verdade Única
 
 **Nome oficial:** a partir de 2026-06-25, o workspace principal passa a ser chamado de **Cofre**.
 
@@ -7,11 +20,11 @@
 **Regra fundamental:** o **Cofre** (`/data/.openclaw/workspace/`) é a ÚNICA fonte de verdade primária.
 
 - **Tudo** que agentes criam, decidem, aprendem ou anotam → Cofre
-- **GitHub** (`https://github.com/davijadielson-blip/segundo-cerebro-jadielson`) é **backup apenas** — unidirecional
+- **GitHub** (`https://github.com/davijadielson-blip/segundo-cerebro-jadielson`) é **backup apenas** - unidirecional
 - **Nunca** escrever direto no GitHub
 - **Nunca** consultar o GitHub como fonte primária
 
-## 🧭 Protocolo Infalível de Consulta — Cofre + Tavily
+## 🧭 Protocolo Infalível de Consulta - Cofre + Tavily
 
 **Ativado por Jadielson em 2026-06-25.**
 
@@ -19,18 +32,18 @@
 
 Para qualquer pedido, antes de responder, todo agente deve seguir esta ordem:
 
-1. **Consultar o Cofre primeiro** — buscar nos arquivos relevantes de `/data/.openclaw/workspace/` antes de formular a resposta.
-2. **Usar Tavily/Pesquisador quando precisar de informação externa, atualizada ou complementar** — especialmente quando o Cofre não tiver resposta suficiente, quando houver fatos mutáveis, notícias, referências de mercado, legislação, tendências ou dados que exigem validação externa.
-3. **Só buscar outras fontes depois** — navegador, web genérica, APIs, GitHub ou outras bases entram apenas se Cofre + Tavily não resolverem ou se a tarefa exigir uma fonte específica.
-4. **Nunca entregar resposta genérica sem lastro** — se não consultou, não finja. Consulte primeiro ou diga claramente que não conseguiu consultar.
-5. **Fallback obrigatório quando embeddings falharem** — erro de cota, rate limit ou indisponibilidade de `memory_search` NÃO autoriza pular o Cofre. O agente deve consultar por leitura direta: `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `[F1]`/`[F2]` relevantes, `find`, `grep/rg` e `read`. Se não encontrar, deve listar os caminhos verificados.
-6. **Rodapé obrigatório de fontes** — ao final de respostas analíticas, estratégicas, operacionais ou informacionais, incluir uma linha curta: `Fonte: Cofre (...arquivo...), Tavily (...quando usado...), ou ferramenta específica`.
+1. **Consultar o Cofre primeiro** - buscar nos arquivos relevantes de `/data/.openclaw/workspace/` antes de formular a resposta.
+2. **Usar Tavily/Pesquisador quando precisar de informação externa, atualizada ou complementar** - especialmente quando o Cofre não tiver resposta suficiente, quando houver fatos mutáveis, notícias, referências de mercado, legislação, tendências ou dados que exigem validação externa.
+3. **Só buscar outras fontes depois** - navegador, web genérica, APIs, GitHub ou outras bases entram apenas se Cofre + Tavily não resolverem ou se a tarefa exigir uma fonte específica.
+4. **Nunca entregar resposta genérica sem lastro** - se não consultou, não finja. Consulte primeiro ou diga claramente que não conseguiu consultar.
+5. **Fallback obrigatório quando embeddings falharem** - erro de cota, rate limit ou indisponibilidade de `memory_search` NÃO autoriza pular o Cofre. O agente deve consultar por leitura direta: `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `[F1]`/`[F2]` relevantes, `find`, `grep/rg` e `read`. Se não encontrar, deve listar os caminhos verificados.
+6. **Rodapé obrigatório de fontes** - ao final de respostas analíticas, estratégicas, operacionais ou informacionais, incluir uma linha curta: `Fonte: Cofre (...arquivo...), Tavily (...quando usado...), ou ferramenta específica`.
 
-**Objetivo:** tornar as respostas mais humanas, precisas, contextualizadas e profissionais — nunca amadoras ou genéricas.
+**Objetivo:** tornar as respostas mais humanas, precisas, contextualizadas e profissionais - nunca amadoras ou genéricas.
 
 ---
 
-# 📌 Protocolo de Orquestração — Registrado em 2026-06-21
+# 📌 Protocolo de Orquestração - Registrado em 2026-06-21
 
 **Regra fundamental:** LÔH é a ÚNICA camada de orquestração. Nenhum agente invoca ou simula outro agente.
 
@@ -45,7 +58,7 @@ Para qualquer pedido, antes de responder, todo agente deve seguir esta ordem:
 
 # 🆕 POLÍTICA DE HARMONIA E SERVIÇO MÚTUO ENTRE AGENTES
 
-## Versão 1 — Registrada em 2026-06-21
+## Versão 1 - Registrada em 2026-06-21
 
 **Ativada por:** Jadielson (dono)
 **Natureza:** Mudança de política de orquestração
@@ -73,20 +86,20 @@ Qualquer agente corporativo PODE pedir ajuda a outro. Eu roteio:
 
 **Proibido:** simular consulta a outro agente. Se precisa do CCO, vai ao CCO de verdade.
 
-## Perímetro Confidencial (Parede D'água — CONTINUA ISOLADO)
+## Perímetro Confidencial (Parede D'água - CONTINUA ISOLADO)
 
 - CENTRAL PESSOAL (9 agentes pessoais: Alfred, Warren, Arca, etc.)
 
 ---
 
-## 🆕 Versão 2 — SERVIÇO MÚTUO — Atualizada em 2026-07-20
+## 🆕 Versão 2 - SERVIÇO MÚTUO - Atualizada em 2026-07-20
 
 **Ativada por:** Jadielson (dono)
 **Natureza:** Fortalecimento da cultura de colaboração
 
 ### Princípio
 
-**AGENTES SERVEM UNS AOS OUTROS.** O ecossistema não é uma coleção de ilhas — é um time. Cada agente existe para servir Jadielson, e servir Jadielson inclui servir os colegas de equipe quando solicitado.
+**AGENTES SERVEM UNS AOS OUTROS.** O ecossistema não é uma coleção de ilhas - é um time. Cada agente existe para servir Jadielson, e servir Jadielson inclui servir os colegas de equipe quando solicitado.
 
 ### O que muda
 
@@ -97,7 +110,7 @@ Qualquer agente corporativo PODE pedir ajuda a outro. Eu roteio:
 
 1. **Todo agente DEVE atender pedidos de outros agentes** quando a solicitação estiver dentro de sua competência
 2. **Prioridade:** a demanda de Jadielson sempre vem primeiro. Se estiver ocupado com Jadielson, avise e peça pra voltar depois
-3. **Sem burocracia:** se um CMO pede algo ao CCO, o CCO atende — não precisa de autorização da Lôh para colaborações simples
+3. **Sem burocracia:** se um CMO pede algo ao CCO, o CCO atende - não precisa de autorização da Lôh para colaborações simples
 4. **Lôh entra:** quando a colaboração envolver múltiplos agentes, decisão transversal, risco ou arquitetura
 5. **Proibido:** ignorar, atrasar deliberadamente ou responder de forma genérica a pedidos de colegas
 6. **Qualidade:** servir o colega com a mesma excelência que serviria Jadielson
@@ -132,7 +145,7 @@ Esta política entra em vigor em **20 de Julho de 2026** e vale para todos os ag
 
 ---
 
-## 📱 Fluxo de Projetos — Grupo PROJETOS no Telegram
+## 📱 Fluxo de Projetos - Grupo PROJETOS no Telegram
 
 **Grupo:** PROJETOS
 **Chat ID:** -1004292150901
@@ -140,8 +153,9 @@ Esta política entra em vigor em **20 de Julho de 2026** e vale para todos os ag
 **Regra:** A partir de 18/06/2026, todo projeto em andamento é discutido no grupo PROJETOS, cada um em seu tópico. A conversa direta (DM) continua para assuntos gerais, dúvidas rápidas e coordenação.
 
 **Tópicos ativos:**
-- 🎙️ Sala de Visita (topic_id: 151) — Estudo de parceria Logika × Sala de Visita
+- 🎙️ Sala de Visita (topic_id: 151) - Estudo de parceria Logika × Sala de Visita
 - 🎬 CapCut Reels (topic_id: 1224) — Produção de Instagram Reels via CapCut Web
+- 📋 Editais Culturais (topic_id: 1495) — Análise de editais culturais e leis de incentivo
 
 ---
 
@@ -157,28 +171,28 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 ## C-Levels & Tópicos Principais:
 ⚙️ **COO (Operações & Scaling):**
- └─ 1465 (COO — PRINCIPAL)
+ └─ 1465 (COO - PRINCIPAL)
 
 📈 **CRO (Receita & Vendas):**
- └─ 13 (Comercial / Prospecção / Propostas — PRINCIPAL)
+ └─ 13 (Comercial / Prospecção / Propostas - PRINCIPAL)
 
 📣 **CMO (Marketing & Brand):**
- └─ 1463 (CMO — PRINCIPAL)
+ └─ 1463 (CMO - PRINCIPAL)
 
 🎬 **CCO (Criação & Audiovisual):**
- └─ 1464 (CCO — PRINCIPAL)
+ └─ 1464 (CCO - PRINCIPAL)
 
 💰 **CFO (Finanças & Caixa):**
- └─ 1466 (CFO — PRINCIPAL)
+ └─ 1466 (CFO - PRINCIPAL)
 
 🤖 **CAIO (IA & Automação):**
- └─ 1339 (CAIO — PRINCIPAL)
+ └─ 1339 (CAIO - PRINCIPAL)
 
 👤 **CTO (Tecnologia & Software):**
- └─ 1462 (CTO — PRINCIPAL)
+ └─ 1462 (CTO - PRINCIPAL)
 
 📋 **CIO (Governança & Compliance):**
- └─ 1467 (CIO — PRINCIPAL)
+ └─ 1467 (CIO - PRINCIPAL)
 
 ---
 ## Tópicos Secundários e de Referência:
@@ -186,7 +200,7 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 **CMO (Marketing & Brand):**
  └─ 871 (Redes Sociais & Métricas)
  └─ 474 (Novidades/Referências/Inspirações)
- └─ 6 (Redes Sociais & Métricas — antigo, manter referência)
+ └─ 6 (Redes Sociais & Métricas - antigo, manter referência)
 
 **CTO (Tecnologia & Software):**
  └─ 14 (Laboratório / Testes)
@@ -202,9 +216,9 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 ---
 # Ativação de Agentes - Deploy Onda 1
 
-## ✅ CAIO — Ativado em 2026-06-19
+## ✅ CAIO - Ativado em 2026-06-19
 
-**Agente:** 🤖 CAIO — Chief AI Officer
+**Agente:** 🤖 CAIO - Chief AI Officer
 **Tópico:** 1339 (CAIO no grupo LÓGIKA)
 **Sub-agent session:** `agent:main:subagent:99bc19f9-e05a-49a0-8330-add9ce0e2b5f`
 **Responsável:** Reporta a Jadielson via LÔH
@@ -224,9 +238,9 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 # Ativação de Agentes - Deploy Onda 2
 
-## ✅ CRO — Ativado em 2026-06-19
+## ✅ CRO - Ativado em 2026-06-19
 
-**Agente:** 📈 CRO — Chief Revenue Officer
+**Agente:** 📈 CRO - Chief Revenue Officer
 **Tópico:** 13 (Comercial / Prospecção / Propostas no grupo LÓGIKA)
 **Sub-agent session:** `agent:main:subagent:2e0f7b15-467f-48e2-b9fe-c3e3b77a22a4`
 **Responsável:** Reporta a Jadielson (Closer) via LÔH
@@ -243,9 +257,9 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 ---
 
-## ✅ CTO — Ativado em 2026-06-19
+## ✅ CTO - Ativado em 2026-06-19
 
-**Agente:** 👤 CTO — Chief Technology Officer
+**Agente:** 👤 CTO - Chief Technology Officer
 **Tópico:** 1462 (CTO no grupo LÓGIKA)
 **Sub-agent session:** `agent:main:subagent:bcb080ab-974a-4e53-bb27-5460393b162a`
 **Responsável:** Alex (especialista TI/software) + Reporta a Jadielson via LÔH
@@ -264,9 +278,9 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 # Ativação de Agentes - Deploy Onda 3
 
-## ✅ CCO — Ativado em 2026-06-19
+## ✅ CCO - Ativado em 2026-06-19
 
-**Agente:** 🎬 CCO — Chief Creative Officer
+**Agente:** 🎬 CCO - Chief Creative Officer
 **Tópico:** 1464 (CCO no grupo LÓGIKA)
 **Sub-agent session:** `agent:main:subagent:3215c5cb-18dd-4728-8ad5-d6d30c2a6864`
 **Responsável:** Reporta a Jadielson via LÔH (direção/edição) + Ewander (design)
@@ -283,9 +297,9 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 ---
 
-## ✅ CMO — Ativado em 2026-06-19
+## ✅ CMO - Ativado em 2026-06-19
 
-**Agente:** 📣 CMO — Chief Marketing Officer
+**Agente:** 📣 CMO - Chief Marketing Officer
 **Tópico:** 1463 (CMO no grupo LÓGIKA)
 **Sub-agent session:** `agent:main:subagent:6f491713-b73e-4460-b3e6-d64ab3d5462d`
 **Responsável:** Reporta a Jadielson via LÔH
@@ -303,9 +317,9 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 # Ativação de Agentes - Deploy Onda 4
 
-## ✅ COO — Ativado em 2026-06-19
+## ✅ COO - Ativado em 2026-06-19
 
-**Agente:** ⚙️ COO — Chief Operating Officer
+**Agente:** ⚙️ COO - Chief Operating Officer
 **Tópico:** 1465 (COO no grupo LÓGIKA)
 **Sub-agent session:** `agent:main:subagent:426cca38-2256-4b11-b60b-99589b61f417`
 **Responsável:** Reporta a Jadielson via LÔH
@@ -322,9 +336,9 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 ---
 
-## ✅ CFO — Ativado em 2026-06-19
+## ✅ CFO - Ativado em 2026-06-19
 
-**Agente:** 💰 CFO — Chief Financial Officer
+**Agente:** 💰 CFO - Chief Financial Officer
 **Tópico:** 1466 (CFO no grupo LÓGIKA)
 **Sub-agent session:** `agent:main:subagent:d0773022-a3b0-43ff-8b63-0a0a042c3b75`
 **Responsável:** Reporta a Jadielson via LÔH
@@ -342,9 +356,9 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 # Ativação de Agentes - Deploy Onda 5
 
-## ✅ CIO — Ativado em 2026-06-19
+## ✅ CIO - Ativado em 2026-06-19
 
-**Agente:** 📋 CIO — Chief Information Officer
+**Agente:** 📋 CIO - Chief Information Officer
 **Tópico:** 1467 (CIO no grupo LÓGIKA)
 **Sub-agent session:** `agent:main:subagent:ff6a281f-54de-4e14-9216-0c8d1baafb53`
 **Responsável:** Reporta a Jadielson via LÔH
@@ -373,7 +387,7 @@ Este registro consolida os tópicos e seus respectivos C-Levels/Agentes no grupo
 
 ---
 
-# Briefing Pós-Deploy — Decisões Críticas (2026-06-19)
+# Briefing Pós-Deploy - Decisões Críticas (2026-06-19)
 
 ## 1️⃣ OKRs da Lógica
 **Status:** 🔵 HOLD (Jadielson alimenta depois)
@@ -423,7 +437,7 @@ Ação: CRO deve garantir que dados do CRM (notion) estejam consistentes com o q
 
 ## 📋 Clara (Secretária)
 **Tópico:** 6 | **Sub-agent:** `agent:main:subagent:8a203b82-34a2-4b1f-977a-706895fb3e1c`
-**Função:** Secretária executiva — agendas, docs, lembretes, coordenação
+**Função:** Secretária executiva - agendas, docs, lembretes, coordenação
 
 ## 🧪 Laboratório / Testes
 **Tópico:** 14 | **Sub-agent:** `agent:main:subagent:e6e964f3-0350-4cb9-9257-7356f0b24cd4`
@@ -438,10 +452,10 @@ Ação: CRO deve garantir que dados do CRM (notion) estejam consistentes com o q
 **Função:** Direção estratégica, crescimento, posicionamento, oportunidades
 
 ---
-# Central Pessoal — 9 Agentes Pessoais Ativados (2026-06-19)
+# Central Pessoal - 9 Agentes Pessoais Ativados (2026-06-19)
 
 **Grupo:** Central Pessoal (-1003740871403)
-**ISOLAMENTO TOTAL:** Parede d'água — nenhuma integração com Lógika.
+**ISOLAMENTO TOTAL:** Parede d'água - nenhuma integração com Lógika.
 
 | Agente | Ícone | Tópico | Status |
 |---|---|---|---|
@@ -459,7 +473,7 @@ Ação: CRO deve garantir que dados do CRM (notion) estejam consistentes com o q
 
 ---
 
-# 📦 Starter Kit v2.5.7 — Complementos Instalados em 2026-06-22
+# 📦 Starter Kit v2.5.7 - Complementos Instalados em 2026-06-22
 
 **Origem:** `starter-kit-openclaw-v2.5.7.zip` (Pixel Educação)
 **Ação:** Migração de materiais complementares sem sobrescrita.
@@ -484,15 +498,15 @@ Agentes com prompt pronto mas NÃO ativados por decisão de Jadielson:
 
 | Agente | Frente | Motivo |
 |---|---|---|
-| @rogerio | Rogério Rocha (mandato vereador) | Pausa — sem atendimento no momento |
-| @vereadores | Josi Curtinhos, Vando da Cana Brava, Manoel do Gongo | Pausa — sem atendimento no momento |
-| @alem-da-foto | Canal documental | Pausa — sem atendimento no momento |
-| @lives-louvor | Lives gospel | Pausa — sem atendimento no momento |
+| @rogerio | Rogério Rocha (mandato vereador) | Pausa - sem atendimento no momento |
+| @vereadores | Josi Curtinhos, Vando da Cana Brava, Manoel do Gongo | Pausa - sem atendimento no momento |
+| @alem-da-foto | Canal documental | Pausa - sem atendimento no momento |
+| @lives-louvor | Lives gospel | Pausa - sem atendimento no momento |
 | @bibliotecaria | Organização do vault | Aguardando ativação |
 
 **Decisão registrada em:** `[F2] memory/context/decisoes/2026-06.md`
 
-## 📱 Protocolo WhatsApp — Sugestão Primeiro
+## 📱 Protocolo WhatsApp - Sugestão Primeiro
 
 Quando uma mensagem chegar pelo WhatsApp, o fluxo é:
 
@@ -506,7 +520,7 @@ Quando uma mensagem chegar pelo WhatsApp, o fluxo é:
 
 **Exceção:** se Jadielson disser "pode responder" ou similar, aí responde direto.
 
-## Política oficial de prioridade de modelos dos agentes — 2026-06-26
+## Política oficial de prioridade de modelos dos agentes - 2026-06-26
 
 Sequência definida por Jadielson e obrigatória para todos os agentes:
 
@@ -518,14 +532,14 @@ Esta prioridade deve ser respeitada tanto na configuração quanto nos prompts o
 
 ---
 
-## 🌐 Protocolo Global Obrigatório — Cofre, Mapa Geral, Tavily e Registro Permanente
+## 🌐 Protocolo Global Obrigatório - Cofre, Mapa Geral, Tavily e Registro Permanente
 
 **Ativado por Jadielson em 2026-06-27. Vale para todos os agentes, subagentes, tópicos, grupos e frentes do ecossistema.**
 
 1. **Seguir sempre o mapa geral do Cofre**
    - O Cofre oficial é `/data/.openclaw/workspace/`.
    - Todo agente deve consultar `AGENTS.md`, `MAPA.md`, `MEMORY.md` quando permitido, e os caminhos `[F1]`, `[F2] memory/` e `[F3] PROJETOS/` relevantes antes de decidir onde salvar.
-   - É proibido criar workspace paralelo, pasta paralela ou “cofre próprio” fora do Cofre.
+   - É proibido criar workspace paralelo, pasta paralela ou "cofre próprio" fora do Cofre.
 
 2. **Consultar o Cofre antes de responder**
    - Antes de qualquer resposta analítica, estratégica, operacional, informacional ou contextual, consultar o Cofre.
@@ -557,7 +571,7 @@ Esta prioridade deve ser respeitada tanto na configuração quanto nos prompts o
 
 ---
 
-## Regra geral — Cofre correto por projeto/tópico (2026-06-27)
+## Regra geral - Cofre correto por projeto/tópico (2026-06-27)
 
 Decisão de Jadielson no grupo PROJETOS, tópico Jack Lemley: a regra aplicada ao **DOCUMENTÁRIO O FIO DA MEMÓRIA** passa a valer para **todos os tópicos/projetos atuais e novos**.
 
@@ -572,7 +586,7 @@ Caso de referência: **O FIO DA MEMÓRIA** usa `/data/.openclaw/workspace/[F3] P
 
 Registro detalhado: `memory/decisoes/2026-06-27-regra-geral-cofre-projetos-topicos.md`.
 
-### Complemento — Debate ecossistêmico quando necessário
+### Complemento - Debate ecossistêmico quando necessário
 
 Quando o tema for complexo, estratégico, controverso, criativo ou exigir visão multidisciplinar, agentes e tópicos podem acionar o ecossistema para um debate mais acalorado e produtivo sobre o assunto.
 
@@ -587,7 +601,7 @@ Regras:
 
 ---
 
-## 2026-07-09 — Validação da Arquitetura Alfred como Secretário Pessoal/Triador
+## 2026-07-09 - Validação da Arquitetura Alfred como Secretário Pessoal/Triador
 
 **Solicitante:** Jadielson Davi
 **Validado por:** Lôh (Orquestradora Tier 0)
@@ -607,28 +621,28 @@ Jadielson confirmou que Alfred (General da Central Pessoal) deve atuar como secr
 
 ### Arquivos criados/atualizados
 
-- `[F2] memory/agents/central-pessoal/alfred-secretario-pessoal.md` — prompt completo do Alfred com matriz, autonomia, limites e referências
-- `[F2] memory/context/central-pessoal/encaminhamentos-alfred.md` — log de rastreabilidade
-- `[F2] memory/context/central-pessoal/comando-triar-alfred.md` — instruções do /triar
-- `[F2] memory/decisions/2026-07-08-alfred-secretario-pessoal.md` — já existia, mantido
-- `[F2] memory/context/central-pessoal/2026-07-09-requisitos-acesso-alfred-secretario.md` — já existia, mantido
+- `[F2] memory/agents/central-pessoal/alfred-secretario-pessoal.md` - prompt completo do Alfred com matriz, autonomia, limites e referências
+- `[F2] memory/context/central-pessoal/encaminhamentos-alfred.md` - log de rastreabilidade
+- `[F2] memory/context/central-pessoal/comando-triar-alfred.md` - instruções do /triar
+- `[F2] memory/decisions/2026-07-08-alfred-secretario-pessoal.md` - já existia, mantido
+- `[F2] memory/context/central-pessoal/2026-07-09-requisitos-acesso-alfred-secretario.md` - já existia, mantido
 
 ### Próximos passos
 
 - Alfred agora deve operar com o prompt atualizado.
 - Jadielson pode testar o /triar de qualquer grupo.
-- Log de encaminhamentos começa vazio — primeiro encaminhamento real será o marco zero.
+- Log de encaminhamentos começa vazio - primeiro encaminhamento real será o marco zero.
 - Sempre que Alfred escalar para Lôh, Lôh executa a ponte real entre grupos.
 
 
-## 🚫 Zapier removido — `gog` é oficial para Google
+## 🚫 Zapier removido - `gog` é oficial para Google
 
 Jadielson reforçou em 20/07/2026: **Zapier estava atrapalhando e deve ser removido de vez**. A integração Google roda bem via **`gog`** e esse é o caminho oficial.
 
 - Zapier MCP **não deve ser usado** para Google, Notion, Miro, YouTube ou qualquer outra integração operacional.
 - Ações Zapier habilitadas foram desativadas nos servidores disponíveis: Gmail, Google Calendar, Google Drive, Notion e Miro.
 - Agentes **não devem habilitar, reprovisionar, descobrir ações ou sugerir Zapier** sem autorização explícita posterior de Jadielson.
-- Se algum briefing/rotina citar “Zapier” como fonte, tratar como erro de procedimento e corrigir para `gog`, API direta, MCP específico ou script local.
+- Se algum briefing/rotina citar "Zapier" como fonte, tratar como erro de procedimento e corrigir para `gog`, API direta, MCP específico ou script local.
 - Alternativas:
   - Google Drive → `gog_drive`
   - Gmail → `gog_gmail`
@@ -637,17 +651,49 @@ Jadielson reforçou em 20/07/2026: **Zapier estava atrapalhando e deve ser remov
   - Notion/outros sistemas → API direta, MCP específico ou scripts locais
   - Web → `tavily_search`, `tavily_extract`, `web_search`, `browser`
 
-📁 Decisão vigente: `[F2] memory/decisions/2026-07-20-remocao-total-zapier-gog-oficial.md`
+## ✅ Gog - 3 contas autenticadas (2026-07-22)
+
+| Conta | Escopos | Status |
+|---|---|---|
+| `davijadielson@gmail.com` | calendar, drive | ✅ desde 2026-07-15 |
+| `logikacreative.mkt@gmail.com` | docs, drive, forms, sheets | ✅ desde 2026-07-15 |
+| `loh.open.logika@gmail.com` | drive, calendar | ✅ autenticada em 2026-07-22 |
+
+**Configuração durável:**
+- `GOG_KEYRING_PASSWORD` persistida em `/data/.profile`
+- Credenciais OAuth (client_id + client_secret) em `/data/.local/share/gogcli/`
+- Refresh tokens criptografados no keyring file-based do gog
+- Backup no Cofre via GitHub a cada 3h
+
+📁 Decisões vigentes:
+- `[F2] memory/decisions/2026-07-20-remocao-total-zapier-gog-oficial.md`
+- `[F2] memory/decisions/2026-07-22-gog-auth-loh-concluido.md`
+- `[F2] memory/decisions/2026-07-22-renovacao-tokens-gog-3-contas.md`
 
 ---
 
-## ✅ 2026-07-17 — Decisões extraídas
+## ✅ 2026-07-22 - Renovação tokens OAuth Google Drive
+
+**Problema:** Agentes reclamando que não conseguiam acessar o Google Drive. Diagnóstico: todos os tokens OAuth do `gog` nas 3 contas estavam expirados/revogados (`invalid_grant: Token has been expired or revoked`).
+
+**Solução:** Jadielson e Lôh reautorizaram manualmente as 3 contas via OAuth:
+1. 🔴 → ✅ **Lógika** (`logikacreative.mkt@gmail.com`) — concluído
+2. 🔴 → ✅ **Pessoal** (`davijadielson@gmail.com`) — concluído
+3. 🔴 → ✅ **Lôh** (`loh.open.logika@gmail.com`) — concluído
+
+**Método:** Lôh usou a API direta do Google (`POST oauth2.googleapis.com/token`) para trocar o código de autorização por refresh token, sem depender do callback local do `gog` que estava expirando. Refresh tokens importados com `gog auth import --refresh-token-stdin --force`.
+
+**Resultado:** ✅ Drive funcionando nas 3 contas. Agentes voltaram a ter acesso.
+
+---
+
+## ✅ 2026-07-17 - Decisões extraídas
 
 Em 17/07/2026, a varredura diária encontrou uma decisão/aprovação operacional relevante na frente **SAÚDE Social Media**. A maior parte das sessões do período foi cron-driven (backups, Guard C-Level, heartbeats e rotinas), mas houve registro de regra aprovada por Jadielson para uso dos cronogramas reais dos setores na programação diária.
 
 ### Decisões e aprovações
 
-- **SAÚDE Social Media — Matriz de cronogramas dos setores:** a partir de 2026-07-17, todo roteiro/programação diária da Saúde deve incluir, além da pauta editorial do dia, um bloco de **lembretes de captação por cronograma real dos setores**.
+- **SAÚDE Social Media - Matriz de cronogramas dos setores:** a partir de 2026-07-17, todo roteiro/programação diária da Saúde deve incluir, além da pauta editorial do dia, um bloco de **lembretes de captação por cronograma real dos setores**.
 - **Regra fina aprovada:** fora da terça, serviço especializado só entra na publicação se reforçar o pilar do dia; se não reforçar, a orientação é captar e guardar para a próxima terça de Serviços Especializados.
 - **Pauta 17/07/2026:** sexta-feira flexível, com foco em bastidores/prestação de contas/fluxo da rede; pauta principal sugerida: Unidade Mista + SAMU + Referências Regionais.
 
@@ -655,7 +701,7 @@ Em 17/07/2026, a varredura diária encontrou uma decisão/aprovação operaciona
 
 ---
 
-## ✅ 2026-07-18 — Varredura diária de decisões
+## ✅ 2026-07-18 - Varredura diária de decisões
 
 Em 18/07/2026, a extração diária verificou as sessões `.jsonl` do dia anterior e **não encontrou decisões, aprovações ou debates estratégicos humanos** a registrar. O recorte continha 106 sessões `.jsonl`: 104 entradas cron e 2 heartbeats/lembretes internos, sem mensagens humanas diretas.
 
@@ -668,7 +714,7 @@ Em 18/07/2026, a extração diária verificou as sessões `.jsonl` do dia anteri
 
 📁 Registro completo: `[F2] memory/decisions/2026-07-18-decisoes.md`
 
-## ✅ 2026-07-20 — Correções estruturais: subagentes, fallbacks e prompts C-Level
+## ✅ 2026-07-20 - Correções estruturais: subagentes, fallbacks e prompts C-Level
 
 ### Decisões e ações
 

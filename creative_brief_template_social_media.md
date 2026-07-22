@@ -1,3 +1,15 @@
+---
+tema: template de brief criativo para mídias sociais
+conteudo: modelo estruturado para briefings de posts, stories, reels e campanhas de redes sociais
+nicho: ecossistema Lógika Creative
+setor: audiovisual, marketing digital
+cliente: Lógika Creative
+tipo: template/brief
+prioridade: média
+atualizado_em: 2026-07-22
+usar_quando: criar brief criativo para post, story, reel ou campanha de mídia social
+nao_usar_quando: brief de parceria ou vídeo longo (ver templates específicos)
+---
 
 # BRIEF CRIATIVO - Mídias Sociais
 

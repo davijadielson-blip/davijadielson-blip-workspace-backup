@@ -1,3 +1,15 @@
+---
+tema: mapeamento de tipos de conteúdo da Lógika
+conteudo: categorização de formatos de conteúdo, canais, objetivos e públicos para produção audiovisual
+nicho: ecossistema Lógika Creative
+setor: audiovisual, marketing digital
+cliente: Lógika Creative
+tipo: mapeamento/estratégia
+prioridade: alta
+atualizado_em: 2026-07-22
+usar_quando: definir formato de conteúdo, canal adequado, objetivo de peça ou público-alvo de produção
+nao_usar_quando: briefings específicos de cliente ou frente (ver [F1] 5-Frentes/)
+---
 
 # Mapeamento de Tipos de Conteúdo - Lógika
 

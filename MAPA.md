@@ -1,147 +1,162 @@
-# MAPA — Workspace Lôh / Jadielson
+---
+tema: mapa geral do workspace
+conteudo: estrutura completa de pastas, arquivos e rotas de cada tipo de informação no Cofre
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: audiovisual, comunicação, marketing digital, gestão pessoal
+cliente: Jadielson Davi
+tipo: mapa
+prioridade: máxima
+atualizado_em: 2026-07-22
+usar_quando: antes de qualquer consulta, decisão de salvamento, roteamento ou busca no Cofre
+nao_usar_quando: informação urgente que exige fonte externa atualizada (Tavily primeiro)
+---
 
-> **Fonte de verdade única. GitHub é backup.**
-> **Última reorganização:** 2026-06-22 — Mapeamento aos 3 Fluxos
+# MAPA — Cofre de Jadielson Davi
+
+> **Cofre** = `/data/.openclaw/workspace/`  
+> Fonte de verdade primária do ecossistema.  
+> Backup no GitHub (`davijadielson-blip/segundo-cerebro-jadielson`) — consultar só emergencial.
 
 ---
 
-## Os 3 Fluxos (e o Fluxo 0)
+## 📍 Regra LOCAL-FIRST (obrigatória para todo agente)
 
-| Tag | Nome | Quem mexe | Sistema? |
-|---|---|---|---|
-| **`[F0]`** | CAPTURA | Só você | Consulta, não edita |
-| **`[F1]`** | CRIATIVO (você) | Só você | Consulta, nunca escreve |
-| **`[F2]`** | SISTEMA (máquina) | Agentes | Gerencia livre |
-| **`[F3]`** | INTEGRAÇÃO | Você + Sistema | Você cria, sistema gerencia metadados |
+Antes de qualquer resposta contextual, operacional, estratégica ou informacional:
+
+1. **Consulte o Cofre primeiro** — leia os arquivos relevantes.
+2. **Fallback direto obrigatório** — se `memory_search` falhar, use `read`, `find`, `grep`, este MAPA.md, `AGENTS.md`, `MEMORY.md`, `memory/*.md`, `[F1]`/`[F2]`/`[F3]` relevantes.
+3. **Tavily/Pesquisador** — só depois, se precisar de dado externo/atualizado.
+4. **Outras fontes** — só se Cofre + Tavily não resolverem.
+5. **Rodapé de fonte** em toda resposta analítica/operacional.
+6. **Salve no Cofre** tudo que for pertinente para continuidade.
+
+> Falha em consultar o Cofre é falha operacional. Registre em `memory/lessons.md`.
 
 ---
 
-## Estrutura Completa
+## 🏗️ Estrutura do Cofre
 
 ```
-workspace/                            ← FONTE DE VERDADE ÚNICA
+/data/.openclaw/workspace/
 │
-├── [F0] 0-Inbox/          22 arq    ← CAPTURA BRUTA (pré-fluxo)
-│                                     Suas notas rápidas, ideias soltas
+├── CONSTITUICAO.md          ← Lei maior do ecossistema (ler antes de qualquer ação estratégica)
+├── SOUL.md                  ← Quem sou (Lôh) — identidade, tom, poderes, método
+├── IDENTITY.md              ← Ficha técnica da Lôh (modelo, agente ID, reporte)
+├── USER.md                  ← Quem é Jadielson — perfil, preferências, contexto pessoal
+├── AGENTS.md                ← Regras de operação para todos os agentes (ler toda sessão)
+├── MEMORY.md                ← Memória de longo prazo — decisões, protocolos, histórico
+├── HEARTBEAT.md             ← Proatividade segura, briefing diário
+├── MAPA.md                  ← ESTE ARQUIVO — mapa de navegação
+├── README.md                ← Starter Kit OpenClaw (material do curso, não operacional)
 │
-├── [F1] 1-Permanentes/    7 subp.   ← REFERÊNCIAS (notas evergreen)
-├── [F1] 2-Literatura/     6 subp.   ← LEITURAS (livros, cursos concluídos)
-├── [F1] 3-Daily/          8 notas   ← DIÁRIO (notas do dia, reflexões)
-├── [F1] 4-Pessoal/        12 subp.  ← PESSOAL (parede d'água)
-├── [F1] 5-Frentes/        8 subp.   ← TRABALHO (clientes, frentes ativas/standby)
-├── [F1] ESTUDOS/          4 subp.   ← CURSOS (A INICIAR / EM ANDAMENTO / CONCLUÍDO / PAUSADO)
-├── [F1] TAREFAS/                    ← LISTAS PESSOAIS (deprecated)
+├── [F0] 0-Inbox/            ← Captura bruta — só Jadielson mexe, IA só lê
+├── [F1] 1-Permanentes/      ← Notas autorais de Jadielson (IA só lê, nunca edita)
+├── [F2] memory/             ← Cérebro da IA (autonomia total: cria, edita, deleta)
+├── [F3] PROJETOS/           ← Projetos ativos com estrutura central
 │
-├── [F2] memory/           1671 arq  ← ❤️ CORAÇÃO DO SISTEMA
-│   ├── agents/                      Definições de agentes e prompts
-│   ├── context/                     Contextos estratégicos, decisões, calendários
-│   ├── databases/                   Dados estruturados, mapeamentos
-│   ├── decisions/                   Registro de decisões
-│   ├── inbox-externa/               Capturas de fontes externas (áudio, etc)
-│   ├── outputs/                     Entregáveis, relatórios, drafts
-│   ├── projects/                    Memória de projetos (planos, pesquisas)
-│   ├── sessions/                    Logs de sessões
-│   ├── templates/                   Templates canônicos
-│   └── visualizations/              Diagramas, mapas, dashboards
-│
-├── [F2] agentes/          155 arq   ← DEFINIÇÕES DE AGENTES (prompts, personalidades)
-├── [F2] archive/          74 arq    ← HISTÓRICO (backups, exemplos, materiais legados)
-├── [F2] vaults/           4410 arq  ← CLONE DO GITHUB (sincronização automática)
-│
-├── [F3] PROJETOS/         7 subp.   ← PROJETOS (você cria, sistema gerencia)
-│
-├── scripts/                         ← AUTOMAÇÃO (não mexer)
-├── skills/                          ← HABILIDADES (não mexer)
-│
-├── SOUL.md                          Minha identidade
-├── AGENTS.md                        Manual de conduta
-├── IDENTITY.md                      Ficha formal
-├── USER.md                          Quem é Jadielson
-├── MEMORY.md                        Memória de longo prazo
-├── MAPA.md                          Este arquivo
-├── TOOLS.md                         Anotações de ferramentas
-├── HEARTBEAT.md                     Tarefas periódicas
-├── [F1] _README.md                  Regras do Fluxo 1
-├── [F2] _README.md                  Regras do Fluxo 2
-└── [F3] PROJETOS/_README.md         Regras do Fluxo 3
+├── checklists/              ← Checklists operacionais (veja checklists/local-first.md)
+├── skills/                  ← Workflows complexos portáveis
+├── scripts/                 ← Scripts bash de automação
+└── templates/               ← Moldes canônicos de arquivos
 ```
 
 ---
 
-## 🧠 REGRA ABSOLUTA — Workspace é o Cérebro Central
+## 🧭 Onde encontrar cada tipo de informação
 
-> **"Varra todo o banco. O workspace é a fonte. Tavily é complemento."**
-
-### Para TODO agente, em TODA resposta:
-
-**1. CONSULTE O WORKSPACE PRIMEIRO**
-   - Antes de qualquer resposta, vasculhe o workspace inteiro
-   - Não se limite a `[F2] memory/` — contexto relevante pode estar em `[F1]`, `[F3]`, qualquer pasta
-   - Use `memory_search` e ferramentas de leitura para encontrar informações
-
-**2. WEB SÓ DEPOIS**
-   - Tavily (web_search) é complementar, não substituto
-   - Só busque na web quando o workspace não tiver a resposta
-
-**3. REGISTRE TUDO QUE FOR PERTINENTE**
-   - Informação nova encontrada → salve em `[F2] memory/`
-   - Decisão tomada → registre em `[F2] memory/decisions/`
-   - Aprendizado relevante → salve no arquivo de diário (`[F2] memory/YYYY-MM-DD.md`)
-   - Se não foi salvo, não existiu para a próxima sessão
-
-**4. APRENDA ENTRE SESSÕES**
-   - Memória não sobrevive a restart de sessão
-   - Use `[F2] memory/` como ponte entre sessões
-   - Registre descobertas, ajustes de comportamento, regras para o futuro
-
-**5. NÃO INVENTE**
-   - Se o workspace não tem a resposta E a web não ajudou: **"não consegui acessar essa informação"**
-   - Nunca alucine dados, contextos ou integrações
+| Tipo de informação | Onde buscar | Onde salvar |
+|---|---|---|
+| **Lei maior do ecossistema** | `CONSTITUICAO.md` | — |
+| **Identidade do agente (Lôh)** | `SOUL.md`, `IDENTITY.md` | `SOUL.md` |
+| **Perfil de Jadielson** | `USER.md` | `USER.md` |
+| **Regras de operação** | `AGENTS.md` | `AGENTS.md` |
+| **Decisões arquiteturais** | `MEMORY.md`, `memory/context/decisoes/` | `memory/context/decisoes/` |
+| **Memória diária** | `memory/YYYY-MM-DD.md` | `memory/YYYY-MM-DD.md` |
+| **Briefing diário** | `HEARTBEAT.md`, `memory/daily-briefs/` | `memory/daily-briefs/` |
+| **Projetos em andamento** | `[F3] PROJETOS/`, `memory/projects/` | `[F3] PROJETOS/[status]/` |
+| **Frentes de trabalho ativas** | `[F1] 5-Frentes/[frente]/` | `[F1] 5-Frentes/[frente]/` |
+| **Contexto operacional de frente** | `memory/agents/[frente].md` | `memory/agents/[frente].md` |
+| **Legendas, roteiros, briefings** | `memory/outputs/` | `memory/outputs/` |
+| **Log de sessão** | `memory/sessions/YYYY-MM-DD.md` | `memory/sessions/YYYY-MM-DD.md` |
+| **Checklists operacionais** | `checklists/` | `checklists/` |
+| **Captura bruta (inbox)** | `[F0] 0-Inbox/` | `[F0] 0-Inbox/` |
+| **Notas autorais de Jadielson** | `[F1] 1-Permanentes/` | Só Jadielson escreve |
+| **Skills (workflows)** | `skills/` | `skills/` |
+| **Scripts de automação** | `scripts/` | `scripts/` |
+| **Templates** | `templates/` | `templates/` |
+| **Dados do Google Drive** | `gog drive` (CLI, não Zapier) | Google Drive |
+| **Leads/CRM** | Notion (link em MEMORY.md) | Notion |
+| **Calendário Google** | `gog calendar` (CLI, não Zapier) | Google Calendar |
+| **E-mails (Gmail)** | `gog gmail` (CLI, só leitura) | Gmail |
 
 ---
 
-## Consolidated Paths (de onde vieram)
+## 📂 Detalhamento das pastas
 
-| Saiu de | Foi para |
+### `[F0] 0-Inbox/` — Captura bruta
+- Tudo que chega sem filtro: notas rápidas, ideias soltas, links, prints
+- Só Jadielson mexe. Sistema não edita.
+- Quando processado, vai para o fluxo correto.
+
+### `[F1] 1-Permanentes/` — Notas autorais de Jadielson
+- Notas atômicas, reflexões processadas, conceitos que resistem ao tempo
+- **IA só lê. Nunca edita.**
+- Subpastas: `2-Literatura/`, `3-Daily/`, `4-Pessoal/`, `5-Frentes/`, `PROJETOS/`, `TAREFAS/`, `ESTUDOS/`
+
+### `[F1] 5-Frentes/` — Frentes de trabalho ativas
+| Pasta | Frente | Status |
+|---|---|---|
+| `Logika-Creative/` | Lógika Creative (agência audiovisual) | 🟢 Ativa |
+| `Camara-Municipal/` | Câmara Municipal de São Sebastião | 🟢 Ativa |
+| `SINDSS/` | Sindicato dos Servidores | 🟢 Ativa |
+| `Alem-da-Foto/` | Canal documental | 🟡 Standby |
+| `Lives-Louvor-Reflexao/` | Lives gospel | 🟡 Standby |
+| `Outros-Vereadores/` | Josi, Vando, Manoel | 🟡 Standby |
+| `Projetos/` | Projetos diversos | 🟢 Ativa |
+
+### `[F2] memory/` — Cérebro da IA (autonomia total)
+```
+memory/
+├── YYYY-MM-DD.md           ← Diários (criar se não existir)
+├── context/                ← Estado atual: pendências, deadlines, negócio
+│   └── decisoes/           ← Decisões arquiteturais registradas
+├── sessions/               ← Log diário de sessões + outputs de crons
+├── outputs/                ← Legendas, roteiros, briefings, drafts
+├── agents/                 ← Briefings operacionais por frente
+│   └── central-pessoal/    ← Prompts dos agentes pessoais
+├── databases/              ← Calendários, aniversariantes, regras
+├── templates/              ← Modelos reutilizáveis
+├── visualizations/         ← Hub, Canvas, dashboards, diagramas
+├── projects/               ← Pesquisas, projetos rastreados, planos
+├── daily-briefs/           ← Briefings diários
+├── inbox-externa/          ← E-mail, Drive, WhatsApp, áudio importados
+├── backup-log.md           ← Log de backups
+└── lessons.md              ← Lições aprendidas (falhas operacionais)
+```
+
+### `[F3] PROJETOS/` — Projetos ativos (estrutura central)
+- `EM ANDAMENTO/` — projetos em execução
+- `EM PAUSA/` — projetos parados
+- `CONCLUÍDOS/` — projetos finalizados
+
+### `checklists/` — Checklists operacionais
+- `local-first.md` — Protocolo LOCAL-FIRST (consulte antes de responder)
+
+---
+
+## 🔗 Arquivos de referência rápida
+
+| Para saber | Leia |
 |---|---|
-| `entregaveis/` | `[F2] memory/outputs/` |
-| `reports/` | `[F2] memory/outputs/reports/` |
-| `templates/` (raiz) | `[F2] memory/templates/` |
-| `contextos/` | `[F2] memory/context/` |
-| `calendarios/` | `[F2] memory/context/calendarios/` |
-| `content/` | `[F2] memory/outputs/` |
-| `pesquisa/` | `[F2] memory/projects/pesquisa/` |
-| `projetos/` (raiz) | `[F3] PROJETOS/` |
-| `producao/` | `[F2] memory/outputs/` |
-| `Anexos/` | `[F2] memory/Anexos/` |
-| `_curso/` | `[F2] archive/_curso/` |
-| `backups/` | `[F2] archive/backups/` |
-| `exemplos/` | `[F2] archive/exemplos/` |
-| `memory/` (raiz) | `[F2] memory/` (fundido) |
-| `notion-configs/` | `scripts/notion/configs/` |
-| `config-patches/` | `scripts/patches/` |
+| Quem sou como agente | `SOUL.md` + `IDENTITY.md` |
+| Quem é Jadielson | `USER.md` |
+| Como operar | `AGENTS.md` (sessão completa) |
+| Regras imutáveis | `CONSTITUICAO.md` |
+| Decisões e memória consolidada | `MEMORY.md` |
+| Briefing diário e proatividade | `HEARTBEAT.md` |
+| Localização de cada info | `MAPA.md` (este arquivo) |
+| Lições de falhas passadas | `memory/lessons.md` |
 
 ---
 
-## Diretórios que NÃO se move (não mexer)
-
-- `scripts/` — automação
-- `skills/` — habilidades dos agentes
-- `vaults/` — clone do repositório (sincronizado por cron, não editar diretamente)
----
-
-## Consolidação Lôh / Superpowers / Starter Kit — 2026-07-20
-
-Camadas adicionadas para fortalecer o ecossistema sem substituir a estrutura existente:
-
-| Caminho | Função |
-|---|---|
-| `skills/superpowers/` | Biblioteca Markdown dos métodos Superpowers |
-| `[F2] memory/templates/starter-kit-openclaw-templates-2026-07-20/` | Templates importados do pacote enviado por Jadielson |
-| `[F2] memory/templates/protocolo-agentes-jadielson-2026-07-20/` | Protocolo canônico para agentes, subagentes, tópicos e segurança |
-| `[F2] memory/context/HOT-Loh-operacional.md` | Contexto vivo do sistema interno da Lôh |
-| `[F2] archive/backups/root-before-consolidacao-loh-2026-07-20/` | Backup dos arquivos raiz antes da consolidação |
-
-### Regra de uso
-
-A Constituição continua acima de tudo. Superpowers e Starter Kit são métodos auxiliares. As melhorias devem aumentar harmonia, segurança, fatiamento e verificação; nunca substituir o Cofre nem criar workspace paralelo.
+*Criado em: 2026-07-22 · Protocolo LOCAL-FIRST ativado.*

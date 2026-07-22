@@ -1,7 +1,14 @@
 ---
-summary: "Workspace template for TOOLS.md"
-read_when:
-  - Bootstrapping a workspace manually
+tema: configurações locais de ferramentas e dispositivos
+conteudo: câmeras, logins locais, chaves SSH, preferências de voz, comandos específicos do setup
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: operações técnicas
+cliente: Jadielson Davi
+tipo: configuração/tools
+prioridade: alta
+atualizado_em: 2026-07-22
+usar_quando: consultar detalhes de dispositivos, câmeras, chaves SSH ou preferências de ferramentas
+nao_usar_quando: regras operacionais (AGENTS.md) ou mapa do workspace (MAPA.md)
 ---
 
 # TOOLS.md - Local Notes

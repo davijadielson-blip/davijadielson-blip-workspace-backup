@@ -1,3 +1,16 @@
+---
+tema: manifesto do starter kit OpenClaw v2
+conteudo: visão radical do curso — tutor IA conduz setup em vez de tutorial manual, filosofia do kit
+nicho: curso OpenClaw v2
+setor: tecnologia agentiva, automação
+cliente: Alunos do mini-curso OpenClaw v2
+tipo: manifesto/filosofia
+prioridade: média
+atualizado_em: 2026-07-22
+usar_quando: entender a filosofia e visão do starter kit, proposta de valor do curso
+nao_usar_quando: instruções técnicas do kit (ver README.md) ou operação do ecossistema Lógika
+---
+
 # Manifesto — Starter Kit "Minha Cabeça"
 
 > Carta do Bruno em primeira pessoa, carregada quando aluno manda `"sobre"` durante a jornada.

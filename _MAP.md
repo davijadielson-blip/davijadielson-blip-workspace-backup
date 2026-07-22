@@ -1,10 +1,13 @@
 ---
+tema: mapa da raiz do vault (segundo cérebro)
+conteudo: estrutura das três grandes divisões do vault (Inbox, Fluxo 1, Fluxo 2), pastas, arquivos globais e convenções
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: segundo cérebro pessoal
 tipo: mapa
-pasta: raiz
-ultimo-update: 2026-05-10
-agente-compatibilidade: [claude, openclaw, gpt, hermes]
-fluxo: misto
-camada: mista
+prioridade: alta
+atualizado_em: 2026-07-22
+usar_quando: navegar pela estrutura do vault, entender divisão de fluxos e permissões
+nao_usar_quando: consulta operacional do Cofre atual (ver MAPA.md na raiz)
 ---
 
 # Mapa — Raiz do Vault
