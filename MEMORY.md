@@ -141,6 +141,7 @@ Esta política entra em vigor em **20 de Julho de 2026** e vale para todos os ag
 
 **Tópicos ativos:**
 - 🎙️ Sala de Visita (topic_id: 151) — Estudo de parceria Logika × Sala de Visita
+- 🎬 CapCut Reels (topic_id: 1224) — Produção de Instagram Reels via CapCut Web
 
 ---
 
