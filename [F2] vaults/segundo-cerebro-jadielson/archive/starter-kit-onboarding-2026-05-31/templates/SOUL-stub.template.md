@@ -1,3 +1,8 @@
+---
+tema: SOUL stub.template
+atualizado_em: 2026-07-22
+---
+
 # SOUL — {NOME_AGENTE} (stub)
 
 Sou {NOME_AGENTE}, agente do {NOME_USER}.

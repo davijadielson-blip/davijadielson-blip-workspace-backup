@@ -1,3 +1,8 @@
+---
+tema: 07 20 nextjs dados cofre v03
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v0.3 — Dados espelhados do Cofre
 
 **Data:** 2026-07-20 00:16 UTC  

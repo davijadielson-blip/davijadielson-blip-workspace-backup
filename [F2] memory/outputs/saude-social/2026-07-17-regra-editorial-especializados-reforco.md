@@ -1,3 +1,8 @@
+---
+tema: 07 17 regra editorial especializados reforco
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Reforço de regra editorial: Serviços Especializados fora da terça
 
 Contexto: Jadielson respondeu à pauta do dia lembrando a regra já definida para uso de serviços especializados fora do pilar de terça-feira.

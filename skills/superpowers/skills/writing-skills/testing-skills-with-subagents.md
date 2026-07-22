@@ -1,3 +1,8 @@
+---
+tema: testing skills with subagents
+atualizado_em: 2026-07-22
+---
+
 # Testing Skills With Subagents
 
 **Load this reference when:** creating or editing skills, before deployment, to verify they work under pressure and resist rationalization.

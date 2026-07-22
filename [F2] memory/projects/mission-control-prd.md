@@ -1,3 +1,8 @@
+---
+tema: mission control prd
+atualizado_em: 2026-07-22
+---
+
 # 🧠 PRD — Mission Control
 
 > **Produto:** Painel Central de Comando (Mission Control)

@@ -1,3 +1,8 @@
+---
+tema: ESTRATEGIA LANCAMENTO ENTRE TEMPOS RASCUNHO
+atualizado_em: 2026-07-22
+---
+
 <!-- Exportado do Google Drive em 2026-06-28 -->
 
 ﻿# ESTRATÉGIA DE LANÇAMENTO — ENTRE TEMPOS

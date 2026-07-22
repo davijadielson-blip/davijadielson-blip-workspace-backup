@@ -1,3 +1,8 @@
+---
+tema: Como equilibrar as tarefas de Dor e Ganho
+atualizado_em: 2026-07-22
+---
+
 - Manutenção e Produção
 - Produção de ganho em ritmo; sem pressa.
 - A produção de ganho se baseia na evoluacao em busca de conquistas do objetivos e sonhos

@@ -1,3 +1,8 @@
+---
+tema: 07 17 aprendizado resumo zap posts reels
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Aprendizado aprovado: resumo para WhatsApp de posts/reels
 
 Contexto: Jadielson aprovou a primeira alternativa de chamada para envio de link no WhatsApp do post SAMU + PA + UBS e pediu aprender para as próximas.

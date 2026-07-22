@@ -1,3 +1,8 @@
+---
+tema: 07 18 abertura topico templates
+atualizado_em: 2026-07-22
+---
+
 # Projeto/Tópico — Templates de Produção de Vídeo
 
 **Data:** 2026-07-18

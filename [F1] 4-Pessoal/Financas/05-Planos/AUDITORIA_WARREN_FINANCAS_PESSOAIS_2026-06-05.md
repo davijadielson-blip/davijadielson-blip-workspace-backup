@@ -1,3 +1,8 @@
+---
+tema: AUDITORIA WARREN FINANCAS PESSOAIS 2026 06 05
+atualizado_em: 2026-07-22
+---
+
 # Auditoria Warren — Finanças Pessoais
 
 Data: 2026-06-05

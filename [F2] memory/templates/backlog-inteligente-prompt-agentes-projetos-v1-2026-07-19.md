@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente prompt agentes projetos v1 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Template — Prompt para agentes organizadores/gerenciadores de projetos
 
 **Data:** 2026-07-19 03:55 UTC  

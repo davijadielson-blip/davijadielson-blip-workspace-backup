@@ -1,3 +1,8 @@
+---
+tema: SETORES NAS UBS
+atualizado_em: 2026-07-22
+---
+
 - ODONTOLOGIA: dentista e asb
 - ENFERMAGEM: 
 1. Enfermeiro: atendimento aos grupos populacionais(criancas/puericultura, gestantes, idosos, hipertensos e diabéticos, saude da mulher [coleta de citologia, planejamento familiar, testes rapidos, vacina], vacinacao, supervisao do tecnico de enfermagem e agentes de saúde, visita domiciliar, PSE, atividades educativas

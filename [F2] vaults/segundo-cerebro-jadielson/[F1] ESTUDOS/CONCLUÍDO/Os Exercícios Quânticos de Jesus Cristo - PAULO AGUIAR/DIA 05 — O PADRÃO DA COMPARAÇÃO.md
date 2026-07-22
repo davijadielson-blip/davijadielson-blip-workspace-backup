@@ -1,3 +1,8 @@
+---
+tema: DIA 05 — O PADRÃO DA COMPARAÇÃO
+atualizado_em: 2026-07-22
+---
+
 # DIA 05 — O PADRÃO DA COMPARAÇÃO
 
 **Fase 1 — Consciência**

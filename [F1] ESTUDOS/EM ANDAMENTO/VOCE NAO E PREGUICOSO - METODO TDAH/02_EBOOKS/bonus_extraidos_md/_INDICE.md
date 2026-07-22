@@ -1,3 +1,8 @@
+---
+tema: INDICE
+atualizado_em: 2026-07-22
+---
+
 # Índice — Bônus extraídos em Markdown
 
 Extração integral dos bônus em `.md`, mantendo arquivos brutos apenas no Google Drive.

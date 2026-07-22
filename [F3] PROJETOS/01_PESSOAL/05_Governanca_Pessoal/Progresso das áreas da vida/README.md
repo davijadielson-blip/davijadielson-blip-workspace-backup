@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Progresso das áreas da vida
 
 **Macroestrutura:** `01_PESSOAL/05_Governanca_Pessoal`

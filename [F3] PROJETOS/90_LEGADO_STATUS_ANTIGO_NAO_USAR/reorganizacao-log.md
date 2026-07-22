@@ -1,3 +1,8 @@
+---
+tema: reorganizacao log
+atualizado_em: 2026-07-22
+---
+
 # Log da reorganização F3 pelo Mapa 360
 
 **Data:** 2026-07-19 05:05 UTC

@@ -1,3 +1,8 @@
+---
+tema: 07 19 registro metodo backlog
+atualizado_em: 2026-07-22
+---
+
 # Registro — Método Backlog
 
 **Data:** 2026-07-19 05:26 UTC  

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T05:47:24.637Z",
+  "updatedAt": "2026-07-22T21:51:11.412Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -214,20 +214,22 @@
       "endLine": 45,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-02 gerado-por: notion-to-calendar revisado: false status: FAILED motivo: google-token-expired --- # Sync Notion → Calendar — 2026-07-02 **Horário:** 13:00 **Duração:** 3s **Status:** ❌ FALHA — Token Google Calendar expirado/revogado ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 27 (todos por token inválido) - Total: 27 itens lidos do Notion ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 1 (token inválido) ## Itens do Editorial sincronizados *(Nenhum — todos falharam por autenticação)* ## ⚠️ Atenção — Token Expirado O token OAuth do Google Calendar (`/data/.openclaw/workspace/scripts/.secrets/google-calendar-toke",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.6443250406712897,
+      "totalScore": 2.6443250406712897,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-04T13:00:44.045Z",
-      "lastRecalledAt": "2026-07-21T06:04:12.713Z",
+      "lastRecalledAt": "2026-07-22T21:32:27.480Z",
       "queryHashes": [
         "78e584916da5",
-        "f13f055f8dea"
+        "f13f055f8dea",
+        "0fae5d73073e"
       ],
       "recallDays": [
         "2026-07-04",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "sync-log",
@@ -247,13 +249,13 @@
       "endLine": 68,
       "source": "memory",
       "snippet": "5. 2026-07-31 — Bastidores / Prestação de Contas — fechamento Julho Amarelo 6. 2026-07-30 — Assistência Social / CAPS / Melhor em Casa 7. 2026-07-29 — PNI / Vigilância Sanitária / Endemias — prevenção 8. 2026-07-28 — Laboratório / Hepatites Virais — Dia Mundial Prevenção 9. 2026-07-27 — PSF / ACS / Academia — véspera Hepatites 10. 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo 11. 2026-07-23 — Maternidade / Gestantes / Rede de Apoio 12. 2026-07-22 — Vigilância Sanitária / Endemias / PNI 13. 2026-07-21 — Laboratório / CEO / Saúde Bucal 14. 2026-07-20 — PSFs Rurais e Indígenas / ACS 15. 2026-07-17 — Unidade Mista / SAMU / Referências 16. 2026-07-16 — EMULTI / Melhor em Casa 17. 2026-07-15 —",
-      "recallCount": 21,
+      "recallCount": 23,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 11.08052009344101,
+      "totalScore": 11.923045614361763,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-04T14:00:47.862Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T12:50:26.347Z",
       "queryHashes": [
         "e063b6cf4cda",
         "af208cc0c6dc",
@@ -275,7 +277,9 @@
         "8597d63a5115",
         "f460eb39ec23",
         "a1dd62c8d4a3",
-        "bb0f86f752ad"
+        "bb0f86f752ad",
+        "fb8c49ede0c2",
+        "cd1f9570cdde"
       ],
       "recallDays": [
         "2026-07-04",
@@ -369,13 +373,13 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 7,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.7840463012456893,
+      "totalScore": 3.5514381557703016,
       "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-21T09:03:17.931Z",
+      "lastRecalledAt": "2026-07-22T20:18:26.696Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
@@ -383,13 +387,16 @@
         "4f70a3a9855f",
         "d094bc004364",
         "19add55e8324",
-        "e2b8afd00024"
+        "e2b8afd00024",
+        "cd1f9570cdde",
+        "31d96f47476a"
       ],
       "recallDays": [
         "2026-07-04",
         "2026-07-13",
         "2026-07-14",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "samu",
@@ -447,22 +454,24 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "- 2026-07-24 — SAMU / Unidade Mista / Julho Amarelo — chamada para semana final [A iniciar] - 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — O",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.6054551780223845,
+      "totalScore": 2.0204341143369673,
       "maxScore": 0.44284138977527615,
       "firstRecalledAt": "2026-07-04T14:00:47.918Z",
-      "lastRecalledAt": "2026-07-13T13:33:28.488Z",
+      "lastRecalledAt": "2026-07-22T12:50:26.347Z",
       "queryHashes": [
         "ef4dc82b9ee7",
         "af208cc0c6dc",
         "4f70a3a9855f",
-        "d094bc004364"
+        "d094bc004364",
+        "cd1f9570cdde"
       ],
       "recallDays": [
         "2026-07-04",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-22"
       ],
       "conceptTags": [
         "samu",
@@ -717,13 +726,13 @@
       "endLine": 58,
       "source": "memory",
       "snippet": "- 2026-07-08 — PNI / Endemias / Julho Amarelo — vacina, visita e prevenção [A iniciar] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [A iniciar] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 27 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 15,
+      "recallCount": 27,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 7.606382715702057,
+      "totalScore": 12.2787318944931,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-04T14:03:01.117Z",
-      "lastRecalledAt": "2026-07-22T03:39:57.960Z",
+      "lastRecalledAt": "2026-07-22T21:37:05.038Z",
       "queryHashes": [
         "af208cc0c6dc",
         "b2895dd1b2fe",
@@ -739,7 +748,17 @@
         "4095c9bd781c",
         "8597d63a5115",
         "f460eb39ec23",
-        "a1dd62c8d4a3"
+        "a1dd62c8d4a3",
+        "ca42c4a3eca3",
+        "1e16da7014e0",
+        "28034a8784b5",
+        "c649c42a2966",
+        "cfd5f8c9b921",
+        "67536896248f",
+        "40fe70dec341",
+        "1bfcdc26bda2",
+        "ded02ac59dc8",
+        "a752d2bb0036"
       ],
       "recallDays": [
         "2026-07-04",
@@ -858,22 +877,24 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "# 2026-06-22 — Registro de Memória ## Ações e Decisões ### 1. Orquestração de Agentes e Modelos - **Novos Agentes Ativados:** CCO, CMO, CIO, COO, CTO, CFO agora estão configurados com `configured: true`, nomes e prompts apropriados. Eles trabalham como subagentes sob orquestração da Lôh. - **Modelos de IA Atualizados:** - Modelo primário global setado para `openai-codex/gpt-5.5`. - Modelo secundário automático (fallback) configurado como `openrouter/deepseek/deepseek-v4-flash`, garantindo transição suave em caso de limitações do modelo principal. - **Gateway Reiniciado:** Para aplicar as mudanças de modelo e configuração de agentes. ### 2. Validação de Ativos de Marca (Pendente) -",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 4.381352373957634,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T17:08:16.075Z",
-      "lastRecalledAt": "2026-07-21T05:19:07.781Z",
+      "lastRecalledAt": "2026-07-22T16:55:49.301Z",
       "queryHashes": [
         "df7f1efcb4a1",
         "7dc4b708c2f5",
         "e78bcf2f9e66",
-        "7973a3d3e23c"
+        "7973a3d3e23c",
+        "80379aee81d3"
       ],
       "recallDays": [
         "2026-07-10",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "gateway",
@@ -893,13 +914,13 @@
       "endLine": 80,
       "source": "memory",
       "snippet": "| 2026-07-14 | Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão e prevenção | A iniciar | | 2026-07-15 | Endemias / LIRAa / Vigilância — ACE em campo | A iniciar | | 2026-07-16 | EMULTI / Melhor em Casa — cuidado domiciliar e vínculo | A iniciar | | 2026-07-17 | Unidade Mista / SAMU / Referências — orientação de urgência | A iniciar | | 2026-07-20 | PSFs Rurais e Indígenas / ACS — território e proteção | A iniciar | | 2026-07-21 | Laboratório / CEO / Saúde Bucal — exames e hepatites | A iniciar | | 2026-07-22 | Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS | A iniciar | | 2026-07-23 | Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto | A inic",
-      "recallCount": 7,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.9771288216114042,
+      "totalScore": 4.764593920111656,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T17:08:16.075Z",
-      "lastRecalledAt": "2026-07-21T09:03:17.931Z",
+      "lastRecalledAt": "2026-07-22T21:03:21.064Z",
       "queryHashes": [
         "df7f1efcb4a1",
         "7dc4b708c2f5",
@@ -907,12 +928,15 @@
         "6ca29934d5f7",
         "977444e0e34f",
         "d094bc004364",
-        "e2b8afd00024"
+        "e2b8afd00024",
+        "cd1f9570cdde",
+        "816aa436c4e8"
       ],
       "recallDays": [
         "2026-07-10",
         "2026-07-13",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "oftalmologia",
@@ -932,16 +956,17 @@
       "endLine": 30,
       "source": "memory",
       "snippet": "## 02:45 — Backup incremental automático - Script: `backup-github-if-changed.sh` - Resultado: 1 novo arquivo commitado/puahdo - Arquivo: `[F3] PROJETOS/EM ANDAMENTO/DOCUMENTÁRIO O FIO DA MEMÓRIA/2-pesquisas/2026-06-28_sintese_final_pre_roteiro.md` - Commit: `7484101` - Status: sucesso ## 03:15 UTC — CCO: resposta pendente Julho Amarelo - CCO leu pedido de capa para destaque Instagram Julho Amarelo da Saúde São Sebastião. - Gerou rascunhos visuais em PNG/SVG (opção A com texto; opção B ícone limpo) em `\\\\[F2\\\\] memory/outputs/saude-sao-sebastiao/drafts/julho-amarelo-capa-destaque-2026-06-28/`. - Recomendação: usar opção B para destaque fixo por legibilidade em miniatura. - Pendência: inse",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T17:11:31.311Z",
-      "lastRecalledAt": "2026-07-22T03:33:11.232Z",
+      "lastRecalledAt": "2026-07-22T17:57:06.510Z",
       "queryHashes": [
         "7dc4b708c2f5",
-        "7ebef9a39c2c"
+        "7ebef9a39c2c",
+        "a2f14c965938"
       ],
       "recallDays": [
         "2026-07-10",
@@ -965,18 +990,20 @@
       "endLine": 46,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-03 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-03 **Horário:** 13:00 UTC **Duração:** 4s **Status:** ⚠️ PARCIAL — Google Calendar token expirado/revogado ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 27 (todos por token Google inválido) - Total: 27 itens lidos do Notion ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 1 ([TESTE] Pauta 07h) ## Notion (leitura) - ✅ Produção & Agenda (Saúde): 27 itens elegíveis - ✅ Editorial (Saúde): 27 itens elegíveis - Leitura do Notion funcionando normalmente ## Google Calendar - ❌ Token OAuth expirado/revogado (`invalid_grant`) - Refresh",
-      "recallCount": 4,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.7559813797473907,
+      "totalScore": 4.755981379747391,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T17:11:31.311Z",
-      "lastRecalledAt": "2026-07-22T03:50:41.686Z",
+      "lastRecalledAt": "2026-07-22T21:32:27.480Z",
       "queryHashes": [
         "7dc4b708c2f5",
         "f13f055f8dea",
         "9add2e744a73",
-        "97f81a75b1bd"
+        "97f81a75b1bd",
+        "d539096df139",
+        "0fae5d73073e"
       ],
       "recallDays": [
         "2026-07-10",
@@ -1001,13 +1028,13 @@
       "endLine": 49,
       "source": "memory",
       "snippet": "- Revisamos a árvore completa e a hierarquia de comando dos agentes, confirmando a Lôh como orquestradora principal e os C-Levels como seus braços estratégicos. --- **Próximos Passos Sugeridos:** - Revisitar a auditoria de ativos de marca no Drive em um momento oportuno. - Continuar as tarefas delegadas aos agentes recém-ativados (CCO, CMO, etc.). ## 21:30 — Cron: ensure-critical-integrations - Script executado: `ensure-integrations.sh` - Tavily: ✅ restaurado - Notion: ✅ OK - Whisper: ✅ OK - Config: ✅ válida - Resultado: \"integrações reaplicadas\" ## 23:27 UTC — Estado de repouso dos agentes Jadielson solicitou: deixar todos os agentes dormindo, mas de prontidão quando forem requisitado",
-      "recallCount": 8,
+      "recallCount": 14,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 8,
+      "totalScore": 14,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-10T22:38:02.422Z",
-      "lastRecalledAt": "2026-07-21T22:18:44.947Z",
+      "lastRecalledAt": "2026-07-22T20:42:43.398Z",
       "queryHashes": [
         "e78bcf2f9e66",
         "1bd53ec1bf9a",
@@ -1016,11 +1043,18 @@
         "7885995b138e",
         "bbbe8c9c6312",
         "ef25fb2972c4",
-        "f3ab4931c675"
+        "f3ab4931c675",
+        "29276abe98d6",
+        "e7b9fd83030f",
+        "bb65bab26167",
+        "5043cbe917a0",
+        "1208310cfb09",
+        "378e7e4808e2"
       ],
       "recallDays": [
         "2026-07-10",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "c-levels",
@@ -1040,16 +1074,14 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "- [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (IDs antigos de conta anterior) **Resultado:** S",
-      "recallCount": 23,
+      "recallCount": 34,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 21.84494718015194,
+      "totalScore": 32.84494718015194,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-22T03:50:41.686Z",
+      "lastRecalledAt": "2026-07-22T21:33:01.062Z",
       "queryHashes": [
-        "956602bdb011",
-        "92e8c5e6f882",
         "07031c96ba69",
         "410c3b1fe569",
         "fe5b80892e59",
@@ -1070,7 +1102,18 @@
         "f84470eb31a6",
         "bb0f86f752ad",
         "9add2e744a73",
-        "97f81a75b1bd"
+        "97f81a75b1bd",
+        "7b07e524f1fb",
+        "ae7d9b1862b7",
+        "815686d61f08",
+        "29719adbb00d",
+        "8cb5e7b4b14c",
+        "c482ad29d30b",
+        "5043cbe917a0",
+        "1208310cfb09",
+        "cd1f9570cdde",
+        "98fef4837dc4",
+        "ce593430e99f"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1095,21 +1138,25 @@
       "endLine": 125,
       "source": "memory",
       "snippet": "- Reaplicado patch canônico via `openclaw config patch --file /tmp/openclaw-agents-definitive.patch.json`. - Atualizado `scripts/health/ensure-integrations.sh` para incluir trava antirreversão de agentes/modelos. - O próprio script agora força: - 20 agentes em `agents.list`. - modelo primário `openai-codex/gpt-5.5`. - fallbacks `openrouter/deepseek/deepseek-v4-flash` e `openrouter/google/gemini-2.5-flash-lite`. - prompt com precedência operacional da Lôh sobre persona. - Executado `bash scripts/health/ensure-integrations.sh` com sucesso; ele manteve a configuração canônica. - Recarregado Gateway. - `agents_list` confirmou 20 agentes, todos `configured: true`, todos com `openai-codex/",
-      "recallCount": 3,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 6,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-21T20:05:58.631Z",
+      "lastRecalledAt": "2026-07-22T18:26:23.910Z",
       "queryHashes": [
         "956602bdb011",
         "92e8c5e6f882",
-        "cfbbecb2e04c"
+        "cfbbecb2e04c",
+        "5043cbe917a0",
+        "1208310cfb09",
+        "59d4fb505eed"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "gateway",
@@ -1129,16 +1176,18 @@
       "endLine": 139,
       "source": "memory",
       "snippet": "- Desativado cron `ensure-critical-integrations` (`0ff6060b-2c96-4ec9-8d89-b25ba054694a`) porque ele rodava a cada 30 minutos e estava associado às regravações/backs `openclaw.json.bak-ensure-integrations-*`, podendo consolidar padrões antigos. - Reaplicado patch canônico via `openclaw config patch --file /tmp/openclaw-agents-definitive.patch.json`. - Recarregado Gateway. - `ops/verify-agents-config.sh`: OK. - `agents_list`: 20 agentes, todos `configured: true`, todos com `openai-codex/gpt-5.5`. Pendências restantes conhecidas: 1. `ensure-critical-integrations` está DESATIVADO por segurança até ser redesenhado sem risco de reverter config. 2. `daily-brief` teve último run com erro por timeo",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-22T03:34:05.266Z",
+      "lastRecalledAt": "2026-07-22T17:25:55.594Z",
       "queryHashes": [
         "956602bdb011",
-        "f460eb39ec23"
+        "f460eb39ec23",
+        "5043cbe917a0",
+        "1208310cfb09"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1162,18 +1211,20 @@
       "endLine": 90,
       "source": "memory",
       "snippet": "- Critério final: ciência operacional passa a ser garantida pela configuração/prompt ativo validado, não por resposta conversacional do agente, já que a própria falha testada era persona dominante. Validação final: - `jq` em `/data/.openclaw/openclaw.json`: `total: 20`, `bad: []`. - `agents_list`: 20 agentes listados, todos `configured: true`, todos com modelo principal `openai-codex/gpt-5.5`. Status: sem pendências operacionais conhecidas nesta frente. ## Correção antirreversão — configuração persistente dos agentes — 2026-06-26 Foi detectada uma reversão após edição direta de `/data/.openclaw/openclaw.json`: o arquivo retornou para 14 agentes e modelos antigos. Diagnóstico: edição dire",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T01:04:20.343Z",
-      "lastRecalledAt": "2026-07-13T01:04:20.343Z",
+      "lastRecalledAt": "2026-07-22T18:26:23.910Z",
       "queryHashes": [
-        "956602bdb011"
+        "956602bdb011",
+        "59d4fb505eed"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-22"
       ],
       "conceptTags": [
         "gpt",
@@ -1193,21 +1244,23 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.6424363940954207,
-      "maxScore": 0.4311466544866562,
+      "totalScore": 2.6424363940954207,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-13T10:01:54.341Z",
+      "lastRecalledAt": "2026-07-22T13:54:39.660Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
         "da9d843a9a43",
-        "eaf20a0aa54e"
+        "eaf20a0aa54e",
+        "a7937e76fcd0"
       ],
       "recallDays": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-22"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -1227,13 +1280,13 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 8,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.1378655433654785,
-      "maxScore": 0.4311176776885986,
+      "totalScore": 4.512769776582718,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-21T10:01:06.359Z",
+      "lastRecalledAt": "2026-07-22T17:15:03.814Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
@@ -1242,11 +1295,14 @@
         "eaf20a0aa54e",
         "bf953ca7c550",
         "dcabb6eea9b5",
-        "33198ab9f9de"
+        "33198ab9f9de",
+        "a7937e76fcd0",
+        "3f2a35c61d83"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -1266,13 +1322,13 @@
       "endLine": 59,
       "source": "memory",
       "snippet": "- 2026-07-08 — SMS São Sebastião — 08/07/2026 — Quarta [Publicado] - 2026-07-07 — CEO / Laboratório / Oftalmologia — serviços especializados em fluxo [Publicado] - 2026-07-06 — PSFs Urbanos / ACS / Academia — cuidado no território [A iniciar] - 2026-07-03 — SAMU / Unidade Mista / Fluxo de urgência — porta certa do cuidado [A iniciar] - 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Atenção 28 item(ns) com erro — verifique o log do terminal.",
-      "recallCount": 16,
+      "recallCount": 32,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 6.284352007508278,
+      "totalScore": 12.62198435664177,
       "maxScore": 0.42895013391971587,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-21T23:40:02.448Z",
+      "lastRecalledAt": "2026-07-22T21:48:38.137Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
@@ -1289,11 +1345,26 @@
         "19d56fc74c6f",
         "6fedd72217f8",
         "9712615f6b66",
-        "4095c9bd781c"
+        "4095c9bd781c",
+        "ca42c4a3eca3",
+        "1e16da7014e0",
+        "cd1f9570cdde",
+        "28034a8784b5",
+        "c649c42a2966",
+        "cfd5f8c9b921",
+        "67536896248f",
+        "40fe70dec341",
+        "1bfcdc26bda2",
+        "ec114879edc9",
+        "ac9872dbc487",
+        "ded02ac59dc8",
+        "a752d2bb0036",
+        "e4efb87163a4"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "08/07/2026",
@@ -1313,13 +1384,13 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "**Calendário: Calendário Editorial SMS São Sebastião** ## Eventos criados hoje | Data | Evento | |------|--------| | 2026-07-10 | SMS SÃO SEBASTIÃO — 10/07/2026 — SEXTA | | 2026-07-13 | SMS SÃO SEBASTIÃO — 13/07/2026 — SEGUNDA | | 2026-07-14 | SMS SÃO SEBASTIÃO — 14/07/2026 — TERÇA | | 2026-07-15 | SMS SÃO SEBASTIÃO — 15/07/2026 — QUARTA | | +24 outros eventos editoriais | (julho/2026) | ## Recomendação Manter o `gog` como fonte de tokens OAuth para evitar expiração. O script `notion-to-calendar.py` deve ser atualizado para usar `gog` como backend de autenticação em vez de token.json estático, garantindo refresh automático.",
-      "recallCount": 8,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5.115295824332938,
+      "totalScore": 7.115295824332938,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-22T00:00:30.352Z",
+      "lastRecalledAt": "2026-07-22T21:31:33.278Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
@@ -1328,7 +1399,9 @@
         "38fdedec4390",
         "7582568be246",
         "f0b1aa597267",
-        "5b2daef99502"
+        "5b2daef99502",
+        "6af76c480faa",
+        "98fef4837dc4"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1353,23 +1426,25 @@
       "endLine": 53,
       "source": "memory",
       "snippet": "- 2026-07-30 — SMS São Sebastião — 30/07/2026 — Quinta [Aguardando aprovação] - 2026-07-29 — SMS São Sebastião — 29/07/2026 — Quarta [Aguardando aprovação] - 2026-07-28 — SMS São Sebastião — 28/07/2026 — Terça [Aguardando aprovação] - 2026-07-27 — SMS São Sebastião — 27/07/2026 — Segunda [Aguardando aprovação] - 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação]",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.004178380966186,
-      "maxScore": 0.4327557951211929,
+      "totalScore": 3.004178380966186,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-13T09:00:16.604Z",
-      "lastRecalledAt": "2026-07-21T09:01:42.092Z",
+      "lastRecalledAt": "2026-07-22T13:54:39.660Z",
       "queryHashes": [
         "30f7f1dcd098",
         "4af39e19d7b4",
         "da9d843a9a43",
         "eaf20a0aa54e",
-        "710a170b10b8"
+        "710a170b10b8",
+        "a7937e76fcd0"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "30/07/2026",
@@ -1389,13 +1464,13 @@
       "endLine": 55,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 11,
+      "recallCount": 27,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.288141933083534,
+      "totalScore": 10.601131945848467,
       "maxScore": 0.42691875398159024,
       "firstRecalledAt": "2026-07-13T09:00:40.345Z",
-      "lastRecalledAt": "2026-07-21T23:40:02.448Z",
+      "lastRecalledAt": "2026-07-22T21:48:38.137Z",
       "queryHashes": [
         "4af39e19d7b4",
         "da9d843a9a43",
@@ -1407,11 +1482,26 @@
         "a9a838183beb",
         "19d56fc74c6f",
         "9712615f6b66",
-        "4095c9bd781c"
+        "4095c9bd781c",
+        "ca42c4a3eca3",
+        "1e16da7014e0",
+        "28034a8784b5",
+        "c6049953eb59",
+        "c649c42a2966",
+        "cfd5f8c9b921",
+        "40fe70dec341",
+        "1bfcdc26bda2",
+        "0cf156aacf60",
+        "ec114879edc9",
+        "ac9872dbc487",
+        "ded02ac59dc8",
+        "a752d2bb0036",
+        "e4efb87163a4"
       ],
       "recallDays": [
         "2026-07-13",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -1431,13 +1521,13 @@
       "endLine": 42,
       "source": "memory",
       "snippet": "Observação: calendário `logikacreative.mkt@gmail.com` sem eventos no período; `loh.open.logika@gmail.com` retornou `invalid_grant`, indicando pendência técnica de autenticação se for usar essa conta para agenda. ## Correção — Jadielson pediu tarefas/projetos pendentes, não frentes estruturais Após Jadielson corrigir: \"nao. me refiro a tarefas e projetos que estao pendentes\", Jarvis deve responder com lista operacional de tarefas/projetos ativos e não com análise macro da empresa. Lista mais útil/atual para tópico LÓGIKA: - Captação drone 3 localidades: sair 13h; confirmar se é Rancho Alegre/Cana Brava/Tabela, ponto de encontro, transporte, entrega e edição. - MiniDoc Jogos Indígenas Karap",
-      "recallCount": 12,
+      "recallCount": 21,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 6.500875729322434,
+      "totalScore": 13.599550512433053,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T21:34:57.453Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1450,7 +1540,16 @@
         "1ee8b2976ded",
         "5c566fb3635f",
         "dff88e356f79",
-        "bb0f86f752ad"
+        "bb0f86f752ad",
+        "c2f5050dcec4",
+        "a6487687924c",
+        "2d76d7989f30",
+        "da28c1f5a7b3",
+        "157c87518901",
+        "31d96f47476a",
+        "93ec24da51a2",
+        "816aa436c4e8",
+        "8865fb0a4b47"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1476,13 +1575,13 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 13,
+      "recallCount": 21,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 6.906229633092879,
+      "totalScore": 13.03326708972454,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T21:34:57.453Z",
       "queryHashes": [
         "7ec3d0e443a0",
         "6ca29934d5f7",
@@ -1496,7 +1595,15 @@
         "1ee8b2976ded",
         "c8db195c6a50",
         "dff88e356f79",
-        "bb0f86f752ad"
+        "bb0f86f752ad",
+        "a6487687924c",
+        "80379aee81d3",
+        "2d76d7989f30",
+        "da28c1f5a7b3",
+        "157c87518901",
+        "93ec24da51a2",
+        "816aa436c4e8",
+        "8865fb0a4b47"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1522,29 +1629,14 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F2] memory/projects/entre-tempos/2026-06-30_impr",
-      "recallCount": 27,
+      "recallCount": 47,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 22.769166934490205,
+      "totalScore": 36.653555154800415,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T10:01:40.970Z",
-      "lastRecalledAt": "2026-07-22T03:48:19.611Z",
+      "lastRecalledAt": "2026-07-22T21:33:01.062Z",
       "queryHashes": [
-        "7ec3d0e443a0",
-        "6ca29934d5f7",
-        "977444e0e34f",
-        "19add55e8324",
-        "14fa7a3590ab",
-        "07031c96ba69",
-        "a9a838183beb",
-        "410c3b1fe569",
-        "fe5b80892e59",
-        "2346840d0ef7",
-        "dcabb6eea9b5",
-        "f36153b2d4e6",
-        "b9b73287b8ad",
-        "bd8845c10603",
-        "8a20f8ba2453",
         "2e2d91975ce3",
         "8ad8144bfe39",
         "ed289bac559b",
@@ -1556,7 +1648,27 @@
         "98b24d815edc",
         "a12c7b567051",
         "f84470eb31a6",
-        "3fb00b771650"
+        "3fb00b771650",
+        "7b07e524f1fb",
+        "ae7d9b1862b7",
+        "ca42c4a3eca3",
+        "815686d61f08",
+        "29719adbb00d",
+        "653816ab46d7",
+        "e29cdbf3127a",
+        "8cb5e7b4b14c",
+        "28034a8784b5",
+        "c482ad29d30b",
+        "c6049953eb59",
+        "80379aee81d3",
+        "67536896248f",
+        "68edaa7d176c",
+        "0cf156aacf60",
+        "ec114879edc9",
+        "cd1f9570cdde",
+        "ac9872dbc487",
+        "816aa436c4e8",
+        "ce593430e99f"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1720,20 +1832,21 @@
       "endLine": 44,
       "source": "memory",
       "snippet": "- O Fio da Memória: pesquisa pronta; escolher protagonista, confirmar narrador-historiador e migrar para roteiro/captação. - Saúde/SMS: rotina editorial em teste; pautas semanais e demanda pontual da recepção sem atendimento no dia 16 aguardando dados. - JD AutoCenter: checar se ainda existe pendência; se concluído, arquivar como resolvido. - Inbox do Cofre: triar em lote por destino simples. - LÓGIKA marca/comercial: propostas, serviços, identidade visual, leads/Notion/Make seguem como projeto estruturante, não urgência de entrega do dia.",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.371006335158555,
+      "totalScore": 5.371006335158555,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T12:19:44.985Z",
-      "lastRecalledAt": "2026-07-22T05:03:56.391Z",
+      "lastRecalledAt": "2026-07-22T06:25:15.279Z",
       "queryHashes": [
         "6466990bce48",
         "19add55e8324",
         "f4a450a74f5f",
         "df6201100059",
         "6e7ebe0bf9be",
-        "1127629b645e"
+        "1127629b645e",
+        "c2f5050dcec4"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1795,18 +1908,19 @@
       "endLine": 50,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-10 gerado-por: notion-to-calendar revisado: true status: ✅ SUCESSO (após reparo) --- # Sync Notion → Calendar — 2026-07-10 **Horário:** 13:01 UTC → 13:12 UTC (após reparo) **Duração:** ~3s (reparo anexo) ## Resultado Final ### Calendário Editorial - ✅ **Criados:** 28 - 🔄 **Atualizados:** 0 - ⚠️ **Erros:** 0 - **Total:** 28 itens sincronizados do Notion ### Captura Geral - ✅ **Criados:** 1 - 🔄 **Atualizados:** 0 - ⚠️ **Erros:** 0 ## Problema Encontrado e Reparo **Problema:** Token OAuth expirado/revogado (`invalid_grant`) - Token expirou em: 2026-07-07T16:45:00Z - Tentativa de refresh falhou — refresh_token também invalidado - Primeira execução: 28/28",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.1163442717865104,
+      "totalScore": 4.11634427178651,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-13T13:01:14.539Z",
-      "lastRecalledAt": "2026-07-22T03:50:34.933Z",
+      "lastRecalledAt": "2026-07-22T21:31:33.278Z",
       "queryHashes": [
         "38fdedec4390",
         "7582568be246",
         "f0b1aa597267",
-        "9add2e744a73"
+        "9add2e744a73",
+        "98fef4837dc4"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1862,20 +1976,22 @@
       "endLine": 37,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-06 gerado-por: notion-to-calendar revisado: false --- # Sync Notion → Calendar — 2026-07-06 **Horário:** 13:01 **Duração:** 4s ## Calendário Editorial - ✅ Criados: 0 - 🔄 Atualizados: 0 - ⚠️ Erros: 27 - Total: 27 ## Captura Geral - ✅ Criados: 0 - 🔄 Atualizados: 0 ## Itens do Editorial sincronizados - 2026-06-23 — Arraiá do CAPS — convivência, cultura e cuidado em liberdade [A iniciar] - 2026-06-30 — Laboratório / CEO / Espaço Cuidar — fechamento do mês com resolutividade [A iniciar] - 2026-06-24 — Vigilância Sanitária / Endemias — São João com cuidado e prevenção [A iniciar] - 2026-06-23 — Espaço Cuidar / Laboratório / CEO — especialidade com caminho ce",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.1057782918214798,
-      "maxScore": 0.3776778072118759,
+      "totalScore": 1.7605690107179808,
+      "maxScore": 0.654790718896501,
       "firstRecalledAt": "2026-07-14T09:00:33.760Z",
-      "lastRecalledAt": "2026-07-14T10:00:21.168Z",
+      "lastRecalledAt": "2026-07-22T12:30:41.374Z",
       "queryHashes": [
         "20bf8e9349e0",
         "43c2abb00512",
-        "81b875f68955"
+        "81b875f68955",
+        "fb8c49ede0c2"
       ],
       "recallDays": [
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-22"
       ],
       "conceptTags": [
         "sync-log",
@@ -1895,23 +2011,28 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "- 2026-07-23 — Maternidade / Gestantes / Rede de Apoio — cuidado antes e depois do parto [A iniciar] - 2026-07-22 — Vigilância Sanitária / Endemias / PNI — prevenção fora da UBS [A iniciar] - 2026-07-21 — Laboratório / CEO / Saúde Bucal — exames e hepatites [A iniciar] - 2026-07-20 — PSFs Rurais e Indígenas / ACS — território e proteção [A iniciar] - 2026-07-17 — Unidade Mista / SAMU / Referências — orientação de urgência [A iniciar] - 2026-07-16 — EMULTI / Melhor em Casa — cuidado domiciliar e vínculo [A iniciar] - 2026-07-15 — Endemias / LIRAa / Vigilância — ACE em campo [A iniciar] - 2026-07-14 — Oftalmologia / Laboratório / Saúde Bucal — diabetes, visão e prevenção [A iniciar] - 2026-07-",
-      "recallCount": 5,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.5602573186159137,
+      "totalScore": 4.544033050537109,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-14T10:00:21.079Z",
-      "lastRecalledAt": "2026-07-21T23:40:02.448Z",
+      "lastRecalledAt": "2026-07-22T21:37:05.038Z",
       "queryHashes": [
         "19add55e8324",
         "a48157dd8181",
         "9f407761bfdf",
         "223a4218c6dd",
-        "4095c9bd781c"
+        "4095c9bd781c",
+        "1e16da7014e0",
+        "31d96f47476a",
+        "ded02ac59dc8",
+        "a752d2bb0036"
       ],
       "recallDays": [
         "2026-07-14",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "2026-07",
@@ -1962,23 +2083,36 @@
       "endLine": 57,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 6,
+      "recallCount": 20,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.3434027254581453,
+      "totalScore": 7.792946386337281,
       "maxScore": 0.42611785531044005,
       "firstRecalledAt": "2026-07-21T03:48:01.579Z",
-      "lastRecalledAt": "2026-07-21T18:46:35.124Z",
+      "lastRecalledAt": "2026-07-22T21:48:38.137Z",
       "queryHashes": [
         "a48157dd8181",
         "9f407761bfdf",
         "bf953ca7c550",
         "a9a838183beb",
         "19d56fc74c6f",
-        "9712615f6b66"
+        "9712615f6b66",
+        "ca42c4a3eca3",
+        "1e16da7014e0",
+        "c6049953eb59",
+        "c649c42a2966",
+        "cfd5f8c9b921",
+        "40fe70dec341",
+        "1bfcdc26bda2",
+        "0cf156aacf60",
+        "43c1436a9fbb",
+        "ded02ac59dc8",
+        "a752d2bb0036",
+        "e4efb87163a4"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -1998,13 +2132,13 @@
       "endLine": 47,
       "source": "memory",
       "snippet": "# ☀️ Daily Briefing — 18/07/2026 (Sábado) > Gerado por Lôh (Tier 0) | 10:00 UTC / 07:00 BRT > Fonte: Cofre (calendários, memórias diárias, decisões), Tavily (datas sazonais) --- ## 📅 HOJE É SÁBADO — DIA DE DESCANSO E PLANEJAMENTO | Info | Detalhe | |---|---| | **Data** | Sábado, 18 de julho de 2026 | | **Clima operacional** | 🟢 Dia sem pautas fixas de conteúdo — ideal para planejamento | | **Semana corrente** | Semana 3 de julho (encerrada ontem) | | **Fase da lua** | 🌒 Lua Crescente (próximo quarto: 24/07) | --- ## 🗓️ DATAS SAZONAIS DE JULHO ### Em andamento este mês | Data | Evento | Frente | |---|---|---| | Mês todo | 🟡 **Julho Amarelo** — hepatites virais | Saúde/SMS | | Mês",
-      "recallCount": 14,
+      "recallCount": 17,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 12.78818109035492,
+      "totalScore": 15.193128234148025,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:44.962Z",
-      "lastRecalledAt": "2026-07-22T03:34:05.266Z",
+      "lastRecalledAt": "2026-07-22T20:58:22.538Z",
       "queryHashes": [
         "e854a62afc75",
         "6821ee9442b9",
@@ -2016,7 +2150,10 @@
         "33198ab9f9de",
         "749eaf0f9d3a",
         "8597d63a5115",
-        "f460eb39ec23"
+        "f460eb39ec23",
+        "fb8c49ede0c2",
+        "6df75ac44df7",
+        "c2d736523599"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2073,21 +2210,25 @@
       "endLine": 33,
       "source": "memory",
       "snippet": "- Possíveis caminhos de integração registrados: Google Calendar como ponte via gog, export/import Markdown/CSV, API/MCP oficial do xTiles se disponível, ou automação por navegador como última opção. Integração profunda deve passar por Lôh por envolver arquitetura, segurança e autenticação. ## Mission Control / aplicativo - Jadielson enviou prints de referência de dashboard/app e perguntou se seria possível criar um **Mission Control** ou aplicativo nesse estilo. - Parecer: sim, é possível, mas não iniciar app pesado antes de validar. Caminho recomendado: MVP no xTiles → dados estruturados no Cofre → Google Calendar via gog → avaliação técnica por Lôh → possível app próprio. - Blueprint ini",
-      "recallCount": 4,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 7,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:51.437Z",
-      "lastRecalledAt": "2026-07-21T18:37:33.116Z",
+      "lastRecalledAt": "2026-07-22T14:27:54.879Z",
       "queryHashes": [
         "252783da7f2e",
         "5e659b5a6a83",
         "5cd200a05d01",
-        "97a38a9fabf2"
+        "97a38a9fabf2",
+        "fabda48383ab",
+        "926ad24c50d9",
+        "59d68501f776"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "export/import",
@@ -2140,18 +2281,20 @@
       "endLine": 236,
       "source": "memory",
       "snippet": "- Parecer: sim, é possível, mas não iniciar app pesado antes de validar. Caminho recomendado: MVP no xTiles → dados estruturados no Cofre → Google Calendar via gog → avaliação técnica por Lôh → possível app próprio. - Blueprint inicial criado em `[F2] memory/projects/backlog-inteligente/mission-control-blueprint-mvp-v1-2026-07-20.md`. - Pedido para Lôh avaliar arquitetura técnica salvo em `[F2] memory/context/arquitetura/pedido-loh-avaliar-mission-control-backlog-inteligente-2026-07-20.md`. - Templates criados: - `[F2] memory/templates/backlog-inteligente-template-tarefa-v1-2026-07-20.md` - `[F2] memory/templates/backlog-inteligente-painel-1-pagina-v1-2026-07-20.md` - `[F2] memory/temp",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:05:51.437Z",
-      "lastRecalledAt": "2026-07-21T04:05:51.437Z",
+      "lastRecalledAt": "2026-07-22T06:29:40.259Z",
       "queryHashes": [
-        "252783da7f2e"
+        "252783da7f2e",
+        "fabda48383ab"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "memory/temp",
@@ -2171,13 +2314,13 @@
       "endLine": 58,
       "source": "memory",
       "snippet": "- Template salvo em `[F2] memory/context/estudos/backlog-inteligente-template-fatiamento-executivo-v2-2026-07-19.md`. - Essência do comando: assumir o contexto do tópico, desmembrar o todo em partes menores, listar microtarefas executáveis, indicar sequência, próximas ações e checklist final; se faltar informação, assumir hipótese razoável e marcar como “a confirmar”. ## Prioridades iniciais citadas para próximos dias - Jadielson citou gargalos/prioridades para fatiamento e trabalho gradual: 1. **O Fio da Memória** — urgente/atrasado, projeto cultural/documentário; execução detalhada deve ficar no grupo/tópico PROJETOS. 2. **Comunidade 1P** — estudo de IA/automação, dentro de `Profissio",
-      "recallCount": 11,
+      "recallCount": 22,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 10.379371249675751,
+      "totalScore": 21.37937124967575,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:08:24.346Z",
-      "lastRecalledAt": "2026-07-22T05:26:45.646Z",
+      "lastRecalledAt": "2026-07-22T21:34:51.448Z",
       "queryHashes": [
         "dffa53a3ce91",
         "89f6c8128a23",
@@ -2189,7 +2332,17 @@
         "f4dd74810e67",
         "62c40b6d5e0e",
         "2f6b31b03ef1",
-        "62b0efc37002"
+        "62b0efc37002",
+        "f909bc9f0ccd",
+        "1847ee6744db",
+        "26b2a7cc3149",
+        "470c503a304d",
+        "b440f07af0aa",
+        "4b9e172bcf1e",
+        "333a0daee62b",
+        "2acea11f5fec",
+        "9d023ae25973",
+        "dce3c35b4895"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2213,16 +2366,14 @@
       "endLine": 106,
       "source": "memory",
       "snippet": "### 🔴 1. O Fio da Memória — Risco de Prestação de Contas - **Projeto aprovado no PNAB** (Chamamento 01/2024 — São Sebastião/AL) - **Recurso:** R$ 20.000 — recebido ~05/04/2025 (a confirmar) - **Já realizado:** pesquisa, matriz narrativa, argumento V3 aprovado - **Ainda não feito:** gravação, edição, publicação, relatório - **Risco:** edital indica execução até 31/08/2025 (possível atraso de 321 dias) - **Ação urgente:** solicitar à Secretaria de Cultura cópia do Termo de Execução Cultural; confirmar prazo vigente; entrar em modo emergencial de produção - **Status:** Jadielson informou não ter o termo em mãos ### 🟡 2. Disco do servidor em 90% - Uso: 9.0G de 10G (1.1G livres) - Limpeza de 1",
-      "recallCount": 19,
+      "recallCount": 35,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 18.399002560973166,
+      "totalScore": 33.75521598756313,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:08:24.346Z",
-      "lastRecalledAt": "2026-07-22T05:26:45.646Z",
+      "lastRecalledAt": "2026-07-22T21:30:38.485Z",
       "queryHashes": [
-        "dffa53a3ce91",
-        "89f6c8128a23",
         "2de034ee0349",
         "4da57b53f7d0",
         "67025b0deda7",
@@ -2239,7 +2390,22 @@
         "cfcba0086640",
         "62c40b6d5e0e",
         "2f6b31b03ef1",
-        "62b0efc37002"
+        "62b0efc37002",
+        "77e438e07aa0",
+        "f909bc9f0ccd",
+        "00550ae117b9",
+        "9efc49617241",
+        "1847ee6744db",
+        "26b2a7cc3149",
+        "470c503a304d",
+        "b440f07af0aa",
+        "4b9e172bcf1e",
+        "2749341f4646",
+        "333a0daee62b",
+        "2acea11f5fec",
+        "9d023ae25973",
+        "bf5a8bcce0a8",
+        "70ad03e6dee7"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2263,15 +2429,14 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "## 2026-06-26 - **01:12 UTC** — Cron : OK. Tavily ✅ | Notion ✅ | Whisper ✅ | Config ✅ - **01:12 UTC** — Cron ensure-critical-integrations: OK. Tavily ✅ | Notion ✅ | Whisper ✅ | Config ✅ ## 2026-06-26 ### 07:12 UTC — Cron: ensure-integrations ✅ Executado `ensure-integrations.sh`. Resultado: integrações OK — Tavily, Notion, Whisper. Config válida. ## Configuração de C-Levels LÓGIKA — 2026-06-26 - Lôh configurou os agentes C-Level pendentes na lista principal do OpenClaw: `cco`, `cmo`, `coo`, `cto`, `cfo`, `cio`. - Fonte dos prompts: `memory/agents/prompts/{cco,cmo,coo,cto,cfo,cio}-prompt.md`. - Todos receberam regra explícita de consulta obrigatória ao Cofre com fallback por leitura diret",
-      "recallCount": 25,
+      "recallCount": 33,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 25,
+      "totalScore": 33,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:51:13.368Z",
-      "lastRecalledAt": "2026-07-22T04:52:02.830Z",
+      "lastRecalledAt": "2026-07-22T20:56:05.072Z",
       "queryHashes": [
-        "ad80abcdedc8",
         "921e06cc2f9b",
         "6868bcc09d62",
         "30f6bbe8a7ad",
@@ -2295,7 +2460,15 @@
         "79daba7252ab",
         "03e3cce1a4da",
         "2c9088bf5d9b",
-        "548bd7f581ed"
+        "548bd7f581ed",
+        "672348a740da",
+        "050bed52b6d5",
+        "1dfece3b02aa",
+        "5d0bec5ba412",
+        "e76d106ba4bc",
+        "0b079bc420b6",
+        "d7d772385141",
+        "a5dbecdcfe74"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2319,18 +2492,20 @@
       "endLine": 107,
       "source": "memory",
       "snippet": "- Validação de estabilidade após espera confirmou que não houve nova reversão imediata. Trava operacional adicionada: - Snapshot canônico salvo em `memory/config-snapshots/openclaw-config-canonical-agents-2026-06-26.json`. - Auditor local criado em `ops/verify-agents-config.sh` para verificar rapidamente se a configuração voltou ao padrão antigo. Regra operacional: se houver nova alteração em agentes/modelos, usar `openclaw config patch` ou ferramenta Gateway de configuração persistente. Não editar apenas o arquivo direto como método final. ## Fechamento real após nova reversão — blindagem do ensure-integrations — 2026-06-26 Após pergunta de Jadielson \"concluiu?\", uma nova validação most",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T04:51:22.145Z",
-      "lastRecalledAt": "2026-07-21T04:51:22.145Z",
+      "lastRecalledAt": "2026-07-22T14:37:53.000Z",
       "queryHashes": [
-        "92e8c5e6f882"
+        "92e8c5e6f882",
+        "bb65bab26167"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "gateway",
@@ -2350,16 +2525,17 @@
       "endLine": 43,
       "source": "memory",
       "snippet": "Jadielson reportou que, no tópico PROJETOS > ENTRE TEMPOS - Video Clipe, o agente temático tentou convocar o time C-Level para parecer estratégico, mas apenas o CRO aparecia configurado/invocável. Os demais C-Levels apareciam como não configurados: CMO, COO, CFO, CIO, CTO e CCO. ### Diagnóstico - A falha não estava mais relacionada a múltiplos diretórios ou confusão de workspace. - O Cofre oficial permanece consolidado em `/data/.openclaw/workspace/`. - O problema estava na configuração viva do OpenClaw em `/data/.openclaw/openclaw.json`. - Os IDs dos agentes existiam/estavam allowlisted, mas as entradas completas em `agents.list` estavam ausentes ou incompletas, fazendo os agentes aparecer",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:19:07.781Z",
-      "lastRecalledAt": "2026-07-22T03:33:11.232Z",
+      "lastRecalledAt": "2026-07-22T13:36:42.102Z",
       "queryHashes": [
         "7973a3d3e23c",
-        "7ebef9a39c2c"
+        "7ebef9a39c2c",
+        "1dfece3b02aa"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2383,13 +2559,13 @@
       "endLine": 141,
       "source": "memory",
       "snippet": "## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadielson! 🌞*",
-      "recallCount": 20,
+      "recallCount": 29,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 20,
+      "totalScore": 29,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-22T01:49:08.266Z",
+      "lastRecalledAt": "2026-07-22T21:33:01.062Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
@@ -2410,7 +2586,16 @@
         "a2c7a0bd6e2f",
         "98b24d815edc",
         "a12c7b567051",
-        "f84470eb31a6"
+        "f84470eb31a6",
+        "7b07e524f1fb",
+        "ae7d9b1862b7",
+        "815686d61f08",
+        "29719adbb00d",
+        "8cb5e7b4b14c",
+        "c482ad29d30b",
+        "87b0e79517ac",
+        "cd1f9570cdde",
+        "ce593430e99f"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2434,13 +2619,13 @@
       "endLine": 76,
       "source": "memory",
       "snippet": "### 🟡 Calendário Saúde — Semana 4 | Dia | Pilar | Tema | |---|---|---| | **20/07 (seg)** | Atenção Básica | \"Hepatite B tem prevenção: vacina é cuidado\" | | **21/07 (ter)** | Serviços Especializados | \"Sinais que merecem atenção\" | | **22/07 (qua)** | Vigilância/Prevenção | \"Prevenir hepatites também é cuidado diário\" | | **23/07 (qui)** | Rede de Apoio | \"Cuidado sem preconceito\" | | **24/07 (sex)** | Bastidores/Prestação | \"Julho Amarelo em ação\" | > **Status dos drafts:** Semana 4 está marcada como \"Aguardando aprovação\" no Calendar. Pendência: confirmar/liberar pautas com a Secretaria. ### 📸 Entre Tempos — Pré-lançamento | Data | Peça | |---|---| | **21/07 (seg)** | Teaser/post 1:",
-      "recallCount": 23,
+      "recallCount": 32,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 19.8908295750618,
+      "totalScore": 27.609513935446742,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-22T04:01:56.146Z",
+      "lastRecalledAt": "2026-07-22T21:33:01.062Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
@@ -2464,7 +2649,16 @@
         "a2c7a0bd6e2f",
         "f84470eb31a6",
         "7ebef9a39c2c",
-        "fb58250a47a8"
+        "fb58250a47a8",
+        "7b07e524f1fb",
+        "ae7d9b1862b7",
+        "8cb5e7b4b14c",
+        "2b466c704a8c",
+        "c482ad29d30b",
+        "2749341f4646",
+        "68edaa7d176c",
+        "b91aef728fa2",
+        "ce593430e99f"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2488,13 +2682,13 @@
       "endLine": 133,
       "source": "memory",
       "snippet": "- ⏳ Observação de Jadielson: não viu os cards — foram reposicionados para área visível --- ## 🚀 PROJETOS EM ANDAMENTO ### ✅ Entre Tempos — Videoclipe - **Lançamento:** 30/07/2026, 20h - **Pré-lançamento começa:** 21/07 (segunda) - **Status:** plano de lançamento aprovado; peças a produzir - **Pendente:** confirmar canal, texto final, autorizações de uso ### ✅ Jogos Indígenas Karapotó — MiniDoc - **Status:** aguardando Jadielson — já tem proposta aprovada, narrativa em andamento - **Pendente:** cronograma de finalização e entrega ### ✅ Minidocs Assembleia de Deus - **Status:** material captado, precisa organizar por inauguração e criar timeline --- ## 📊 RESUMO DA SEMANA (12-17/07) |",
-      "recallCount": 19,
+      "recallCount": 27,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 18.602020214527585,
+      "totalScore": 25.978164504497983,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:41:38.530Z",
-      "lastRecalledAt": "2026-07-22T01:49:08.266Z",
+      "lastRecalledAt": "2026-07-22T21:11:35.312Z",
       "queryHashes": [
         "07031c96ba69",
         "410c3b1fe569",
@@ -2514,7 +2708,15 @@
         "195db6f577a6",
         "55fb79842d0e",
         "a2c7a0bd6e2f",
-        "f84470eb31a6"
+        "f84470eb31a6",
+        "7b07e524f1fb",
+        "60e49fe183f2",
+        "ae7d9b1862b7",
+        "8cb5e7b4b14c",
+        "d539096df139",
+        "c482ad29d30b",
+        "a6477ab0db5b",
+        "bf5a8bcce0a8"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2538,18 +2740,20 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 4,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5753696262836456,
-      "maxScore": 0.4215509116649627,
+      "totalScore": 2.9410946398973463,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:46:56.061Z",
-      "lastRecalledAt": "2026-07-22T00:01:16.470Z",
+      "lastRecalledAt": "2026-07-22T13:54:39.660Z",
       "queryHashes": [
         "5cba8fd60389",
         "5b2daef99502",
         "a1b547b6abe2",
-        "3a1a6bbae193"
+        "3a1a6bbae193",
+        "653816ab46d7",
+        "a7937e76fcd0"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2573,13 +2777,13 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 7,
+      "recallCount": 11,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.722111117839813,
-      "maxScore": 0.4215509116649627,
+      "totalScore": 4.812844735383988,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:46:56.061Z",
-      "lastRecalledAt": "2026-07-22T00:01:16.470Z",
+      "lastRecalledAt": "2026-07-22T17:15:03.814Z",
       "queryHashes": [
         "5cba8fd60389",
         "710a170b10b8",
@@ -2587,7 +2791,11 @@
         "33198ab9f9de",
         "5b2daef99502",
         "a1b547b6abe2",
-        "3a1a6bbae193"
+        "3a1a6bbae193",
+        "653816ab46d7",
+        "a7937e76fcd0",
+        "ecfabba4b6b4",
+        "3f2a35c61d83"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2611,18 +2819,22 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 1,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.36387118697166443,
-      "maxScore": 0.36387118697166443,
+      "totalScore": 2.1069823622703554,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-21T05:46:56.061Z",
-      "lastRecalledAt": "2026-07-21T05:46:56.061Z",
+      "lastRecalledAt": "2026-07-22T20:51:09.537Z",
       "queryHashes": [
-        "5cba8fd60389"
+        "5cba8fd60389",
+        "653816ab46d7",
+        "a7937e76fcd0",
+        "ac9872dbc487"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -2642,16 +2854,17 @@
       "endLine": 38,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-05 gerado-por: notion-to-calendar revisado: false status: FAILED --- # Sync Notion → Calendar — 2026-07-05 **Horário:** 13:00 UTC **Duração:** ~3s (sync) + tentativas de reauth **Resultado:** ❌ FALHA — Token Google Calendar expirado/revogado ## Problema - O token OAuth do Google Calendar foi revogado (invalid_grant) - O refresh token também foi rejeitado - 27 itens do Calendário Editorial não puderam ser sincronizados - 1 item da Captura Geral não pôde ser sincronizado ## Causa Raiz O token google-calendar-token.json expirou e o refresh_token foi revogado/inválido. A reautenticação via browser automatizado (OpenClaw) é bloqueada pelo Google (detecta como",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 3,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:04:12.713Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T21:32:27.480Z",
       "queryHashes": [
         "f13f055f8dea",
-        "bb0f86f752ad"
+        "bb0f86f752ad",
+        "0fae5d73073e"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2675,16 +2888,17 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "--- tipo: sync-log data: 2026-07-07 gerado-por: notion-to-calendar revisado: true status: erro_token --- # Sync Notion → Calendar — 2026-07-07 **Horário:** 13:01 **Duração:** 3s **Resultado:** ❌ FALHA — token Google Calendar expirado/revogado ## Calendário Editorial - ✅ Itens elegíveis no Notion: 27 (Saúde) - ⚠️ Erros: 27 — todos por `invalid_grant: Token has been expired or revoked.` - ✅ Criados: 0 - 🔄 Atualizados: 0 ## Captura Geral - ⚠️ Erro: 1 item ([TESTE] Pauta 07h) - ✅ Criados: 0 - 🔄 Atualizados: 0 ## Causa O token OAuth do Google Calendar (`/data/.openclaw/workspace/scripts/.secrets/google-calendar-token.json`) expirou e o refresh_token também foi revogado. O script tentou ref",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.3897391855716705,
+      "totalScore": 2.3897391855716705,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:04:12.713Z",
-      "lastRecalledAt": "2026-07-22T03:50:34.933Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "f13f055f8dea",
-        "9add2e744a73"
+        "9add2e744a73",
+        "d539096df139"
       ],
       "recallDays": [
         "2026-07-21",
@@ -2708,19 +2922,22 @@
       "endLine": 32,
       "source": "memory",
       "snippet": "## Jack Lemley — projetos lançados no Miro - A pedido de Jadielson, os projetos oficiais em `[F3] PROJETOS/` foram lançados no board Miro `PROJETOS` (`uXjVJHQQOU4=`). - Resultado: 92 cards criados, 0 erros. - Organização usada: frames/status `EM ANDAMENTO`, `A INICIAR`, `PAUSADO` e demais status com projetos quando houver. - Cada card contém: título do projeto, status e caminho correspondente no Cofre. - Observação: board antigo/documentado `MAPA MENTAL GERAL` (`uXjVJI0-H6E=`) existe, mas esta ação usou o board indicado por Jadielson no tópico: `PROJETOS` (`uXjVJHQQOU4=`). - Jadielson informou que não viu os cards no Miro após a importação. Verificação via API confirmou 92 cards + itens auxi",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:04:12.713Z",
-      "lastRecalledAt": "2026-07-21T17:57:24.312Z",
+      "lastRecalledAt": "2026-07-22T17:56:58.219Z",
       "queryHashes": [
         "f13f055f8dea",
-        "d1026eab636e"
+        "d1026eab636e",
+        "00550ae117b9",
+        "cbc7f8903606"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "frames/status",
@@ -2740,16 +2957,14 @@
       "endLine": 171,
       "source": "memory",
       "snippet": "- CMO e CCO falharam ao serem acionados com erro \"API rate limit reached\" — OpenAI Codex esgotou cota após curadoria 360 (horas de operação contínua, 33 setores, centenas de arquivos). - Diagnóstico completo salvo em `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`. ### Configuração de fallbacks - `agents.defaults.subagents.model` foi configurado com cadeia de 3 níveis: - Plano A: `openai-codex/gpt-5.5` (primário, mais barato) - Plano B: `openrouter/deepseek/deepseek-v4-flash` (fallback se Codex cair) - Plano C: `openrouter/google/gemini-2.5-flash-lite` (último recurso) - Timeout de subagentes aumentado de 180s para 300s para garantir tempo de fallback.",
-      "recallCount": 22,
+      "recallCount": 34,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 22,
+      "totalScore": 34,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T23:37:16.208Z",
+      "lastRecalledAt": "2026-07-22T21:35:09.544Z",
       "queryHashes": [
-        "071607745207",
-        "f76851bdefbc",
         "d6137a2df26d",
         "ab864c3a6607",
         "fe6f6c2fd15b",
@@ -2769,10 +2984,23 @@
         "689839edaa18",
         "49249dc772c3",
         "5f99b5157598",
-        "8c4b9da364a7"
+        "8c4b9da364a7",
+        "7b9b02fce4e8",
+        "ea7f1a18931e",
+        "1dfece3b02aa",
+        "ed6c7e660c7b",
+        "3abbb35e4d21",
+        "97d3f7d444fe",
+        "b69be36ee5f5",
+        "06b0cea3b8aa",
+        "85d9f9d01384",
+        "446e7de3811c",
+        "c0703a91f10f",
+        "346998c6c2af"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "gpt",
@@ -2792,16 +3020,14 @@
       "endLine": 367,
       "source": "memory",
       "snippet": "- CMO e CCO falharam ao serem acionados com erro \"API rate limit reached\" — OpenAI Codex esgotou cota após curadoria 360 (horas de operação contínua, 33 setores, centenas de arquivos). - Diagnóstico completo salvo em `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`. ### Configuração de fallbacks - `agents.defaults.subagents.model` foi configurado com cadeia de 3 níveis: - Plano A: `openai-codex/gpt-5.5` (primário, mais barato) - Plano B: `openrouter/deepseek/deepseek-v4-flash` (fallback se Codex cair) - Plano C: `openrouter/google/gemini-2.5-flash-lite` (último recurso) - Timeout de subagentes aumentado de 180s para 300s para garantir tempo de fallback.",
-      "recallCount": 22,
+      "recallCount": 34,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 22,
+      "totalScore": 34,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T23:37:16.208Z",
+      "lastRecalledAt": "2026-07-22T21:35:09.544Z",
       "queryHashes": [
-        "071607745207",
-        "f76851bdefbc",
         "d6137a2df26d",
         "ab864c3a6607",
         "fe6f6c2fd15b",
@@ -2821,10 +3047,23 @@
         "689839edaa18",
         "49249dc772c3",
         "5f99b5157598",
-        "8c4b9da364a7"
+        "8c4b9da364a7",
+        "7b9b02fce4e8",
+        "ea7f1a18931e",
+        "1dfece3b02aa",
+        "ed6c7e660c7b",
+        "3abbb35e4d21",
+        "97d3f7d444fe",
+        "b69be36ee5f5",
+        "06b0cea3b8aa",
+        "85d9f9d01384",
+        "446e7de3811c",
+        "c0703a91f10f",
+        "346998c6c2af"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "gpt",
@@ -2844,13 +3083,13 @@
       "endLine": 396,
       "source": "memory",
       "snippet": "- Jadielson reportou que o rate limit do Codex continuava bloqueando subagentes consecutivos: CMO passou (2min29s) mas consumiu a cota, CCO depois caiu. - **Causa:** a config de `agents.defaults.subagents.model` estava sumindo após restart do Gateway — não persistia. - **Solução:** config reaplicada e verificada pós-restart: `model` + `runTimeoutSeconds=300` persistiram. - **CCO rodou com sucesso** via OpenRouter DeepSeek: 3min45s, 97.348 tokens, curadoria editorial da Saúde concluída. - **Comprovação:** o fallback funciona. Quando Codex limita, o subagente cai no OpenRouter e executa sem barreira. ## SAÚDE — Grade editorial 6 semanas concluída - Estratégia de produção de conteúdo baseada e",
-      "recallCount": 9,
+      "recallCount": 15,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 9,
+      "totalScore": 15,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T20:28:12.385Z",
+      "lastRecalledAt": "2026-07-22T21:35:09.544Z",
       "queryHashes": [
         "071607745207",
         "f76851bdefbc",
@@ -2860,10 +3099,17 @@
         "13e4cce8b8cb",
         "15ff2c56218f",
         "a53487461884",
-        "f75c2997784b"
+        "f75c2997784b",
+        "7b9b02fce4e8",
+        "b69be36ee5f5",
+        "06b0cea3b8aa",
+        "85d9f9d01384",
+        "c0703a91f10f",
+        "346998c6c2af"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "gateway",
@@ -2883,13 +3129,13 @@
       "endLine": 200,
       "source": "memory",
       "snippet": "- Jadielson reportou que o rate limit do Codex continuava bloqueando subagentes consecutivos: CMO passou (2min29s) mas consumiu a cota, CCO depois caiu. - **Causa:** a config de `agents.defaults.subagents.model` estava sumindo após restart do Gateway — não persistia. - **Solução:** config reaplicada e verificada pós-restart: `model` + `runTimeoutSeconds=300` persistiram. - **CCO rodou com sucesso** via OpenRouter DeepSeek: 3min45s, 97.348 tokens, curadoria editorial da Saúde concluída. - **Comprovação:** o fallback funciona. Quando Codex limita, o subagente cai no OpenRouter e executa sem barreira. ## SAÚDE — Grade editorial 6 semanas concluída - Estratégia de produção de conteúdo baseada e",
-      "recallCount": 9,
+      "recallCount": 14,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 9,
+      "totalScore": 14,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:28:07.476Z",
-      "lastRecalledAt": "2026-07-21T20:28:12.385Z",
+      "lastRecalledAt": "2026-07-22T19:27:25.702Z",
       "queryHashes": [
         "071607745207",
         "f76851bdefbc",
@@ -2899,10 +3145,16 @@
         "13e4cce8b8cb",
         "15ff2c56218f",
         "a53487461884",
-        "f75c2997784b"
+        "f75c2997784b",
+        "7b9b02fce4e8",
+        "b69be36ee5f5",
+        "06b0cea3b8aa",
+        "85d9f9d01384",
+        "c0703a91f10f"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "gateway",
@@ -2989,13 +3241,13 @@
       "endLine": 83,
       "source": "memory",
       "snippet": "- **Resultado**: 272 MB → **166 MB** (**106 MB liberados**, ~11% do disco) ### O que foi feito: - **📤 9 PDFs enviados ao Google Drive** via Zapier 3 (pasta \"workspace archive\" → subpasta \"PDFs\"): receitas/dietas (Plano alimentar, OMEGA 3, PRÉ-TREINO, FRAPPUCINO, SHAKE, SMOOTHIE), Planejamento Alimentar Semanal, Dados Lab SS, SINDSS - **🗑️ Duplicatas removidas**: [F2] vaults/segundo-cerebro-jadielson teve todos os binários removidos (manteve só .md) — ~55 MB liberados - **🗑️ Pasta duplicada removida**: F2-memory/ (antiga, ~21 MB) - **🗑️ 30+ JSONs do Notion** removidos (logs de processo) - **🗑️ JSONs de auditoria do Drive** removidos (~5 MB, já no Drive de origem) - **🗑️ Comprovantes fi",
-      "recallCount": 9,
+      "recallCount": 14,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 9,
+      "totalScore": 13.39195291697979,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T06:58:04.936Z",
-      "lastRecalledAt": "2026-07-21T20:31:07.905Z",
+      "lastRecalledAt": "2026-07-22T21:30:38.485Z",
       "queryHashes": [
         "1bd53ec1bf9a",
         "67025b0deda7",
@@ -3005,10 +3257,16 @@
         "6c58a66f6730",
         "df69e3cb049f",
         "7a767711915d",
-        "cfcba0086640"
+        "cfcba0086640",
+        "77e438e07aa0",
+        "9efc49617241",
+        "43013698bc42",
+        "a6477ab0db5b",
+        "70ad03e6dee7"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "receitas/dietas",
@@ -3059,13 +3317,13 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Publicado] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Publicado] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Publicado] - 2026-07-13 — SMS São Sebastião —",
-      "recallCount": 9,
+      "recallCount": 17,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.489165076613426,
-      "maxScore": 0.42563296854496,
+      "totalScore": 7.074127966165545,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-21T08:16:42.301Z",
-      "lastRecalledAt": "2026-07-22T00:01:16.470Z",
+      "lastRecalledAt": "2026-07-22T19:34:28.181Z",
       "queryHashes": [
         "29abf40cab5e",
         "710a170b10b8",
@@ -3075,7 +3333,15 @@
         "6fedd72217f8",
         "5b2daef99502",
         "a1b547b6abe2",
-        "3a1a6bbae193"
+        "3a1a6bbae193",
+        "a7937e76fcd0",
+        "c649c42a2966",
+        "ecfabba4b6b4",
+        "3f2a35c61d83",
+        "67536896248f",
+        "40fe70dec341",
+        "1bfcdc26bda2",
+        "43c1436a9fbb"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3099,13 +3365,13 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Publicado] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Publicado] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Publicado] - 2026-07-13 — SMS São Sebastião —",
-      "recallCount": 8,
+      "recallCount": 14,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.1360784113407134,
-      "maxScore": 0.4256288170814514,
+      "totalScore": 6.018143433332443,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-21T08:16:42.301Z",
-      "lastRecalledAt": "2026-07-22T00:01:16.470Z",
+      "lastRecalledAt": "2026-07-22T20:03:54.255Z",
       "queryHashes": [
         "29abf40cab5e",
         "710a170b10b8",
@@ -3114,7 +3380,13 @@
         "6fedd72217f8",
         "5b2daef99502",
         "a1b547b6abe2",
-        "3a1a6bbae193"
+        "3a1a6bbae193",
+        "fb8c49ede0c2",
+        "a7937e76fcd0",
+        "ecfabba4b6b4",
+        "3f2a35c61d83",
+        "67536896248f",
+        "40fe70dec341"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3138,13 +3410,13 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Publicado] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Publicado] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Publicado] - 2026-07-13 — SMS São Sebastião —",
-      "recallCount": 9,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.488708499073982,
-      "maxScore": 0.42564342021942136,
+      "totalScore": 5.621428433060646,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-21T08:16:42.301Z",
-      "lastRecalledAt": "2026-07-22T00:01:16.470Z",
+      "lastRecalledAt": "2026-07-22T17:15:03.814Z",
       "queryHashes": [
         "29abf40cab5e",
         "710a170b10b8",
@@ -3154,7 +3426,11 @@
         "6fedd72217f8",
         "5b2daef99502",
         "a1b547b6abe2",
-        "3a1a6bbae193"
+        "3a1a6bbae193",
+        "fb8c49ede0c2",
+        "a7937e76fcd0",
+        "ecfabba4b6b4",
+        "3f2a35c61d83"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3178,20 +3454,22 @@
       "endLine": 260,
       "source": "memory",
       "snippet": "- Observação importante: `memory_search` falhou por erro de embeddings/API key 401; foi usado fallback obrigatório por leitura direta/grep conforme Constituição. Isso precisa ser corrigido depois na camada de embeddings, mas não impede agentes configurados nem crons principais. - Sobre o Conselho: não há evidência de um agente único chamado `conselho`; o conceito operacional permanece representado pelo **C-Level Squad / Conselho estratégico** sob Lôh/Jarvis, acionável por subagentes quando necessário. ## SAÚDE — consulta de pauta do dia - No tópico `SAÚDE - SOCIAL MEDIA`, Jadielson perguntou \"Qual a pauta de hj?\". - Resposta baseada no calendário editorial consolidado: 20/07/2026 — Atenção",
-      "recallCount": 6,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.764894258975983,
+      "totalScore": 6.764894258975983,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T09:03:33.119Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "1524e1944e00",
         "c6abade67ac7",
         "524cf95e9687",
         "a1dd62c8d4a3",
         "0126daa86ed9",
-        "bf8cf318db09"
+        "bf8cf318db09",
+        "60e49fe183f2",
+        "d539096df139"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3215,20 +3493,25 @@
       "endLine": 63,
       "source": "memory",
       "snippet": "- Checagem feita em 2026-07-20: `agents_list` retornou 21 agentes configurados (`configured:true`), incluindo Lôh/main, Jarvis, Alfred, Arca, Warren, C-Level completo (COO, CRO, CMO, CCO, CFO, CAIO, CTO, CIO) e agentes temáticos pessoais. - Scripts de verificação retornaram OK: `ops/verify-agents-config.sh` e `ops/verify-c-level-agents.sh`. - Cron scheduler está ativo: 46 jobs no store, 37 habilitados listados; guardião C-Level `guard-c-level-agents-config` rodando a cada 30 min com último status OK e 0 erros consecutivos. - Observação importante: `memory_search` falhou por erro de embeddings/API key 401; foi usado fallback obrigatório por leitura direta/grep conforme Constituição. Isso prec",
-      "recallCount": 6,
+      "recallCount": 11,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.782243391871452,
+      "totalScore": 9.782243391871452,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T09:03:33.119Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "1524e1944e00",
         "44d9860ebc04",
         "6baa914ad8f0",
         "524cf95e9687",
         "a1dd62c8d4a3",
-        "bf8cf318db09"
+        "bf8cf318db09",
+        "60e49fe183f2",
+        "1b75906d7fe9",
+        "ce5b5140742a",
+        "58d607fffabd",
+        "d539096df139"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3252,13 +3535,13 @@
       "endLine": 292,
       "source": "memory",
       "snippet": "- Nota de ajuste salva em `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-20-ajuste-calendario-servicos-especializados-recepcao-regulacao.md`. ## SAÚDE — auditoria da Estrutura da Secretaria - Jadielson pediu auditoria aprofundada da pasta `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/`. - Primeira passada concluída e salva em `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-07-20-auditoria-estrutura-secretaria-saude.md`. - Achados centrais: divergência de contagem PSF/UBS; Setores Complementares lista 26 setores, mas canônico detalha 20; faltam notas canônicas para Epidemiologia, Gabinete, RH, Almoxarifado, CPD e Procuradoria; há material operaci",
-      "recallCount": 11,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 11,
+      "totalScore": 13,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T09:31:01.962Z",
-      "lastRecalledAt": "2026-07-22T03:31:27.932Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "a5af59f5b980",
         "81ef8db73d60",
@@ -3270,7 +3553,9 @@
         "4d4991dc3c6b",
         "46807d0dd8a6",
         "d3f72e895344",
-        "8efaa1e21b6c"
+        "8efaa1e21b6c",
+        "d8142ce3e5ba",
+        "8bec1c80fdfd"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3294,13 +3579,13 @@
       "endLine": 286,
       "source": "memory",
       "snippet": "- Para segunda-feira `Atenção Básica/Território`, só entra como complemento de fluxo/CTA (\"depois da solicitação na unidade, a regulação organiza o agendamento\"), não como tema principal. ## SAÚDE — calendário atualizado: Recepção/Regulação em Serviços Especializados - Jadielson autorizou incluir a Recepção/Regulação da Secretaria no pilar `Serviços Especializados`. - Calendário operacional F2 atualizado em `[F2] memory/outputs/sms-sao-sebastiao-calendario-editorial-julho-2026-completo-f1-ancorado.md`, seção `21/07 — Terça — Serviços Especializados`. - Ajuste aplicado: serviços agora incluem `Laboratório, Espaço Cuidar, Oftalmologia, CEO/Saúde Bucal e Recepção/Regulação da Secretaria`; Stor",
-      "recallCount": 13,
+      "recallCount": 15,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 13,
+      "totalScore": 15,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T09:31:01.962Z",
-      "lastRecalledAt": "2026-07-22T05:03:56.391Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "a5af59f5b980",
         "7582568be246",
@@ -3314,7 +3599,9 @@
         "46807d0dd8a6",
         "d3f72e895344",
         "8efaa1e21b6c",
-        "1127629b645e"
+        "1127629b645e",
+        "d8142ce3e5ba",
+        "8bec1c80fdfd"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3338,13 +3625,13 @@
       "endLine": 94,
       "source": "memory",
       "snippet": "- Calendário operacional F2 atualizado em `[F2] memory/outputs/sms-sao-sebastiao-calendario-editorial-julho-2026-completo-f1-ancorado.md`, seção `21/07 — Terça — Serviços Especializados`. - Ajuste aplicado: serviços agora incluem `Laboratório, Espaço Cuidar, Oftalmologia, CEO/Saúde Bucal e Recepção/Regulação da Secretaria`; Story 5 virou `Recepção/Regulação da Secretaria — Marcação de Exames`. - Nota de ajuste salva em `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-20-ajuste-calendario-servicos-especializados-recepcao-regulacao.md`. ## SAÚDE — auditoria da Estrutura da Secretaria - Jadielson pediu auditoria aprofundada da pasta `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estru",
-      "recallCount": 13,
+      "recallCount": 15,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 13,
+      "totalScore": 15,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T09:31:01.962Z",
-      "lastRecalledAt": "2026-07-22T05:03:56.391Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "a5af59f5b980",
         "7582568be246",
@@ -3358,7 +3645,9 @@
         "46807d0dd8a6",
         "d3f72e895344",
         "8efaa1e21b6c",
-        "1127629b645e"
+        "1127629b645e",
+        "d8142ce3e5ba",
+        "8bec1c80fdfd"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3382,13 +3671,13 @@
       "endLine": 302,
       "source": "memory",
       "snippet": "- Auditoria ampla primeira versão concluída e salva em `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-07-20-auditoria-ampla-frente-saude-divergencias-duplicatas.md`. - Inventário: 87 pastas internas, 269 arquivos `.md`, 8 arquivos não-md. Achados: 4 grupos de duplicata exata; 12 duplicatas por nome/título provável; 2 duplicatas próximas fortes; divergências PSF/UBS; setores canônicos faltantes; várias pastas operacionais paralelas à estrutura canônica. - Próximo passo recomendado: criar matriz de unificação `pasta/arquivo atual → setor canônico → ação sugerida`, sem mover/excluir nada sem autorização. ## SAÚDE — criação da base F2 otimizada - Jadielson autorizou criar uma estrutur",
-      "recallCount": 11,
+      "recallCount": 12,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 11,
+      "totalScore": 12,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T09:31:01.962Z",
-      "lastRecalledAt": "2026-07-22T03:31:27.932Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "a5af59f5b980",
         "81ef8db73d60",
@@ -3400,7 +3689,8 @@
         "4d4991dc3c6b",
         "46807d0dd8a6",
         "d3f72e895344",
-        "8efaa1e21b6c"
+        "8efaa1e21b6c",
+        "8bec1c80fdfd"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3424,13 +3714,13 @@
       "endLine": 106,
       "source": "memory",
       "snippet": "- Próximo passo recomendado: criar matriz de unificação `pasta/arquivo atual → setor canônico → ação sugerida`, sem mover/excluir nada sem autorização. ## SAÚDE — criação da base F2 otimizada - Jadielson autorizou criar uma estrutura otimizada em `[F2] memory/saude-sao-sebastiao/` para reduzir confusão dos agentes e facilitar consulta. - Decisões fixadas: `UBS/postinhos = 28`; `PSF/equipes = 17`; linguagem pública deve preferir `UBS`, `postinho` e `unidade de saúde`, explicando PSF apenas quando necessário; setores complementares devem ser completos, incluindo gestão/bastidores, salvo duplicata/redundância. - Estrutura criada com README, mapa operacional, matriz de setores/pilares/fontes, m",
-      "recallCount": 12,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 12,
+      "totalScore": 13,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T09:31:01.962Z",
-      "lastRecalledAt": "2026-07-22T05:03:56.391Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "a5af59f5b980",
         "81ef8db73d60",
@@ -3443,7 +3733,8 @@
         "46807d0dd8a6",
         "d3f72e895344",
         "8efaa1e21b6c",
-        "1127629b645e"
+        "1127629b645e",
+        "8bec1c80fdfd"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3529,13 +3820,13 @@
       "endLine": 142,
       "source": "memory",
       "snippet": "- **Pré-lançamento:** começou ontem (20/07) — HOJE é Teaser 1 - **CCO produziu:** pacote criativo com 11 documentos - **Pendente:** confirmar canal, texto final, autorizações de uso de imagem ### ✅ Mission Control — Painel HTML - ✅ Mockup criado com 6 abas, drag & drop, tema black piano - ✅ PRD salvo em `[F2] memory/projects/mission-control-prd.md` - ⏳ **Aguardando feedback de Jadielson** sobre a interatividade - ⏳ Fase 2 (dados reais do Cofre) e Fase 3 (APIs externas) — paradas ### ✅ Backlog Inteligente + Método TDAH - ✅ Consolidação v3 e v4 operacional salvas - ✅ Parecer integrado: Backlog Inteligente + ebook TDAH + 5 bônus - ✅ Direção: criar Backlog Inteligente v5 — Execução TDAH - ✅ Te",
-      "recallCount": 7,
+      "recallCount": 17,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 7,
+      "totalScore": 17,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:15:21.145Z",
-      "lastRecalledAt": "2026-07-22T05:26:45.646Z",
+      "lastRecalledAt": "2026-07-22T20:57:48.589Z",
       "queryHashes": [
         "5a87f8161517",
         "f5920199450c",
@@ -3543,7 +3834,16 @@
         "f4dd74810e67",
         "62c40b6d5e0e",
         "2f6b31b03ef1",
-        "62b0efc37002"
+        "62b0efc37002",
+        "f909bc9f0ccd",
+        "1847ee6744db",
+        "26b2a7cc3149",
+        "470c503a304d",
+        "b440f07af0aa",
+        "4b9e172bcf1e",
+        "333a0daee62b",
+        "2acea11f5fec",
+        "9d023ae25973"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3567,20 +3867,23 @@
       "endLine": 23,
       "source": "memory",
       "snippet": "## Decisão: Miro exclusivo para Projetos (Jack) — 18/07/2026 ### Decisão tomada O Miro passa a ser **exclusivo para o GRUPO PROJETOS** ([F3]), sob gestão do **Jack Lemley**. Apenas Jack e seus tópicos utilizam a integração. ### O que foi feito - ❌ Cards de exemplo removidos do board (eram de sistemas/ecossistema) - ✅ Documentação criada em `[F3] PROJETOS/_miro-integration.md` - ✅ Script `scripts/miro.py` atualizado com aviso de uso restrito - ✅ Board \"MAPA MENTAL GERAL\" (ID: `uXjVJI0-H6E=`) limpo e pronto para o Jack ### Regras 1. Miro é para **projetos** — planejamento visual, cronogramas, marcos, entregas 2. Apenas **Jack Lemley** opera o Miro 3. Conteúdo do Cofre ([F3] PROJETOS/) deve",
-      "recallCount": 3,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:36:51.521Z",
-      "lastRecalledAt": "2026-07-21T17:57:24.312Z",
+      "lastRecalledAt": "2026-07-22T17:56:58.219Z",
       "queryHashes": [
         "7885995b138e",
         "ceec55c65640",
-        "d1026eab636e"
+        "d1026eab636e",
+        "00550ae117b9",
+        "cbc7f8903606"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "18/07/2026",
@@ -3600,23 +3903,29 @@
       "endLine": 86,
       "source": "memory",
       "snippet": "**⚠️ Nota de correção de calendário:** Dias da semana estavam trocados nos planos anteriores. O correto é: - **Ontem 20/07 (seg)** — ✅ Post silêncio estratégico / \"Vem aí\" (deveria ter sido publicado) - **HOJE 21/07 (ter)** — 🎬 **Teaser 1 — Mistério (15-20s)** — YouTube + Instagram - **22/07 (qua)** — Fotos antigas + atuais — memória e cidade - **24/07 (sex)** — Depoimento 1 Cantor(a) (30-45s) - **26/07 (dom)** — Bastidores + Depoimento 2 - **28/07 (ter)** — Trailer oficial (45-60s) - **29/07 (qua)** — Contagem regressiva - **30/07 (qui)** — 🚀 **LANÇAMENTO OFICIAL 20h** **CCO produziu:** pacote criativo completo (`06-pacote-criativo-entre-tempos-aquecimento-fase1.md`) com conceito central",
-      "recallCount": 6,
+      "recallCount": 11,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 6,
+      "totalScore": 11,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:38:11.919Z",
-      "lastRecalledAt": "2026-07-21T20:31:07.905Z",
+      "lastRecalledAt": "2026-07-22T21:30:38.485Z",
       "queryHashes": [
         "dc65f7d1bc66",
         "a8bf2d5d9277",
         "6c58a66f6730",
         "df69e3cb049f",
         "7a767711915d",
-        "cfcba0086640"
+        "cfcba0086640",
+        "77e438e07aa0",
+        "9efc49617241",
+        "e7b9fd83030f",
+        "bf5a8bcce0a8",
+        "70ad03e6dee7"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "20/07",
@@ -3636,22 +3945,28 @@
       "endLine": 114,
       "source": "memory",
       "snippet": "- **Bloqueado:** Zapier sem tasks (plano gratuito) para executar ações no Notion - **Fase 1 pendente:** re-compartilhar bases oficiais com Loh-bot no Notion (UI manual) - **Fase 2 pendente:** criar Central LÓGIKA — Mapa Operacional - **Fase 4 pendente:** arquivar 95 templates duplicados + 24 bases frias ### 🟡 3. Google/gog — Não Autenticado - Conta Lôh (loh.open.logika@gmail.com) não autenticada no gog - GOG_KEYRING_PASSWORD sem env var configurada - Shell incompatível com `source` - ⏳ Pendente de configuração ### 🟡 4. Zapier Residual — 3 MCPs ainda ativos - Decisão de Jadielson: Google não usa mais Zapier, caminho oficial é gog - Mas 3 MCPs Zapier (zapier-1, zapier-3, zapier-youtube) ai",
-      "recallCount": 5,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5,
+      "totalScore": 10,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:38:11.919Z",
-      "lastRecalledAt": "2026-07-21T20:31:07.905Z",
+      "lastRecalledAt": "2026-07-22T21:30:38.485Z",
       "queryHashes": [
         "dc65f7d1bc66",
         "a8bf2d5d9277",
         "6c58a66f6730",
         "7a767711915d",
-        "cfcba0086640"
+        "cfcba0086640",
+        "77e438e07aa0",
+        "9efc49617241",
+        "6af76c480faa",
+        "bf5a8bcce0a8",
+        "70ad03e6dee7"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "re-compartilhar",
@@ -3671,19 +3986,24 @@
       "endLine": 49,
       "source": "memory",
       "snippet": "- ✅ Mission Control (CRM Lógika, snapshot diário) - ✅ Cron jobs Gateway (39 ativos, todos OK) - ⚠️ gog (Google) — Conta Lôh não autenticada; GOG_KEYRING_PASSWORD sem env var; shell incompatível com `source` - 🔴 memory_search (OpenAI embeddings) — Chave inválida (401) - 🔴 Zapier — Removido por decisão, mas 3 MCPs ainda residuais como ferramentas - 🔴 Arquivo de decisão Zapier (2026-07-20-remocao-total-zapier-gog-oficial.md) — vazio (0 bytes) ## Discussão OpenAI Key Jadielson perguntou se a chave OpenAI gera custos. Esclarecido que: - A chave quebrada (401) é para embeddings, NÃO para o modelo principal (Codex gpt-5.5) - Codex usa OAuth separado, independente dessa chave - Embeddings (text",
-      "recallCount": 5,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5,
+      "totalScore": 9.56288754954959,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:50:04.829Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T16:47:06.421Z",
       "queryHashes": [
         "d23a75b566a0",
         "855dcb60c65b",
         "97a38a9fabf2",
         "0126daa86ed9",
-        "bb0f86f752ad"
+        "bb0f86f752ad",
+        "fabda48383ab",
+        "926ad24c50d9",
+        "6af76c480faa",
+        "59d68501f776",
+        "05f4c5fe3bf3"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3707,18 +4027,22 @@
       "endLine": 25,
       "source": "memory",
       "snippet": "- Parecer integrado salvo em `[F2] memory/context/estudos/backlog-inteligente-parecer-geral-integrado-2026-07-19.md`: **Backlog Inteligente = clareza/estrutura; ebook TDAH = diagnóstico/mentalidade; bônus TDAH = ativação/execução; xTiles = painel visual; Google Calendar = tempo; Cofre = memória; Central = inteligência**. - Direção recomendada: criar **Backlog Inteligente v5 — Execução TDAH**, incorporando protocolo de 10 minutos, ritual diário `Ativação → Execução → Controle → Resultado`, campo `padrão de trava`, regra 70%, painel 1 página e template visual para xTiles. ## xTiles e autoalimentação - Jadielson demonstrou interesse forte pelo **xTiles**, vendo-o como parecido com Notion, por",
-      "recallCount": 4,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 8,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:50:04.829Z",
-      "lastRecalledAt": "2026-07-22T03:31:32.488Z",
+      "lastRecalledAt": "2026-07-22T16:15:21.917Z",
       "queryHashes": [
         "d23a75b566a0",
         "98a06b09791e",
         "88517c57b024",
-        "d24c75021ad9"
+        "d24c75021ad9",
+        "b76a66020d4d",
+        "740e0f81dd80",
+        "0abbcce4d5c0",
+        "e68b6367a47f"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3742,18 +4066,20 @@
       "endLine": 223,
       "source": "memory",
       "snippet": "- Direção recomendada: criar **Backlog Inteligente v5 — Execução TDAH**, incorporando protocolo de 10 minutos, ritual diário `Ativação → Execução → Controle → Resultado`, campo `padrão de trava`, regra 70%, painel 1 página e template visual para xTiles. ## xTiles e autoalimentação - Jadielson demonstrou interesse forte pelo **xTiles**, vendo-o como parecido com Notion, porém mais personalizável e inclusivo. Já possui muita coisa no xTiles. - Problema identificado por Jadielson: não quer alimentar dois lugares. Regra de arquitetura proposta: **xTiles = cockpit visual/operacional humano; Cofre = fonte de verdade histórica/método/memória; Google Calendar = camada de tempo; Central/Agentes = i",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:50:04.829Z",
-      "lastRecalledAt": "2026-07-21T10:50:04.829Z",
+      "lastRecalledAt": "2026-07-22T13:36:14.724Z",
       "queryHashes": [
-        "d23a75b566a0"
+        "d23a75b566a0",
+        "740e0f81dd80"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "vendo-o",
@@ -3773,18 +4099,29 @@
       "endLine": 124,
       "source": "memory",
       "snippet": "- Com `SOUL.md`, `IDENTITY.md`, `USER.md`, `MEMORY.md`, `MAPA.md` e memórias diárias já consolidados, ele não é necessário. - `AGENTS.md` foi atualizado para deixar explícito que agentes/subagentes não dependem do bootstrap e devem carregar a identidade pelos arquivos centrais. ## Google via Zapier removido — `gog` oficial reforçado Jadielson pediu para remover os MCPs Google do Zapier porque o acesso Google deve ser feito via `gog`, que é melhor e já está estruturado. Ações executadas: - Zapier principal: removido Google Drive; permaneceu Notion habilitado. - Zapier secundário: removidos Google Drive, Google Sheets e Google Calendar; ficou sem apps habilitados. - Zapier YouTube: removido",
-      "recallCount": 1,
+      "recallCount": 11,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 7.285868072509766,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:50:33.313Z",
-      "lastRecalledAt": "2026-07-21T10:50:33.313Z",
+      "lastRecalledAt": "2026-07-22T21:34:51.448Z",
       "queryHashes": [
-        "855dcb60c65b"
+        "855dcb60c65b",
+        "43013698bc42",
+        "6af76c480faa",
+        "a5f6ac4eb20a",
+        "cf68eff4a459",
+        "6e78cadda1d8",
+        "7cbe10f8de89",
+        "7c32b40b2525",
+        "d7a49b88111a",
+        "2eb097a53499",
+        "dce3c35b4895"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "soul.md",
@@ -3804,21 +4141,23 @@
       "endLine": 113,
       "source": "memory",
       "snippet": "- Fonte: `IDENTITY.md`, `SOUL.md`, `USER.md`, `MEMORY.md` Correção operacional: não tratar Jadielson como primeira interação genérica quando o Cofre já contém identidade consolidada. Reconhecer a falha, assumir a identidade Lôh e seguir o protocolo Cofre/Tavily/registro. ## BOOTSTRAP.md removido — evitar confusão de identidade Jadielson autorizou/remeteu a remoção do `BOOTSTRAP.md` porque ele estava causando confusão na Lôh e em subagentes, fazendo respostas tratarem o workspace como primeiro nascimento apesar de a identidade já estar consolidada. Ação executada: - Backup preservado em `[F2] archive/bootstrap/BOOTSTRAP.removido-2026-07-14.md`. - Arquivo raiz `BOOTSTRAP.md` removido. Reg",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:59:44.960Z",
-      "lastRecalledAt": "2026-07-21T22:00:00.573Z",
+      "lastRecalledAt": "2026-07-22T12:10:49.139Z",
       "queryHashes": [
         "77ffcdd2aad0",
         "2aa35c017939",
         "803ff7208ad7",
-        "d3d20d28ff72"
+        "d3d20d28ff72",
+        "4a21fdd49546"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "backup",
@@ -3838,19 +4177,20 @@
       "endLine": 94,
       "source": "memory",
       "snippet": "Jadielson informou que, na aula “como fazer post no Instagram automaticamente”, conheceu a plataforma **Nuelink**, que permite conectar redes sociais e fazer/agendar posts por lá, semelhante ao mLabs. Decisão atual: não aderir agora, pois ainda não existe demanda suficiente. Lembrete futuro: relembrar Nuelink quando Jadielson estiver avaliando automação de posts, aumento de demanda de social media, alternativa ao mLabs ou estruturação de processos de postagem para projetos pessoais/LÓGIKA. Arquivos criados/atualizados: - `[F1] ESTUDOS/EM ANDAMENTO/COMUNIDADE 1P/02_AULAS/2026-07-14_como-fazer-post-instagram-automaticamente.md` - `[F1] ESTUDOS/EM ANDAMENTO/COMUNIDADE 1P/03_RESUMOS_E_NOTAS/f",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5,
+      "totalScore": 6,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T10:59:44.960Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T12:10:49.139Z",
       "queryHashes": [
         "77ffcdd2aad0",
         "2aa35c017939",
         "803ff7208ad7",
         "d3d20d28ff72",
-        "bf8cf318db09"
+        "bf8cf318db09",
+        "4a21fdd49546"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3907,20 +4247,24 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "- Direção registrada: **PROJETOS** e **ESTUDOS** não devem ser agentes únicos, mas sim **macrogrupos/ambientes de trabalho** dentro da Central Pessoal, coordenados por **Alfred** e com apoio da **Arca** para memória/conhecimento. - **PROJETOS** deve funcionar como sala operacional para projetos pessoais/autorais de Jadielson, com tópicos por projeto e acionamento pontual de especialistas conforme necessidade. - **ESTUDOS** deve funcionar como sala de aprendizagem, cursos, leituras e métodos, com tópicos por curso/tema e produção de sínteses, fichamentos, templates e aplicação prática. - Lôh mantém autoridade transversal quando algum projeto/estudo impactar empresa, clientes, arquitetura do e",
-      "recallCount": 3,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 6,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T17:06:59.299Z",
-      "lastRecalledAt": "2026-07-21T22:05:01.185Z",
+      "lastRecalledAt": "2026-07-22T13:09:10.615Z",
       "queryHashes": [
         "77f93758c4d5",
         "44d9860ebc04",
-        "6baa914ad8f0"
+        "6baa914ad8f0",
+        "1b75906d7fe9",
+        "ce5b5140742a",
+        "58d607fffabd"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "macrogrupos/ambientes",
@@ -3940,18 +4284,24 @@
       "endLine": 45,
       "source": "memory",
       "snippet": "- `[F2] memory/templates/backlog-inteligente-revisao-semanal-v1-2026-07-20.md` - Correção importante de Jadielson: os prints não são apenas matrizes; representam um sistema de organização de **projetos, subprojetos e tarefas**. Conceito corrigido salvo em `[F2] memory/context/estudos/backlog-inteligente-prints-projetos-subprojetos-tarefas-2026-07-20.md`. - Núcleo do Mission Control deve ser hierárquico: `Área/Tema → Projeto → Subprojeto → Tarefa → Subtarefa/Próxima ação`. Matrizes Eisenhower e Esforço x Impacto são apenas visualizações decisórias. ## Próximo passo prático recomendado - Montar primeiro o **Mission Control v0 no xTiles** com estrutura mínima: Inbox, Hoje, Amanhã, Semana, A",
-      "recallCount": 4,
+      "recallCount": 10,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 10,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T17:21:09.551Z",
-      "lastRecalledAt": "2026-07-22T05:47:24.637Z",
+      "lastRecalledAt": "2026-07-22T21:34:57.453Z",
       "queryHashes": [
         "ceec55c65640",
         "d1026eab636e",
         "dff88e356f79",
-        "d1f2bcc7e5c9"
+        "d1f2bcc7e5c9",
+        "a6487687924c",
+        "da28c1f5a7b3",
+        "cbc7f8903606",
+        "157c87518901",
+        "93ec24da51a2",
+        "8865fb0a4b47"
       ],
       "recallDays": [
         "2026-07-21",
@@ -3975,18 +4325,21 @@
       "endLine": 178,
       "source": "memory",
       "snippet": "- [ ] **Fio da Memória:** Solicitar Termo de Execução Cultural à Secretaria - [ ] **xTiles:** Montar Mission Control v0 e testar por 7 dias --- ## 📊 CRONOGRAMA DA SEMANA (20-24/07) | Dia | Pilar Saúde | Entre Tempos | |---|---|---| | **Seg 20/07** | Atenção Básica — Hepatite B | ✅ Post \"Vem aí\" (silêncio estratégico) | | **Ter 21/07 (hoje)** | 🟡 Serviços Especializados — Sinais | 🎬 **Teaser 1 — Mistério** | | **Qua 22/07** | Vigilância/Prevenção — Hepatites | Fotos antigas + atuais | | **Qui 23/07** | Rede de Apoio — Cuidado sem preconceito | Bastidores — equipe/gravação | | **Sex 24/07** | Bastidores — Julho Amarelo em ação | Depoimento 1 Cantor(a) | --- > 💡 **Dica do dia:** Semana",
-      "recallCount": 4,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 6.3759167939424515,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T18:05:25.795Z",
-      "lastRecalledAt": "2026-07-22T05:03:56.391Z",
+      "lastRecalledAt": "2026-07-22T16:48:00.234Z",
       "queryHashes": [
         "e8d3ee8afc65",
         "7ebef9a39c2c",
         "fb58250a47a8",
-        "1127629b645e"
+        "1127629b645e",
+        "2b466c704a8c",
+        "ee3773ed0ae7",
+        "2749341f4646"
       ],
       "recallDays": [
         "2026-07-21",
@@ -4010,17 +4363,23 @@
       "endLine": 30,
       "source": "memory",
       "snippet": "# 2026-07-21 — Memória Durable ## SAÚDE — Pauta do dia 21/07 (Terça) enviada ao time - Lembrete automático da Lôh acionado às 07:00 BRT / 10:00 UTC. - Calendário consultado: `[F1] Calendário Editorial - Matriz 360 - SAÚDE.md` - **Pilar:** Serviços Especializados - **Tema:** Cuidado que vai além - **Setores:** Espaço Cuidar → Laboratório + 💛 Hepatites → CEO → Regulação → Odontomóvel - **Feed:** Carrossel (6 lâminas) — \"Cuidado especializado e prevenção caminham juntos\" - **Enquete:** \"Sabia que o Odontomóvel vai até sua comunidade?\" - **Enviado ao:** Tópico SAÚDE - SOCIAL MEDIA (topic_id: 3672) no grupo LÓGIKA, message_id: 7779 - **Status:** ✅ Entregue ## Auditoria de Integrações **Contex",
-      "recallCount": 3,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.4023465126752854,
+      "totalScore": 7.843872197706805,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T18:37:33.116Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T16:46:59.766Z",
       "queryHashes": [
         "97a38a9fabf2",
         "a1dd62c8d4a3",
-        "bf8cf318db09"
+        "bf8cf318db09",
+        "fabda48383ab",
+        "60e49fe183f2",
+        "926ad24c50d9",
+        "d539096df139",
+        "59d68501f776",
+        "0da4955cbcb9"
       ],
       "recallDays": [
         "2026-07-21",
@@ -4044,18 +4403,22 @@
       "endLine": 168,
       "source": "memory",
       "snippet": "- Material captado, precisa organizar por inauguração e criar timeline --- ## 🔧 INFRA & SISTEMA | Item | Status | |---|---| | **Disco** | 🟢 73% (2.8G livres) — 1.7G recuperados desde 16/07 | | **Cron jobs** | 🟢 39 ativos, todos OK, guardião C-Level a cada 30min | | **Agentes C-Level** | 🟢 Fallbacks configurados (Codex → DeepSeek → Gemini) | | **Memory search** | 🔴 Embeddings quebrados (401) — fallback por leitura direta | | **GitHub backup** | 🟢 Workspace a cada 30min | | **gog (Google)** | 🔴 Conta Lôh não autenticada | | **Zapier** | 🟡 3 MCPs residuais ainda como ferramentas | --- ## 📌 LEMBRETES RÁPIDOS - [ ] **Saúde (hoje):** Produzir 5 stories + carrossel — Serviços Especia",
-      "recallCount": 4,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 8,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T18:37:33.116Z",
-      "lastRecalledAt": "2026-07-22T04:01:56.146Z",
+      "lastRecalledAt": "2026-07-22T14:27:54.879Z",
       "queryHashes": [
         "97a38a9fabf2",
         "7ebef9a39c2c",
         "0126daa86ed9",
-        "fb58250a47a8"
+        "fb58250a47a8",
+        "fabda48383ab",
+        "2b466c704a8c",
+        "ee3773ed0ae7",
+        "59d68501f776"
       ],
       "recallDays": [
         "2026-07-21",
@@ -4079,19 +4442,23 @@
       "endLine": 68,
       "source": "memory",
       "snippet": "- Resposta baseada no calendário editorial consolidado: 20/07/2026 — Atenção Básica/Território; tema “hepatite B tem prevenção”; serviços PSF Rancho Alegre, PSF Cana Brava, PSF Curralinho, ACS e Academia de Saúde; entregáveis: 5 stories + reel + post/feed; atenção a validação SMS/LGPD. ## SAÚDE — correção da pauta 20/07 e recepção da Secretaria - Jadielson observou que a pauta sugerida para 20/07 parecia com a da semana anterior. - Revisão confirmou duplicidade/risco de repetição: a versão consolidada com Rancho Alegre/Cana Brava/Curralinho/ACS repetia elementos de 13/07 e 17/07; a versão F1 completa aponta 20/07 como `Vacina contra hepatite B: proteção em todas as fases da vida`, com PNI e",
-      "recallCount": 2,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 4.3512087017297745,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T20:25:58.264Z",
-      "lastRecalledAt": "2026-07-21T21:56:05.199Z",
+      "lastRecalledAt": "2026-07-22T17:11:08.314Z",
       "queryHashes": [
         "c6abade67ac7",
-        "eac0c453f30d"
+        "eac0c453f30d",
+        "60e49fe183f2",
+        "d539096df139",
+        "ecfabba4b6b4"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "20/07/2026",
@@ -4111,18 +4478,20 @@
       "endLine": 44,
       "source": "memory",
       "snippet": "# ☀️ Daily Briefing — 21/07/2026 (Terça-feira) > Gerado por Lôh (Tier 0) | 10:00 UTC / 07:00 BRT > Fonte: Cofre (MEMORY.md, daily-briefs/, decisões, calendários, outputs), Tavily (datas sazonais) --- ## 📅 HOJE É TERÇA-FEIRA — DIA OPERACIONAL CHEIO | Info | Detalhe | |---|---| | **Data** | Terça-feira, 21 de julho de 2026 | | **Clima operacional** | 🟢 Dia de Serviços Especializados (Saúde) + início oficial do pré-lançamento Entre Tempos | | **Semana corrente** | Semana 4 de julho | | **Disco** | 🟢 73% (2.8G livres) — melhorou da semana passada (90%) | | **Fase da lua** | 🌒 Lua Crescente (quarto crescente em 24/07) | --- ## 🗓️ DATAS SAZONAIS DE JULHO ### Em andamento | Período | Ev",
-      "recallCount": 5,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5,
+      "totalScore": 6.359138330817222,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T21:31:24.397Z",
-      "lastRecalledAt": "2026-07-22T03:34:05.266Z",
+      "lastRecalledAt": "2026-07-22T21:07:40.587Z",
       "queryHashes": [
         "0fa32ba7a9de",
         "8597d63a5115",
         "7ebef9a39c2c",
-        "f460eb39ec23"
+        "f460eb39ec23",
+        "8bec1c80fdfd",
+        "2910995ed076"
       ],
       "recallDays": [
         "2026-07-21",
@@ -4146,19 +4515,25 @@
       "endLine": 254,
       "source": "memory",
       "snippet": "- **ESTUDOS** deve funcionar como sala de aprendizagem, cursos, leituras e métodos, com tópicos por curso/tema e produção de sínteses, fichamentos, templates e aplicação prática. - Lôh mantém autoridade transversal quando algum projeto/estudo impactar empresa, clientes, arquitetura do ecossistema, automações, risco ou decisão estratégica. ## Checagem rápida — agentes, crons e Conselho - Jadielson perguntou se todos os agentes estão rodando bem e se o **Conselho** ainda existe. - Checagem feita em 2026-07-20: `agents_list` retornou 21 agentes configurados (`configured:true`), incluindo Lôh/main, Jarvis, Alfred, Arca, Warren, C-Level completo (COO, CRO, CMO, CCO, CFO, CAIO, CTO, CIO) e agent",
-      "recallCount": 2,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 7,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T22:04:55.497Z",
-      "lastRecalledAt": "2026-07-21T22:05:01.185Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
       "queryHashes": [
         "44d9860ebc04",
-        "6baa914ad8f0"
+        "6baa914ad8f0",
+        "1b75906d7fe9",
+        "ce5b5140742a",
+        "58d607fffabd",
+        "5e4da26c5235",
+        "d539096df139"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "curso/tema",
@@ -4178,18 +4553,20 @@
       "endLine": 88,
       "source": "memory",
       "snippet": "- Disco agora em **90%** (9.0G/10G, 1.1G livres) — ainda crítico mas melhorou ### 📁 Estrutura criada no Drive: - Pasta raiz: `workspace archive` (ID: 1KvSuOtilzvYjGunSsn-egAWYoNL8ZCpS) - Subpastas: PDFs, Imagens, JSON-Outputs, Documentos, HTML, ZIPs - Relatório salvo em: `[F2] memory/outputs/auditoria-workspace-2026-07-16.md` ## 🔄 Google Calendar: Reautenticação e Sync (13:55-13:58 UTC) - **Problema**: Token do Google Calendar expirou em 10/07/2026, refresh token invalidado (`invalid_grant`) - **Ação**: Jadielson fez fluxo OAuth manual e forneceu código de autorização - **Resultado**: ✅ Novo token obtido e salvo em `scripts/.secrets/google-calendar-token.json` - **Sync**: Mapping resetad",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T23:35:12.860Z",
-      "lastRecalledAt": "2026-07-21T23:35:12.860Z",
+      "lastRecalledAt": "2026-07-22T21:31:33.278Z",
       "queryHashes": [
-        "f0b1aa597267"
+        "f0b1aa597267",
+        "98fef4837dc4"
       ],
       "recallDays": [
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "conceptTags": [
         "9.0g/10g",
@@ -4209,16 +4586,18 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7899475276470184,
-      "maxScore": 0.39787254929542537,
+      "totalScore": 2.199280285835266,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-22T00:00:30.596Z",
-      "lastRecalledAt": "2026-07-22T00:01:16.470Z",
+      "lastRecalledAt": "2026-07-22T17:36:15.058Z",
       "queryHashes": [
         "a1b547b6abe2",
-        "3a1a6bbae193"
+        "3a1a6bbae193",
+        "a7937e76fcd0",
+        "cfd5f8c9b921"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4241,15 +4620,17 @@
       "endLine": 100,
       "source": "memory",
       "snippet": "- Achados centrais: divergência de contagem PSF/UBS; Setores Complementares lista 26 setores, mas canônico detalha 20; faltam notas canônicas para Epidemiologia, Gabinete, RH, Almoxarifado, CPD e Procuradoria; há material operacional rico fora do canônico em pastas como RECEPÇÃO, PNI, EMULT, RH, Procuradoria, Espaço Cuidar e Laboratório; Recepção/Regulação está subdescrita no núcleo canônico. ## SAÚDE — auditoria ampla da frente completa - Jadielson pediu auditoria em toda a pasta `[F1] 5-Frentes/Saude-Sao-Sebastiao` para localizar divergências e duplicatas que possam ser unidas. - Auditoria ampla primeira versão concluída e salva em `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2.3527798116207124,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T00:02:48.000Z",
-      "lastRecalledAt": "2026-07-22T00:02:48.000Z",
+      "lastRecalledAt": "2026-07-22T20:18:26.696Z",
       "queryHashes": [
-        "d3f72e895344"
+        "d3f72e895344",
+        "8bec1c80fdfd",
+        "31d96f47476a"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4304,15 +4685,20 @@
       "endLine": 46,
       "source": "memory",
       "snippet": "- Princípios do backlog: **o que fazer**, **quando fazer**, **como fazer**. - Agrupamento panorâmico antes de foco e execução. - Diagnosticar tamanho da demanda: tarefa, conjunto de tarefas, subprojeto, projeto ou área de manutenção. - Tarefas devem ser pequenas, claras, objetivas, executáveis e preferencialmente começar com verbo de ação. - Fatiamento: todo → partes maiores → etapas → tarefas → microtarefas executáveis. - Atalhos: modelos, checklists, templates, prompts, rotinas, padrões e automações para reduzir atrito. - Realizar/procrastinação: demanda pequena e clara reduz resistência. - Zelo pelo essencial/priorização: proteger energia, foco e tempo. - Agenda como das",
-      "recallCount": 1,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 6,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T03:30:44.578Z",
-      "lastRecalledAt": "2026-07-22T03:30:44.578Z",
+      "lastRecalledAt": "2026-07-22T21:34:57.453Z",
       "queryHashes": [
-        "dff88e356f79"
+        "dff88e356f79",
+        "a6487687924c",
+        "da28c1f5a7b3",
+        "157c87518901",
+        "93ec24da51a2",
+        "8865fb0a4b47"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4335,15 +4721,19 @@
       "endLine": 407,
       "source": "memory",
       "snippet": "- CMO contribuiu com estratégia LÓGIKA (`[F2] memory/outputs/logika/2026-07-20-cmo-estrategia-completa.md`) - CCO contribuiu com 11 documentos criativos (`[F2] memory/outputs/cco-logika/`) incluindo roteiros e painel semanal - Lôh ajustou rate limit dos subagentes (resolvido) ## MISSION CONTROL — Construção do painel central (Noite) ### Contexto - Jadielson pediu para criar um **Mission Control** — painel central para acompanhar empresa, tarefas, agentes, projetos, conteúdos, métricas e pendências. - Diferente do blueprint anterior (que focava em xTiles/Backlog Inteligente), este é um **HTML interativo** servido como painel visual. ### Etapas seguidas 1. **Estrutura sugerida** — 7 módulo",
-      "recallCount": 1,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T03:30:44.578Z",
-      "lastRecalledAt": "2026-07-22T03:30:44.578Z",
+      "lastRecalledAt": "2026-07-22T21:34:57.453Z",
       "queryHashes": [
-        "dff88e356f79"
+        "dff88e356f79",
+        "a6487687924c",
+        "157c87518901",
+        "93ec24da51a2",
+        "8865fb0a4b47"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4366,16 +4756,18 @@
       "endLine": 59,
       "source": "memory",
       "snippet": "5. Reaplicada blindagem: `/data/.openclaw/openclaw.json` em modo `400`. 6. Criado monitor recorrente `guard-c-level-agents-config`, a cada 30 minutos, para verificar C-Levels e corrigir/alertar em caso de quebra. 7. Incidente registrado em `memory/decisoes/2026-06-28-incidente-desconfiguracao-agentes-c-level.md`. ### Pareceres Entre Tempos Após falhas/expiração dos subagentes, foi validado que os três pareceres existem e têm conteúdo no Cofre: - `[F3] PROJETOS/PAUSADO/ENTRE TEMPOS/6-entregas/parecer-cmo-lancamento-entre-tempos.md` - `[F3] PROJETOS/PAUSADO/ENTRE TEMPOS/6-entregas/parecer-coo-lancamento-entre-tempos.md` - `[F3] PROJETOS/PAUSADO/ENTRE TEMPOS/6-entregas/parecer-cco-lancamento-",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T03:33:11.232Z",
-      "lastRecalledAt": "2026-07-22T04:01:56.146Z",
+      "lastRecalledAt": "2026-07-22T13:54:21.852Z",
       "queryHashes": [
         "7ebef9a39c2c",
-        "fb58250a47a8"
+        "fb58250a47a8",
+        "2b466c704a8c",
+        "ee3773ed0ae7"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4398,15 +4790,17 @@
       "endLine": 61,
       "source": "memory",
       "snippet": "| **30/07 (qui)** | 🚀 **Lançamento ENTRE TEMPOS — 20h** | --- ## 📋 AGENDA DO DIA — 21/07 (Terça) ### 🟡 Saúde — Serviços Especializados **Tema:** \"Sinais que merecem atenção e caminho correto para exames\" **Serviços cobertos:** Laboratório, Espaço Cuidar, Oftalmologia, CEO/Saúde Bucal e Recepção/Regulação da Secretaria **Entregáveis:** 5 stories + 1 post/carrossel **CCO já produziu:** roteiro do carrossel (`07-roteiro-carrossel-saude-exames-hepatites-21-07-2026.md`) + roteiros de stories **Stories do dia:** 1. **Laboratório** — \"Exame orientado pela rede ajuda a investigar sinais que o corpo está dando\" 2. **Espaço Cuidar** — \"Cansaço, dor ou sinal persistente merece avaliação: a rede",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 1.7754213064908981,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T03:33:11.232Z",
-      "lastRecalledAt": "2026-07-22T03:33:11.232Z",
+      "lastRecalledAt": "2026-07-22T21:08:04.213Z",
       "queryHashes": [
-        "7ebef9a39c2c"
+        "7ebef9a39c2c",
+        "2749341f4646",
+        "8458ea56d28b"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4460,15 +4854,21 @@
       "endLine": 77,
       "source": "memory",
       "snippet": "Bloqueio técnico: `gog` não está disponível no container atual (`command not found`) e Zapier Google Drive está conectado à conta `logikacreative.mkt@gmail.com`, não ao Drive pessoal. Encaminhar para Alfred/Lôh para correção de integração se Jadielson quiser criação automática correta. ## Correção concluída — Drive Comunidade 1P Com autorização explícita de Jadielson, a pasta criada equivocadamente foi apagada permanentemente: - Nome: `COMUNIDADE 1P` - ID apagado: `1cDSudsDhEVnZD1HW_TaV-nsS1szFuTdm` - Ferramenta: Google Drive via Zapier conectado à conta onde a pasta equivocada havia sido criada. Em seguida, foi criada a pasta correta no Drive pessoal, dentro da pasta macro oficial `ESTUD",
-      "recallCount": 1,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 3.8500497072935103,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T03:50:26.854Z",
-      "lastRecalledAt": "2026-07-22T03:50:26.854Z",
+      "lastRecalledAt": "2026-07-22T21:10:14.232Z",
       "queryHashes": [
-        "bf8cf318db09"
+        "bf8cf318db09",
+        "43013698bc42",
+        "6e78cadda1d8",
+        "d7a49b88111a",
+        "2eb097a53499",
+        "a6477ab0db5b",
+        "17ecedb77038"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4491,15 +4891,17 @@
       "endLine": 6,
       "source": "memory",
       "snippet": "## 03:30 — Cron: ensure-critical-integrations - Script `ensure-integrations.sh` executado - Resultado: FIXED (integrações reaplicadas) - Tavily ✅ | Notion ✅ | Whisper ✅ | Config válida",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.38677510321140285,
-      "maxScore": 0.38677510321140285,
+      "totalScore": 2.386775103211403,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-22T03:50:41.686Z",
-      "lastRecalledAt": "2026-07-22T03:50:41.686Z",
+      "lastRecalledAt": "2026-07-22T17:25:55.594Z",
       "queryHashes": [
-        "97f81a75b1bd"
+        "97f81a75b1bd",
+        "5043cbe917a0",
+        "1208310cfb09"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4647,16 +5049,18 @@
       "endLine": 7,
       "source": "memory",
       "snippet": "# 2026-07-12 ## Subagente — inicialização sem tarefa específica - Recebido contexto de subagente em 2026-07-13 00:10 UTC informando que a tarefa estaria no prompt do sistema sob “Your Role”. - Após bootstrap mínimo do Cofre (AGENTS.md, MAPA.md, SOUL.md, USER.md), não foi encontrada uma tarefa operacional específica além das regras gerais de atuação do Jarvis/LÓGIKA. - Resultado: subagente deve reportar ao solicitante que precisa do briefing/tarefa explícita para executar.",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7666576713323592,
-      "maxScore": 0.38788310587406155,
+      "totalScore": 2.142894023656845,
+      "maxScore": 1,
       "firstRecalledAt": "2026-07-22T04:39:13.277Z",
-      "lastRecalledAt": "2026-07-22T04:39:24.681Z",
+      "lastRecalledAt": "2026-07-22T21:05:41.183Z",
       "queryHashes": [
         "e35c265b351f",
-        "52bdbb0eaa45"
+        "52bdbb0eaa45",
+        "5e4da26c5235",
+        "dad663c7d038"
       ],
       "recallDays": [
         "2026-07-22"
@@ -4732,6 +5136,1238 @@
         "defaults/agentes",
         "openclaw/openclaw.json",
         "openai-codex/gpt-5.5"
+      ]
+    },
+    "memory:memory/2026-07-22.md:1:11": {
+      "key": "memory:memory/2026-07-22.md:1:11",
+      "path": "memory/2026-07-22.md",
+      "startLine": 1,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "# 2026-07-22 ## 🎬 CapCut Reels — Novo tópico criado - Jadielson pediu um tópico específico para produção de Reels no Instagram usando CapCut Web. - Tópico criado no grupo PROJETOS: **🎬 CapCut Reels** (topic_id: 1224) - Estrutura no Cofre: - `memory/logika/topicos/1224-capcut-reels/README.md` - `[F3] PROJETOS/03_PROJETOS/02_Midia_Conteudo_Audiencia/CapCut Reels/README.md` - MEMORY.md atualizada com novo tópico ativo. - Aguardando Jadielson enviar material bruto + briefing para começar.",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T06:04:46.194Z",
+      "lastRecalledAt": "2026-07-22T14:27:39.465Z",
+      "queryHashes": [
+        "c4fdc08bcdbd",
+        "37d4d4a5d2f5",
+        "537c828101a9"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "topic-id",
+        "reels/readme.md",
+        "memory.md",
+        "capcut",
+        "reels",
+        "novo",
+        "tópico",
+        "criado"
+      ]
+    },
+    "memory:memory/2026-06-26.md:27:55": {
+      "key": "memory:memory/2026-06-26.md:27:55",
+      "path": "memory/2026-06-26.md",
+      "startLine": 27,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "Definida por Jadielson e aplicada globalmente aos agentes: 1. Primário: `openai-codex/gpt-5.5` (GPT-5.5 Codex) 2. Fallback: `openrouter/deepseek/deepseek-v4-flash` 3. Fallback: `openrouter/google/gemini-2.5-flash-lite` A política foi aplicada em `/data/.openclaw/openclaw.json` em dois níveis: - `agents.defaults.model` - `model` individual de todos os 20 agentes em `agents.list` Também foi adicionada ao `systemPromptOverride` de todos os agentes para ciência operacional explícita. Após reload do Gateway, `agents_list` validou todos os agentes como `configured: true` e usando `openai-codex/gpt-5.5` como modelo principal. ## Fechamento — ciência dos agentes sobre prioridade automática de mo",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T12:30:07.023Z",
+      "lastRecalledAt": "2026-07-22T12:30:07.023Z",
+      "queryHashes": [
+        "e29cdbf3127a"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "openai",
+        "router",
+        "openai-codex/gpt-5.5",
+        "gpt-5.5",
+        "openclaw/openclaw.json",
+        "agents.defaults.model"
+      ]
+    },
+    "memory:memory/2026-07-20.md:167:184": {
+      "key": "memory:memory/2026-07-20.md:167:184",
+      "path": "memory/2026-07-20.md",
+      "startLine": 167,
+      "endLine": 184,
+      "source": "memory",
+      "snippet": "- 3 timeoutaram no Codex (CCO, CRO, CMO) — Codex ainda limitado do fim de semana. - **Conclusão de Jadielson:** Codex é plano A por ser mais barato; fallbacks B e C entram quando ele estiver indisponível. O importante é nunca deixar de executar. ### Arquivos criados/alterados - `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md` — diagnóstico técnico - `[F2] memory/decisions/2026-07-20-revisao-prompts-c-levels-obediencia-fallbacks.md` — decisão consolidada - `openclaw.json` — `agents.defaults.subagents.model` configurado, `agents.defaults.subagents.runTimeoutSeconds=300`, prompts C-Level atualizados ### Política de Serviço Mútuo entre Agentes - Jadielson determi",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T12:43:27.393Z",
+      "lastRecalledAt": "2026-07-22T14:00:27.104Z",
+      "queryHashes": [
+        "7b9b02fce4e8",
+        "3abbb35e4d21"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "criados/alterados",
+        "openclaw.json",
+        "agents.defaults.subagents.model",
+        "c-level",
+        "timeoutaram",
+        "codex",
+        "cco",
+        "cro"
+      ]
+    },
+    "memory:memory/2026-07-19.md:16:33": {
+      "key": "memory:memory/2026-07-19.md:16:33",
+      "path": "memory/2026-07-19.md",
+      "startLine": 16,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "- Jadielson trouxe lista bruta com 92 itens/projetos para aula prática. Foi salva em `[F2] memory/context/estudos/backlog-inteligente-projetos-captura-2026-07-18.md`. - A lista foi consolidada, agrupada, depois reorganizada no Mapa 360. Arquivos principais: - `[F2] memory/context/estudos/backlog-inteligente-arvore-projetos-v1-2026-07-18.md` - `[F2] memory/context/estudos/backlog-inteligente-mapa-360-agrupado-v2-2026-07-18.md` - `[F2] memory/context/estudos/backlog-inteligente-mapa-360-todos-92-enumerados-v2-2026-07-18.md` - `[F2] memory/context/estudos/backlog-inteligente-mapa-360-92-por-grupos-v3-2026-07-19.md` - Jadielson pediu organização pelos grupos definidos; preservar que a ve",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T13:08:53.705Z",
+      "lastRecalledAt": "2026-07-22T13:08:53.705Z",
+      "queryHashes": [
+        "29276abe98d6"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "itens/projetos",
+        "jadielson",
+        "trouxe",
+        "lista",
+        "bruta",
+        "com",
+        "itens",
+        "projetos"
+      ]
+    },
+    "memory:memory/2026-07-20.md:208:215": {
+      "key": "memory:memory/2026-07-20.md:208:215",
+      "path": "memory/2026-07-20.md",
+      "startLine": 208,
+      "endLine": 215,
+      "source": "memory",
+      "snippet": "- Jadielson enviou/indicou o curso **\"Você não é preguiçoso — Método TDAH\"**: ebook principal e 5 bônus. O ebook principal foi acessado via link Drive `https://drive.google.com/file/d/17FWFd39GuEg6AM9maxFSqz0Es9pdQBNo/view?usp=sharing` e já existe extração integral em `[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/02_EBOOKS/ebook_principal_extraido_integral.md`. - Os 5 bônus acessados/analisados: `7 Dias para Sair da Inércia`, `Sistema Diário de Execução`, `Os 7 Padrões Invisíveis que te Mantêm Travado`, `Estrutura de Rotina Funcional`, `Seu Sistema em 1 Página`. - Parecer integrado salvo em `[F2] memory/context/estudos/backlog-inteligente-parecer-geral-integrado-2026-07-19.m",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T13:36:14.724Z",
+      "lastRecalledAt": "2026-07-22T13:36:14.724Z",
+      "queryHashes": [
+        "740e0f81dd80"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "enviou/indicou",
+        "estudos/em",
+        "andamento/voce",
+        "acessados/analisados",
+        "jadielson",
+        "enviou",
+        "indicou",
+        "curso"
+      ]
+    },
+    "memory:memory/2026-07-14.md:31:56": {
+      "key": "memory:memory/2026-07-14.md:31:56",
+      "path": "memory/2026-07-14.md",
+      "startLine": 31,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "- Google Drive: criada pasta raiz pessoal `COMUNIDADE 1P`. - ID: `1cDSudsDhEVnZD1HW_TaV-nsS1szFuTdm` - URL: https://drive.google.com/drive/folders/1cDSudsDhEVnZD1HW_TaV-nsS1szFuTdm Observação: `BOOTSTRAP.md` ainda não deve ser apagado; falta conversar com Jadielson sobre `SOUL.md`/preferências profundas antes de encerrar o ritual. ## Correção — Drive Comunidade 1P criado no lugar errado Jadielson corrigiu: a pasta de Drive criada para `COMUNIDADE 1P` ficou no lugar errado e pediu consulta ao Albert. Consulta realizada: - `[F2] memory/agents/central-pessoal/albert-estudos.md` - `[F2] memory/sessions/central-pessoal/2026-07-14-estudos-albert-status-canais-cofre-drive.md` - `[F2] memory",
+      "recallCount": 6,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.9619638592004773,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T13:39:03.343Z",
+      "lastRecalledAt": "2026-07-22T21:10:14.232Z",
+      "queryHashes": [
+        "43013698bc42",
+        "6e78cadda1d8",
+        "d7a49b88111a",
+        "2eb097a53499",
+        "a6477ab0db5b",
+        "17ecedb77038"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "bootstrap.md",
+        "soul.md",
+        "google",
+        "drive",
+        "criada",
+        "pasta",
+        "raiz",
+        "pessoal"
+      ]
+    },
+    "memory:memory/sessions/sync/2026-07-15.md:50:81": {
+      "key": "memory:memory/sessions/sync/2026-07-15.md:50:81",
+      "path": "memory/sessions/sync/2026-07-15.md",
+      "startLine": 50,
+      "endLine": 81,
+      "source": "memory",
+      "snippet": "- 2026-07-02 — CAPS / EMULTI / Gestantes — acolhimento sem tabu [A iniciar] - 2026-07-01 — Julho Amarelo / PNI / Vigilância Sanitária — abertura da prevenção [A iniciar] ## ⚠️ Problema: Token OAuth Expirado/Revogado 28/28 itens com erro `invalid_grant: Token has been expired or revoked.` ## Diagnóstico - Token expirou em: 2026-07-10T14:07:16Z - Refresh token também foi invalidado (mesmo token no gog keyring) - Tentativa de re-autenticação via browser falhou: Google bloqueia login em headless browser - Token.json original (e o backup .token.bak) contêm o mesmo refresh_token inválido ## Tentativa de reparo 1. ✅ Exportado token do gog → mesmo refresh_token inválido 2. ❌ `gog auth add --remot",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.730808636546135,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T13:39:47.059Z",
+      "lastRecalledAt": "2026-07-22T21:42:26.501Z",
+      "queryHashes": [
+        "6af76c480faa",
+        "2eb097a53499",
+        "094e607cfd27"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "backup",
+        "expirado/revogado",
+        "28/28",
+        "invalid-grant",
+        "2026-07-10t14",
+        "re-autenticação",
+        "token.json",
+        "token.bak"
+      ]
+    },
+    "memory:memory/2026-07-18.md:42:53": {
+      "key": "memory:memory/2026-07-18.md:42:53",
+      "path": "memory/2026-07-18.md",
+      "startLine": 42,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "- Jadielson pediu, via áudio no tópico `Albert`, a criação de um novo tópico no grupo Telegram `ESTUDOS` para o curso **Backlog Inteligente**. - Tópico criado com sucesso: `Backlog Inteligente`, `topicId: 489`, chat `-1003925972377`. - Contexto inicial salvo em `[F2] memory/context/estudos/backlog-inteligente.md`. - Log da sessão salvo em `[F2] memory/sessions/estudos/2026-07-18-backlog-inteligente-topico.md`. - Conceitos capturados: clareza antes de organização/execução; captura; visibilidade; atalhos; realizar/procrastinação; etapas/fatiar; zelo pelo essencial/priorizar; agenda/dashboard de vida; princípios do backlog (o que, quando, como); funil áreas/temas → projetos → subprojetos → tare",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T13:49:47.772Z",
+      "lastRecalledAt": "2026-07-22T13:49:47.772Z",
+      "queryHashes": [
+        "5e4da26c5235"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "organização/execução",
+        "realizar/procrastinação",
+        "etapas/fatiar",
+        "essencial/priorizar",
+        "agenda/dashboard",
+        "áreas/temas",
+        "jadielson",
+        "pediu"
+      ]
+    },
+    "memory:memory/2026-07-20.md:259:268": {
+      "key": "memory:memory/2026-07-20.md:259:268",
+      "path": "memory/2026-07-20.md",
+      "startLine": 259,
+      "endLine": 268,
+      "source": "memory",
+      "snippet": "- Jadielson observou que a pauta sugerida para 20/07 parecia com a da semana anterior. - Revisão confirmou duplicidade/risco de repetição: a versão consolidada com Rancho Alegre/Cana Brava/Curralinho/ACS repetia elementos de 13/07 e 17/07; a versão F1 completa aponta 20/07 como `Vacina contra hepatite B: proteção em todas as fases da vida`, com PNI e PSFs Karapotó Plak-Ô/Terra Nova. - Recepção da Secretaria está mapeada como Secretaria Administrativa: recepção, marcação de exames, protocolo/documentos, apoio administrativo e orientação de fluxo. Deve entrar como story/ângulo de acesso: \"onde a população recebe orientação de caminho\", sem prometer marcação/vaga/horário sem confirmação. ## SA",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T13:54:35.649Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
+      "queryHashes": [
+        "d539096df139"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "20/07",
+        "duplicidade/risco",
+        "alegre/cana",
+        "brava/curralinho/acs",
+        "13/07",
+        "17/07",
+        "plak-ô/terra",
+        "protocolo/documentos"
+      ]
+    },
+    "memory:memory/2026-07-20.md:102:112": {
+      "key": "memory:memory/2026-07-20.md:102:112",
+      "path": "memory/2026-07-20.md",
+      "startLine": 102,
+      "endLine": 112,
+      "source": "memory",
+      "snippet": "- Estrutura criada com README, mapa operacional, matriz de setores/pilares/fontes, matriz de unificação, visão UBS/postinhos, visão PSFs/territórios, setores complementares completos, ficha de Recepção/Regulação, guia rápido de pautas, resumo de auditorias e fontes F1 principais. - Caminho principal: `[F2] memory/saude-sao-sebastiao/README.md`. ## SAÚDE — matriz de competências por setor - Jadielson perguntou se a versão operacional incluía o que cada setor faz e compete. - Foi criada a matriz `[F2] memory/saude-sao-sebastiao/01-matrizes/matriz-competencias-por-setor.md` com função, competência principal e linguagem pública recomendada para UBS/postinhos, PSF/equipes, ACS, Atenção Básica, P",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T13:54:35.649Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
+      "queryHashes": [
+        "8bec1c80fdfd"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "setores/pilares/fontes",
+        "ubs/postinhos",
+        "psfs/territórios",
+        "recepção/regulação",
+        "psf/equipes",
+        "estrutura",
+        "criada",
+        "com"
+      ]
+    },
+    "memory:memory/2026-07-20.md:298:308": {
+      "key": "memory:memory/2026-07-20.md:298:308",
+      "path": "memory/2026-07-20.md",
+      "startLine": 298,
+      "endLine": 308,
+      "source": "memory",
+      "snippet": "- Estrutura criada com README, mapa operacional, matriz de setores/pilares/fontes, matriz de unificação, visão UBS/postinhos, visão PSFs/territórios, setores complementares completos, ficha de Recepção/Regulação, guia rápido de pautas, resumo de auditorias e fontes F1 principais. - Caminho principal: `[F2] memory/saude-sao-sebastiao/README.md`. ## SAÚDE — matriz de competências por setor - Jadielson perguntou se a versão operacional incluía o que cada setor faz e compete. - Foi criada a matriz `[F2] memory/saude-sao-sebastiao/01-matrizes/matriz-competencias-por-setor.md` com função, competência principal e linguagem pública recomendada para UBS/postinhos, PSF/equipes, ACS, Atenção Básica, P",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T13:54:35.649Z",
+      "lastRecalledAt": "2026-07-22T13:54:35.649Z",
+      "queryHashes": [
+        "8bec1c80fdfd"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "setores/pilares/fontes",
+        "ubs/postinhos",
+        "psfs/territórios",
+        "recepção/regulação",
+        "psf/equipes",
+        "estrutura",
+        "criada",
+        "com"
+      ]
+    },
+    "memory:memory/2026-07-20.md:363:380": {
+      "key": "memory:memory/2026-07-20.md:363:380",
+      "path": "memory/2026-07-20.md",
+      "startLine": 363,
+      "endLine": 380,
+      "source": "memory",
+      "snippet": "- 3 timeoutaram no Codex (CCO, CRO, CMO) — Codex ainda limitado do fim de semana. - **Conclusão de Jadielson:** Codex é plano A por ser mais barato; fallbacks B e C entram quando ele estiver indisponível. O importante é nunca deixar de executar. ### Arquivos criados/alterados - `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md` — diagnóstico técnico - `[F2] memory/decisions/2026-07-20-revisao-prompts-c-levels-obediencia-fallbacks.md` — decisão consolidada - `openclaw.json` — `agents.defaults.subagents.model` configurado, `agents.defaults.subagents.runTimeoutSeconds=300`, prompts C-Level atualizados ### Política de Serviço Mútuo entre Agentes - Jadielson determi",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T14:00:27.104Z",
+      "lastRecalledAt": "2026-07-22T14:00:27.104Z",
+      "queryHashes": [
+        "3abbb35e4d21"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "criados/alterados",
+        "openclaw.json",
+        "agents.defaults.subagents.model",
+        "c-level",
+        "timeoutaram",
+        "codex",
+        "cco",
+        "cro"
+      ]
+    },
+    "memory:memory/2026-07-22.md:1:22": {
+      "key": "memory:memory/2026-07-22.md:1:22",
+      "path": "memory/2026-07-22.md",
+      "startLine": 1,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "# 2026-07-22 ## 🎬 CapCut Reels — Novo tópico criado - Jadielson pediu um tópico específico para produção de Reels no Instagram usando CapCut Web. - Tópico criado no grupo PROJETOS: **🎬 CapCut Reels** (topic_id: 1224) - Estrutura no Cofre: - `memory/logika/topicos/1224-capcut-reels/README.md` - `[F3] PROJETOS/03_PROJETOS/02_Midia_Conteudo_Audiencia/CapCut Reels/README.md` - MEMORY.md atualizada com novo tópico ativo. - Aguardando Jadielson enviar material bruto + briefing para começar. ## 🔴 Zapier removido de vez — decisão final executada - Jadielson reportou que subagentes/tópicos insistem em usar Zapier e isso está atrapalhando. - Ele reforçou: **tudo é feito pelo gog**. - **Ação",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6446474012630159,
+      "maxScore": 0.6446474012630159,
+      "firstRecalledAt": "2026-07-22T16:11:34.162Z",
+      "lastRecalledAt": "2026-07-22T16:11:34.162Z",
+      "queryHashes": [
+        "7c32b40b2525"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "topic-id",
+        "reels/readme.md",
+        "memory.md",
+        "subagentes/tópicos",
+        "capcut",
+        "reels",
+        "novo",
+        "tópico"
+      ]
+    },
+    "memory:memory/2026-07-22.md:1:33": {
+      "key": "memory:memory/2026-07-22.md:1:33",
+      "path": "memory/2026-07-22.md",
+      "startLine": 1,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "# 2026-07-22 ## 🎬 CapCut Reels — Novo tópico criado - Jadielson pediu um tópico específico para produção de Reels no Instagram usando CapCut Web. - Tópico criado no grupo PROJETOS: **🎬 CapCut Reels** (topic_id: 1224) - Estrutura no Cofre: - `memory/logika/topicos/1224-capcut-reels/README.md` - `[F3] PROJETOS/03_PROJETOS/02_Midia_Conteudo_Audiencia/CapCut Reels/README.md` - MEMORY.md atualizada com novo tópico ativo. - Aguardando Jadielson enviar material bruto + briefing para começar. ## 🔴 Zapier removido de vez — decisão final executada - Jadielson reportou que subagentes/tópicos insistem em usar Zapier e isso está atrapalhando. - Ele reforçou: **tudo é feito pelo gog**. - **Ação",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.45844373962971807,
+      "maxScore": 0.45844373962971807,
+      "firstRecalledAt": "2026-07-22T16:47:06.421Z",
+      "lastRecalledAt": "2026-07-22T16:47:06.421Z",
+      "queryHashes": [
+        "05f4c5fe3bf3"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "topic-id",
+        "reels/readme.md",
+        "memory.md",
+        "subagentes/tópicos",
+        "capcut",
+        "reels",
+        "novo",
+        "tópico"
+      ]
+    },
+    "memory:memory/2026-06-26.md:135:151": {
+      "key": "memory:memory/2026-06-26.md:135:151",
+      "path": "memory/2026-06-26.md",
+      "startLine": 135,
+      "endLine": 151,
+      "source": "memory",
+      "snippet": "Nova validação às 22:28 UTC mostrou que a configuração de agentes havia revertido novamente, mesmo com o cron `ensure-critical-integrations` desativado. A reversão ocorreu no arquivo `/data/.openclaw/openclaw.json` por volta de 22:12 UTC, indicando outro escritor/rotina ainda não isolado. Ação de contenção aplicada: - Reaplicado patch canônico via `openclaw config patch --file /tmp/openclaw-agents-definitive.patch.json`. - Validado com `openclaw config validate` e `ops/verify-agents-config.sh`. - Como `chattr` não existe no ambiente, aplicada contenção por permissão: `chmod 400 /data/.openclaw/openclaw.json`. - Gateway recarregado com sucesso. - `agents_list` confirmou 20 agentes, todos `co",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T18:26:23.910Z",
+      "lastRecalledAt": "2026-07-22T18:26:23.910Z",
+      "queryHashes": [
+        "59d4fb505eed"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "gateway",
+        "ensure-critical-integrations",
+        "openclaw/openclaw.json",
+        "escritor/rotina",
+        "ops/verify-agents-config.sh",
+        "agents-list",
+        "nova",
+        "validação"
+      ]
+    },
+    "memory:memory/2026-06-26.md:146:166": {
+      "key": "memory:memory/2026-06-26.md:146:166",
+      "path": "memory/2026-06-26.md",
+      "startLine": 146,
+      "endLine": 166,
+      "source": "memory",
+      "snippet": "- Esta é uma contenção, não a causa raiz completa. A anomalia de escritor oculto ainda deve ser investigada quando houver janela operacional. ## 22:58 UTC — Correção definitiva da reversão de config (agentes/modelos) **Problema:** A config de agentes (`agents.defaults.model.primary` e `agents.list`) revertia sempre para um conjunto antigo (DeepSeek/Gemini como primary, apenas 14 agentes, 6 C-Levels ausentes). **Causa raiz:** O `openclaw exec-policy preset yolo` era invocado automaticamente (por cron ou hook) e, como efeito colateral, regravava a config a partir de defaults internos do Gateway, sobrescrevendo a lista canônica de 20 agentes. **Solução aplicada:** 1. Cron `ensure-critical-i",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T18:26:23.910Z",
+      "lastRecalledAt": "2026-07-22T18:26:23.910Z",
+      "queryHashes": [
+        "59d4fb505eed"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "gateway",
+        "agentes/modelos",
+        "agents.defaults.model.primary",
+        "agents.list",
+        "deepseek/gemini",
+        "c-levels",
+        "exec-policy",
+        "ensure-critical-i"
+      ]
+    },
+    "memory:memory/2026-07-22.md:1:40": {
+      "key": "memory:memory/2026-07-22.md:1:40",
+      "path": "memory/2026-07-22.md",
+      "startLine": 1,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "# 2026-07-22 — Continuação ## 🚀 Google Drive — gog funcionando via loh.open.logika@gmail.com **Problema:** Jadielson reportou que `gog` estava como `command not found` e não conseguia acessar o Google Drive para o post de hoje do ENTRE TEMPOS (\"Memória e cidade\" - fotos antigas e atuais). ### Diagnóstico e solução **gog está instalado** em `/home/linuxbrew/.linuxbrew/bin/gog` (v0.21.0). O problema do `command not found` é que o diretório Homebrew não está no PATH de todos os shells. **Tokens:** - `davijadielson@gmail.com` — token expirado/revogado (`invalid_grant`) - `logikacreative.mkt@gmail.com` — token expirado/revogado (`invalid_grant`) - `loh.open.logika@gmail.com` — **token VÁLID",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8031981647014617,
+      "maxScore": 0.40666138529777524,
+      "firstRecalledAt": "2026-07-22T21:10:14.101Z",
+      "lastRecalledAt": "2026-07-22T21:10:14.232Z",
+      "queryHashes": [
+        "9dc085737c65",
+        "17ecedb77038"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "loh.open.logika",
+        "gmail.com",
+        "home/linuxbrew",
+        "linuxbrew/bin/gog",
+        "v0.21.0",
+        "expirado/revogado",
+        "invalid-grant",
+        "logikacreative.mkt"
+      ]
+    },
+    "memory:memory/2026-07-22.md:94:120": {
+      "key": "memory:memory/2026-07-22.md:94:120",
+      "path": "memory/2026-07-22.md",
+      "startLine": 94,
+      "endLine": 120,
+      "source": "memory",
+      "snippet": "- `/data/.bashrc` — adicionado `export PATH=\"/home/linuxbrew/.linuxbrew/bin:$PATH\"` para resolver `command not found` - `/data/.profile` — já continha `export GOG_KEYRING_PASSWORD=...` Após ajustes: - ✅ `gog` agora funciona como comando direto (PATH corrigido) - ✅ `GOG_KEYRING_PASSWORD` carregada automaticamente em shells interativos **2. ⚠️ Re-autenticar davijadielson@gmail.com — Bloqueio técnico** Tentativa via browser: Google OAuth exige redirect para `http://127.0.0.1:<porta>/oauth2/callback` (callback local do servidor), mas o browser aberto via ferramenta aponta para máquina host, não para o servidor onde o gog está ouvindo. O fluxo não completa. **Solução prática:** a conta `loh.op",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3613934934139251,
+      "maxScore": 0.3613934934139251,
+      "firstRecalledAt": "2026-07-22T21:10:14.101Z",
+      "lastRecalledAt": "2026-07-22T21:10:14.101Z",
+      "queryHashes": [
+        "9dc085737c65"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "home/linuxbrew",
+        "linuxbrew/bin",
+        "gog-keyring-password",
+        "re-autenticar",
+        "gmail.com",
+        "127.0.0.1",
+        "oauth2/callback",
+        "loh.op"
+      ]
+    },
+    "memory:memory/2026-07-22.md:65:101": {
+      "key": "memory:memory/2026-07-22.md:65:101",
+      "path": "memory/2026-07-22.md",
+      "startLine": 65,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "│ ├── Construção da Casa Maternal │ ├── Fachada da Casa Maternal │ ├── Igreja Matriz de São Sebastião (2011) │ ├── Apresentações Banda Fanfarra (2014/2015) │ ├── Entroncamento - Entrada da cidade │ └── +40 fotos IMG_86xx (fotos atuais) └── ROTEIROS/ ├── ROTEIRO CLIPE ENTRE TEMPOS - SÃO SEBASTIÃO ├── MAPA DE CAPTAÇÃO.docx └── CATEGORIZAÇÃO GERAL DAS IMAGENS DE APOIO ``` ### Post de hoje (22/07) — \"Memória e cidade\" Conforme cronograma da semana (briefing 21/07): - **Qua 22/07:** Fotos antigas + atuais — Tema \"Memória e cidade\" - Perfeito! O acervo de fotos antigas e históricas + fotos atuais (bastidores/IMG_86xx) atende direto ao tema. ### Re",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.387314772605896,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:10:14.232Z",
+      "lastRecalledAt": "2026-07-22T21:33:01.062Z",
+      "queryHashes": [
+        "17ecedb77038",
+        "ce593430e99f"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "2014/2015",
+        "img-86xx",
+        "captação.docx",
+        "22/07",
+        "21/07",
+        "bastidores/img-86xx",
+        "construção",
+        "casa"
+      ]
+    },
+    "memory:memory/2026-07-22.md:31:72": {
+      "key": "memory:memory/2026-07-22.md:31:72",
+      "path": "memory/2026-07-22.md",
+      "startLine": 31,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "- **Acessível via:** `loh.open.logika@gmail.com` ### Estrutura da pasta (árvore completa via gog) ``` ENTRE TEMPOS — Video Clipe / Lançamento/ ├── 00_CONTROLE_LANCAMENTO_ENTRE_TEMPOS (doc Google) ├── 01_Video_Final/ │ └── ENTRE TEMPOS_FINAL_APROVACAO_01_com cor.mp4 (95.2 MB) ├── 02_Capa_Thumbnail/ (vazia) ├── 03_Musica_Links/ │ └── AUDIO/ ├── 04_Divulgacao/ (docs de estratégia) ├── 05_Bastidores/ (fotos HEIC + 15 março 2025) ├── 06_Aprovacoes_Referencias/ ├── 07_ADMINISTRATIVO/ │ ├── 1ª PRESTAÇÕES DE CONTAS PARCIAIS │ ├── 2ª PRESTAÇÕES DE CONTAS PARCIAIS │ ├── APRESENTAÇÃO DO PROJE",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3783411026000976,
+      "maxScore": 0.3783411026000976,
+      "firstRecalledAt": "2026-07-22T21:10:14.232Z",
+      "lastRecalledAt": "2026-07-22T21:10:14.232Z",
+      "queryHashes": [
+        "17ecedb77038"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "loh.open.logika",
+        "gmail.com",
+        "01-video-final",
+        "tempos-final-aprovacao-01-com",
+        "cor.mp4",
+        "95.2",
+        "02-capa-thumbnail",
+        "03-musica-links"
+      ]
+    },
+    "memory:memory/2026-07-17.md:1:34": {
+      "key": "memory:memory/2026-07-17.md:1:34",
+      "path": "memory/2026-07-17.md",
+      "startLine": 1,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "## Cron job semanal de limpeza criado — 17/07/2026 ### Job 3 — Limpeza Semanal de Caches (NOVO) | Propriedade | Valor | |---|---| | **Job ID** | `b3a7d8f1-2c5e-4a9b-8d6f-7e1c3a9b5d2f` | | **Nome** | `limpeza-semanal-caches` | | **Descrição** | A cada 7 dias: limpar caches dispensáveis (npm, pip, homebrew, etc.) que não afetam o sistema | | **Schedule** | A cada 7 dias | | **Ações** | `npm cache clean --force` → `pip cache purge` → `brew cleanup` → caches menores → relatório | | **Itens que NÃO mexe** | `.local/lib/` (scripts Python), `.config/`, agentes, workspace, memory, browser | ### Jobs consolidados | Job | Frequência | O que faz | |---|---|---| | `extracao-diaria-decisoes` | ⏰ A ca",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:34:51.448Z",
+      "lastRecalledAt": "2026-07-22T21:34:51.448Z",
+      "queryHashes": [
+        "dce3c35b4895"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "17/07/2026",
+        "limpeza-semanal-caches",
+        "local/lib",
+        "extracao-diaria-decisoes",
+        "cron",
+        "job",
+        "semanal",
+        "limpeza"
+      ]
+    },
+    "memory:memory/2026-07-16.md:64:88": {
+      "key": "memory:memory/2026-07-16.md:64:88",
+      "path": "memory/2026-07-16.md",
+      "startLine": 64,
+      "endLine": 88,
+      "source": "memory",
+      "snippet": "- **Resultado**: 272 MB → **166 MB** (**106 MB liberados**, ~11% do disco) ### O que foi feito: - **📤 9 PDFs enviados ao Google Drive** via Zapier 3 (pasta \"workspace archive\" → subpasta \"PDFs\"): receitas/dietas (Plano alimentar, OMEGA 3, PRÉ-TREINO, FRAPPUCINO, SHAKE, SMOOTHIE), Planejamento Alimentar Semanal, Dados Lab SS, SINDSS - **🗑️ Duplicatas removidas**: [F2] vaults/segundo-cerebro-jadielson teve todos os binários removidos (manteve só .md) — ~55 MB liberados - **🗑️ Pasta duplicada removida**: F2-memory/ (antiga, ~21 MB) - **🗑️ 30+ JSONs do Notion** removidos (logs de processo) - **🗑️ JSONs de auditoria do Drive** removidos (~5 MB, já no Drive de origem) - **🗑️ Comprovantes fi",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.3673102885484696,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:42:26.501Z",
+      "lastRecalledAt": "2026-07-22T21:45:34.378Z",
+      "queryHashes": [
+        "094e607cfd27",
+        "186a0a7207aa"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "receitas/dietas",
+        "pré-treino",
+        "vaults/segundo-cerebro-jadielson",
+        "f2-memory",
+        "resultado",
+        "liberados",
+        "disco",
+        "foi"
+      ]
+    },
+    "memory:memory/2026-07-22.md:1:44": {
+      "key": "memory:memory/2026-07-22.md:1:44",
+      "path": "memory/2026-07-22.md",
+      "startLine": 1,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "--- tema: 07 22 atualizado_em: 2026-07-22 --- # 2026-07-22 — Continuação ## 🚀 Google Drive — gog funcionando via loh.open.logika@gmail.com **Problema:** Jadielson reportou que `gog` estava como `command not found` e não conseguia acessar o Google Drive para o post de hoje do ENTRE TEMPOS (\"Memória e cidade\" - fotos antigas e atuais). ### Diagnóstico e solução **gog está instalado** em `/home/linuxbrew/.linuxbrew/bin/gog` (v0.21.0). O problema do `command not found` é que o diretório Homebrew não está no PATH de todos os shells. **Tokens:** - `davijadielson@gmail.com` — token expirado/revogado (`invalid_grant`) - `logikacreative.mkt@gmail.com` — token expirado/revogado (`invalid_grant`",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3583408951759338,
+      "maxScore": 0.3583408951759338,
+      "firstRecalledAt": "2026-07-22T21:42:26.501Z",
+      "lastRecalledAt": "2026-07-22T21:42:26.501Z",
+      "queryHashes": [
+        "094e607cfd27"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "atualizado-em",
+        "loh.open.logika",
+        "gmail.com",
+        "home/linuxbrew",
+        "linuxbrew/bin/gog",
+        "v0.21.0",
+        "expirado/revogado",
+        "invalid-grant"
+      ]
+    },
+    "memory:memory/2026-07-13.md:33:47": {
+      "key": "memory:memory/2026-07-13.md:33:47",
+      "path": "memory/2026-07-13.md",
+      "startLine": 33,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Observação: calendário `logikacreative.mkt@gmail.com` sem eventos no período; `loh.open.logika@gmail.com` retornou `invalid_grant`, indicando pendência técnica de autenticação se for usar essa conta para agenda. ## Correção — Jadielson pediu tarefas/projetos pendentes, não frentes estruturais Após Jadielson corrigir: \"nao. me refiro a tarefas e projetos que estao pendentes\", Jarvis deve responder com lista operacional de tarefas/projetos ativos e não com análise macro da empresa. Lista mais útil/atual para tópico LÓGIKA: - Captação drone 3 localidades: sair 13h; confirmar se é Rancho Alegre/Cana Brava/Tabela, ponto de encontro, transporte, entrega e edição. - MiniDoc Jogos Indígenas Karap",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.5819741874933242,
+      "maxScore": 0.42476479113101956,
+      "firstRecalledAt": "2026-07-22T21:42:42.598Z",
+      "lastRecalledAt": "2026-07-22T21:42:52.875Z",
+      "queryHashes": [
+        "92681a3aabc7",
+        "f5959fab36cd",
+        "1576ef06780e",
+        "144d72980f66"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "logikacreative.mkt",
+        "gmail.com",
+        "loh.open.logika",
+        "invalid-grant",
+        "tarefas/projetos",
+        "útil/atual",
+        "alegre/cana",
+        "brava/tabela"
+      ]
+    },
+    "memory:memory/2026-07-20.md:287:297": {
+      "key": "memory:memory/2026-07-20.md:287:297",
+      "path": "memory/2026-07-20.md",
+      "startLine": 287,
+      "endLine": 297,
+      "source": "memory",
+      "snippet": "- Nota de ajuste salva em `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-20-ajuste-calendario-servicos-especializados-recepcao-regulacao.md`. ## SAÚDE — auditoria da Estrutura da Secretaria - Jadielson pediu auditoria aprofundada da pasta `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/`. - Primeira passada concluída e salva em `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-07-20-auditoria-estrutura-secretaria-saude.md`. - Achados centrais: divergência de contagem PSF/UBS; Setores Complementares lista 26 setores, mas canônico detalha 20; faltam notas canônicas para Epidemiologia, Gabinete, RH, Almoxarifado, CPD e Procuradoria; há material operaci",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3919874846935272,
+      "maxScore": 0.3919874846935272,
+      "firstRecalledAt": "2026-07-22T21:42:42.598Z",
+      "lastRecalledAt": "2026-07-22T21:42:42.598Z",
+      "queryHashes": [
+        "92681a3aabc7"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "5-frentes/saude-sao-sebastiao/01",
+        "psf/ubs",
+        "nota",
+        "ajuste",
+        "salva",
+        "outputs",
+        "saude",
+        "sao"
+      ]
+    },
+    "memory:memory/2026-07-20.md:89:99": {
+      "key": "memory:memory/2026-07-20.md:89:99",
+      "path": "memory/2026-07-20.md",
+      "startLine": 89,
+      "endLine": 99,
+      "source": "memory",
+      "snippet": "- Calendário operacional F2 atualizado em `[F2] memory/outputs/sms-sao-sebastiao-calendario-editorial-julho-2026-completo-f1-ancorado.md`, seção `21/07 — Terça — Serviços Especializados`. - Ajuste aplicado: serviços agora incluem `Laboratório, Espaço Cuidar, Oftalmologia, CEO/Saúde Bucal e Recepção/Regulação da Secretaria`; Story 5 virou `Recepção/Regulação da Secretaria — Marcação de Exames`. - Nota de ajuste salva em `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-20-ajuste-calendario-servicos-especializados-recepcao-regulacao.md`. ## SAÚDE — auditoria da Estrutura da Secretaria - Jadielson pediu auditoria aprofundada da pasta `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estru",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38906873464584346,
+      "maxScore": 0.38906873464584346,
+      "firstRecalledAt": "2026-07-22T21:42:42.598Z",
+      "lastRecalledAt": "2026-07-22T21:42:42.598Z",
+      "queryHashes": [
+        "92681a3aabc7"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "21/07",
+        "ceo/saúde",
+        "recepção/regulação",
+        "5-frentes/saude-sao-sebastiao/01",
+        "calendário",
+        "operacional",
+        "atualizado",
+        "outputs"
+      ]
+    },
+    "memory:memory/2026-07-13.md:25:39": {
+      "key": "memory:memory/2026-07-13.md:25:39",
+      "path": "memory/2026-07-13.md",
+      "startLine": 25,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.5543835401535033,
+      "maxScore": 0.406026691198349,
+      "firstRecalledAt": "2026-07-22T21:42:42.598Z",
+      "lastRecalledAt": "2026-07-22T21:42:52.875Z",
+      "queryHashes": [
+        "92681a3aabc7",
+        "f5959fab36cd",
+        "1576ef06780e",
+        "144d72980f66"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "operação/automação",
+        "leads/clientes",
+        "make.com",
+        "localizar/validar",
+        "logo/aplicações",
+        "produção/agenda",
+        "17/07/2026",
+        "projetos/cliente"
+      ]
+    },
+    "memory:memory/2026-07-13.md:1:27": {
+      "key": "memory:memory/2026-07-13.md:1:27",
+      "path": "memory/2026-07-13.md",
+      "startLine": 1,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "--- tema: 07 13 atualizado_em: 2026-07-22 --- # 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.4951781213283537,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:42:42.598Z",
+      "lastRecalledAt": "2026-07-22T21:46:03.897Z",
+      "queryHashes": [
+        "92681a3aabc7",
+        "f5959fab36cd",
+        "1576ef06780e",
+        "144d72980f66",
+        "24d3cd952be1"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "atualizado-em",
+        "1/lógika",
+        "agents.md",
+        "mapa.md",
+        "user.md",
+        "soul.md",
+        "memory.md",
+        "memory/context/pendencias.md"
+      ]
+    },
+    "memory:memory/2026-07-20.md:281:291": {
+      "key": "memory:memory/2026-07-20.md:281:291",
+      "path": "memory/2026-07-20.md",
+      "startLine": 281,
+      "endLine": 291,
+      "source": "memory",
+      "snippet": "- Para segunda-feira `Atenção Básica/Território`, só entra como complemento de fluxo/CTA (\"depois da solicitação na unidade, a regulação organiza o agendamento\"), não como tema principal. ## SAÚDE — calendário atualizado: Recepção/Regulação em Serviços Especializados - Jadielson autorizou incluir a Recepção/Regulação da Secretaria no pilar `Serviços Especializados`. - Calendário operacional F2 atualizado em `[F2] memory/outputs/sms-sao-sebastiao-calendario-editorial-julho-2026-completo-f1-ancorado.md`, seção `21/07 — Terça — Serviços Especializados`. - Ajuste aplicado: serviços agora incluem `Laboratório, Espaço Cuidar, Oftalmologia, CEO/Saúde Bucal e Recepção/Regulação da Secretaria`; Stor",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36397547423839566,
+      "maxScore": 0.36397547423839566,
+      "firstRecalledAt": "2026-07-22T21:42:42.598Z",
+      "lastRecalledAt": "2026-07-22T21:42:42.598Z",
+      "queryHashes": [
+        "92681a3aabc7"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "segunda-feira",
+        "básica/território",
+        "fluxo/cta",
+        "recepção/regulação",
+        "21/07",
+        "ceo/saúde",
+        "segunda",
+        "feira"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-21.md:113:147": {
+      "key": "memory:memory/daily-briefs/2026-07-21.md:113:147",
+      "path": "memory/daily-briefs/2026-07-21.md",
+      "startLine": 113,
+      "endLine": 147,
+      "source": "memory",
+      "snippet": "- **Pré-lançamento:** começou ontem (20/07) — HOJE é Teaser 1 - **CCO produziu:** pacote criativo com 11 documentos - **Pendente:** confirmar canal, texto final, autorizações de uso de imagem ### ✅ Mission Control — Painel HTML - ✅ Mockup criado com 6 abas, drag & drop, tema black piano - ✅ PRD salvo em `[F2] memory/projects/mission-control-prd.md` - ⏳ **Aguardando feedback de Jadielson** sobre a interatividade - ⏳ Fase 2 (dados reais do Cofre) e Fase 3 (APIs externas) — paradas ### ✅ Backlog Inteligente + Método TDAH - ✅ Consolidação v3 e v4 operacional salvas - ✅ Parecer integrado: Backlog Inteligente + ebook TDAH + 5 bônus - ✅ Direção: criar Backlog Inteligente v5 — Execução TDAH - ✅ Te",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38737589716911314,
+      "maxScore": 0.38737589716911314,
+      "firstRecalledAt": "2026-07-22T21:42:46.821Z",
+      "lastRecalledAt": "2026-07-22T21:42:46.821Z",
+      "queryHashes": [
+        "f5959fab36cd"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "pré-lançamento",
+        "20/07",
+        "pré",
+        "lançamento",
+        "começou",
+        "ontem",
+        "hoje",
+        "teaser"
+      ]
+    },
+    "memory:memory/2026-07-22.md:35:76": {
+      "key": "memory:memory/2026-07-22.md:35:76",
+      "path": "memory/2026-07-22.md",
+      "startLine": 35,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "- **Permissão:** Qualquer um com link pode editar - **Acessível via:** `loh.open.logika@gmail.com` ### Estrutura da pasta (árvore completa via gog) ``` ENTRE TEMPOS — Video Clipe / Lançamento/ ├── 00_CONTROLE_LANCAMENTO_ENTRE_TEMPOS (doc Google) ├── 01_Video_Final/ │ └── ENTRE TEMPOS_FINAL_APROVACAO_01_com cor.mp4 (95.2 MB) ├── 02_Capa_Thumbnail/ (vazia) ├── 03_Musica_Links/ │ └── AUDIO/ ├── 04_Divulgacao/ (docs de estratégia) ├── 05_Bastidores/ (fotos HEIC + 15 março 2025) ├── 06_Aprovacoes_Referencias/ ├── 07_ADMINISTRATIVO/ │ ├── 1ª PRESTAÇÕES DE CONTAS PARCIAIS │ ├── 2ª PRESTAÇÕE",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36570532023906704,
+      "maxScore": 0.36570532023906704,
+      "firstRecalledAt": "2026-07-22T21:42:52.783Z",
+      "lastRecalledAt": "2026-07-22T21:42:52.783Z",
+      "queryHashes": [
+        "1576ef06780e"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "loh.open.logika",
+        "gmail.com",
+        "01-video-final",
+        "tempos-final-aprovacao-01-com",
+        "cor.mp4",
+        "95.2",
+        "02-capa-thumbnail",
+        "03-musica-links"
+      ]
+    },
+    "memory:memory/2026-07-13.md:44:49": {
+      "key": "memory:memory/2026-07-13.md:44:49",
+      "path": "memory/2026-07-13.md",
+      "startLine": 44,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "- O Fio da Memória: pesquisa pronta; escolher protagonista, confirmar narrador-historiador e migrar para roteiro/captação. - Saúde/SMS: rotina editorial em teste; pautas semanais e demanda pontual da recepção sem atendimento no dia 16 aguardando dados. - JD AutoCenter: checar se ainda existe pendência; se concluído, arquivar como resolvido. - Inbox do Cofre: triar em lote por destino simples. - LÓGIKA marca/comercial: propostas, serviços, identidade visual, leads/Notion/Make seguem como projeto estruturante, não urgência de entrega do dia.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.37628731727600095,
+      "maxScore": 0.37628731727600095,
+      "firstRecalledAt": "2026-07-22T21:42:52.875Z",
+      "lastRecalledAt": "2026-07-22T21:42:52.875Z",
+      "queryHashes": [
+        "144d72980f66"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "narrador-historiador",
+        "roteiro/captação",
+        "saúde/sms",
+        "marca/comercial",
+        "leads/notion/make",
+        "fio",
+        "memória",
+        "pesquisa"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-21.md:62:91": {
+      "key": "memory:memory/daily-briefs/2026-07-21.md:62:91",
+      "path": "memory/daily-briefs/2026-07-21.md",
+      "startLine": 62,
+      "endLine": 91,
+      "source": "memory",
+      "snippet": "**⚠️ Nota de correção de calendário:** Dias da semana estavam trocados nos planos anteriores. O correto é: - **Ontem 20/07 (seg)** — ✅ Post silêncio estratégico / \"Vem aí\" (deveria ter sido publicado) - **HOJE 21/07 (ter)** — 🎬 **Teaser 1 — Mistério (15-20s)** — YouTube + Instagram - **22/07 (qua)** — Fotos antigas + atuais — memória e cidade - **24/07 (sex)** — Depoimento 1 Cantor(a) (30-45s) - **26/07 (dom)** — Bastidores + Depoimento 2 - **28/07 (ter)** — Trailer oficial (45-60s) - **29/07 (qua)** — Contagem regressiva - **30/07 (qui)** — 🚀 **LANÇAMENTO OFICIAL 20h** **CCO produziu:** pacote criativo completo (`06-pacote-criativo-entre-tempos-aquecimento-fase1.md`) com conceito central",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:45:34.378Z",
+      "lastRecalledAt": "2026-07-22T21:45:34.378Z",
+      "queryHashes": [
+        "186a0a7207aa"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "20/07",
+        "21/07",
+        "15-20s",
+        "22/07",
+        "24/07",
+        "30-45s",
+        "26/07",
+        "28/07"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-18.md:129:146": {
+      "key": "memory:memory/daily-briefs/2026-07-18.md:129:146",
+      "path": "memory/daily-briefs/2026-07-18.md",
+      "startLine": 129,
+      "endLine": 146,
+      "source": "memory",
+      "snippet": "| **Sáb 18/07 (hoje)** | Decisão Miro exclusivo + alerta PNAB Fio da Memória | --- ## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadie",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:46:03.897Z",
+      "lastRecalledAt": "2026-07-22T21:46:03.897Z",
+      "queryHashes": [
+        "24d3cd952be1"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "18/07",
+        "1.1g",
+        "sáb",
+        "hoje",
+        "decisão",
+        "miro",
+        "exclusivo",
+        "alerta"
+      ]
+    },
+    "memory:memory/2026-06-24.md:1:32": {
+      "key": "memory:memory/2026-06-24.md:1:32",
+      "path": "memory/2026-06-24.md",
+      "startLine": 1,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "--- tema: 06 24 atualizado_em: 2026-07-22 --- - [cron] ensure-integrations: OK — tavily=ok, notion=conectado, whisper=disponivel, config=valido - 2026-06-24 05:42 UTC — health: ensure-integrations.sh — todas as integrações OK (tavily, notion, whisper) ## 11:42 — Cron: ensure-critical-integrations - Script: `ensure-integrations.sh` — executado com sucesso - Status: ✅ Todas as integrações já estavam aplicadas - Tavily, Notion e Whisper OK - Config `openclaw.json` válido ## 13:27 → 14:15 — Correção sync Notion→Calendar **Problema:** Token Google OAuth expirado/revogado. 27 erros no sync. **Solução:** - Re-autenticação via OAuth (conta loh.open.logika@gmail.com) - Mapping de eventos limpo (",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:46:03.897Z",
+      "lastRecalledAt": "2026-07-22T21:46:03.897Z",
+      "queryHashes": [
+        "24d3cd952be1"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "atualizado-em",
+        "ensure-integrations",
+        "ensure-integrations.sh",
+        "ensure-critical-integrations",
+        "openclaw.json",
+        "expirado/revogado",
+        "re-autenticação",
+        "loh.open.logika"
+      ]
+    },
+    "memory:memory/daily-briefs/2026-07-18.md:98:137": {
+      "key": "memory:memory/daily-briefs/2026-07-18.md:98:137",
+      "path": "memory/daily-briefs/2026-07-18.md",
+      "startLine": 98,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "- ✅ Board antigo \"MAPA MENTAL GERAL\" limpo - ⏳ Observação de Jadielson: não viu os cards — foram reposicionados para área visível --- ## 🚀 PROJETOS EM ANDAMENTO ### ✅ Entre Tempos — Videoclipe - **Lançamento:** 30/07/2026, 20h - **Pré-lançamento começa:** 21/07 (segunda) - **Status:** plano de lançamento aprovado; peças a produzir - **Pendente:** confirmar canal, texto final, autorizações de uso ### ✅ Jogos Indígenas Karapotó — MiniDoc - **Status:** aguardando Jadielson — já tem proposta aprovada, narrativa em andamento - **Pendente:** cronograma de finalização e entrega ### ✅ Minidocs Assembleia de Deus - **Status:** material captado, precisa organizar por inauguração e criar timeline",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:46:03.897Z",
+      "lastRecalledAt": "2026-07-22T21:46:03.897Z",
+      "queryHashes": [
+        "24d3cd952be1"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "30/07/2026",
+        "pré-lançamento",
+        "21/07",
+        "board",
+        "antigo",
+        "mapa",
+        "mental",
+        "geral"
+      ]
+    },
+    "memory:memory/2026-07-22.md:69:106": {
+      "key": "memory:memory/2026-07-22.md:69:106",
+      "path": "memory/2026-07-22.md",
+      "startLine": 69,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "│ ├── Centro da Município - Salomé │ ├── Construção da Casa Maternal │ ├── Fachada da Casa Maternal │ ├── Igreja Matriz de São Sebastião (2011) │ ├── Apresentações Banda Fanfarra (2014/2015) │ ├── Entroncamento - Entrada da cidade │ └── +40 fotos IMG_86xx (fotos atuais) └── ROTEIROS/ ├── ROTEIRO CLIPE ENTRE TEMPOS - SÃO SEBASTIÃO ├── MAPA DE CAPTAÇÃO.docx └── CATEGORIZAÇÃO GERAL DAS IMAGENS DE APOIO ``` ### Post de hoje (22/07) — \"Memória e cidade\" Conforme cronograma da semana (briefing 21/07): - **Qua 22/07:** Fotos antigas + atuais — Tema \"Memória e cidade\" - Perfeito! O acervo de fotos antigas e históricas + fotos atuais (bastidores",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-22T21:46:03.897Z",
+      "lastRecalledAt": "2026-07-22T21:46:03.897Z",
+      "queryHashes": [
+        "24d3cd952be1"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "2014/2015",
+        "img-86xx",
+        "captação.docx",
+        "22/07",
+        "21/07",
+        "centro",
+        "município",
+        "salomé"
+      ]
+    },
+    "memory:memory/2026-07-20.md:49:59": {
+      "key": "memory:memory/2026-07-20.md:49:59",
+      "path": "memory/2026-07-20.md",
+      "startLine": 49,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "- Direção registrada: **PROJETOS** e **ESTUDOS** não devem ser agentes únicos, mas sim **macrogrupos/ambientes de trabalho** dentro da Central Pessoal, coordenados por **Alfred** e com apoio da **Arca** para memória/conhecimento. - **PROJETOS** deve funcionar como sala operacional para projetos pessoais/autorais de Jadielson, com tópicos por projeto e acionamento pontual de especialistas conforme necessidade. - **ESTUDOS** deve funcionar como sala de aprendizagem, cursos, leituras e métodos, com tópicos por curso/tema e produção de sínteses, fichamentos, templates e aplicação prática. - Lôh mantém autoridade transversal quando algum projeto/estudo impactar empresa, clientes, arquitetura do e",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.40836532115936275,
+      "maxScore": 0.40836532115936275,
+      "firstRecalledAt": "2026-07-22T21:48:41.361Z",
+      "lastRecalledAt": "2026-07-22T21:48:41.361Z",
+      "queryHashes": [
+        "7fef392fbde0"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "macrogrupos/ambientes",
+        "memória/conhecimento",
+        "pessoais/autorais",
+        "curso/tema",
+        "projeto/estudo",
+        "direção",
+        "registrada",
+        "projetos"
+      ]
+    },
+    "memory:memory/2026-06-22.md:1:30": {
+      "key": "memory:memory/2026-06-22.md:1:30",
+      "path": "memory/2026-06-22.md",
+      "startLine": 1,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "--- tema: 06 22 atualizado_em: 2026-07-22 --- # 2026-06-22 — Registro de Memória ## Ações e Decisões ### 1. Orquestração de Agentes e Modelos - **Novos Agentes Ativados:** CCO, CMO, CIO, COO, CTO, CFO agora estão configurados com `configured: true`, nomes e prompts apropriados. Eles trabalham como subagentes sob orquestração da Lôh. - **Modelos de IA Atualizados:** - Modelo primário global setado para `openai-codex/gpt-5.5`. - Modelo secundário automático (fallback) configurado como `openrouter/deepseek/deepseek-v4-flash`, garantindo transição suave em caso de limitações do modelo principal. - **Gateway Reiniciado:** Para aplicar as mudanças de modelo e configuração de agentes. #",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3586861759424209,
+      "maxScore": 0.3586861759424209,
+      "firstRecalledAt": "2026-07-22T21:51:11.412Z",
+      "lastRecalledAt": "2026-07-22T21:51:11.412Z",
+      "queryHashes": [
+        "a97c30d58d7e"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "openai",
+        "router",
+        "atualizado-em",
+        "openai-codex/gpt-5.5",
+        "tema",
+        "registro"
       ]
     }
   }

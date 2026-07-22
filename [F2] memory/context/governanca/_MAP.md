@@ -1,3 +1,8 @@
+---
+tema: MAP
+atualizado_em: 2026-07-22
+---
+
 # 🗂️ _MAP — Governança & Compliance (CIO)
 
 **Caminho:** `[F2] memory/context/governanca/`  

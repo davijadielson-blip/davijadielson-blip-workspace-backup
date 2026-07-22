@@ -1,3 +1,8 @@
+---
+tema: task reviewer prompt
+atualizado_em: 2026-07-22
+---
+
 # Task Reviewer Prompt Template
 
 Use this template when dispatching a task reviewer subagent. The reviewer

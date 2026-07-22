@@ -1,3 +1,8 @@
+---
+tema: CENTRAL DE PESQUISA LOGIKA
+atualizado_em: 2026-07-22
+---
+
 # Central de Pesquisa LÓGIKA — mapa de bases e integrações
 
 > Criado em 2026-06-05. Dono: Jadielson Davi. Agente responsável: Lôh. Uso: enriquecer pesquisas, estratégias, conteúdos, propostas, roteiros, diagnósticos e decisões da LÓGIKA.

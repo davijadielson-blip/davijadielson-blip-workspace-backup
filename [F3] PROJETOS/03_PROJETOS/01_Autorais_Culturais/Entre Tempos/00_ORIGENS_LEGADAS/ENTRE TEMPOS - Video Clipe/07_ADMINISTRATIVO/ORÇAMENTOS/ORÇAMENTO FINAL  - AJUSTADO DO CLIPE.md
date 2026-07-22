@@ -1,3 +1,8 @@
+---
+tema: ORÇAMENTO FINAL    AJUSTADO DO CLIPE
+atualizado_em: 2026-07-22
+---
+
 # ORÇAMENTO FINAL  - AJUSTADO DO CLIPE
 
 > Convertido para Markdown a partir de `ORÇAMENTO FINAL  - AJUSTADO DO CLIPE.pdf`.
@@ -32,7 +37,8 @@ Alimentação Custeio logístico e alimentício R$ 700,00
 Aluguel de Figurinos 
 e Adereços Custeio para enriquecimento das cenas R$ 550,00 
  
-��� Resumo Final do Orçamento 
+
+��� Resumo Final do Orçamento 
 • Total já pago: R$ 14.200,00 (compra de câmeras e lentes; e a agência OXE) 
 • Total restante para pagamentos e despesas: R$ 7.800,00Total Geral: R$ 
 22.000,00

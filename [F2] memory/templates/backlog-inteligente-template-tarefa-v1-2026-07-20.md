@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente template tarefa v1 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Template — Tarefa — Backlog Inteligente v5
 
 ```yaml

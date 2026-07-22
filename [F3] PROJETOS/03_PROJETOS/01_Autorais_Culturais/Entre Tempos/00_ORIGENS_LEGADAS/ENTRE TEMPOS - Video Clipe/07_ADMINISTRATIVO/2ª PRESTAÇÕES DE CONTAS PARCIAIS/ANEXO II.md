@@ -1,3 +1,8 @@
+---
+tema: ANEXO II
+atualizado_em: 2026-07-22
+---
+
 # ANEXO II
 
 > Convertido para Markdown a partir de `ANEXO II.pdf`.

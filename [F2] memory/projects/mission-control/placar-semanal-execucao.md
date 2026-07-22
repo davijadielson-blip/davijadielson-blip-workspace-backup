@@ -1,3 +1,8 @@
+---
+tema: placar semanal execucao
+atualizado_em: 2026-07-22
+---
+
 # Placar Semanal de Execução — Mission Control
 
 **Status:** Ativo — v0.1  

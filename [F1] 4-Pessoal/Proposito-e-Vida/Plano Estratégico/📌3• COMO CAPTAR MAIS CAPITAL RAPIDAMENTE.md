@@ -1,3 +1,8 @@
+---
+tema: 📌3• COMO CAPTAR MAIS CAPITAL RAPIDAMENTE
+atualizado_em: 2026-07-22
+---
+
 Vamos estruturar duas frentes estratégicas:
 
 1️⃣ Como captar mais capital rapidamente para aliviar as finanças.

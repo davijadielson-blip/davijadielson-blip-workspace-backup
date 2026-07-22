@@ -1,3 +1,8 @@
+---
+tema: 06 27 regra geral cofre projetos topicos
+atualizado_em: 2026-07-22
+---
+
 # Regra geral — Cofre correto por projeto/tópico
 
 Data: 2026-06-27 22:45 UTC  

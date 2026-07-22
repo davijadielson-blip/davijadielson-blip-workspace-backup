@@ -1,3 +1,8 @@
+---
+tema: FAQ
+atualizado_em: 2026-07-22
+---
+
 # FAQ — Starter Kit OpenClaw v1
 
 > 10 perguntas essenciais. Aluno acessa via comando `"faq"` no Telegram (carrega esta página inteira ou seção específica).

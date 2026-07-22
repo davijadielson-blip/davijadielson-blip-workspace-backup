@@ -1,3 +1,8 @@
+---
+tema: Padrões que Emergiram
+atualizado_em: 2026-07-22
+---
+
 Com base em tudo que já construímos juntos para a **Secretaria de Saúde de São Sebastião**, alguns **padrões editoriais ficaram muito claros**. Eles já formam, na prática, uma **identidade própria** da comunicação desse cliente.
 
 ---

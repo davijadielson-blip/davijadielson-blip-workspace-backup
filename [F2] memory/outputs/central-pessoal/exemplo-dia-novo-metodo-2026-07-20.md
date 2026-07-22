@@ -1,3 +1,8 @@
+---
+tema: exemplo dia novo metodo 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Exemplo — Dia com novo método
 
 **Data:** 2026-07-20

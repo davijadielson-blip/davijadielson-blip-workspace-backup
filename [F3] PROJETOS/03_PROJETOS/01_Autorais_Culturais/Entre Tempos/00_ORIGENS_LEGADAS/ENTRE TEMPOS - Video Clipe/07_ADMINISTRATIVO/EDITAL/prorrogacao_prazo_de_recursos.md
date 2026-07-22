@@ -1,3 +1,8 @@
+---
+tema: prorrogacao prazo de recursos
+atualizado_em: 2026-07-22
+---
+
 # prorrogacao_prazo_de_recursos
 
 > Convertido para Markdown a partir de `prorrogacao_prazo_de_recursos.pdf`.

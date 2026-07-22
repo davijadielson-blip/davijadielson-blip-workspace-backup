@@ -1,3 +1,8 @@
+---
+tema: CLIPES ENTRE TEMPOS
+atualizado_em: 2026-07-22
+---
+
 # CLIPES ENTRE TEMPOS
 
 > Convertido para Markdown a partir de `CLIPES ENTRE TEMPOS.pdf`.

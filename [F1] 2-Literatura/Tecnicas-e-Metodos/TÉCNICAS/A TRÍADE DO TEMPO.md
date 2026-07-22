@@ -1,3 +1,8 @@
+---
+tema: A TRÍADE DO TEMPO
+atualizado_em: 2026-07-22
+---
+
 IMPORTANTE    -----   URGENTE -----  CIRCUNSTANCIAL
 
 ---

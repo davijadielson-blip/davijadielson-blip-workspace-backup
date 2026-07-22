@@ -1,3 +1,8 @@
+---
+tema: 06 19 sexta flexivel dia extra ajuste
+atualizado_em: 2026-07-22
+---
+
 # Ajuste de Pilar — Sextas-feiras Saúde SSS
 
 **Data:** 2026-06-19  

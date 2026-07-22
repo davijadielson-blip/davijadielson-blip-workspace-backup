@@ -1,3 +1,8 @@
+---
+tema: roteiro post saude julho amarelo 24 07 2026
+atualizado_em: 2026-07-22
+---
+
 # 🎬 ROTEIRO SAÚDE — Post Aviso Final Julho Amarelo
 
 **Documento:** CCO — Roteiro Semana 4 | Sexta 24/07

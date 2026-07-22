@@ -1,3 +1,8 @@
+---
+tema: 07 20 diagnostico financeiro logika
+atualizado_em: 2026-07-22
+---
+
 # 💰 CFO — Diagnóstico Financeiro LÓGIKA Creative
 
 **Data:** 2026-07-20

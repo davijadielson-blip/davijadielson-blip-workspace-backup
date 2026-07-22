@@ -1,3 +1,8 @@
+---
+tema: Roteiros de Vídeo
+atualizado_em: 2026-07-22
+---
+
 Os roteiros de vídeo da Câmara Municipal de São Sebastião seguem uma lógica muito específica:  
 eles precisam parecer:
 

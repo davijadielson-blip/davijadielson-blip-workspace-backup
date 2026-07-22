@@ -1,3 +1,8 @@
+---
+tema: MAPA.template
+atualizado_em: 2026-07-22
+---
+
 # MAPA — Workspace do {NOME_AGENTE}
 
 > Mapa central. Leia este arquivo pra saber onde encontrar qualquer coisa.

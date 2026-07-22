@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente prints projetos subprojetos tarefas 2...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Prints de projetos, subprojetos e tarefas
 
 **Data:** 2026-07-20  

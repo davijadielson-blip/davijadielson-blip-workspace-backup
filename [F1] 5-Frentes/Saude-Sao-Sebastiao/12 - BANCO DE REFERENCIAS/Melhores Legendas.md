@@ -1,3 +1,8 @@
+---
+tema: Melhores Legendas
+atualizado_em: 2026-07-22
+---
+
  **levantamento organizado das legendas mais fortes que já construímos juntos**, com foco no que realmente ficou **redondo em tom, estrutura e impacto**.
 
 **Critério que usei aqui:** legendas que ficaram mais completas, bem posicionadas institucionalmente e com cara de conteúdo que:

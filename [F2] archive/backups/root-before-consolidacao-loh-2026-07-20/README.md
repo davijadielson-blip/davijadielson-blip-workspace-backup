@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Backup raiz — antes da consolidação Lôh/Superpowers/Starter Kit
 
 Data: 2026-07-20

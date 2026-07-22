@@ -1,3 +1,8 @@
+---
+tema: USER amora
+atualizado_em: 2026-07-22
+---
+
 # USER-amora
 
 USER.md — Sobre o Bruno Okamoto

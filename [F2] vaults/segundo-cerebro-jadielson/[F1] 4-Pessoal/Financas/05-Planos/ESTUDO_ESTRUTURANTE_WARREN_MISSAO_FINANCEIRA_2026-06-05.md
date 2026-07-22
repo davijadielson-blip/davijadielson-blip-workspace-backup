@@ -1,3 +1,8 @@
+---
+tema: ESTUDO ESTRUTURANTE WARREN MISSAO FINANCEIRA 2026 06 05
+atualizado_em: 2026-07-22
+---
+
 # Estudo Estruturante — Warren / Missão Financeira Pessoal
 
 Data: 2026-06-05

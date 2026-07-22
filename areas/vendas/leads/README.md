@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Vendas — Leads
 
 Pasta para registro de leads, indicações e oportunidades comerciais.

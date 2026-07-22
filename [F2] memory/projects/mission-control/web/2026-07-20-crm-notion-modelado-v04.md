@@ -1,3 +1,8 @@
+---
+tema: 07 20 crm notion modelado v04
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v0.4 — CRM Notion modelado
 
 **Data:** 2026-07-20 00:25 UTC  

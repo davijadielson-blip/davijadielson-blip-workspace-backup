@@ -1,3 +1,8 @@
+---
+tema: LEIA ME MAPA 360
+atualizado_em: 2026-07-22
+---
+
 # [F3] PROJETOS — Organização canônica pelo Mapa 360
 
 **Atualizado em:** 2026-07-19 05:05 UTC

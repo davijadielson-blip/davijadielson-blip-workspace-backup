@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Filantropia e Instituto MD
 
 **Macroestrutura:** `03_PROJETOS/03_Legado_Impacto`

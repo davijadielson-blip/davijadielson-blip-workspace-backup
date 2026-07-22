@@ -1,3 +1,8 @@
+---
+tema: RELATORIO DE PESQUISA DE CAMPO assinado
+atualizado_em: 2026-07-22
+---
+
 # RELATORIO_DE_PESQUISA_DE_CAMPO_assinado
 
 > Convertido para Markdown a partir de `RELATORIO_DE_PESQUISA_DE_CAMPO_assinado.pdf`.

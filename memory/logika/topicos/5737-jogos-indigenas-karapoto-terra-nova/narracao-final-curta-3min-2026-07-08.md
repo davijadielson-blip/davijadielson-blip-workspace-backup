@@ -1,3 +1,8 @@
+---
+tema: narracao final curta 3min 2026 07 08
+atualizado_em: 2026-07-22
+---
+
 # Narração Final Curta — Aproximadamente 3 Minutos
 ## II Jogos Indígenas Karapotó Terra Nova
 

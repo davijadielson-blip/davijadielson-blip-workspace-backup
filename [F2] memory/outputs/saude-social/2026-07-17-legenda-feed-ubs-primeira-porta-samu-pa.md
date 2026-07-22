@@ -1,3 +1,8 @@
+---
+tema: 07 17 legenda feed ubs primeira porta samu pa
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Legenda ajustada: UBS como primeira porta, SAMU/PA para urgência
 
 Jadielson ajustou a diretriz: evitar termo “tumulto”; não dar protagonismo excessivo ao PA; fortalecer UBS/PSF/postinho como principal solução, primeira porta e lugar de resolutividade/prevenção. Ideia central: prevenir é melhor que remediar e também organiza melhor o SUS.

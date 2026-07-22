@@ -1,3 +1,8 @@
+---
+tema: 07 18 backlog inteligente topico
+atualizado_em: 2026-07-22
+---
+
 # Sessão — Criação do tópico Backlog Inteligente
 
 **Data:** 2026-07-18 19:24 UTC  

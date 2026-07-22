@@ -1,3 +1,8 @@
+---
+tema: DIA 17 — A AÇÃO COERENTE
+atualizado_em: 2026-07-22
+---
+
 # DIA 17 — A AÇÃO COERENTE
 
 **Fase 3 — Coerência Pura**

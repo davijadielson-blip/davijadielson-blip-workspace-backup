@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente prompt padrao fatiamento 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Prompt padrão de fatiamento inteligente
 
 **Data:** 2026-07-19 03:19 UTC  

@@ -1,3 +1,8 @@
+---
+tema: mission control blueprint mvp v1 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Mission Control — Blueprint MVP v1
 
 **Data:** 2026-07-20  

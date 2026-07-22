@@ -1,3 +1,8 @@
+---
+tema: rota stories 2026 06 16 saude especializados
+atualizado_em: 2026-07-22
+---
+
 # Rota de Stories — 16 de junho de 2026
 ## Secretaria de Saúde | Serviços Especializados
 

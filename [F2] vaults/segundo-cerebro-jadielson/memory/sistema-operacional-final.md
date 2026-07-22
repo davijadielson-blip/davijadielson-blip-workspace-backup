@@ -1,3 +1,8 @@
+---
+tema: sistema operacional final
+atualizado_em: 2026-07-22
+---
+
 # SISTEMA OPERACIONAL FINAL — LÔH + SQUAD + COORDENADORES
 
 **Data:** 2026-06-07  

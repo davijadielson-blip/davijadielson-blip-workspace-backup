@@ -1,3 +1,8 @@
+---
+tema: code reviewer
+atualizado_em: 2026-07-22
+---
+
 # Code Reviewer Prompt Template
 
 Use this template when dispatching a code reviewer subagent.

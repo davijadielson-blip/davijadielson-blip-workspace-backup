@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # MAPA — Workspace do Jarvis / LÓGIKA
 
 > Mapa central de navegação do workspace do Jarvis. Use este arquivo para localizar identidade, regras, memória, skills, integrações e frentes operacionais da LÓGIKA.

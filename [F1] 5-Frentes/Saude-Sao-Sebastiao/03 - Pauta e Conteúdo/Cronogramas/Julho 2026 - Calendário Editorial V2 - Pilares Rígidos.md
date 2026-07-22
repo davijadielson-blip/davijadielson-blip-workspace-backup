@@ -1,3 +1,8 @@
+---
+tema: Julho 2026   Calendário Editorial V2   Pilares Rígidos
+atualizado_em: 2026-07-22
+---
+
 # SAÚDE – SOCIAL MEDIA · JULHO/2026 — CALENDÁRIO EDITORIAL V2
 
 > Status: **rascunho operacional para validação humana de Jadielson/SMS antes de publicar**. Não usar como publicação automática.

@@ -1,3 +1,8 @@
+---
+tema: 07 17 headlines samu pa fluxo urgencia
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Headlines stories SAMU + Pronto Atendimento
 
 Pedido de Jadielson por áudio no tópico Saúde Social Media: criar 2 ou 3 headlines ligadas entre si para stories mostrando a relação entre SAMU e Pronto Atendimento/Unidade Mista, a partir de captação real com viatura em frente ao PA, equipe na base e atendimento no pronto atendimento.

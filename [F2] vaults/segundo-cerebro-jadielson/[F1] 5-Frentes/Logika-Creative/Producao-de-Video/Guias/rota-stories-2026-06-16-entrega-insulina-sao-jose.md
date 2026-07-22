@@ -1,3 +1,8 @@
+---
+tema: rota stories 2026 06 16 entrega insulina sao jose
+atualizado_em: 2026-07-22
+---
+
 # Story — Entrega de Canetas de Insulina São José
 ## 16 de junho de 2026
 

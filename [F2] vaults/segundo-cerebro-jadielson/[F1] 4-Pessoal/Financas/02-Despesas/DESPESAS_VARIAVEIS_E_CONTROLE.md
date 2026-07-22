@@ -1,3 +1,8 @@
+---
+tema: DESPESAS VARIAVEIS E CONTROLE
+atualizado_em: 2026-07-22
+---
+
 # Despesas Variáveis e Controle
 
 | Descrição | Valor médio | Decisão 30 dias |

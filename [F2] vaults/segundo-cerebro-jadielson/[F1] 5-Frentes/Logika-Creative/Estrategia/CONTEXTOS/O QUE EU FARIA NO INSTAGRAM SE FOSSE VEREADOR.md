@@ -1,3 +1,8 @@
+---
+tema: O QUE EU FARIA NO INSTAGRAM SE FOSSE VEREADOR
+atualizado_em: 2026-07-22
+---
+
 A maioria dos vereadores se comunica muito mal nas
 redes sociais por não usar técnicas simples, que dá pra qualquer um fazer.
 Veja algumas...

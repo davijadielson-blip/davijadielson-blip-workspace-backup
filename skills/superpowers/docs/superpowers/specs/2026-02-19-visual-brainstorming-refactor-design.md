@@ -1,3 +1,8 @@
+---
+tema: 02 19 visual brainstorming refactor design
+atualizado_em: 2026-07-22
+---
+
 # Visual Brainstorming Refactor: Browser Displays, Terminal Commands
 
 **Date:** 2026-02-19

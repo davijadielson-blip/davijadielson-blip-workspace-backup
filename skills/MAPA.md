@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # MAPA — skills/
 
 > O que vive nesta pasta: skills/habilidades modulares que a Lôh usa para tarefas recorrentes.

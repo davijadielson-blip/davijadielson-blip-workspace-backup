@@ -1,3 +1,8 @@
+---
+tema: A terra das rendas de Bilro   tradicao artesanato economi...
+atualizado_em: 2026-07-22
+---
+
 # A_terra_das_rendas_de_Bilro_-_tradicao_artesanato_economia_e_cultura_em_Sao_Sebastiao-AL-DISSERTACAO-ROBSON_DOS_SANTOS_A
 
 > Conversão operacional para leitura e análise do agente. Conferir paginação/trechos críticos no PDF original antes de citação final.

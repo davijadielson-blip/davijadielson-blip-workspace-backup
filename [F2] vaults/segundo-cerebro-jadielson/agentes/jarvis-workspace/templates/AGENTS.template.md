@@ -1,3 +1,8 @@
+---
+tema: AGENTS.template
+atualizado_em: 2026-07-22
+---
+
 # AGENTS — Workspace do {NOME_AGENTE}
 
 Esse é o workspace do {NOME_AGENTE}, agente do {NOME_USER}.

@@ -1,3 +1,8 @@
+---
+tema: backup log
+atualizado_em: 2026-07-22
+---
+
 
 ## 2026-07-06 06:00 UTC — Backup automático (cron)
 

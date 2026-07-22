@@ -1,3 +1,8 @@
+---
+tema: Os 3 níveis de criação de conteúdo
+atualizado_em: 2026-07-22
+---
+
 
 
  - **Nível 1:** Converter quem já te conhece. Fazer as pessoas certas terem mais confiança em você, te conhecerem por conteúdo de "Como fiz X". Mostrar como fez algo, seus estudos de caso.

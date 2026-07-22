@@ -1,3 +1,8 @@
+---
+tema: SAUDE PRECISA CCO
+atualizado_em: 2026-07-22
+---
+
 # Pedido de Arte — SAÚDE Social Media → CCO
 
 **De:** SAÚDE Social Media

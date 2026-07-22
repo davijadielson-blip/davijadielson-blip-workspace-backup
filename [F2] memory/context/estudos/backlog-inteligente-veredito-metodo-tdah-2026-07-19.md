@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente veredito metodo tdah 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Veredito sobre integração com Método TDAH
 
 **Data:** 2026-07-19  

@@ -1,3 +1,8 @@
+---
+tema: tom de voz
+atualizado_em: 2026-07-22
+---
+
 # 🎤 Use Case: Análise de Tom de Voz
 
 > Ensine seu agente a escrever COMO VOCÊ.

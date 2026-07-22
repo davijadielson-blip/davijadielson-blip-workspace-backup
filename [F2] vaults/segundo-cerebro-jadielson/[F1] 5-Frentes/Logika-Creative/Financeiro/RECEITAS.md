@@ -1,3 +1,8 @@
+---
+tema: RECEITAS
+atualizado_em: 2026-07-22
+---
+
 
 | Cliente | Categoria    | Valor | Dia do Mês |
 | ------- | ------------ | ----- | :--------: |

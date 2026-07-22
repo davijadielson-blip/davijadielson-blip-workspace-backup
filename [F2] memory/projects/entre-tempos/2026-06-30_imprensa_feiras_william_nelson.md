@@ -1,3 +1,8 @@
+---
+tema: 06 30 imprensa feiras william nelson
+atualizado_em: 2026-07-22
+---
+
 # 2026-06-30 — ENTRE TEMPOS: William Nelson, jornais e feiras culturais
 
 Jadielson informou que conversou em 29/06/2026 com o jornalista William Nelson. Foi cogitada a ampliação da divulgação/lançamento do projeto ENTRE TEMPOS em jornais e feiras de cultura conhecidos por William. Essa frente deve ser considerada no aperfeiçoamento do lançamento, mantendo as datas já definidas até o momento.

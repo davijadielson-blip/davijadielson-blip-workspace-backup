@@ -1,3 +1,8 @@
+---
+tema: sindss emancipacao sao sebastiao 2026 05 31
+atualizado_em: 2026-07-22
+---
+
 # SINDSS — Emancipação Política de São Sebastião
 
 **Data:** 31 de maio de 2026  

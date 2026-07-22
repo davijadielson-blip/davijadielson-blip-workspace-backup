@@ -1,3 +1,8 @@
+---
+tema: METAS PESSOAIS
+atualizado_em: 2026-07-22
+---
+
 # Planejamentos Jadielson 
 
 

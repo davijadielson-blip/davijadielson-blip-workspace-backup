@@ -1,3 +1,8 @@
+---
+tema: posicionamento cmo julho amarelo 2026
+atualizado_em: 2026-07-22
+---
+
 # Posicionamento Estratégico — Julho Amarelo 2026
 
 **Origem:** CMO (Chief Marketing Officer)

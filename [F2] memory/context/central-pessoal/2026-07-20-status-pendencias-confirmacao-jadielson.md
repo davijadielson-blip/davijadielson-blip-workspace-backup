@@ -1,3 +1,8 @@
+---
+tema: 07 20 status pendencias confirmacao jadielson
+atualizado_em: 2026-07-22
+---
+
 # Status das pendências — confirmação de Jadielson
 
 **Data:** 2026-07-20 07:26 UTC  

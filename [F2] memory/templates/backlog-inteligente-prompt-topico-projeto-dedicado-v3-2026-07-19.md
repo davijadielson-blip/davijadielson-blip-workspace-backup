@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente prompt topico projeto dedicado v3 202...
+atualizado_em: 2026-07-22
+---
+
 # Template — Agente Gestor de Projeto Dedicado (Backlog Inteligente)
 
 **Data:** 2026-07-19 04:09 UTC  

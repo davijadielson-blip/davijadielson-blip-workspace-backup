@@ -1,3 +1,8 @@
+---
+tema: parecer cco lancamento entre tempos
+atualizado_em: 2026-07-22
+---
+
 # Parecer Criativo: Lançamento Videoclipe "Entre Tempos"
 
 **Projeto:** MISSÃO CCO — ENTRE TEMPOS

@@ -1,3 +1,8 @@
+---
+tema: T7 MULTI PERSONAGEM
+atualizado_em: 2026-07-22
+---
+
 # 🗣️ T7 — MULTI-PERSONAGEM / DEBATE INTERNO (25s)
 
 **Base viral:** Formato que MAIS CRESCE em 2026. Uma pessoa interpretando 3 papéis. Jump cuts a cada 3-5s = 72% mais chance de viralizar.

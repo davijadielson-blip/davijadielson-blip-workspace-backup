@@ -1,3 +1,8 @@
+---
+tema: ESTRATEGIA E SCRIPTS ENTRE TEMPOS 2026 06 28
+atualizado_em: 2026-07-22
+---
+
 # DOCUMENTO OFICIAL — ESTRATÉGIA E SCRIPTS
 ## ENTRE TEMPOS — Uma Homenagem a São Sebastião
 

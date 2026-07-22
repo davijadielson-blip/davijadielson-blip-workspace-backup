@@ -1,3 +1,8 @@
+---
+tema: PLANO OFICIAL LANCAMENTO 30 07 2026
+atualizado_em: 2026-07-22
+---
+
 # PLANO OFICIAL DE LANÇAMENTO — ENTRE TEMPOS
 
 > Campanha: **ENTRE TEMPOS — Uma Homenagem a São Sebastião**

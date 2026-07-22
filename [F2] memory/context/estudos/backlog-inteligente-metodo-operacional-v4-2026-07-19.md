@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente metodo operacional v4 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Método Operacional v4
 
 **Data:** 2026-07-19  

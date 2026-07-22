@@ -1,3 +1,8 @@
+---
+tema: 05 10 estrutura inicial
+atualizado_em: 2026-07-22
+---
+
 # Decisão Arquitetural — Estrutura Inicial do Vault
 
 **Data:** 2026-05-10

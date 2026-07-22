@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 todos 92 classificados v1 20...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Mapa 360 com todos os 92 itens classificados v1
 
 **Data:** 2026-07-18 23:55 UTC  

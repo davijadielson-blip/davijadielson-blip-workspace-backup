@@ -1,3 +1,8 @@
+---
+tema: 05 05 platform neutral readme design
+atualizado_em: 2026-07-22
+---
+
 # Platform-neutral README ordering — Phase C design
 
 ## Background

@@ -1,3 +1,8 @@
+---
+tema: ANEXO I
+atualizado_em: 2026-07-22
+---
+
 # ANEXO I
 
 > Convertido para Markdown a partir de `ANEXO I.pdf`.

@@ -1,3 +1,8 @@
+---
+tema: DIA 06 — O JEJUM DO INDESEJADO
+atualizado_em: 2026-07-22
+---
+
 # DIA 06 — O JEJUM DO INDESEJADO
 
 **Fase 1 — Consciência**

@@ -1,3 +1,8 @@
+---
+tema: registry
+atualizado_em: 2026-07-22
+---
+
 # Registry — planejamento/ (Superpowers curado)
 
 > 4 skills de pensamento/processo curadas do projeto open-source [obra/superpowers](https://github.com/obra/superpowers).

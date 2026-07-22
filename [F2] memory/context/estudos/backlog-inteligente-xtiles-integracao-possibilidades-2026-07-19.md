@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente xtiles integracao possibilidades 2026...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — xTiles: possibilidades de integração
 
 **Data:** 2026-07-19  

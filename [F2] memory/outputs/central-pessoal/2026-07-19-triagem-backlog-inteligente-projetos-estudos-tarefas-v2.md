@@ -1,3 +1,8 @@
+---
+tema: 07 19 triagem backlog inteligente projetos estudos tarefa...
+atualizado_em: 2026-07-22
+---
+
 # Triagem v2 — Backlog Inteligente: separar Projetos, Estudos e somente Tarefas Fatiadas
 
 **Data:** 2026-07-19 05:43 UTC  

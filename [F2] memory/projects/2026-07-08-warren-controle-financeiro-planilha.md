@@ -1,3 +1,8 @@
+---
+tema: 07 08 warren controle financeiro planilha
+atualizado_em: 2026-07-22
+---
+
 # Warren — Controle Financeiro Pessoal 2026
 
 **Criado em:** 2026-07-08

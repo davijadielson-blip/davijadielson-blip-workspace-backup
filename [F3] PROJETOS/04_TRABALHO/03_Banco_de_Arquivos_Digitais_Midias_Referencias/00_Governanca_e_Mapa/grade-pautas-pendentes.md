@@ -1,3 +1,8 @@
+---
+tema: grade pautas pendentes
+atualizado_em: 2026-07-22
+---
+
 # Grade de pautas pendentes — Banco de Arquivos Digitais, Mídias e Referências
 
 **Criado em:** 2026-07-19 05:24 UTC  

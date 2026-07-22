@@ -1,3 +1,8 @@
+---
+tema: loh memory
+atualizado_em: 2026-07-22
+---
+
 
 ## 🗄️ Vault Central (Segundo Cérebro)
 

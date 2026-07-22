@@ -1,3 +1,8 @@
+---
+tema: 07 18 my finance lancamentos
+atualizado_em: 2026-07-22
+---
+
 
 # Lançamento capturado — 2026-07-18
 

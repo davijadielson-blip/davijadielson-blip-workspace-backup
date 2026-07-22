@@ -1,3 +1,8 @@
+---
+tema: Prestação de contas parcial (relatório + anexos) Entre Te...
+atualizado_em: 2026-07-22
+---
+
 # Prestação de contas parcial (relatório + anexos)_Entre Tempos
 
 > Convertido para Markdown a partir de `Prestação de contas parcial (relatório + anexos)_Entre Tempos.pdf`.

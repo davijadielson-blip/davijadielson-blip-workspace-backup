@@ -1,3 +1,8 @@
+---
+tema: guia premiere template mestre
+atualizado_em: 2026-07-22
+---
+
 # 🎬 PREMIERE PRO — Template Mestre para Reels
 ## Template B — Personagem + Serviço (30s)
 

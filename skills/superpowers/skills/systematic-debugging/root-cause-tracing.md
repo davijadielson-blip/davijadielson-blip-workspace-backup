@@ -1,3 +1,8 @@
+---
+tema: root cause tracing
+atualizado_em: 2026-07-22
+---
+
 # Root Cause Tracing
 
 ## Overview

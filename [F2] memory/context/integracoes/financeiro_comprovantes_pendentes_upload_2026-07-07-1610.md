@@ -1,3 +1,8 @@
+---
+tema: financeiro comprovantes pendentes upload 2026 07 07 1610
+atualizado_em: 2026-07-22
+---
+
 # Comprovantes pagos recebidos — pendência de upload Drive
 
 Data: 2026-07-07 16:10 UTC

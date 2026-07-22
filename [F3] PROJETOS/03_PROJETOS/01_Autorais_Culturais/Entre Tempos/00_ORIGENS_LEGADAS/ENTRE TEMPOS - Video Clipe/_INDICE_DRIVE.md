@@ -1,3 +1,8 @@
+---
+tema: INDICE DRIVE
+atualizado_em: 2026-07-22
+---
+
 # Índice espelhado do Drive — ENTRE TEMPOS
 
 Fonte no Drive: `ENTRE TEMPOS — Video Clipe / Lançamento`.

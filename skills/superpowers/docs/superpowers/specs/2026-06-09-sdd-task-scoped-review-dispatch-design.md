@@ -1,3 +1,8 @@
+---
+tema: 06 09 sdd task scoped review dispatch design
+atualizado_em: 2026-07-22
+---
+
 # SDD Task-Scoped Review Dispatch
 
 Make subagent-driven-development's per-task reviews cheaper and faster without weakening them, by scoping per-task review prompts to the task and stopping redundant work — while final branch review stays broad.

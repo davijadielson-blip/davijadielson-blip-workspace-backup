@@ -1,3 +1,8 @@
+---
+tema: 07 14 lembrete disparado recepcao secretaria dia 16
+atualizado_em: 2026-07-22
+---
+
 # Lembrete disparado — Recepção da Secretaria sem atendimento no dia 16
 
 **Data/hora do disparo:** 2026-07-14 09:00 BRT / 12:00 UTC  

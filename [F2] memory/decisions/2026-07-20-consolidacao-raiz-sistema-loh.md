@@ -1,3 +1,8 @@
+---
+tema: 07 20 consolidacao raiz sistema loh
+atualizado_em: 2026-07-22
+---
+
 # Decisão — consolidação nos arquivos raiz do sistema Lôh
 
 Data: 2026-07-20

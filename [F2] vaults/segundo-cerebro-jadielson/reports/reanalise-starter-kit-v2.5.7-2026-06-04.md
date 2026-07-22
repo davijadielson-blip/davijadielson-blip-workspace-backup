@@ -1,3 +1,8 @@
+---
+tema: reanalise starter kit v2.5.7 2026 06 04
+atualizado_em: 2026-07-22
+---
+
 # Reanálise Starter Kit OpenClaw v2.5.7 — 2026-06-04
 
 ## Conclusão curta

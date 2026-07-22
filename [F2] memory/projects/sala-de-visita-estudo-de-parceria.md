@@ -1,3 +1,8 @@
+---
+tema: sala de visita estudo de parceria
+atualizado_em: 2026-07-22
+---
+
 # 🎙️ Sala de Visita — Estudo de Parceria
 
 > Registro de continuidade do tópico Telegram `PROJETOS / 🎙️ Sala de Visita — Estudo de Parceria`.

@@ -1,3 +1,8 @@
+---
+tema: 07 09 pendencias formato simples final
+atualizado_em: 2026-07-22
+---
+
 # Pendências — formato simples PG/PD
 
 **Data:** 2026-07-09

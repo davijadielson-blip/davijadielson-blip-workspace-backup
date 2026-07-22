@@ -1,3 +1,8 @@
+---
+tema: 07 16 tentativa ebook principal telegram
+atualizado_em: 2026-07-22
+---
+
 # Tentativa de extração — ebook principal via Telegram
 
 **Data:** 2026-07-16 12:10 UTC

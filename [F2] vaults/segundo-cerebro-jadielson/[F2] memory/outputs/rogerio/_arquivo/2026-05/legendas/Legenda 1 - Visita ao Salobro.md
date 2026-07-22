@@ -1,3 +1,8 @@
+---
+tema: Legenda 1   Visita ao Salobro
+atualizado_em: 2026-07-22
+---
+
 # Legenda 1 — Proximidade e escuta ativa
 
 **Tema:** Visita ao Povoado Salobro — conversa com agricultores

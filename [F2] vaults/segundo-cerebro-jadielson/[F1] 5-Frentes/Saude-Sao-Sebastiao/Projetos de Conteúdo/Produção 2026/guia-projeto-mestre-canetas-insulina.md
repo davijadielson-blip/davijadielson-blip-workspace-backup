@@ -1,3 +1,8 @@
+---
+tema: guia projeto mestre canetas insulina
+atualizado_em: 2026-07-22
+---
+
 # 🛠️ GUIA — Projeto Mestre (Premiere / CapCut / DaVinci)
 ## Entrega Canetas de Insulina | Povoado Serra
 

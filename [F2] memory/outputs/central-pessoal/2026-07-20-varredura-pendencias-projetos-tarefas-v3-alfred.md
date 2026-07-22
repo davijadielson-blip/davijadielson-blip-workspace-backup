@@ -1,3 +1,8 @@
+---
+tema: 07 20 varredura pendencias projetos tarefas v3 alfred
+atualizado_em: 2026-07-22
+---
+
 # Varredura v3 — Pendências completas com base na lista do Alfred
 
 **Data:** 2026-07-20 07:20 UTC  

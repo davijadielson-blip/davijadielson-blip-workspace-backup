@@ -1,3 +1,8 @@
+---
+tema: EXERCÍCIOS VOCAIS   AQUECIMENTO
+atualizado_em: 2026-07-22
+---
+
 
 1.  SOM BASAL - 10x (som de porta velha) ou vogal Ô
 2.  SOPRO + SOM FINO CONTINUO - 10x 

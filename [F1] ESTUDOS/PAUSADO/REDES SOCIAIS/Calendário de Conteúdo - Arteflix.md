@@ -1,3 +1,8 @@
+---
+tema: Calendário de Conteúdo   Arteflix
+atualizado_em: 2026-07-22
+---
+
 LINK: https://consumer.hotmart.com/purchase/1796912
 
 Senha Hotmart: jAl15042017

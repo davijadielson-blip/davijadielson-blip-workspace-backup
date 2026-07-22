@@ -1,3 +1,8 @@
+---
+tema: approval workflow
+atualizado_em: 2026-07-22
+---
+
 
 # Fluxo de Aprovação de Ativos Criativos
 

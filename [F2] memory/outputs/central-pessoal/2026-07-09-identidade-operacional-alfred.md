@@ -1,3 +1,8 @@
+---
+tema: 07 09 identidade operacional alfred
+atualizado_em: 2026-07-22
+---
+
 # Identidade operacional — Alfred / Central Pessoal
 
 **Status:** confirmado por Jadielson em 2026-07-09.

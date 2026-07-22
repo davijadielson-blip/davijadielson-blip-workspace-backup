@@ -1,3 +1,8 @@
+---
+tema: implementer prompt
+atualizado_em: 2026-07-22
+---
+
 # Implementer Subagent Prompt Template
 
 Use this template when dispatching an implementer subagent.

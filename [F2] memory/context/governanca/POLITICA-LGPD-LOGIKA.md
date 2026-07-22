@@ -1,3 +1,8 @@
+---
+tema: POLITICA LGPD LOGIKA
+atualizado_em: 2026-07-22
+---
+
 # 📜 Política de Privacidade e Proteção de Dados — Lógika Creative
 
 **Data de criação:** 2026-07-20  

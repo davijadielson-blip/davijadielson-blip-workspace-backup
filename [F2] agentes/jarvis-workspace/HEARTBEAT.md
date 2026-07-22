@@ -1,3 +1,8 @@
+---
+tema: HEARTBEAT
+atualizado_em: 2026-07-22
+---
+
 ```markdown
 # Keep this file empty (or with only comments) to skip heartbeat API calls.
 

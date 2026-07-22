@@ -1,3 +1,8 @@
+---
+tema: MEMORY
+atualizado_em: 2026-07-22
+---
+
 ## 🔐 Arquitetura — Cofre / Fonte de Verdade Única
 
 **Nome oficial:** a partir de 2026-06-25, o workspace principal passa a ser chamado de **Cofre**.

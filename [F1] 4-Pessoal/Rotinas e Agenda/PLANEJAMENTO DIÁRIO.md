@@ -1,3 +1,8 @@
+---
+tema: PLANEJAMENTO DIÁRIO
+atualizado_em: 2026-07-22
+---
+
 
 
 Você está absolutamente certo! Colocar as tarefas de **Produção de Ganho** no início do dia faz muito sentido, especialmente porque é o momento em que você tem mais energia, foco e clareza mental. Isso garante que as atividades mais estratégicas e importantes para o seu crescimento sejam realizadas antes que o cansaço ou outras demandas do dia interfiram.

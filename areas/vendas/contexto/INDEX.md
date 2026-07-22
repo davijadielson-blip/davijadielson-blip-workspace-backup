@@ -1,3 +1,8 @@
+---
+tema: INDEX
+atualizado_em: 2026-07-22
+---
+
 # Vendas — Contexto Comercial LÓGIKA
 
 Central de contexto comercial para propostas, follow-ups, diagnóstico de leads, objeções, serviços e materiais reutilizáveis.

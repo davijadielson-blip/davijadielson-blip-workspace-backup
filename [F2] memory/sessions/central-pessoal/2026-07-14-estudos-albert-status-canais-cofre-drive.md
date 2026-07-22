@@ -1,3 +1,8 @@
+---
+tema: 07 14 estudos albert status canais cofre drive
+atualizado_em: 2026-07-22
+---
+
 # ESTUDOS / Albert — status de canais de armazenamento no Cofre e Drive
 
 **Data:** 2026-07-14

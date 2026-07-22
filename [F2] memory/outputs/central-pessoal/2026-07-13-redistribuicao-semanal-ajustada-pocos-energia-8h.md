@@ -1,3 +1,8 @@
+---
+tema: 07 13 redistribuicao semanal ajustada pocos energia 8h
+atualizado_em: 2026-07-22
+---
+
 # Redistribuição semanal ajustada — poços de energia, 8h de trabalho e escola da filha
 
 Data: 2026-07-13

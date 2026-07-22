@@ -1,3 +1,8 @@
+---
+tema: DIA 16 — O PODER DA DECISÃO
+atualizado_em: 2026-07-22
+---
+
 # DIA 16 — O PODER DA DECISÃO
 
 **Fase 3 — Coerência Pura**

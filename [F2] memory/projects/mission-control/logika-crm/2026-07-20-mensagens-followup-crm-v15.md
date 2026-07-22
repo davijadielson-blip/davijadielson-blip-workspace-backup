@@ -1,3 +1,8 @@
+---
+tema: 07 20 mensagens followup crm v15
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v1.5 — Mensagens de follow-up CRM Lógika
 
 **Data:** 2026-07-20 02:24 UTC  

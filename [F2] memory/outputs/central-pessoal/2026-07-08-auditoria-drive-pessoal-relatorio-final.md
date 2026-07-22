@@ -1,3 +1,8 @@
+---
+tema: 07 08 auditoria drive pessoal relatorio final
+atualizado_em: 2026-07-22
+---
+
 # Relatório final — Auditoria do Google Drive pessoal
 
 **Data de fechamento:** 2026-07-08 00:22 UTC  

@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente v5 sistema visual 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Visual — Backlog Inteligente v5 — Execução TDAH
 
 **Data:** 2026-07-19  

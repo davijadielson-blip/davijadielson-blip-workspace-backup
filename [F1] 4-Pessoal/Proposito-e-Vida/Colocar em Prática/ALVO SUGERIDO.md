@@ -1,3 +1,8 @@
+---
+tema: ALVO SUGERIDO
+atualizado_em: 2026-07-22
+---
+
 
 Para chegar ao centro do que você faz de forma extraordinária, vamos dividir em três partes, baseando-nos no que já sei e nos talentos que você apresentou:
 

@@ -1,3 +1,8 @@
+---
+tema: notion logika cleanup action list
+atualizado_em: 2026-07-22
+---
+
 # Lista objetiva de limpeza — Notion LÓGIKA
 
 Gerado após recompartilhamento das bases oficiais com `Loh-bot`.

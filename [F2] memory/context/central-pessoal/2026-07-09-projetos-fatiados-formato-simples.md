@@ -1,3 +1,8 @@
+---
+tema: 07 09 projetos fatiados formato simples
+atualizado_em: 2026-07-22
+---
+
 # Projetos fatiados — formato simples
 
 **Data:** 2026-07-09

@@ -1,3 +1,8 @@
+---
+tema: sugestoes trilha sonora minidoc 2026 06 29
+atualizado_em: 2026-07-22
+---
+
 # Sugestões de Trilha Sonora — MiniDoc Jogos Indígenas Karapotó Terra Nova
 
 Atualizado em: 2026-06-29

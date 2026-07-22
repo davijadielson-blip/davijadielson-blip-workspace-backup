@@ -1,3 +1,8 @@
+---
+tema: Liberar a mente   Exercício
+atualizado_em: 2026-07-22
+---
+
 - Eu tenho que organizar a produção dos criativos do Instagram saúde 
 - Tenho que reformar a casa e muro garagem da minha casa ou comprar uma casa noutro lugar mais interessante 
 - Tenho que emitir nota pra camara

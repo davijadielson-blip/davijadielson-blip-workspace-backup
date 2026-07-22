@@ -1,3 +1,8 @@
+---
+tema: SOUL amora
+atualizado_em: 2026-07-22
+---
+
 # SOUL-amora
 
 SOUL.md — Amora 4.0

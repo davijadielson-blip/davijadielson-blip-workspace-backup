@@ -1,3 +1,8 @@
+---
+tema: 07 20 cto avaliacao arquitetural mission control whatsapp
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Avaliação Arquitetural CTO: Mission Control + WhatsApp
 
 **Data:** 2026-07-20  

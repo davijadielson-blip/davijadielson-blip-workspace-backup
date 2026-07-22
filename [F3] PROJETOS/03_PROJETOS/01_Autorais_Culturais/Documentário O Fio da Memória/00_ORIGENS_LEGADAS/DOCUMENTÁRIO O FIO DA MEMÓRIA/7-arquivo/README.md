@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Cofre local — O FIO DA MEMÓRIA
 
 Este é o cofre local do projeto no workspace principal do OpenClaw.

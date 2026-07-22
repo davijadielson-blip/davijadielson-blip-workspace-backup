@@ -1,3 +1,8 @@
+---
+tema: boas categorias de conteúdo
+atualizado_em: 2026-07-22
+---
+
 
 ## Apresentando as categorias
 

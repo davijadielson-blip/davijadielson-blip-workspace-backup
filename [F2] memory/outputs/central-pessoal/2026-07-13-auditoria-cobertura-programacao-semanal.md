@@ -1,3 +1,8 @@
+---
+tema: 07 13 auditoria cobertura programacao semanal
+atualizado_em: 2026-07-22
+---
+
 # Auditoria de cobertura — programação semanal 13–19/07/2026
 
 Data: 2026-07-13

@@ -1,3 +1,8 @@
+---
+tema: PAINEL FINANCEIRO PESSOAL
+atualizado_em: 2026-07-22
+---
+
 # Painel Financeiro Pessoal
 
 Atualizado por Warren em 2026-06-05.

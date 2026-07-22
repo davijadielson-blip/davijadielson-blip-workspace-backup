@@ -1,3 +1,8 @@
+---
+tema: roteiro reel saude psfs rurais 20 07 2026
+atualizado_em: 2026-07-22
+---
+
 # 🎬 ROTEIRO SAÚDE — Reels PSFs Rurais e Indígenas
 
 **Documento:** CCO — Roteiro Semana 4 | Segunda 20/07

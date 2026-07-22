@@ -1,3 +1,8 @@
+---
+tema: Headlines
+atualizado_em: 2026-07-22
+---
+
 ## Como construímos as headlines dos conteúdos do SINDSS
 
 As headlines do SINDSS seguem uma pegada **institucional, direta e mobilizadora**. Elas precisam bater rápido no servidor e deixar claro: **isso aqui fala sobre você, seus direitos, sua valorização ou a atuação do sindicato por você.**

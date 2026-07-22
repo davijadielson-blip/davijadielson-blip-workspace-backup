@@ -1,3 +1,8 @@
+---
+tema: inventario pasta pesquisa drive
+atualizado_em: 2026-07-22
+---
+
 # Inventário — pasta de pesquisa do Drive
 
 - 📁 `02_PESQUISA HISTÓRICA E CULTURAL , Referências/Artigo sobre as rendas de bilros de São Sebastião-AL.`  

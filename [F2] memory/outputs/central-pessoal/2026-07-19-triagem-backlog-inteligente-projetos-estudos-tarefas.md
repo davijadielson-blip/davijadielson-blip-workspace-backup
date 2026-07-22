@@ -1,3 +1,8 @@
+---
+tema: 07 19 triagem backlog inteligente projetos estudos tarefas
+atualizado_em: 2026-07-22
+---
+
 # Triagem — Backlog Inteligente: Projetos, Estudos, Tarefas e Manutenção
 
 **Data:** 2026-07-19 05:36 UTC  

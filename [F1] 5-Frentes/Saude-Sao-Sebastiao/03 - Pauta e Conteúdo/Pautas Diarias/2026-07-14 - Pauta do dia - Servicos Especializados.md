@@ -1,3 +1,8 @@
+---
+tema: 07 14   Pauta do dia   Servicos Especializados
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-14 — Pauta do dia — Serviços Especializados — versão dinâmica
 
 ## Correção aplicada

@@ -1,3 +1,8 @@
+---
+tema: Afirmações para o Dia a Dia
+atualizado_em: 2026-07-22
+---
+
 
 1. "Eu sou guiado por Deus em todas as minhas decisões e passos."
 2. "Tudo o que eu faço prospera porque minha fé é maior do que qualquer obstáculo."

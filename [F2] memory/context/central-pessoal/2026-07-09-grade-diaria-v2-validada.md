@@ -1,3 +1,8 @@
+---
+tema: 07 09 grade diaria v2 validada
+atualizado_em: 2026-07-22
+---
+
 # Grade Diária v2 Validada — Jadielson / Alfred
 
 **Data:** 2026-07-09

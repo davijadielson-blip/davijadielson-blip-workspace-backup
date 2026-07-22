@@ -1,3 +1,8 @@
+---
+tema: calendario semanal sindss
+atualizado_em: 2026-07-22
+---
+
 # Calendário Semanal — SINDSS
 
 **Status:** v0.1 ativo  

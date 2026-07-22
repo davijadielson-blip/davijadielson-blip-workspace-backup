@@ -1,3 +1,8 @@
+---
+tema: 07 14 headlines atendimentos noturnos ubs urbanas
+atualizado_em: 2026-07-22
+---
+
 # Headlines — Atendimentos Noturnos nas UBS Urbanas
 
 **Data:** 2026-07-14

@@ -1,3 +1,8 @@
+---
+tema: 07 17 cenas recomendadas samu pa fluxo urgencia
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Cenas recomendadas: SAMU + Pronto Atendimento
 
 Contexto: Jadielson pediu cenas para sequência de stories conectando SAMU e Pronto Atendimento/Unidade Mista, a partir de captação real da viatura em frente ao PA, equipe na base e paciente em atendimento.

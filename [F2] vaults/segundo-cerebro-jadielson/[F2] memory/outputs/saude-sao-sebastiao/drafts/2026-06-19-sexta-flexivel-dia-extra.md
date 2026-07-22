@@ -1,3 +1,8 @@
+---
+tema: 06 19 sexta flexivel dia extra
+atualizado_em: 2026-07-22
+---
+
 # Rota de Stories — Sexta Flexível / Dia Extra
 
 **Data:** sexta, 19 de junho de 2026  

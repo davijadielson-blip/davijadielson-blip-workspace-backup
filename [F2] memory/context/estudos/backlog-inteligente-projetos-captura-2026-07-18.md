@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente projetos captura 2026 07 18
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Captura inicial de projetos
 
 **Data:** 2026-07-18 19:38 UTC  

@@ -1,3 +1,8 @@
+---
+tema: 07 17 legenda final samu pa ubs slogan embutido
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Correção final: slogan embutido, não como assinatura
 
 Jadielson corrigiu: o slogan “Saúde a gente faz com coração” não deve parecer assinatura solta no final. Deve entrar embutido naturalmente no texto.

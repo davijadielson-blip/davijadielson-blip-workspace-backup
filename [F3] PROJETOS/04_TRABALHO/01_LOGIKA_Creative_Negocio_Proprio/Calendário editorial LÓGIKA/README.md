@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Calendário editorial LÓGIKA
 
 **Macroestrutura:** `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio`

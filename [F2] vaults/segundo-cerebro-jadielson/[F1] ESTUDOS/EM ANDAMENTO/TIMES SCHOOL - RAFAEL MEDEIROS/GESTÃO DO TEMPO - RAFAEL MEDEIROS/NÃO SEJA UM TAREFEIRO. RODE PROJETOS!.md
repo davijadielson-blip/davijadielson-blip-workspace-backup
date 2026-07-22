@@ -1,3 +1,8 @@
+---
+tema: NÃO SEJA UM TAREFEIRO. RODE PROJETOS!
+atualizado_em: 2026-07-22
+---
+
 
 - Tarefa: é aquilo que com uma unica acao se chega a um resultado. Algo solto. Atingindo de forma simples o resultado.
 - Projetos: Varias acoes e varios movimentos se chega a um resultado.

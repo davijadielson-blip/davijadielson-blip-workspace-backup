@@ -1,3 +1,8 @@
+---
+tema: nota templates universais loh 2026 06 18
+atualizado_em: 2026-07-22
+---
+
 # Nota operacional — Templates Universais via Lôh
 
 **Data:** 2026-06-18  

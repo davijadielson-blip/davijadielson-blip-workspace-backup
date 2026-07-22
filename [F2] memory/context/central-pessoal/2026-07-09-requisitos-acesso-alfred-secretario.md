@@ -1,3 +1,8 @@
+---
+tema: 07 09 requisitos acesso alfred secretario
+atualizado_em: 2026-07-22
+---
+
 # Requisitos — Alfred secretário pessoal com roteamento entre grupos
 
 **Data:** 2026-07-09

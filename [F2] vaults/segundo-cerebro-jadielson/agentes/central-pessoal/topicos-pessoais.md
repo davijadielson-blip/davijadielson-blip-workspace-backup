@@ -1,3 +1,8 @@
+---
+tema: topicos pessoais
+atualizado_em: 2026-07-22
+---
+
 # Tópicos Pessoais — Central Pessoal
 
 > Configuração individual aplicada em 2026-06-05 após Jadielson marcar a bot e enviar “oi” em cada tópico.

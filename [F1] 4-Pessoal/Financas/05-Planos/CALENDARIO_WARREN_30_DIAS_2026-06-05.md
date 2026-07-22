@@ -1,3 +1,8 @@
+---
+tema: CALENDARIO WARREN 30 DIAS 2026 06 05
+atualizado_em: 2026-07-22
+---
+
 # Calendário Warren — 30 dias
 
 Data: 2026-06-05

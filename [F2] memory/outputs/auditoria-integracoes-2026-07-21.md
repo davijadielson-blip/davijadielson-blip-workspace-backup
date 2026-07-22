@@ -1,3 +1,8 @@
+---
+tema: auditoria integracoes 2026 07 21
+atualizado_em: 2026-07-22
+---
+
 # Auditoria de Integrações — 2026-07-21
 
 > Realizada por: Lôh (Orquestradora Tier 0)

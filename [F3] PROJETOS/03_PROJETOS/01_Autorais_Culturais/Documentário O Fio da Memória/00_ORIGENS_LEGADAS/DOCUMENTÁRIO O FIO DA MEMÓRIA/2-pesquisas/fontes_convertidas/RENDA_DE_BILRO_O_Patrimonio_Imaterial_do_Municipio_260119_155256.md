@@ -1,3 +1,8 @@
+---
+tema: RENDA DE BILRO O Patrimonio Imaterial do Municipio 260119...
+atualizado_em: 2026-07-22
+---
+
 # RENDA_DE_BILRO_O_Patrimonio_Imaterial_do_Municipio_260119_155256.pdf
 
 > Conversão operacional para leitura e análise do agente. Conferir paginação/trechos críticos no PDF original antes de citação final.

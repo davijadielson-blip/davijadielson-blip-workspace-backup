@@ -1,3 +1,8 @@
+---
+tema: MEMORY
+atualizado_em: 2026-07-22
+---
+
 ## 🔐 Arquitetura — Fonte de Verdade Única
 
 **Regra fundamental:** O workspace (`/data/.openclaw/workspace/`) é a ÚNICA fonte de verdade.

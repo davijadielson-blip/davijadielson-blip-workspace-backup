@@ -1,3 +1,8 @@
+---
+tema: 07 09 teste rotina hibrida pg clientes
+atualizado_em: 2026-07-22
+---
+
 # Teste operacional — Rotina híbrida PG × clientes/manhã
 
 **Data:** 2026-07-09

@@ -1,3 +1,8 @@
+---
+tema: TREINAMENTO AGENTE CEO LOGIKA
+atualizado_em: 2026-07-22
+---
+
 # Treinamento — AGENTE CEO LÓGIKA
 
 > Destino operacional: tópico Telegram informado por Jadielson — https://t.me/c/3645702069/5279  

@@ -1,3 +1,8 @@
+---
+tema: DECISOES RECENTES 2026 06 28
+atualizado_em: 2026-07-22
+---
+
 # DECISÕES RECENTES — ENTRE TEMPOS
 
 Data de registro: 28/06/2026

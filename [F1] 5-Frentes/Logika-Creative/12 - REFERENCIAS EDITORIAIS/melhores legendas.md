@@ -1,3 +1,8 @@
+---
+tema: melhores legendas
+atualizado_em: 2026-07-22
+---
+
 ##  Melhores legendas que já criamos (com contexto + por que funcionou)
 
 ### Institucional | Quem somos / posicionamento

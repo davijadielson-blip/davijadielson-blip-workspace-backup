@@ -1,3 +1,8 @@
+---
+tema: Padrões que Emergiram
+atualizado_em: 2026-07-22
+---
+
 Com base em tudo que criamos para o **SINDSS**, a identidade editorial ficou bem clara: **institucional, próxima, sindical, educativa e com foco em valorização do servidor público municipal**.
 
 A comunicação não é só “post bonito”. Ela tem missão: **mostrar trabalho, gerar confiança, educar o servidor e fortalecer a filiação.**

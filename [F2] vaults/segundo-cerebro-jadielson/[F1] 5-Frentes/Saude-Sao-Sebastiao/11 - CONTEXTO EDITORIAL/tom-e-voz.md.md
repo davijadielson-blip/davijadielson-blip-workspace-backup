@@ -1,3 +1,8 @@
+---
+tema: tom e voz.md
+atualizado_em: 2026-07-22
+---
+
 O tom que usamos na comunicação da **Secretaria de Saúde de São Sebastião** tem uma identidade bem clara. Ele não é frio nem burocrático, mas também não vira propaganda vazia. A lógica é esta: **institucional com humanidade, utilidade pública com proximidade, e prestação de contas com linguagem acessível**.
 
 # Essência do tom de voz

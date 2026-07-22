@@ -1,3 +1,8 @@
+---
+tema: briefing narracao respostas 2026 07 08
+atualizado_em: 2026-07-22
+---
+
 # Briefing de Narração — Respostas da Organização
 ## II Jogos Indígenas Karapotó Terra Nova
 

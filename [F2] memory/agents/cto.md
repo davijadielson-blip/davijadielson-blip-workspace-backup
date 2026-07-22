@@ -1,3 +1,8 @@
+---
+tema: cto
+atualizado_em: 2026-07-22
+---
+
 # Agente: 👤 CTO — Chief Technology Officer
 
 **Hierarquia:** Reporta a Jadielson via LÔH + Alex (especialista TI/software)  

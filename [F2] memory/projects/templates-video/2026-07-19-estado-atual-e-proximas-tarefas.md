@@ -1,3 +1,8 @@
+---
+tema: 07 19 estado atual e proximas tarefas
+atualizado_em: 2026-07-22
+---
+
 # Estado atual e próximas tarefas — Projeto Templates
 
 **Data:** 2026-07-19 04:13 UTC  

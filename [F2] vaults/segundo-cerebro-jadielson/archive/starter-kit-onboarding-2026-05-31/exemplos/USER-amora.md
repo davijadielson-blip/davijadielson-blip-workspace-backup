@@ -1,3 +1,8 @@
+---
+tema: USER amora
+atualizado_em: 2026-07-22
+---
+
 # USER.md — Sobre o Bruno Okamoto
 
 > **Este é o `USER.md` real que a Amora consulta pra saber quem é o Bruno.**

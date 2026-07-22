@@ -1,3 +1,8 @@
+---
+tema: roteiros saude vigilancia maternidade 22 23 07 2026
+atualizado_em: 2026-07-22
+---
+
 # 🎬 ROTEIRO SAÚDE — Reels Vigilância Sanitária
 
 **Documento:** CCO — Roteiro Semana 4 | Quarta 22/07

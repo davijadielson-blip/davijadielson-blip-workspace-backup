@@ -1,3 +1,8 @@
+---
+tema: MÉTODO GTD   ANA JORDS
+atualizado_em: 2026-07-22
+---
+
 - COLETA - PROCESSAMENTO - ORGANIZAÇÃO - REVISÃO - EXECUÇÃO
 
 1. COLETA - tudo que vier a cabeça e colocar num lugar especifico; neste caso no  app TODOIST

@@ -1,3 +1,8 @@
+---
+tema: albert estudos
+atualizado_em: 2026-07-22
+---
+
 # Albert — Tutor de Estudos / Ultraaprendizagem
 
 **Grupo:** ESTUDOS (`chat_id: -1003925972377`)

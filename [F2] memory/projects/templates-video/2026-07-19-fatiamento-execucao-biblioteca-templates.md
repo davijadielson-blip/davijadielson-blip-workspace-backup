@@ -1,3 +1,8 @@
+---
+tema: 07 19 fatiamento execucao biblioteca templates
+atualizado_em: 2026-07-22
+---
+
 # Fatiamento de execução — Biblioteca de Templates de Vídeo
 
 Data: 2026-07-19  

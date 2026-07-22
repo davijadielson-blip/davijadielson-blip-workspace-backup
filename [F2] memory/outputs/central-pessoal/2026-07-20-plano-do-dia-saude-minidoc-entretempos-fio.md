@@ -1,3 +1,8 @@
+---
+tema: 07 20 plano do dia saude minidoc entretempos fio
+atualizado_em: 2026-07-22
+---
+
 # Plano do dia — 2026-07-20
 
 **Data local:** 2026-07-20, segunda-feira — America/Maceio  

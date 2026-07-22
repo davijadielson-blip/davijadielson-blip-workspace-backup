@@ -1,3 +1,8 @@
+---
+tema: ASSINATURAS
+atualizado_em: 2026-07-22
+---
+
 # Assinaturas
 
 ## Situação atual confirmada — 2026-06-18

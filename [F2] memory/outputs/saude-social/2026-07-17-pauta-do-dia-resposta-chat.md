@@ -1,3 +1,8 @@
+---
+tema: 07 17 pauta do dia resposta chat
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Pauta do dia — Saúde Social Media
 
 Origem: pergunta de Jadielson no tópico Telegram “SAÚDE - SOCIAL MEDIA” — “Qual a pauta de hoje?”

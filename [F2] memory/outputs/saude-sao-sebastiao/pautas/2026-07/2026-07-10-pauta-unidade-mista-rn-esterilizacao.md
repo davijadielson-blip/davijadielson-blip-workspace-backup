@@ -1,3 +1,8 @@
+---
+tema: 07 10 pauta unidade mista rn esterilizacao
+atualizado_em: 2026-07-22
+---
+
 # Pauta — 10/07/2026 — Unidade Mista: RN + Esterilização
 
 Contexto informado por Jadielson no tópico Saúde Social Media:

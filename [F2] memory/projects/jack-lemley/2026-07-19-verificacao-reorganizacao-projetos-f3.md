@@ -1,3 +1,8 @@
+---
+tema: 07 19 verificacao reorganizacao projetos f3
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Verificação da reorganização dos projetos em `[F3] PROJETOS/`
 
 **Data:** 2026-07-19 04:47 UTC  

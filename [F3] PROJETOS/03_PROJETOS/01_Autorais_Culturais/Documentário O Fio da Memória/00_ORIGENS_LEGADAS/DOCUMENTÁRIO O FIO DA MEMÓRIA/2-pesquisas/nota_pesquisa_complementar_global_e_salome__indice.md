@@ -1,3 +1,8 @@
+---
+tema: nota pesquisa complementar global e salome  indice
+atualizado_em: 2026-07-22
+---
+
 # Nota de pesquisa complementar — índice
 
 A nota de pesquisa complementar foi produzida e salva no Drive:

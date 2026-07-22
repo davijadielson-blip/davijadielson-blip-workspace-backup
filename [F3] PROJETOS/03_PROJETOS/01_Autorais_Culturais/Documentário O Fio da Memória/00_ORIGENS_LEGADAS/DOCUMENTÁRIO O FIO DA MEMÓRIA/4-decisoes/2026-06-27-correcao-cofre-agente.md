@@ -1,3 +1,8 @@
+---
+tema: 06 27 correcao cofre agente
+atualizado_em: 2026-07-22
+---
+
 # Correção de Cofre — agente O FIO DA MEMÓRIA
 
 Data: 2026-06-27 UTC

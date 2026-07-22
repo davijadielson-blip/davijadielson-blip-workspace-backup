@@ -1,3 +1,8 @@
+---
+tema: pauta 2026 07 23 quinta rede apoio
+atualizado_em: 2026-07-22
+---
+
 ## 📋 PAUTA — QUINTA, 23 DE JULHO
 
 **Pilar:** Rede de Apoio / Humanização

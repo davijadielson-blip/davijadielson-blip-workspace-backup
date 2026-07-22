@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 estudos decisao 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Onde entram os Estudos no Mapa 360
 
 **Data:** 2026-07-19 01:27 UTC  

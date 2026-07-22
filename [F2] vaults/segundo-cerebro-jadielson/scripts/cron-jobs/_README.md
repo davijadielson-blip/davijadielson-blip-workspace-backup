@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Cron-Jobs — Segundo Cérebro
 
 Três rotinas autônomas ativadas via **launchd** (macOS).

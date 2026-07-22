@@ -1,3 +1,8 @@
+---
+tema: 07 18 areas da vida antigas referencia
+atualizado_em: 2026-07-22
+---
+
 # Áreas da vida antigas — referência localizada
 
 **Data:** 2026-07-18 20:23 UTC  

@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # Starter Kit OpenClaw / Templates soul-user-identity-tools — importação
 
 Origem: ZIP enviado por Jadielson em 2026-07-20: `Templates_soul_user_identity_tools_etc_20260720T000601Z_1.zip`.

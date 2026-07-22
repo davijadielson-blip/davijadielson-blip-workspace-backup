@@ -1,3 +1,8 @@
+---
+tema: primeira vitoria post 2026 05 31
+atualizado_em: 2026-07-22
+---
+
 # Vídeo profissional não é gasto — é construção de confiança
 
 > Gerado em: 2026-05-31 pela primeira-vitoria da Lôh

@@ -1,3 +1,8 @@
+---
+tema: DIA 07 — A LIBERAÇÃO DO PASSADO
+atualizado_em: 2026-07-22
+---
+
 # DIA 07 — A LIBERAÇÃO DO PASSADO
 
 **Fase 1 — Consciência | ÂNCORA DA SEMANA**

@@ -1,3 +1,8 @@
+---
+tema: Doacoes e Caridades
+atualizado_em: 2026-07-22
+---
+
 # Doações e Caridades
 
 ## Diretriz

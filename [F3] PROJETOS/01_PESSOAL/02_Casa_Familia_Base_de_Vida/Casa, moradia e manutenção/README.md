@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Casa, moradia e manutenção
 
 **Macroestrutura:** `01_PESSOAL/02_Casa_Familia_Base_de_Vida`

@@ -1,3 +1,8 @@
+---
+tema: SOUL stub.template
+atualizado_em: 2026-07-22
+---
+
 # SOUL-stub.template
 
 SOUL — {NOME_AGENTE} (stub)

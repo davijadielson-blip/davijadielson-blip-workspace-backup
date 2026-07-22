@@ -1,3 +1,8 @@
+---
+tema: 07 16 incidente auto correcao c level agents
+atualizado_em: 2026-07-22
+---
+
 # Incidente — Auto-correção da configuração dos agentes C-Level
 
 **Data/hora:** 2026-07-16 02:25 UTC  

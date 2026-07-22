@@ -1,3 +1,8 @@
+---
+tema: direcao criativa master logika
+atualizado_em: 2026-07-22
+---
+
 # 🎬 Direção Criativa Master — Lógika Creative
 
 **Documento:** CCO — Visão Criativa Central

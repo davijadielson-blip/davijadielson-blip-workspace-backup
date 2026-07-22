@@ -1,3 +1,8 @@
+---
+tema: 07 20 notion crm link recebido
+atualizado_em: 2026-07-22
+---
+
 # Notion CRM — link recebido
 
 **Data:** 2026-07-20 01:00 UTC  

@@ -1,3 +1,8 @@
+---
+tema: my finance
+atualizado_em: 2026-07-22
+---
+
 # Warren — Agente de Finanças Pessoais
 
 > Grupo: Central Pessoal

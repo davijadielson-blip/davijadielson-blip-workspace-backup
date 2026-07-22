@@ -1,3 +1,8 @@
+---
+tema: 07 18 status producao documentario
+atualizado_em: 2026-07-22
+---
+
 # Status atual da produção — O Fio da Memória
 
 Data: 2026-07-18

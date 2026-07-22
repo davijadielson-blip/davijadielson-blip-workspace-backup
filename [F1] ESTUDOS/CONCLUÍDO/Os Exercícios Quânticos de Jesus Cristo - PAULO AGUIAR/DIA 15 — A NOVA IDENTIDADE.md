@@ -1,3 +1,8 @@
+---
+tema: DIA 15 — A NOVA IDENTIDADE
+atualizado_em: 2026-07-22
+---
+
 # DIA 15 — A NOVA IDENTIDADE
 
 **Fase 3 — Coerência Pura | Jejum do Impulso começa**

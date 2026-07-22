@@ -1,3 +1,8 @@
+---
+tema: analise suporte
+atualizado_em: 2026-07-22
+---
+
 # 🎧 Use Case: Análise Inteligente de Suporte
 
 > Identifique padrões, bugs recorrentes e oportunidades nos tickets.

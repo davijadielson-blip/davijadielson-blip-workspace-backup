@@ -1,3 +1,8 @@
+---
+tema: 07 13 analise grupos rotina desejada pos pesquisa
+atualizado_em: 2026-07-22
+---
+
 # Análise — grupos de equilíbrio + rotina desejada pós-pesquisa
 
 Data: 2026-07-13

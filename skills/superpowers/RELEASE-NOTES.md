@@ -1,3 +1,8 @@
+---
+tema: RELEASE NOTES
+atualizado_em: 2026-07-22
+---
+
 # Superpowers Release Notes
 
 ## v6.1.1 (2026-07-02)

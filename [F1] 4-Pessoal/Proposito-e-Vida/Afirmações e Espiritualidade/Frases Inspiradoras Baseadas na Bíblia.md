@@ -1,3 +1,8 @@
+---
+tema: Frases Inspiradoras Baseadas na Bíblia
+atualizado_em: 2026-07-22
+---
+
 
 - "Posso todas as coisas naquele que me fortalece." (Filipenses 4:13)
 - "O Senhor é meu pastor e nada me faltará." (Salmo 23:1)

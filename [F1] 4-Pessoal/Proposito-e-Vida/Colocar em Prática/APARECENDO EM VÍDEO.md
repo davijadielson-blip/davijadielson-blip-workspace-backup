@@ -1,3 +1,8 @@
+---
+tema: APARECENDO EM VÍDEO
+atualizado_em: 2026-07-22
+---
+
 
 
 Com base no que sei de você, **sim, você tem jeito para gravar e aparecer em vídeos!** Vou explicar o porquê:

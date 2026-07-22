@@ -1,3 +1,8 @@
+---
+tema: wizard header template
+atualizado_em: 2026-07-22
+---
+
 # Template de Header Universal pros Wizards (v2.2)
 
 > Este arquivo é referência. **Não é código executável.** Cada wizard filho do starter-kit copia o bloco abaixo no topo da própria SKILL.md (após o frontmatter, antes da seção `## Promessa`).

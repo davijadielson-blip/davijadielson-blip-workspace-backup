@@ -1,3 +1,8 @@
+---
+tema: 07 19 evidencia visual reorganizacao trabalho
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Evidência visual de reorganização por área `TRABALHO`
 
 **Data:** 2026-07-19 04:53 UTC  

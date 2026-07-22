@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Exemplos do Bruno — referência pra adaptar
 
 > Templates reais dos arquivos raiz da **Amora 4.0** — Chief of Staff do Bruno Okamoto.

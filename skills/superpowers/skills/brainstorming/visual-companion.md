@@ -1,3 +1,8 @@
+---
+tema: visual companion
+atualizado_em: 2026-07-22
+---
+
 # Visual Companion Guide
 
 Browser-based visual brainstorming companion for showing mockups, diagrams, and options.

@@ -1,3 +1,8 @@
+---
+tema: MÉTODO FEBRACIS
+atualizado_em: 2026-07-22
+---
+
 
 ![[Pasted image 20250111160329.png]]
 

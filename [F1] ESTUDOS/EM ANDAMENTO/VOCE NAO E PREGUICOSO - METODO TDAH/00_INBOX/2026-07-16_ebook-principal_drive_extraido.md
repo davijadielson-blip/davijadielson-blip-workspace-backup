@@ -1,3 +1,8 @@
+---
+tema: 07 16 ebook principal drive extraido
+atualizado_em: 2026-07-22
+---
+
 # Ebook principal — extraído do link do Drive
 
 **Data:** 2026-07-16

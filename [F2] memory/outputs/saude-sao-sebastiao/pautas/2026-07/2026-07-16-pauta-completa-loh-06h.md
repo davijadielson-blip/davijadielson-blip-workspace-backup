@@ -1,3 +1,8 @@
+---
+tema: 07 16 pauta completa loh 06h
+atualizado_em: 2026-07-22
+---
+
 # 📋 PAUTA DO DIA — 16/07/2026 (QUINTA-FEIRA)
 ## SAÚDE SÃO SEBASTIÃO — SOCIAL MEDIA
 

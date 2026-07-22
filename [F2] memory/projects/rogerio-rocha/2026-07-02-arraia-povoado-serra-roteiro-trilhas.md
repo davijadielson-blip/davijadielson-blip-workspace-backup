@@ -1,3 +1,8 @@
+---
+tema: 07 02 arraia povoado serra roteiro trilhas
+atualizado_em: 2026-07-22
+---
+
 # Rogério Rocha — Vídeo Arraiá no Povoado Serra
 
 **Data:** 2026-07-02

@@ -1,3 +1,8 @@
+---
+tema: Bonus 02 Sistema Diario de Execucao
+atualizado_em: 2026-07-22
+---
+
 # Bônus 02 — Sistema Diário de Execução
 
 **Fonte bruta:** PDF salvo no Google Drive pessoal, pasta `ESTUDOS/Você não é preguiçoso — Método TDAH`.

@@ -1,3 +1,8 @@
+---
+tema: legendas
+atualizado_em: 2026-07-22
+---
+
 ## 3) Como estruturamos as legendas
 
 **Abertura (1–2 linhas)**

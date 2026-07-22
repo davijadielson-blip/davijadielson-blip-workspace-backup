@@ -1,3 +1,8 @@
+---
+tema: 07 12 alfred consulta pendencias
+atualizado_em: 2026-07-22
+---
+
 # Alfred — consulta de pendências
 
 **Data:** 2026-07-12 23:44 UTC  

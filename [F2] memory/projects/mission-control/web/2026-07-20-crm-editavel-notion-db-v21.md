@@ -1,3 +1,8 @@
+---
+tema: 07 20 crm editavel notion db v21
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v2.1 — CRM editável com Notion como database
 
 **Data:** 2026-07-20 03:15 UTC  

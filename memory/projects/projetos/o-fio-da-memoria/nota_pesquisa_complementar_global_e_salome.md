@@ -1,3 +1,8 @@
+---
+tema: nota pesquisa complementar global e salome
+atualizado_em: 2026-07-22
+---
+
 # NOTA DE PESQUISA COMPLEMENTAR — O FIO DA MEMÓRIA
 
 ## Objetivo

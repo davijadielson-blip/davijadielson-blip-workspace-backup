@@ -1,3 +1,8 @@
+---
+tema: Decl. assinado pestacao de servicos Jadielson
+atualizado_em: 2026-07-22
+---
+
 # Decl._assinado_pestacao_de_servicos_Jadielson
 
 > Convertido para Markdown a partir de `Decl._assinado_pestacao_de_servicos_Jadielson.pdf`.

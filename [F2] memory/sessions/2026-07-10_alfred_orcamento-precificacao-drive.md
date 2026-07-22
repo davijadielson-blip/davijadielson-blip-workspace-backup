@@ -1,3 +1,8 @@
+---
+tema: 07 10 alfred orcamento precificacao drive
+atualizado_em: 2026-07-22
+---
+
 # Sessão — Alfred — Orçamento e precificação no Drive
 
 **Data:** 2026-07-10

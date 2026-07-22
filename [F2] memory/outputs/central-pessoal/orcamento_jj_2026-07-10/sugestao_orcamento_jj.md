@@ -1,3 +1,8 @@
+---
+tema: sugestao orcamento jj
+atualizado_em: 2026-07-22
+---
+
 # Sugestão de orçamento — Grupo JJ
 
 **Data:** 2026-07-10

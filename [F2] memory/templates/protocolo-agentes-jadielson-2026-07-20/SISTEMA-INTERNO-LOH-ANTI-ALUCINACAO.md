@@ -1,3 +1,8 @@
+---
+tema: SISTEMA INTERNO LOH ANTI ALUCINACAO
+atualizado_em: 2026-07-22
+---
+
 # Sistema interno da Lôh — anti-perda e anti-alucinação
 
 Atualizado em: 2026-07-20

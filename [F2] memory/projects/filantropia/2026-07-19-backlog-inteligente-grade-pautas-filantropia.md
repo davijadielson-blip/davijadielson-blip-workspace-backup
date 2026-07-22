@@ -1,3 +1,8 @@
+---
+tema: 07 19 backlog inteligente grade pautas filantropia
+atualizado_em: 2026-07-22
+---
+
 # Filantropia / Instituto MD — Backlog Inteligente e Grade de Pautas
 
 **Data:** 2026-07-19 04:33 UTC  

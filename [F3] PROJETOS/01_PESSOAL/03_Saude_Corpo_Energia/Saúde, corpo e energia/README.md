@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Saúde, corpo e energia
 
 **Macroestrutura:** `01_PESSOAL/03_Saude_Corpo_Energia`

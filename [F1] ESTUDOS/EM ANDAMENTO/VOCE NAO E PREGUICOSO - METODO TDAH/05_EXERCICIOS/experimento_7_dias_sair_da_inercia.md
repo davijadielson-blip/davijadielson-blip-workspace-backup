@@ -1,3 +1,8 @@
+---
+tema: experimento 7 dias sair da inercia
+atualizado_em: 2026-07-22
+---
+
 # Experimento — 7 dias para sair da inércia
 
 ## Regra central

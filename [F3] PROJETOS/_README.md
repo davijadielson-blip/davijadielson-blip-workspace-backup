@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # [F3] PROJETOS — FLUXO 3: INTEGRAÇÃO
 
 **O que significa:** Projetos onde VOCÊ e o SISTEMA trabalham juntos.

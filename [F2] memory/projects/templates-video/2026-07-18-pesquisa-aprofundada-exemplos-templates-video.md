@@ -1,3 +1,8 @@
+---
+tema: 07 18 pesquisa aprofundada exemplos templates video
+atualizado_em: 2026-07-22
+---
+
 # Pesquisa aprofundada — Exemplos e bases para Templates de Vídeo
 
 **Data:** 2026-07-18  

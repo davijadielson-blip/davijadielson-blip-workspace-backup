@@ -1,3 +1,8 @@
+---
+tema: 07 16 sintese bonus
+atualizado_em: 2026-07-22
+---
+
 # Síntese dos bônus — Método TDAH
 
 **Data:** 2026-07-16

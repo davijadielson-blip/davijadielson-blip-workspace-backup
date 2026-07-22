@@ -1,3 +1,8 @@
+---
+tema: HEARTBEAT amora
+atualizado_em: 2026-07-22
+---
+
 # HEARTBEAT.md — Workspace da Amora
 
 > **Este é o `HEARTBEAT.md` real do workspace da Amora.**

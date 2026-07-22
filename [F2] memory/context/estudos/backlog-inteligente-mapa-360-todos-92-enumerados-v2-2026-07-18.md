@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 todos 92 enumerados v2 2026 ...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Todos os 92 itens enumerados no Mapa 360 v2
 
 **Data:** 2026-07-18 23:58 UTC  

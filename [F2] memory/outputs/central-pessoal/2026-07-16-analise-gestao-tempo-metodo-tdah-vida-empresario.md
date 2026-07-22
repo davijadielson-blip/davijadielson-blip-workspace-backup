@@ -1,3 +1,8 @@
+---
+tema: 07 16 analise gestao tempo metodo tdah vida empresario
+atualizado_em: 2026-07-22
+---
+
 # Análise integrada — gestão do tempo, método TDAH e vida de empresário
 
 **Data:** 2026-07-16  

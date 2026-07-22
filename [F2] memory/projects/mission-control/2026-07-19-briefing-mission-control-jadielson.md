@@ -1,3 +1,8 @@
+---
+tema: 07 19 briefing mission control jadielson
+atualizado_em: 2026-07-22
+---
+
 # Mission Control — Briefing inicial para Jadielson
 
 **Data:** 2026-07-19  

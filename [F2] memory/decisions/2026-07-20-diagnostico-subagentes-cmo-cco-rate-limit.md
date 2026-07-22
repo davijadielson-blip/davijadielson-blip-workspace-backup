@@ -1,3 +1,8 @@
+---
+tema: 07 20 diagnostico subagentes cmo cco rate limit
+atualizado_em: 2026-07-22
+---
+
 # Diagnóstico Técnico — Falha de Subagentes CMO e CCO (Rate Limit)
 
 **Data:** 2026-07-20

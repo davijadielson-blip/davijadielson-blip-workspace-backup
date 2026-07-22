@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # NÚCLEO — 21 Sistemas de IA
 
 **Tipo:** curso / estudos aplicados  

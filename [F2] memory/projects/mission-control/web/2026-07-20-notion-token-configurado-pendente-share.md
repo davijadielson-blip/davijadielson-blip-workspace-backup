@@ -1,3 +1,8 @@
+---
+tema: 07 20 notion token configurado pendente share
+atualizado_em: 2026-07-22
+---
+
 # Notion API — token configurado e pendência de compartilhamento
 
 **Data:** 2026-07-20 01:09 UTC  

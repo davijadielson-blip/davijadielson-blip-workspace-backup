@@ -1,3 +1,8 @@
+---
+tema: 07 08 drive pessoal migracao logika bloqueio escopo
+atualizado_em: 2026-07-22
+---
+
 # Migração Drive pessoal → Drive LÓGIKA — bloqueio de escopo
 
 **Data:** 2026-07-08 01:42 UTC  

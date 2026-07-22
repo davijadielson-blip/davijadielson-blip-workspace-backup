@@ -1,3 +1,8 @@
+---
+tema: CARREIRA E POSICIONAMENTO PROFISSIONAL
+atualizado_em: 2026-07-22
+---
+
 
 
  Agora é hora de falar de **CARREIRA**, no sentido mais estratégico da palavra.

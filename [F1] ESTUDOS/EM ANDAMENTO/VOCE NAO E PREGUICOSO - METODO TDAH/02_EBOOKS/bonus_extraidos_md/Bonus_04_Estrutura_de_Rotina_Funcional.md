@@ -1,3 +1,8 @@
+---
+tema: Bonus 04 Estrutura de Rotina Funcional
+atualizado_em: 2026-07-22
+---
+
 # Bônus 04 — Estrutura de Rotina Funcional
 
 **Fonte bruta:** PDF salvo no Google Drive pessoal, pasta `ESTUDOS/Você não é preguiçoso — Método TDAH`.

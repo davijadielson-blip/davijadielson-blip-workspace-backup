@@ -1,3 +1,8 @@
+---
+tema: 07 13 programacao semanal tudo incluido
+atualizado_em: 2026-07-22
+---
+
 # Programação semanal — tudo incluído, com profundidade variável
 
 Data: 2026-07-13

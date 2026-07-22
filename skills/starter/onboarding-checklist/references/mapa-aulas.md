@@ -1,3 +1,8 @@
+---
+tema: mapa aulas
+atualizado_em: 2026-07-22
+---
+
 # Mapa de Perguntas-Âncora ↔ Aulas
 
 > Cada wizard, ao terminar, dispara 1 pergunta-âncora padronizada.

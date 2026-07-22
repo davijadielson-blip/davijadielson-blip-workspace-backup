@@ -1,3 +1,8 @@
+---
+tema: T1 REVELACAO
+atualizado_em: 2026-07-22
+---
+
 # 🎭 T1 — REVELAÇÃO / PLOT TWIST (15s)
 
 **Base viral:** "Wait until the end" — 70% dos virais usam hook nos primeiros 2s

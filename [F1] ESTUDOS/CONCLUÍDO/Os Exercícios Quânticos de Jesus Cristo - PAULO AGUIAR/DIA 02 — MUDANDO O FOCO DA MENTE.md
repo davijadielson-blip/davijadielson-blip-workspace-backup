@@ -1,3 +1,8 @@
+---
+tema: DIA 02 — MUDANDO O FOCO DA MENTE
+atualizado_em: 2026-07-22
+---
+
 # DIA 02 — MUDANDO O FOCO DA MENTE
 
 **Fase 1 — Consciência**

@@ -1,3 +1,8 @@
+---
+tema: 07 19 decisao estudos dentro profissional
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Decisão: estudos dentro de `PROFISSIONAL`
 
 **Data:** 2026-07-19 05:08 UTC  

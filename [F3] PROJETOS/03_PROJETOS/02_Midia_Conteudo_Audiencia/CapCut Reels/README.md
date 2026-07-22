@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # 🎬 CapCut Reels — Produção de Instagram Reels
 
 ## Status

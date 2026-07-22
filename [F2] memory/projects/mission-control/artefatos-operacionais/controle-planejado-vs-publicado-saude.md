@@ -1,3 +1,8 @@
+---
+tema: controle planejado vs publicado saude
+atualizado_em: 2026-07-22
+---
+
 # Controle Planejado vs Publicado — Saúde São Sebastião
 
 **Status:** v0.1 ativo  

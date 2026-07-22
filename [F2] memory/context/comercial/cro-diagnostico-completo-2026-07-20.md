@@ -1,3 +1,8 @@
+---
+tema: cro diagnostico completo 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # 📈 Diagnóstico CRO Completo — Lógika Creative
 **Data:** 2026-07-20 17:02 UTC
 **CRO:** Ativo (subagente)

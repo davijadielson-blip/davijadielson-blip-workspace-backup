@@ -1,3 +1,8 @@
+---
+tema: liberdade lazer ocio
+atualizado_em: 2026-07-22
+---
+
 # Liberdade, Lazer e Ócio Criativo
 
 - **Grupo:** Central Pessoal

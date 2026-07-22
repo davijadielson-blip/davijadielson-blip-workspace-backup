@@ -1,3 +1,8 @@
+---
+tema: 07 13 google api publicacao agenda semanal
+atualizado_em: 2026-07-22
+---
+
 # Publicação Google Calendar via API direta — Semana 13–19/07/2026
 
 - Eventos apagados/recriados com marcador anterior: 0

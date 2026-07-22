@@ -1,3 +1,8 @@
+---
+tema: 07 18 correcao origem topico ong
+atualizado_em: 2026-07-22
+---
+
 # Correção de origem — Tópico ONG
 
 **Data:** 2026-07-18

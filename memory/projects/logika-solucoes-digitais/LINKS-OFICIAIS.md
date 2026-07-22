@@ -1,3 +1,8 @@
+---
+tema: LINKS OFICIAIS
+atualizado_em: 2026-07-22
+---
+
 # Links oficiais — LÓGIKA | soluções digitais
 
 ## Identidade visual atual

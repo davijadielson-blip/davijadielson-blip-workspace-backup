@@ -1,3 +1,8 @@
+---
+tema: 07 13 importacao agenda notion status
+atualizado_em: 2026-07-22
+---
+
 # Importação Agenda/Notion — Status
 
 Arquivos gerados para importação manual/assistida:

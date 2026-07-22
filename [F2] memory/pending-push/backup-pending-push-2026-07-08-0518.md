@@ -1,3 +1,8 @@
+---
+tema: backup pending push 2026 07 08 0518
+atualizado_em: 2026-07-22
+---
+
 ## Backup pendente — push não realizado
 
 **Data:** 2026-07-08 05:18 UTC

@@ -1,3 +1,8 @@
+---
+tema: loh memory mapa
+atualizado_em: 2026-07-22
+---
+
 # MAPA — memory/
 
 > O que vive nesta pasta: tudo que a Lôh precisa lembrar entre sessões de forma organizada.

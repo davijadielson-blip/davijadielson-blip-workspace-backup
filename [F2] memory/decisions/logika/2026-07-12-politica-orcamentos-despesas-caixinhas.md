@@ -1,3 +1,8 @@
+---
+tema: 07 12 politica orcamentos despesas caixinhas
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Política de Orçamentos, Despesas e Caixinhas da LÓGIKA
 
 **Data:** 2026-07-12  

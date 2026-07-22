@@ -1,3 +1,8 @@
+---
+tema: rascunho narracao com cenas 2026 07 08
+atualizado_em: 2026-07-22
+---
+
 # Rascunho de Narração com Marcação de Cenas
 ## II Jogos Indígenas Karapotó Terra Nova
 

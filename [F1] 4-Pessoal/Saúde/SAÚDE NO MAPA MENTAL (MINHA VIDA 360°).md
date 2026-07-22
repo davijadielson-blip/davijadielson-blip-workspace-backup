@@ -1,3 +1,8 @@
+---
+tema: SAÚDE NO MAPA MENTAL (MINHA VIDA 360°)
+atualizado_em: 2026-07-22
+---
+
 
 
 Vambora, chefe. **Saúde é pilar de alta performance** — se o corpo ou a mente pifa, o projeto inteiro desanda.  

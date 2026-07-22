@@ -1,3 +1,8 @@
+---
+tema: 07 18 transferegov sao sebastiao al pnab lpg
+atualizado_em: 2026-07-22
+---
+
 # Consulta pública TransfereGov — São Sebastião/AL — PNAB/LPG
 
 Data da consulta: 2026-07-18

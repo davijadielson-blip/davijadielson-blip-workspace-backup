@@ -1,3 +1,8 @@
+---
+tema: sobre o kit
+atualizado_em: 2026-07-22
+---
+
 # Sobre o Kit — Versão Expandida
 
 > Carregado pela `onboarding-checklist` quando aluno manda comando `"sobre"` (ou variantes: "filosofia", "quem fez isso?", "me explica o kit").

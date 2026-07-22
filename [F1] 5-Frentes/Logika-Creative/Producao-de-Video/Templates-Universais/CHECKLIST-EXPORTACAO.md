@@ -1,3 +1,8 @@
+---
+tema: CHECKLIST EXPORTACAO
+atualizado_em: 2026-07-22
+---
+
 # ✅ CHECKLIST UNIVERSAL DE EXPORTAÇÃO
 
 **Válido para todos os 7 templates (Premiere Pro + CapCut)**

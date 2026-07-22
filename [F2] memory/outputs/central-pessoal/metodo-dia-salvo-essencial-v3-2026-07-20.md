@@ -1,3 +1,8 @@
+---
+tema: metodo dia salvo essencial v3 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Método Dia Salvo — Essencial v3
 
 **Data:** 2026-07-20

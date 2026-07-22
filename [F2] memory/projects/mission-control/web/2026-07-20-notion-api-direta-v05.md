@@ -1,3 +1,8 @@
+---
+tema: 07 20 notion api direta v05
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v0.5 — Notion API direta
 
 **Data:** 2026-07-20 00:31 UTC  

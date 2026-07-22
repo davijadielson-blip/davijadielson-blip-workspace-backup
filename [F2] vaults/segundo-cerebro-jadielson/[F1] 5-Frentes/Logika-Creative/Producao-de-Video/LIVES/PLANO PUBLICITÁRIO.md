@@ -1,3 +1,8 @@
+---
+tema: PLANO PUBLICITÁRIO
+atualizado_em: 2026-07-22
+---
+
 ![[ARQUIVOS-REVISTOS/LÓGIKA/PRODUÇÃO DE VÍDEO/LIVES/image.jpg]]
 
 

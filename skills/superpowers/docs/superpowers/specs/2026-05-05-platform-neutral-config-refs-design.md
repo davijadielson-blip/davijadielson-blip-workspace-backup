@@ -1,3 +1,8 @@
+---
+tema: 05 05 platform neutral config refs design
+atualizado_em: 2026-07-22
+---
+
 # Platform-neutral config-file references — Phase B design
 
 ## Background

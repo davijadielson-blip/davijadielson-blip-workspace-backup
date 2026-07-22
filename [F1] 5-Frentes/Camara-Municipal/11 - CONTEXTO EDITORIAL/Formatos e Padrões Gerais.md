@@ -1,3 +1,8 @@
+---
+tema: Formatos e Padrões Gerais
+atualizado_em: 2026-07-22
+---
+
 Abaixo está o mapa dos **formatos de conteúdo que já produzimos para a Câmara Municipal de São Sebastião**, com o padrão de cada um. É tipo o manual do arsenal — sem firula, mas com método.
 
 ---

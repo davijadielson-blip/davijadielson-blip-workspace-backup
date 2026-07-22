@@ -1,3 +1,8 @@
+---
+tema: 07 17 mensagem zap manchete parecida post samu pa
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — WhatsApp: chamada com cara do post SAMU + PA
 
 Correção de Jadielson: a chamada para envio do link no WhatsApp deve parecer mais com o post, não como comunicado genérico nem manchete institucional distante.

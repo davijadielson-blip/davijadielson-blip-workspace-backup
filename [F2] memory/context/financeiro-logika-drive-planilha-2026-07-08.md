@@ -1,3 +1,8 @@
+---
+tema: financeiro logika drive planilha 2026 07 08
+atualizado_em: 2026-07-22
+---
+
 # Financeiro LÓGIKA — Drive e planilha panorâmica
 
 Data: 2026-07-08

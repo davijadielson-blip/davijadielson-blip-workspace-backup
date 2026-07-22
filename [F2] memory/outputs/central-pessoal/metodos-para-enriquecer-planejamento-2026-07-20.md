@@ -1,3 +1,8 @@
+---
+tema: metodos para enriquecer planejamento 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Métodos para enriquecer planejamentos — Central Pessoal
 
 **Data:** 2026-07-20

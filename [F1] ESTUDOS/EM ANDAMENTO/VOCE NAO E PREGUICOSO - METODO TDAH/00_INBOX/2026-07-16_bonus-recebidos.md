@@ -1,3 +1,8 @@
+---
+tema: 07 16 bonus recebidos
+atualizado_em: 2026-07-22
+---
+
 # Bônus recebidos — Método TDAH
 
 **Data:** 2026-07-16 04:53 UTC

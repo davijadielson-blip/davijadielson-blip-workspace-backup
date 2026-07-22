@@ -1,3 +1,8 @@
+---
+tema: creative brief template social media
+atualizado_em: 2026-07-22
+---
+
 
 # BRIEF CRIATIVO - Mídias Sociais
 

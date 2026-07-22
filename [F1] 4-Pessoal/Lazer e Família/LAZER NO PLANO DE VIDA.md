@@ -1,3 +1,8 @@
+---
+tema: LAZER NO PLANO DE VIDA
+atualizado_em: 2026-07-22
+---
+
  Porque **gestão de vida de verdade inclui descanso, prazer e recarga mental**.  
 Sem lazer não tem criatividade, produtividade nem sanidade — e você, como empreendedora e estrategista, **precisa estar inteira**.
 

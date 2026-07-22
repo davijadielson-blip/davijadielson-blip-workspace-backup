@@ -1,3 +1,8 @@
+---
+tema: BRIEFING MARCA
+atualizado_em: 2026-07-22
+---
+
 # Briefing de Marca — LÓGIKA — Soluções Digitais
 
 > Documento base para orientar identidade verbal, descrição, bio, apresentação e futura identidade visual.

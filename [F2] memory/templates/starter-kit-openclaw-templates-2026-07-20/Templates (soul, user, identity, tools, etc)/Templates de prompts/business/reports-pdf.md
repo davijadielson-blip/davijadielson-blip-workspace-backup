@@ -1,3 +1,8 @@
+---
+tema: reports pdf
+atualizado_em: 2026-07-22
+---
+
 # 📄 Use Case: Reports Profissionais em PDF
 
 > Gere reports com design moderno, gráficos e dados reais.

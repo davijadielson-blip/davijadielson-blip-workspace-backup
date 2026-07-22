@@ -1,3 +1,8 @@
+---
+tema: PROTOCOLO HEARTBEAT SEGURO
+atualizado_em: 2026-07-22
+---
+
 # Protocolo de Heartbeat seguro — Lôh/Jadielson
 
 Natureza: proposta aditiva. Não ativa heartbeat automaticamente.

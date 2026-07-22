@@ -1,3 +1,8 @@
+---
+tema: 07 09 rotina diaria atualizacao em aberto
+atualizado_em: 2026-07-22
+---
+
 # Atualização em aberto — Rotina diária de Jadielson
 
 **Data:** 2026-07-09

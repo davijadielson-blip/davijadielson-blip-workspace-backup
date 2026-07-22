@@ -1,3 +1,8 @@
+---
+tema: Itinerário de Captação
+atualizado_em: 2026-07-22
+---
+
 
 
 Aqui está um **itinerário estratégico de captura de imagens e produções** para rechear o perfil do Instagram da Secretaria Municipal de Saúde. O plano foca em destacar programas, resultados, infraestrutura e ações de forma visual e envolvente:

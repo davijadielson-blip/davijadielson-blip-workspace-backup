@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Starter Kit — Curso OpenClaw v2
 
 > **O kit que o aluno baixa.** Pacote agêntico que transforma o agente do aluno em tutor da própria configuração.

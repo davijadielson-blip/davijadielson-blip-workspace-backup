@@ -1,3 +1,8 @@
+---
+tema: Melhores Legendas
+atualizado_em: 2026-07-22
+---
+
 
  Não é só “texto de Câmara”. Já existe uma linguagem institucional própria. E algumas legendas se destacaram porque conseguiram fazer algo raro na comunicação pública:
 

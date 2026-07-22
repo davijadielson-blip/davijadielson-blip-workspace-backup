@@ -1,3 +1,8 @@
+---
+tema: 07 13 grupos metodo prioridade jadielson
+atualizado_em: 2026-07-22
+---
+
 # Grupos operacionais — Método Jadielson de Prioridade com Equilíbrio
 
 Data: 2026-07-13

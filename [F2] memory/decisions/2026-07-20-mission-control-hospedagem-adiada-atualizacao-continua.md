@@ -1,3 +1,8 @@
+---
+tema: 07 20 mission control hospedagem adiada atualizacao continua
+atualizado_em: 2026-07-22
+---
+
 # 🧠 Decisão — Mission Control: Hospedagem adiada, atualização contínua
 
 **Data:** 20/07/2026

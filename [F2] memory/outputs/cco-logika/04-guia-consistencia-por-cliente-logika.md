@@ -1,3 +1,8 @@
+---
+tema: guia consistencia por cliente logika
+atualizado_em: 2026-07-22
+---
+
 # 🎯 Guia de Consistência por Cliente — Lógika Creative
 
 **Documento:** CCO — Padronização de Entregas  

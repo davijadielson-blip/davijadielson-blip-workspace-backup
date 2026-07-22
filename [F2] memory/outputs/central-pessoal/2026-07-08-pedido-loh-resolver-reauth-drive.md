@@ -1,3 +1,8 @@
+---
+tema: 07 08 pedido loh resolver reauth drive
+atualizado_em: 2026-07-22
+---
+
 # Pedido à Lôh — resolver reautorização do Drive pessoal
 
 **Data:** 2026-07-08 00:34 UTC  

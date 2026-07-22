@@ -1,3 +1,8 @@
+---
+tema: 11 22 opencode support design
+atualizado_em: 2026-07-22
+---
+
 # OpenCode Support Design
 
 **Date:** 2025-11-22

@@ -1,3 +1,8 @@
+---
+tema: 07 19 organizacao canonica projetos v1 mapa360
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Organização canônica dos projetos v1 pelo Mapa 360
 
 **Data:** 2026-07-19 05:14 UTC  

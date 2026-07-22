@@ -1,3 +1,8 @@
+---
+tema: TOM DE VOZ
+atualizado_em: 2026-07-22
+---
+
 O tom de voz da Câmara Municipal de São Sebastião é construído para transmitir **autoridade institucional sem distanciamento humano**. A comunicação busca equilibrar seriedade, clareza e proximidade com a população. A Câmara fala como instituição pública, mas evita parecer fria, burocrática ou inacessível.
 
 A base da comunicação é:  

@@ -1,3 +1,8 @@
+---
+tema: 🎯 META   Multiplicar a Renda (com foco inicial em duplicar)
+atualizado_em: 2026-07-22
+---
+
 
 
 

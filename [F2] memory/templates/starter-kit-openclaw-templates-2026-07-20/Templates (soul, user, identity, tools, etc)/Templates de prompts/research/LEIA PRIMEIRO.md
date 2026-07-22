@@ -1,3 +1,8 @@
+---
+tema: LEIA PRIMEIRO
+atualizado_em: 2026-07-22
+---
+
 # 📍 Prompts de Research
 
 Prompts pra pesquisa profunda.

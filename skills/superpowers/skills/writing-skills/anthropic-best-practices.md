@@ -1,3 +1,8 @@
+---
+tema: anthropic best practices
+atualizado_em: 2026-07-22
+---
+
 # Skill authoring best practices
 
 > Learn how to write effective Skills that agents can discover and use successfully.

@@ -1,3 +1,8 @@
+---
+tema: 07 19 dashboard web mvp v01
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v0.1 — Implementado
 
 **Data:** 2026-07-19 23:54 UTC  

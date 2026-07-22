@@ -1,3 +1,8 @@
+---
+tema: parecer cmo lancamento entre tempos
+atualizado_em: 2026-07-22
+---
+
 # Parecer de Marketing: Lançamento do Videoclipe "Entre Tempos"
 
 **Data de Emissão:** 2026-06-28

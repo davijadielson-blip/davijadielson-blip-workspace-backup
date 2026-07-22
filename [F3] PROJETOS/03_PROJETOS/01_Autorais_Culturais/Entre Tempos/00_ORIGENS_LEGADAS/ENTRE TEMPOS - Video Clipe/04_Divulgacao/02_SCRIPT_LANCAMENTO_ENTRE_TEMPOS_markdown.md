@@ -1,3 +1,8 @@
+---
+tema: SCRIPT LANCAMENTO ENTRE TEMPOS markdown
+atualizado_em: 2026-07-22
+---
+
 <!-- Exportado do Google Drive em 2026-06-28 -->
 
 ﻿# SCRIPT DE LANÇAMENTO — ENTRE TEMPOS

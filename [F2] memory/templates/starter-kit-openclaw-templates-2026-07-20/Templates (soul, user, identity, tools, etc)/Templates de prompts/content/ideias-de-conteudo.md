@@ -1,3 +1,8 @@
+---
+tema: ideias de conteudo
+atualizado_em: 2026-07-22
+---
+
 # 💡 Use Case: Gerador de Ideias de Conteúdo
 
 > Nunca mais fique sem ideia do que postar.

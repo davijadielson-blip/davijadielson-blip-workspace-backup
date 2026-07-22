@@ -1,3 +1,8 @@
+---
+tema: principios defensivos
+atualizado_em: 2026-07-22
+---
+
 # Princípios Defensivos Universais
 
 > Regras de segurança herdadas por TODAS as skills do starter (não só `onboarding-checklist`).

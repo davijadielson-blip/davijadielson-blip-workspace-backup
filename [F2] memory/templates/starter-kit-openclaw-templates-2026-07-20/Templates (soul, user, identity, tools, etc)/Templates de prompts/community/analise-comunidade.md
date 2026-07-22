@@ -1,3 +1,8 @@
+---
+tema: analise comunidade
+atualizado_em: 2026-07-22
+---
+
 # 👥 Use Case: Análise de Comunidade
 
 > Entenda o que sua comunidade está falando, pedindo e sentindo.

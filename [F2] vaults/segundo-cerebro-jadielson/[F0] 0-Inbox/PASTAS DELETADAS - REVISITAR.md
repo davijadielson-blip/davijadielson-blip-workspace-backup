@@ -1,3 +1,8 @@
+---
+tema: PASTAS DELETADAS   REVISITAR
+atualizado_em: 2026-07-22
+---
+
 # Pastas deletadas na reestruturação — revisitar depois
 
 > Deletadas em 2026-05-10 por estarem completamente vazias.

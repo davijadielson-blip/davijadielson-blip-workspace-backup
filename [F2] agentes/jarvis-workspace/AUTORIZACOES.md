@@ -1,3 +1,8 @@
+---
+tema: AUTORIZACOES
+atualizado_em: 2026-07-22
+---
+
 # AUTORIZAÇÕES OPERACIONAIS - LÓGIKA
 
 ## Clara - Google Calendar, Docs e Sheets

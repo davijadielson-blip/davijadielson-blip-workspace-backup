@@ -1,3 +1,8 @@
+---
+tema: 07 17 notion atualizacao calendario a partir 17
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Notion atualizado: calendário editorial Saúde a partir de 17/07
 
 Solicitação de Jadielson: atualizar o calendário editorial completo de julho no Notion, somente a partir de hoje, 17/07, com base nas regras definidas recentemente.

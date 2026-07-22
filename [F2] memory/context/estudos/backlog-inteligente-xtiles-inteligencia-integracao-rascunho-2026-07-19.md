@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente xtiles inteligencia integracao rascun...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — xTiles e integração com a inteligência
 
 **Data:** 2026-07-19  

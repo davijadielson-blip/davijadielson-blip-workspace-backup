@@ -1,3 +1,8 @@
+---
+tema: 07 20 notion api conectado v06
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v0.6 — CRM Notion conectado
 
 **Data:** 2026-07-20 01:12 UTC  

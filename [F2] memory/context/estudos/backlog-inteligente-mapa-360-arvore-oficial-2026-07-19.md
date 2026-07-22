@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 arvore oficial 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Árvore oficial do Mapa 360
 
 **Data:** 2026-07-19 01:05 UTC  

@@ -1,3 +1,8 @@
+---
+tema: ESTRATEGIA POS LANCAMENTO AGOSTO
+atualizado_em: 2026-07-22
+---
+
 # ESTRATÉGIA DE PÓS-LANÇAMENTO — AGOSTO
 ## ENTRE TEMPOS — Uma Homenagem a São Sebastião
 

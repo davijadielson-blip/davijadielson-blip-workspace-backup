@@ -1,3 +1,8 @@
+---
+tema: 07 15 regra comprovantes financeiros drive
+atualizado_em: 2026-07-22
+---
+
 # Decisão — destino de comprovantes financeiros no Drive
 
 **Data:** 2026-07-15 15:13 UTC  

@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente prompt topico projeto dedicado v4 gra...
+atualizado_em: 2026-07-22
+---
+
 # Template — Agente Gestor de Projeto Dedicado com Grade de Pautas
 
 **Data:** 2026-07-19 04:29 UTC  

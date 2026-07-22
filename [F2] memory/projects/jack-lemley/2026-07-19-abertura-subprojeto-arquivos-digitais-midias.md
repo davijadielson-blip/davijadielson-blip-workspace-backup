@@ -1,3 +1,8 @@
+---
+tema: 07 19 abertura subprojeto arquivos digitais midias
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Abertura de subprojeto: organização de arquivos digitais, mídias e referências
 
 **Data:** 2026-07-19 05:21 UTC  

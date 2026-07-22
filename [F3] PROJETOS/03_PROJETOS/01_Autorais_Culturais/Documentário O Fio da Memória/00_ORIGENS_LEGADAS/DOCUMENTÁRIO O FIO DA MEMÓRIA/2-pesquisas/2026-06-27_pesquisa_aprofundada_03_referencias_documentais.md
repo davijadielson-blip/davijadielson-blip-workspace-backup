@@ -1,3 +1,8 @@
+---
+tema: 06 27 pesquisa aprofundada 03 referencias documentais
+atualizado_em: 2026-07-22
+---
+
 # Pesquisa aprofundada 03 — Referências documentais para linguagem, roteiro e direção
 
 Data: 2026-06-27  

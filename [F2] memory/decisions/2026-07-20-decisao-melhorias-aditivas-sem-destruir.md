@@ -1,3 +1,8 @@
+---
+tema: 07 20 decisao melhorias aditivas sem destruir
+atualizado_em: 2026-07-22
+---
+
 # Decisão — seguir com melhorias relevantes sem destruir o existente
 
 Data: 2026-07-20

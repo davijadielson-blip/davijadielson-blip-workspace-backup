@@ -1,3 +1,8 @@
+---
+tema: DIA 11 — GRATIDÃO ANTECIPADA
+atualizado_em: 2026-07-22
+---
+
 # DIA 11 — GRATIDÃO ANTECIPADA
 
 **Fase 2 — Propósito Claro**

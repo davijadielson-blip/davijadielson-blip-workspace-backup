@@ -1,3 +1,8 @@
+---
+tema: ferramentas citadas
+atualizado_em: 2026-07-22
+---
+
 # Ferramentas citadas — Comunidade 1P
 
 ## Nuelink

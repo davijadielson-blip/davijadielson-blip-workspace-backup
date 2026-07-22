@@ -1,3 +1,8 @@
+---
+tema: 07 18 revisao prestacao contas objeto vs financeiro
+atualizado_em: 2026-07-22
+---
+
 # Revisão — prestação de contas: objeto x financeiro
 
 Data: 2026-07-18

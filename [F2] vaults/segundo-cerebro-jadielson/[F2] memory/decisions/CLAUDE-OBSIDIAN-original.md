@@ -1,3 +1,8 @@
+---
+tema: CLAUDE OBSIDIAN original
+atualizado_em: 2026-07-22
+---
+
 # CLAUDE.md — Manual Operacional do Vault
 
 > Este arquivo dá ao Claude Code (e a qualquer assistente IA) o contexto necessário para operar dentro deste vault como um parceiro de trabalho, e não como um chatbot genérico.

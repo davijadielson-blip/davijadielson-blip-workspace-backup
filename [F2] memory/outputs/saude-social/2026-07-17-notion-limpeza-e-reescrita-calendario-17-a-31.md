@@ -1,3 +1,8 @@
+---
+tema: 07 17 notion limpeza e reescrita calendario 17 a 31
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Notion: limpeza e reescrita do calendário Saúde 17 a 31/07
 
 Solicitação de Jadielson: corrigir a atualização anterior porque ainda havia programação antiga no Notion causando confusão; aplicar de fato a rotação de setores/serviços dentro do pilar do dia; manter apenas um protagonista de feed com headline e legenda específica, baseada no Cofre e nos conceitos debatidos.

@@ -1,3 +1,8 @@
+---
+tema: 07 16 topico metodo tdah
+atualizado_em: 2026-07-22
+---
+
 # Registro — criação de tópico de estudos sobre TDAH
 
 Em 2026-07-16, Jadielson pediu no grupo ESTUDOS/Albert a criação de um tópico para estudar o método comprado: **"Você não é preguiçoso: O método para dominar o TDAH"**.

@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Jarvis Workspace — espelho consolidado no Segundo Cérebro
 
 Este diretório consolida o contexto operacional do Jarvis/LÓGIKA dentro do workspace principal: `/data/.openclaw/workspace/` (GitHub segundo-cerebro é backup apenas).

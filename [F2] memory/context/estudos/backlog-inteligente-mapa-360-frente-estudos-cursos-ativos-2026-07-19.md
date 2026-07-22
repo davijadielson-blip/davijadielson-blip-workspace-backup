@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 frente estudos cursos ativos...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Frente Estudos no Mapa 360
 
 **Data:** 2026-07-19 01:32 UTC  

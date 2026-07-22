@@ -1,3 +1,8 @@
+---
+tema: porting to a new harness
+atualizado_em: 2026-07-22
+---
+
 # Porting Superpowers to a New Harness
 
 This guide explains how to add support for a new harness — an IDE, CLI, or

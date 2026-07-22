@@ -1,3 +1,8 @@
+---
+tema: Tom de voz
+atualizado_em: 2026-07-22
+---
+
 ## Tom de voz do SINDSS
 
 O tom do SINDSS deve ser **institucional, firme, acolhedor e comprometido**.  

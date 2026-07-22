@@ -1,3 +1,8 @@
+---
+tema: wireframe dashboard web v01
+atualizado_em: 2026-07-22
+---
+
 # Wireframe — Dashboard Web Mission Control v0.1
 
 **Status:** aprovado como direção inicial — web primeiro  

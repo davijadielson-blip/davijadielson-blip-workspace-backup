@@ -1,3 +1,8 @@
+---
+tema: 07 09 regras balanceamento rotina hibrida
+atualizado_em: 2026-07-22
+---
+
 # Regras de balanceamento — Rotina híbrida de Jadielson
 
 **Data:** 2026-07-09

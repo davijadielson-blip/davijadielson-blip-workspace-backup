@@ -1,3 +1,8 @@
+---
+tema: T6 CHAMADA
+atualizado_em: 2026-07-22
+---
+
 # 📢 T6 — CHAMADA / EVENTO (12s)
 
 **Base viral:** Conteúdo de chamada funciona melhor quando é curto, direto e cria urgência visual. O CTA deve ser a estrela.

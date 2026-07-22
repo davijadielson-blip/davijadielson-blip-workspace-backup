@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Templates — Starter Kit OpenClaw v2
 
 > 2 grupos: **estruturais** (preenchidos pelos wizards na configuração inicial) e **de output** (usados pelo aluno pra produzir reports/material).

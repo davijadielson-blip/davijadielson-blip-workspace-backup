@@ -1,3 +1,8 @@
+---
+tema: Tom de voz
+atualizado_em: 2026-07-22
+---
+
 ## 1) Tom de voz, linguagem e postura comunicacional
 
 **Tom de voz**

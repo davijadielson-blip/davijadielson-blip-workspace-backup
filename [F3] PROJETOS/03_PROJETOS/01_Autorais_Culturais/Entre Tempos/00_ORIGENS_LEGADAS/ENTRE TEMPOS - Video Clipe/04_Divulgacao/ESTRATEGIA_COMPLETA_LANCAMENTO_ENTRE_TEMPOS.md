@@ -1,3 +1,8 @@
+---
+tema: ESTRATEGIA COMPLETA LANCAMENTO ENTRE TEMPOS
+atualizado_em: 2026-07-22
+---
+
 # ESTRATÉGIA COMPLETA DE LANÇAMENTO
 ## ENTRE TEMPOS — Uma Homenagem a São Sebastião
 

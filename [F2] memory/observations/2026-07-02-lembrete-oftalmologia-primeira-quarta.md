@@ -1,3 +1,8 @@
+---
+tema: 07 02 lembrete oftalmologia primeira quarta
+atualizado_em: 2026-07-22
+---
+
 # Observação: Lembrete de Oftalmologia — 1ª Quarta do Mês
 
 **Data do disparo:** 02/07/2026 (qui) — chegou com 1 dia de atraso  

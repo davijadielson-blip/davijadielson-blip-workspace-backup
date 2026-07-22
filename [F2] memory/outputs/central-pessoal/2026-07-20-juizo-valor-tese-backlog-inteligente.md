@@ -1,3 +1,8 @@
+---
+tema: 07 20 juizo valor tese backlog inteligente
+atualizado_em: 2026-07-22
+---
+
 # Juízo de valor — Tese Backlog Inteligente / Sistema Empresário 70%
 
 **Data:** 2026-07-20  

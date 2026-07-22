@@ -1,3 +1,8 @@
+---
+tema: 05 10 reestruturacao inicial original
+atualizado_em: 2026-07-22
+---
+
 # Log — Reestruturação Inicial do Vault
 
 **Data:** 2026-05-10

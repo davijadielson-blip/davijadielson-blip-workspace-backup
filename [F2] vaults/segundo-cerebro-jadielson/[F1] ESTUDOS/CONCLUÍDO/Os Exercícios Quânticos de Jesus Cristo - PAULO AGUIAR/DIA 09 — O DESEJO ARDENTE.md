@@ -1,3 +1,8 @@
+---
+tema: DIA 09 — O DESEJO ARDENTE
+atualizado_em: 2026-07-22
+---
+
 # DIA 09 — O DESEJO ARDENTE
 
 **Fase 2 — Propósito Claro**

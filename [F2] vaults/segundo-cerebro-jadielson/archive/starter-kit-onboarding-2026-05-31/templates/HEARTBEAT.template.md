@@ -1,3 +1,8 @@
+---
+tema: HEARTBEAT.template
+atualizado_em: 2026-07-22
+---
+
 # HEARTBEAT.md
 
 > Configuração do mecanismo de proatividade do agente. Define COMO ele vigia

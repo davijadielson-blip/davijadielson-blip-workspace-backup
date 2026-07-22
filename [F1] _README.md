@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # [F1] — FLUXO 1: CRIATIVO (Só Você)
 
 **O que significa:** Conteúdo autoral, notas pessoais, reflexões, material que SÓ VOCÊ edita.

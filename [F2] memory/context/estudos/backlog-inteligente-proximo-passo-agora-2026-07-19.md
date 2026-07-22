@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente proximo passo agora 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — O que fazer agora
 
 **Data:** 2026-07-19  

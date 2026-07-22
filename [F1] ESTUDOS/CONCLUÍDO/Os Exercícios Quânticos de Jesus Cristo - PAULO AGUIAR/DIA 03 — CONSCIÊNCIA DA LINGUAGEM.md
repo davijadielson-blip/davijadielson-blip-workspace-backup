@@ -1,3 +1,8 @@
+---
+tema: DIA 03 — CONSCIÊNCIA DA LINGUAGEM
+atualizado_em: 2026-07-22
+---
+
 # DIA 03 — CONSCIÊNCIA DA LINGUAGEM
 
 **Fase 1 — Consciência**

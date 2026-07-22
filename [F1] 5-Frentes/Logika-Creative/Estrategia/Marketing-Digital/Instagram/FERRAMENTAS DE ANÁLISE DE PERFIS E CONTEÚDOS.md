@@ -1,3 +1,8 @@
+---
+tema: FERRAMENTAS DE ANÁLISE DE PERFIS E CONTEÚDOS
+atualizado_em: 2026-07-22
+---
+
 
 - ViralFinder
 - Tokaudit

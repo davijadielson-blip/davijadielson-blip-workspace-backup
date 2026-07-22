@@ -1,3 +1,8 @@
+---
+tema: Melhores Headlines
+atualizado_em: 2026-07-22
+---
+
 **banco de headlines fortes** que já construímos para a **Secretaria de Saúde de São Sebastião**, organizado por tipo de conteúdo.
 
 Vou trazer para cada uma:

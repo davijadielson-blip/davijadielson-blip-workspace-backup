@@ -1,3 +1,8 @@
+---
+tema: Plano de Quitação Total das Dívidas
+atualizado_em: 2026-07-22
+---
+
 
 
 Perfeito. Agora a gente vai montar um **Plano de Quitação Total das Dívidas**, com foco em:

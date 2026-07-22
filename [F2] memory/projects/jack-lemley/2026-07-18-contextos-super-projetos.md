@@ -1,3 +1,8 @@
+---
+tema: 07 18 contextos super projetos
+atualizado_em: 2026-07-22
+---
+
 # Contextos Super dos Projetos — Visão Grande Bilionário — 2026-07-18
 
 Pedido de Jadielson no tópico `PROJETOS > Jack Lemley`: reorganizar a lista de projetos não por estágio, mas por macrocontextos estratégicos: pessoal, profissional/trabalho/empresarial etc., "como um grande bilionário".

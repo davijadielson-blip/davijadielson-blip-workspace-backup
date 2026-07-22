@@ -1,3 +1,8 @@
+---
+tema: INDEX
+atualizado_em: 2026-07-22
+---
+
 # 📋 SISTEMA DE 7 TEMPLATES UNIVERSAIS
 
 **Baseado em:** Pesquisa global de vídeos virais (2025-2026)

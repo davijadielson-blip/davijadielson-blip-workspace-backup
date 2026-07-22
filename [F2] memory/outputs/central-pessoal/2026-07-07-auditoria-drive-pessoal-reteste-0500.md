@@ -1,3 +1,8 @@
+---
+tema: 07 07 auditoria drive pessoal reteste 0500
+atualizado_em: 2026-07-22
+---
+
 # Auditoria do Drive pessoal — reteste 05:00 UTC
 
 **Data:** 2026-07-07 05:00 UTC  

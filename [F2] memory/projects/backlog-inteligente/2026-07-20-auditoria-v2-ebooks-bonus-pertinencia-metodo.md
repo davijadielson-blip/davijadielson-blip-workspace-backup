@@ -1,3 +1,8 @@
+---
+tema: 07 20 auditoria v2 ebooks bonus pertinencia metodo
+atualizado_em: 2026-07-22
+---
+
 # Auditoria V2 — Pertinência dos ebooks e bônus no Método Backlog Inteligente / Sistema Empresário 70%
 
 **Data:** 2026-07-20  

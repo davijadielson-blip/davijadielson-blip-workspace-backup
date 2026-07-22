@@ -1,3 +1,8 @@
+---
+tema: 07 13 grupos areas equilibrio pg pd pos pesquisa
+atualizado_em: 2026-07-22
+---
+
 # Grupos por área — versão pós-pesquisa
 
 Data: 2026-07-13

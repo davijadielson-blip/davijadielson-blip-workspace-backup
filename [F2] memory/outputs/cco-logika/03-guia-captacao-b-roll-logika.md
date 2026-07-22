@@ -1,3 +1,8 @@
+---
+tema: guia captacao b roll logika
+atualizado_em: 2026-07-22
+---
+
 # 📸 Guia de Captação — B-Roll Lógika Creative
 
 **Documento:** CCO — Briefing de Captação Reutilizável  

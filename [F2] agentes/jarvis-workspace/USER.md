@@ -1,3 +1,8 @@
+---
+tema: USER
+atualizado_em: 2026-07-22
+---
+
 # USER.md - About Your Human
 
 - **Name:** Jadielson Davi / Jahdielson

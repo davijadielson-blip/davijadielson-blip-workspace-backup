@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 classificacao simples 2026 0...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Classificação simples dos exemplos no Mapa 360
 
 **Data:** 2026-07-18 21:48 UTC  

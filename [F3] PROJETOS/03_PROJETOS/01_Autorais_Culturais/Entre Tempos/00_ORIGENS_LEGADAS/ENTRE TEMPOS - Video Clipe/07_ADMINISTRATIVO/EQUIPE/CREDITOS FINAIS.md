@@ -1,3 +1,8 @@
+---
+tema: CREDITOS FINAIS
+atualizado_em: 2026-07-22
+---
+
 # CREDITOS FINAIS
 
 > Convertido para Markdown a partir de `CREDITOS FINAIS.docx`.

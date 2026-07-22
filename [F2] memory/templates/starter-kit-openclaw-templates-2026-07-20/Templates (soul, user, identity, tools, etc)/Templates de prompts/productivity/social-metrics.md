@@ -1,3 +1,8 @@
+---
+tema: social metrics
+atualizado_em: 2026-07-22
+---
+
 # 📱 Use Case: Social Media Metrics Sync
 
 > Todas as métricas de redes sociais num único report.

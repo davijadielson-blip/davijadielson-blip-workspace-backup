@@ -1,3 +1,8 @@
+---
+tema: 07 20 aging comercial v12
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web v1.2 — Aging comercial
 
 **Data:** 2026-07-20 01:37 UTC  

@@ -1,3 +1,8 @@
+---
+tema: T2 TRANSFORMACAO
+atualizado_em: 2026-07-22
+---
+
 # 🔄 T2 — ANTES & DEPOIS (TRANSFORMAÇÃO) (12s)
 
 **Base viral:** Transformação gera 3x mais engajamento que post estático. Um dos formatos mais compartilhados globalmente.

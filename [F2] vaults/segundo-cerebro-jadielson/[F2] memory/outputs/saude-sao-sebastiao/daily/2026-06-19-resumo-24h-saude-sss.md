@@ -1,3 +1,8 @@
+---
+tema: 06 19 resumo 24h saude sss
+atualizado_em: 2026-07-22
+---
+
 # Saúde São Sebastião — resumo diário 24h
 
 - **Data do registro:** 2026-06-19

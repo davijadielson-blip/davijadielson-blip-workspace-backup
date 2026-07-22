@@ -1,3 +1,8 @@
+---
+tema: AUTORIZACAO USO IMAGEM LOGIKA
+atualizado_em: 2026-07-22
+---
+
 # 📸 Termo de Autorização de Uso de Imagem, Voz e Dados Pessoais — Lógika Creative
 
 **Data de criação:** 2026-07-20  

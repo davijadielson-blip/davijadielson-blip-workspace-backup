@@ -1,3 +1,8 @@
+---
+tema: briefing identidade visual julho amarelo 2026
+atualizado_em: 2026-07-22
+---
+
 # BRIEFING DE IDENTIDADE VISUAL
 ## Campanha Julho Amarelo — Prevenção às Hepatites Virais
 

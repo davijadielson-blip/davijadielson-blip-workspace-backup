@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # COMUNIDADE 1P — Mapa da pasta
 
 Pasta de trabalho do tópico **ESTUDOS / COMUNIDADE 1P**.

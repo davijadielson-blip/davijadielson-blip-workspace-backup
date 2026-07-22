@@ -1,3 +1,8 @@
+---
+tema: 07 19 reorganizacao fisica f3 projetos mapa360
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Reorganização física de `[F3] PROJETOS/` pelo Mapa 360
 
 **Data:** 2026-07-19 05:20 UTC  

@@ -1,3 +1,8 @@
+---
+tema: ANEXO III
+atualizado_em: 2026-07-22
+---
+
 # ANEXO III
 
 > Convertido para Markdown a partir de `ANEXO III.pdf`.

@@ -1,3 +1,8 @@
+---
+tema: 06 27 2246 registro fontes convertidas e pesquisa 02
+atualizado_em: 2026-07-22
+---
+
 # Registro — fontes convertidas e pesquisa aprofundada 02
 
 Data: 2026-06-27 22:46 UTC

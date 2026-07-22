@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Lógika Creative — C-Level Squad (LÔH + 8 C-Levels + 30+ Agentes Operacionais)
 
 ## Estrutura

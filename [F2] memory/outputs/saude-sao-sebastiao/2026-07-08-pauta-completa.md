@@ -1,3 +1,8 @@
+---
+tema: 07 08 pauta completa
+atualizado_em: 2026-07-22
+---
+
 📋 PAUTA DO DIA — QUARTA, 08/07/2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

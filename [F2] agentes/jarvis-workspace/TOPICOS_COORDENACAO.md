@@ -1,3 +1,8 @@
+---
+tema: TOPICOS COORDENACAO
+atualizado_em: 2026-07-22
+---
+
 # TOPICOS_COORDENACAO.md - Controle de tópicos sob coordenação do Jarvis
 
 Grupo: LÓGIKA (`telegram:-1003645702069`)

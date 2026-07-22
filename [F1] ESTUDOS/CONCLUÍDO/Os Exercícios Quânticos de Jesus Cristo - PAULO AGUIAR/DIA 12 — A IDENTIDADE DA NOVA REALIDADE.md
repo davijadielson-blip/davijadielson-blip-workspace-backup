@@ -1,3 +1,8 @@
+---
+tema: DIA 12 — A IDENTIDADE DA NOVA REALIDADE
+atualizado_em: 2026-07-22
+---
+
 # DIA 12 — A IDENTIDADE DA NOVA REALIDADE
 
 **Fase 2 — Propósito Claro**

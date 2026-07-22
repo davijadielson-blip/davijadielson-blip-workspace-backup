@@ -1,3 +1,8 @@
+---
+tema: PLANO WARREN SOBREVIVENCIA 30 DIAS 2026 06 05
+atualizado_em: 2026-07-22
+---
+
 # Plano Warren — Sobrevivência Financeira 30 Dias
 
 Data: 2026-06-05

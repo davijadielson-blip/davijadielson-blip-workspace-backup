@@ -1,3 +1,8 @@
+---
+tema: 07 20 politica servico mutuo entre agentes
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Política de Serviço Mútuo entre Agentes
 
 **Data:** 2026-07-20

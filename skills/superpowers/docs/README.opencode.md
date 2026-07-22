@@ -1,3 +1,8 @@
+---
+tema: README.opencode
+atualizado_em: 2026-07-22
+---
+
 # Superpowers for OpenCode
 
 Complete guide for using Superpowers with [OpenCode.ai](https://opencode.ai).

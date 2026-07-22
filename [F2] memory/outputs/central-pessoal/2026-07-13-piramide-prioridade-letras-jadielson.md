@@ -1,3 +1,8 @@
+---
+tema: 07 13 piramide prioridade letras jadielson
+atualizado_em: 2026-07-22
+---
+
 # Pirâmide de prioridade por letras — Método Jadielson
 
 Data: 2026-07-13

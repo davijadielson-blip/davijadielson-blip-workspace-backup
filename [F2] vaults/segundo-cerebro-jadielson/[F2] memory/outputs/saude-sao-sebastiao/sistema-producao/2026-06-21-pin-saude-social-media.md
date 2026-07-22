@@ -1,3 +1,8 @@
+---
+tema: 06 21 pin saude social media
+atualizado_em: 2026-07-22
+---
+
 # PIN — SAÚDE · SOCIAL MEDIA
 
 **Data de registro:** 2026-06-21  

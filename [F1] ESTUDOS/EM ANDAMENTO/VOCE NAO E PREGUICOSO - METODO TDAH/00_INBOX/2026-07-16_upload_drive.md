@@ -1,3 +1,8 @@
+---
+tema: 07 16 upload drive
+atualizado_em: 2026-07-22
+---
+
 # Upload dos PDFs para Google Drive
 
 **Data:** 2026-07-16 11:41 UTC

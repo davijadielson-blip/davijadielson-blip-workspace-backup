@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente prints dashboard requisitos ui 2026 0...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Prints de dashboard — requisitos de UI
 
 **Data:** 2026-07-20  

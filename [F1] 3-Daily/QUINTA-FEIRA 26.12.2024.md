@@ -1,3 +1,8 @@
+---
+tema: QUINTA FEIRA 26.12.2024
+atualizado_em: 2026-07-22
+---
+
 MANHÃ
 
 GRATIDÃO

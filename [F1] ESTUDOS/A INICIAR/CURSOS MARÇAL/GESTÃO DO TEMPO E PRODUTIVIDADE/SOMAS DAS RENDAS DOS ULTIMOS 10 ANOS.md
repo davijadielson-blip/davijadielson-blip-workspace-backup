@@ -1,2 +1,7 @@
+---
+tema: SOMAS DAS RENDAS DOS ULTIMOS 10 ANOS
+atualizado_em: 2026-07-22
+---
+
 - MÉDIA DE VALORES = ?????
 - CONVERSÃO DE PATRIMONIO: CASA - ?????; MOTO - 12.000,00; 

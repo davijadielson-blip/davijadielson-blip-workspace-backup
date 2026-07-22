@@ -1,3 +1,8 @@
+---
+tema: templates reels saude
+atualizado_em: 2026-07-22
+---
+
 # 🎬 SISTEMA DE TEMPLATES — Reels Otimizados
 ## Secretaria de Saúde São Sebastião
 

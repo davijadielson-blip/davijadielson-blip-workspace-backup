@@ -1,3 +1,8 @@
+---
+tema: REGISTRO TRATAMENTO DADOS LOGIKA
+atualizado_em: 2026-07-22
+---
+
 # 📋 Registro das Operações de Tratamento de Dados Pessoais — Lógika Creative
 
 **Art. 37 LGPD — Obrigação de manutenção de registro**

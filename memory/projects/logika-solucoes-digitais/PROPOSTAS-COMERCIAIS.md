@@ -1,3 +1,8 @@
+---
+tema: PROPOSTAS COMERCIAIS
+atualizado_em: 2026-07-22
+---
+
 # Propostas Comerciais — LÓGIKA | soluções digitais
 
 > Objetivo: estruturar modelos comerciais vendáveis para a nova fase da LÓGIKA, evitando proposta genérica e facilitando fechamento.

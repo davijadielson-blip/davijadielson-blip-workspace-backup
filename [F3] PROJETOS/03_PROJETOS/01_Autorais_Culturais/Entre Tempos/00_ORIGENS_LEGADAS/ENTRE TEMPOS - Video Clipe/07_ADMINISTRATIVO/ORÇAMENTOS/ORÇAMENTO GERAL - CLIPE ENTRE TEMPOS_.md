@@ -1,3 +1,8 @@
+---
+tema: ORÇAMENTO GERAL   CLIPE ENTRE TEMPOS
+atualizado_em: 2026-07-22
+---
+
 # ORÇAMENTO GERAL - CLIPE ENTRE TEMPOS_
 
 > Convertido para Markdown a partir de `ORÇAMENTO GERAL - CLIPE ENTRE TEMPOS_.pdf`.

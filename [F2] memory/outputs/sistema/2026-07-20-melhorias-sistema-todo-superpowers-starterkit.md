@@ -1,3 +1,8 @@
+---
+tema: 07 20 melhorias sistema todo superpowers starterkit
+atualizado_em: 2026-07-22
+---
+
 # Melhorias esperadas no sistema todo — Superpowers + Starter Kit
 
 Data: 2026-07-20

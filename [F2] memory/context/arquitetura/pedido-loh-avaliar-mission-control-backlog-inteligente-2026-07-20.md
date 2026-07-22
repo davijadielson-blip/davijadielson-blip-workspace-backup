@@ -1,3 +1,8 @@
+---
+tema: pedido loh avaliar mission control backlog inteligente 20...
+atualizado_em: 2026-07-22
+---
+
 # Pedido à Lôh — Avaliação técnica do Mission Control Backlog Inteligente
 
 **Data:** 2026-07-20  

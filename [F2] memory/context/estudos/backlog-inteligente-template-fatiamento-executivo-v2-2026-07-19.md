@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente template fatiamento executivo v2 2026...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Template de Fatiamento Executivo v2
 
 **Data:** 2026-07-19 03:24 UTC  

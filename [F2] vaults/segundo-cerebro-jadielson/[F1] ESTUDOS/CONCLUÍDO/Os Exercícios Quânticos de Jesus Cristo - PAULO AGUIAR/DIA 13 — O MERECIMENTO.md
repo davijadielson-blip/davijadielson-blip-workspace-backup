@@ -1,3 +1,8 @@
+---
+tema: DIA 13 — O MERECIMENTO
+atualizado_em: 2026-07-22
+---
+
 # DIA 13 — O MERECIMENTO
 
 **Fase 2 — Propósito Claro**

@@ -1,3 +1,8 @@
+---
+tema: Decl. pestação de serviços Jadielson
+atualizado_em: 2026-07-22
+---
+
 # Decl. pestação de serviços_Jadielson
 
 > Convertido para Markdown a partir de `Decl. pestação de serviços_Jadielson.docx`.

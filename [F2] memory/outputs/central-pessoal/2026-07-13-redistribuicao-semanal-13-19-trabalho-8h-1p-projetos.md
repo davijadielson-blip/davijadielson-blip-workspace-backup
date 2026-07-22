@@ -1,3 +1,8 @@
+---
+tema: 07 13 redistribuicao semanal 13 19 trabalho 8h 1p projetos
+atualizado_em: 2026-07-22
+---
+
 # Redistribuição semanal — 13 a 19/07/2026
 
 Agente: Alfred / Central Pessoal

@@ -1,3 +1,8 @@
+---
+tema: DIA 20 — A PROVA DA TRANSFORMAÇÃO
+atualizado_em: 2026-07-22
+---
+
 # DIA 20 — A PROVA DA TRANSFORMAÇÃO
 
 **Fase 3 — Coerência Pura**

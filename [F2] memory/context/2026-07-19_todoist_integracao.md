@@ -1,3 +1,8 @@
+---
+tema: 07 19 todoist integracao
+atualizado_em: 2026-07-22
+---
+
 # Integração Todoist — consulta inicial
 
 Data: 2026-07-19

@@ -1,3 +1,8 @@
+---
+tema: IDENTITY.template
+atualizado_em: 2026-07-22
+---
+
 # IDENTITY — {NOME_AGENTE}
 
 **Nome:** {NOME_AGENTE}

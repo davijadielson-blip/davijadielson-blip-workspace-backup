@@ -1,3 +1,8 @@
+---
+tema: dependencias
+atualizado_em: 2026-07-22
+---
+
 # Dependências entre Passos
 
 > Mapa de quais passos dependem tecnicamente de quais.

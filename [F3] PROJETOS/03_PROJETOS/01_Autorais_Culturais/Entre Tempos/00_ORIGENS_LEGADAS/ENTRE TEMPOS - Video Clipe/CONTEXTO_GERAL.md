@@ -1,3 +1,8 @@
+---
+tema: CONTEXTO GERAL
+atualizado_em: 2026-07-22
+---
+
 # CONTEXTO GERAL — ENTRE TEMPOS (Video Clipe)
 
 ## Status do Projeto

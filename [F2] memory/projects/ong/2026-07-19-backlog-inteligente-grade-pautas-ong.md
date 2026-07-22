@@ -1,3 +1,8 @@
+---
+tema: 07 19 backlog inteligente grade pautas ong
+atualizado_em: 2026-07-22
+---
+
 # ONG — Backlog Inteligente e Grade de Pautas
 
 **Data:** 2026-07-19 04:29 UTC  

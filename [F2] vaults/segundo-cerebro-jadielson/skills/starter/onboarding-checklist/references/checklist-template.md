@@ -1,3 +1,8 @@
+---
+tema: checklist template
+atualizado_em: 2026-07-22
+---
+
 # Template Visual da Checklist
 
 > Texto literal que a `onboarding-checklist` renderiza no Telegram.

@@ -1,3 +1,8 @@
+---
+tema: Bonus 03 Os 7 Padroes Invisiveis que te Mantem Travado
+atualizado_em: 2026-07-22
+---
+
 # Bônus 03 — Os 7 Padrões Invisíveis que te Mantêm Travado
 
 **Fonte bruta:** PDF salvo no Google Drive pessoal, pasta `ESTUDOS/Você não é preguiçoso — Método TDAH`.

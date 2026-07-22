@@ -1,3 +1,8 @@
+---
+tema: ceo logika implementacao raio x c levels 2026 06 22
+atualizado_em: 2026-07-22
+---
+
 # Pedido: Implementação do Raio-X LÓGIKA — C-Levels
 
 Data: 2026-06-22 22:05 UTC  

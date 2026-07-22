@@ -1,3 +1,8 @@
+---
+tema: Planejamento e Produtividade
+atualizado_em: 2026-07-22
+---
+
 # Planejamento e Produtividade
 
 ## Macro Estrutura

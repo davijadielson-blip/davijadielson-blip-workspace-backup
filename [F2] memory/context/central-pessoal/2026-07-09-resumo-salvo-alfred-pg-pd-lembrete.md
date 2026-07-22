@@ -1,3 +1,8 @@
+---
+tema: 07 09 resumo salvo alfred pg pd lembrete
+atualizado_em: 2026-07-22
+---
+
 # Resumo salvo — Alfred, PG/PD e lembrete diário
 
 **Data:** 2026-07-09

@@ -1,3 +1,8 @@
+---
+tema: 07 19 backlog inteligente
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — O Fio da Memória
 
 Data: 2026-07-19

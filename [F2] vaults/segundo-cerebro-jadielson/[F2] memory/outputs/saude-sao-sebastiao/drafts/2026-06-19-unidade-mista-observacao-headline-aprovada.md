@@ -1,3 +1,8 @@
+---
+tema: 06 19 unidade mista observacao headline aprovada
+atualizado_em: 2026-07-22
+---
+
 # Headline aprovada — Unidade Mista / observação
 
 **Data:** 2026-06-19  

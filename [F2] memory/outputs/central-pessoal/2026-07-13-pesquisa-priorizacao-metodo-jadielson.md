@@ -1,3 +1,8 @@
+---
+tema: 07 13 pesquisa priorizacao metodo jadielson
+atualizado_em: 2026-07-22
+---
+
 # Pesquisa retomada — Priorização, equilíbrio e Método Jadielson
 
 Data: 2026-07-13

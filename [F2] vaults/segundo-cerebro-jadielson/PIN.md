@@ -1,3 +1,8 @@
+---
+tema: PIN
+atualizado_em: 2026-07-22
+---
+
 # 🔐 PIN — LÔH (Orquestradora Tier 0)
 
 **Identidade fixada em 21/06/2026 por Jadielson Davi**

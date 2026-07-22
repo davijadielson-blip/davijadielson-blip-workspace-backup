@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente juizo valor material aulas 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Juízo de valor sobre material das aulas
 
 **Data:** 2026-07-19  

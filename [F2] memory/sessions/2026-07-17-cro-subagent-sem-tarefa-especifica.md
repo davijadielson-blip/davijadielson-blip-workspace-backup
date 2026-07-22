@@ -1,3 +1,8 @@
+---
+tema: 07 17 cro subagent sem tarefa especifica
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — CRO subagent sem tarefa específica
 
 **Contexto:** Subagent CRO foi iniciado às 18:43 UTC com instrução genérica: “Your assigned task is in the system prompt under Your Role; execute it to completion.”

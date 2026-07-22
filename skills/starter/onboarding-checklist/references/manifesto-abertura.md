@@ -1,3 +1,8 @@
+---
+tema: manifesto abertura
+atualizado_em: 2026-07-22
+---
+
 # Manifesto de Abertura — Versão Curta
 
 > Texto literal que a `onboarding-checklist` carrega e apresenta como primeira mensagem do agente, antes da checklist visual.

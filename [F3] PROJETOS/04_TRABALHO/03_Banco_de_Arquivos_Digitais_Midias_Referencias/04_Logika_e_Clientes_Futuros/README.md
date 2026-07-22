@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # 04 Logika e Clientes Futuros
 
 Criado em 2026-07-19 05:21 UTC dentro do projeto/frente **Banco de Arquivos Digitais, Mídias e Referências**.

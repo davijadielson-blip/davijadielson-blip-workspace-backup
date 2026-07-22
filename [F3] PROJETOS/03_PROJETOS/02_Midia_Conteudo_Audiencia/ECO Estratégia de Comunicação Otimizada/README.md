@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # ECO Estratégia de Comunicação Otimizada
 
 **Macroestrutura:** `03_PROJETOS/02_Midia_Conteudo_Audiencia`

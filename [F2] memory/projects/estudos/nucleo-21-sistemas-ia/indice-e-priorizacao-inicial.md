@@ -1,3 +1,8 @@
+---
+tema: indice e priorizacao inicial
+atualizado_em: 2026-07-22
+---
+
 # Índice e priorização inicial — NÚCLEO 21 Sistemas de IA
 
 **Data:** 2026-07-05  

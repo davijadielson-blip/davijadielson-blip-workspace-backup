@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Eliminar o que não é interessante
 
 **Macroestrutura:** `01_PESSOAL/04_Espiritualidade_Proposito_Lazer`

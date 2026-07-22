@@ -1,3 +1,8 @@
+---
+tema: TOM INSTITUCIONAL PADRAO
+atualizado_em: 2026-07-22
+---
+
 # Tom institucional padrão — empresa/ecossistema
 
 Atualizado em: 2026-07-20

@@ -1,3 +1,8 @@
+---
+tema: ANEXO IV
+atualizado_em: 2026-07-22
+---
+
 # ANEXO IV
 
 > Convertido para Markdown a partir de `ANEXO IV.pdf`.

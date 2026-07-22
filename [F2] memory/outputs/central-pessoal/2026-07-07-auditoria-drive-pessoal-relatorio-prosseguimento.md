@@ -1,3 +1,8 @@
+---
+tema: 07 07 auditoria drive pessoal relatorio prosseguimento
+atualizado_em: 2026-07-22
+---
+
 # Auditoria do Drive pessoal — prosseguimento autorizado
 
 **Data:** 2026-07-07 15:50 UTC  

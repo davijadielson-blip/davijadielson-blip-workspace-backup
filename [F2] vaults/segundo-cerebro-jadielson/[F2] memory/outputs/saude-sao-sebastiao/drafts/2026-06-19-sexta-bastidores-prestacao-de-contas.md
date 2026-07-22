@@ -1,3 +1,8 @@
+---
+tema: 06 19 sexta bastidores prestacao de contas
+atualizado_em: 2026-07-22
+---
+
 # Rota de Stories — Sexta Bastidores + Prestação de Contas
 
 **Data:** 2026-06-19  

@@ -1,3 +1,8 @@
+---
+tema: logika content types mapping
+atualizado_em: 2026-07-22
+---
+
 
 # Mapeamento de Tipos de Conteúdo - Lógika
 

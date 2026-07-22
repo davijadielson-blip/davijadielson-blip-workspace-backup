@@ -1,3 +1,8 @@
+---
+tema: 07 20 revisao semanal comercial logika
+atualizado_em: 2026-07-22
+---
+
 # Revisão semanal comercial Lógika — 2026-07-20
 
 **Data/hora:** 2026-07-20 11:30 UTC  

@@ -1,3 +1,8 @@
+---
+tema: plano estudo comunidade 1p semana
+atualizado_em: 2026-07-22
+---
+
 # Plano de Estudo da Semana — Comunidade 1P
 
 **Status:** v0.1 ativo  

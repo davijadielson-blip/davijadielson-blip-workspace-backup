@@ -1,1 +1,6 @@
+---
+tema: CONCEITO DE VIDA
+atualizado_em: 2026-07-22
+---
+
 "Meu propósito é transformar ideias em narrativas visuais impactantes, inspirando pessoas e comunidades a sonharem mais alto, enquanto cultivo equilíbrio e prosperidade para mim e minha família."

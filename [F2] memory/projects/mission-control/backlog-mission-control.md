@@ -1,3 +1,8 @@
+---
+tema: backlog mission control
+atualizado_em: 2026-07-22
+---
+
 # Backlog Estruturado — Mission Control Integrado
 
 **Status:** Ativo  

@@ -1,3 +1,8 @@
+---
+tema: 07 20 producao local controlada v20
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v2.0 — Produção local controlada
 
 **Data:** 2026-07-20 02:52 UTC  

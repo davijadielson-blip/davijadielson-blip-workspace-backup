@@ -1,3 +1,8 @@
+---
+tema: 07 20 limpeza e followups crm v14 v15
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v1.4/v1.5 — Limpeza CRM e Follow-ups
 
 **Data:** 2026-07-20 02:25 UTC  

@@ -1,3 +1,8 @@
+---
+tema: MAE
+atualizado_em: 2026-07-22
+---
+
 # Mãe — Despesas Pessoais
 
 | Item | Valor | Tipo | Observação |

@@ -1,3 +1,8 @@
+---
+tema: FALA
+atualizado_em: 2026-07-22
+---
+
 - VOLUME
 - ENTONACAO
 - DICCAO

@@ -1,3 +1,8 @@
+---
+tema: 07 14 como fazer post instagram automaticamente
+atualizado_em: 2026-07-22
+---
+
 # Aula — Como fazer post no Instagram automaticamente
 
 **Data do registro:** 2026-07-14  

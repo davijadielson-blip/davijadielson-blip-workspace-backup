@@ -1,3 +1,8 @@
+---
+tema: ACESSO
+atualizado_em: 2026-07-22
+---
+
 
 LINK: [Audiovisual High End Academy](https://academy.audiovisualhighend.com/m/lessons/mentoria-lumination-1706568807880)
 

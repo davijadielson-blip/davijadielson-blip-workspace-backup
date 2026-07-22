@@ -1,3 +1,8 @@
+---
+tema: 07 20 auth deploy privado v18
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v1.8 — Proteção de acesso para deploy privado
 
 **Data:** 2026-07-20 02:43 UTC  

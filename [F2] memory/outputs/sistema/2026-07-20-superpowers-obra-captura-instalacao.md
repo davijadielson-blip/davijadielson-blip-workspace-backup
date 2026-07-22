@@ -1,3 +1,8 @@
+---
+tema: 07 20 superpowers obra captura instalacao
+atualizado_em: 2026-07-22
+---
+
 # Superpowers (obra/superpowers) — captura e instalação
 
 Data: 2026-07-20

@@ -1,3 +1,8 @@
+---
+tema: 07 20 avaliacao arquitetural mission control whatsapp
+atualizado_em: 2026-07-22
+---
+
 # Avaliação Técnica CTO — Julho 2026
 
 **CTO:** 👤 CTO — Chief Technology Officer  

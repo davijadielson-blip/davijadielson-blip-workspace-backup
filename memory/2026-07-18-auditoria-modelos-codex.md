@@ -1,3 +1,8 @@
+---
+tema: 07 18 auditoria modelos codex
+atualizado_em: 2026-07-22
+---
+
 # Auditoria e correção — prioridade GPT-5.5 Codex
 
 Data: 2026-07-18 18:29 UTC

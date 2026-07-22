@@ -1,3 +1,8 @@
+---
+tema: DIA 14 — O SELAMENTO DO PROPÓSITO
+atualizado_em: 2026-07-22
+---
+
 # DIA 14 — SELAMENTO DO PROPÓSITO
 
 **Fase 2 — Propósito Claro | ÂNCORA DA FASE**

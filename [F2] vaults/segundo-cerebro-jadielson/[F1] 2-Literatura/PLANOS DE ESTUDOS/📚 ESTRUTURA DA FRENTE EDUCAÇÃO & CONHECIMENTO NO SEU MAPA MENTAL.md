@@ -1,3 +1,8 @@
+---
+tema: 📚 ESTRUTURA DA FRENTE EDUCAÇÃO & CONHECIMENTO NO SEU MA...
+atualizado_em: 2026-07-22
+---
+
 
 Agora a gente entra na frente de **Educação & Conhecimento**, que é **pilar essencial da tua evolução pessoal e profissional** — e um dos ativos mais valiosos que você pode cultivar.
 

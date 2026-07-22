@@ -1,3 +1,8 @@
+---
+tema: IDENTITY amora
+atualizado_em: 2026-07-22
+---
+
 # IDENTITY-amora
 
 IDENTITY.md — Amora 4.0

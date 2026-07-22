@@ -1,1 +1,6 @@
+---
+tema: IDEIAS PARA CRIAÇÃO DE CONTEÚDOS
+atualizado_em: 2026-07-22
+---
+
 - VIDEOS CURTOS EDUCATIVOS

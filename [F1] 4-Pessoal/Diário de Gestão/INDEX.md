@@ -1,3 +1,8 @@
+---
+tema: INDEX
+atualizado_em: 2026-07-22
+---
+
 # Diário de Gestão de Tempo
 
 > Monitoramento honesto do dia — não para se punir, mas para enxergar padrões e avançar.

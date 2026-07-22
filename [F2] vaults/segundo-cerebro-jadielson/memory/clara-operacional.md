@@ -1,3 +1,8 @@
+---
+tema: clara operacional
+atualizado_em: 2026-07-22
+---
+
 # OPERACIONAL CLARA
 
 **Status:** Ativa como subordinada operacional de Lôh  

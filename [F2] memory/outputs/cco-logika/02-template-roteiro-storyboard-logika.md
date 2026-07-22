@@ -1,3 +1,8 @@
+---
+tema: template roteiro storyboard logika
+atualizado_em: 2026-07-22
+---
+
 # 📋 Template de Roteiro + Storyboard — Lógika Creative
 
 **Documento:** CCO — Template de Produção Reutilizável

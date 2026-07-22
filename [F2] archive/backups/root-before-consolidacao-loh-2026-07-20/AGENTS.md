@@ -1,3 +1,8 @@
+---
+tema: AGENTS
+atualizado_em: 2026-07-22
+---
+
 # AGENTS.md - Your Workspace
 
 This folder is home. Treat it that way.

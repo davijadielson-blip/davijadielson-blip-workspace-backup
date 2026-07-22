@@ -1,3 +1,8 @@
+---
+tema: 07 08 drive pessoal correcao compartilhamentos concluida
+atualizado_em: 2026-07-22
+---
+
 # Correção concluída — compartilhamentos públicos do Drive pessoal
 
 **Data:** 2026-07-08 01:33 UTC  

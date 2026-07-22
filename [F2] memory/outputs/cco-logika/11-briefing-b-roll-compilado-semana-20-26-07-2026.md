@@ -1,3 +1,8 @@
+---
+tema: briefing b roll compilado semana 20 26 07 2026
+atualizado_em: 2026-07-22
+---
+
 # 📸 BRIEFING DE CAPTAÇÃO — Semana de 20 a 26/07/2026
 
 **Documento:** CCO — B-roll Consolidado Semanal

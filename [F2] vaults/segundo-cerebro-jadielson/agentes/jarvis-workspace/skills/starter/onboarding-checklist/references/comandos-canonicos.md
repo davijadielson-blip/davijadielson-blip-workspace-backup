@@ -1,3 +1,8 @@
+---
+tema: comandos canonicos
+atualizado_em: 2026-07-22
+---
+
 # Comandos Canônicos da Checklist
 
 > 14 comandos que o aluno pode mandar em qualquer momento da jornada.

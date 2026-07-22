@@ -1,3 +1,8 @@
+---
+tema: registry
+atualizado_em: 2026-07-22
+---
+
 # Registry — operacional/ (skills utilities)
 
 > Skills utilities pra operação contínua do agente.

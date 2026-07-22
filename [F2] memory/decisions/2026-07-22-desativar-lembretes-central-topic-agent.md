@@ -1,3 +1,8 @@
+---
+tema: 07 22 desativar lembretes central topic agent
+atualizado_em: 2026-07-22
+---
+
 # Decisão: Desativar lembretes automáticos no tópico Jack Lemley (PROJETOS)
 
 **Data:** 22/07/2026

@@ -1,3 +1,8 @@
+---
+tema: 07 20 varredura pendencias projetos tarefas
+atualizado_em: 2026-07-22
+---
+
 # Varredura de pendências — projetos e tarefas
 
 **Data:** 2026-07-20

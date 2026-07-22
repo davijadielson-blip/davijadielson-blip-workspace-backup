@@ -1,3 +1,8 @@
+---
+tema: 07 09 integracao lembrete pg pd loh
+atualizado_em: 2026-07-22
+---
+
 # Decisão: Integração do lembrete PG/PD aos lembretes diários da Lôh
 
 **Data:** 2026-07-09

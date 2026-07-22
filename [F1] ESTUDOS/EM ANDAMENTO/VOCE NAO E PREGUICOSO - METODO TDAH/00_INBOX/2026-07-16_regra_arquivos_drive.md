@@ -1,3 +1,8 @@
+---
+tema: 07 16 regra arquivos drive
+atualizado_em: 2026-07-22
+---
+
 # Regra — arquivos não Markdown vão para o Drive
 
 **Data:** 2026-07-16

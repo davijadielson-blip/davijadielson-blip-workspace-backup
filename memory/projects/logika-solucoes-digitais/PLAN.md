@@ -1,3 +1,8 @@
+---
+tema: PLAN
+atualizado_em: 2026-07-22
+---
+
 # Plano: Migração para LÓGIKA — Soluções Digitais
 
 > Criado em 2026-06-27. Status: planejamento/execução inicial.

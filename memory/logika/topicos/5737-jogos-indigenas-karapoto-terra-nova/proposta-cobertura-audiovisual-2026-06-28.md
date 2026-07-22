@@ -1,3 +1,8 @@
+---
+tema: proposta cobertura audiovisual 2026 06 28
+atualizado_em: 2026-07-22
+---
+
 # Proposta — Cobertura Audiovisual Essencial
 ## II Edição dos Jogos Indígenas Karapotó Terra Nova
 

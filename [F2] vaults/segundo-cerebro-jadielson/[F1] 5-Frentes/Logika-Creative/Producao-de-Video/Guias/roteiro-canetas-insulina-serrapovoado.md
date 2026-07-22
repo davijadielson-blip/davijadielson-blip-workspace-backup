@@ -1,3 +1,8 @@
+---
+tema: roteiro canetas insulina serrapovoado
+atualizado_em: 2026-07-22
+---
+
 # 🎬 ROTEIRO — Entrega de Canetas Permanentes de Insulina
 ## Povoado Serra | 17 de Junho 2026
 

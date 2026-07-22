@@ -1,3 +1,8 @@
+---
+tema: prospects logika
+atualizado_em: 2026-07-22
+---
+
 # Prospects comerciais — LÓGIKA / audiovisual
 
 **Criado em:** 2026-07-13  

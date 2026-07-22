@@ -1,3 +1,8 @@
+---
+tema: decisoes e contexto
+atualizado_em: 2026-07-22
+---
+
 # Decisões e contexto — O FIO DA MEMÓRIA
 
 ## Direção operacional

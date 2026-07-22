@@ -1,3 +1,8 @@
+---
+tema: 06 28 incidente desconfiguracao agentes c level
+atualizado_em: 2026-07-22
+---
+
 # Incidente — Desconfiguração recorrente dos agentes C-Level
 
 **Data:** 2026-06-28

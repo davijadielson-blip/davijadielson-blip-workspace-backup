@@ -1,3 +1,8 @@
+---
+tema: Por que ninguem gosta de vereador
+atualizado_em: 2026-07-22
+---
+
 Antes de mais nada, porque, sejamos sinceros, a maioria dos vereadores em atuação no Brasil não estão capacitados para exercer o cargo e não conseguem fazer seu trabalho de forma satisfatória.
 Isso acontece em qualquer função de entrada em qualquer atividade profissional, onde os ocupantes dos cargos inferiores são sempre os menos preparados para as funções que exercem e uma minoria realmente se qualifica para a atividade.
 Mas, por incrível que pareça, não é esse o principal motivo de tanta rejeição aos vereadores.

@@ -1,3 +1,8 @@
+---
+tema: TERÇA FEIRA 28.01.2025
+atualizado_em: 2026-07-22
+---
+
 MANHÃ
 
 GRATIDÃO

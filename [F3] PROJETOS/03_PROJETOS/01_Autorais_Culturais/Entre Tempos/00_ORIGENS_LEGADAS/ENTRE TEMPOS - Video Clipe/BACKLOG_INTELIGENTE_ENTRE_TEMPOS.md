@@ -1,3 +1,8 @@
+---
+tema: BACKLOG INTELIGENTE ENTRE TEMPOS
+atualizado_em: 2026-07-22
+---
+
 # BACKLOG INTELIGENTE — ENTRE TEMPOS - Video Clipe
 
 > Projeto dedicado do tópico Telegram: **ENTRE TEMPOS - Video Clipe**  

@@ -1,3 +1,8 @@
+---
+tema: 04 06 worktree rototill design
+atualizado_em: 2026-07-22
+---
+
 # Worktree Rototill: Detect-and-Defer
 
 **Date:** 2026-04-06

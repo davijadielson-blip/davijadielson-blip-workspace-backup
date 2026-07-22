@@ -1,3 +1,8 @@
+---
+tema: Bonus 01 7 Dias para Sair da Inercia
+atualizado_em: 2026-07-22
+---
+
 # Bônus 01 — 7 Dias para Sair da Inércia
 
 **Fonte bruta:** PDF salvo no Google Drive pessoal, pasta `ESTUDOS/Você não é preguiçoso — Método TDAH`.

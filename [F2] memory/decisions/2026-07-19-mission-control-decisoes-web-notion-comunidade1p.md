@@ -1,3 +1,8 @@
+---
+tema: 07 19 mission control decisoes web notion comunidade1p
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Mission Control: Web primeiro, Notion e Comunidade 1P
 
 **Data:** 2026-07-19 23:48 UTC  

@@ -1,3 +1,8 @@
+---
+tema: Formatos e Padrões Gerais
+atualizado_em: 2026-07-22
+---
+
 Abaixo está o **playbook completo dos formatos de conteúdo do SINDSS**, já puxando uma lista mais forte de **datas sazonais coerentes com servidores públicos municipais**, principalmente aquelas que servem para homenagear categorias.
 
 ---

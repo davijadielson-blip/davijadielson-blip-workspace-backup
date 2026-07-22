@@ -1,3 +1,8 @@
+---
+tema: 📂 CATEGORIZAÇÃO GERAL DAS IMAGENS DE APOIO
+atualizado_em: 2026-07-22
+---
+
 # 📂 CATEGORIZAÇÃO GERAL DAS IMAGENS DE APOIO
 
 > Convertido para Markdown a partir de `📂 CATEGORIZAÇÃO GERAL DAS IMAGENS DE APOIO.docx`.

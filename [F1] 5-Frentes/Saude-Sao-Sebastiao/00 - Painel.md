@@ -13,6 +13,7 @@ tags:
 
 > Secretaria Municipal de Saúde · São Sebastião — AL
 > **Entrada principal do cliente.** Acesse tudo a partir daqui.
+> **Slogan oficial:** _A gente faz com coração._
 
 ---
 

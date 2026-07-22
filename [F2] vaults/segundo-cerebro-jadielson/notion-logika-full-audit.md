@@ -1,3 +1,8 @@
+---
+tema: notion logika full audit
+atualizado_em: 2026-07-22
+---
+
 # Auditoria completa — Notion LÓGIKA
 
 Databases acessíveis: 190

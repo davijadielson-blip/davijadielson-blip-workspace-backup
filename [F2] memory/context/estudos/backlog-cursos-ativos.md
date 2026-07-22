@@ -1,3 +1,8 @@
+---
+tema: backlog cursos ativos
+atualizado_em: 2026-07-22
+---
+
 # Backlog de estudos/cursos ativos
 
 **Atualizado em:** 2026-07-13  

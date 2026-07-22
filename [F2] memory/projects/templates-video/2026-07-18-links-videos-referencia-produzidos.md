@@ -1,3 +1,8 @@
+---
+tema: 07 18 links videos referencia produzidos
+atualizado_em: 2026-07-22
+---
+
 # Links — Vídeos já produzidos para referência de templates
 
 **Data:** 2026-07-18  

@@ -1,3 +1,8 @@
+---
+tema: 06 27 logika solucoes digitais
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Migração de LÓGIKA CREATIVE para LÓGIKA — Soluções Digitais
 
 **Data:** 2026-06-27  

@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Vendas — Propostas
 
 Pasta para propostas comerciais versionadas da LÓGIKA.

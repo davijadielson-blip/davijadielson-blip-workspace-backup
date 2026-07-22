@@ -1,3 +1,8 @@
+---
+tema: FESTAS JUNINAS CAPS
+atualizado_em: 2026-07-22
+---
+
 
 - OFICINAS DA DECORACAO JUNINA 02 A 06
 

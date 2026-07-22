@@ -1,3 +1,8 @@
+---
+tema: README.kimi
+atualizado_em: 2026-07-22
+---
+
 # Superpowers for Kimi Code
 
 Complete guide for using Superpowers with [Kimi Code](https://github.com/MoonshotAI/kimi-code).

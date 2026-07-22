@@ -1,3 +1,8 @@
+---
+tema: MARÇO 2025   Calendário de Capturas
+atualizado_em: 2026-07-22
+---
+
 
 Para facilitar suas capturas neste mês e otimizar o planejamento, organizei os criativos por segmentos, com base no calendário editorial proposto e na nova linha editorial. Assim, você terá clareza sobre o que precisa ser gravado, por segmento, e poderá organizar melhor os dias de captação.
 

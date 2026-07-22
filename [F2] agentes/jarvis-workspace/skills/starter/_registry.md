@@ -1,3 +1,8 @@
+---
+tema: registry
+atualizado_em: 2026-07-22
+---
+
 # Registry — starter/ (jornada obrigatória)
 
 > Skills da jornada principal do Starter Kit.

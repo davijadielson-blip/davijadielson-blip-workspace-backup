@@ -1,3 +1,8 @@
+---
+tema: 06 23 resumao video arraia caps
+atualizado_em: 2026-07-22
+---
+
 # Resumão em Vídeo — Arraiá do CAPS
 
 **Data:** 23/06/2026 (terça-feira)  

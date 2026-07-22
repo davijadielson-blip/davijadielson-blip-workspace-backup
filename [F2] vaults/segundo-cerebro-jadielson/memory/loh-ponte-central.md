@@ -1,3 +1,8 @@
+---
+tema: loh ponte central
+atualizado_em: 2026-07-22
+---
+
 # LÔH — PONTE CENTRAL DOS GRUPOS
 
 **Data:** 2026-06-07  

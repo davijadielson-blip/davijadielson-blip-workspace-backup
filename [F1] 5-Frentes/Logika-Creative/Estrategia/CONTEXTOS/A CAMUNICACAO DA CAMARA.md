@@ -1,3 +1,8 @@
+---
+tema: A CAMUNICACAO DA CAMARA
+atualizado_em: 2026-07-22
+---
+
 Se eu fizer uma pesquisa na sua cidade, a população vai aprovar ou desaprovar o trabalho da Câmara de Vereadores?
 A não ser que seja uma grande exceção, eu já sei o que as pessoas acham da Câmara de Vereadores da sua cidade e tenho certeza que não é nada positivo.
 Isso acontece principalmente porque enquanto a

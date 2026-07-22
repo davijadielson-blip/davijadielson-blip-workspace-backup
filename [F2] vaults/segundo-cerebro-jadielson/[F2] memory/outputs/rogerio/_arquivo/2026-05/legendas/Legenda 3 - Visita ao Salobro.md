@@ -1,3 +1,8 @@
+---
+tema: Legenda 3   Visita ao Salobro
+atualizado_em: 2026-07-22
+---
+
 # Legenda 3 — Emocional e engajamento
 
 **Tema:** Visita ao Povoado Salobro — conversa com agricultores

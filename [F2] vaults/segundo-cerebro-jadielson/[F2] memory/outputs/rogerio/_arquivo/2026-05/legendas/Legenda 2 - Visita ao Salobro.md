@@ -1,3 +1,8 @@
+---
+tema: Legenda 2   Visita ao Salobro
+atualizado_em: 2026-07-22
+---
+
 # Legenda 2 — Tom direto e político
 
 **Tema:** Visita ao Povoado Salobro — conversa com agricultores

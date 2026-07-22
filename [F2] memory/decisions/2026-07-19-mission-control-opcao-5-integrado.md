@@ -1,3 +1,8 @@
+---
+tema: 07 19 mission control opcao 5 integrado
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Mission Control Integrado
 
 **Data:** 2026-07-19  

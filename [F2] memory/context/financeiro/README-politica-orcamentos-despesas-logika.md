@@ -1,3 +1,8 @@
+---
+tema: README politica orcamentos despesas logika
+atualizado_em: 2026-07-22
+---
+
 # LÓGIKA — Política de Orçamentos, Deslocamento e Reservas Futuras
 
 **Data da deliberação:** 2026-07-12  

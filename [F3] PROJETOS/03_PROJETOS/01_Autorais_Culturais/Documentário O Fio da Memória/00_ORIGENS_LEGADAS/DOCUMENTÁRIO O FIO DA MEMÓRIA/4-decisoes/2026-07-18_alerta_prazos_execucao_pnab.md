@@ -1,3 +1,8 @@
+---
+tema: 07 18 alerta prazos execucao pnab
+atualizado_em: 2026-07-22
+---
+
 # Alerta de prazos — execução PNAB — O Fio da Memória
 
 Data: 2026-07-18

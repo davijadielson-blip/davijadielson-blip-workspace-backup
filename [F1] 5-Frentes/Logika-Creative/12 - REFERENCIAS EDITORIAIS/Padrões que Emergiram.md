@@ -1,3 +1,8 @@
+---
+tema: Padrões que Emergiram
+atualizado_em: 2026-07-22
+---
+
 ## Padrões editoriais que viraram “identidade” (o que se repetiu)
 
 ### Aberturas que se consolidaram

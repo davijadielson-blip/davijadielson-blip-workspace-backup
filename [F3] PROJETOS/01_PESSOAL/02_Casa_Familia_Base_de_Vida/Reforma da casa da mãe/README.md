@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Reforma da casa da mãe
 
 **Macroestrutura:** `01_PESSOAL/02_Casa_Familia_Base_de_Vida`

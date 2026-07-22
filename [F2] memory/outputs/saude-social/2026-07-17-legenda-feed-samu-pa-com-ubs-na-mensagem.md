@@ -1,3 +1,8 @@
+---
+tema: 07 17 legenda feed samu pa com ubs na mensagem
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Ajuste legenda: foto SAMU + PA, mensagem conduzindo para UBS
 
 Contexto: Jadielson observou que a legenda com headline “UBS primeiro” estava correta conceitualmente, mas poderia não combinar com a foto/montagem planejada, que mostra viatura do SAMU + atendimento médico no PA.

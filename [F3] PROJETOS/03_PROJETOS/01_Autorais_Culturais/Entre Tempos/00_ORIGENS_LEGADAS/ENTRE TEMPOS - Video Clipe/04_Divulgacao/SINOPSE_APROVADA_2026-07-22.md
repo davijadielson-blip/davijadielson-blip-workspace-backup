@@ -1,3 +1,8 @@
+---
+tema: SINOPSE APROVADA 2026 07 22
+atualizado_em: 2026-07-22
+---
+
 # Sinopse — ENTRE TEMPOS
 
 > Aprovada por Jadielson Davi em 22/07/2026

@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 exemplos classificados 2026 ...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Exemplos classificados no Mapa 360
 
 **Data:** 2026-07-18 21:42 UTC  

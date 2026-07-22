@@ -1,3 +1,8 @@
+---
+tema: 07 20 higiene crm v13
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web v1.3 — Higiene CRM
 
 **Data:** 2026-07-20 01:42 UTC  

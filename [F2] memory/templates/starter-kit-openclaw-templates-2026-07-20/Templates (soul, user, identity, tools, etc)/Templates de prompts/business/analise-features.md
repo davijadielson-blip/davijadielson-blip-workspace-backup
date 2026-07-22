@@ -1,3 +1,8 @@
+---
+tema: analise features
+atualizado_em: 2026-07-22
+---
+
 # 🔧 Use Case: Análise de Features e Roadmap
 
 > Transforme feedback de clientes em roadmap priorizado.

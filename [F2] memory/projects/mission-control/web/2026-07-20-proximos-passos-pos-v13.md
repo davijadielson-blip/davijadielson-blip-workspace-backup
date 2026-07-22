@@ -1,3 +1,8 @@
+---
+tema: 07 20 proximos passos pos v13
+atualizado_em: 2026-07-22
+---
+
 # Próximos passos — Mission Control pós v1.3
 
 **Data:** 2026-07-20 02:15 UTC  

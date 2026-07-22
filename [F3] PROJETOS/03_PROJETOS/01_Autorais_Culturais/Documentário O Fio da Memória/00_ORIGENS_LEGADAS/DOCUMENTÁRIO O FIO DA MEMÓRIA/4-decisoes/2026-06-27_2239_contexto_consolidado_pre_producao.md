@@ -1,3 +1,8 @@
+---
+tema: 06 27 2239 contexto consolidado pre producao
+atualizado_em: 2026-07-22
+---
+
 # Contexto consolidado — O FIO DA MEMÓRIA
 
 Data: 2026-06-27 22:39 UTC  

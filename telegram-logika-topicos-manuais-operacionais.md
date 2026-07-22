@@ -1,3 +1,8 @@
+---
+tema: telegram logika topicos manuais operacionais
+atualizado_em: 2026-07-22
+---
+
 # Manuais Operacionais — Grupo Telegram LÓGIKA
 
 ## 📅 Secretária / Agenda / Execução

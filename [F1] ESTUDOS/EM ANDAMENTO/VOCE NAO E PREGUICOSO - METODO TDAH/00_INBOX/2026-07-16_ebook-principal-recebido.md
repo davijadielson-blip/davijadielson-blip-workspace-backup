@@ -1,3 +1,8 @@
+---
+tema: 07 16 ebook principal recebido
+atualizado_em: 2026-07-22
+---
+
 # Ebook principal — recebido no tópico
 
 **Data:** 2026-07-16 04:51 UTC

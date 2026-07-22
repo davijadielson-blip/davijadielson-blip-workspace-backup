@@ -1,3 +1,8 @@
+---
+tema: PLAN
+atualizado_em: 2026-07-22
+---
+
 # Plano: Central de Pesquisa LÓGIKA
 
 > Criado em 2026-06-05. Status: planejamento.

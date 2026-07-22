@@ -1,3 +1,8 @@
+---
+tema: prompt fonte consolidado saude social media 2026 06 21
+atualizado_em: 2026-07-22
+---
+
 
 > 🧠 **TRAVA ANTI-ALUCINAÇÃO (regra permanente):**
 • **Leia do workspace natural** (`/data/.openclaw/workspace/`). Cite a fonte real que usou.

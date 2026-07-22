@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente aprendizados do todo 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Aprendizados do todo
 
 **Data:** 2026-07-19  

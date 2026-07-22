@@ -1,3 +1,8 @@
+---
+tema: mapa 360 estudos arvore visual feedback 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Mapa 360 — Estudos: feedback sobre árvore visual
 
 **Data:** 2026-07-19 01:48 UTC  

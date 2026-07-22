@@ -1,3 +1,8 @@
+---
+tema: CREATION LOG
+atualizado_em: 2026-07-22
+---
+
 # Creation Log: Systematic Debugging Skill
 
 Reference example of extracting, structuring, and bulletproofing a critical skill.

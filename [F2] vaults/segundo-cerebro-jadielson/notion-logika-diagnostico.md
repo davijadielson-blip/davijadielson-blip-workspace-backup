@@ -1,3 +1,8 @@
+---
+tema: notion logika diagnostico
+atualizado_em: 2026-07-22
+---
+
 # Diagnóstico Notion — LÓGIKA / Operação Empresarial
 
 Data: 2026-06-04

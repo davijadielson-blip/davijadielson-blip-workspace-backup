@@ -1,3 +1,8 @@
+---
+tema: IDENTITY amora
+atualizado_em: 2026-07-22
+---
+
 # IDENTITY.md — Amora 4.0
 
 > **Este é o `IDENTITY.md` real da Amora — Chief of Staff do Bruno.**

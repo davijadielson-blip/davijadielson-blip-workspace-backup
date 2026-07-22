@@ -1,3 +1,8 @@
+---
+tema: MAPA amora
+atualizado_em: 2026-07-22
+---
+
 # MAPA-amora
 
 MAPA.md — Workspace da Amora

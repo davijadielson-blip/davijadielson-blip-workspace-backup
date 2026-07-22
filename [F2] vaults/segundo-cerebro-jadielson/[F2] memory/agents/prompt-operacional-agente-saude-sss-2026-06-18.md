@@ -1,3 +1,8 @@
+---
+tema: prompt operacional agente saude sss 2026 06 18
+atualizado_em: 2026-07-22
+---
+
 
 > 🧠 **TRAVA ANTI-ALUCINAÇÃO (regra permanente):**
 • **Leia do workspace natural** (`/data/.openclaw/workspace/`). Cite a fonte real que usou.

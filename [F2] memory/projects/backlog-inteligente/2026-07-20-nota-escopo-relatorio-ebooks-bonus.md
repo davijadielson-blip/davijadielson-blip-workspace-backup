@@ -1,3 +1,8 @@
+---
+tema: 07 20 nota escopo relatorio ebooks bonus
+atualizado_em: 2026-07-22
+---
+
 # Nota de escopo — Relatório do método, ebooks e bônus
 
 **Data:** 2026-07-20  

@@ -1,3 +1,8 @@
+---
+tema: metodo pode
+atualizado_em: 2026-07-22
+---
+
 # Método P.O.D.E — referência operacional
 
 Fonte principal: `[F1] 5-Frentes/Logika-Creative/Estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md`, atualizada no clone em 2026-06-01.

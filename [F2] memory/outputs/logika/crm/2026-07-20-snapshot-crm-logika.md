@@ -1,3 +1,8 @@
+---
+tema: 07 20 snapshot crm logika
+atualizado_em: 2026-07-22
+---
+
 # Snapshot CRM Lógika — 2026-07-20
 
 **Data/hora:** 2026-07-20T11:30:51.303Z  

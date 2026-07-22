@@ -1,3 +1,8 @@
+---
+tema: prompts estrategicos logika
+atualizado_em: 2026-07-22
+---
+
 # Banco de Contextos — Prompts Estratégicos LÓGIKA
 
 Fonte: Notion — Central de Comando dos Agentes + Arsenal de Prompts Validados.

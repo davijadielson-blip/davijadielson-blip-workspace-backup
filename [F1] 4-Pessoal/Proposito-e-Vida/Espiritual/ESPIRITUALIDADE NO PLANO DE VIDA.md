@@ -1,3 +1,8 @@
+---
+tema: ESPIRITUALIDADE NO PLANO DE VIDA
+atualizado_em: 2026-07-22
+---
+
   Agora sim, chefe. Bora falar daquilo que **sustenta por dentro**.  
 Espiritualidade não é só religião — é **conexão com algo maior**, com você mesma e com o propósito que move tudo o que você tá construindo.
 

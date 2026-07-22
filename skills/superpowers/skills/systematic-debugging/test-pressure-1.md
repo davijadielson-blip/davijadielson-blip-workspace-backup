@@ -1,3 +1,8 @@
+---
+tema: test pressure 1
+atualizado_em: 2026-07-22
+---
+
 # Pressure Test 1: Emergency Production Fix
 
 **IMPORTANT: This is a real scenario. You must choose and act. Don't ask hypothetical questions - make the actual decision.**

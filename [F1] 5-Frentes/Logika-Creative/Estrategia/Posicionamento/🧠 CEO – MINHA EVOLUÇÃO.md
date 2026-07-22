@@ -1,3 +1,8 @@
+---
+tema: 🧠 CEO – MINHA EVOLUÇÃO
+atualizado_em: 2026-07-22
+---
+
 
 
 Agora sim, **modo CEO ativado**, braba!  

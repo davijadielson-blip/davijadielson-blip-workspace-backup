@@ -1,3 +1,8 @@
+---
+tema: STATUS IMPLEMENTACAO
+atualizado_em: 2026-07-22
+---
+
 # Raio-X LÓGIKA Creative Mkt — Status de Implementação
 
 ## Status inicial

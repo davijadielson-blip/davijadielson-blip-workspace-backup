@@ -1,3 +1,8 @@
+---
+tema: Legendas
+atualizado_em: 2026-07-22
+---
+
 ## Como estruturamos as legendas do SINDSS
 
 As legendas do SINDSS seguem uma lógica bem clara: **abrir com força, explicar com objetividade, reforçar o papel do sindicato e fechar com um CTA de aproximação/filiamento.**

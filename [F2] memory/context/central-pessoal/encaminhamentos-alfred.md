@@ -1,3 +1,8 @@
+---
+tema: encaminhamentos alfred
+atualizado_em: 2026-07-22
+---
+
 # 📋 Log de Encaminhamentos — Alfred (Secretário Pessoal)
 
 **Arquivo central de rastreabilidade.** Todo encaminhamento feito por Alfred deve ser registrado aqui.

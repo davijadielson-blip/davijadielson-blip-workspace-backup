@@ -1,3 +1,8 @@
+---
+tema: 07 14 ajuste padrao headlines atendimentos noturnos ubs
+atualizado_em: 2026-07-22
+---
+
 # Ajuste de padrão — Headlines Saúde / Atendimentos noturnos UBS
 
 **Data:** 2026-07-14

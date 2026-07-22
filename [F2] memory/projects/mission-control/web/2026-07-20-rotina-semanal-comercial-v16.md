@@ -1,3 +1,8 @@
+---
+tema: 07 20 rotina semanal comercial v16
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v1.6 — Rotina semanal comercial Lógika
 
 **Data:** 2026-07-20 02:36 UTC  

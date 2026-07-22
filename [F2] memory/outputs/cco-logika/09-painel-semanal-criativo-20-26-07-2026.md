@@ -1,3 +1,8 @@
+---
+tema: painel semanal criativo 20 26 07 2026
+atualizado_em: 2026-07-22
+---
+
 # 📋 PAINEL CCO — Semana de 20 a 26/07/2026
 
 **Documento:** CCO — Consolidação de entregáveis criativos da semana

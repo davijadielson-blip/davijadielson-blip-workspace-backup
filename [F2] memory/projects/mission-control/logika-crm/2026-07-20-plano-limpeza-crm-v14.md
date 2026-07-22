@@ -1,3 +1,8 @@
+---
+tema: 07 20 plano limpeza crm v14
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v1.4 — Plano de limpeza CRM Lógika
 
 **Data:** 2026-07-20 02:22 UTC  

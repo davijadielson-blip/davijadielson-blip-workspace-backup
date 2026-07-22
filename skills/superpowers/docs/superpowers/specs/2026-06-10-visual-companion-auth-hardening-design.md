@@ -1,3 +1,8 @@
+---
+tema: 06 10 visual companion auth hardening design
+atualizado_em: 2026-07-22
+---
+
 # Visual Companion Auth Hardening Design
 
 **Date:** 2026-06-10

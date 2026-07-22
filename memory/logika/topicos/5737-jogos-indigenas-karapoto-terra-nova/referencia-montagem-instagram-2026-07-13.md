@@ -1,3 +1,8 @@
+---
+tema: referencia montagem instagram 2026 07 13
+atualizado_em: 2026-07-22
+---
+
 # Referência de montagem — MiniDoc Karapotó Terra Nova
 
 Data: 2026-07-13

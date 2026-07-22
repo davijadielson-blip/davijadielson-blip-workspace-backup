@@ -1,3 +1,8 @@
+---
+tema: roteiros
+atualizado_em: 2026-07-22
+---
+
 ## Como estruturamos roteiros de vídeo (Reels/cortes)
 
 **Formato padrão (curto, nativo, direto)**

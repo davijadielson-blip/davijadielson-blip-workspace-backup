@@ -1,3 +1,8 @@
+---
+tema: Gestão do Tempo
+atualizado_em: 2026-07-22
+---
+
 Insights 
 
 - Aquilo que você ver determina aquilo que vc prioriza

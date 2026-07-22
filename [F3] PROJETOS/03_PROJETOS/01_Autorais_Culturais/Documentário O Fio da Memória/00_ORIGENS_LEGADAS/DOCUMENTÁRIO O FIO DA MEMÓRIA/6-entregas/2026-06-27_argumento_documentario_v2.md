@@ -1,3 +1,8 @@
+---
+tema: 06 27 argumento documentario v2
+atualizado_em: 2026-07-22
+---
+
 # O FIO DA MEMÓRIA — Argumento do Documentário
 
 Versão: V2  

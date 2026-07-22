@@ -1,3 +1,8 @@
+---
+tema: roteiro carrossel saude exames hepatites 21 07 2026
+atualizado_em: 2026-07-22
+---
+
 # 🎬 ROTEIRO SAÚDE — Carrossel "Exames e Hepatites"
 
 **Documento:** CCO — Feed Semana 4 | Terça 21/07

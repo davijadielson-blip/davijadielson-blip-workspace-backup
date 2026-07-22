@@ -1,3 +1,8 @@
+---
+tema: 07 17 aprendizado zap manchete jornal
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Aprendizado: mensagem de WhatsApp para link deve parecer manchete de jornal
 
 Contexto: Jadielson corrigiu a mensagem sugerida para envio de link no WhatsApp. A versão anterior estava em tom de comunicado interno (“Pessoal, segue...”). Ele orientou que deve parecer **manchete de jornal**.

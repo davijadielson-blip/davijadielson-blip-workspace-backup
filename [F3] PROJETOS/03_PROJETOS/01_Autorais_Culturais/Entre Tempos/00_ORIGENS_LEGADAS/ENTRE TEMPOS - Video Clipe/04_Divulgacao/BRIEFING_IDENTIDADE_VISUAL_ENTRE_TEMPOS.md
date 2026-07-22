@@ -1,3 +1,8 @@
+---
+tema: BRIEFING IDENTIDADE VISUAL ENTRE TEMPOS
+atualizado_em: 2026-07-22
+---
+
 # BRIEFING DE IDENTIDADE VISUAL — ENTRE TEMPOS
 
 ## 1. Nome da campanha

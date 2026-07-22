@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Dentes, canais e implantes
 
 **Macroestrutura:** `01_PESSOAL/03_Saude_Corpo_Energia`

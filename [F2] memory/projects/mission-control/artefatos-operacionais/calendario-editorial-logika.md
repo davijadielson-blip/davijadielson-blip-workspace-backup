@@ -1,3 +1,8 @@
+---
+tema: calendario editorial logika
+atualizado_em: 2026-07-22
+---
+
 # Calendário Editorial — Lógika Creative
 
 **Status:** v0.1 ativo  

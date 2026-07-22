@@ -1,3 +1,8 @@
+---
+tema: asset management drive structure
+atualizado_em: 2026-07-22
+---
+
 
 # Estrutura de Gerenciamento de Ativos (Google Drive)
 

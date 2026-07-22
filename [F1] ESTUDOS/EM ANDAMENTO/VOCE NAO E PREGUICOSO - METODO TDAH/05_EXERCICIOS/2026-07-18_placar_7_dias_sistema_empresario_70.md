@@ -1,3 +1,8 @@
+---
+tema: 07 18 placar 7 dias sistema empresario 70
+atualizado_em: 2026-07-22
+---
+
 # Placar — 7 dias Sistema Empresário 70%
 
 ## Como usar

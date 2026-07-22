@@ -1,3 +1,8 @@
+---
+tema: TERÇA FEIRA 03.12.2024
+atualizado_em: 2026-07-22
+---
+
 
 MANHÃ
 

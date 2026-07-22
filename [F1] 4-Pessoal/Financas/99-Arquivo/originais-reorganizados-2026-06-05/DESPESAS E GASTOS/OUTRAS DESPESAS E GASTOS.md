@@ -1,3 +1,8 @@
+---
+tema: OUTRAS DESPESAS E GASTOS
+atualizado_em: 2026-07-22
+---
+
 FDSA
 
 | Descrição | Categoria | Valor | Dia de Vencimentos |

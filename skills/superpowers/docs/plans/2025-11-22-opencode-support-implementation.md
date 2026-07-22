@@ -1,3 +1,8 @@
+---
+tema: 11 22 opencode support implementation
+atualizado_em: 2026-07-22
+---
+
 # OpenCode Support Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task.

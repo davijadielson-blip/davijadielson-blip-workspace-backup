@@ -1,3 +1,8 @@
+---
+tema: 07 17 legenda feed samu pa versao curta
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Legenda curta SAMU + PA
 
 Jadielson aprovou a linha com protagonismo institucional, mas pediu versão mais objetiva e prática, porque legenda longa reduz leitura. Diretriz: mostrar a importância de usar a rede da forma certa, sem texto extenso.

@@ -1,3 +1,8 @@
+---
+tema: 07 13 lista base planejamento semanal
+atualizado_em: 2026-07-22
+---
+
 # Lista-base para planejamento semanal — 13 a 19/07/2026
 
 **Data:** 2026-07-13  

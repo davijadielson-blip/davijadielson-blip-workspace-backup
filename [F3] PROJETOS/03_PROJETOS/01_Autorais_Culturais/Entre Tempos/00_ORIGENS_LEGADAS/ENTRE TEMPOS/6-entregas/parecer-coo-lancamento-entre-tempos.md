@@ -1,3 +1,8 @@
+---
+tema: parecer coo lancamento entre tempos
+atualizado_em: 2026-07-22
+---
+
 # Parecer Operacional (COO): Lançamento Videoclipe "Entre Tempos"
 
 **Projeto:** MISSÃO COO — ENTRE TEMPOS

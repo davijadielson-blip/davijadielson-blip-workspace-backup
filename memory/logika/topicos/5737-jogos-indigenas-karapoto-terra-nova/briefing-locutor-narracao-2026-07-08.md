@@ -1,3 +1,8 @@
+---
+tema: briefing locutor narracao 2026 07 08
+atualizado_em: 2026-07-22
+---
+
 # Briefing para Locutor — Narração do MiniDoc
 ## II Jogos Indígenas Karapotó Terra Nova
 

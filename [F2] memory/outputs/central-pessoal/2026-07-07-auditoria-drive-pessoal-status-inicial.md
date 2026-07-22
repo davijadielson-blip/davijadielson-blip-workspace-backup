@@ -1,3 +1,8 @@
+---
+tema: 07 07 auditoria drive pessoal status inicial
+atualizado_em: 2026-07-22
+---
+
 # Auditoria inicial — Google Drive pessoal
 
 **Data:** 2026-07-07 04:59 UTC  

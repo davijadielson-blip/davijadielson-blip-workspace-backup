@@ -1,3 +1,8 @@
+---
+tema: ofertas e servicos
+atualizado_em: 2026-07-22
+---
+
 # Ofertas e Serviços — LÓGIKA Creative Mkt
 
 ## Oferta atual citada no raio-x

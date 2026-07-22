@@ -1,3 +1,8 @@
+---
+tema: TOPICOS
+atualizado_em: 2026-07-22
+---
+
 # TOPICOS.md - Operação por tópicos da LÓGIKA
 
 ## Função do Jarvis no grupo

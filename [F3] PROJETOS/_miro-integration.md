@@ -1,3 +1,8 @@
+---
+tema: miro integration
+atualizado_em: 2026-07-22
+---
+
 ## Miro — Exclusivo para Projetos (Jack) — 18/07/2026
 
 ### Decisão

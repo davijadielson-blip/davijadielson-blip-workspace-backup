@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mission control aplicativo parecer 20...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Parecer sobre Mission Control / aplicativo
 
 **Data:** 2026-07-20  

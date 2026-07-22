@@ -1,3 +1,8 @@
+---
+tema: familia relacionamentos
+atualizado_em: 2026-07-22
+---
+
 # Família e Relacionamentos
 
 - **Grupo:** Central Pessoal

@@ -1,3 +1,8 @@
+---
+tema: 07 18 resumo rotina pendencias ja debatidas
+atualizado_em: 2026-07-22
+---
+
 # Resumo — rotina e pendências já debatidas
 
 **Data:** 2026-07-18 18:20 UTC  

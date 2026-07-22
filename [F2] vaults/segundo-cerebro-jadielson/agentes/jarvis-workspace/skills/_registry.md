@@ -1,3 +1,8 @@
+---
+tema: registry
+atualizado_em: 2026-07-22
+---
+
 # Registry — skills do Jarvis / LÓGIKA
 
 > Índice global das skills instaladas no workspace do Jarvis. Mantém visão geral; detalhes ficam nos registries de cada categoria.

@@ -1,3 +1,8 @@
+---
+tema: formatos e padroes.md
+atualizado_em: 2026-07-22
+---
+
 Abaixo está um mapa dos **formatos de conteúdo que já construímos para a Secretaria de Saúde de São Sebastião** e o **padrão de cada um**.
 
 A lógica geral sempre foi esta:  

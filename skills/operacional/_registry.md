@@ -1,3 +1,8 @@
+---
+tema: registry
+atualizado_em: 2026-07-22
+---
+
 # Registry — operacional/
 
 > Skills da categoria operacional: backup, sync, segurança, manutenção e rotinas.

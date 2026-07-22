@@ -1,3 +1,8 @@
+---
+tema: validacao narracao 2026 07 08
+atualizado_em: 2026-07-22
+---
+
 # Validação da Narração — Organização
 ## II Jogos Indígenas Karapotó Terra Nova
 

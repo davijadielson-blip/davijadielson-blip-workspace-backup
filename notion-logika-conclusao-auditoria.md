@@ -1,3 +1,8 @@
+---
+tema: notion logika conclusao auditoria
+atualizado_em: 2026-07-22
+---
+
 # 🎯 Conclusão da Auditoria — Notion LÓGIKA
 
 **Data:** 2026-07-21

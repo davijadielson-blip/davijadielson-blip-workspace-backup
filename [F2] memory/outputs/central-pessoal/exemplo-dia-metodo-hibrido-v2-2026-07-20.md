@@ -1,3 +1,8 @@
+---
+tema: exemplo dia metodo hibrido v2 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Exemplo — Dia com método híbrido v2
 
 **Data:** 2026-07-20

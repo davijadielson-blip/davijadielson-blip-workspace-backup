@@ -1,3 +1,8 @@
+---
+tema: 06 18 quinta humanizacao rede de apoio
+atualizado_em: 2026-07-22
+---
+
 # Rota de Stories — Quinta Humanização — Rede de Apoio
 
 **Data:** 2026-06-18  

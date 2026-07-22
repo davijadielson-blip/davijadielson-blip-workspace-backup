@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 agrupado v2 2026 07 18
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Mapa 360 agrupado v2
 
 **Data:** 2026-07-18 21:37 UTC  

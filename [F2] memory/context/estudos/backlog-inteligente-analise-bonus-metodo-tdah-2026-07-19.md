@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente analise bonus metodo tdah 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Análise de pertinência dos bônus do Método TDAH
 
 **Data:** 2026-07-19  

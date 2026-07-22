@@ -1,3 +1,8 @@
+---
+tema: 05 06 lift drill into evals
+atualizado_em: 2026-07-22
+---
+
 # Lift drill into superpowers as `evals/` — implementation plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.

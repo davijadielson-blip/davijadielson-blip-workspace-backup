@@ -1,3 +1,8 @@
+---
+tema: daily briefing 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # ☀️ Daily Briefing — 19/07/2026 (Domingo)
 
 > Gerado por Lôh (Tier 0) | 10:00 UTC / 07:00 BRT  

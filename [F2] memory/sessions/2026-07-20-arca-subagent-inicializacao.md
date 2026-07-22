@@ -1,3 +1,8 @@
+---
+tema: 07 20 arca subagent inicializacao
+atualizado_em: 2026-07-22
+---
+
 # Sessão Arca — inicialização como subagente
 
 **Data:** 2026-07-20 02:51 UTC  

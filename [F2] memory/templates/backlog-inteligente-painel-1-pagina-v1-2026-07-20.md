@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente painel 1 pagina v1 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Template — Painel 1 Página — Backlog Inteligente v5
 
 ## Minha Tarefa #1 de hoje

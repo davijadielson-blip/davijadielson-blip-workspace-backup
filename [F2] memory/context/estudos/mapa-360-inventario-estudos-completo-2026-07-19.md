@@ -1,3 +1,8 @@
+---
+tema: mapa 360 inventario estudos completo 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Mapa 360 — Inventário visível de Estudos/Cursos
 
 **Data:** 2026-07-19 01:36 UTC  

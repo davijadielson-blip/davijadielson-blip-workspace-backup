@@ -1,3 +1,8 @@
+---
+tema: mission control
+atualizado_em: 2026-07-22
+---
+
 # 🚀 Mission Control — Jadielson / Lôh
 
 **Status:** Mission Control v2.0 rodando em produção local controlada  

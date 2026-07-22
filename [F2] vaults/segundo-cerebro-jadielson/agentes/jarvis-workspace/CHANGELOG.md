@@ -1,3 +1,8 @@
+---
+tema: CHANGELOG
+atualizado_em: 2026-07-22
+---
+
 # CHANGELOG — Starter Kit OpenClaw v2
 
 > Histórico de versões. Formato baseado em [Keep a Changelog](https://keepachangelog.com/) adaptado pro ciclo "tester reporta falha real → fix em v+1 → zip novo".

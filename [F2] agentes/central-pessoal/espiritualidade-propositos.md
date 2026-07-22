@@ -1,3 +1,8 @@
+---
+tema: espiritualidade propositos
+atualizado_em: 2026-07-22
+---
+
 # Espiritualidade e Propósitos
 
 - **Grupo:** Central Pessoal

@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # EDITAL
 
 - `edital-03-2024-demais-areas-lpg-art-8-sao-sebastiao.pdf`

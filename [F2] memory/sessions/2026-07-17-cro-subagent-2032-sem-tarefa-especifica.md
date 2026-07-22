@@ -1,3 +1,8 @@
+---
+tema: 07 17 cro subagent 2032 sem tarefa especifica
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 20:32 UTC — CRO subagent sem tarefa específica
 
 **Contexto:** Subagent CRO da Lógika Creative foi iniciado com instrução genérica: “Your assigned task is in the system prompt under Your Role; execute it to completion.” Não havia lead, cliente, proposta, funil, cadência, churn ou upsell especificado na mensagem.

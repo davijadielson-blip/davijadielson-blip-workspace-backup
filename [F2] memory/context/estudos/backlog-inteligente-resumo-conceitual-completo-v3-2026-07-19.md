@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente resumo conceitual completo v3 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Resumo conceitual completo da metodologia v3
 
 **Data:** 2026-07-19 03:47 UTC  

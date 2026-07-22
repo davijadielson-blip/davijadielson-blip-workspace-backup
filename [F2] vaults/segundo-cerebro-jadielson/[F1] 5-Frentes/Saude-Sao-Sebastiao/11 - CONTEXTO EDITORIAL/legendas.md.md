@@ -1,3 +1,8 @@
+---
+tema: legendas.md
+atualizado_em: 2026-07-22
+---
+
 
 Perfeito. As **legendas da Secretaria de Saúde de São Sebastião** seguem uma estrutura bem clara. A ideia não é escrever bonito por escrever. É fazer a legenda cumprir função: **informar, dar contexto, mostrar serviço, orientar e reforçar presença institucional**.
 

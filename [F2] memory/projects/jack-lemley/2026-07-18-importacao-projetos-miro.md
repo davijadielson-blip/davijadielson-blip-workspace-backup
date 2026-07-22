@@ -1,3 +1,8 @@
+---
+tema: 07 18 importacao projetos miro
+atualizado_em: 2026-07-22
+---
+
 # Importação dos projetos [F3] para o Miro — 2026-07-18
 
 ## Solicitação

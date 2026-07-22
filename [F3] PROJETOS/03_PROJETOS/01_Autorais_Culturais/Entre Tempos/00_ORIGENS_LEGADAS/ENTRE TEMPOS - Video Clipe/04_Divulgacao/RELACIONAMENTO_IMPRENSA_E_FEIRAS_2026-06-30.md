@@ -1,3 +1,8 @@
+---
+tema: RELACIONAMENTO IMPRENSA E FEIRAS 2026 06 30
+atualizado_em: 2026-07-22
+---
+
 # Relacionamento com imprensa, jornais e feiras culturais — ENTRE TEMPOS
 
 Data de registro: 30/06/2026  

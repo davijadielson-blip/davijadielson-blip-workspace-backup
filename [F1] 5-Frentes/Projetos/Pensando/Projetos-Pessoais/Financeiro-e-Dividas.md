@@ -1,3 +1,8 @@
+---
+tema: Financeiro e Dividas
+atualizado_em: 2026-07-22
+---
+
 # Financeiro e Dívidas
 
 ## Situação Atual

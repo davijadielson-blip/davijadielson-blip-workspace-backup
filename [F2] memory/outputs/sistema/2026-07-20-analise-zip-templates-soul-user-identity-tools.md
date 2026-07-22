@@ -1,3 +1,8 @@
+---
+tema: 07 20 analise zip templates soul user identity tools
+atualizado_em: 2026-07-22
+---
+
 # Análise do ZIP — Templates soul/user/identity/tools/etc
 
 Data: 2026-07-20

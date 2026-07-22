@@ -1,3 +1,8 @@
+---
+tema: pauta 2026 07 24 sexta urgencia bastidores
+atualizado_em: 2026-07-22
+---
+
 ## 📋 PAUTA — SEXTA, 24 DE JULHO
 
 **Pilar:** Urgência + Bastidores + Institucional

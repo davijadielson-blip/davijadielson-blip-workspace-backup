@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente parecer geral integrado 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Parecer geral integrado
 
 **Data:** 2026-07-19  

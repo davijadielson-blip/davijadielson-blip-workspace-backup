@@ -1,3 +1,8 @@
+---
+tema: Dengue
+atualizado_em: 2026-07-22
+---
+
 Divulgações 
 - Índices e Estatísticas 
 - Ciclos 

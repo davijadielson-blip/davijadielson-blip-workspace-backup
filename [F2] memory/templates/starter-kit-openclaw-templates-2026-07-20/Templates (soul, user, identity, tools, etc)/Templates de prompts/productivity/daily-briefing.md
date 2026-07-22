@@ -1,3 +1,8 @@
+---
+tema: daily briefing
+atualizado_em: 2026-07-22
+---
+
 # ☀️ Use Case: Daily Briefing
 
 > Acorde todos os dias com um resumo do que precisa de atenção.

@@ -1,3 +1,8 @@
+---
+tema: 07 15 pedido loh reauth google drive estavel
+atualizado_em: 2026-07-22
+---
+
 # Pedido para Lôh — reautorização Google Drive estável
 
 **Data:** 2026-07-15 15:17 UTC  

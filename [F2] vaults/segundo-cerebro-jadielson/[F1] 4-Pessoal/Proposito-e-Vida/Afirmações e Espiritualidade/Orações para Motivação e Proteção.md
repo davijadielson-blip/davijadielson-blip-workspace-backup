@@ -1,3 +1,8 @@
+---
+tema: Orações para Motivação e Proteção
+atualizado_em: 2026-07-22
+---
+
 
 **1. Para Começar o Dia**  
 - _“Senhor, obrigado por mais um dia de vida. Entrego nas Tuas mãos meu trabalho, meus planos e meus desafios. Dá-me força para seguir com coragem, sabedoria para decidir com clareza e humildade para aprender com cada situação. Protege-me de pensamentos que desanimam e me faz lembrar que em Ti sou mais que vencedor. Amém.”_

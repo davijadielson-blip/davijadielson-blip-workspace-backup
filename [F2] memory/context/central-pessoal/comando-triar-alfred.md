@@ -1,3 +1,8 @@
+---
+tema: comando triar alfred
+atualizado_em: 2026-07-22
+---
+
 # 🚩 `/triar` — Enviar demanda para triagem do Alfred
 
 **O que faz:** Envia uma mensagem para a Inbox de Triagem do Alfred (Central Pessoal, tópico Alfred) de qualquer grupo onde você estiver.

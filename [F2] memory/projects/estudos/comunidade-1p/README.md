@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Memória operacional — Comunidade 1P
 
 Contexto operacional do tópico Telegram **ESTUDOS / COMUNIDADE 1P**.

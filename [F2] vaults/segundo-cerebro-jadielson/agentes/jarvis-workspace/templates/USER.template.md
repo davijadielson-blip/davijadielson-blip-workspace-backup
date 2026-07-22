@@ -1,3 +1,8 @@
+---
+tema: USER.template
+atualizado_em: 2026-07-22
+---
+
 # USER — Sobre {NOME_COMPLETO}
 
 - **Nome:** {NOME_COMPLETO}

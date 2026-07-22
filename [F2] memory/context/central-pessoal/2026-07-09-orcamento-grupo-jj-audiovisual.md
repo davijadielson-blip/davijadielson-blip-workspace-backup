@@ -1,3 +1,8 @@
+---
+tema: 07 09 orcamento grupo jj audiovisual
+atualizado_em: 2026-07-22
+---
+
 # Pendência — Orçamento grupo JJ audiovisual
 
 **Data de captura:** 2026-07-09

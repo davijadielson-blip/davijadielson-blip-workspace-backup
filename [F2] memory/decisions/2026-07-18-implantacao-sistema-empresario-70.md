@@ -1,3 +1,8 @@
+---
+tema: 07 18 implantacao sistema empresario 70
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Implantação do Sistema Empresário 70%
 
 **Data:** 2026-07-18  

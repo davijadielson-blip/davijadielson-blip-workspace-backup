@@ -1,3 +1,8 @@
+---
+tema: estrategia insercao falas curtas 2026 07 08
+atualizado_em: 2026-07-22
+---
+
 # Estratégia — Inserção de Falas Curtas no MiniDoc
 ## II Jogos Indígenas Karapotó Terra Nova
 

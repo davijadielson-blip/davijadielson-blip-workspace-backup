@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Série documental sobre pescador
 
 **Macroestrutura:** `03_PROJETOS/01_Autorais_Culturais`

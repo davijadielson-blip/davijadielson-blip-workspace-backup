@@ -1,3 +1,8 @@
+---
+tema: 06 09 visual companion issues
+atualizado_em: 2026-07-22
+---
+
 # Visual Brainstorming Companion — Issue & Change Catalog
 
 **Date:** 2026-06-09

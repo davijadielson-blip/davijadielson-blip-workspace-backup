@@ -1,3 +1,8 @@
+---
+tema: loh mapa
+atualizado_em: 2026-07-22
+---
+
 # MAPA — Workspace da Lôh e do Jadielson
 
 > Este arquivo é o gabarito principal do workspace. Antes de salvar, buscar ou organizar algo, a Lôh deve consultar este mapa e depois o MAPA local da pasta correspondente.

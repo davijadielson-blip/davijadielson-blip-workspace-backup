@@ -1,3 +1,8 @@
+---
+tema: 07 20 relatorio simples sistema
+atualizado_em: 2026-07-22
+---
+
 # Relatório simples do sistema — 2026-07-20
 
 ## Pedido

@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente xtiles avaliacao inicial 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — xTiles como possível sistema visual
 
 **Data:** 2026-07-19  

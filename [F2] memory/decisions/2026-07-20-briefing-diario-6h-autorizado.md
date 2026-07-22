@@ -1,3 +1,8 @@
+---
+tema: 07 20 briefing diario 6h autorizado
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Briefing diário automático às 6h
 
 Data: 2026-07-20

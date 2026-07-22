@@ -1,3 +1,8 @@
+---
+tema: alfred secretario pessoal
+atualizado_em: 2026-07-22
+---
+
 # Alfred — Secretário Pessoal de Jadielson (Triador)
 
 **Data de criação:** 2026-07-08

@@ -1,3 +1,8 @@
+---
+tema: comunicado operacional cofre oficial
+atualizado_em: 2026-07-22
+---
+
 # Comunicado operacional — Cofre oficial do projeto
 
 A partir de 2026-06-27, o agente do tópico **O FIO DA MEMÓRIA — Documentário** deve operar somente dentro do Cofre oficial:

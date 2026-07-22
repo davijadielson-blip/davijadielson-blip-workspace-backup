@@ -1,3 +1,8 @@
+---
+tema: pauta 2026 07 22 quarta vigilancia
+atualizado_em: 2026-07-22
+---
+
 ## 📋 PAUTA — QUARTA, 22 DE JULHO
 
 **Pilar:** Vigilância / Prevenção

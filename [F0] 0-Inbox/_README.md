@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # [F0] 0-Inbox — FLUXO 0: CAPTURA BRUTA
 
 **O que é:** Tudo que chega sem filtro — notas rápidas, ideias soltas, links, capturas de voz, prints.

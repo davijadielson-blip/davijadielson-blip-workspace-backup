@@ -1,3 +1,8 @@
+---
+tema: 07 19 mission control v04 pronto
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v0.4 — Placar semanal pronto
 
 **Data:** 2026-07-19 23:45 UTC  

@@ -1,3 +1,8 @@
+---
+tema: edital 03 2024 demais areas lpg art 8 sao sebastiao
+atualizado_em: 2026-07-22
+---
+
 # edital-03-2024-demais-areas-lpg-art-8-sao-sebastiao
 
 > Convertido para Markdown a partir de `edital-03-2024-demais-areas-lpg-art-8-sao-sebastiao.pdf`.

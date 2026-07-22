@@ -1,3 +1,8 @@
+---
+tema: CADASTRO DE ARTESAO rendeiras de sao sebastiao de out 2025
+atualizado_em: 2026-07-22
+---
+
 # CADASTRO_DE_ARTESAO_rendeiras_de_sao_sebastiao_de_out_2025.pdf
 
 > Conversão operacional para leitura e análise do agente. Conferir paginação/trechos críticos no PDF original antes de citação final.

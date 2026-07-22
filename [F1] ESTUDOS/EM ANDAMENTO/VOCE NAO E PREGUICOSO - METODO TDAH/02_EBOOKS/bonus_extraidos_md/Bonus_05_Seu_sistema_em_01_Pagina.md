@@ -1,3 +1,8 @@
+---
+tema: Bonus 05 Seu sistema em 01 Pagina
+atualizado_em: 2026-07-22
+---
+
 # Bônus 05 — Seu sistema em 1 Página
 
 **Fonte bruta:** PDF salvo no Google Drive pessoal, pasta `ESTUDOS/Você não é preguiçoso — Método TDAH`.

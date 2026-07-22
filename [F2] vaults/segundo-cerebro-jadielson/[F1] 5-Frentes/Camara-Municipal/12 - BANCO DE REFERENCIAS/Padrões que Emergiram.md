@@ -1,3 +1,8 @@
+---
+tema: Padrões que Emergiram
+atualizado_em: 2026-07-22
+---
+
 
 Depois de tudo que construímos, já existe uma identidade editorial MUITO clara na comunicação da Câmara Municipal de São Sebastião. E o mais interessante é que ela nasceu organicamente, a partir da repetição consistente de estruturas, tom e intenção.
 

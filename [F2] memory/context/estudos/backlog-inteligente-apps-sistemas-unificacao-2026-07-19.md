@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente apps sistemas unificacao 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Apps e sistemas para unificar tarefas, compromissos e projetos
 
 **Data:** 2026-07-19  

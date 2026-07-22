@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # MAPA — archive/
 
 > O que vive nesta pasta: arquivos arquivados por contexto histórico. Não é lixeira.

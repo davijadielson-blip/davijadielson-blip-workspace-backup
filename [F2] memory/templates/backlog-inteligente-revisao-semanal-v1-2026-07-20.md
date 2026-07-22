@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente revisao semanal v1 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Template — Revisão Semanal — Backlog Inteligente v5
 
 ## 1. O que avançou?

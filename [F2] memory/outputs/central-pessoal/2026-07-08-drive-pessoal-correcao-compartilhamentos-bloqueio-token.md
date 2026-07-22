@@ -1,3 +1,8 @@
+---
+tema: 07 08 drive pessoal correcao compartilhamentos bloqueio t...
+atualizado_em: 2026-07-22
+---
+
 # Correção de compartilhamentos — bloqueio por token Google
 
 **Data:** 2026-07-08 00:31 UTC  

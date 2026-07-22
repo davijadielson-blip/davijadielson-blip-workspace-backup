@@ -1,3 +1,8 @@
+---
+tema: protocolo drive brutos cursos
+atualizado_em: 2026-07-22
+---
+
 # Protocolo — Drive para brutos de cursos e Cofre para aprendizagem
 
 **Data:** 2026-07-14

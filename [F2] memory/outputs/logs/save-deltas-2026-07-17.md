@@ -1,3 +1,8 @@
+---
+tema: save deltas 2026 07 17
+atualizado_em: 2026-07-22
+---
+
 # 📓 Save de Deltas — 2026-07-17
 
 | Agente | Salvou? | Arquivos |

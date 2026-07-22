@@ -1,3 +1,8 @@
+---
+tema: 07 19 mapa base cursos ideias parcerias
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Mapa `Base` com cursos, ideias, parcerias e áreas operacionais
 
 **Data:** 2026-07-19 05:03 UTC  

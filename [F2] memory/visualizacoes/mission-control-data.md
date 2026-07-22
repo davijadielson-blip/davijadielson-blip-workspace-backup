@@ -1,3 +1,8 @@
+---
+tema: mission control data
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Data
 
 > Fonte editável do Mission Control v2. O app lê e salva este arquivo Markdown.

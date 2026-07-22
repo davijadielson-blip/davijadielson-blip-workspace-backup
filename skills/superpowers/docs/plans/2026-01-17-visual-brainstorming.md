@@ -1,3 +1,8 @@
+---
+tema: 01 17 visual brainstorming
+atualizado_em: 2026-07-22
+---
+
 # Visual Brainstorming Companion Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task.

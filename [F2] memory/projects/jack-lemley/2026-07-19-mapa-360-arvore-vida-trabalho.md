@@ -1,3 +1,8 @@
+---
+tema: 07 19 mapa 360 arvore vida trabalho
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Mapa 360 / Árvore das áreas da vida
 
 **Data:** 2026-07-19 04:58 UTC  

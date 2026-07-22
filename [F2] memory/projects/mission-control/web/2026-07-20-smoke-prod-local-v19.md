@@ -1,3 +1,8 @@
+---
+tema: 07 20 smoke prod local v19
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v1.9 — Smoke test de produção local
 
 **Data:** 2026-07-20 02:49 UTC  

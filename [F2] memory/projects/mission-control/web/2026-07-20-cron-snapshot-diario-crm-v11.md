@@ -1,3 +1,8 @@
+---
+tema: 07 20 cron snapshot diario crm v11
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web v1.1 — Cron diário do Snapshot CRM Lógika
 
 **Data:** 2026-07-20 01:31 UTC  

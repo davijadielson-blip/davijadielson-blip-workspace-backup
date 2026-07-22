@@ -1,3 +1,8 @@
+---
+tema: 07 18 analise notificacao minc prestacao contas
+atualizado_em: 2026-07-22
+---
+
 # Análise de notificação — Ministério da Cultura / prestação de contas
 
 Data do registro: 2026-07-18

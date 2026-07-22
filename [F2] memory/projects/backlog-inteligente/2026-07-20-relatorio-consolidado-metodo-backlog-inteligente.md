@@ -1,3 +1,8 @@
+---
+tema: 07 20 relatorio consolidado metodo backlog inteligente
+atualizado_em: 2026-07-22
+---
+
 # Relatório consolidado — Método Backlog Inteligente / Sistema Empresário 70%
 
 **Data:** 2026-07-20  

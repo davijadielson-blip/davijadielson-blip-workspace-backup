@@ -1,3 +1,8 @@
+---
+tema: camara hasteamento bandeiras emancipacao sao sebastiao 20...
+atualizado_em: 2026-07-22
+---
+
 # Câmara — Hasteamento das Bandeiras | Emancipação Política de São Sebastião
 
 **Data:** 31 de maio de 2026  

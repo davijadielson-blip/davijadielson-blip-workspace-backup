@@ -1,3 +1,8 @@
+---
+tema: 06 27 2328 decisao partir para argumento
+atualizado_em: 2026-07-22
+---
+
 # Decisão — partir para o argumento do documentário
 
 Data: 2026-06-27 23:28 UTC

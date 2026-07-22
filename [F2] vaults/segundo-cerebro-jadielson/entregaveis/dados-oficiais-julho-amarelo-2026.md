@@ -1,3 +1,8 @@
+---
+tema: dados oficiais julho amarelo 2026
+atualizado_em: 2026-07-22
+---
+
 # Dados Oficiais — Julho Amarelo 2026
 
 **Origem:** Bases Públicas & Dados (pesquisa real em web)

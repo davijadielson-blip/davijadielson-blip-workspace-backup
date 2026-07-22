@@ -1,3 +1,8 @@
+---
+tema: 07 17 legenda feed samu pa protagonismo cliente
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Ajuste legenda SAMU + PA com protagonismo do cliente
 
 Jadielson apontou que a legenda estava quase perfeita, mas faltou protagonizar o cliente/SMS São Sebastião/gestão municipal.

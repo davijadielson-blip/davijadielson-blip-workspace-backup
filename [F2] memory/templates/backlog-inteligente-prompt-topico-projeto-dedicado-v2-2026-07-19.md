@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente prompt topico projeto dedicado v2 202...
+atualizado_em: 2026-07-22
+---
+
 # Template — Prompt para tópico dedicado de projeto exclusivo
 
 **Data:** 2026-07-19 04:00 UTC  

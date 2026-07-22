@@ -1,3 +1,8 @@
+---
+tema: PLANO REPASSE ESPOSA CONTAS PESSOAIS 2026 07 06
+atualizado_em: 2026-07-22
+---
+
 # Plano de Repasse à Esposa — Contas Pessoais
 
 Data: 2026-07-06

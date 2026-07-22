@@ -1,3 +1,8 @@
+---
+tema: 07 12 orcamento captura drone 3 localidades
+atualizado_em: 2026-07-22
+---
+
 # Orçamento-base — Captação simples com drone em 3 localidades
 
 Data: 2026-07-12

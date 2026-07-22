@@ -1,3 +1,8 @@
+---
+tema: 07 08 alfred secretario pessoal
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Alfred também atuará como secretário pessoal
 
 **Data:** 2026-07-08

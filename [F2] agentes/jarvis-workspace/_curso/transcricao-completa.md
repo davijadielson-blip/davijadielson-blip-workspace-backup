@@ -1,3 +1,8 @@
+---
+tema: transcricao completa
+atualizado_em: 2026-07-22
+---
+
 # Mini-Curso OpenClaw V2 — Transcrição completa
 
 > **Duração total:** 4h 28min · **Gravado em:** maio 2026

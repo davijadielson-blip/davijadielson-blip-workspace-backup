@@ -1,3 +1,8 @@
+---
+tema: rota producao stories saude junho 2026
+atualizado_em: 2026-07-22
+---
+
 # 🎬 ROTA DE PRODUÇÃO DE STORIES
 ## Secretaria de Saúde São Sebastião | Junho 2026
 

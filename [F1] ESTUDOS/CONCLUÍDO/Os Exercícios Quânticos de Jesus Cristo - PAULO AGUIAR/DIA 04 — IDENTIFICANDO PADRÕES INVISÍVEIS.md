@@ -1,3 +1,8 @@
+---
+tema: DIA 04 — IDENTIFICANDO PADRÕES INVISÍVEIS
+atualizado_em: 2026-07-22
+---
+
 # DIA 04 — IDENTIFICANDO PADRÕES INVISÍVEIS
 
 **Fase 1 — Consciência**

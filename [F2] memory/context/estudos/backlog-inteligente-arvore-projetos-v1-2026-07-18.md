@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente arvore projetos v1 2026 07 18
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Árvore consolidada de projetos v1
 
 **Data:** 2026-07-18 19:45 UTC  

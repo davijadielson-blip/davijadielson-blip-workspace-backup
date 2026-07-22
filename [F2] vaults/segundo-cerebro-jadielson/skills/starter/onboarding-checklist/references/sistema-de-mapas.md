@@ -1,3 +1,8 @@
+---
+tema: sistema de mapas
+atualizado_em: 2026-07-22
+---
+
 # Sistema de Mapas — Padrão Distribuído
 
 > Como o workspace do aluno se documenta sozinho sem nenhum arquivo virar gigante.

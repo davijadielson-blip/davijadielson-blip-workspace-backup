@@ -1,3 +1,8 @@
+---
+tema: COLHIDO DA DRA. ARLETE
+atualizado_em: 2026-07-22
+---
+
 RECURSOS PRÓPRIOS
 
 - CESARIANAS 

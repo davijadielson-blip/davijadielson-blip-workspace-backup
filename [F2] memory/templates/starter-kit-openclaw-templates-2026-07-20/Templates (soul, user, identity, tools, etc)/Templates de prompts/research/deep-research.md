@@ -1,3 +1,8 @@
+---
+tema: deep research
+atualizado_em: 2026-07-22
+---
+
 # 🔬 Use Case: Deep Research
 
 > Pesquisa profunda sobre qualquer tópico com múltiplas fontes.

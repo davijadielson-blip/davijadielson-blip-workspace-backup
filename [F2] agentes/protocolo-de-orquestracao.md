@@ -1,3 +1,8 @@
+---
+tema: protocolo de orquestracao
+atualizado_em: 2026-07-22
+---
+
 # Protocolo de Orquestração — Ecossistema Lógika
 
 **Data:** 2026-06-21

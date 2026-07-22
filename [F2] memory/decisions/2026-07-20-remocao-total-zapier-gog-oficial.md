@@ -1,43 +1,49 @@
-# Decisão — remoção total do Zapier; `gog` oficial
+---
+tema: 07 20 remocao total zapier gog oficial
+atualizado_em: 2026-07-22
+---
 
-**Data:** 2026-07-20  
-**Decisor:** Jadielson Davi  
-**Status:** vigente
+# 🔴 Decisão: Remoção Total do Zapier — `gog` é o Caminho Oficial para Google
+
+**Data da decisão:** 20/07/2026
+**Reforçado em:** 22/07/2026 (Jadielson)
+**Status:** ✅ Decidido — Pendente de execução final
 
 ## Decisão
 
-Jadielson determinou: **remover de vez o Zapier do ecossistema operacional**, porque voltou a atrapalhar os briefings/integrações. A integração Google roda bem via **`gog`**, que permanece como caminho oficial.
+O Zapier MCP **deve ser removido totalmente** do ecossistema. Toda integração Google passa a ser via **`gog`** (CLI oficial).
 
-## Ação executada
+## Motivos
 
-Foram desativadas as ações habilitadas nos servidores Zapier disponíveis:
+- Zapier estava atrapalhando (créditos expirados, limitações de plano gratuito)
+- `gog` é mais direto, sem camadas intermediárias
+- Decisão de Jadielson: Google via `gog` apenas
 
-- Gmail;
-- Google Calendar;
-- Google Drive;
-- Notion;
-- Miro.
+## Ações já executadas
 
-Verificação posterior indicou que os servidores Zapier consultados ficaram sem apps/actions habilitados.
+- ✅ `gog` instalado (v0.21.0) com contas:
+  - `davijadielson@gmail.com` (pessoal)
+  - `logikacreative.mkt@gmail.com` (Lógika)
+- ✅ Ações Google removidas dos Zapiers (data original 14/07)
+- ✅ MEMORY.md atualizado com regras
 
-## Regra operacional
+## Executado em 22/07
 
-- Não usar Zapier MCP para Google, Notion, Miro, YouTube ou qualquer integração operacional.
-- Não habilitar, reprovisionar, descobrir ações ou sugerir Zapier sem autorização explícita posterior de Jadielson.
-- Se algum briefing ou rotina citar “Zapier” como fonte, considerar falha de procedimento e corrigir para fonte direta.
+- ✅ **MCPs Zapier desabilitados no gateway** (zapier-1, zapier-2, zapier-3, zapier-youtube, canva-zapier)
+- ✅ **AGENTS.md atualizado** com regra absoluta e tabela de caminhos oficiais
+- ✅ **Decisão reforçada**: Jadielson confirmou — Zapier proibido em todo o ecossistema
 
-## Caminhos oficiais/alternativos
+## Pendências
 
-- Google Drive → `gog_drive` ou scripts diretos.
-- Gmail → `gog_gmail` ou scripts diretos.
-- Google Calendar → `gog_calendar` ou scripts diretos do Cofre.
-- Google Sheets → `gog`/scripts diretos com OAuth Google.
-- Notion/outros sistemas → API direta, MCP específico, CLI ou scripts locais.
-- Busca externa → Tavily/Pesquisador primeiro após Cofre.
+1. **🔴 GOG_KEYRING_PASSWORD** — configurar variável de ambiente no gateway
+2. **🔴 IA RADAR** — criar pasta "IA RADAR - Novidades IA" no Drive (pode ser via gog)
 
-## Arquivos atualizados
+## Alternativas oficiais pós-remoção
 
-- `MEMORY.md`
-- `AGENTS.md`
-- `TOOLS.md`
-- Este registro em `[F2] memory/decisions/2026-07-20-remocao-total-zapier-gog-oficial.md`
+| Serviço | Alternativa |
+|---------|-------------|
+| Google Drive | `gog drive` |
+| Gmail | `gog gmail` |
+| Google Calendar | `gog calendar` / scripts Cofre |
+| Google Sheets | `gog` / scripts OAuth |
+| Web geral | `tavily_search`, `tavily_extract`, `web_search` |

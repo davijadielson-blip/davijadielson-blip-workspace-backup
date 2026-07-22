@@ -1,3 +1,8 @@
+---
+tema: 07 17 pauta refeita com cronogramas captacao
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Pauta refeita com cronogramas de captação
 
 ## Pilar do dia

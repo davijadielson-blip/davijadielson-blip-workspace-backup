@@ -1,3 +1,8 @@
+---
+tema: 06 27 2300 registro uso ecossistema
+atualizado_em: 2026-07-22
+---
+
 # Registro — uso do ecossistema de apoio
 
 Data: 2026-06-27 23:00 UTC

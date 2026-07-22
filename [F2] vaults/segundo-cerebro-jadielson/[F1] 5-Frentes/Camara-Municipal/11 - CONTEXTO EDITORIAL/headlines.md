@@ -1,3 +1,8 @@
+---
+tema: headlines
+atualizado_em: 2026-07-22
+---
+
 As headlines da Câmara Municipal de São Sebastião seguem uma lógica muito específica:  
 elas não são feitas para “viralizar por choque”.  
 Elas são feitas para:

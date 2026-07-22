@@ -1,3 +1,8 @@
+---
+tema: 07 18 lista projetos f3
+atualizado_em: 2026-07-22
+---
+
 # Lista de projetos em [F3] PROJETOS — 2026-07-18
 
 Pedido de Jadielson no tópico `PROJETOS > Jack Lemley`: “jack, liste aqui pra mim todos os meus projetos. independentemente do estagio que estejam.”

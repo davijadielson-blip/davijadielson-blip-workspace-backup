@@ -1,3 +1,8 @@
+---
+tema: BANCO HOOKS
+atualizado_em: 2026-07-22
+---
+
 # 🗃️ BANCO DE HOOKS — 7 TEMPLATES UNIVERSAIS
 
 **Fonte:** Prompts do vault (`002`, `510`, `838`) + pesquisa global de virais 2025-2026

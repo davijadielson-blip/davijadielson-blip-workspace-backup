@@ -1,3 +1,8 @@
+---
+tema: 07 20 superpowers valor agregado
+atualizado_em: 2026-07-22
+---
+
 # Superpowers — valor agregado para o ecossistema
 
 Data: 2026-07-20

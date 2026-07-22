@@ -1,3 +1,8 @@
+---
+tema: c level squad operacao
+atualizado_em: 2026-07-22
+---
+
 # RITUAL OPERACIONAL — C-Level Squad da Lógika
 
 Data: 2026-06-07  

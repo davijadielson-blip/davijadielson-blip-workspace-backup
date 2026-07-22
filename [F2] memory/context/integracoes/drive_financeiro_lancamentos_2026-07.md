@@ -1,3 +1,8 @@
+---
+tema: drive financeiro lancamentos 2026 07
+atualizado_em: 2026-07-22
+---
+
 
 ## 2026-07-06 — Comprovantes recebidos no chat financeiro
 

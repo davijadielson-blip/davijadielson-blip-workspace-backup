@@ -1,3 +1,8 @@
+---
+tema: T5 BASTIDORES
+atualizado_em: 2026-07-22
+---
+
 # 🔧 T5 — BASTIDORES / DIA A DIA (20s)
 
 **Base viral:** 50% dos usuários preferem conteúdo autêntico sem produção. Câmera na mão, sem tripé, sem estúdio. Lo-fi content domina 2026.

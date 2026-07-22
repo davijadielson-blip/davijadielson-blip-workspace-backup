@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Carreira, posicionamento e imagem
 
 **Macroestrutura:** `02_PROFISSIONAL/01_Carreira_Posicionamento_Marca_Pessoal`

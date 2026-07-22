@@ -1,3 +1,8 @@
+---
+tema: 07 18 links videos virais referencia
+atualizado_em: 2026-07-22
+---
+
 # Curadoria — vídeos de referência com resultado comprovado
 
 Projeto: Templates de produção de vídeo / Premiere  

@@ -1,3 +1,8 @@
+---
+tema: 07 09 grade diaria v2 1 hibrida saude manha
+atualizado_em: 2026-07-22
+---
+
 # Grade Diária v2.1 — Ajuste híbrido Saúde pela manhã + escala da empresa
 
 **Data:** 2026-07-09

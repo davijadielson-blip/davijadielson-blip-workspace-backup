@@ -1,3 +1,8 @@
+---
+tema: 07 20 coo subagent placar operacional
+atualizado_em: 2026-07-22
+---
+
 # Sessão COO — 2026-07-20
 
 ## Agente

@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente analise ebook principal metodo tdah 2...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Análise do ebook principal do Método TDAH
 
 **Data:** 2026-07-19  

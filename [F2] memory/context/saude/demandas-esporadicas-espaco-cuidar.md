@@ -1,3 +1,8 @@
+---
+tema: demandas esporadicas espaco cuidar
+atualizado_em: 2026-07-22
+---
+
 # Demandas esporádicas — Espaço Cuidar
 
 **Atualizado em:** 2026-07-13  

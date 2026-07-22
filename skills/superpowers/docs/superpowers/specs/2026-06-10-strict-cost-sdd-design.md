@@ -1,3 +1,8 @@
+---
+tema: 06 10 strict cost sdd design
+atualizado_em: 2026-07-22
+---
+
 # Strict-Cost SDD — Design Spec
 
 **Status:** Proposed experiment ladder (not implementation). Each rung ships

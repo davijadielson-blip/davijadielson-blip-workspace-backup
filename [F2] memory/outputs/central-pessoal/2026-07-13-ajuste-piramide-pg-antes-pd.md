@@ -1,3 +1,8 @@
+---
+tema: 07 13 ajuste piramide pg antes pd
+atualizado_em: 2026-07-22
+---
+
 # Ajuste da pirâmide — PG antes de PD, sem abandonar PD
 
 Data: 2026-07-13

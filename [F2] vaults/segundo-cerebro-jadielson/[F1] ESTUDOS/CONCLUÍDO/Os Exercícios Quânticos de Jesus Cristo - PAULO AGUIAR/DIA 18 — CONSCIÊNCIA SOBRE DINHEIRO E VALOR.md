@@ -1,3 +1,8 @@
+---
+tema: DIA 18 — CONSCIÊNCIA SOBRE DINHEIRO E VALOR
+atualizado_em: 2026-07-22
+---
+
 # DIA 18 — CONSCIÊNCIA SOBRE DINHEIRO E VALOR
 
 **Fase 3 — Coerência Pura**

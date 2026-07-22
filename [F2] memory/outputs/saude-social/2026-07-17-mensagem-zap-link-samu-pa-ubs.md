@@ -1,3 +1,8 @@
+---
+tema: 07 17 mensagem zap link samu pa ubs
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Mensagem para WhatsApp: envio de link post SAMU + PA + UBS
 
 Contexto: Jadielson pediu versão curta para enviar o link do post no WhatsApp.

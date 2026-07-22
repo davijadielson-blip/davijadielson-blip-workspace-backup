@@ -1,3 +1,8 @@
+---
+tema: AGENTS amora
+atualizado_em: 2026-07-22
+---
+
 # AGENTS-amora
 
 AGENTS.md — Workspace da Amora

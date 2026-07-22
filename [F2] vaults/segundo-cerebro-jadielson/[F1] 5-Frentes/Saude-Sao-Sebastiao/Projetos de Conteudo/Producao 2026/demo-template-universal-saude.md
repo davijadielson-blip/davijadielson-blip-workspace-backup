@@ -1,3 +1,8 @@
+---
+tema: demo template universal saude
+atualizado_em: 2026-07-22
+---
+
 # 🎬 DEMONSTRAÇÃO PRÁTICA — Template Universal na Saúde
 
 **Data:** 2026-06-18

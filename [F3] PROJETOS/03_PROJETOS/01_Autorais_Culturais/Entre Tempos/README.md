@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Entre Tempos
 
 **Macroestrutura:** `03_PROJETOS/01_Autorais_Culturais`

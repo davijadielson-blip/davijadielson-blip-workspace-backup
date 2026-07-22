@@ -1,3 +1,8 @@
+---
+tema: BUILD
+atualizado_em: 2026-07-22
+---
+
 # BUILD.md — Como gerar o .zip do Starter Kit v1
 
 > Instruções pra empacotar o starter-kit em arquivo distribuível pra alunos.

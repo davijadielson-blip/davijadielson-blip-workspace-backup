@@ -1,3 +1,8 @@
+---
+tema: 📌1• ESCOLONANDO O SUCESSO – Para Rentabilizar, Delegar e ...
+atualizado_em: 2026-07-22
+---
+
 
  Vamos estruturar seu sucesso de forma estratégica e segmentada, respeitando seu ritmo e garantindo que cada etapa seja bem planejada e sustentável. A ideia é criar um plano escalável, onde cada fase fortaleça a próxima.
 

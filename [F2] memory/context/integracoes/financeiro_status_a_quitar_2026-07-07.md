@@ -1,3 +1,8 @@
+---
+tema: financeiro status a quitar 2026 07 07
+atualizado_em: 2026-07-22
+---
+
 # Status provisório — o que ainda falta quitar em julho/2026
 
 Data: 2026-07-07

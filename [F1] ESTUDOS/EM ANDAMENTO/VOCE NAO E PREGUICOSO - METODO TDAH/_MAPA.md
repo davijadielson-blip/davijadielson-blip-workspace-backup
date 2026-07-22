@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # Você não é preguiçoso — O método para dominar o TDAH
 
 **Status:** Em andamento

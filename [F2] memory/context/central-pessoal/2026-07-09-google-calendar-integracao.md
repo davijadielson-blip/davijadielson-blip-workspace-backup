@@ -1,3 +1,8 @@
+---
+tema: 07 09 google calendar integracao
+atualizado_em: 2026-07-22
+---
+
 # Integração Google Calendar — Central Pessoal / Alfred
 
 **Data:** 2026-07-09

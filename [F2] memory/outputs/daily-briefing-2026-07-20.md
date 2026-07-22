@@ -1,3 +1,8 @@
+---
+tema: daily briefing 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # ☀️ Daily Briefing — 20/07/2026
 
 > Gerado por Lôh | 10:00 UTC / 07:00 BRT  

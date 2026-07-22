@@ -1,3 +1,8 @@
+---
+tema: mission control status
+atualizado_em: 2026-07-22
+---
+
 # 🧠 Mission Control — Status de Conclusão
 
 > **Atualizado em:** 20/07/2026

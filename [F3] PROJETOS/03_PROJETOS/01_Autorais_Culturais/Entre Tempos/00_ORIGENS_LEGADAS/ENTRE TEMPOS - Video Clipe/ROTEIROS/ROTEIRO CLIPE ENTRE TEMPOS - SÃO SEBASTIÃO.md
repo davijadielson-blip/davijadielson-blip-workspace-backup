@@ -1,3 +1,8 @@
+---
+tema: ROTEIRO CLIPE ENTRE TEMPOS   SÃO SEBASTIÃO
+atualizado_em: 2026-07-22
+---
+
 # ROTEIRO CLIPE ENTRE TEMPOS - SÃO SEBASTIÃO
 
 > Convertido para Markdown a partir de `ROTEIRO CLIPE ENTRE TEMPOS - SÃO SEBASTIÃO.docx`.

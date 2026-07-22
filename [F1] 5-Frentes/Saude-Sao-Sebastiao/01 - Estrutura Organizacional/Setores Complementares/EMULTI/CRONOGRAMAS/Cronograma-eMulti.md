@@ -1,3 +1,8 @@
+---
+tema: Cronograma eMulti
+atualizado_em: 2026-07-22
+---
+
 # 📅 Cronograma eMulti — Saúde São Sebastião
 
 > **Local no vault:** `Saúde São Sebastião/Emulti/Cronograma-eMulti.md`

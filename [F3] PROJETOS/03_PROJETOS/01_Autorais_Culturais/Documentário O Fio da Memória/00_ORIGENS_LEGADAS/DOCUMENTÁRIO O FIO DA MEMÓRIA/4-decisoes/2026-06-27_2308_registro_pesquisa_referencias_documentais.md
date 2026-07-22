@@ -1,3 +1,8 @@
+---
+tema: 06 27 2308 registro pesquisa referencias documentais
+atualizado_em: 2026-07-22
+---
+
 # Registro — pesquisa de referências documentais
 
 Data: 2026-06-27 23:08 UTC

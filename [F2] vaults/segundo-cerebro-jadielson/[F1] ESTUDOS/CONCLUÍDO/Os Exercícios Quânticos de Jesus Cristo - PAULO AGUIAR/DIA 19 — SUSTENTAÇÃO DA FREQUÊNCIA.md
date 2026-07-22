@@ -1,3 +1,8 @@
+---
+tema: DIA 19 — SUSTENTAÇÃO DA FREQUÊNCIA
+atualizado_em: 2026-07-22
+---
+
 # DIA 19 — SUSTENTAÇÃO DA FREQUÊNCIA
 
 **Fase 3 — Coerência Pura**

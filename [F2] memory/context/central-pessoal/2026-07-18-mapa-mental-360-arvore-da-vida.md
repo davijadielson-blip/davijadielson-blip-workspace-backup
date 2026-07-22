@@ -1,3 +1,8 @@
+---
+tema: 07 18 mapa mental 360 arvore da vida
+atualizado_em: 2026-07-22
+---
+
 # Mapa Mental 360 — Árvore da Vida / Central Pessoal
 
 **Data:** 2026-07-18 20:40 UTC  

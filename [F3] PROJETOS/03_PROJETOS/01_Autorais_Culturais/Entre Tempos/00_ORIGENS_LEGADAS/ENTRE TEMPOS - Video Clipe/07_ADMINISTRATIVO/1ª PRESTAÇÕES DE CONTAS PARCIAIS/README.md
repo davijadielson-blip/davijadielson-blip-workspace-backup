@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # 1ª PRESTAÇÕES DE CONTAS PARCIAIS
 
 ## Conteúdo

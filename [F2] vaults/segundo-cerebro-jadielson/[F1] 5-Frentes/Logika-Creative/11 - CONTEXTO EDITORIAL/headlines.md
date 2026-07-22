@@ -1,3 +1,8 @@
+---
+tema: headlines
+atualizado_em: 2026-07-22
+---
+
 ## Como construímos as headlines dos conteúdos
 
 **Estrutura padrão (o que funciona mais)**

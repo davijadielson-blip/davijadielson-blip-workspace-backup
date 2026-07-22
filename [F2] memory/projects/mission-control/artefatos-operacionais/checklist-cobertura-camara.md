@@ -1,3 +1,8 @@
+---
+tema: checklist cobertura camara
+atualizado_em: 2026-07-22
+---
+
 # Checklist de Cobertura — Câmara Municipal
 
 **Status:** v0.1 ativo  

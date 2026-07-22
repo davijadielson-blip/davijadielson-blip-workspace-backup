@@ -1,3 +1,8 @@
+---
+tema: gog drive auth briefing
+atualizado_em: 2026-07-22
+---
+
 # Briefing — Google/gog Drive Autorização
 **Última atualização:** 2026-07-15  
 **Validade:** Até janeiro/2027 (próxima revisão)

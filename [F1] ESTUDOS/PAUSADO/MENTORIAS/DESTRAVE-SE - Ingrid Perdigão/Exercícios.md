@@ -1,3 +1,8 @@
+---
+tema: Exercícios
+atualizado_em: 2026-07-22
+---
+
 “Pensamentos geram sentimentos - Sentimentos geram Ações - Ações geram resultados”
 
 

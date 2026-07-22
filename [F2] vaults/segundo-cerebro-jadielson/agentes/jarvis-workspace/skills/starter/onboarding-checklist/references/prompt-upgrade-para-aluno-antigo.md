@@ -1,3 +1,8 @@
+---
+tema: prompt upgrade para aluno antigo
+atualizado_em: 2026-07-22
+---
+
 # Fluxo de Upgrade — Curso OpenClaw v1 → v2 (instrução interna pro agente)
 
 > ⚠️ **NÃO ENTREGUE ESTE TEXTO PRO ALUNO COPIAR.**

@@ -1,3 +1,8 @@
+---
+tema: SEI FAZER   PROFISSÕES E HABILIDADES
+atualizado_em: 2026-07-22
+---
+
 1. **SOU MÚSICO** - toco Contrabaixo e Vilão
 2. SOU FILMMAKER E VIDEOMAKER - gravo e edito vídeos institucionais e comerciais. Além de LIVES (transmissões ao vivo)
 3. SOU SOCIAL MEDIA E  GESTOR DE REDES SOCIAIS - faço postagens/publicações, redação de textos e roteiros, reposts e estruturação de perfil

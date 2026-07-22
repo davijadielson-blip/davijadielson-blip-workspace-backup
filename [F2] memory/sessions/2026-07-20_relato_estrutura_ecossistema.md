@@ -1,3 +1,8 @@
+---
+tema: 07 20 relato estrutura ecossistema
+atualizado_em: 2026-07-22
+---
+
 # Relato solicitado — estrutura do ecossistema
 
 **Data:** 2026-07-20

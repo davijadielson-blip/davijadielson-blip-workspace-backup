@@ -1,3 +1,8 @@
+---
+tema: Roteiros de Vídeo
+atualizado_em: 2026-07-22
+---
+
 
 ## Como estruturamos os roteiros de vídeo do SINDSS
 

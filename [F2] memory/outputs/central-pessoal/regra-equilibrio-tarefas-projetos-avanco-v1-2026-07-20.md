@@ -1,3 +1,8 @@
+---
+tema: regra equilibrio tarefas projetos avanco v1 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Regra de equilíbrio — tarefas e projetos com avanço
 
 **Data:** 2026-07-20

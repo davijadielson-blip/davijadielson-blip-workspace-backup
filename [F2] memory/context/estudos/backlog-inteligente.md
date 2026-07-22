@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente
+atualizado_em: 2026-07-22
+---
+
 # Curso — Backlog Inteligente
 
 **Origem:** Telegram `ESTUDOS`, tópico `Albert`, áudio de Jadielson Davi em 2026-07-18 19:24 UTC.  

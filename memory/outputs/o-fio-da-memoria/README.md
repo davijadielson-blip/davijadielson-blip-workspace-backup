@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # O FIO DA MEMÓRIA — Documentário
 
 Pasta no Cofre para registros operacionais, decisões, checklists, mapas, roteiros e resumos do projeto.

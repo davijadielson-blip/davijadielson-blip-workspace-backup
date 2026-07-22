@@ -1,3 +1,8 @@
+---
+tema: google drive jadielson
+atualizado_em: 2026-07-22
+---
+
 # 🗂️ Google Drive — Acesso dos Agentes
 
 **Última atualização:** 2026-07-07

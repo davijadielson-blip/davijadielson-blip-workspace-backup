@@ -1,3 +1,8 @@
+---
+tema: 07 07 auditoria drive pessoal plano e bloqueio
+atualizado_em: 2026-07-22
+---
+
 # Auditoria do Google Drive pessoal — plano, escopo e status inicial
 
 **Data:** 2026-07-07

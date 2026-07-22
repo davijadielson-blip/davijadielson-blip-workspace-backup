@@ -1,3 +1,8 @@
+---
+tema: bases publicas dados oficiais
+atualizado_em: 2026-07-22
+---
+
 # Frente 872 — Bases Públicas & Dados Oficiais
 
 Atualizado em: 2026-06-18

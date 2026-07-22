@@ -1,3 +1,8 @@
+---
+tema: 07 20 notion tarefas integradas v08
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v0.8 — Tarefas Notion integradas ao CRM
 
 **Data:** 2026-07-20 01:22 UTC  

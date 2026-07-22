@@ -1,3 +1,8 @@
+---
+tema: 07 20 varredura pendencias projetos tarefas v2
+atualizado_em: 2026-07-22
+---
+
 # Varredura aprofundada v2 — pendências, projetos e tarefas
 
 **Data:** 2026-07-20 06:43 UTC  

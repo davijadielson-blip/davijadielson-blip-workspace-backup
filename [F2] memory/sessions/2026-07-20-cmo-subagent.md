@@ -1,3 +1,8 @@
+---
+tema: 07 20 cmo subagent
+atualizado_em: 2026-07-22
+---
+
 # Sessão CMO Subagent — 2026-07-20
 
 **Agente:** CMO — Chief Marketing Officer (subagent depth 1/1)  

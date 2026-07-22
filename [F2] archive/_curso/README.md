@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # `_curso/` — Material do Mini-Curso OpenClaw v2
 
 > Pasta com o material completo do mini-curso pro agente do aluno consultar quando aluno fizer pergunta sobre conteúdo.

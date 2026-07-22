@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # O FIO DA MEMÓRIA — Documentário
 
 Pasta F2/memory de acompanhamento operacional do projeto no grupo PROJETOS.

@@ -1,3 +1,8 @@
+---
+tema: stories 17 junho 2026
+atualizado_em: 2026-07-22
+---
+
 # 📱 Script — 17 de Junho de 2026 (Quarta)
 ## Secretaria de Saúde São Sebastião | 5 Stories
 

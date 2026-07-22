@@ -1,3 +1,8 @@
+---
+tema: objeções e respostas
+atualizado_em: 2026-07-22
+---
+
 # Objeções e Respostas
 
 Base para registrar objeções comerciais e respostas aprovadas.

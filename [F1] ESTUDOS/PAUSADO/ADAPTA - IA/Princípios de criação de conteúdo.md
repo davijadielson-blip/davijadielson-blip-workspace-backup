@@ -1,3 +1,8 @@
+---
+tema: Princípios de criação de conteúdo
+atualizado_em: 2026-07-22
+---
+
 
 - Saturação
 - Diferenciação

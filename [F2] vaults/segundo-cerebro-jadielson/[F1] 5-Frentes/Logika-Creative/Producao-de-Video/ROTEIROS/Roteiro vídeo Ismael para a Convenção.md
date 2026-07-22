@@ -1,3 +1,8 @@
+---
+tema: Roteiro vídeo Ismael para a Convenção
+atualizado_em: 2026-07-22
+---
+
 
 Poucas pessoas sabem, mas...
 

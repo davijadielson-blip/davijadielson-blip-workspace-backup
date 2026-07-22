@@ -1,3 +1,8 @@
+---
+tema: 07 16 saude corpo energia subagent inicializacao
+atualizado_em: 2026-07-22
+---
+
 # Inicialização — Agente Saúde, Corpo e Energia
 
 **Data:** 2026-07-16 17:34 UTC

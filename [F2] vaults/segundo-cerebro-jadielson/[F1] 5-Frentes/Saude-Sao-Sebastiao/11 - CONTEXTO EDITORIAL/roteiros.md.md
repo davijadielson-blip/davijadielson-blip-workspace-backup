@@ -1,3 +1,8 @@
+---
+tema: roteiros.md
+atualizado_em: 2026-07-22
+---
+
 Os **roteiros de vídeo da Secretaria de Saúde** seguem uma lógica bem prática: eles não são feitos para “encher linguiça”, nem para parecer publicidade vazia. A construção sempre tenta equilibrar **informação, ritmo, serviço real e proximidade com a população**.
 
 # 1. Formato padrão dos roteiros

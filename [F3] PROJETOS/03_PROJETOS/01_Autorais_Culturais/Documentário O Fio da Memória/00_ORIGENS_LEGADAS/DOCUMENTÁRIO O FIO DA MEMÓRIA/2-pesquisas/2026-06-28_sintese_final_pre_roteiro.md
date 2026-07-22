@@ -1,3 +1,8 @@
+---
+tema: 06 28 sintese final pre roteiro
+atualizado_em: 2026-07-22
+---
+
 # Síntese final de pesquisa — O FIO DA MEMÓRIA
 
 Data: 2026-06-28  

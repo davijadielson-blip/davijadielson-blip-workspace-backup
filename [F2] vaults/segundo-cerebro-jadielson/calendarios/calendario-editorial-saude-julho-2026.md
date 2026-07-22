@@ -1,3 +1,8 @@
+---
+tema: calendario editorial saude julho 2026
+atualizado_em: 2026-07-22
+---
+
 # 📅 Calendário Editorial — Secretaria de Saúde São Sebastião
 ## Julho 2026 | Rotação de Pilares + Julho Amarelo
 

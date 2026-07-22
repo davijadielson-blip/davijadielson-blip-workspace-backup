@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente materiais recentes pendentes analise ...
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Materiais recentes pendentes de análise
 
 **Data:** 2026-07-19  

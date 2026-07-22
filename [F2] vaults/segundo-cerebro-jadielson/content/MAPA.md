@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # MAPA — content/
 
 > O que vive nesta pasta: tudo que a Lôh cria para o Jadielson usar, revisar ou publicar.

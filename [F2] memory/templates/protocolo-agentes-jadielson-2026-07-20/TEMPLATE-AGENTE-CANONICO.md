@@ -1,3 +1,8 @@
+---
+tema: TEMPLATE AGENTE CANONICO
+atualizado_em: 2026-07-22
+---
+
 # Template — Agente canônico do ecossistema Jadielson
 
 > Usar para novos agentes. Não aplicar automaticamente à Lôh sem revisão humana.

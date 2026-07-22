@@ -1,2 +1,7 @@
+---
+tema: ORÇAMENTO
+atualizado_em: 2026-07-22
+---
+
 
 ![[ORÇAMENTO CLIPE ENTRE TEMPOS_240807_135500.pdf]]

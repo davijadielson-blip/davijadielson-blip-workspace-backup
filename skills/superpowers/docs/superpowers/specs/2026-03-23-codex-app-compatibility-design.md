@@ -1,3 +1,8 @@
+---
+tema: 03 23 codex app compatibility design
+atualizado_em: 2026-07-22
+---
+
 # Codex App Compatibility: Worktree and Finishing Skill Adaptation
 
 Make superpowers skills work in the Codex App's sandboxed worktree environment without breaking existing Claude Code or Codex CLI behavior.

@@ -1,3 +1,8 @@
+---
+tema: 07 10 headlines story esterilizacao
+atualizado_em: 2026-07-22
+---
+
 # Sugestões de headline — Story único sobre esterilização
 
 **Data:** 2026-07-10

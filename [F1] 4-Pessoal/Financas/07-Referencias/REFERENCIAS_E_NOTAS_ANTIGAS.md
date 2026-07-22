@@ -1,3 +1,8 @@
+---
+tema: REFERENCIAS E NOTAS ANTIGAS
+atualizado_em: 2026-07-22
+---
+
 # Referências e Notas Antigas
 
 Arquivos antigos, repetidos ou com linguagem menos útil foram preservados em:

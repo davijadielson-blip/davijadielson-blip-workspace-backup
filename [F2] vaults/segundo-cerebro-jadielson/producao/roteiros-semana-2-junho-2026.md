@@ -1,3 +1,8 @@
+---
+tema: roteiros semana 2 junho 2026
+atualizado_em: 2026-07-22
+---
+
 # 🎬 Roteiros — Semana 2 (08-12 Junho 2026)
 ## Secretaria de Saúde São Sebastião | 5 Stories
 

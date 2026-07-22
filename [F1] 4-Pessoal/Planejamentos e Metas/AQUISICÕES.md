@@ -1,3 +1,8 @@
+---
+tema: AQUISICÕES
+atualizado_em: 2026-07-22
+---
+
  
  - Comprar um carro, para poder me locomover com mais facilidade e conforto, além de ter mais autonomia e liberdade;
 

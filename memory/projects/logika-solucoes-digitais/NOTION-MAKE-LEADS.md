@@ -1,3 +1,8 @@
+---
+tema: NOTION MAKE LEADS
+atualizado_em: 2026-07-22
+---
+
 # Arquitetura — Leads no Notion + Make.com
 
 > Decisão de Jadielson: os leads devem ir para uma database no Notion já existente. Make.com será usado como camada de automação.

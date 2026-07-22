@@ -1,3 +1,8 @@
+---
+tema: RECEITAS PESSOAIS
+atualizado_em: 2026-07-22
+---
+
 # Receitas Pessoais
 
 ## Confirmadas

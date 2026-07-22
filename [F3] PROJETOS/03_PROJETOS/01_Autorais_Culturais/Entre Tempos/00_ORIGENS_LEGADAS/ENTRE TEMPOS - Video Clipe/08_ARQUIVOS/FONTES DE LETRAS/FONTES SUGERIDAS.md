@@ -1,3 +1,8 @@
+---
+tema: FONTES SUGERIDAS
+atualizado_em: 2026-07-22
+---
+
 # FONTES SUGERIDAS
 
 > Convertido para Markdown a partir de `FONTES SUGERIDAS.docx`.

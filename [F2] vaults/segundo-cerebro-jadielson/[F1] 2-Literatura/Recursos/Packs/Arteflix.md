@@ -1,3 +1,8 @@
+---
+tema: Arteflix
+atualizado_em: 2026-07-22
+---
+
 LINK: https://arteflix.club.hotmart.com/lesson/M7qZ5rlnOx/ebooks
 
 Senha Hotmart: jAl15042017

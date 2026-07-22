@@ -1,3 +1,8 @@
+---
+tema: 07 09 lembrete diario pg pd
+atualizado_em: 2026-07-22
+---
+
 # Lembrete diário — saldar pendências PG/PD
 
 **Data de criação:** 2026-07-09 (original)

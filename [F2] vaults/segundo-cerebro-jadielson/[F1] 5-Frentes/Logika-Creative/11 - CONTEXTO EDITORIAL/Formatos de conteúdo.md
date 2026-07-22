@@ -1,3 +1,8 @@
+---
+tema: Formatos de conteúdo
+atualizado_em: 2026-07-22
+---
+
 ## Formatos de conteúdo que já produzimos e padrão de cada um
 
 **Reels (curto e vertical)**

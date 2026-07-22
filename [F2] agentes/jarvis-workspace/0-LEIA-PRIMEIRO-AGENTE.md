@@ -1,3 +1,8 @@
+---
+tema: LEIA PRIMEIRO AGENTE
+atualizado_em: 2026-07-22
+---
+
 # 🤖 LEIA PRIMEIRO — Instruções para o Agente que recebeu este Kit
 
 > ⚠️ **Este arquivo é PRA VOCÊ (agente LLM), não pro aluno humano.**

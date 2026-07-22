@@ -1,3 +1,8 @@
+---
+tema: 07 12 como triar inbox cofre
+atualizado_em: 2026-07-22
+---
+
 # Como triar o Inbox do Cofre — explicação para Jadielson
 
 **Data:** 2026-07-12 / 2026-07-13 UTC  

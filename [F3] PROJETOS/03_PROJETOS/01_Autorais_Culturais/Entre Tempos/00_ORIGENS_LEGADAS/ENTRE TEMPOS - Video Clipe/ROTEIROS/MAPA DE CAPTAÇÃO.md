@@ -1,3 +1,8 @@
+---
+tema: MAPA DE CAPTAÇÃO
+atualizado_em: 2026-07-22
+---
+
 # MAPA DE CAPTAÇÃO
 
 > Convertido para Markdown a partir de `MAPA DE CAPTAÇÃO.docx`.

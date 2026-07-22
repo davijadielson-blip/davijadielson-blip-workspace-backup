@@ -1,3 +1,8 @@
+---
+tema: analise mapa curso prioridades 2026 06 05
+atualizado_em: 2026-07-22
+---
+
 # Análise do mapa do curso OpenClaw — prioridades para quitação
 
 Data: 2026-06-05 UTC

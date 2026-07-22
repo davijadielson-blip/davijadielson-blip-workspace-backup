@@ -1,3 +1,8 @@
+---
+tema: 07 17 legenda samu pa ubs versao diretor curta
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Legenda SAMU + PA + UBS — versão mais curta para aprovação do diretor
 
 Contexto: diretor achou a legenda anterior grande. Jadielson pediu resumir sem perder sentido.

@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Automações de atendimento pelo Zap
 
 **Macroestrutura:** `04_TRABALHO/01_LOGIKA_Creative_Negocio_Proprio`

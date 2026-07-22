@@ -1,3 +1,8 @@
+---
+tema: 11 28 skills improvements from user feedback
+atualizado_em: 2026-07-22
+---
+
 # Skills Improvements from User Feedback
 
 **Date:** 2025-11-28

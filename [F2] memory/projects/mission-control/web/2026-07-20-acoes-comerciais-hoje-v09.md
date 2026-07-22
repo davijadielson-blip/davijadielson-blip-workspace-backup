@@ -1,3 +1,8 @@
+---
+tema: 07 20 acoes comerciais hoje v09
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v0.9 — Ações comerciais de hoje
 
 **Data:** 2026-07-20 01:26 UTC  

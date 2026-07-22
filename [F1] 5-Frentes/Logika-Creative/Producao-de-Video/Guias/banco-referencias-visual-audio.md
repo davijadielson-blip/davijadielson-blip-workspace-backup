@@ -1,3 +1,8 @@
+---
+tema: banco referencias visual audio
+atualizado_em: 2026-07-22
+---
+
 # 🎨 Banco de Referências — Visual, Áudio, Efeitos
 ## Secretaria de Saúde São Sebastião | Padrão de Produção
 

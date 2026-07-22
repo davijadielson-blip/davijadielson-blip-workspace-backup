@@ -1,3 +1,8 @@
+---
+tema: AGENTS.template
+atualizado_em: 2026-07-22
+---
+
 # AGENTS.template
 
 AGENTS — Workspace do {NOME_AGENTE}

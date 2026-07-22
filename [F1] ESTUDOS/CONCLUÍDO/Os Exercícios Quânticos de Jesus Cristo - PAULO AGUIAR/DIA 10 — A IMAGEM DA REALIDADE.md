@@ -1,3 +1,8 @@
+---
+tema: DIA 10 — A IMAGEM DA REALIDADE
+atualizado_em: 2026-07-22
+---
+
 # DIA 10 — A IMAGEM DA REALIDADE
 
 **Fase 2 — Propósito Claro**

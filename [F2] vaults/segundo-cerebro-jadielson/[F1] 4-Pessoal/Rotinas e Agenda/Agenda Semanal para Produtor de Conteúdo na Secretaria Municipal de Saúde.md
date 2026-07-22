@@ -1,3 +1,8 @@
+---
+tema: Agenda Semanal para Produtor de Conteúdo na Secretaria Mu...
+atualizado_em: 2026-07-22
+---
+
 
 
 Segue abaixo uma sugestão de agenda semanal adaptada à sua rotina, considerando as atividades de produção (capturas e edições), coleta de informações aos sábados e sextas-feiras, imprevistos, revisão e planejamento semanal e, claro, tempo reservado para lazer. A estrutura foi pensada para otimizar sua produtividade, permitindo flexibilidade e atendendo aos compromissos com a Câmara Municipal e o sindicato.

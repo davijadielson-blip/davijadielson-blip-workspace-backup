@@ -1,3 +1,8 @@
+---
+tema: ORGANIZAÇÃO PESSOAL
+atualizado_em: 2026-07-22
+---
+
 
 - Criar um bloco do tempo, para poder planejar o meu dia e distribuir as minhas atividades de forma equilibrada e eficaz;
 

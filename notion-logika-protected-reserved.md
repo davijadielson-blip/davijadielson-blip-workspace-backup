@@ -1,3 +1,8 @@
+---
+tema: notion logika protected reserved
+atualizado_em: 2026-07-22
+---
+
 # Notion — Itens protegidos / reservados
 
 ## RESERVADO — Prompts estratégicos / não apagar

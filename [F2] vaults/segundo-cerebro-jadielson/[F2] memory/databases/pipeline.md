@@ -1,3 +1,8 @@
+---
+tema: pipeline
+atualizado_em: 2026-07-22
+---
+
 # Pipeline de Produção
 
 | Data | Arquivo | Status |

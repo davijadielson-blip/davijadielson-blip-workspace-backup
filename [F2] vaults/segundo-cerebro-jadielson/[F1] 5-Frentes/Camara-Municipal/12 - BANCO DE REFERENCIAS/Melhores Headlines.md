@@ -1,3 +1,8 @@
+---
+tema: Melhores Headlines
+atualizado_em: 2026-07-22
+---
+
 elas começaram a seguir padrões consistentes sem cair em fórmula genérica de marketing político.
 
 O diferencial delas é:

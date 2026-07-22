@@ -1,3 +1,8 @@
+---
+tema: 07 01 trilha sonora abertura
+atualizado_em: 2026-07-22
+---
+
 # Jogos Indígenas Karapotó Terra Nova — Trilha sonora para abertura
 
 Data: 2026-07-01

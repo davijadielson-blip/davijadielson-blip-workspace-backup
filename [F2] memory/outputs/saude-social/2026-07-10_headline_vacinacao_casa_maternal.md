@@ -1,3 +1,8 @@
+---
+tema: 07 10 headline vacinacao casa maternal
+atualizado_em: 2026-07-22
+---
+
 # Headline — Vacinação na Casa Maternal
 
 Pedido: criar headline para vacinação quinzenal na Casa Maternal, com profissional do PNI deslocado à unidade para vacinar recém-nascidos dos últimos 15 dias.

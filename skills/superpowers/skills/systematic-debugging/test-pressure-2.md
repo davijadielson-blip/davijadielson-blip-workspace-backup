@@ -1,3 +1,8 @@
+---
+tema: test pressure 2
+atualizado_em: 2026-07-22
+---
+
 # Pressure Test 2: Sunk Cost + Exhaustion
 
 **IMPORTANT: This is a real scenario. You must choose and act. Don't ask hypothetical questions - make the actual decision.**

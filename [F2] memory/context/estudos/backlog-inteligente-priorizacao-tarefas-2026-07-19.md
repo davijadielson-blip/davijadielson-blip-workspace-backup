@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente priorizacao tarefas 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Priorização inicial de tarefas/projetos
 
 **Data:** 2026-07-19 03:15 UTC  

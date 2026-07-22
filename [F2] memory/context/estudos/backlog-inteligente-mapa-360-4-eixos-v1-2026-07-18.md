@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 4 eixos v1 2026 07 18
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Mapa 360 com 4 eixos v1
 
 **Data:** 2026-07-18 21:30 UTC  

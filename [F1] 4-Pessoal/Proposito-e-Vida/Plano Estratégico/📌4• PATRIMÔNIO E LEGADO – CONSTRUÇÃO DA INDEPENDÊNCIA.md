@@ -1,3 +1,8 @@
+---
+tema: 📌4• PATRIMÔNIO E LEGADO – CONSTRUÇÃO DA INDEPENDÊNCIA
+atualizado_em: 2026-07-22
+---
+
  Vamos aprofundar este tópico – Patrimônio e Legado, que trata da construção da independência financeira e da criação de um impacto duradouro. Esse é o nível mais avançado do seu plano e exige planejamento inteligente, visão de longo prazo e decisões estratégicas consistentes.
 
 

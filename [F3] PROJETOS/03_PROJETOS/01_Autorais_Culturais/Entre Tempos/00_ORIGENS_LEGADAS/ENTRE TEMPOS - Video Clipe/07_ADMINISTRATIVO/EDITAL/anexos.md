@@ -1,3 +1,8 @@
+---
+tema: anexos
+atualizado_em: 2026-07-22
+---
+
 # anexos
 
 > Convertido para Markdown a partir de `anexos.pdf`.

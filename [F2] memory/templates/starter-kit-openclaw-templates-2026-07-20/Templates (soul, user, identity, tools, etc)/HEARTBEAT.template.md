@@ -1,3 +1,8 @@
+---
+tema: HEARTBEAT.template
+atualizado_em: 2026-07-22
+---
+
 # HEARTBEAT.template
 
 HEARTBEAT.md

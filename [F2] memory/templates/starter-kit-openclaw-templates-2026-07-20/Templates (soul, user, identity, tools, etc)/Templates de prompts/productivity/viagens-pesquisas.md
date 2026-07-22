@@ -1,3 +1,8 @@
+---
+tema: viagens pesquisas
+atualizado_em: 2026-07-22
+---
+
 # ✈️ Use Case: Pesquisa de Viagens e Orçamentos
 
 > Pesquisa completa de viagens, orçamentos e comparativos.

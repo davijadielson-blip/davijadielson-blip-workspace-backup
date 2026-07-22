@@ -1,3 +1,8 @@
+---
+tema: Prestacao de contas Entre Tempos assinado
+atualizado_em: 2026-07-22
+---
+
 # Prestacao_de_contas_Entre_Tempos_assinado
 
 > Convertido para Markdown a partir de `Prestacao_de_contas_Entre_Tempos_assinado.pdf`.

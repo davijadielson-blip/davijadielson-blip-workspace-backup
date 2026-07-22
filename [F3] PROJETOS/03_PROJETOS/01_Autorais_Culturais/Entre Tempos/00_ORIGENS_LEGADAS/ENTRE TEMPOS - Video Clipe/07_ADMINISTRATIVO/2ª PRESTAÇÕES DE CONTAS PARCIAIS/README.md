@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # 2ª PRESTAÇÕES DE CONTAS PARCIAIS
 
 - `Prestacao_de_contas_Entre_Tempos_assinado.pdf`

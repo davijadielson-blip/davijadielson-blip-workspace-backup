@@ -1,3 +1,8 @@
+---
+tema: 07 09 habilidades gestao rotina energia alfred
+atualizado_em: 2026-07-22
+---
+
 Perfeito. Agora vou juntar tudo em um **prompt estruturado para criar um agente de IA especializado em gestão de rotina, tarefas, energia e projetos**, usando:
 
 * Metodologia do Rafael Medeiros

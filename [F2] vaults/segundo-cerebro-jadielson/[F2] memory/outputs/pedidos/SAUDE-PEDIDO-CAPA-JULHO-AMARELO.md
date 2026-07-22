@@ -1,3 +1,8 @@
+---
+tema: SAUDE PEDIDO CAPA JULHO AMARELO
+atualizado_em: 2026-07-22
+---
+
 # Pedido: Arte de Capa — Destaque Julho Amarelo (Instagram)
 
 **De:** SAÚDE Social Media

@@ -1,3 +1,8 @@
+---
+tema: 05 07 pi extension and evals
+atualizado_em: 2026-07-22
+---
+
 # Pi Extension and Evals Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.

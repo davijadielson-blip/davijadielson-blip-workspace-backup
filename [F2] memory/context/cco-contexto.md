@@ -1,3 +1,8 @@
+---
+tema: cco contexto
+atualizado_em: 2026-07-22
+---
+
 # 🎬 CCO — Contexto de Atuação
 
 **Documento:** CCO — Memória de Contexto Permanente

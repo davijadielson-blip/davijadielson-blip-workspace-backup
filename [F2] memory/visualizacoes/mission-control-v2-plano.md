@@ -1,3 +1,8 @@
+---
+tema: mission control v2 plano
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v2 — App editável
 
 ## Decisão

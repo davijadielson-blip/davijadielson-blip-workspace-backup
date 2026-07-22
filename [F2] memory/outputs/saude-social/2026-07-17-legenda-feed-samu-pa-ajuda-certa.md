@@ -1,3 +1,8 @@
+---
+tema: 07 17 legenda feed samu pa ajuda certa
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Legenda feed SAMU + Pronto Atendimento: ajuda certa no lugar certo
 
 Pedido de Jadielson: transformar o terceiro story em post de feed com montagem de duas fotos — viatura do SAMU + atendimento médico no PA — para educar a população sobre quando chamar o SAMU, quando procurar o Pronto Atendimento e quando buscar a UBS/postinho, evitando tumultuar o PA com situações que podem ser resolvidas na Atenção Básica.

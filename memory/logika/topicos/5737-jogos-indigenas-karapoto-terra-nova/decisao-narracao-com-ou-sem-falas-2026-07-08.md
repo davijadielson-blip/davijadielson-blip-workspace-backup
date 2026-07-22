@@ -1,3 +1,8 @@
+---
+tema: decisao narracao com ou sem falas 2026 07 08
+atualizado_em: 2026-07-22
+---
+
 # Decisão Editorial — Narração com Falas Opcionais
 ## II Jogos Indígenas Karapotó Terra Nova
 

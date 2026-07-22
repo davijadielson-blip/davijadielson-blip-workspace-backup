@@ -1,3 +1,8 @@
+---
+tema: ebook principal extraido integral
+atualizado_em: 2026-07-22
+---
+
 # Ebook principal — Você não é preguiçoso: Método TDAH
 
 **Fonte bruta:** PDF salvo no Google Drive pessoal, pasta `ESTUDOS/Você não é preguiçoso — Método TDAH`.

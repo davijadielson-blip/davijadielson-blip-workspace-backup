@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente resumo metodo ate agora 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Resumo do método aprendido até agora
 
 **Data:** 2026-07-19 03:36 UTC  

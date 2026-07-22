@@ -1,3 +1,8 @@
+---
+tema: 07 18 resposta sanitizada rotina pendencias
+atualizado_em: 2026-07-22
+---
+
 # Resposta sanitizada — rotina e pendências debatidas
 
 **Data:** 2026-07-18 18:30 UTC

@@ -1,3 +1,8 @@
+---
+tema: comunicado lei paulo gustavo 2023
+atualizado_em: 2026-07-22
+---
+
 # comunicado lei paulo gustavo 2023
 
 > Convertido para Markdown a partir de `comunicado lei paulo gustavo 2023.docx`.

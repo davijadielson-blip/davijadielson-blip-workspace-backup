@@ -1,3 +1,8 @@
+---
+tema: 07 20 tcc tese valor inovacao metodo backlog inteligente
+atualizado_em: 2026-07-22
+---
+
 # TCC — O valor e a inovação do Método Backlog Inteligente / Sistema Empresário 70%
 
 **Título provisório:**  

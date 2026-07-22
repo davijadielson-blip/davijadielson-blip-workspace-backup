@@ -1,3 +1,8 @@
+---
+tema: miro board
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Board Miro de materialização
 
 ## Board oficial

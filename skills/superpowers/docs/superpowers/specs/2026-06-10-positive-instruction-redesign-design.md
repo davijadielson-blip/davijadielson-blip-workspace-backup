@@ -1,3 +1,8 @@
+---
+tema: 06 10 positive instruction redesign design
+atualizado_em: 2026-07-22
+---
+
 # Positive-Instruction Redesign of Skill Guidance — Design Spec
 
 **Status:** Proposed (follow-up to the 2026-06-09 SDD review-dispatch work; separate PR per the one-problem-per-PR rule)

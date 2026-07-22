@@ -1,3 +1,8 @@
+---
+tema: RELATORIO PARA COORDENACAO ALFRED ARCA 2026 06 05
+atualizado_em: 2026-07-22
+---
+
 # Relatório para Coordenação — Warren / Finanças Pessoais
 
 Data: 2026-06-05

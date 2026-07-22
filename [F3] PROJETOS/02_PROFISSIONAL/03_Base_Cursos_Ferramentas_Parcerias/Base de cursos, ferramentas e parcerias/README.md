@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Base de cursos, ferramentas e parcerias
 
 **Macroestrutura:** `02_PROFISSIONAL/03_Base_Cursos_Ferramentas_Parcerias`

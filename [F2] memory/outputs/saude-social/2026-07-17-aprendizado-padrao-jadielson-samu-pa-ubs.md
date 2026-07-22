@@ -1,3 +1,8 @@
+---
+tema: 07 17 aprendizado padrao jadielson samu pa ubs
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Aprendizado editorial aprovado por Jadielson: SAMU + PA + UBS
 
 Contexto: discussão no tópico Telegram `SAÚDE - SOCIAL MEDIA` sobre post/feed com montagem de duas fotos: viatura do SAMU + atendimento médico no Pronto Atendimento.

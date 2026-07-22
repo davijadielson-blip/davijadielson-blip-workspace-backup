@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente macro areas v1 2026 07 18
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Macroáreas v1
 
 **Data:** 2026-07-18 20:07 UTC  

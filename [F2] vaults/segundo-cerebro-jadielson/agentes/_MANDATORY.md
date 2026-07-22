@@ -1,3 +1,8 @@
+---
+tema: MANDATORY
+atualizado_em: 2026-07-22
+---
+
 # 📖 FONTE DE VERDADE — COFRE
 
 **Regra para todo agente do ecossistema Lógika:**

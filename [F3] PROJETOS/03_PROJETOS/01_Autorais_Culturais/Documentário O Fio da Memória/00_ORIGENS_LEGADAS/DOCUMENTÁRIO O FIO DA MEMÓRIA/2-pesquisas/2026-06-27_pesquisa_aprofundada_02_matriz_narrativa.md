@@ -1,3 +1,8 @@
+---
+tema: 06 27 pesquisa aprofundada 02 matriz narrativa
+atualizado_em: 2026-07-22
+---
+
 # Pesquisa aprofundada 02 — Matriz narrativa ampliada
 
 Data: 2026-06-27  

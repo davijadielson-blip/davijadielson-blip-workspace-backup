@@ -1,3 +1,8 @@
+---
+tema: 07 19 grade de pautas executaveis projeto templates
+atualizado_em: 2026-07-22
+---
+
 # Grade de pautas executáveis — Projeto Templates
 
 **Data:** 2026-07-19 04:27 UTC  

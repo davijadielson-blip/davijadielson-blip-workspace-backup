@@ -1,3 +1,8 @@
+---
+tema: INDICE GERAL
+atualizado_em: 2026-07-22
+---
+
 # Índice geral — Materiais convertidos para Markdown
 
 ## Regra

@@ -1,3 +1,8 @@
+---
+tema: 07 13 resolucao tavily embeddings
+atualizado_em: 2026-07-22
+---
+
 # Resolução — Tavily + Memory Search (2026-07-13)
 
 ## Problema

@@ -1,3 +1,8 @@
+---
+tema: DIA 08 — DEFININDO O ALVO
+atualizado_em: 2026-07-22
+---
+
 # DIA 08 — DEFININDO O ALVO
 
 **Fase 2 — Propósito Claro | Jejum da Distração começa**

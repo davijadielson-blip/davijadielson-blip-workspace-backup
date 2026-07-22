@@ -1,3 +1,8 @@
+---
+tema: 07 20 aplicacao pessoal backlog inteligente jadielson
+atualizado_em: 2026-07-22
+---
+
 # Aplicação pessoal — Backlog Inteligente no cenário de Jadielson
 
 **Data:** 2026-07-20  

@@ -1,3 +1,8 @@
+---
+tema: HOT Loh operacional
+atualizado_em: 2026-07-22
+---
+
 # HOT — contexto operacional vivo da Lôh
 
 Criado em: 2026-07-20

@@ -1,3 +1,8 @@
+---
+tema: T4 DICA RAPIDA
+atualizado_em: 2026-07-22
+---
+
 # ⚡ T4 — DICA RÁPIDA / EDUCATIVO (15s)
 
 **Base viral:** Conteúdo educativo com hook de "pare de fazer isso" gera altas taxas de save. "Nobody told me this" é um dos hooks mais usados globalmente.

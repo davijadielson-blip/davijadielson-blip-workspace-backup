@@ -1,3 +1,8 @@
+---
+tema: pesquisa jack lemley
+atualizado_em: 2026-07-22
+---
+
 # 📚 Pesquisa: Jack Kenneth Lemley (1935–2021)
 
 > **Categoria:** Estudo biográfico / Gestão de megaprojetos

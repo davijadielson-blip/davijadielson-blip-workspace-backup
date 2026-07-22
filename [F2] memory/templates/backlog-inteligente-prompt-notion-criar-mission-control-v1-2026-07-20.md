@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente prompt notion criar mission control v...
+atualizado_em: 2026-07-22
+---
+
 # Prompt — Notion criar Mission Control — Backlog Inteligente v5
 
 **Data:** 2026-07-20  

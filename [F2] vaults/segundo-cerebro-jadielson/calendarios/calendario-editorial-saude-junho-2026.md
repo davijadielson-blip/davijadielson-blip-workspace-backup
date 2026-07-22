@@ -1,3 +1,8 @@
+---
+tema: calendario editorial saude junho 2026
+atualizado_em: 2026-07-22
+---
+
 # 📅 Calendário Editorial — Secretaria de Saúde São Sebastião
 ## Junho 2026 | Rotação de Pilares + Datas Temáticas
 

@@ -1,3 +1,8 @@
+---
+tema: CURSO SEBRAE
+atualizado_em: 2026-07-22
+---
+
 Inshigts:
 
 1. Falar com os novos seguidores 

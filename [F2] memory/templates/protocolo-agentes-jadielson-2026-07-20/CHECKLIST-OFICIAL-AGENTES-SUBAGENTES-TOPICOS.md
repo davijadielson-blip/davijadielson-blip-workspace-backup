@@ -1,3 +1,8 @@
+---
+tema: CHECKLIST OFICIAL AGENTES SUBAGENTES TOPICOS
+atualizado_em: 2026-07-22
+---
+
 # Checklist oficial — agentes, subagentes e tópicos dedicados
 
 Atualizado em: 2026-07-20

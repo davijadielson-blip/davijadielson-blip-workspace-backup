@@ -1,3 +1,8 @@
+---
+tema: PROMPTS OPERACIONAIS ADAPTADOS
+atualizado_em: 2026-07-22
+---
+
 # Prompts operacionais adaptados ao ecossistema Jadielson
 
 Base: templates importados do ZIP e Superpowers.

@@ -1,3 +1,8 @@
+---
+tema: 07 20 deploy seguro v17
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v1.7 — Preparação de deploy/acesso seguro
 
 **Data:** 2026-07-20 02:40 UTC  

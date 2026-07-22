@@ -1,3 +1,8 @@
+---
+tema: PLANEJAMENTO DE DESPESAS, RECEITAS, INVESTIMENTOS
+atualizado_em: 2026-07-22
+---
+
 - Fazer um orçamento das minhas despesas essenciais, como alimentação, moradia, transporte, saúde, educação, etc.;
 
  - Pesquisar sobre investimentos, para poder fazer o meu dinheiro render mais;

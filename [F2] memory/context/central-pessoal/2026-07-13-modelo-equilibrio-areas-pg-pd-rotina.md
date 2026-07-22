@@ -1,3 +1,8 @@
+---
+tema: 07 13 modelo equilibrio areas pg pd rotina
+atualizado_em: 2026-07-22
+---
+
 # Modelo de equilíbrio por áreas — PG/PD + rotina diária
 
 **Data:** 2026-07-13  

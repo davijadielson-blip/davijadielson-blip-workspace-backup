@@ -1,3 +1,8 @@
+---
+tema: 07 15 gog auth drive fix
+atualizado_em: 2026-07-22
+---
+
 # Correção de Autorização Google/gog — Drive
 **Data:** 2026-07-15  
 **Responsável:** Lôh (orquestração)  

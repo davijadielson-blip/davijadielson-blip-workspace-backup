@@ -1,3 +1,8 @@
+---
+tema: PLANEJAMENTO DE METAS DE SAÚDE
+atualizado_em: 2026-07-22
+---
+
 - Cuidar da minha saúde física, mental, espiritual, social, financeira, intelectual e ocupacional, buscando hábitos saudáveis e equilíbrio em todas as áreas da minha vida;
 
 - Correr ou caminhar regularmente, para poder melhorar a minha forma física e cardiovascular, além de aliviar o estresse e fortalecer

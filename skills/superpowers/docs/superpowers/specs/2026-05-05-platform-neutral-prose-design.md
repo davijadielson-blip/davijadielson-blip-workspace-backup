@@ -1,3 +1,8 @@
+---
+tema: 05 05 platform neutral prose design
+atualizado_em: 2026-07-22
+---
+
 # Platform-neutral prose — Phase A design
 
 ## Background

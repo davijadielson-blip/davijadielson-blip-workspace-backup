@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Finanças pessoais e liberdade financeira
 
 **Macroestrutura:** `01_PESSOAL/01_Financas_Pessoais`

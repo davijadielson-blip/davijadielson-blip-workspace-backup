@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # MAPA — Workspace Lôh / Jadielson
 
 > **Fonte de verdade única. GitHub é backup.**

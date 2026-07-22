@@ -1,3 +1,8 @@
+---
+tema: registry
+atualizado_em: 2026-07-22
+---
+
 # Registry — canais/ (canais opcionais pós-vitória)
 
 > Skills que adicionam canais alternativos ao Telegram (canal principal da jornada).

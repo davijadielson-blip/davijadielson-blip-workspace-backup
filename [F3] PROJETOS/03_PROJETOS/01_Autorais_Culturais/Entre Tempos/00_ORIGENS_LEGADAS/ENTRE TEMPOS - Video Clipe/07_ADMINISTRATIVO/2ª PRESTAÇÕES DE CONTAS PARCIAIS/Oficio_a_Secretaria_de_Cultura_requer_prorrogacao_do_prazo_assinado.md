@@ -1,3 +1,8 @@
+---
+tema: Oficio a Secretaria de Cultura requer prorrogacao do praz...
+atualizado_em: 2026-07-22
+---
+
 # Oficio_a_Secretaria_de_Cultura_requer_prorrogacao_do_prazo_assinado
 
 > Convertido para Markdown a partir de `Oficio_a_Secretaria_de_Cultura_requer_prorrogacao_do_prazo_assinado.pdf`.

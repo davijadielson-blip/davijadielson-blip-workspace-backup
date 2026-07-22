@@ -1,3 +1,8 @@
+---
+tema: CONTENT WATERFALL E FATIAMENTO
+atualizado_em: 2026-07-22
+---
+
 # Content Waterfall e fatiamento sistemático de demandas
 
 Atualizado em: 2026-07-20

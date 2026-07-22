@@ -1,3 +1,8 @@
+---
+tema: 07 20 ajuste acesso local v20 1
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v2.0.1 — Ajuste de acesso local
 
 **Data:** 2026-07-20 02:55 UTC  

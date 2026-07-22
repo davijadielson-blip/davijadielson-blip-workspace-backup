@@ -1,3 +1,8 @@
+---
+tema: 01 22 document review system
+atualizado_em: 2026-07-22
+---
+
 # Document Review System Implementation Plan
 
 > **For agentic workers:** REQUIRED: Use superpowers:subagent-driven-development (if subagents available) or superpowers:executing-plans to implement this plan.

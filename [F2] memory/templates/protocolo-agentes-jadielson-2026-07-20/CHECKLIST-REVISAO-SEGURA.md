@@ -1,3 +1,8 @@
+---
+tema: CHECKLIST REVISAO SEGURA
+atualizado_em: 2026-07-22
+---
+
 # Checklist — revisão segura sem destruir o que já fazemos
 
 Use antes de mexer em qualquer arquivo sensível do ecossistema.

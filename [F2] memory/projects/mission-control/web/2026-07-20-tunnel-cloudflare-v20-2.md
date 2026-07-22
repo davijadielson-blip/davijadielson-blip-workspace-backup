@@ -1,3 +1,8 @@
+---
+tema: 07 20 tunnel cloudflare v20 2
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v2.0.2 — Acesso externo via Cloudflare Quick Tunnel
 
 **Data:** 2026-07-20 02:59 UTC  

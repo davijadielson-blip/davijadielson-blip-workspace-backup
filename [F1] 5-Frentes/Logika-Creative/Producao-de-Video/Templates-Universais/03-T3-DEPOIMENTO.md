@@ -1,3 +1,8 @@
+---
+tema: T3 DEPOIMENTO
+atualizado_em: 2026-07-22
+---
+
 # 💬 T3 — DEPOIMENTO / HISTÓRIA PESSOAL (25s)
 
 **Base viral:** Histórias emocionais geram 25% mais compartilhamentos. Storytelling com obstáculo + resolução é o formato mais retido.

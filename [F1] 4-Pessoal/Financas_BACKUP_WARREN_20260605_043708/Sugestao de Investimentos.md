@@ -1,3 +1,8 @@
+---
+tema: Sugestao de Investimentos
+atualizado_em: 2026-07-22
+---
+
 
 **IMPORTANTE: monitoramento dos desenvolvimentos das aplicações
 S&P 500

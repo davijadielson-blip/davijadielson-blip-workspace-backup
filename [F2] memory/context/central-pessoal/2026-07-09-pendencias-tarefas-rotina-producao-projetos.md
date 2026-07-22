@@ -1,3 +1,8 @@
+---
+tema: 07 09 pendencias tarefas rotina producao projetos
+atualizado_em: 2026-07-22
+---
+
 # Pendências e tarefas — Rotina, Produção, Projetos e Sistemas
 
 **Data de captura:** 2026-07-09

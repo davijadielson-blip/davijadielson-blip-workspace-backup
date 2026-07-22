@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Quitação da casa
 
 **Macroestrutura:** `01_PESSOAL/01_Financas_Pessoais`

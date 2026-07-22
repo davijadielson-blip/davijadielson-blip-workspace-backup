@@ -1,3 +1,8 @@
+---
+tema: notion crm logika modelo v01
+atualizado_em: 2026-07-22
+---
+
 # Modelo CRM Notion — Lógika Creative v0.1
 
 **Data:** 2026-07-20 00:23 UTC  

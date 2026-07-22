@@ -1,3 +1,8 @@
+---
+tema: DIA 01 — O DESPERTAR DO OBSERVADOR
+atualizado_em: 2026-07-22
+---
+
 # DIA 01 — A ESCOLHA CONSCIENTE / O DESPERTAR DO OBSERVADOR
 
 **Fase 1 — Consciência | Jejum da Negatividade começa**

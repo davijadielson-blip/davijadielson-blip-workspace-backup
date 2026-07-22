@@ -1,3 +1,8 @@
+---
+tema: 06 11 visual companion final hardening fixup design
+atualizado_em: 2026-07-22
+---
+
 # Visual Companion Final Hardening Fixup Design
 
 **Date:** 2026-06-11

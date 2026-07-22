@@ -1,3 +1,8 @@
+---
+tema: 07 19 prd mission control integrado
+atualizado_em: 2026-07-22
+---
+
 # PRD — Mission Control Integrado Jadielson/Lôh
 
 **Data:** 2026-07-19  

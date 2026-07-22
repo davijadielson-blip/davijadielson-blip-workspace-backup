@@ -1,3 +1,8 @@
+---
+tema: 07 08 cio subagent activation
+atualizado_em: 2026-07-22
+---
+
 # Sessão — CIO subagente — 2026-07-08 20:25 UTC
 
 ## Contexto

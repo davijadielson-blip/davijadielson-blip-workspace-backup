@@ -1,3 +1,8 @@
+---
+tema: EQUIPE
+atualizado_em: 2026-07-22
+---
+
 
 ## ***EQUIPE DE PRODUÇÃO DE VIDEOCLIP LEI PAULO GUSTAVO***
 

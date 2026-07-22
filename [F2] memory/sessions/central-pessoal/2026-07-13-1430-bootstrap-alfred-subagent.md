@@ -1,3 +1,8 @@
+---
+tema: 07 13 1430 bootstrap alfred subagent
+atualizado_em: 2026-07-22
+---
+
 # Sessão — Alfred subagente — 2026-07-13 14:30 UTC
 
 ## Contexto

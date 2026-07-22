@@ -1,3 +1,8 @@
+---
+tema: Melhores Legendas
+atualizado_em: 2026-07-22
+---
+
 
 levantamento das **melhores legendas do SINDSS** que consolidaram nosso padrão editorial: institucional, humano, sindical, educativo e com foco na valorização dos servidores.
 

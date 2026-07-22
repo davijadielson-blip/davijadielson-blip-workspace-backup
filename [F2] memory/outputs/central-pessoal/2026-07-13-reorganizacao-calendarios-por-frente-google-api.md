@@ -1,3 +1,8 @@
+---
+tema: 07 13 reorganizacao calendarios por frente google api
+atualizado_em: 2026-07-22
+---
+
 # Reorganização Google Calendar por frentes sugeridas — 13/07/2026
 
 - Marcador: `2026-07-13_2026-07-19_v1`

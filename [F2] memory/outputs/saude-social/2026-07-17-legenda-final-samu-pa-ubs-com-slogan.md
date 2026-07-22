@@ -1,3 +1,8 @@
+---
+tema: 07 17 legenda final samu pa ubs com slogan
+atualizado_em: 2026-07-22
+---
+
 # 2026-07-17 — Legenda final SAMU + PA + UBS com slogan
 
 Jadielson aprovou a legenda e pediu incluir o slogan da Saúde.

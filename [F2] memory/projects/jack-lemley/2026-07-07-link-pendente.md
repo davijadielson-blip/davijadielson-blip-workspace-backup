@@ -1,3 +1,8 @@
+---
+tema: 07 07 link pendente
+atualizado_em: 2026-07-22
+---
+
 # Link Telegram pendente — Jack Lemley
 
 - **Data:** 2026-07-07 03:21 UTC

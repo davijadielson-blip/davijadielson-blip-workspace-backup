@@ -1,3 +1,8 @@
+---
+tema: notion logika expanded audit
+atualizado_em: 2026-07-22
+---
+
 # Auditoria ampliada Notion LÓGIKA
 
 Databases acessíveis analisadas: 100

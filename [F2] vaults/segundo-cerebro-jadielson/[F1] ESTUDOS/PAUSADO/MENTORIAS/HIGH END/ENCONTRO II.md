@@ -1,3 +1,8 @@
+---
+tema: ENCONTRO II
+atualizado_em: 2026-07-22
+---
+
 
 Escada das Emoções 
 - Mapear o que se tá sentindo e ver conforme o funil

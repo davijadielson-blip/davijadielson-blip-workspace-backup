@@ -1,3 +1,8 @@
+---
+tema: manifesto
+atualizado_em: 2026-07-22
+---
+
 # Manifesto — Starter Kit "Minha Cabeça"
 
 > Carta do Bruno em primeira pessoa, carregada quando aluno manda `"sobre"` durante a jornada.

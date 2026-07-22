@@ -1,3 +1,8 @@
+---
+tema: INDEX
+atualizado_em: 2026-07-22
+---
+
 # Marketing — Contexto Criativo LÓGIKA
 
 Central de contexto criativo e estratégico para posicionamento, campanhas, referências, linguagem, editoriais e materiais reaproveitáveis.

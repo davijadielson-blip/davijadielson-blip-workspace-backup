@@ -1,3 +1,8 @@
+---
+tema: index
+atualizado_em: 2026-07-22
+---
+
 # Fontes convertidas para Markdown
 
 Conversões operacionais feitas a partir dos arquivos existentes no Drive do projeto. Cada arquivo convertido mantém rodapé com fonte original.

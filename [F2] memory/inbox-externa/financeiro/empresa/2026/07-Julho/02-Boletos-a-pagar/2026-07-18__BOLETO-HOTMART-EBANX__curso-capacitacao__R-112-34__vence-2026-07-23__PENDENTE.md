@@ -1,3 +1,8 @@
+---
+tema: 07 18  BOLETO HOTMART EBANX  curso capacitacao  R 112 34 ...
+atualizado_em: 2026-07-22
+---
+
 # Boleto a pagar — Hotmart/EBANX — curso/capacitação
 
 - **Registro:** 2026-07-18 16:27 UTC

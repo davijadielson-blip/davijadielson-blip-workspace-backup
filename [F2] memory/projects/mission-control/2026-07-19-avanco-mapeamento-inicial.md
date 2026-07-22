@@ -1,3 +1,8 @@
+---
+tema: 07 19 avanco mapeamento inicial
+atualizado_em: 2026-07-22
+---
+
 # Mission Control — Avanço de mapeamento inicial
 
 **Data:** 2026-07-19 23:32 UTC  

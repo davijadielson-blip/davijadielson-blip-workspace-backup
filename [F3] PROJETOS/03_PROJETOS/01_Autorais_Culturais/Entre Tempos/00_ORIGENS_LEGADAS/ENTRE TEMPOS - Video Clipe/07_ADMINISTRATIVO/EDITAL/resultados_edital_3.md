@@ -1,3 +1,8 @@
+---
+tema: resultados edital 3
+atualizado_em: 2026-07-22
+---
+
 # resultados_edital_3
 
 > Convertido para Markdown a partir de `resultados_edital_3.pdf`.

@@ -1,3 +1,8 @@
+---
+tema: 06 28 checkpoint final sessao
+atualizado_em: 2026-07-22
+---
+
 # Checkpoint final de sessão — O FIO DA MEMÓRIA
 
 Data: 2026-06-28 01:53 UTC  

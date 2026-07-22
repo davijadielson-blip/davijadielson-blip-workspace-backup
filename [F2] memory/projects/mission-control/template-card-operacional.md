@@ -1,3 +1,8 @@
+---
+tema: template card operacional
+atualizado_em: 2026-07-22
+---
+
 # Template — Card Operacional Mission Control
 
 Use este modelo para qualquer tarefa/projeto que entrar no Mission Control.

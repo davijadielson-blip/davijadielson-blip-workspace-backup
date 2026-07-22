@@ -1,3 +1,8 @@
+---
+tema: autoconhecimento
+atualizado_em: 2026-07-22
+---
+
 # Autoconhecimento
 
 - **Grupo:** Central Pessoal

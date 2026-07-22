@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente tarefa vs compromisso 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Tarefa vs Compromisso
 
 **Data:** 2026-07-19  

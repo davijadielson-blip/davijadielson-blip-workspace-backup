@@ -1,3 +1,8 @@
+---
+tema: metricas saas
+atualizado_em: 2026-07-22
+---
+
 # 📊 Use Case: Métricas SaaS Automáticas
 
 > Dashboard de MRR, churn, LTV e conversão direto no Telegram.

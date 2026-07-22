@@ -1,3 +1,8 @@
+---
+tema: 07 12 triagem inbox cofre proposta lote 1
+atualizado_em: 2026-07-22
+---
+
 # Triagem Inbox do Cofre — proposta lote 1
 
 **Data:** 2026-07-12 22:12 America/Maceio  

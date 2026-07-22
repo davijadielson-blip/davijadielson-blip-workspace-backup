@@ -1,3 +1,8 @@
+---
+tema: 07 20 correcao notion via api
+atualizado_em: 2026-07-22
+---
+
 # Correção — Notion via API, não Zapier
 
 **Data:** 2026-07-20 00:26 UTC  

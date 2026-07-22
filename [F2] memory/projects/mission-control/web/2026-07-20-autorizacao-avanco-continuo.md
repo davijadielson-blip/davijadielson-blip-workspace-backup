@@ -1,3 +1,8 @@
+---
+tema: 07 20 autorizacao avanco continuo
+atualizado_em: 2026-07-22
+---
+
 # Autorização — avanço contínuo do Mission Control
 
 **Data:** 2026-07-20 01:24 UTC  

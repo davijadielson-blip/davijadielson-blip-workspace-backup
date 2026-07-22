@@ -1,3 +1,8 @@
+---
+tema: COMUNIDADE 1P
+atualizado_em: 2026-07-22
+---
+
 # COMUNIDADE 1P
 
 ## Status

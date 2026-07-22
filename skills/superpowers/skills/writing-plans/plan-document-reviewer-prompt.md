@@ -1,3 +1,8 @@
+---
+tema: plan document reviewer prompt
+atualizado_em: 2026-07-22
+---
+
 # Plan Document Reviewer Prompt Template
 
 Use this template when dispatching a plan document reviewer subagent.

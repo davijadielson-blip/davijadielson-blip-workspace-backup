@@ -1,3 +1,8 @@
+---
+tema: 07 10 headlines story esterilizacao refeitas emocao
+atualizado_em: 2026-07-22
+---
+
 # Headlines refeitas — Story único sobre esterilização com mais emoção
 
 **Data:** 2026-07-10

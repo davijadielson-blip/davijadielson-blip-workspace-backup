@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente mapa 360 92 por grupos v3 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — 92 itens organizados pelos 4 grupos do Mapa 360 v3
 
 **Data:** 2026-07-19 00:01 UTC  

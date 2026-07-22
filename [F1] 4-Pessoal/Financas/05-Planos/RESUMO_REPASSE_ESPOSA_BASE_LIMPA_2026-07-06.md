@@ -1,3 +1,8 @@
+---
+tema: RESUMO REPASSE ESPOSA BASE LIMPA 2026 07 06
+atualizado_em: 2026-07-22
+---
+
 # Resumo — Repasse à Esposa / Base Limpa
 
 Data: 2026-07-06  

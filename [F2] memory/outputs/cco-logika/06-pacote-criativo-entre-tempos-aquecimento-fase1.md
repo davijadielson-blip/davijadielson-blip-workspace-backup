@@ -1,3 +1,8 @@
+---
+tema: pacote criativo entre tempos aquecimento fase1
+atualizado_em: 2026-07-22
+---
+
 # 🎬 PACOTE CRIATIVO — Campanha de Aquecimento ENTRE TEMPOS
 
 **Documento:** CCO — Direção Criativa + Roteiros | FASE 1

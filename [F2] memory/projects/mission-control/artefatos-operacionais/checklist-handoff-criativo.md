@@ -1,3 +1,8 @@
+---
+tema: checklist handoff criativo
+atualizado_em: 2026-07-22
+---
+
 # Checklist de Handoff Criativo — Lógika / Frentes Institucionais
 
 **Status:** v0.1 ativo  

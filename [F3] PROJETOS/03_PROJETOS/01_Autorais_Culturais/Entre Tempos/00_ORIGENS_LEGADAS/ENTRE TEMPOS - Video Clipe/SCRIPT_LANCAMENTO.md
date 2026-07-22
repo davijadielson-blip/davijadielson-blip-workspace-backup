@@ -1,3 +1,8 @@
+---
+tema: SCRIPT LANCAMENTO
+atualizado_em: 2026-07-22
+---
+
 # SCRIPT DE LANÇAMENTO — ENTRE TEMPOS
 
 ## Informações Globais

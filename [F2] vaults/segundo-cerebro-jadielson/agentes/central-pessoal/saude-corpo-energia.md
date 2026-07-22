@@ -1,3 +1,8 @@
+---
+tema: saude corpo energia
+atualizado_em: 2026-07-22
+---
+
 # Saúde, Corpo e Energia
 
 - **Grupo:** Central Pessoal

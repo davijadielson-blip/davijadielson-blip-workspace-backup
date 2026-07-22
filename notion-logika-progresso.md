@@ -1,3 +1,8 @@
+---
+tema: notion logika progresso
+atualizado_em: 2026-07-22
+---
+
 # 🚧 Progresso da Execução — Notion LÓGIKA
 
 **Data:** 2026-07-21

@@ -1,3 +1,8 @@
+---
+tema: Julho 2026   Calendário Editorial COMPLETO
+atualizado_em: 2026-07-22
+---
+
 # SAÚDE – SOCIAL MEDIA · CALENDÁRIO EDITORIAL DE JULHO/2026
 ## Prova de uso do Banco Natural / Workspace
 Fonte real usada: `/data/.openclaw/workspace/` (Banco Natural local). NÃO CONSEGUI usar busca semântica da memória porque o provedor de embeddings retornou erro 429/quota; fiz leitura direta por arquivo e varredura no filesystem.

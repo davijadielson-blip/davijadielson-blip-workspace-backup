@@ -1,3 +1,8 @@
+---
+tema: arquivamento pos jornada
+atualizado_em: 2026-07-22
+---
+
 # Arquivamento Pós-Jornada
 
 > O que mover pra `~/archive/starter-kit-onboarding-{data}/` quando aluno escolhe "arquivar" depois da jornada completa.

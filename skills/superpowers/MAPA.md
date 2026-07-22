@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # Superpowers — captura e instalação no Cofre
 
 Origem: https://github.com/obra/superpowers

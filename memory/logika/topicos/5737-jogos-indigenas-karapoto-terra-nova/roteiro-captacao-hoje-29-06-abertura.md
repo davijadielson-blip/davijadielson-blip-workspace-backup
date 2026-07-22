@@ -1,3 +1,8 @@
+---
+tema: roteiro captacao hoje 29 06 abertura
+atualizado_em: 2026-07-22
+---
+
 # Roteiro e Mapa de Captação — Hoje 29/06
 ## Abertura dos II Jogos Indígenas Karapotó Terra Nova
 

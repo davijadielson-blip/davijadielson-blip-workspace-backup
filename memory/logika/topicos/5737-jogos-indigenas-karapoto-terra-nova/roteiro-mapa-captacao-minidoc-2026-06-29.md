@@ -1,3 +1,8 @@
+---
+tema: roteiro mapa captacao minidoc 2026 06 29
+atualizado_em: 2026-07-22
+---
+
 # Roteiro e Mapa de Captação — MiniDoc Narrado
 ## II Jogos Indígenas Karapotó Terra Nova
 

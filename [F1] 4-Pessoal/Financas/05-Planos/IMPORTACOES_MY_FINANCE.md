@@ -1,3 +1,8 @@
+---
+tema: IMPORTACOES MY FINANCE
+atualizado_em: 2026-07-22
+---
+
 # Importações My Finance
 
 Registro de dados enviados por Jadielson no tópico My Finance e transformados em resumo seguro por Warren.

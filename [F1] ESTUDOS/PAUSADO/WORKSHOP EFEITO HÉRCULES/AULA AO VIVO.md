@@ -1,3 +1,8 @@
+---
+tema: AULA AO VIVO
+atualizado_em: 2026-07-22
+---
+
 
 ## 3ª LIÇÃO PABLO MARÇAL
 

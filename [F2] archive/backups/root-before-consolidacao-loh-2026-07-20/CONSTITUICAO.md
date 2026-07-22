@@ -1,3 +1,8 @@
+---
+tema: CONSTITUICAO
+atualizado_em: 2026-07-22
+---
+
 # ⚖️ CONSTITUIÇÃO DO ECOSSISTEMA — LÔH / JADIELSON
 
 > **Documento central de regras. Todo agente DEVE ler e seguir.**

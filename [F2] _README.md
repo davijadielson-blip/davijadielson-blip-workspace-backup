@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # [F2] — FLUXO 2: SISTEMA (Segundo Cérebro)
 
 **O que significa:** Inteligência do sistema. Segundo cérebro dos agentes. Contexto, decisões, outputs, definições.

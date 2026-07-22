@@ -1,3 +1,8 @@
+---
+tema: 07 12 atualizacao pendencias e planejamento semanal
+atualizado_em: 2026-07-22
+---
+
 # Atualização de pendências e preparação do planejamento semanal
 
 **Data:** 2026-07-12 21:09 America/Maceio  

@@ -1,3 +1,8 @@
+---
+tema: 07 07 status pesquisa para jadielson
+atualizado_em: 2026-07-22
+---
+
 # Status da pesquisa — resposta a Jadielson
 
 Data: 2026-07-07 02:39 UTC  

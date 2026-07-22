@@ -1,3 +1,8 @@
+---
+tema: aula menus
+atualizado_em: 2026-07-22
+---
+
 # Mapa de Aulas → Submenus (Modo A v2 — kit v2.3)
 
 > Referência canonical de cada aula do Bloco A com seu submenu de configuração no agente.

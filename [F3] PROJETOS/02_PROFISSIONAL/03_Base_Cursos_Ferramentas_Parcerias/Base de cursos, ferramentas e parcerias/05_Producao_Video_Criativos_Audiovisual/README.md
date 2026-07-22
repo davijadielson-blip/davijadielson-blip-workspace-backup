@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # 05 Producao Video Criativos Audiovisual
 
 Criado em 2026-07-19 05:05 UTC como parte da reorganização Mapa 360 em `[F3] PROJETOS/`.

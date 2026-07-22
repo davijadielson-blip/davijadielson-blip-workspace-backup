@@ -1,3 +1,8 @@
+---
+tema: O que eu faria para meu perfil político Viralizar
+atualizado_em: 2026-07-22
+---
+
 Produzir conteúdos virais é fundamental para quem atua na Política, afinal o jogo aqui nas redes é fazer cada vez mais pessoas verem você, já que ninguém vota em quem não conhece.
 Mas como fazer isso?
 Aqui nesse post tem 5 técnicas que eu estou usando nas pré-campanhas que estou acompanhando e tem dado ótimos resultados para os nossos clientes.

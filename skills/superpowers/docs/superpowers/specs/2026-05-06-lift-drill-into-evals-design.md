@@ -1,3 +1,8 @@
+---
+tema: 05 06 lift drill into evals design
+atualizado_em: 2026-07-22
+---
+
 # Lift drill into superpowers as `evals/` — design
 
 ## Background

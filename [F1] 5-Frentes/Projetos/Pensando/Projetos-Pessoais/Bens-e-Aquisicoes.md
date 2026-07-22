@@ -1,3 +1,8 @@
+---
+tema: Bens e Aquisicoes
+atualizado_em: 2026-07-22
+---
+
 # Bens e Aquisições
 
 ## Casa Nova

@@ -1,3 +1,8 @@
+---
+tema: 07 13 triagem inbox cofre executada
+atualizado_em: 2026-07-22
+---
+
 # Triagem do Inbox do Cofre — executada
 
 **Data:** 2026-07-13  

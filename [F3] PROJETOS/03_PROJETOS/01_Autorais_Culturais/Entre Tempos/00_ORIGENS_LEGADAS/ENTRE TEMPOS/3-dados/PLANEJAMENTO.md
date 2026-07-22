@@ -1,3 +1,8 @@
+---
+tema: PLANEJAMENTO
+atualizado_em: 2026-07-22
+---
+
 
 Esse projeto de clipe musical para a Lei Paulo Gustavo tem um grande potencial de engajamento e de resgatar a memória e identidade de São Sebastião. Para te ajudar a dar o pontapé inicial na construção desse material, podemos seguir algumas etapas fundamentais que ajudarão a criar uma base sólida para o desenvolvimento do clipe. Vamos começar por definir algumas partes cruciais do projeto:
 

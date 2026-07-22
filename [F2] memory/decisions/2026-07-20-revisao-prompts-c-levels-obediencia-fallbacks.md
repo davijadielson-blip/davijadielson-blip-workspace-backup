@@ -1,3 +1,8 @@
+---
+tema: 07 20 revisao prompts c levels obediencia fallbacks
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Revisão de Prompts C-Level + Fallbacks de Modelo
 
 **Data:** 2026-07-20

@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # Trilha de estudos profissionais
 
 **Macroestrutura:** `02_PROFISSIONAL/02_Estudos_Profissionais_Aplicados`

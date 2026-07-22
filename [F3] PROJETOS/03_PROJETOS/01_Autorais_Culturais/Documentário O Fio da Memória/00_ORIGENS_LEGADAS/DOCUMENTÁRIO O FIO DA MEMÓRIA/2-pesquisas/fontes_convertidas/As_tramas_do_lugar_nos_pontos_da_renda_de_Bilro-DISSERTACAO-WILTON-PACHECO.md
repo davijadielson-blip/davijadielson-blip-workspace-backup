@@ -1,3 +1,8 @@
+---
+tema: As tramas do lugar nos pontos da renda de Bilro DISSERTAC...
+atualizado_em: 2026-07-22
+---
+
 # As_tramas_do_lugar_nos_pontos_da_renda_de_Bilro-DISSERTACAO-WILTON-PACHECO.pdf
 
 > Conversão operacional para leitura e análise do agente. Conferir paginação/trechos críticos no PDF original antes de citação final.

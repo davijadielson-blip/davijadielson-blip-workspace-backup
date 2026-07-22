@@ -1,3 +1,8 @@
+---
+tema: PESSOAL
+atualizado_em: 2026-07-22
+---
+
 
 - Manter uma vida de estudos permanente
 - gozar do tempo de lazer com a minha familia. Principalmente com a minha filhinha Eloáh

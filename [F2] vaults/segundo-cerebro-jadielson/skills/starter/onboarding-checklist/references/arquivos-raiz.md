@@ -1,3 +1,8 @@
+---
+tema: arquivos raiz
+atualizado_em: 2026-07-22
+---
+
 # Arquivos Raiz do Workspace
 
 > Documentação canônica dos 8 arquivos raiz que vivem no workspace do aluno após a jornada do starter-kit.

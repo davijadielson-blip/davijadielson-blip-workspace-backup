@@ -1,3 +1,8 @@
+---
+tema: MISSAO WARREN
+atualizado_em: 2026-07-22
+---
+
 # Missão Warren — Finanças Pessoais
 
 Atualizado em 2026-06-05.

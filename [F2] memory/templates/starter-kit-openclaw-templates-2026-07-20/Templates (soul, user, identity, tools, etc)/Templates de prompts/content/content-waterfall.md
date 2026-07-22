@@ -1,3 +1,8 @@
+---
+tema: content waterfall
+atualizado_em: 2026-07-22
+---
+
 # 🎬 Use Case: Content Waterfall
 
 > Um vídeo vira 10+ peças de conteúdo em múltiplas plataformas.

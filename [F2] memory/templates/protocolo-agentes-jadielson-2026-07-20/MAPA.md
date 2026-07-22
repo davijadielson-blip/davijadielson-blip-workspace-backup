@@ -1,3 +1,8 @@
+---
+tema: MAPA
+atualizado_em: 2026-07-22
+---
+
 # Protocolo canônico de agentes — Jadielson/Lôh
 
 Criado em: 2026-07-20

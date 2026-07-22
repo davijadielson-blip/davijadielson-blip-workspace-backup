@@ -1,3 +1,8 @@
+---
+tema: 07 09 pendencias visiveis pg pd
+atualizado_em: 2026-07-22
+---
+
 # Pendências visíveis — Produção de Ganho x Prevenção de Dor
 
 **Data:** 2026-07-09

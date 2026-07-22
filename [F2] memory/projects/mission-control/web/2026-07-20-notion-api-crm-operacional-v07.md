@@ -1,3 +1,8 @@
+---
+tema: 07 20 notion api crm operacional v07
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v0.7 — CRM operacional com KPIs
 
 **Data:** 2026-07-20 01:18 UTC  

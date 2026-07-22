@@ -1,3 +1,8 @@
+---
+tema: INTEGRACOES MCP REDES
+atualizado_em: 2026-07-22
+---
+
 # INTEGRACOES-MCP-REDES.md — Auditoria e regras de uso
 
 Data: 2026-06-05

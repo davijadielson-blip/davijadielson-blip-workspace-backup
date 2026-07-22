@@ -1,3 +1,8 @@
+---
+tema: SUGESTOES DE PALETAS
+atualizado_em: 2026-07-22
+---
+
 ## 1. Paleta “Roxo + Laranja + Neutros”
 
 - **Roxo (principal)**

@@ -1,3 +1,8 @@
+---
+tema: relato estrutura ecossistema loh jadielson 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Relato completo — Como é e o que faz nossa estrutura
 
 **Data:** 2026-07-20

@@ -1,3 +1,8 @@
+---
+tema: BRIEFING ID VISUAL
+atualizado_em: 2026-07-22
+---
+
 # Briefing — Ajuste de Identidade Visual
 
 > Projeto: migração de **LÓGIKA CREATIVE** para **LÓGIKA | soluções digitais**.  

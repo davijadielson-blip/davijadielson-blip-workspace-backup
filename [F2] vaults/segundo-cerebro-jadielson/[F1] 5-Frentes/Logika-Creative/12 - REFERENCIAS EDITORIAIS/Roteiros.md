@@ -1,3 +1,8 @@
+---
+tema: Roteiros
+atualizado_em: 2026-07-22
+---
+
 ## Roteiros” de vídeo mais completos que já montamos (modelos)
 
 ### Modelo 1 — Reels de performance (estrutura padrão)

@@ -1,3 +1,8 @@
+---
+tema: DIA 21 — O COLAPSO CONSCIENTE
+atualizado_em: 2026-07-22
+---
+
 # DIA 21 — O COLAPSO CONSCIENTE
 
 **Fase 3 — Coerência Pura | FECHAMENTO DO CICLO**

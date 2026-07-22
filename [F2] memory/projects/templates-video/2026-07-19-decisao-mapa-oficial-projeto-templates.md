@@ -1,3 +1,8 @@
+---
+tema: 07 19 decisao mapa oficial projeto templates
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Mapa oficial do projeto Templates
 
 **Data:** 2026-07-19 04:21 UTC  

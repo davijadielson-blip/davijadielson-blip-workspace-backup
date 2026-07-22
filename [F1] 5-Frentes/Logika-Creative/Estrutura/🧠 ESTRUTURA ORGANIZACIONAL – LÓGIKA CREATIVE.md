@@ -1,3 +1,8 @@
+---
+tema: 🧠 ESTRUTURA ORGANIZACIONAL – LÓGIKA CREATIVE
+atualizado_em: 2026-07-22
+---
+
 
 **Estrutura organizacional da LÓGIKA CREATIVE** — porque **empresa que quer crescer precisa de clareza sobre funções, responsabilidades e fluxos de decisão**.
 

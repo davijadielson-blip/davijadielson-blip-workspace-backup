@@ -1,3 +1,8 @@
+---
+tema: MATRIZ RISCOS DADOS LOGIKA
+atualizado_em: 2026-07-22
+---
+
 # 🛡️ Matriz de Riscos de Dados Pessoais — Lógika Creative
 
 **Data de criação:** 2026-07-20  

@@ -1,3 +1,8 @@
+---
+tema: 06 21 migracao repositorio principal
+atualizado_em: 2026-07-22
+---
+
 # Jarvis — migração para repositório principal consolidado
 
 Data: 2026-06-21T20:30:52Z

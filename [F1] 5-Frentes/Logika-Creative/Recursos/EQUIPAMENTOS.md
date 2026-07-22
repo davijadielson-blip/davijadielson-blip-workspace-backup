@@ -1,3 +1,8 @@
+---
+tema: EQUIPAMENTOS
+atualizado_em: 2026-07-22
+---
+
 
 - **PLACA DE ÁUDIO + CABO USB**
 - **MESA DE CORTE (+PLACA DE CAPTURA caso necessite)**

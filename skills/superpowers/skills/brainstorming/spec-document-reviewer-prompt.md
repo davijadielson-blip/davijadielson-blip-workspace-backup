@@ -1,3 +1,8 @@
+---
+tema: spec document reviewer prompt
+atualizado_em: 2026-07-22
+---
+
 # Spec Document Reviewer Prompt Template
 
 Use this template when dispatching a spec document reviewer subagent.

@@ -1,3 +1,8 @@
+---
+tema: daily briefing 2026 07 09
+atualizado_em: 2026-07-22
+---
+
 # 📋 Daily Briefing — Quinta-feira, 09 de Julho de 2026
 
 > Gerado automaticamente por Lôh em 2026-07-09 às 10:00 UTC (07:00 BRT)

@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente diretriz mapa panoramico 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Diretriz do Mapa Panorâmico 360
 
 **Data:** 2026-07-19 02:05 UTC  

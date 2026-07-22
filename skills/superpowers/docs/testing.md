@@ -1,3 +1,8 @@
+---
+tema: testing
+atualizado_em: 2026-07-22
+---
+
 # Testing Superpowers
 
 Superpowers has two distinct kinds of tests, each in its own directory:

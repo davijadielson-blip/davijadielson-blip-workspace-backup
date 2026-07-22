@@ -1,3 +1,8 @@
+---
+tema: MENSAGENS TESTERS v2.5.3
+atualizado_em: 2026-07-22
+---
+
 # Mensagens pros testers da v2.5.3
 
 > Rascunhos pra Bruno enviar via Telegram/WhatsApp pros testers.

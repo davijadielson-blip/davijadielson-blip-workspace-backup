@@ -1,3 +1,8 @@
+---
+tema: personagens sugeridos
+atualizado_em: 2026-07-22
+---
+
 # 🎭 Personagens Sugeridos — Secretaria de Saúde
 ## Quem Fala em Cada Pilar | Raciocínio Psicológico
 

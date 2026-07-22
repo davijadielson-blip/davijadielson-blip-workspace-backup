@@ -1,3 +1,8 @@
+---
+tema: SISTEMA PROPOSTAS
+atualizado_em: 2026-07-22
+---
+
 # Sistema de Propostas Comerciais — LÓGIKA | soluções digitais
 
 > Diretriz de Jadielson: pensar em todos os modelos de proposta, não apenas um.  

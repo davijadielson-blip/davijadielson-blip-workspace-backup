@@ -1,3 +1,8 @@
+---
+tema: OX LIFE
+atualizado_em: 2026-07-22
+---
+
  **DICAS - *Orgulho: *A única coisa que te impede*
 
 

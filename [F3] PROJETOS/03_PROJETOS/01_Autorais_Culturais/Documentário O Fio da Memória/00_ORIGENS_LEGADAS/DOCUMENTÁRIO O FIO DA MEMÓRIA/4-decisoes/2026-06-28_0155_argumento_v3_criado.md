@@ -1,3 +1,8 @@
+---
+tema: 06 28 0155 argumento v3 criado
+atualizado_em: 2026-07-22
+---
+
 # Registro — argumento V3 criado
 
 Data: 2026-06-28 01:55 UTC

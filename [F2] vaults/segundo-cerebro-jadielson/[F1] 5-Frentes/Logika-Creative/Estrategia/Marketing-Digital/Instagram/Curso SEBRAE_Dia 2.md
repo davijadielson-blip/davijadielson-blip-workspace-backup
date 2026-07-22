@@ -1,3 +1,8 @@
+---
+tema: Curso SEBRAE Dia 2
+atualizado_em: 2026-07-22
+---
+
 Desempenho de frente as câmeras 
 1. Desconforto
 2. Medo - ansiedade, baixa auto estima…

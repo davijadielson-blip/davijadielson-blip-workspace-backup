@@ -1,3 +1,8 @@
+---
+tema: AVALIACAO SEMANAL
+atualizado_em: 2026-07-22
+---
+
 # Avaliação Semanal — Semana de {{date}}
 
 O que funcionou essa semana:

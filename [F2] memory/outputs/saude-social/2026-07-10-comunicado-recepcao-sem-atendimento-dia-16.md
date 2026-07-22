@@ -1,3 +1,8 @@
+---
+tema: 07 10 comunicado recepcao sem atendimento dia 16
+atualizado_em: 2026-07-22
+---
+
 # Briefing pendente — Divulgação: recepção da Secretaria sem atendimento no dia 16
 
 **Data do registro:** 2026-07-10 13:55 BRT  

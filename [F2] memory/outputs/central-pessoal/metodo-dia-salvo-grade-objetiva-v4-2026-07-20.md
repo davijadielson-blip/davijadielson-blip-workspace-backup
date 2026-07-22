@@ -1,3 +1,8 @@
+---
+tema: metodo dia salvo grade objetiva v4 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Método Dia Salvo — grade objetiva v4
 
 **Data:** 2026-07-20

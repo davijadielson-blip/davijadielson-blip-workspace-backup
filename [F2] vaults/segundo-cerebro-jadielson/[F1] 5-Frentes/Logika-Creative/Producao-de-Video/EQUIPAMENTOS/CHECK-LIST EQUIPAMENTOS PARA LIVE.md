@@ -1,3 +1,8 @@
+---
+tema: CHECK LIST EQUIPAMENTOS PARA LIVE
+atualizado_em: 2026-07-22
+---
+
 
 1. NOTEBOOK 
 

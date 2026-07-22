@@ -1,3 +1,8 @@
+---
+tema: 07 19 backlog inteligente ativacao topico
+atualizado_em: 2026-07-22
+---
+
 # Jack Lemley — Ativação do Backlog Inteligente no tópico
 
 **Data:** 2026-07-19 04:41 UTC  

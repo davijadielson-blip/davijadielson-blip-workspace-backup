@@ -1,3 +1,8 @@
+---
+tema: GOOGLE WORKSPACE
+atualizado_em: 2026-07-22
+---
+
 # GOOGLE_WORKSPACE.md — Acesso operacional da Clara/Jarvis
 
 Atualizado pela Lôh em 2026-06-05 UTC.

@@ -1,3 +1,8 @@
+---
+tema: persuasion principles
+atualizado_em: 2026-07-22
+---
+
 # Persuasion Principles for Skill Design
 
 ## Overview

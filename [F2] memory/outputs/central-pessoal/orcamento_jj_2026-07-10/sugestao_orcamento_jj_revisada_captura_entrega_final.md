@@ -1,3 +1,8 @@
+---
+tema: sugestao orcamento jj revisada captura entrega final
+atualizado_em: 2026-07-22
+---
+
 # Sugestão revisada — Orçamento Grupo JJ
 
 **Data:** 2026-07-10

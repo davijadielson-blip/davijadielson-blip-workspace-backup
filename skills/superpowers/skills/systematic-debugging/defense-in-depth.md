@@ -1,3 +1,8 @@
+---
+tema: defense in depth
+atualizado_em: 2026-07-22
+---
+
 # Defense-in-Depth Validation
 
 ## Overview

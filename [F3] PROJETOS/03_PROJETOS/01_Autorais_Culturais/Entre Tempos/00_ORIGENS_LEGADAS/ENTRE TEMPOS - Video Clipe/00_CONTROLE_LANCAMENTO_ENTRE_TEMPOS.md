@@ -1,3 +1,8 @@
+---
+tema: CONTROLE LANCAMENTO ENTRE TEMPOS
+atualizado_em: 2026-07-22
+---
+
 <!-- Exportado do Google Drive em 2026-06-28 -->
 
 ﻿# CONTROLE DE LANÇAMENTO — ENTRE TEMPOS

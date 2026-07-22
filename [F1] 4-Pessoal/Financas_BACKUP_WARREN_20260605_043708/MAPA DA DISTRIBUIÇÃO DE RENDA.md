@@ -1,3 +1,8 @@
+---
+tema: MAPA DA DISTRIBUIÇÃO DE RENDA
+atualizado_em: 2026-07-22
+---
+
 
 **1. DAS RECEITAS
 

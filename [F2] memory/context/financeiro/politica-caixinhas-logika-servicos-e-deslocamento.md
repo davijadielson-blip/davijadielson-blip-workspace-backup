@@ -1,3 +1,8 @@
+---
+tema: politica caixinhas logika servicos e deslocamento
+atualizado_em: 2026-07-22
+---
+
 # Política Financeira LÓGIKA — Estrutura da Conta PJ, Caixinhas e Deslocamento
 
 Data: 2026-07-12

@@ -1,3 +1,8 @@
+---
+tema: 07 21 demanda loh agentes dormindo
+atualizado_em: 2026-07-22
+---
+
 # Demanda: Agentes dormindo / economia de créditos OpenRouter
 
 **Data:** 2026-07-21

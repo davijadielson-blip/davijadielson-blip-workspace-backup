@@ -1,3 +1,8 @@
+---
+tema: ARQUITETURA AGENTES
+atualizado_em: 2026-07-22
+---
+
 # Arquitetura de Agentes — LÓGIKA + Central Pessoal
 
 > Reconstruído em 2026-06-04 por Lôh, a partir do debate anterior com Jadielson.  

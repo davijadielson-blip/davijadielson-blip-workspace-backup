@@ -1,3 +1,8 @@
+---
+tema: 07 08 drive pessoal migracao logika concluida
+atualizado_em: 2026-07-22
+---
+
 # Migração/cópia concluída — materiais empresariais do Drive pessoal para Drive LÓGIKA
 
 **Data:** 2026-07-08 02:58 UTC  

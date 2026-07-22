@@ -1,3 +1,8 @@
+---
+tema: padrao exemplos opt in
+atualizado_em: 2026-07-22
+---
+
 # Padrão de Design — Exemplos Opt-In
 
 > Como wizards do starter-kit oferecem templates de referência sem forçar.

@@ -1,3 +1,8 @@
+---
+tema: CLAUDE MD TESTING
+atualizado_em: 2026-07-22
+---
+
 # Testing CLAUDE.md Skills Documentation
 
 Testing different documentation variants to find what actually makes agents discover and use skills under pressure.

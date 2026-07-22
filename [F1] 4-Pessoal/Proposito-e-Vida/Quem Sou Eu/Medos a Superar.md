@@ -1,3 +1,8 @@
+---
+tema: Medos a Superar
+atualizado_em: 2026-07-22
+---
+
 - MEDO DE PERDER A ESTABILIDADE 
 - Medo de possuir um carro - temendo perder a humildade, fidelidade, leal, sensibilidade,
 - MEDO DE TER QUE SAIR DA CIDADE, ESTADO OU PAÍS - e ter que ficar longe das pessoas que amo.

@@ -1,3 +1,8 @@
+---
+tema: 06 09 sdd task scoped review dispatch
+atualizado_em: 2026-07-22
+---
+
 # SDD Task-Scoped Review Dispatch Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.

@@ -1,3 +1,8 @@
+---
+tema: PLAN
+atualizado_em: 2026-07-22
+---
+
 # Plano: Central LÓGIKA no Notion
 
 > Criado em 2026-06-04. Status: execução.

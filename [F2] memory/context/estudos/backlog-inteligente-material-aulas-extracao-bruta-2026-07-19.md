@@ -1,3 +1,8 @@
+---
+tema: backlog inteligente material aulas extracao bruta 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Material das aulas — extração bruta
 
 **Data da extração:** 2026-07-19

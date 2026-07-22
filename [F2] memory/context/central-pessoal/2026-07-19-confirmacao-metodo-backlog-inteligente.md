@@ -1,3 +1,8 @@
+---
+tema: 07 19 confirmacao metodo backlog inteligente
+atualizado_em: 2026-07-22
+---
+
 # Confirmação — Método Backlog Inteligente localizado
 
 **Data:** 2026-07-19 05:31 UTC  

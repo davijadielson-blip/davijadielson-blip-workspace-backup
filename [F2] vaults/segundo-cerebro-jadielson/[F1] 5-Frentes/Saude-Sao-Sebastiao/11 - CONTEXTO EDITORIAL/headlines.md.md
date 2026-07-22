@@ -1,3 +1,8 @@
+---
+tema: headlines.md
+atualizado_em: 2026-07-22
+---
+
 Construímos as **headlines da Secretaria de Saúde** com uma lógica bem clara: elas precisam funcionar como **porta de entrada do conteúdo**, principalmente nos **stories**, onde a pessoa decide em 1 segundo se vai prestar atenção ou pular.
 
 ## A base da construção

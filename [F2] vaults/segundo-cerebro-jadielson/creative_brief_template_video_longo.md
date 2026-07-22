@@ -1,3 +1,8 @@
+---
+tema: creative brief template video longo
+atualizado_em: 2026-07-22
+---
+
 
 # BRIEF CRIATIVO - Vídeo Longo (YouTube, Institucional, etc.)
 

@@ -1,3 +1,8 @@
+---
+tema: BASES
+atualizado_em: 2026-07-22
+---
+
 ![[BASE PADRÃO DE CTA PARA ROTEIROS SAÚDE.docx]]
 
 ![[BASE PADRÃO DE GANCHOS PARA ROTEIROS SAÚDE.docx]]

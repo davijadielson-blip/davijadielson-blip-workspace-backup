@@ -1,3 +1,8 @@
+---
+tema: 07 13 distribuicao pendencias piramide pg pd
+atualizado_em: 2026-07-22
+---
+
 # Distribuição das pendências na pirâmide PG/PD — Jadielson
 
 Data: 2026-07-13

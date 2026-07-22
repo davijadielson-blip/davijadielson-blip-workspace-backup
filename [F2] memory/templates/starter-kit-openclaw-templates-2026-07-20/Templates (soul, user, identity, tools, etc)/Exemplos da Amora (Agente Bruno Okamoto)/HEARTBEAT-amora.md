@@ -1,3 +1,8 @@
+---
+tema: HEARTBEAT amora
+atualizado_em: 2026-07-22
+---
+
 # HEARTBEAT-amora
 
 HEARTBEAT.md — Workspace da Amora

@@ -1,3 +1,8 @@
+---
+tema: DESPESAS FIXAS PESSOAIS
+atualizado_em: 2026-07-22
+---
+
 # Despesas Fixas Pessoais
 
 ## Essenciais

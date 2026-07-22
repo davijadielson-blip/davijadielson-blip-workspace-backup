@@ -1,3 +1,8 @@
+---
+tema: 07 20 snapshot crm logika v10
+atualizado_em: 2026-07-22
+---
+
 # Mission Control Web MVP v1.0 — Snapshot CRM Lógika no Cofre
 
 **Data:** 2026-07-20 01:28 UTC  

@@ -1,3 +1,8 @@
+---
+tema: README FINANCAS
+atualizado_em: 2026-07-22
+---
+
 # Finanças Pessoais — Índice Warren
 
 > Escopo: somente finanças pessoais de Jadielson. Câmara, SINDSS e LÓGIKA ficam fora daqui enquanto forem receitas/obrigações da empresa.

@@ -1,3 +1,8 @@
+---
+tema: INDICE
+atualizado_em: 2026-07-22
+---
+
 # Índice do Mini-Curso OpenClaw v2
 
 > Mapeia cada aula da Hotmart (31 aulas em 6 módulos) pro arquivo de material correspondente.

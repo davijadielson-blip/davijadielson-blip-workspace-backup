@@ -1,3 +1,8 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
 # 05_Bastidores
 
 ## Conteúdo encontrado

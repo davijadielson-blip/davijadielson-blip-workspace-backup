@@ -1,3 +1,8 @@
+---
+tema: mission control
+atualizado_em: 2026-07-22
+---
+
 # Mission Control v1
 
 ## Caminho do arquivo HTML

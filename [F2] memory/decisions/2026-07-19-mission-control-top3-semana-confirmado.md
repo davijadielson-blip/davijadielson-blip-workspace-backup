@@ -1,3 +1,8 @@
+---
+tema: 07 19 mission control top3 semana confirmado
+atualizado_em: 2026-07-22
+---
+
 # Decisão — Top 3 da Semana no Mission Control
 
 **Data:** 2026-07-19 23:37 UTC  

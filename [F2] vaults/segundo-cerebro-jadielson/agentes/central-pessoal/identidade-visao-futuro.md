@@ -1,3 +1,8 @@
+---
+tema: identidade visao futuro
+atualizado_em: 2026-07-22
+---
+
 # Identidade e Visão de Futuro
 
 - **Grupo:** Central Pessoal

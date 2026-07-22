@@ -1,3 +1,8 @@
+---
+tema: mission control xtiles v0 pronto para montar 2026 07 20
+atualizado_em: 2026-07-22
+---
+
 # Backlog Inteligente — Mission Control xTiles v0 — pronto para montar
 
 **Data:** 2026-07-20  

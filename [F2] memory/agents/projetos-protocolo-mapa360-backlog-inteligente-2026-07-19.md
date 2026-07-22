@@ -1,3 +1,8 @@
+---
+tema: projetos protocolo mapa360 backlog inteligente 2026 07 19
+atualizado_em: 2026-07-22
+---
+
 # PROTOCOLO PARA AGENTES DO GRUPO PROJETOS — Mapa 360 + Backlog Inteligente
 
 **Data:** 2026-07-19 05:18 UTC  

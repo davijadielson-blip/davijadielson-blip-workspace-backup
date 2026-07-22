@@ -1,3 +1,8 @@
+---
+tema: 07 19 mapa inicio ao fim projeto templates
+atualizado_em: 2026-07-22
+---
+
 # Mapa do início ao fim — Projeto Templates
 
 **Data:** 2026-07-19 04:19 UTC  

@@ -1,3 +1,8 @@
+---
+tema: auditoria workspace 2026 07 17 final
+atualizado_em: 2026-07-22
+---
+
 # Auditoria Final — 17/07/2026 ✅
 
 ## Resultado
