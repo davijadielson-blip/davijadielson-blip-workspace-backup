@@ -1,42 +1,55 @@
-# Obsidian
-.obsidian/workspace*
-.obsidian/cache/
-.obsidian/plugins/
-.obsidian/themes/
+# Workspace Cofre — regra: só .md no versionamento
+# Mídia, binários e formatos não-texto vão para o Google Drive
 
-# macOS
-.DS_Store
-._*
+# 🖼️ Imagens → Drive
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.ico
+*.bmp
+*.tiff
 
-# Logs de cron (não vão pro repo)
-scripts/cron-jobs/.logs/
+# 🎬 Vídeos/Áudio → Drive
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.aac
+*.m4a
 
-# Ambiente
-.env
+# 📦 Compactados → Drive
+*.zip
+*.tar
+*.gz
+*.bz2
+*.rar
+*.7z
+
+# 📊 Planilhas/docs → Drive
+*.xlsx
+*.xls
+*.doc
+*.docx
+*.pdf
+*.csv
+
+# 🧹 Temporários
 *.log
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.env
 
-# Temporários
-*.tmp
-*.bak
-scripts/.secrets/
-
-# Obsidian — arquivos sem título e lixeira
-.trash/
-Sem título*.canvas
-Sem título*.base
-
-# Obsidian — preferências de UI (não versionadas)
-.obsidian/hotkeys.json
-.obsidian/switcher.json
-
-# Python
-__pycache__/
-*.py[cod]
-tmp-*
-.github/workflows/
-# Symlinks sem colchetes (conveniência para agentes)
-/F0-Inbox
-/F2-memory
-/F2-agentes
-/F2-archive
-/F3-Projetos
+# 📁 Pastas com mídia grande
+edicao-bastidores/
+.kit-import/starter-kit-openclaw-v2.5.7/
