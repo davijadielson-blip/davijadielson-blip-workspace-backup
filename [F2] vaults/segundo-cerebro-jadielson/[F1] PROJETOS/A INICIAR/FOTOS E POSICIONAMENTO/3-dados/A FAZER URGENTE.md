@@ -1,8 +1,0 @@
----
-tema: A FAZER URGENTE
-atualizado_em: 2026-07-22
----
-
-
-- MINHAS FOTOS DE PERFIL
-- FOTOS MARIANO

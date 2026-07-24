@@ -6,5 +6,5 @@ atualizado_em: 2026-07-22
 
 | Cliente | Categoria    | Valor | Dia do Mês |
 | ------- | ------------ | ----- | :--------: |
-| Câmara  | SOCIAL MEDIA | 1200  |     20     |
+| Câmara  | SOCIAL MEDIA | 2100  |     23     |
 | SINDSS  | SOCIAL MEDIA | 500   |     10     |

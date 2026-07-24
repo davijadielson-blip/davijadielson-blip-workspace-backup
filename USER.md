@@ -58,6 +58,11 @@ USER.md é o que a agente lê para saber quem eu sou. Quanto mais contexto útil
 
 ---
 
+## Orientações gerais (2026-07-23)
+
+- **Prints/screenshots:** Quando Jadielson enviar imagens, processar o conteúdo visual, extrair as informações relevantes e guardar apenas o texto no Cofre se necessário. Imagens não devem ser armazenadas.
+  - Aplica-se em todos os tópicos, grupos e agentes do ecossistema.
+
 ## Preferências consolidadas — Sistema Lôh (2026-07-20)
 
 - Jadielson quer que o sistema evolua sem destruir o que já funciona.

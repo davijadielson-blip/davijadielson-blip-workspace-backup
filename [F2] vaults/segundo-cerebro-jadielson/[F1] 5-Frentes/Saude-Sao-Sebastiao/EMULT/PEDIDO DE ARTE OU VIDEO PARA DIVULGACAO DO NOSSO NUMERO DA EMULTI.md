@@ -1,5 +1,0 @@
----
-tema: PEDIDO DE ARTE OU VIDEO PARA DIVULGACAO DO NOSSO NUMERO D...
-atualizado_em: 2026-07-22
----
-

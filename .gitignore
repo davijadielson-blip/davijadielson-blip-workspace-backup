@@ -53,3 +53,9 @@ Thumbs.db
 # 📁 Pastas com mídia grande
 edicao-bastidores/
 .kit-import/starter-kit-openclaw-v2.5.7/
+# 🔐 Secrets → local-only, never push
+scripts/.secrets/
+.secrets/
+__pycache__/
+*.pyc
+BOOTSTRAP.md.concluido

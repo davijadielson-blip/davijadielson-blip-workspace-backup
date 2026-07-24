@@ -35,7 +35,10 @@ Todos os editais (atuais e futuros) serão armazenados nesta pasta. O agente dev
 - **Backup:** Jadielson pode também enviar links diretamente neste tópico Telegram
 
 ## Editais analisados
-_(preenchido automaticamente)_
+
+| Edital | Órgão | Prazo | Valor | Aderência | Status |
+|---|---|---|---|---|---|
+| FOMENTO 002/2026 — Ações Culturais PNAB | Porto Real do Colégio/AL | 29/07/2026 | R$ 47.927,22 (total) | 🟡 Média | ⏳ Aguardando confirmação_
 
 ## Padrão de salvamento
 `edital-NOME-DATA.md` em `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Editais Culturais/`
