@@ -279,6 +279,10 @@ Skills provide your tools. When you need one, check its `SKILL.md`. Keep local n
 
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 
+**🚫 Regra de execução de comandos:**
+
+O usuário (Jadielson) **não tem acesso ao terminal** do Docker container. Qualquer comando que precise ser executado no terminal (shell, scripts, CLI) DEVE ser executado pelo agente automaticamente via `exec`, sem pedir para o usuário rodar. Isso inclui: instalações, automações, scripts, consultas ao sistema de arquivos, git operations, e qualquer outra ação que dependa de linha de comando.
+
 **📝 Platform Formatting:**
 
 - **Discord/WhatsApp:** No markdown tables! Use bullet lists instead

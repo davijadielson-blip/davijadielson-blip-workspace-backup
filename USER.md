@@ -25,7 +25,7 @@ nao_usar_quando: regras operacionais (AGENTS.md) ou identidade do agente (SOUL.m
 
 Sou produtor de vídeos — filmmaker/videomaker — e produzo conteúdos para redes sociais, institucionais e comerciais.
 
-Tenho uma agência ainda no começo, com pouquíssimos clientes e sem processos bem definidos.
+Sou dono da **LÓGIKA - SOLUÇÕES DIGITAIS** (nome oficial da empresa), uma agência ainda no começo, com pouquíssimos clientes e sem processos bem definidos.
 
 Sou servidor público concursado municipal, mas quero seguir na área de marketing digital.
 

@@ -44,14 +44,15 @@ atualizado_em: 2026-07-22
 
 ---
 
-## Dívida Técnica — Prioridades Atuais
+## Dívida Técnica — Prioridades Atuais (atualizado 2026-07-24)
 
 | ID | Item | Prioridade | Status |
 |---|---|---|---|
-| DT-01 | `memory_search` falhando (embeddings API key 401) | 🔴 P0 | Pendente |
-| DT-02 | Busca semântica indisponível para agentes | 🔴 P0 | Pendente |
+| DT-01 | `memory_search` falhando (embeddings API key 401) | 🔴 P0 | Pendente — precisa diagnosticar chave no `.env` |
+| DT-02 | Busca semântica indisponível para agentes | 🔴 P0 | Pendente — mesma causa raiz DT-01 |
 | DT-05 | Reindexação de agentes no SQLite | 🟡 P1 | Aguarda DT-01 |
-| DT-06 | SLA WhatsApp não formalizado | 🟡 P1 | Pendente |
+| DT-06 | SLA WhatsApp não formalizado | 🟡 P1 | Pendente — tiers propostos aguardando aprovação de Jadielson |
+| DT-13 | Documentar fallbacks de modelo (Codex→DeepSeek→Gemini) | 🟢 P1 | Pendente — registrar em AGENTS.md |
 
 ---
 

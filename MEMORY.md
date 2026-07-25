@@ -439,6 +439,11 @@ Ação: CRO deve garantir que dados do CRM (notion) estejam consistentes com o q
 **Tópico:** 6 | **Sub-agent:** `agent:main:subagent:8a203b82-34a2-4b1f-977a-706895fb3e1c`
 **Função:** Secretária executiva - agendas, docs, lembretes, coordenação
 
+## 🔧 Suporte Técnico (NOVO - 2026-07-24)
+**Tópico:** 8200 | **Sub-agent:** `agent:cto:subagent:78449cf4-143f-4643-a70f-b1609560223a`
+**Criado por:** Jarvis, sob ordem de Jadielson Davi
+**Função:** Suporte técnico hands-on — software de edição (Premiere, After Effects, CapCut, DaVinci), exportação, codecs, hardware, troubleshooting
+
 ## 🧪 Laboratório / Testes
 **Tópico:** 14 | **Sub-agent:** `agent:main:subagent:e6e964f3-0350-4cb9-9257-7356f0b24cd4`
 **Função:** Testes, experimentos, sandbox operacional, PoCs
@@ -728,3 +733,39 @@ Em 18/07/2026, a extração diária verificou as sessões `.jsonl` do dia anteri
 - **Retorno do rate limit (20/07 tarde):** config de subagentes estava sumindo pós-restart do Gateway. Reaplicada e verificada: `model` + `runTimeoutSeconds=300` persistem agora. CCO rodou via OpenRouter DeepSeek: 3min45s, 97K tokens, curadoria Saúde concluída. Comprovado que fallback funciona quando Codex limita.
 
 📁 `[F2] memory/decisions/2026-07-20-politica-servico-mutuo-entre-agentes.md`
+
+---
+
+## 🖥️ Ambiente Técnico — Infraestrutura do Container
+
+**Consolidado do BOOTSTRAP.md original em 2026-07-24.**
+
+- **Hospedagem:** Hostinger Docker container
+- **Usuário:** non-root (comandos executados pelo agente, não pelo usuário)
+- **Homebrew:** Instalado e disponível no container
+- **Workspace raiz:** `/data/.openclaw/workspace/`
+- **Modelo de IA:** openai-codex/gpt-5.5 (Lôh). Possibilidade de troca de modelo via nexos.ai se configurado.
+
+### Regra de execução de comandos
+
+O usuário (Jadielson) **não tem acesso ao terminal** do Docker container. Comandos que precisam rodar no terminal DEVEM ser executados pelo agente automaticamente, sem solicitar que o usuário os execute. Ver também `AGENTS.md` seção de ferramentas.
+
+---
+
+## ✅ 2026-07-24 — Nome oficial da empresa redefinido
+
+**Decisão:** Jadielson definiu o nome oficial da empresa como **LÓGIKA - SOLUÇÕES DIGITAIS**.
+
+- **Nome anterior:** LÓGIKA CREATIVE (referências ainda existem em arquivos históricos, mas o nome oficial passa a ser o novo)
+- **Registrado em:** `USER.md` (seção "O que faço")
+- **Impacto:** Usar o novo nome em comunicações oficiais, briefings, propostas e identidade. Arquivos históricos com o nome antigo não precisam ser renomeados — apenas o nome ativo/vigente é o novo.
+
+## ✅ 2026-07-24 — Limpeza de BOOTSTRAP.md concluída
+
+**Ação:** Todos os 13 BOOTSTRAP.md foram removidos dos workspaces ativos e arquivados.
+
+- **Workspace principal:** `BOOTSTRAP.md` movido para `[F2] archive/backup-bootstrap/`
+- **12 workspaces paralelos:** BOOTSTRAP.md copiados para `[F2] archive/backup-bootstrap/paralelos/` e removidos dos diretórios originais
+- **GitHub backup:** Mantido (backup automático do repositório)
+- **Consolidação:** Informações úteis (ambiente técnico, regra de execução de comandos) já integradas em `MEMORY.md` e `AGENTS.md`
+- **Autorização extra (24/07):** Jadielson autorizou a remoção definitiva do archive do workspace principal. Pasta `[F2] archive/backup-bootstrap/` deletada. BOOTSTRAP.md só existe agora no backup do GitHub (`segundo-cerebro-jadielson`).

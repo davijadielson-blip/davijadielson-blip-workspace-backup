@@ -27,3 +27,16 @@ Jadielson reportou:
 ## Encaminhamento
 
 Demanda registrada no Cofre para Lôh. Pendente de ação.
+
+## ✅ Resolvido em 24/07/2026
+
+**O que foi feito:**
+1. Política de agentes dormentes definida e registrada como decisão permanente
+2. Agentes agora SÓ acordam quando requisitados por Jadielson, Lôh ou cron explícito
+3. Proibição de despertar em cadeia (agente A não desperta agente B sem passar pela Lôh)
+4. Modelo primário corrigido para `openai-codex/gpt-5.5` — OpenRouter só como fallback
+
+**Arquivos registrados:**
+- `[F2] memory/decisions/2026-07-24-decisoes.md` — decisões do dia
+
+**Fonte:** Jadielson Davi (24/07/2026, 20:29 UTC, áudio no Telegram)
