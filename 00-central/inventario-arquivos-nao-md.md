@@ -1,0 +1,258 @@
+---
+tema: inventário de arquivos não markdown no Cofre
+conteudo: lista de arquivos não-.md encontrados para decisão de destino seguro, sem expor conteúdo
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: governança do Cofre
+cliente: Jadielson Davi
+tipo: inventário
+prioridade: alta
+atualizado_em: 2026-07-26
+usar_quando: decidir destino de arquivos binários, técnicos ou sensíveis fora do padrão markdown
+nao_usar_quando: abrir ou expor conteúdo sensível; este arquivo lista caminhos apenas
+---
+
+# Inventário de arquivos não-.md
+
+Total identificado: 239
+
+> Regra: não apagar. Classificar destino antes de mover. Segredos como `.env` ou `.secrets` não devem ser expostos.
+
+- `BOOTSTRAP.md.concluido`
+- `.env`
+- `.gitignore`
+- `Dockerfile`
+- `[F2]`
+- `mission-control.html`
+- `mission-control-projects.png`
+- `mission-control-report.png`
+- `mission-control-agents.html`
+- `mc-tasks.html`
+- `mc-alerts.html`
+- `cockpit.html`
+- `mission-control-preview.png`
+- `mission-control-agents.png`
+- `mission-control-tasks.html`
+- `mission-control-alerts.html`
+- `mc-projects.html`
+- `mc-report.html`
+- `RELATORIO_ENTREGA_FINAL_ENTRE_TEMPOS.docx`
+- `tmp_append_pneu.py`
+- `mission-control-tasks.png`
+- `mission-control-alerts.png`
+- `mission-control-projects.html`
+- `mission-control-report.html`
+- `mc-agents.html`
+- `mc-overview.html`
+- `[F1]`
+- `cockpit-estudos.html`
+- `.claude/settings.json`
+- `[F2] memory/heartbeat-state.json`
+- `scripts/backup-workspace-github.sh`
+- `scripts/finalizar-drive-readonly-clara.sh`
+- `scripts/sync-segundo-cerebro.sh`
+- `scripts/backup-github.sh`
+- `scripts/brain-boot.sh`
+- `scripts/restore-test.sh`
+- `scripts/save-agent-deltas.sh`
+- `scripts/transcrever.sh`
+- `scripts/reorganizar-workspace.sh`
+- `scripts/backup-github-if-changed.sh`
+- `scripts/gog-auth.sh`
+- `scripts/miro.py`
+- `scripts/gerar-mission-control.py`
+- `scripts/servir-mission-control.sh`
+- `.openclaw/workspace-state.json`
+- `ops/verify-agents-config.sh`
+- `ops/openclaw-agents-definitive.patch.json`
+- `ops/verify-c-level-agents.sh`
+- `.venv-sync/.gitignore`
+- `.venv-sync/pyvenv.cfg`
+- `.codex/hooks.json`
+- `.obsidian/app (2).json`
+- `.obsidian/app-SERVICE’s MacBook Pro.json`
+- `.obsidian/app.json`
+- `.obsidian/appearance (2).json`
+- `.obsidian/appearance.json`
+- `.obsidian/bookmarks.json`
+- `.obsidian/community-plugins.json`
+- `.obsidian/core-plugins (2).json`
+- `.obsidian/core-plugins-migration.json`
+- `.obsidian/core-plugins.json`
+- `.obsidian/daily-notes (2).json`
+- `.obsidian/daily-notes.json`
+- `.obsidian/graph.json`
+- `.obsidian/page-preview.json`
+- `.obsidian/templates.json`
+- `.obsidian/text-generator.json`
+- `.obsidian/types.json`
+- `[F2] agentes/logika-c-level-squad/arvore-logika-ascii-v2-ativo.txt`
+- `[F2] agentes/logika-c-level-squad/arvore-logika-ascii-v3-8clevel.txt`
+- `[F2] agentes/logika-c-level-squad/arvore-logika-ascii.txt`
+- `[F2] agentes/logika-c-level-squad/arvore-logika-final-isolada.txt`
+- `.codex/agents/alem-da-foto.toml`
+- `.codex/agents/bibliotecaria.toml`
+- `.codex/agents/camara.toml`
+- `.codex/agents/logika.toml`
+- `.codex/agents/rogerio.toml`
+- `.codex/agents/saude.toml`
+- `.codex/agents/vereadores.toml`
+- `.codex/hooks/post-write.sh`
+- `.codex/hooks/prompt-guard.sh`
+- `.codex/hooks/session-log.sh`
+- `.codex/hooks/session-start.sh`
+- `[F3] PROJETOS/MEDITACAO_1_PRODUTO/01_MATERIAIS/MANUAL-REPROGRAMACAO-MENTAL-PARTE01.txt`
+- `[F3] PROJETOS/MEDITACAO_1_PRODUTO/01_MATERIAIS/MANUAL-REPROGRAMACAO-MENTAL-PARTE02.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Entre Tempos/00_ORIGENS_LEGADAS/ENTRE TEMPOS - Video Clipe/04_Divulgacao/03_ESTRATEGIA_E_SCRIPTS_ENTRE_TEMPOS_2026-06-28.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/audit_downloads/LINKS_DOCS_REFERENCIAS.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/audit_downloads/A_PROPOSTA_APROVADA_TXT.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/audit_downloads/O_FIO_DA_MEMORIA_PROPOSTA.extracted.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/audit_downloads/CRONOGRAMA_DE_EXECUCAO.extracted.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/audit_downloads/CHECKLIST_EXECUCAO_SEGURA.extracted.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/audit_downloads/TERMO_AUTORIZACAO_IMAGEM.extracted.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/audit_downloads/MAPEAMENTO_E_CURADORIA_DAS_PERSONAGENS.extracted.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/drive_inventarios/inventario_pasta_pesquisa_drive.json`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/3-dados/downloads_drive_pesquisa/A_terra_das_rendas_de_Bilro_-_tradicao_artesanato_economia_e_cultura_em_Sao_Sebastiao-AL-DISSERTACAO-ROBSON_DOS_SANTOS_A`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/2-pesquisas/audit_downloads/pesquisa_txt/resumao_pesquisa_campo.txt`
+- `[F3] PROJETOS/03_PROJETOS/01_Autorais_Culturais/Documentário O Fio da Memória/00_ORIGENS_LEGADAS/DOCUMENTÁRIO O FIO DA MEMÓRIA/2-pesquisas/audit_downloads/pesquisa_txt/cadastro_artesaos_2025.txt`
+- `[F3] PROJETOS/_templates/projeto-completo/1-briefing.md.template`
+- `[F3] PROJETOS/_templates/projeto-completo/README.md.template`
+- `[F3] PROJETOS/_templates/projeto-completo/proximas-etapas.md.template`
+- `[F3] PROJETOS/_templates/projeto-leve/README.md.template`
+- `[F3] PROJETOS/_templates/proposito/README.md.template`
+- `[F3] PROJETOS/_templates/proposito/plano.md.template`
+- `.venv-sync/bin/python3`
+- `.venv-sync/bin/python`
+- `.venv-sync/bin/python3.13`
+- `memory/databases/notion-calendar-mapping.json`
+- `memory/databases/notion-calendar-mapping.bak.json`
+- `memory/databases/notion-calendar-mapping.json.bak.2026-07-16`
+- `memory/config-snapshots/model-priority-2026-06-26.json`
+- `memory/config-snapshots/model-priority-final-2026-06-26.json`
+- `memory/config-snapshots/agents-model-priority-final-sem-pendencias-2026-06-26.json`
+- `memory/config-snapshots/openclaw-config-canonical-agents-2026-06-26.json`
+- `memory/decisoes/guard-c-level-check.log`
+- `memory/.dreams/short-term-recall.json`
+- `memory/.dreams/events.jsonl`
+- `memory/logs/cron-checks.log`
+- `skills/starter/wizard-conectar/screenshots/github-pat/01-avatar-settings.png`
+- `skills/starter/wizard-conectar/screenshots/github-pat/02-developer-settings.png`
+- `skills/starter/wizard-conectar/screenshots/github-pat/03-tokens-classic.png`
+- `skills/starter/wizard-conectar/screenshots/github-pat/04-generate-classic.png`
+- `skills/starter/wizard-autonomia/screenshots/painel-hostinger-cli.jpg`
+- `scripts/.secrets/notion.env`
+- `scripts/.secrets/google-calendar-credentials.json`
+- `scripts/.secrets/gog-keyring-password`
+- `scripts/.secrets/financeiro_criar_planilha.py`
+- `scripts/.secrets/google-sheets-token.json`
+- `scripts/.secrets/google-calendar-token.token.bak`
+- `scripts/.secrets/google-calendar-token.json`
+- `scripts/.secrets/google-calendar-token.json.new`
+- `scripts/cloud/railway-start.py`
+- `scripts/cloud/railway-start.sh`
+- `scripts/cockpit/cockpit-generator.py`
+- `scripts/cockpit/cockpit-server.py`
+- `scripts/cockpit/estudos-generator.py`
+- `scripts/cockpit/generate-cockpit-estudos.sh`
+- `scripts/cockpit/generate-cockpit.sh`
+- `scripts/cockpit/serve-cockpit.sh`
+- `scripts/cron-jobs/daily-brief.sh`
+- `scripts/cron-jobs/end-of-day-reminder.sh`
+- `scripts/cron-jobs/friday-maintenance.sh`
+- `scripts/cron-jobs/midday-reminder.sh`
+- `scripts/cron-jobs/monthly-archive.sh`
+- `scripts/cron-jobs/saturday-planning.sh`
+- `scripts/cron-jobs/telegram-polling.sh`
+- `scripts/cron-jobs/weekly-projects-summary.sh`
+- `scripts/lib/claude-gerar.py`
+- `scripts/lib/get-calendar-events.py`
+- `scripts/lib/organize-gmail.py`
+- `scripts/lib/parse-captura.py`
+- `scripts/lib/send-email.sh`
+- `scripts/lib/send-telegram.sh`
+- `scripts/lib/state-manager.py`
+- `scripts/lib/telegram-commands.py`
+- `scripts/lib/telegram-router.py`
+- `scripts/lib/time-blocking.py`
+- `scripts/lib/weekly-projects-summary.py`
+- `scripts/setup/google-calendar-auth.py`
+- `scripts/state/telegram-state.json`
+- `scripts/sync/notion-to-calendar.py`
+- `scripts/sync/reauth-google.py`
+- `scripts/sync/reauth-google-v2.py`
+- `scripts/health/ensure-tavily.sh`
+- `scripts/health/ensure-integrations.sh`
+- `scripts/notion/update-saude-calendario-v2.py`
+- `scripts/notion/fix-visible-saude-calendario-v2.py`
+- `scripts/notion/update-saude-calendario-julho-2026-a-partir-08.py`
+- `scripts/notion/append-full-scripts-saude-julho-2026.py`
+- `scripts/notion/update-saude-calendario-julho-2026-a-partir-17-regras-captacao.py`
+- `scripts/notion/clean-rewrite-saude-calendario-julho-2026-a-partir-17.py`
+- `scripts/patches/my-finance-topic-2026-06-05.json`
+- `scripts/patches/warren-reapply-2026-06-05.json5`
+- `scripts/notion/configs/notion-logika-all-databases-search.json`
+- `scripts/notion/configs/notion-logika-archive-old-inbox.json`
+- `scripts/notion/configs/notion-logika-archive-results.json`
+- `scripts/notion/configs/notion-logika-archive-targets.json`
+- `scripts/notion/configs/notion-logika-archive-verify.json`
+- `scripts/notion/configs/notion-logika-central-v03-update.json`
+- `scripts/notion/configs/notion-logika-central-v04-inbox.json`
+- `scripts/notion/configs/notion-logika-central-v05-new-inbox.json`
+- `scripts/notion/configs/notion-logika-central-v06-views-test.json`
+- `scripts/notion/configs/notion-logika-cleanup-action-list.json`
+- `scripts/notion/configs/notion-logika-created-page.json`
+- `scripts/notion/configs/notion-logika-created-views.json`
+- `scripts/notion/configs/notion-logika-expanded-audit.json`
+- `scripts/notion/configs/notion-logika-expanded-classification.json`
+- `scripts/notion/configs/notion-logika-full-audit.json`
+- `scripts/notion/configs/notion-logika-full-classification.json`
+- `scripts/notion/configs/notion-logika-inbox-test-items.json`
+- `scripts/notion/configs/notion-logika-inbox-test-query.json`
+- `scripts/notion/configs/notion-logika-inventory.json`
+- `scripts/notion/configs/notion-logika-link-origem.json`
+- `scripts/notion/configs/notion-logika-master-db.json`
+- `scripts/notion/configs/notion-logika-migration-candidates.json`
+- `scripts/notion/configs/notion-logika-migration-sample-created.json`
+- `scripts/notion/configs/notion-logika-migration-sample-verify.json`
+- `scripts/notion/configs/notion-logika-new-inbox.json`
+- `scripts/notion/configs/notion-logika-reserved-prompt-children.json`
+- `scripts/notion/configs/notion-logika-reserved-prompt-dbs.json`
+- `scripts/notion/configs/notion-logika-schema-adjust-attempt.json`
+- `scripts/notion/configs/notion-logika-schema-adjust-result.json`
+- `scripts/notion/configs/notion-logika-schema-current.json`
+- `scripts/notion/configs/notion-logika-schema-status-delete.json`
+- `scripts/notion/configs/notion-logika-tipo-conteudo.json`
+- `scripts/notion/configs/notion-logika-v02-page.json`
+- `scripts/notion/configs/notion-prompts-raw-extract.json`
+- `scripts/lib/.backup/parse-captura.py.bak-2026-05-17`
+- `scripts/cron-jobs/.backup/telegram-polling.sh.bak-2026-05-17`
+- `scripts/cron-jobs/.backup/telegram-polling.sh.bak-2026-05-18`
+- `[F2] memory/inbox-externa/financeiro/tmp/recargapay_escola_eloah.jpg`
+- `[F2] memory/inbox-externa/financeiro/empresa/2026/07-Julho/02-Boletos-a-pagar/2026-07-18__BOLETO-HOTMART-EBANX__curso-capacitacao__R-112-34__vence-2026-07-23__PENDENTE.pdf`
+- `.claude/hooks/post-write.sh`
+- `.claude/hooks/prompt-guard.sh`
+- `.claude/hooks/session-log.sh`
+- `.claude/hooks/session-start.sh`
+- `[F2] archive/starter-kit-zips/starter-kit-openclaw-v2.5.7-2026-06-04.zip`
+- `[F2] archive/_curso/aulas/aula-00-visao-stack.html`
+- `[F2] archive/_curso/aulas/aula-01-cases-3-agentes.html`
+- `[F2] archive/_curso/aulas/aula-01-setup-managed.html`
+- `[F2] archive/_curso/aulas/aula-02-cockpit.html`
+- `[F2] archive/_curso/aulas/aula-03-starter-kit.html`
+- `[F2] archive/_curso/aulas/aula-04-telegram.html`
+- `[F2] archive/_curso/aulas/aula-05-identidade.html`
+- `[F2] archive/_curso/aulas/aula-06-workspace.html`
+- `[F2] archive/_curso/aulas/aula-07-memoria.html`
+- `[F2] archive/_curso/aulas/aula-08-skills.html`
+- `[F2] archive/_curso/aulas/aula-09-crons.html`
+- `[F2] archive/_curso/aulas/aula-10-seguranca.html`
+- `[F2] archive/_curso/aulas/aula-11-outros-canais.html`
+- `[F2] archive/_curso/aulas/aula-12-integracoes.html`
+- `[F2] archive/_curso/aulas/aula-13-multi-agente.html`
+- `[F2] archive/_curso/aulas/aula-14-mission-control.html`
+- `[F2] archive/_curso/aulas/aula-15-fechamento.html`
+- `[F2] archive/_curso/aulas/_shared/footer.html`
+- `[F2] archive/_curso/aulas/_shared/template.html`
+- `[F2] archive/_curso/aulas/_shared/tokens.css`
+- `[F2] archive/starter-kit-onboarding-2026-05-31/templates/template-material-didatico.html`
+- `[F2] archive/starter-kit-onboarding-2026-05-31/templates/template-report-executivo.html`
+- `[F2] archive/starter-kit-onboarding-2026-05-31/templates/template-report.html`

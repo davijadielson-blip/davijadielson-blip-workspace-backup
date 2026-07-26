@@ -1,3 +1,16 @@
+---
+tema: preferências operacionais e pessoais
+conteudo: preferências registradas para comportamento, comunicação e continuidade
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: governança, operações e conteúdo
+cliente: Jadielson Davi
+tipo: preferências
+prioridade: média
+atualizado_em: 2026-07-26
+usar_quando: consultar histórico ou contexto relacionado a preferências operacionais e pessoais
+nao_usar_quando: substituir decisões finais em 00-central/decisoes.md
+---
+
 # Preferências Comportamentais
 
 ## 🧑‍💼 Relação com Jadielson Davi

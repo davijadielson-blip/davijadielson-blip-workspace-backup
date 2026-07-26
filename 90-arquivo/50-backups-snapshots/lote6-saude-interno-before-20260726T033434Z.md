@@ -1,0 +1,729 @@
+---
+tema: snapshot antes do lote 6 Saúde São Sebastião
+conteudo: inventário textual antes da organização interna e renomeações controladas
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: clientes e governança do Cofre
+cliente: Saúde São Sebastião
+tipo: snapshot textual
+prioridade: alta
+atualizado_em: 2026-07-26
+usar_quando: auditar ou desfazer lote 6 da frente Saúde São Sebastião
+nao_usar_quando: substituir backup integral
+---
+
+# Snapshot lote 6 — 20260726T033434Z
+
+- Arquivos: 555
+- Pastas: 156
+
+- d `50-clientes/10-saude-sao-sebastiao/00-indice`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/00-moc`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/00-moc/00-mapa-operacional-saude.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/00-moc/01-atualizacao-calendario-2026-07-21.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/00-moc/02-decisao-padrao-headlines-2026-07-21.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/00-moc/03-decisao-templates-reels-2026-07-21.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/01-matrizes`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/01-matrizes/matriz-competencias-por-setor.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/01-matrizes/matriz-setores-pilares-fontes.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/01-matrizes/matriz-unificacao-frente-saude.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/02-estrutura`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/02-estrutura/psfs-territorios`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/02-estrutura/psfs-territorios/psfs-visao-operacional.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/02-estrutura/setores-complementares`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/02-estrutura/setores-complementares/recepcao-regulacao-marcacao-exames.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/02-estrutura/setores-complementares/setores-complementares-visao-completa.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/02-estrutura/unidades-ubs-postinhos`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/02-estrutura/unidades-ubs-postinhos/ubs-postinhos-visao-operacional.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/03-editorial`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/03-editorial/2026-07-20-estrategia-producao-conteudo-saude-matriz-rotacao.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/03-editorial/estrategia-v2-completa-mix-funil-evergreen-metricas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/03-editorial/estrategia-v3-completa-feed-stories-lives.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/03-editorial/grade-6-semanas-27-07-a-06-09-2026.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/03-editorial/guia-consulta-rapida-pautas-saude.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/03-editorial/referencias-comprovadas-benchmarks-2025-2026.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/03-editorial/semana-1-completa-cenas-textos.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/04-auditorias`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/04-auditorias/resumo-auditorias-e-achados.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/README.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/README.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/README.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/README.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/README.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/README.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/README.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/servicos-e-competencias.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/conteudo-f1-incorporado.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/ficha-operacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/fontes-f1-incorporadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/ideias-de-conteudo.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/lacunas-a-confirmar.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/servicos-e-competencias.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/05-ambientes-operacionais/README.md`
+- d `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/99-fontes-e-regras`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/99-fontes-e-regras/decisoes-operacionais-2026-07-20.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/99-fontes-e-regras/fontes-f1-principais.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/README.md`
+- f `50-clientes/10-saude-sao-sebastiao/10-contexto/memoria-operacional-f2/_ORIGEM_MIGRACAO.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/00 - Painel.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/00 - Saúde São Sebastião - MOC.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/00 - Estrutura - MOC.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/00 - PSFs - MOC.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Indígenas`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Indígenas/PSF Karapotó Plak-Ô.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Indígenas/PSF Karapotó Terra Nova.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/PSF Brejinho II.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/UBS Belisca Pau.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/UBS Brejinho.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/PSF Cana Brava.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/UBS Cana Brava.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/UBS Mata.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/PSF Curralinho.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Curralinho.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Tapera.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Terra Nova.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Flexeira`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Flexeira/PSF Flexeira.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Flexeira/UBS Flexeiras.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/PSF Gado Bravo.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/UBS Gado Bravo.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/UBS Porteiras.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/PSF Grotão.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Estrada Nova.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Grotão.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Malhada da Onça.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/PSF Lagoa Seca.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/UBS Lagoa Seca.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/UBS Limoeirinho.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/PSF Maracujá.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Gongo.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Maracujá.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Prata.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/PSF Pedra Preta.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/UBS Capim Branco.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/UBS Pedra Preta.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/PSF Sapé.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/UBS Sapé.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/UBS Tabuleiro.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Centro Mestra Clarice`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Centro Mestra Clarice/PSF Centro Mestra Clarice.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Centro Mestra Clarice/UBS Centro Mestra Clarice.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Cruzeiro`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Cruzeiro/PSF Cruzeiro.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Cruzeiro/UBS Cruzeiro.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Peroba`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Peroba/PSF Peroba.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Peroba/UBS Peroba.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Rancho Alegre`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Rancho Alegre/PSF Rancho Alegre.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/Rancho Alegre/UBS Rancho Alegre.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/São José`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/São José/PSF São José.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/PSFs/Zona Urbana/São José/UBS São José.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/00 - Setores Complementares - MOC.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Academia de Saúde`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Academia de Saúde/Academia de Saúde.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Assistência Social`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Assistência Social/Assistência Social.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Atenção Básica`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Atenção Básica/Atenção Básica.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/CAPS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/CAPS/CAPS.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/CEO`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/CEO/CEO.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/EMULTI`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/EMULTI/CRONOGRAMAS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/EMULTI/CRONOGRAMAS/Cronograma-eMulti.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/EMULTI/EMULTI.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Endemias`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Endemias/Endemias.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Espaço Cuidar`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Espaço Cuidar/Espaço Cuidar.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Farmácia`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Farmácia/Farmácia.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Laboratório Municipal`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Laboratório Municipal/Laboratório Municipal.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Maternidade Municipal`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Maternidade Municipal/Maternidade Municipal.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Melhor em Casa`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Melhor em Casa/Melhor em Casa.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Odontomóvel`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Odontomóvel/Odontomóvel.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Oftalmologia`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Oftalmologia/Oftalmologia.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/PNI`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/PNI/PNI.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/SAMU`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/SAMU/SAMU.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Saúde Bucal`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Saúde Bucal/Saúde Bucal.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Secretaria`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Secretaria/Secretaria.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Unidade Mista`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Unidade Mista/Unidade Mista.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Vigilância Sanitária`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/Setores Complementares/Vigilância Sanitária/Vigilância Sanitária.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/UBSs`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/UBSs/00 - UBSs - MOC.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/UBSs/Distrito I.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/UBSs/Distrito II.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/UBSs/Distrito III.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/UBSs/Distrito IV.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Estrutura Organizacional/UBSs/Subsetores.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Perfil`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Perfil/Desafios e Prioridades.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Perfil/Equipe de Gestão.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Perfil/Público e Território.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/01 - Perfil/Rede e Referências.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/02 - Atendimento e População`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/02 - Atendimento e População/Cobertura e Abrangência.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/02 - Atendimento e População/Grupos Prioritários.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/02 - Atendimento e População/Público-Alvo.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Desafios e Prioridades`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Desafios e Prioridades/Principais Desafios.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Desafios e Prioridades/Prioridades de Gestão.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Banco de Ideias.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Calendário de Saúde.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Campanhas`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Campanhas/Outubro Rosa 2025.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/Calendário Editorial - Matriz 360 - SAÚDE.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/Julho 2026 - Calendário Editorial COMPLETO.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/Julho 2026 - Calendário Editorial V2 - Pilares Rígidos.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/Julho 2026 - Calendário Editorial.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/Março 2025.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/pauta-2026-07-21-terca-especializados.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/pauta-2026-07-22-quarta-vigilancia.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/pauta-2026-07-23-quinta-rede-apoio.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/pauta-2026-07-24-sexta-urgencia-bastidores.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Cronogramas/templates-roteiro-reels-saude.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Itinerário de Captação.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Legendas-APROVADAS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Legendas-APROVADAS/2026-07-22-vigilancia-sanitaria-coleta-aguas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Legendas-APROVADAS/2026-07-24-ubs-centro-multivacinacao-trabalhador.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/MARÇO 2025 - Calendário de Capturas.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Pautas Diarias`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Pautas Diarias/2026-07-14 - Pauta do dia - Servicos Especializados.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/03 - Pauta e Conteúdo/Templates`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/04 - Rede e Referências`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/04 - Rede e Referências/Referência Hospitalar.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/04 - Rede e Referências/Regional de Saúde.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/04 - Rede e Referências/SAMU.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/05 - Participação Social`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/05 - Participação Social/Conselho Municipal de Saúde.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/05 - Participação Social/Parcerias Institucionais.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS/IDEIAS PARA CRIAÇÃO DE CONTEÚDOS.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS/MAPA MENTAL SAÚDE.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS/MONTAR TEMPLATE DE STORIES E VIDEOS PARA A SAUDE.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS/PUBLICAÇÕES.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS/ROTEIROS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS/ROTEIROS/BASES.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS/SETORES SECRETARIA DE SAÚDE.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/11 - CONTEXTO EDITORIAL`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/11 - CONTEXTO EDITORIAL/formatos-e-padroes.md.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/11 - CONTEXTO EDITORIAL/guia-projeto-mestre-canetas-insulina.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/11 - CONTEXTO EDITORIAL/headlines.md.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/11 - CONTEXTO EDITORIAL/legendas.md.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/11 - CONTEXTO EDITORIAL/rota-producao-stories-saude-junho-2026.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/11 - CONTEXTO EDITORIAL/roteiros.md.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/11 - CONTEXTO EDITORIAL/tom-e-voz.md.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/12 - BANCO DE REFERENCIAS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/12 - BANCO DE REFERENCIAS/00 - GUIA CONDENSADO.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/12 - BANCO DE REFERENCIAS/Melhores Headlines.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/12 - BANCO DE REFERENCIAS/Melhores Legendas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/12 - BANCO DE REFERENCIAS/Padrões que Emergiram.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/13 - Social Media`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/13 - Social Media/2026-07-23-capacitacao-comportamental-caps.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/13 - Social Media/_PADRAO-APROVACAO.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Ficha Resumo.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Dados`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Gestão`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Gestão/Almoxarifado.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Gestão/CPD.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Gestão/Epidemiologia.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Gestão/Gabinete do Secretário.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Gestão/Procuradoria.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Gestão/Recursos Humanos.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/99 - Referência Interna/Mídias`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ANIVERSARIANTES`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ANIVERSARIANTES/COORDENADORES E SECRETÁRIOS.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ASCOM`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ASCOM/Reunião.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ATENÇÃO BÁSICA`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ATENÇÃO BÁSICA/Divulgações EAPs - Atendimento à noite.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ATENÇÃO BÁSICA/UBSs.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/Acolhimento em crise.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/Atendimento em grupo.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/Atendimento individual.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/Atendimento à família.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/Atividades comunitárias.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/BUSCA ATIVA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/ENFERMAGEM.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/EVENTOS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/EVENTOS/FESTAS JUNINAS CAPS.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/Equipe.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/FARMACIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/FESTAS JUNINAS CAPS.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/Oficinas terapêuticas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/PSIQUIATRIA,.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CAPS/Visitas domiciliares.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CEO`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CEO/Atendimento a pacientes com necessidades especiais.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CEO/Cirurgia oral menor.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CEO/DIAGNÓSTICO BUCAL.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CEO/ENDONDOTIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/CEO/Periodontia especializada.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/ENFERMAGEM.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/Enfermeiro.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/Farmacêutico.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/Fisioterapeuta.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/Fonoaudiólogo.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/GINECOLOGIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/MÉDICO.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/NOVO NUMERO DA EMULTI.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/NUTRICAO.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/PEDIATRIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/PEDIDO DE ARTE OU VIDEO PARA DIVULGACAO DO NOSSO NUMERO DA EMULTI.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/PSICOLOGIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/SERVICO SOCIAL.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/Terapeuta Ocupacional.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EMULT/Técnico de Enfermagem X.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ENDEMIAS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ENDEMIAS/Dengue.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ENDEMIAS/Educação.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ENDEMIAS/Esquistossomose.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/EQUIPE DE GESTÃO.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/CARDIOLOGIA (2).md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/CARDIOLOGIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/CIRURGIA GERAL (2).md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/CIRURGIA GERAL.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/ELETROCARDIOGRAMA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/GINECOLOGIA (2).md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/GINECOLOGIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/NEUROLOGIA (2).md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/NEUROLOGIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PEDIATRIA (2).md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PEDIATRIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PSICOLOGIA (2).md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PSICOLOGIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PSIQUIATRIA (2).md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PSIQUIATRIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/ULTRASSOM.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/ULTRASSONOGRAFIA.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/GERAL`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/GERAL/COLHIDO DA DRA. ARLETE.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/GRADE DE GESTÃO.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Hospital , Pronto Atendimento`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Hospital , Pronto Atendimento/UNIDADE DE URGENCIA - SERVIÇO MÓVEL MUNICIPAL.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Hospital , Pronto Atendimento/Viatura do Município.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/LABORATÓRIO`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/LABORATÓRIO/DADOS.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Análise de indicadores.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Aplicação das vacinas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Ações educativas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Capacitação contínua das equipes.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Combate à hesitação vacina l e fake news.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Controle de estoque.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Divulgação de campanhas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Manutenção da rede de frio.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Manutenção de altas coberturas vacinais.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Monitoramento de coberturas vacinais.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Recebimento e distribuição de imunobiológicos.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Registro de doses aplicadas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/VACINAS.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Vacinação extramural.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Vigilância de eventos adversos.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE/Análise preventiva.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE/Assessoria em comissões e conselhos.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE/Assessoria às licitações.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE/Competências.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE/Elaboração de notas técnicas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE/Emissão de pareceres.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE/Orientação normativa.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PROCURADORIA SAÚDE/Participação em reuniões estratégicas.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PSF - PROGRAMA SAUDE DA FAMILIA`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/PSF - PROGRAMA SAUDE DA FAMILIA/SETORES NAS UBS.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteudo`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteudo/Producao 2026`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteudo/Producao 2026/demo-template-universal-saude.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/CONTEXTUALIZAÇÃO DE TODA A SECRETARIA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/CRIAR CALENDÁRIO EDITORIAL.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/EMAIL E CONTATOS.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/FOTOS DE MAE E BEBE NA CASA MATERNAL.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/IR A SECRETARIA DE SAÚDE - COLETAS DE INFORMACOES E PLANEJAMENTOS.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/Produção 2026`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/Produção 2026/guia-projeto-mestre-canetas-insulina.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/Produção 2026/rota-producao-stories-saude-junho-2026.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/Produção 2026/roteiro-canetas-insulina-serrapovoado.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/Produção 2026/stories-17-junho-2026.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/Produção 2026/templates-reels-saude.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/VIDEO DA VITÓRIA SOBRE O PROJETO RESPIRAR.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Projetos de Conteúdo/Vídeo da Vitória Projeto Respirar.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECEPÇÃO`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECEPÇÃO/REALIZA.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Avaliação de desempenho.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Concessão de benefícios.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Controle de frequência.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Cursos e capacitações.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Elaboração de atos administrativos.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Esclarecimentos e Conscientizações de Direitos e Vantagens do Servidor.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Folha de pagamento.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Gestão de documentação funcional.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Gestão do conhecimento.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Gestão por competências.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Levantamento de necessidades de treinamento.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Licenças médicas, capacitações, cedências,.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Plano anual de capacitação.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Planos de desenvolvimento individual.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/RECURSOS HUMANOS/Progressão funcional.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAMU`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAMU/Almoxarifado.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAMU/Ambulâncias.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAMU/Central de comunicação.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAMU/Cozinha - copa.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAMU/Sala de repouso, alojamento.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAMU/Área de estacionamento coberta.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Atendimento de urgências odontológicas.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Atividades coletivas de promoção e prevenção.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Ações de vigilância em saúde  bucal.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Divulgações.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Exodontias simples.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Primeira consulta odontológica programática.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Procedimentos clínicos preventivos.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Procedimentos restauradores  básicos.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Raspagem supragengival.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/SERVIÇOS DIFERENCIAIS.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SAÚDE BUCAL/Tratamento de lesões de tecidos moles.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SERVIÇ0 SOCIAL`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/SERVIÇ0 SOCIAL/O QUE VIABILIZA.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Saude-Sao-Sebastiao.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/Sem título.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/UNIDADE MISTA`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/UNIDADE MISTA/EQUIPE MÓVEL.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/UNIDADE MISTA/ESTABILIZACAO.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/UNIDADE MISTA/ESTERILIZACAO.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/UNIDADE MISTA/MATERNIDADE.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/UNIDADE MISTA/PRONTO ATENDIMENTO.md`
+- d `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/VIGILÂNCIA SANITÁRIA`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/VIGILÂNCIA SANITÁRIA/ABRANGE.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/_MAP.md`
+- f `50-clientes/10-saude-sao-sebastiao/20-fontes/base-legada-f1-frente/_ORIGEM_MIGRACAO.md`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-ajuste-crons-captura-texto-copiavel.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-ajuste-crons-formato-captura-facil.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-ajuste-final-crons-textos-publicacao.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-ajuste-stories-ubs-cruzeiro-acs.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-consolidado-crons-e-ajustes-lembretes-saude.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-correcao-crons-loh-fuso-maceio.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-crons-lembretes-saude-social-media.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-pauta-do-dia-entregue-chat.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-pauta-do-dia-formato-texto-copiavel.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-06-resumo-operacional-semana-06-a-10-julho.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-07-heartbeat-reminder-oftalmo.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-07-lembrete-21h-pauta-2026-07-08.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-08-pauta-completa.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-09-ajuste-pauta-sem-servico-social.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-09-headline-caps-dia-a-dia.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-09-headline-nascimento-agatha-ajuste-institucional.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-09-headline-nascimento-agatha.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-09-headlines-refeitas-rede-apoio-humanizacao.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/2026-07-15-heartbeat-reminder-oftalmo.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/_ORIGEM_MIGRACAO.md`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/auditorias`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/auditorias/2026-07-20-auditoria-ampla-frente-saude-divergencias-duplicatas.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/auditorias/2026-07-20-auditoria-estrutura-secretaria-saude.md`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/drafts`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/drafts/2026-06-23-resumao-video-arraia-caps.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/drafts/2026-07-02-comunicado-ascom-saude-brasil-360.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/drafts/2026-07-02-saude-brasil-360-aps-sugestoes-publicacao.md`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/notion`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/notion/2026-07-19-sync-notion-google-calendar-verificacao.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/notion/2026-07-20-sync-notion-google-calendar-verificacao.md`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas/2026-07`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas/2026-07/2026-07-10-pauta-unidade-mista-rn-esterilizacao.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas/2026-07/2026-07-16-pauta-completa-loh-06h.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas/2026-07/2026-07-18-lembrete-21h-pauta-2026-07-19.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas/2026-07/2026-07-19-lembrete-21h-pauta-2026-07-20.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas/2026-07/2026-07-19-pauta-completa-loh-06h.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas/2026-07/2026-07-20-ajuste-calendario-servicos-especializados-recepcao-regulacao.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/pautas/2026-07/2026-07-20-pauta-completa-loh-06h.md`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/sistema-producao`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/sistema-producao/2026-07-13-padrao-headlines-stories-saude.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/sistema-producao/2026-07-13-regra-rotacao-mesclagem-pilares.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/sistema-producao/2026-07-17-matriz-cronogramas-setores-para-captacao.md`
+- d `50-clientes/10-saude-sao-sebastiao/30-entregas/projetos-f3`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/projetos-f3/2026-07-23_headline-bebe880-lara-maite.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/projetos-f3/2026-07-23_headline-visita-domiciliar-ubs-lagoa-seca.md`
+- f `50-clientes/10-saude-sao-sebastiao/30-entregas/projetos-f3/_ORIGEM_MIGRACAO.md`
+- d `50-clientes/10-saude-sao-sebastiao/40-pendencias`
+- d `50-clientes/10-saude-sao-sebastiao/50-handoffs`
+- d `50-clientes/10-saude-sao-sebastiao/90-arquivo`
+- f `50-clientes/10-saude-sao-sebastiao/90-arquivo/log-lote5-migracao-saude-20260726T032915Z.md`
+- f `50-clientes/10-saude-sao-sebastiao/README.md`
+- f `50-clientes/10-saude-sao-sebastiao/contexto.md`
+- f `50-clientes/10-saude-sao-sebastiao/fontes.md`
+- f `50-clientes/10-saude-sao-sebastiao/handoffs.md`
+- f `50-clientes/10-saude-sao-sebastiao/pendencias.md`

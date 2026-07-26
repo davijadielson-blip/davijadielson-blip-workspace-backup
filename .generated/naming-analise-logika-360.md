@@ -1,3 +1,16 @@
+---
+tema: análise de naming Lógika 360
+conteudo: rascunho gerado de análise de naming e posicionamento Lógika 360
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: governança, operações e conteúdo
+cliente: Jadielson Davi
+tipo: rascunho gerado
+prioridade: média
+atualizado_em: 2026-07-26
+usar_quando: consultar histórico ou contexto relacionado a análise de naming Lógika 360
+nao_usar_quando: substituir decisões finais em 00-central/decisoes.md
+---
+
 # Análise de Naming — LÓGIKA → Nova Agência 360
 
 > **Contexto:** LÓGIKA CREATIVE hoje atua como produtora audiovisual. A ambição é migrar para agência 360 completa: automação, IA, tráfego pago, infoprodutos, design, webdesign, social media, sites, edição de vídeo, vídeos institucionais/comerciais, soluções digitais.

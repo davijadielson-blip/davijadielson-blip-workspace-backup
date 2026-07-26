@@ -1,0 +1,721 @@
+---
+tema: snapshot antes do lote 5 Saúde São Sebastião
+conteudo: inventário textual das fontes de Saúde São Sebastião antes da migração real
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: clientes e governança do Cofre
+cliente: Saúde São Sebastião
+tipo: snapshot textual
+prioridade: alta
+atualizado_em: 2026-07-26
+usar_quando: auditar ou desfazer a migração da frente Saúde São Sebastião
+nao_usar_quando: substituir backup binário integral
+---
+
+# Snapshot lote 5 — Saúde São Sebastião — 20260726T032915Z
+
+## `[F1] 5-Frentes/Saude-Sao-Sebastiao`
+- Arquivos: 279
+- Pastas: 89
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/00 - Painel.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/00 - Saúde São Sebastião - MOC.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/00 - Estrutura - MOC.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/00 - PSFs - MOC.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Indígenas`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Indígenas/PSF Karapotó Plak-Ô.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Indígenas/PSF Karapotó Terra Nova.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/PSF Brejinho II.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/UBS Belisca Pau.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Brejinho II/UBS Brejinho.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/PSF Cana Brava.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/UBS Cana Brava.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Cana Brava/UBS Mata.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/PSF Curralinho.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Curralinho.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Tapera.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Curralinho/UBS Terra Nova.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Flexeira`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Flexeira/PSF Flexeira.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Flexeira/UBS Flexeiras.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/PSF Gado Bravo.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/UBS Gado Bravo.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Gado Bravo/UBS Porteiras.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/PSF Grotão.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Estrada Nova.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Grotão.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Grotão/UBS Malhada da Onça.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/PSF Lagoa Seca.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/UBS Lagoa Seca.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Lagoa Seca/UBS Limoeirinho.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/PSF Maracujá.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Gongo.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Maracujá.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Maracujá/UBS Prata.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/PSF Pedra Preta.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/UBS Capim Branco.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Pedra Preta/UBS Pedra Preta.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/PSF Sapé.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/UBS Sapé.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Rural/Sapé/UBS Tabuleiro.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Centro Mestra Clarice`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Centro Mestra Clarice/PSF Centro Mestra Clarice.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Centro Mestra Clarice/UBS Centro Mestra Clarice.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Cruzeiro`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Cruzeiro/PSF Cruzeiro.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Cruzeiro/UBS Cruzeiro.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Peroba`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Peroba/PSF Peroba.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Peroba/UBS Peroba.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Rancho Alegre`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Rancho Alegre/PSF Rancho Alegre.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/Rancho Alegre/UBS Rancho Alegre.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/São José`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/São José/PSF São José.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/PSFs/Zona Urbana/São José/UBS São José.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/00 - Setores Complementares - MOC.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Academia de Saúde`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Academia de Saúde/Academia de Saúde.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Assistência Social`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Assistência Social/Assistência Social.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Atenção Básica`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Atenção Básica/Atenção Básica.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/CAPS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/CAPS/CAPS.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/CEO`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/CEO/CEO.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/EMULTI`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/EMULTI/CRONOGRAMAS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/EMULTI/CRONOGRAMAS/Cronograma-eMulti.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/EMULTI/EMULTI.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Endemias`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Endemias/Endemias.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Espaço Cuidar`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Espaço Cuidar/Espaço Cuidar.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Farmácia`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Farmácia/Farmácia.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Laboratório Municipal`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Laboratório Municipal/Laboratório Municipal.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Maternidade Municipal`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Maternidade Municipal/Maternidade Municipal.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Melhor em Casa`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Melhor em Casa/Melhor em Casa.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Odontomóvel`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Odontomóvel/Odontomóvel.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Oftalmologia`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Oftalmologia/Oftalmologia.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/PNI`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/PNI/PNI.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/SAMU`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/SAMU/SAMU.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Saúde Bucal`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Saúde Bucal/Saúde Bucal.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Secretaria`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Secretaria/Secretaria.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Unidade Mista`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Unidade Mista/Unidade Mista.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Vigilância Sanitária`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/Setores Complementares/Vigilância Sanitária/Vigilância Sanitária.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/UBSs`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/UBSs/00 - UBSs - MOC.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/UBSs/Distrito I.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/UBSs/Distrito II.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/UBSs/Distrito III.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/UBSs/Distrito IV.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Estrutura Organizacional/UBSs/Subsetores.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Perfil`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Perfil/Desafios e Prioridades.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Perfil/Equipe de Gestão.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Perfil/Público e Território.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/01 - Perfil/Rede e Referências.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/02 - Atendimento e População`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/02 - Atendimento e População/Cobertura e Abrangência.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/02 - Atendimento e População/Grupos Prioritários.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/02 - Atendimento e População/Público-Alvo.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Desafios e Prioridades`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Desafios e Prioridades/Principais Desafios.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Desafios e Prioridades/Prioridades de Gestão.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Banco de Ideias.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Calendário de Saúde.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Campanhas`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Campanhas/Outubro Rosa 2025.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/Calendário Editorial - Matriz 360 - SAÚDE.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/Julho 2026 - Calendário Editorial COMPLETO.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/Julho 2026 - Calendário Editorial V2 - Pilares Rígidos.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/Julho 2026 - Calendário Editorial.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/Março 2025.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/pauta-2026-07-21-terca-especializados.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/pauta-2026-07-22-quarta-vigilancia.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/pauta-2026-07-23-quinta-rede-apoio.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/pauta-2026-07-24-sexta-urgencia-bastidores.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Cronogramas/templates-roteiro-reels-saude.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Itinerário de Captação.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Legendas-APROVADAS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Legendas-APROVADAS/2026-07-22-vigilancia-sanitaria-coleta-aguas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Legendas-APROVADAS/2026-07-24-ubs-centro-multivacinacao-trabalhador.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/MARÇO 2025 - Calendário de Capturas.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Pautas Diarias`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Pautas Diarias/2026-07-14 - Pauta do dia - Servicos Especializados.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/03 - Pauta e Conteúdo/Templates`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/04 - Rede e Referências`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/04 - Rede e Referências/Referência Hospitalar.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/04 - Rede e Referências/Regional de Saúde.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/04 - Rede e Referências/SAMU.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/05 - Participação Social`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/05 - Participação Social/Conselho Municipal de Saúde.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/05 - Participação Social/Parcerias Institucionais.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/1. IDEIAS E MODELOS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/1. IDEIAS E MODELOS/IDEIAS PARA CRIAÇÃO DE CONTEÚDOS.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/1. IDEIAS E MODELOS/MAPA MENTAL SAÚDE.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/1. IDEIAS E MODELOS/MONTAR TEMPLATE DE STORIES E VIDEOS PARA A SAUDE.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/1. IDEIAS E MODELOS/PUBLICAÇÕES.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/1. IDEIAS E MODELOS/ROTEIROS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/1. IDEIAS E MODELOS/ROTEIROS/BASES.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/1. IDEIAS E MODELOS/SETORES SECRETARIA DE SAÚDE.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/11 - CONTEXTO EDITORIAL`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/11 - CONTEXTO EDITORIAL/formatos-e-padroes.md.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/11 - CONTEXTO EDITORIAL/guia-projeto-mestre-canetas-insulina.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/11 - CONTEXTO EDITORIAL/headlines.md.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/11 - CONTEXTO EDITORIAL/legendas.md.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/11 - CONTEXTO EDITORIAL/rota-producao-stories-saude-junho-2026.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/11 - CONTEXTO EDITORIAL/roteiros.md.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/11 - CONTEXTO EDITORIAL/tom-e-voz.md.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/12 - BANCO DE REFERENCIAS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/12 - BANCO DE REFERENCIAS/00 - GUIA CONDENSADO.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/12 - BANCO DE REFERENCIAS/Melhores Headlines.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/12 - BANCO DE REFERENCIAS/Melhores Legendas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/12 - BANCO DE REFERENCIAS/Padrões que Emergiram.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/13 - Social Media`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/13 - Social Media/2026-07-23-capacitacao-comportamental-caps.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/13 - Social Media/_PADRAO-APROVACAO.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Ficha Resumo.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Dados`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Gestão`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Gestão/Almoxarifado.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Gestão/CPD.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Gestão/Epidemiologia.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Gestão/Gabinete do Secretário.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Gestão/Procuradoria.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Gestão/Recursos Humanos.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/99 - Referência Interna/Mídias`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/ANIVERSARIANTES`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ANIVERSARIANTES/COORDENADORES E SECRETÁRIOS.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/ASCOM`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ASCOM/Reunião.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/ATENÇÃO BÁSICA`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ATENÇÃO BÁSICA/Divulgações EAPs - Atendimento à noite.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ATENÇÃO BÁSICA/UBSs.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/Acolhimento em crise.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/Atendimento em grupo.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/Atendimento individual.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/Atendimento à família.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/Atividades comunitárias.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/BUSCA ATIVA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/ENFERMAGEM.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/EVENTOS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/EVENTOS/FESTAS JUNINAS CAPS.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/Equipe.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/FARMACIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/FESTAS JUNINAS CAPS.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/Oficinas terapêuticas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/PSIQUIATRIA,.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CAPS/Visitas domiciliares.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/CEO`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CEO/Atendimento a pacientes com necessidades especiais.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CEO/Cirurgia oral menor.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CEO/DIAGNÓSTICO BUCAL.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CEO/ENDONDOTIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/CEO/Periodontia especializada.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/ENFERMAGEM.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/Enfermeiro.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/Farmacêutico.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/Fisioterapeuta.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/Fonoaudiólogo.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/GINECOLOGIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/MÉDICO.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/NOVO NUMERO DA EMULTI.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/NUTRICAO.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/PEDIATRIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/PEDIDO DE ARTE OU VIDEO PARA DIVULGACAO DO NOSSO NUMERO DA EMULTI.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/PSICOLOGIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/SERVICO SOCIAL.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/Terapeuta Ocupacional.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EMULT/Técnico de Enfermagem X.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/ENDEMIAS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ENDEMIAS/Dengue.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ENDEMIAS/Educação.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ENDEMIAS/Esquistossomose.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/EQUIPE DE GESTÃO.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/CARDIOLOGIA (2).md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/CARDIOLOGIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/CIRURGIA GERAL (2).md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/CIRURGIA GERAL.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/ELETROCARDIOGRAMA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/GINECOLOGIA (2).md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/GINECOLOGIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/NEUROLOGIA (2).md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/NEUROLOGIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PEDIATRIA (2).md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PEDIATRIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PSICOLOGIA (2).md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PSICOLOGIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PSIQUIATRIA (2).md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/PSIQUIATRIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/ULTRASSOM.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/ESPAÇO CUIDAR - CENTRO DE ESPECIALIDADES/ULTRASSONOGRAFIA.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/GERAL`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/GERAL/COLHIDO DA DRA. ARLETE.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/GRADE DE GESTÃO.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/Hospital , Pronto Atendimento`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Hospital , Pronto Atendimento/UNIDADE DE URGENCIA - SERVIÇO MÓVEL MUNICIPAL.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Hospital , Pronto Atendimento/Viatura do Município.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/LABORATÓRIO`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/LABORATÓRIO/DADOS.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Análise de indicadores.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Aplicação das vacinas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Ações educativas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Capacitação contínua das equipes.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Combate à hesitação vacina l e fake news.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Controle de estoque.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Divulgação de campanhas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Manutenção da rede de frio.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Manutenção de altas coberturas vacinais.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Monitoramento de coberturas vacinais.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Recebimento e distribuição de imunobiológicos.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Registro de doses aplicadas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/VACINAS.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Vacinação extramural.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO/Vigilância de eventos adversos.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PNI - PROGRAMA NACIONAL DE IMUNIZAÇÃO.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE/Análise preventiva.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE/Assessoria em comissões e conselhos.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE/Assessoria às licitações.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE/Competências.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE/Elaboração de notas técnicas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE/Emissão de pareceres.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE/Orientação normativa.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PROCURADORIA SAÚDE/Participação em reuniões estratégicas.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/PSF - PROGRAMA SAUDE DA FAMILIA`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/PSF - PROGRAMA SAUDE DA FAMILIA/SETORES NAS UBS.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteudo`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteudo/Producao 2026`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteudo/Producao 2026/demo-template-universal-saude.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/CONTEXTUALIZAÇÃO DE TODA A SECRETARIA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/CRIAR CALENDÁRIO EDITORIAL.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/EMAIL E CONTATOS.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/FOTOS DE MAE E BEBE NA CASA MATERNAL.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/IR A SECRETARIA DE SAÚDE - COLETAS DE INFORMACOES E PLANEJAMENTOS.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/Produção 2026`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/Produção 2026/guia-projeto-mestre-canetas-insulina.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/Produção 2026/rota-producao-stories-saude-junho-2026.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/Produção 2026/roteiro-canetas-insulina-serrapovoado.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/Produção 2026/stories-17-junho-2026.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/Produção 2026/templates-reels-saude.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/VIDEO DA VITÓRIA SOBRE O PROJETO RESPIRAR.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Projetos de Conteúdo/Vídeo da Vitória Projeto Respirar.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECEPÇÃO`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECEPÇÃO/REALIZA.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Avaliação de desempenho.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Concessão de benefícios.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Controle de frequência.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Cursos e capacitações.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Elaboração de atos administrativos.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Esclarecimentos e Conscientizações de Direitos e Vantagens do Servidor.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Folha de pagamento.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Gestão de documentação funcional.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Gestão do conhecimento.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Gestão por competências.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Levantamento de necessidades de treinamento.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Licenças médicas, capacitações, cedências,.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Plano anual de capacitação.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Planos de desenvolvimento individual.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/RECURSOS HUMANOS/Progressão funcional.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAMU`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAMU/Almoxarifado.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAMU/Ambulâncias.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAMU/Central de comunicação.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAMU/Cozinha - copa.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAMU/Sala de repouso, alojamento.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAMU/Área de estacionamento coberta.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Atendimento de urgências odontológicas.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Atividades coletivas de promoção e prevenção.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Ações de vigilância em saúde  bucal.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Divulgações.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Exodontias simples.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Primeira consulta odontológica programática.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Procedimentos clínicos preventivos.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Procedimentos restauradores  básicos.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Raspagem supragengival.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/SERVIÇOS DIFERENCIAIS.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SAÚDE BUCAL/Tratamento de lesões de tecidos moles.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/SERVIÇ0 SOCIAL`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/SERVIÇ0 SOCIAL/O QUE VIABILIZA.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Saude-Sao-Sebastiao.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/Sem título.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/UNIDADE MISTA`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/UNIDADE MISTA/EQUIPE MÓVEL.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/UNIDADE MISTA/ESTABILIZACAO.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/UNIDADE MISTA/ESTERILIZACAO.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/UNIDADE MISTA/MATERNIDADE.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/UNIDADE MISTA/PRONTO ATENDIMENTO.md`
+- d `[F1] 5-Frentes/Saude-Sao-Sebastiao/VIGILÂNCIA SANITÁRIA`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/VIGILÂNCIA SANITÁRIA/ABRANGE.md`
+- f `[F1] 5-Frentes/Saude-Sao-Sebastiao/_MAP.md`
+
+## `[F2] memory/saude-sao-sebastiao`
+- Arquivos: 228
+- Pastas: 50
+- d `[F2] memory/saude-sao-sebastiao/00-moc`
+- f `[F2] memory/saude-sao-sebastiao/00-moc/00-mapa-operacional-saude.md`
+- f `[F2] memory/saude-sao-sebastiao/00-moc/01-atualizacao-calendario-2026-07-21.md`
+- f `[F2] memory/saude-sao-sebastiao/00-moc/02-decisao-padrao-headlines-2026-07-21.md`
+- f `[F2] memory/saude-sao-sebastiao/00-moc/03-decisao-templates-reels-2026-07-21.md`
+- d `[F2] memory/saude-sao-sebastiao/01-matrizes`
+- f `[F2] memory/saude-sao-sebastiao/01-matrizes/matriz-competencias-por-setor.md`
+- f `[F2] memory/saude-sao-sebastiao/01-matrizes/matriz-setores-pilares-fontes.md`
+- f `[F2] memory/saude-sao-sebastiao/01-matrizes/matriz-unificacao-frente-saude.md`
+- d `[F2] memory/saude-sao-sebastiao/02-estrutura`
+- d `[F2] memory/saude-sao-sebastiao/02-estrutura/psfs-territorios`
+- f `[F2] memory/saude-sao-sebastiao/02-estrutura/psfs-territorios/psfs-visao-operacional.md`
+- d `[F2] memory/saude-sao-sebastiao/02-estrutura/setores-complementares`
+- f `[F2] memory/saude-sao-sebastiao/02-estrutura/setores-complementares/recepcao-regulacao-marcacao-exames.md`
+- f `[F2] memory/saude-sao-sebastiao/02-estrutura/setores-complementares/setores-complementares-visao-completa.md`
+- d `[F2] memory/saude-sao-sebastiao/02-estrutura/unidades-ubs-postinhos`
+- f `[F2] memory/saude-sao-sebastiao/02-estrutura/unidades-ubs-postinhos/ubs-postinhos-visao-operacional.md`
+- d `[F2] memory/saude-sao-sebastiao/03-editorial`
+- f `[F2] memory/saude-sao-sebastiao/03-editorial/2026-07-20-estrategia-producao-conteudo-saude-matriz-rotacao.md`
+- f `[F2] memory/saude-sao-sebastiao/03-editorial/estrategia-v2-completa-mix-funil-evergreen-metricas.md`
+- f `[F2] memory/saude-sao-sebastiao/03-editorial/estrategia-v3-completa-feed-stories-lives.md`
+- f `[F2] memory/saude-sao-sebastiao/03-editorial/grade-6-semanas-27-07-a-06-09-2026.md`
+- f `[F2] memory/saude-sao-sebastiao/03-editorial/guia-consulta-rapida-pautas-saude.md`
+- f `[F2] memory/saude-sao-sebastiao/03-editorial/referencias-comprovadas-benchmarks-2025-2026.md`
+- f `[F2] memory/saude-sao-sebastiao/03-editorial/semana-1-completa-cenas-textos.md`
+- d `[F2] memory/saude-sao-sebastiao/04-auditorias`
+- f `[F2] memory/saude-sao-sebastiao/04-auditorias/resumo-auditorias-e-achados.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/README.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/acs-agentes-comunitarios/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/atencao-basica-coordenacao/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/psf-equipes/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/01-atencao-basica-territorio/ubs-postinhos/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/README.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/academia-de-saude/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/farmacia/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/02-vacinacao-prevencao-programas/pni-vacinacao/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/README.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/ceo/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/espaco-cuidar/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/laboratorio-municipal/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/odontomovel/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/oftalmologia/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/recepcao-regulacao/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/03-servicos-especializados-diagnostico/saude-bucal/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/README.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/equipe-movel-municipal/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/maternidade-municipal/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/samu/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/04-urgencia-maternidade-movel/unidade-mista/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/README.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/assistencia-social-servico-social/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/caps/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/emulti-emult/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/05-rede-apoio-humanizacao/melhor-em-casa/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/README.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/endemias/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/epidemiologia/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/vigilancia-sanitaria/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/README.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/almoxarifado/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/aniversariantes-gestao-humana/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/ascom-comunicacao/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/cpd-sistemas/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/gabinete-secretario/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/procuradoria-saude/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/recursos-humanos/servicos-e-competencias.md`
+- d `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/conteudo-f1-incorporado.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/ficha-operacional.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/fontes-f1-incorporadas.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/ideias-de-conteudo.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/lacunas-a-confirmar.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/07-administracao-gestao-bastidores/secretaria-administrativa/servicos-e-competencias.md`
+- f `[F2] memory/saude-sao-sebastiao/05-ambientes-operacionais/README.md`
+- d `[F2] memory/saude-sao-sebastiao/99-fontes-e-regras`
+- f `[F2] memory/saude-sao-sebastiao/99-fontes-e-regras/decisoes-operacionais-2026-07-20.md`
+- f `[F2] memory/saude-sao-sebastiao/99-fontes-e-regras/fontes-f1-principais.md`
+- f `[F2] memory/saude-sao-sebastiao/README.md`
+
+## `[F2] memory/outputs/saude-sao-sebastiao`
+- Arquivos: 36
+- Pastas: 6
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-ajuste-crons-captura-texto-copiavel.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-ajuste-crons-formato-captura-facil.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-ajuste-final-crons-textos-publicacao.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-ajuste-stories-ubs-cruzeiro-acs.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-consolidado-crons-e-ajustes-lembretes-saude.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-correcao-crons-loh-fuso-maceio.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-crons-lembretes-saude-social-media.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-pauta-do-dia-entregue-chat.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-pauta-do-dia-formato-texto-copiavel.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-06-resumo-operacional-semana-06-a-10-julho.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-07-heartbeat-reminder-oftalmo.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-07-lembrete-21h-pauta-2026-07-08.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-08-pauta-completa.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-09-ajuste-pauta-sem-servico-social.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-09-headline-caps-dia-a-dia.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-09-headline-nascimento-agatha-ajuste-institucional.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-09-headline-nascimento-agatha.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-09-headlines-refeitas-rede-apoio-humanizacao.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/2026-07-15-heartbeat-reminder-oftalmo.md`
+- d `[F2] memory/outputs/saude-sao-sebastiao/auditorias`
+- f `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-07-20-auditoria-ampla-frente-saude-divergencias-duplicatas.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-07-20-auditoria-estrutura-secretaria-saude.md`
+- d `[F2] memory/outputs/saude-sao-sebastiao/drafts`
+- f `[F2] memory/outputs/saude-sao-sebastiao/drafts/2026-06-23-resumao-video-arraia-caps.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/drafts/2026-07-02-comunicado-ascom-saude-brasil-360.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/drafts/2026-07-02-saude-brasil-360-aps-sugestoes-publicacao.md`
+- d `[F2] memory/outputs/saude-sao-sebastiao/notion`
+- f `[F2] memory/outputs/saude-sao-sebastiao/notion/2026-07-19-sync-notion-google-calendar-verificacao.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/notion/2026-07-20-sync-notion-google-calendar-verificacao.md`
+- d `[F2] memory/outputs/saude-sao-sebastiao/pautas`
+- d `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07`
+- f `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-10-pauta-unidade-mista-rn-esterilizacao.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-16-pauta-completa-loh-06h.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-18-lembrete-21h-pauta-2026-07-19.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-19-lembrete-21h-pauta-2026-07-20.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-19-pauta-completa-loh-06h.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-20-ajuste-calendario-servicos-especializados-recepcao-regulacao.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/pautas/2026-07/2026-07-20-pauta-completa-loh-06h.md`
+- d `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao`
+- f `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/2026-07-13-padrao-headlines-stories-saude.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/2026-07-13-regra-rotacao-mesclagem-pilares.md`
+- f `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/2026-07-17-matriz-cronogramas-setores-para-captacao.md`
+
+## `[F3] PROJETOS/Saude-Sao-Sebastiao`
+- Arquivos: 2
+- Pastas: 0
+- f `[F3] PROJETOS/Saude-Sao-Sebastiao/2026-07-23_headline-bebe880-lara-maite.md`
+- f `[F3] PROJETOS/Saude-Sao-Sebastiao/2026-07-23_headline-visita-domiciliar-ubs-lagoa-seca.md`
+

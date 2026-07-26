@@ -1,0 +1,484 @@
+---
+tema: snapshot antes do lote 3 de consolidação de memórias
+conteudo: inventário textual de pastas de memória/duplicidades antes de movimentações reversíveis
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: governança do Cofre
+cliente: Jadielson Davi
+tipo: snapshot textual
+prioridade: alta
+atualizado_em: 2026-07-26
+usar_quando: desfazer ou auditar o lote 3 de consolidação de memória
+nao_usar_quando: como backup binário integral
+---
+
+# Snapshot lote 3 — 20260726T032315Z
+
+## `memory`
+- Existe: sim
+- Arquivos: 117
+- Pastas: 26
+- d `memory/.dreams`
+- f `memory/.dreams/events.jsonl`
+- f `memory/.dreams/short-term-recall.json`
+- f `memory/2026-06-22.md`
+- f `memory/2026-06-23.md`
+- f `memory/2026-06-24.md`
+- f `memory/2026-06-26.md`
+- f `memory/2026-06-28.md`
+- f `memory/2026-07-12.md`
+- f `memory/2026-07-13.md`
+- f `memory/2026-07-14.md`
+- f `memory/2026-07-16.md`
+- f `memory/2026-07-17.md`
+- f `memory/2026-07-18-auditoria-modelos-codex.md`
+- f `memory/2026-07-18.md`
+- f `memory/2026-07-19.md`
+- f `memory/2026-07-20.md`
+- f `memory/2026-07-21-reindex.md`
+- f `memory/2026-07-21.md`
+- f `memory/2026-07-21_demanda-loh-agentes-dormindo.md`
+- f `memory/2026-07-22.md`
+- f `memory/2026-07-23.md`
+- f `memory/2026-07-24.md`
+- f `memory/2026-07-25-correcao-auth-codex.md`
+- f `memory/2026-07-25-diagnostico-creditos-openrouter.md`
+- f `memory/2026-07-25.md`
+- f `memory/2026-07-26-auditoria-gasto-openrouter.md`
+- f `memory/2026-07-26-crons-codex-only.md`
+- f `memory/2026-07-26.md`
+- d `memory/agents`
+- d `memory/agents/prompts`
+- f `memory/agents/prompts/caio-prompt.md`
+- f `memory/agents/prompts/cco-prompt.md`
+- f `memory/agents/prompts/cfo-prompt.md`
+- f `memory/agents/prompts/cio-prompt.md`
+- f `memory/agents/prompts/cmo-prompt.md`
+- f `memory/agents/prompts/coo-prompt.md`
+- f `memory/agents/prompts/cro-prompt.md`
+- f `memory/agents/prompts/cto-prompt.md`
+- f `memory/agents/suporte-tecnico.md`
+- f `memory/backup-log.md`
+- d `memory/config-snapshots`
+- f `memory/config-snapshots/agents-model-priority-final-sem-pendencias-2026-06-26.json`
+- f `memory/config-snapshots/model-priority-2026-06-26.json`
+- f `memory/config-snapshots/model-priority-final-2026-06-26.json`
+- f `memory/config-snapshots/openclaw-config-canonical-agents-2026-06-26.json`
+- d `memory/context`
+- d `memory/context/decisoes`
+- f `memory/context/decisoes/2026-06.md`
+- d `memory/conversas`
+- f `memory/conversas/2026-07-24-otimizacao-bom-dia.md`
+- d `memory/daily-briefs`
+- f `memory/daily-briefs/2026-07-18.md`
+- f `memory/daily-briefs/2026-07-21.md`
+- d `memory/databases`
+- f `memory/databases/notion-calendar-mapping.bak.json`
+- f `memory/databases/notion-calendar-mapping.json`
+- f `memory/databases/notion-calendar-mapping.json.bak.2026-07-16`
+- d `memory/decisions`
+- d `memory/decisoes`
+- f `memory/decisoes/2026-06-27-logika-solucoes-digitais.md`
+- f `memory/decisoes/2026-06-27-regra-geral-cofre-projetos-topicos.md`
+- f `memory/decisoes/2026-06-28-incidente-desconfiguracao-agentes-c-level.md`
+- f `memory/decisoes/2026-07-16-incidente-auto-correcao-c-level-agents.md`
+- f `memory/decisoes/guard-c-level-check.log`
+- f `memory/lessons.md`
+- d `memory/logika`
+- d `memory/logika/topicos`
+- d `memory/logika/topicos/1224-capcut-reels`
+- f `memory/logika/topicos/1224-capcut-reels/README.md`
+- d `memory/logika/topicos/1495-editais-culturais`
+- f `memory/logika/topicos/1495-editais-culturais/README.md`
+- d `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/briefing-locutor-narracao-2026-07-08.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/briefing-narracao-respostas-2026-07-08.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/decisao-narracao-com-ou-sem-falas-2026-07-08.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/draft-narracao-minidoc-2026-07-08.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/estrategia-insercao-falas-curtas-2026-07-08.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/narracao-final-curta-3min-2026-07-08.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/proposta-cobertura-audiovisual-2026-06-28.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/rascunho-narracao-com-cenas-2026-07-08.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/referencia-montagem-instagram-2026-07-13.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/roteiro-captacao-hoje-29-06-abertura.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/roteiro-mapa-captacao-minidoc-2026-06-29.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/sugestoes-trilha-sonora-minidoc-2026-06-29.md`
+- f `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/validacao-narracao-2026-07-08.md`
+- d `memory/logs`
+- f `memory/logs/cron-checks.log`
+- d `memory/outputs`
+- d `memory/outputs/o-fio-da-memoria`
+- f `memory/outputs/o-fio-da-memoria/README.md`
+- f `memory/preferences.md`
+- d `memory/projects`
+- d `memory/projects/logika-solucoes-digitais`
+- f `memory/projects/logika-solucoes-digitais/BRIEFING-ID-VISUAL.md`
+- f `memory/projects/logika-solucoes-digitais/BRIEFING-MARCA.md`
+- f `memory/projects/logika-solucoes-digitais/LINKS-OFICIAIS.md`
+- f `memory/projects/logika-solucoes-digitais/NOTION-MAKE-LEADS.md`
+- f `memory/projects/logika-solucoes-digitais/PLAN.md`
+- f `memory/projects/logika-solucoes-digitais/PROPOSTAS-COMERCIAIS.md`
+- f `memory/projects/logika-solucoes-digitais/SISTEMA-PROPOSTAS.md`
+- f `memory/projects/logika-solucoes-digitais/TREINAMENTO-AGENTE-CEO-LOGIKA.md`
+- d `memory/projects/logika-solucoes-digitais/briefings`
+- f `memory/projects/logika-solucoes-digitais/briefings/2026-07-25-briefing-estrategico-semanal.md`
+- d `memory/projects/projetos`
+- d `memory/projects/projetos/o-fio-da-memoria`
+- f `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`
+- f `memory/projects/projetos/o-fio-da-memoria/README.md`
+- f `memory/projects/projetos/o-fio-da-memoria/checkpoint_2026-06-27_2239.md`
+- f `memory/projects/projetos/o-fio-da-memoria/contexto_consolidado_pre_producao.md`
+- f `memory/projects/projetos/o-fio-da-memoria/decisoes_e_contexto.md`
+- f `memory/projects/projetos/o-fio-da-memoria/nota_pesquisa_complementar_global_e_salome.md`
+- d `memory/sessions`
+- d `memory/sessions/sync`
+- f `memory/sessions/sync/2026-06-23.md`
+- f `memory/sessions/sync/2026-06-24.md`
+- f `memory/sessions/sync/2026-06-25.md`
+- f `memory/sessions/sync/2026-06-26.md`
+- f `memory/sessions/sync/2026-06-27.md`
+- f `memory/sessions/sync/2026-06-28.md`
+- f `memory/sessions/sync/2026-06-29.md`
+- f `memory/sessions/sync/2026-06-30.md`
+- f `memory/sessions/sync/2026-07-01.md`
+- f `memory/sessions/sync/2026-07-02.md`
+- f `memory/sessions/sync/2026-07-03.md`
+- f `memory/sessions/sync/2026-07-04.md`
+- f `memory/sessions/sync/2026-07-05.md`
+- f `memory/sessions/sync/2026-07-06.md`
+- f `memory/sessions/sync/2026-07-07.md`
+- f `memory/sessions/sync/2026-07-08.md`
+- f `memory/sessions/sync/2026-07-09.md`
+- f `memory/sessions/sync/2026-07-10.md`
+- f `memory/sessions/sync/2026-07-11.md`
+- f `memory/sessions/sync/2026-07-12.md`
+- f `memory/sessions/sync/2026-07-13.md`
+- f `memory/sessions/sync/2026-07-14.md`
+- f `memory/sessions/sync/2026-07-15.md`
+- f `memory/sessions/sync/2026-07-16.md`
+- f `memory/sessions/sync/2026-07-17.md`
+- f `memory/sessions/sync/2026-07-18.md`
+- f `memory/sessions/sync/2026-07-19.md`
+- f `memory/sessions/sync/2026-07-20.md`
+
+## `[F2] memory`
+- Existe: sim
+- Arquivos: 800
+- Pastas: 149
+- f `[F2] memory/2026-06-22.md`
+- f `[F2] memory/2026-07-04.md`
+- f `[F2] memory/2026-07-05.md`
+- f `[F2] memory/2026-07-06.md`
+- f `[F2] memory/2026-07-07.md`
+- f `[F2] memory/2026-07-08.md`
+- f `[F2] memory/2026-07-11.md`
+- f `[F2] memory/2026-07-12.md`
+- f `[F2] memory/2026-07-13-briefing.md`
+- f `[F2] memory/2026-07-13.md`
+- f `[F2] memory/2026-07-14.md`
+- f `[F2] memory/2026-07-15-briefing.md`
+- f `[F2] memory/2026-07-15.md`
+- f `[F2] memory/2026-07-18.md`
+- f `[F2] memory/2026-07-22.md`
+- f `[F2] memory/2026-07-24.md`
+- d `[F2] memory/agents`
+- d `[F2] memory/agents/central-pessoal`
+- f `[F2] memory/agents/central-pessoal/albert-estudos.md`
+- f `[F2] memory/agents/central-pessoal/alfred-secretario-pessoal.md`
+- f `[F2] memory/agents/central-pessoal/autoconhecimento.md`
+- f `[F2] memory/agents/cto.md`
+- f `[F2] memory/agents/projetos-protocolo-mapa360-backlog-inteligente-2026-07-19.md`
+- d `[F2] memory/archive`
+- d `[F2] memory/archive/inbox-triados`
+- d `[F2] memory/archive/inbox-triados/2026-07-13`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- CONTINUAR A ORGANIZACAO DE ARQUIVOS.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- DAR SEGUIMENTO AO PLANO SE SERVIÇOS.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- MANDAR ORÇAMENTO PARA QUIEL, KAUA E LIDIO.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- MOVIMENTAR O FIO DA MEMORIA.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- PLANE DE SERVICOS.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- PREPARAR LANÇAMENTO DO VIDEO CLIPE.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- SEMINARIO ACS-ACE SEMED 02.07.2026.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- Sempre analizar e redefinir conteúdos para os Clientes.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/- VENDE-C.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/CONSULTAS CIRURGIÃO GERAL PARA A TRIAGEM DE OUTRA - 02.06.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/CRIAR TEMPLATES DE PRODUCAO DE EDICAO DE VIDEOS E STORIES AT.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/CRIAR UM CABECALHO NO TOPO MD. COM AS INFORMACOES PRINCIPAIS.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/CRIAR UM SISTEMA DE FICHA ONLINE PARA A SECRETARIA.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/CURSOS E IMPLEMENTACOES URGENTES PARA CONCLUIR E RODAR.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/MANDAR DADOS PARA ASCO DOS SERVIÇOS QUE A SECRETARIA FAZ.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/MOVIMENTAR CONTA BBMD.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/PASTAS DELETADAS - REVISITAR.md`
+- f `[F2] memory/archive/inbox-triados/2026-07-13/REGISTRO HTTPSMEDIA.XTILES.APP4561E4E6B61FF9646E46EF34.md`
+- d `[F2] memory/briefings`
+- f `[F2] memory/briefings/gog-drive-auth-briefing.md`
+- d `[F2] memory/context`
+- f `[F2] memory/context/2026-07-13-resolucao-tavily-embeddings.md`
+- f `[F2] memory/context/2026-07-19_todoist_integracao.md`
+- f `[F2] memory/context/HOT-Loh-operacional.md`
+- d `[F2] memory/context/arquitetura`
+- f `[F2] memory/context/arquitetura/pedido-loh-avaliar-mission-control-backlog-inteligente-2026-07-20.md`
+- d `[F2] memory/context/calendarios`
+- f `[F2] memory/context/calendarios/2026-07-agenda-registros.md`
+- f `[F2] memory/context/cco-contexto.md`
+- d `[F2] memory/context/central-pessoal`
+- f `[F2] memory/context/central-pessoal/2026-07-09-google-calendar-integracao.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-grade-diaria-v2-1-hibrida-saude-manha.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-grade-diaria-v2-validada.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-lembrete-diario-pg-pd.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-orcamento-grupo-jj-audiovisual.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-pendencias-formato-simples-final.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-pendencias-tarefas-rotina-producao-projetos.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-pendencias-visiveis-pg-pd.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-projetos-fatiados-formato-simples.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-regras-balanceamento-rotina-hibrida.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-requisitos-acesso-alfred-secretario.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-resumo-salvo-alfred-pg-pd-lembrete.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-rotina-diaria-atualizacao-em-aberto.md`
+- f `[F2] memory/context/central-pessoal/2026-07-09-teste-rotina-hibrida-pg-clientes.md`
+- f `[F2] memory/context/central-pessoal/2026-07-12-atualizacao-pendencias-e-planejamento-semanal.md`
+- f `[F2] memory/context/central-pessoal/2026-07-12-como-triar-inbox-cofre.md`
+- f `[F2] memory/context/central-pessoal/2026-07-12-triagem-inbox-cofre-proposta-lote-1.md`
+- f `[F2] memory/context/central-pessoal/2026-07-13-lista-base-planejamento-semanal.md`
+- f `[F2] memory/context/central-pessoal/2026-07-13-lista-completa-revisada-planejamento-semanal.md`
+- f `[F2] memory/context/central-pessoal/2026-07-13-modelo-equilibrio-areas-pg-pd-rotina.md`
+- f `[F2] memory/context/central-pessoal/2026-07-13-ordem-prioritaria-planejamento-semanal.md`
+- f `[F2] memory/context/central-pessoal/2026-07-13-triagem-inbox-cofre-executada.md`
+- f `[F2] memory/context/central-pessoal/2026-07-15-warren-cron-relatorio-contas-mensal.md`
+- f `[F2] memory/context/central-pessoal/2026-07-18-areas-da-vida-antigas-referencia.md`
+- f `[F2] memory/context/central-pessoal/2026-07-18-mapa-mental-360-arvore-da-vida.md`
+- f `[F2] memory/context/central-pessoal/2026-07-19-confirmacao-metodo-backlog-inteligente.md`
+- f `[F2] memory/context/central-pessoal/2026-07-19-registro-metodo-backlog.md`
+- f `[F2] memory/context/central-pessoal/2026-07-20-status-pendencias-confirmacao-jadielson.md`
+- f `[F2] memory/context/central-pessoal/2026-07-24-warren-estado-financeiro-pessoal.md`
+- f `[F2] memory/context/central-pessoal/comando-triar-alfred.md`
+- f `[F2] memory/context/central-pessoal/encaminhamentos-alfred.md`
+- d `[F2] memory/context/comercial`
+- f `[F2] memory/context/comercial/cro-diagnostico-completo-2026-07-20.md`
+- f `[F2] memory/context/comercial/cro-state-2026-07-20.md`
+- f `[F2] memory/context/comercial/prospects-logika.md`
+- d `[F2] memory/context/decisoes`
+- f `[F2] memory/context/decisoes/2026-07-07-diagnostico-drive-agentes.md`
+- f `[F2] memory/context/decisoes/2026-07-07-migracao-zapier-para-gog.md`
+- f `[F2] memory/context/decisoes/2026-07-22-remocao-definitiva-zapier-gog-oficial.md`
+- f `[F2] memory/context/drive-logika-protocolo-agentes-2026-07-08.md`
+- d `[F2] memory/context/estudos`
+- f `[F2] memory/context/estudos/backlog-cursos-ativos.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-analise-bonus-metodo-tdah-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-analise-ebook-principal-metodo-tdah-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-apps-sistemas-unificacao-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-aprendizados-do-todo-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-arvore-projetos-v1-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-diretriz-mapa-panoramico-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-juizo-valor-material-aulas-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-macro-areas-v1-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-4-eixos-v1-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-92-por-grupos-v3-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-agrupado-v2-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-arvore-oficial-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-classificacao-simples-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-estudos-decisao-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-exemplos-classificados-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-frente-estudos-cursos-ativos-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-todos-92-classificados-v1-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mapa-360-todos-92-enumerados-v2-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-materiais-recentes-pendentes-analise-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-material-aulas-extracao-bruta-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-metodo-operacional-v4-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-mission-control-aplicativo-parecer-2026-07-20.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-parecer-geral-integrado-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-prints-dashboard-requisitos-ui-2026-07-20.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-prints-projetos-subprojetos-tarefas-2026-07-20.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-priorizacao-tarefas-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-projetos-captura-2026-07-18.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-prompt-padrao-fatiamento-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-proximo-passo-agora-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-resumo-conceitual-completo-v3-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-resumo-conceitual-metodo-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-resumo-conceitual-metodo-v2-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-resumo-metodo-ate-agora-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-tarefa-vs-compromisso-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-template-fatiamento-executivo-v2-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-veredito-metodo-tdah-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-xtiles-autoalimentacao-fontes-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-xtiles-avaliacao-inicial-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-xtiles-integracao-possibilidades-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente-xtiles-inteligencia-integracao-rascunho-2026-07-19.md`
+- f `[F2] memory/context/estudos/backlog-inteligente.md`
+- d `[F2] memory/context/estudos/comunidade-1p`
+- f `[F2] memory/context/estudos/mapa-360-estudos-arvore-visual-feedback-2026-07-19.md`
+- f `[F2] memory/context/estudos/mapa-360-inventario-estudos-completo-2026-07-19.md`
+- f `[F2] memory/context/estudos/protocolo-drive-brutos-cursos.md`
+- d `[F2] memory/context/financeiro`
+- f `[F2] memory/context/financeiro/README-politica-orcamentos-despesas-logika.md`
+- f `[F2] memory/context/financeiro/politica-caixinhas-logika-servicos-e-deslocamento.md`
+- f `[F2] memory/context/financeiro-logika-drive-planilha-2026-07-08.md`
+- f `[F2] memory/context/gog-drive-status.md`
+- d `[F2] memory/context/governanca`
+- f `[F2] memory/context/governanca/AUTORIZACAO-USO-IMAGEM-LOGIKA.md`
+- f `[F2] memory/context/governanca/MATRIZ-RISCOS-DADOS-LOGIKA.md`
+- f `[F2] memory/context/governanca/POLITICA-LGPD-LOGIKA.md`
+- f `[F2] memory/context/governanca/REGISTRO-TRATAMENTO-DADOS-LOGIKA.md`
+- f `[F2] memory/context/governanca/_MAP.md`
+- d `[F2] memory/context/integracoes`
+- f `[F2] memory/context/integracoes/2026-07-07-drive-pessoal-escrita-liberada.md`
+- f `[F2] memory/context/integracoes/2026-07-08-google-sheets-controle-financeiro-pessoal.md`
+- f `[F2] memory/context/integracoes/2026-07-08-topicos-financeiros-central-e-logika.md`
+- f `[F2] memory/context/integracoes/2026-07-15-pedido-loh-reauth-google-drive-estavel.md`
+- f `[F2] memory/context/integracoes/drive_financeiro_lancamentos_2026-07.md`
+- f `[F2] memory/context/integracoes/drive_financeiro_organizacao_comprovantes_boletos_2026-07-07.md`
+- f `[F2] memory/context/integracoes/financeiro_comprovantes_pendentes_upload_2026-07-07-1610.md`
+- f `[F2] memory/context/integracoes/financeiro_status_a_quitar_2026-07-07.md`
+- f `[F2] memory/context/integracoes/google_drive_jadielson.md`
+- d `[F2] memory/context/lembretes`
+- f `[F2] memory/context/lembretes/2026-07-10-lembrete-divulgacao-recepcao-secretaria-dia-16.md`
+- d `[F2] memory/context/logika`
+- d `[F2] memory/context/saude`
+- f `[F2] memory/context/saude/2026-07-23-capacitacao-da-sabotagem-a-cooperacao.md`
+- f `[F2] memory/context/saude/demandas-esporadicas-espaco-cuidar.md`
+- d `[F2] memory/databases`
+- d `[F2] memory/decisions`
+- f `[F2] memory/decisions/2026-07-07-desativar-google-zapier.md`
+- f `[F2] memory/decisions/2026-07-07_drive_financeiro_comprovantes_boletos.md`
+- f `[F2] memory/decisions/2026-07-08-alfred-secretario-pessoal.md`
+- f `[F2] memory/decisions/2026-07-08-drive-logika-estrutura-clientes.md`
+- f `[F2] memory/decisions/2026-07-09-integracao-lembrete-pg-pd-loh.md`
+- f `[F2] memory/decisions/2026-07-13-remocao-total-zapier.md`
+- f `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`
+- f `[F2] memory/decisions/2026-07-15-gog-auth-drive-fix.md`
+- f `[F2] memory/decisions/2026-07-15-regra-comprovantes-financeiros-drive.md`
+- f `[F2] memory/decisions/2026-07-17-decisoes.md`
+- f `[F2] memory/decisions/2026-07-18-decisoes.md`
+- f `[F2] memory/decisions/2026-07-18-implantacao-sistema-empresario-70.md`
+- f `[F2] memory/decisions/2026-07-19-mission-control-decisoes-web-notion-comunidade1p.md`
+- f `[F2] memory/decisions/2026-07-19-mission-control-opcao-5-integrado.md`
+- f `[F2] memory/decisions/2026-07-19-mission-control-top3-semana-confirmado.md`
+- f `[F2] memory/decisions/2026-07-20-briefing-diario-6h-autorizado.md`
+- f `[F2] memory/decisions/2026-07-20-consolidacao-raiz-sistema-loh.md`
+- f `[F2] memory/decisions/2026-07-20-cto-avaliacao-arquitetural-mission-control-whatsapp.md`
+- f `[F2] memory/decisions/2026-07-20-decisao-melhorias-aditivas-sem-destruir.md`
+- f `[F2] memory/decisions/2026-07-20-diagnostico-subagentes-cmo-cco-rate-limit.md`
+- f `[F2] memory/decisions/2026-07-20-mission-control-hospedagem-adiada-atualizacao-continua.md`
+- f `[F2] memory/decisions/2026-07-20-politica-servico-mutuo-entre-agentes.md`
+- f `[F2] memory/decisions/2026-07-20-remocao-total-zapier-gog-oficial.md`
+- f `[F2] memory/decisions/2026-07-20-revisao-prompts-c-levels-obediencia-fallbacks.md`
+- f `[F2] memory/decisions/2026-07-21-decisoes.md`
+- f `[F2] memory/decisions/2026-07-22-cron-financeiro-penultimo-dia-mes.md`
+- f `[F2] memory/decisions/2026-07-22-desativar-lembretes-central-topic-agent.md`
+- f `[F2] memory/decisions/2026-07-22-gog-auth-loh-concluido.md`
+- f `[F2] memory/decisions/2026-07-22-proibicao-zapier-reforco-jarvis.md`
+- f `[F2] memory/decisions/2026-07-22-remocao-total-zapier-gog-oficial.md`
+- f `[F2] memory/decisions/2026-07-22-renovacao-tokens-gog-3-contas.md`
+- f `[F2] memory/decisions/2026-07-23-cron-limpeza-cache.md`
+- f `[F2] memory/decisions/2026-07-23-diagnostico-espaco.md`
+- f `[F2] memory/decisions/2026-07-24-decisoes.md`
+- f `[F2] memory/decisions/2026-07-26-limpeza-cache.md`
+- d `[F2] memory/decisions/logika`
+- f `[F2] memory/decisions/logika/2026-07-12-politica-orcamentos-despesas-caixinhas.md`
+- f `[F2] memory/heartbeat-state.json`
+- d `[F2] memory/inbox-externa`
+- d `[F2] memory/inbox-externa/financeiro`
+- d `[F2] memory/inbox-externa/financeiro/2026`
+- d `[F2] memory/inbox-externa/financeiro/empresa`
+- d `[F2] memory/inbox-externa/financeiro/empresa/2026`
+- d `[F2] memory/inbox-externa/financeiro/empresa/2026/07-Julho`
+- d `[F2] memory/inbox-externa/financeiro/empresa/2026/07-Julho/02-Boletos-a-pagar`
+- f `[F2] memory/inbox-externa/financeiro/empresa/2026/07-Julho/02-Boletos-a-pagar/2026-07-18__BOLETO-HOTMART-EBANX__curso-capacitacao__R-112-34__vence-2026-07-23__PENDENTE.md`
+- f `[F2] memory/inbox-externa/financeiro/empresa/2026/07-Julho/02-Boletos-a-pagar/2026-07-18__BOLETO-HOTMART-EBANX__curso-capacitacao__R-112-34__vence-2026-07-23__PENDENTE.pdf`
+- f `[F2] memory/inbox-externa/financeiro/empresa/2026/07-Julho/2026-07-23__RECEITA-CAMARA__social-media__NFS-e-24__R-2100__RECEBIDO.md`
+- f `[F2] memory/inbox-externa/financeiro/empresa/2026/07_2026-07-22-mochila-notebook-jadielson-compra.md`
+- d `[F2] memory/inbox-externa/financeiro/tmp`
+- f `[F2] memory/inbox-externa/financeiro/tmp/recargapay_escola_eloah.jpg`
+- d `[F2] memory/logika`
+- d `[F2] memory/logika/topicos`
+- d `[F2] memory/logika/topicos/1-coordenacao-geral`
+- f `[F2] memory/logika/topicos/1-coordenacao-geral/README.md`
+- d `[F2] memory/logs`
+- d `[F2] memory/logs/manutencao`
+- f `[F2] memory/logs/manutencao/2026-06-26.md`
+- f `[F2] memory/logs/manutencao/2026-07-03.md`
+- f `[F2] memory/logs/manutencao/2026-07-10.md`
+- d `[F2] memory/observations`
+- f `[F2] memory/observations/2026-07-02-lembrete-oftalmologia-primeira-quarta.md`
+- d `[F2] memory/outputs`
+- f `[F2] memory/outputs/auditoria-integracoes-2026-07-21.md`
+- f `[F2] memory/outputs/auditoria-integracoes-2026-07-22.md`
+- f `[F2] memory/outputs/auditoria-workspace-2026-07-16.md`
+- f `[F2] memory/outputs/auditoria-workspace-2026-07-17-final.md`
+- f `[F2] memory/outputs/auditoria-workspace-2026-07-17.md`
+- f `[F2] memory/outputs/briefing-video-rogerio-rocha-evento-tradicional-2026-07-07.md`
+- d `[F2] memory/outputs/cco-logika`
+- f `[F2] memory/outputs/cco-logika/01-direcao-criativa-master-logika.md`
+- f `[F2] memory/outputs/cco-logika/02-template-roteiro-storyboard-logika.md`
+- f `[F2] memory/outputs/cco-logika/03-guia-captacao-b-roll-logika.md`
+- f `[F2] memory/outputs/cco-logika/04-guia-consistencia-por-cliente-logika.md`
+- f `[F2] memory/outputs/cco-logika/05-roteiro-reel-saude-psfs-rurais-20-07-2026.md`
+- f `[F2] memory/outputs/cco-logika/06-pacote-criativo-entre-tempos-aquecimento-fase1.md`
+- f `[F2] memory/outputs/cco-logika/07-roteiro-carrossel-saude-exames-hepatites-21-07-2026.md`
+- f `[F2] memory/outputs/cco-logika/08-roteiros-saude-vigilancia-maternidade-22-23-07-2026.md`
+- f `[F2] memory/outputs/cco-logika/09-painel-semanal-criativo-20-26-07-2026.md`
+- f `[F2] memory/outputs/cco-logika/10-roteiro-post-saude-julho-amarelo-24-07-2026.md`
+- f `[F2] memory/outputs/cco-logika/11-briefing-b-roll-compilado-semana-20-26-07-2026.md`
+- d `[F2] memory/outputs/central-pessoal`
+- f `[F2] memory/outputs/central-pessoal/2026-07-07-auditoria-drive-pessoal-plano-e-bloqueio.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-07-auditoria-drive-pessoal-relatorio-prosseguimento.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-07-auditoria-drive-pessoal-reteste-0500.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-07-auditoria-drive-pessoal-status-1547.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-07-auditoria-drive-pessoal-status-2217.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-07-auditoria-drive-pessoal-status-2308.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-07-auditoria-drive-pessoal-status-inicial.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-08-auditoria-drive-pessoal-relatorio-final.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-08-drive-pessoal-correcao-compartilhamentos-bloqueio-token.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-08-drive-pessoal-correcao-compartilhamentos-concluida.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-08-drive-pessoal-migracao-logika-bloqueio-escopo.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-08-drive-pessoal-migracao-logika-concluida.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-08-pedido-loh-reauth-drive-pessoal.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-08-pedido-loh-resolver-reauth-drive.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-09-habilidades-gestao-rotina-energia-alfred.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-09-identidade-operacional-alfred.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-09-prompt-agente-gestao-v2-alfred.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-09-prompt-base-gestao-rotina-energia-projetos.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-ajuste-piramide-pg-antes-pd.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-analise-grupos-rotina-desejada-pos-pesquisa.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-auditoria-cobertura-programacao-semanal.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-distribuicao-pendencias-piramide-pg-pd.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-google-api-publicacao-agenda-semanal.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-grupos-areas-equilibrio-pg-pd-pos-pesquisa.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-grupos-metodo-prioridade-jadielson.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-importacao-agenda-notion-status.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-pesquisa-priorizacao-metodo-jadielson.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-piramide-prioridade-letras-jadielson.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-programacao-semanal-tudo-incluido.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-redistribuicao-semanal-13-19-trabalho-8h-1p-projetos.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-redistribuicao-semanal-ajustada-pocos-energia-8h.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-13-reorganizacao-calendarios-por-frente-google-api.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-16-analise-gestao-tempo-metodo-tdah-vida-empresario.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-18-painel-operacional-sistema-empresario-70.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-18-resumo-rotina-pendencias-ja-debatidas.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-19-triagem-backlog-inteligente-projetos-estudos-tarefas-v2.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-19-triagem-backlog-inteligente-projetos-estudos-tarefas.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-20-aplicacao-pessoal-backlog-inteligente-jadielson.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-20-juizo-valor-tese-backlog-inteligente.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-20-plano-do-dia-saude-minidoc-entretempos-fio.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-20-varredura-pendencias-projetos-tarefas-v2.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-20-varredura-pendencias-projetos-tarefas-v3-alfred.md`
+- f `[F2] memory/outputs/central-pessoal/2026-07-20-varredura-pendencias-projetos-tarefas.md`
+- f `[F2] memory/outputs/central-pessoal/exemplo-dia-metodo-hibrido-v2-2026-07-20.md`
+- f `[F2] memory/outputs/central-pessoal/exemplo-dia-novo-metodo-2026-07-20.md`
+- f `[F2] memory/outputs/central-pessoal/metodo-dia-salvo-essencial-v3-2026-07-20.md`
+
+## `[F2]memory`
+- Existe: sim
+- Arquivos: 0
+- Pastas: 1
+- d `[F2]memory/sessions`
+
+## `\[F2\] memory`
+- Existe: sim
+- Arquivos: 0
+- Pastas: 0
+
+## `\[F0\] 0-Inbox`
+- Existe: sim
+- Arquivos: 0
+- Pastas: 0
+

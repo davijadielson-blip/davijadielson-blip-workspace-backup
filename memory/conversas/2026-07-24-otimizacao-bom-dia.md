@@ -1,3 +1,16 @@
+---
+tema: conversa sobre otimização do bom dia
+conteudo: registro de conversa e ajustes sobre otimização do bom dia
+nicho: ecossistema agêntico Lôh/Jadielson
+setor: governança, operações e conteúdo
+cliente: Jadielson Davi
+tipo: registro de conversa
+prioridade: média
+atualizado_em: 2026-07-26
+usar_quando: consultar histórico ou contexto relacionado a conversa sobre otimização do bom dia
+nao_usar_quando: substituir decisões finais em 00-central/decisoes.md
+---
+
 # Conversa: Otimização do Comportamento de "Bom Dia"
 
 **Data:** 24/07/2026
