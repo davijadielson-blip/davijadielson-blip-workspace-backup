@@ -182,3 +182,9 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Decisão final:** manter `openai-codex/gpt-5.5` como modelo primário, mas com fallback automático para OpenRouter como plano B/C.
 - **Ordem aplicada:** `openrouter/minimax/minimax-m2.5:free` → `openrouter/google/gemini-2.5-flash-lite` → `openrouter/deepseek/deepseek-v4-flash`.
 - **Motivo:** garantir mínimo de operação quando Codex não rodar, preservando custo menor antes de fallback pago.
+
+## 2026-07-28 — Reordenação de fallback OpenRouter por custo
+- **Status:** executado por ajuste de Jadielson.
+- **Decisão:** após o primário `openai-codex/gpt-5.5`, a cadeia de fallback deve começar por `openrouter/deepseek/deepseek-v4-flash`, por ser a opção mais barata indicada.
+- **Ordem aplicada:** `openrouter/deepseek/deepseek-v4-flash` → `openrouter/minimax/minimax-m2.5:free` → `openrouter/google/gemini-2.5-flash-lite`.
+- **Escopo:** defaults globais, subagents e todos os agentes configurados.
