@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T03:06:03.131Z",
+  "updatedAt": "2026-07-28T11:34:20.196Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -6356,17 +6356,14 @@
       "endLine": 47,
       "source": "memory",
       "snippet": "Observação: calendário `logikacreative.mkt@gmail.com` sem eventos no período; `loh.open.logika@gmail.com` retornou `invalid_grant`, indicando pendência técnica de autenticação se for usar essa conta para agenda. ## Correção — Jadielson pediu tarefas/projetos pendentes, não frentes estruturais Após Jadielson corrigir: \"nao. me refiro a tarefas e projetos que estao pendentes\", Jarvis deve responder com lista operacional de tarefas/projetos ativos e não com análise macro da empresa. Lista mais útil/atual para tópico LÓGIKA: - Captação drone 3 localidades: sair 13h; confirmar se é Rancho Alegre/Cana Brava/Tabela, ponto de encontro, transporte, entrega e edição. - MiniDoc Jogos Indígenas Karap",
-      "recallCount": 124,
+      "recallCount": 127,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 47.83962435126303,
+      "totalScore": 48.97406236529349,
       "maxScore": 0.45316349267959594,
       "firstRecalledAt": "2026-07-22T21:42:42.598Z",
-      "lastRecalledAt": "2026-07-25T17:08:54.002Z",
+      "lastRecalledAt": "2026-07-28T11:34:20.196Z",
       "queryHashes": [
-        "517a2b884634",
-        "aca0623661ce",
-        "9b16c46ba3f4",
         "f087e8518d57",
         "59a6d432197d",
         "f6c9d8ddeefe",
@@ -6395,13 +6392,18 @@
         "1170d6f12d0c",
         "f06eb3f954a7",
         "7c289ddb3aa4",
-        "117ef814720c"
+        "117ef814720c",
+        "6097ab2fbf9f",
+        "f6f9e92d9078",
+        "68db5b06d899"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-28"
       ],
       "conceptTags": [
         "logikacreative.mkt",
@@ -6483,18 +6485,14 @@
       "endLine": 39,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 167,
+      "recallCount": 171,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 65.35297868732924,
+      "totalScore": 66.90174475495334,
       "maxScore": 0.6881670105885843,
       "firstRecalledAt": "2026-07-22T21:42:42.598Z",
-      "lastRecalledAt": "2026-07-25T16:27:24.951Z",
+      "lastRecalledAt": "2026-07-28T11:34:20.196Z",
       "queryHashes": [
-        "1bbafd23f4ac",
-        "56a4999af067",
-        "61ff364e46f0",
-        "b235cda354b9",
         "da97571c7b79",
         "57bbc49137f3",
         "726836ed5a53",
@@ -6522,13 +6520,19 @@
         "ec1f6ab237b6",
         "765b08ac3484",
         "1170d6f12d0c",
-        "f06eb3f954a7"
+        "f06eb3f954a7",
+        "3b5c5c91f8ca",
+        "6097ab2fbf9f",
+        "f6f9e92d9078",
+        "68db5b06d899"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-28"
       ],
       "conceptTags": [
         "operação/automação",
@@ -6548,18 +6552,14 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "--- tema: 07 13 atualizado_em: 2026-07-22 --- # 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F",
-      "recallCount": 283,
+      "recallCount": 287,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 109.34428254663943,
+      "totalScore": 110.84752840101719,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T21:42:42.598Z",
-      "lastRecalledAt": "2026-07-25T16:41:45.278Z",
+      "lastRecalledAt": "2026-07-28T11:34:20.196Z",
       "queryHashes": [
-        "756d4f804a3e",
-        "3ae88ecddde2",
-        "48807631ec70",
-        "e7cefd83893c",
         "6e45f963d51b",
         "725ebd8bd504",
         "d031643b68c5",
@@ -6587,13 +6587,19 @@
         "1170d6f12d0c",
         "f06eb3f954a7",
         "ec238cf40d56",
-        "7c289ddb3aa4"
+        "7c289ddb3aa4",
+        "3b5c5c91f8ca",
+        "6097ab2fbf9f",
+        "f6f9e92d9078",
+        "68db5b06d899"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-28"
       ],
       "conceptTags": [
         "atualizado-em",
@@ -6740,13 +6746,13 @@
       "endLine": 49,
       "source": "memory",
       "snippet": "- O Fio da Memória: pesquisa pronta; escolher protagonista, confirmar narrador-historiador e migrar para roteiro/captação. - Saúde/SMS: rotina editorial em teste; pautas semanais e demanda pontual da recepção sem atendimento no dia 16 aguardando dados. - JD AutoCenter: checar se ainda existe pendência; se concluído, arquivar como resolvido. - Inbox do Cofre: triar em lote por destino simples. - LÓGIKA marca/comercial: propostas, serviços, identidade visual, leads/Notion/Make seguem como projeto estruturante, não urgência de entrega do dia.",
-      "recallCount": 20,
+      "recallCount": 21,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 7.643111327290536,
+      "totalScore": 8.002937591075899,
       "maxScore": 0.432402753829956,
       "firstRecalledAt": "2026-07-22T21:42:52.875Z",
-      "lastRecalledAt": "2026-07-25T16:27:24.951Z",
+      "lastRecalledAt": "2026-07-26T06:20:30.137Z",
       "queryHashes": [
         "144d72980f66",
         "bb7b4abc20db",
@@ -6767,13 +6773,15 @@
         "2fd8e16b496e",
         "da97571c7b79",
         "d031643b68c5",
-        "f06eb3f954a7"
+        "f06eb3f954a7",
+        "3b5c5c91f8ca"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "narrador-historiador",
@@ -6824,13 +6832,13 @@
       "endLine": 146,
       "source": "memory",
       "snippet": "| **Sáb 18/07 (hoje)** | Decisão Miro exclusivo + alerta PNAB Fio da Memória | --- ## 📌 LEMBRETES RÁPIDOS - [ ] **Calendar sync:** 28 eventos no Google Calendar (Saúde + LÓGIKA) — verificar se está tudo correto - [ ] **Disco:** monitorar espaço; 1.1G livre ainda é pouco - [ ] **Comunidade 1P:** estrutura criada no Cofre e Drive corretos - [ ] **Nuelink:** registrado como opção futura para automação de posts - [ ] **JD AutoCenter:** verificar se foi concluído para arquivar --- > 💡 **Sugestão para o fim de semana:** revisar as pendências do O Fio da Memória e Entre Tempos — ambas têm deadlines apertadas. Sábado é dia bom para organizar o cronograma da semana que vem. > > *Bom dia, Jadie",
-      "recallCount": 28,
+      "recallCount": 29,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 11.693685922026633,
+      "totalScore": 12.054273551702499,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T21:46:03.897Z",
-      "lastRecalledAt": "2026-07-25T15:28:53.687Z",
+      "lastRecalledAt": "2026-07-26T09:00:43.770Z",
       "queryHashes": [
         "24d3cd952be1",
         "2f06f20c83f9",
@@ -6858,13 +6866,15 @@
         "8b2151f39cc8",
         "17c054e7abd4",
         "34f2163ce439",
-        "14321236e537"
+        "14321236e537",
+        "cbb86f4e7dfb"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "18/07",
@@ -7163,13 +7173,13 @@
       "endLine": 412,
       "source": "memory",
       "snippet": "- CMO contribuiu com estratégia LÓGIKA (`[F2] memory/outputs/logika/2026-07-20-cmo-estrategia-completa.md`) - CCO contribuiu com 11 documentos criativos (`[F2] memory/outputs/cco-logika/`) incluindo roteiros e painel semanal - Lôh ajustou rate limit dos subagentes (resolvido) ## MISSION CONTROL — Construção do painel central (Noite) ### Contexto - Jadielson pediu para criar um **Mission Control** — painel central para acompanhar empresa, tarefas, agentes, projetos, conteúdos, métricas e pendências. - Diferente do blueprint anterior (que focava em xTiles/Backlog Inteligente), este é um **HTML interativo** servido como painel visual. ### Etapas seguidas 1. **Estrutura sugerida** — 7 módulo",
-      "recallCount": 27,
+      "recallCount": 28,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 10.428938668966294,
+      "totalScore": 10.81589825153351,
       "maxScore": 0.43292425274848934,
       "firstRecalledAt": "2026-07-22T22:50:56.581Z",
-      "lastRecalledAt": "2026-07-25T14:57:20.125Z",
+      "lastRecalledAt": "2026-07-26T06:20:59.760Z",
       "queryHashes": [
         "7676b3a4d42c",
         "48807631ec70",
@@ -7197,13 +7207,15 @@
         "57bbc49137f3",
         "99b4db87b63b",
         "91920ad15bee",
-        "5dc6c417628c"
+        "5dc6c417628c",
+        "f6f9e92d9078"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "memory/outputs/cco-logika",
@@ -7389,15 +7401,14 @@
       "endLine": 48,
       "source": "memory",
       "snippet": "--- tema: 07 21 atualizado_em: 2026-07-22 --- # ☀️ Daily Briefing — 21/07/2026 (Terça-feira) > Gerado por Lôh (Tier 0) | 10:00 UTC / 07:00 BRT > Fonte: Cofre (MEMORY.md, daily-briefs/, decisões, calendários, outputs), Tavily (datas sazonais) --- ## 📅 HOJE É TERÇA-FEIRA — DIA OPERACIONAL CHEIO | Info | Detalhe | |---|---| | **Data** | Terça-feira, 21 de julho de 2026 | | **Clima operacional** | 🟢 Dia de Serviços Especializados (Saúde) + início oficial do pré-lançamento Entre Tempos | | **Semana corrente** | Semana 4 de julho | | **Disco** | 🟢 73% (2.8G livres) — melhorou da semana passada (90%) | | **Fase da lua** | 🌒 Lua Crescente (quarto crescente em 24/07) | --- ## 🗓️ DATAS SAZ",
-      "recallCount": 61,
+      "recallCount": 62,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 24.79371896744153,
+      "totalScore": 25.16176452398679,
       "maxScore": 0.6572145737616475,
       "firstRecalledAt": "2026-07-22T23:05:00.436Z",
-      "lastRecalledAt": "2026-07-25T09:27:32.744Z",
+      "lastRecalledAt": "2026-07-26T09:00:43.770Z",
       "queryHashes": [
-        "dfc7f506aac4",
         "659ba9c8cecf",
         "260c92b24ca7",
         "0ce5fb6971ca",
@@ -7428,13 +7439,15 @@
         "2ec3d2be6133",
         "ae9af91657f7",
         "bb6956b8c52e",
-        "b380a56265b0"
+        "b380a56265b0",
+        "cbb86f4e7dfb"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "atualizado-em",
@@ -7454,13 +7467,13 @@
       "endLine": 51,
       "source": "memory",
       "snippet": "--- tema: 07 18 atualizado_em: 2026-07-22 --- # ☀️ Daily Briefing — 18/07/2026 (Sábado) > Gerado por Lôh (Tier 0) | 10:00 UTC / 07:00 BRT > Fonte: Cofre (calendários, memórias diárias, decisões), Tavily (datas sazonais) --- ## 📅 HOJE É SÁBADO — DIA DE DESCANSO E PLANEJAMENTO | Info | Detalhe | |---|---| | **Data** | Sábado, 18 de julho de 2026 | | **Clima operacional** | 🟢 Dia sem pautas fixas de conteúdo — ideal para planejamento | | **Semana corrente** | Semana 3 de julho (encerrada ontem) | | **Fase da lua** | 🌒 Lua Crescente (próximo quarto: 24/07) | --- ## 🗓️ DATAS SAZONAIS DE JULHO ### Em andamento este mês | Data | Evento | Frente | |---|---|---| | Mês todo | 🟡 **Julho Am",
-      "recallCount": 25,
+      "recallCount": 26,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 10.653920130714063,
+      "totalScore": 11.024249805792454,
       "maxScore": 0.6456557778352767,
       "firstRecalledAt": "2026-07-22T23:05:00.436Z",
-      "lastRecalledAt": "2026-07-25T09:00:16.772Z",
+      "lastRecalledAt": "2026-07-26T09:00:43.770Z",
       "queryHashes": [
         "ae369c406bfd",
         "3d9cdcd92361",
@@ -7486,13 +7499,15 @@
         "4902860567b0",
         "7e3769692650",
         "bb6956b8c52e",
-        "dad2e57ed3df"
+        "dad2e57ed3df",
+        "cbb86f4e7dfb"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "atualizado-em",
@@ -8049,13 +8064,13 @@
       "endLine": 68,
       "source": "memory",
       "snippet": "- Checagem feita em 2026-07-20: `agents_list` retornou 21 agentes configurados (`configured:true`), incluindo Lôh/main, Jarvis, Alfred, Arca, Warren, C-Level completo (COO, CRO, CMO, CCO, CFO, CAIO, CTO, CIO) e agentes temáticos pessoais. - Scripts de verificação retornaram OK: `ops/verify-agents-config.sh` e `ops/verify-c-level-agents.sh`. - Cron scheduler está ativo: 46 jobs no store, 37 habilitados listados; guardião C-Level `guard-c-level-agents-config` rodando a cada 30 min com último status OK e 0 erros consecutivos. - Observação importante: `memory_search` falhou por erro de embeddings/API key 401; foi usado fallback obrigatório por leitura direta/grep conforme Constituição. Isso prec",
-      "recallCount": 10,
+      "recallCount": 11,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.81758804321289,
+      "totalScore": 4.17257778942585,
       "maxScore": 0.40377361476421353,
       "firstRecalledAt": "2026-07-23T16:35:20.265Z",
-      "lastRecalledAt": "2026-07-25T06:30:02.570Z",
+      "lastRecalledAt": "2026-07-26T09:00:43.770Z",
       "queryHashes": [
         "301d864b4abf",
         "1df0524c88cd",
@@ -8066,12 +8081,14 @@
         "8ba420f6949b",
         "1a18748c7c5a",
         "82a01e2ec482",
-        "ad1478056d6d"
+        "ad1478056d6d",
+        "cbb86f4e7dfb"
       ],
       "recallDays": [
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "embedding",
@@ -8091,13 +8108,13 @@
       "endLine": 265,
       "source": "memory",
       "snippet": "- Observação importante: `memory_search` falhou por erro de embeddings/API key 401; foi usado fallback obrigatório por leitura direta/grep conforme Constituição. Isso precisa ser corrigido depois na camada de embeddings, mas não impede agentes configurados nem crons principais. - Sobre o Conselho: não há evidência de um agente único chamado `conselho`; o conceito operacional permanece representado pelo **C-Level Squad / Conselho estratégico** sob Lôh/Jarvis, acionável por subagentes quando necessário. ## SAÚDE — consulta de pauta do dia - No tópico `SAÚDE - SOCIAL MEDIA`, Jadielson perguntou \"Qual a pauta de hj?\". - Resposta baseada no calendário editorial consolidado: 20/07/2026 — Atenção",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.710930016636848,
+      "totalScore": 3.066043785214424,
       "maxScore": 0.44264445602893826,
       "firstRecalledAt": "2026-07-23T16:35:24.929Z",
-      "lastRecalledAt": "2026-07-25T06:30:02.570Z",
+      "lastRecalledAt": "2026-07-26T09:00:43.770Z",
       "queryHashes": [
         "1df0524c88cd",
         "6c86aa7cc45d",
@@ -8105,12 +8122,14 @@
         "c8b61517645b",
         "d5f14b0a2283",
         "dba82c1650e6",
-        "ad1478056d6d"
+        "ad1478056d6d",
+        "cbb86f4e7dfb"
       ],
       "recallDays": [
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "embedding",
@@ -8752,15 +8771,14 @@
       "endLine": 46,
       "source": "memory",
       "snippet": "--- tema: Registro diário 2026-07-24 conteudo: Compra Mercado Livre, separação de despesas da mãe, alerta ao My Finance, atualização pendências setor: CFO/Finanças cliente: Jadielson Davi tipo: registro diário prioridade: média atualizado_em: 2026-07-24 --- # 24/07/2026 — Registro Diário ## Compra Mercado Livre — Separação Mãe vs. Empresa Jadielson enviou comprovante de Pix (24/07/2026, 09:00h, R$ 440,52) referente a compras no Mercado Livre. **Itens identificados:** - Kit reparo para vaso (mãe): R$ 186,90 - Spot LED (casa da mãe): R$ 54,90 - Hub USB-C 9 em 1 UGREEN (empresa): R$ 189,98 - Adaptador USB-C em L 90° (empresa, c/ desconto): R$ 8,74 **Rateio:** - 🏠 Mãe: R$ 241,80 - 🏢 Empre",
-      "recallCount": 77,
+      "recallCount": 78,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 29.413896861607885,
+      "totalScore": 29.832316297228193,
       "maxScore": 0.5184939967976416,
       "firstRecalledAt": "2026-07-24T15:50:35.665Z",
-      "lastRecalledAt": "2026-07-25T17:16:01.185Z",
+      "lastRecalledAt": "2026-07-26T06:20:39.082Z",
       "queryHashes": [
-        "0fc488c2ecce",
         "568dc3181c75",
         "999eb7aa4b00",
         "79f600f1c4a0",
@@ -8791,11 +8809,13 @@
         "3632fc605543",
         "3dcac0be752c",
         "117ef814720c",
-        "a9140b20e63a"
+        "a9140b20e63a",
+        "6097ab2fbf9f"
       ],
       "recallDays": [
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "cfo/finanças",
@@ -8972,22 +8992,25 @@
       "endLine": 110,
       "source": "memory",
       "snippet": "A tentativa anterior de usar `openai/gpt-5.5` corrigia a saída de OpenRouter, mas não preservava a política oficial “via Codex”. A correção definitiva é manter `openai-codex/gpt-5.5` como primário. --- ## 21:45 UTC — Execução como CTO — Relatório Técnico Consolidado **Agente:** 👤 CTO — Chief Technology Officer **Solicitante:** Lôh (subagent automático) **Ação:** Produzido relatório técnico consolidado com diagnóstico geral, dívida técnica atualizada (DT-01 a DT-13), status de projetos (Mission Control, WhatsApp Inteligente), recomendações da semana e alertas. **Arquivos gerados/atualizados:** - `[F2] memory/outputs/cto/2026-07-24-relatorio-tecnico-consolidado.md` — relatório completo -",
-      "recallCount": 5,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.8703420817852021,
-      "maxScore": 0.4026765018701553,
+      "totalScore": 2.813866023189016,
+      "maxScore": 0.5928954640688378,
       "firstRecalledAt": "2026-07-25T00:41:56.272Z",
-      "lastRecalledAt": "2026-07-25T15:01:28.379Z",
+      "lastRecalledAt": "2026-07-26T06:11:41.988Z",
       "queryHashes": [
         "4f419aca90eb",
         "95b8b90fa2fb",
         "1e6803e75f23",
         "725ebd8bd504",
-        "3d4aa3bd3994"
+        "3d4aa3bd3994",
+        "f58e49263bce",
+        "201a6dfa5f34"
       ],
       "recallDays": [
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-26"
       ],
       "conceptTags": [
         "gpt",

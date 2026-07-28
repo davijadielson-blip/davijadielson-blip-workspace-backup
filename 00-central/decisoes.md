@@ -6,12 +6,18 @@ setor: governança do Cofre
 cliente: Jadielson Davi
 tipo: registro de decisões
 prioridade: máxima
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-28
 usar_quando: verificar decisões finais aprovadas sobre estrutura e operação do Cofre
 nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 ---
 
 # Decisões estruturais do Cofre
+
+## 2026-07-28 — Protocolo de bootstrap obrigatório: consultar Cofre antes de qualquer resposta
+- **Status:** aprovado e registrado por Jadielson.
+- **Decisão:** ao acordar em sessão nova, a Lôh DEVE consultar o Cofre (IDENTITY.md, SOUL.md, USER.md, CONSTITUICAO.md) ANTES de responder qualquer mensagem, inclusive para se apresentar ou identificar.
+- **Motivo:** evitar o erro de começar uma conversa como se fosse um agente genérico sem memória, quando na verdade o Cofre já contém identidade, história e contexto completos.
+- **Como desfazer:** remover este registro; não afeta outros arquivos.
 
 ## 2026-07-26 — Diagnóstico e proposta de reorganização iniciados
 - **Status:** em proposta, aguardando aprovação de Jadielson para mover arquivos.
@@ -77,3 +83,11 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Onde foi salvo:** `50-clientes/40-outros-vereadores/`, `50-clientes/50-outros-clientes/`, snapshots em `90-arquivo/50-backups-snapshots/` e inventário `00-central/inventario-frentes-f1-restantes.md`.
 - **Como desfazer:** seguir logs em `90-arquivo/renomeacoes/` de cada frente.
 - **Pendentes:** avaliar `Logika-Creative` e `Projetos` restantes em `[F1] 5-Frentes/`.
+
+## 2026-07-26 — Lote 9 executado: migração Lógika Creative
+- **Status:** concluído.
+- **O que mudou:** migrado o conteúdo profissional legado de `[F1] 5-Frentes/Logika-Creative/` para `20-profissional/10-logika/`.
+- **Movimentações:** 104 arquivos movidos, preservando subpastas operacionais e criando estrutura por área: estratégia, contexto editorial, produção de vídeo, estrutura, financeiro, editais, ideias e recursos.
+- **Onde foi salvo:** `20-profissional/10-logika/`, com índice em `00-indice/indice-geral-legado.md` e log reversível em `90-arquivo/renomeacoes/log-lote9-renomeacoes-20260726.md`.
+- **Como desfazer:** seguir o log do lote 9 e mover cada destino de volta à origem.
+- **Pendentes:** tratar `Projetos` restante em `[F1] 5-Frentes/`.

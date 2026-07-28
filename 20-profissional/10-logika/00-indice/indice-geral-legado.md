@@ -1,0 +1,112 @@
+# Índice geral legado — Lógika Creative
+
+
+Total migrado no Lote 9: 104 arquivos.
+
+
+## Mapeamento
+
+- `20-profissional/10-logika/EQUIPE.md` ← `[F1] 5-Frentes/Logika-Creative/EQUIPE.md`
+- `20-profissional/10-logika/10-estrategia/estrategias-gerais.md` ← `[F1] 5-Frentes/Logika-Creative/ESTRATÉGIAS.md`
+- `20-profissional/10-logika/PILARES-DO-NEGOCIO.md` ← `[F1] 5-Frentes/Logika-Creative/PILARES DO NEGÓCIO.md`
+- `20-profissional/10-logika/50-financeiro/financas.md` ← `[F1] 5-Frentes/Logika-Creative/FINANÇAS.md`
+- `20-profissional/10-logika/_MAP.md` ← `[F1] 5-Frentes/Logika-Creative/_MAP.md`
+- `20-profissional/10-logika/10-estrategia/ALIMENTAÇÃO DAS MINHAS PRÓPRIAS REDES SOCIAIS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/ALIMENTAÇÃO DAS MINHAS PRÓPRIAS REDES SOCIAIS.md`
+- `20-profissional/10-logika/10-estrategia/AUMENTAR O FATURAMENTO DA EMPRESA E MINHA RENDA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/AUMENTAR O FATURAMENTO DA EMPRESA E MINHA RENDA.md`
+- `20-profissional/10-logika/10-estrategia/COMO GANHAR DINHEIRO COM CONSTRUÇÃO DE APPS E SISTEMAS PARA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/COMO GANHAR DINHEIRO COM CONSTRUÇÃO DE APPS E SISTEMAS PARA.md`
+- `20-profissional/10-logika/10-estrategia/CONTEXTOS/A CAMUNICACAO DA CAMARA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/CONTEXTOS/A CAMUNICACAO DA CAMARA.md`
+- `20-profissional/10-logika/10-estrategia/CONTEXTOS/O QUE EU FARIA NO INSTAGRAM SE FOSSE VEREADOR.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/CONTEXTOS/O QUE EU FARIA NO INSTAGRAM SE FOSSE VEREADOR.md`
+- `20-profissional/10-logika/10-estrategia/CONTEXTOS/O que eu faria para meu perfil político Viralizar.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/CONTEXTOS/O que eu faria para meu perfil político Viralizar.md`
+- `20-profissional/10-logika/10-estrategia/CONTEXTOS/Por que ninguem gosta de vereador.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/CONTEXTOS/Por que ninguem gosta de vereador.md`
+- `20-profissional/10-logika/10-estrategia/CRIAR UM ITINERÁRIO DE CAPTURAS E POSTS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/CRIAR UM ITINERÁRIO DE CAPTURAS E POSTS.md`
+- `20-profissional/10-logika/10-estrategia/Continuar os Estudos das Estratégias de Crescimentos da Empresa -.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Continuar os Estudos das Estratégias de Crescimentos da Empresa -.md`
+- `20-profissional/10-logika/10-estrategia/Criar Calendário Editorial Logika.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Criar Calendário Editorial Logika.md`
+- `20-profissional/10-logika/10-estrategia/Criar Pacotes dos Serviços.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Criar Pacotes dos Serviços.md`
+- `20-profissional/10-logika/10-estrategia/Criar meu link da Bio.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Criar meu link da Bio.md`
+- `20-profissional/10-logika/10-estrategia/Criar pacotes e estratégias de vendas dos conteúdos para clientes PROSPECTADOS E ATRAÍDOS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Criar pacotes e estratégias de vendas dos conteúdos para clientes PROSPECTADOS E ATRAÍDOS.md`
+- `20-profissional/10-logika/10-estrategia/CÂMARA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/CÂMARA.md`
+- `20-profissional/10-logika/10-estrategia/DEFINIR CALENDÁRIO E PRODUÇÃO DE CONTEÚDO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/DEFINIR CALENDÁRIO E PRODUÇÃO DE CONTEÚDO.md`
+- `20-profissional/10-logika/10-estrategia/DEFINIR CULTURA DA EMPRESA, PRINCIPALMENTE AS DE VENDAS, BAS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/DEFINIR CULTURA DA EMPRESA, PRINCIPALMENTE AS DE VENDAS, BAS.md`
+- `20-profissional/10-logika/10-estrategia/DEFINIR O QUE DEVO FAZER, NA MÉDIA, PARA OS MEUS PRINCIPAIS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/DEFINIR O QUE DEVO FAZER, NA MÉDIA, PARA OS MEUS PRINCIPAIS.md`
+- `20-profissional/10-logika/10-estrategia/DEFINIÇÃO DE CALENDÁRIO DE PRODUÇÃO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/DEFINIÇÃO DE CALENDÁRIO DE PRODUÇÃO.md`
+- `20-profissional/10-logika/10-estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md`
+- `20-profissional/10-logika/10-estrategia/FATURAR MAIS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/FATURAR MAIS.md`
+- `20-profissional/10-logika/10-estrategia/MANEIRAS DE OPTMIZAR E AGILIZAR MINHA PRODUÇÃO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/MANEIRAS DE OPTMIZAR E AGILIZAR MINHA PRODUÇÃO.md`
+- `20-profissional/10-logika/10-estrategia/MEU TRABALHO - GERENCIAR AS REDES SOCIAIS DOS MEUS PROJETOS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/MEU TRABALHO - GERENCIAR AS REDES SOCIAIS DOS MEUS PROJETOS.md`
+- `20-profissional/10-logika/10-estrategia/Manter constante estudos para estratégias de crescimento da Empresa.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Manter constante estudos para estratégias de crescimento da Empresa.md`
+- `20-profissional/10-logika/10-estrategia/Manter constância nas postagens principalmente da Empresa - a fim de manter autoridade e constância.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Manter constância nas postagens principalmente da Empresa - a fim de manter autoridade e constância.md`
+- `20-profissional/10-logika/10-estrategia/Marketing-Digital/ECO/SUGESTÃO DE MARCA PARA NOVO NEGÓCIO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Marketing-Digital/ECO/SUGESTÃO DE MARCA PARA NOVO NEGÓCIO.md`
+- `20-profissional/10-logika/10-estrategia/Marketing-Digital/Instagram/CURSO SEBRAE.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Marketing-Digital/Instagram/CURSO SEBRAE.md`
+- `20-profissional/10-logika/10-estrategia/Marketing-Digital/Instagram/Curso SEBRAE_Dia 2.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Marketing-Digital/Instagram/Curso SEBRAE_Dia 2.md`
+- `20-profissional/10-logika/10-estrategia/Marketing-Digital/Instagram/FERRAMENTAS DE ANÁLISE DE PERFIS E CONTEÚDOS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Marketing-Digital/Instagram/FERRAMENTAS DE ANÁLISE DE PERFIS E CONTEÚDOS.md`
+- `20-profissional/10-logika/10-estrategia/Marketing-Digital/Instagram/PERFIS REFERÊNCIAS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Marketing-Digital/Instagram/PERFIS REFERÊNCIAS.md`
+- `20-profissional/10-logika/10-estrategia/Marketing-Digital/Plataformas Online/IDEIAS DE NOMES DE PRODUTOS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Marketing-Digital/Plataformas Online/IDEIAS DE NOMES DE PRODUTOS.md`
+- `20-profissional/10-logika/10-estrategia/PARA A LÓGIKA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/PARA A LÓGIKA.md`
+- `20-profissional/10-logika/10-estrategia/PILARES DO NEGÓCIO AUTORIA - MARKETING - VENDAS - GESTAO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/PILARES DO NEGÓCIO AUTORIA - MARKETING - VENDAS - GESTAO.md`
+- `20-profissional/10-logika/10-estrategia/PRESIDENTE DA CAMARA DÉ DO CAMPO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/PRESIDENTE DA CAMARA DÉ DO CAMPO.md`
+- `20-profissional/10-logika/10-estrategia/Posicionamento/CARREIRA E POSICIONAMENTO PROFISSIONAL.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Posicionamento/CARREIRA E POSICIONAMENTO PROFISSIONAL.md`
+- `20-profissional/10-logika/10-estrategia/Posicionamento/🧠 CEO – MINHA EVOLUÇÃO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/Posicionamento/🧠 CEO – MINHA EVOLUÇÃO.md`
+- `20-profissional/10-logika/10-estrategia/REASSISTIR AULAS COM PEDRO FIUZA -  MEU POSICIONAMENTO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/REASSISTIR AULAS COM PEDRO FIUZA -  MEU POSICIONAMENTO.md`
+- `20-profissional/10-logika/10-estrategia/ROGÉRIO ROCHA -VEREADOR.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/ROGÉRIO ROCHA -VEREADOR.md`
+- `20-profissional/10-logika/10-estrategia/SAÚDE.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/SAÚDE.md`
+- `20-profissional/10-logika/10-estrategia/SEMPRE LEMBRAR RODAR NO MAXIMO 3 PROJETOS NUMA SEMANA (DICA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/SEMPRE LEMBRAR RODAR NO MAXIMO 3 PROJETOS NUMA SEMANA (DICA.md`
+- `20-profissional/10-logika/10-estrategia/SINDSS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/SINDSS.md`
+- `20-profissional/10-logika/10-estrategia/SUGESTÃO DE NOVO NOME LÓGIKA CODE.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/SUGESTÃO DE NOVO NOME LÓGIKA CODE.md`
+- `20-profissional/10-logika/10-estrategia/TRABALHAR NO SUPORTE DOS CURSOS ON-LINE OU INDO PRODUTOS PAR.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/TRABALHAR NO SUPORTE DOS CURSOS ON-LINE OU INDO PRODUTOS PAR.md`
+- `20-profissional/10-logika/10-estrategia/TRAÇAR METAS PARA EMPRESA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/TRAÇAR METAS PARA EMPRESA.md`
+- `20-profissional/10-logika/10-estrategia/🧠 CEO – MINHA EVOLUÇÃO - AGORA SIM, MODO CEO ATIVADO, BRABA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrategia/🧠 CEO – MINHA EVOLUÇÃO - AGORA SIM, MODO CEO ATIVADO, BRABA.md`
+- `20-profissional/10-logika/20-contexto-editorial/Formatos de conteúdo.md` ← `[F1] 5-Frentes/Logika-Creative/11 - CONTEXTO EDITORIAL/Formatos de conteúdo.md`
+- `20-profissional/10-logika/20-contexto-editorial/Tom de voz.md` ← `[F1] 5-Frentes/Logika-Creative/11 - CONTEXTO EDITORIAL/Tom de voz.md`
+- `20-profissional/10-logika/20-contexto-editorial/headlines.md` ← `[F1] 5-Frentes/Logika-Creative/11 - CONTEXTO EDITORIAL/headlines.md`
+- `20-profissional/10-logika/20-contexto-editorial/legendas.md` ← `[F1] 5-Frentes/Logika-Creative/11 - CONTEXTO EDITORIAL/legendas.md`
+- `20-profissional/10-logika/20-contexto-editorial/roteiros.md` ← `[F1] 5-Frentes/Logika-Creative/11 - CONTEXTO EDITORIAL/roteiros.md`
+- `20-profissional/10-logika/20-contexto-editorial/referencias/Padrões que Emergiram.md` ← `[F1] 5-Frentes/Logika-Creative/12 - REFERENCIAS EDITORIAIS/Padrões que Emergiram.md`
+- `20-profissional/10-logika/20-contexto-editorial/referencias/Roteiros.md` ← `[F1] 5-Frentes/Logika-Creative/12 - REFERENCIAS EDITORIAIS/Roteiros.md`
+- `20-profissional/10-logika/20-contexto-editorial/referencias/melhores legendas.md` ← `[F1] 5-Frentes/Logika-Creative/12 - REFERENCIAS EDITORIAIS/melhores legendas.md`
+- `20-profissional/10-logika/30-producao-video/1. CHECK LIST PARA AS EDIÇÕES DOS VIDEOS.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/1. CHECK LIST PARA AS EDIÇÕES DOS VIDEOS.md`
+- `20-profissional/10-logika/30-producao-video/CALCULAR INVESTIMENTOS EM EQUIPAMENTOS E NA EMPRESA.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/CALCULAR INVESTIMENTOS EM EQUIPAMENTOS E NA EMPRESA.md`
+- `20-profissional/10-logika/30-producao-video/EQUIPAMENTOS/CHECK-LIST EQUIPAMENTOS PARA LIVE.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/EQUIPAMENTOS/CHECK-LIST EQUIPAMENTOS PARA LIVE.md`
+- `20-profissional/10-logika/30-producao-video/Estudar e dominar o DAVINCE RESOLVE como nova ferramenta de edição.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Estudar e dominar o DAVINCE RESOLVE como nova ferramenta de edição.md`
+- `20-profissional/10-logika/30-producao-video/Guias/banco-referencias-visual-audio.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/banco-referencias-visual-audio.md`
+- `20-profissional/10-logika/30-producao-video/Guias/guia-capcut-template-mestre.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/guia-capcut-template-mestre.md`
+- `20-profissional/10-logika/30-producao-video/Guias/guia-premiere-template-mestre.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/guia-premiere-template-mestre.md`
+- `20-profissional/10-logika/30-producao-video/Guias/guia-projeto-mestre-canetas-insulina.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/guia-projeto-mestre-canetas-insulina.md`
+- `20-profissional/10-logika/30-producao-video/Guias/personagens-sugeridos.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/personagens-sugeridos.md`
+- `20-profissional/10-logika/30-producao-video/Guias/rota-producao-stories-saude-junho-2026.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/rota-producao-stories-saude-junho-2026.md`
+- `20-profissional/10-logika/30-producao-video/Guias/rota-stories-2026-06-16-entrega-insulina-sao-jose.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/rota-stories-2026-06-16-entrega-insulina-sao-jose.md`
+- `20-profissional/10-logika/30-producao-video/Guias/rota-stories-2026-06-16-saude-especializados.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/rota-stories-2026-06-16-saude-especializados.md`
+- `20-profissional/10-logika/30-producao-video/Guias/rota-stories-2026-06-16-visita-domiciliar-vacinacao.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/rota-stories-2026-06-16-visita-domiciliar-vacinacao.md`
+- `20-profissional/10-logika/30-producao-video/Guias/roteiro-canetas-insulina-serrapovoado.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/roteiro-canetas-insulina-serrapovoado.md`
+- `20-profissional/10-logika/30-producao-video/Guias/roteiros-semana-2-junho-2026.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/roteiros-semana-2-junho-2026.md`
+- `20-profissional/10-logika/30-producao-video/Guias/stories-17-junho-2026.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/stories-17-junho-2026.md`
+- `20-profissional/10-logika/30-producao-video/Guias/templates-reels-saude.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Guias/templates-reels-saude.md`
+- `20-profissional/10-logika/30-producao-video/LIVES/PLANO PUBLICITÁRIO.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/LIVES/PLANO PUBLICITÁRIO.md`
+- `20-profissional/10-logika/30-producao-video/ROTEIROS/Roteiro vídeo Ismael para a Convenção.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/ROTEIROS/Roteiro vídeo Ismael para a Convenção.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/00-INDEX.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/00-INDEX.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/01-T1-REVELACAO.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/01-T1-REVELACAO.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/02-T2-TRANSFORMACAO.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/02-T2-TRANSFORMACAO.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/03-T3-DEPOIMENTO.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/03-T3-DEPOIMENTO.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/04-T4-DICA-RAPIDA.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/04-T4-DICA-RAPIDA.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/05-T5-BASTIDORES.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/05-T5-BASTIDORES.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/06-T6-CHAMADA.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/06-T6-CHAMADA.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/07-T7-MULTI-PERSONAGEM.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/07-T7-MULTI-PERSONAGEM.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/BANCO-HOOKS.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/BANCO-HOOKS.md`
+- `20-profissional/10-logika/30-producao-video/Templates-Universais/CHECKLIST-EXPORTACAO.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/Templates-Universais/CHECKLIST-EXPORTACAO.md`
+- `20-profissional/10-logika/30-producao-video/USAR ESTABILIZADOR E CÂMERA SONY.md` ← `[F1] 5-Frentes/Logika-Creative/Producao-de-Video/USAR ESTABILIZADOR E CÂMERA SONY.md`
+- `20-profissional/10-logika/40-estrutura/CNPJ/CNPJ NAE PARA MEI LÓGIKA.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/CNPJ/CNPJ NAE PARA MEI LÓGIKA.md`
+- `20-profissional/10-logika/40-estrutura/CNPJ/REGISTRO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/CNPJ/REGISTRO.md`
+- `20-profissional/10-logika/40-estrutura/CNPJ CNAE PARA MEI LÓGIKA 5912099 - EDITOR(A) DE VÍDEO IND.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/CNPJ CNAE PARA MEI LÓGIKA 5912099 - EDITOR(A) DE VÍDEO IND.md`
+- `20-profissional/10-logika/40-estrutura/COLOCAR EMPRESA NO GOOGLE MEU NEGOCIO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/COLOCAR EMPRESA NO GOOGLE MEU NEGOCIO.md`
+- `20-profissional/10-logika/40-estrutura/ENTENDENDO E ORGANIZANDO O NUMERO DO SEU NEGOCIO.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/ENTENDENDO E ORGANIZANDO O NUMERO DO SEU NEGOCIO.md`
+- `20-profissional/10-logika/40-estrutura/EQUIPAMENTOS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/EQUIPAMENTOS.md`
+- `20-profissional/10-logika/40-estrutura/LISTA DE TIPOS DE PATROCINADORES.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/LISTA DE TIPOS DE PATROCINADORES.md`
+- `20-profissional/10-logika/40-estrutura/Nova-Identidade/SUGESTOES DE PALETAS.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/Nova-Identidade/SUGESTOES DE PALETAS.md`
+- `20-profissional/10-logika/40-estrutura/🧠 ESTRUTURA ORGANIZACIONAL – LÓGIKA CREATIVE.md` ← `[F1] 5-Frentes/Logika-Creative/Estrutura/🧠 ESTRUTURA ORGANIZACIONAL – LÓGIKA CREATIVE.md`
+- `20-profissional/10-logika/50-financeiro/DESPESAS FIXOS - mensais.md` ← `[F1] 5-Frentes/Logika-Creative/Financeiro/DESPESAS FIXOS - mensais.md`
+- `20-profissional/10-logika/50-financeiro/DESPESAS Variáveis - mensais.md` ← `[F1] 5-Frentes/Logika-Creative/Financeiro/DESPESAS Variáveis - mensais.md`
+- `20-profissional/10-logika/50-financeiro/FÓRMULA PARA DEFINIÇÃO DE PREÇOS.md` ← `[F1] 5-Frentes/Logika-Creative/Financeiro/FÓRMULA PARA DEFINIÇÃO DE PREÇOS.md`
+- `20-profissional/10-logika/50-financeiro/RECEITAS.md` ← `[F1] 5-Frentes/Logika-Creative/Financeiro/RECEITAS.md`
+- `20-profissional/10-logika/60-editais/ALDIR BLANC.md` ← `[F1] 5-Frentes/Logika-Creative/Editais/ALDIR BLANC.md`
+- `20-profissional/10-logika/70-ideias/IDEIA DE FAZER UM REELS SOBRE BASTIDORES DA GRAVAÇÃO.md` ← `[F1] 5-Frentes/Logika-Creative/Ideias/IDEIA DE FAZER UM REELS SOBRE BASTIDORES DA GRAVAÇÃO.md`
+- `20-profissional/10-logika/80-recursos/EQUIPAMENTOS.md` ← `[F1] 5-Frentes/Logika-Creative/Recursos/EQUIPAMENTOS.md`
+- `20-profissional/10-logika/80-recursos/NOTEBOOK.md` ← `[F1] 5-Frentes/Logika-Creative/Recursos/NOTEBOOK.md`
