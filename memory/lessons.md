@@ -6,15 +6,27 @@ setor: operações agentivas
 cliente: Jadielson Davi
 tipo: log
 prioridade: alta
-atualizado_em: 2026-07-22
+atualizado_em: 2026-07-28
 usar_quando: revisão de falhas, aprendizado contínuo, melhoria de procedimentos
 nao_usar_quando: informação operacional normal
 ---
 
 # 📓 Lições Aprendidas — Falhas Operacionais
 
-> Registro de incidentes onde o Cofre não foi consultado primeiro.
-> Cada entrada = 1 falha, com causa, consequência e correção.
+> Registro de incidentes onde o Cofre não foi consultado primeiro, erros operacionais e aprendizados técnicos para o ecossistema.
+
+## 2026-07-28 — [Troubleshooting] Crache do Premiere com fotos JPG específicas / Alternativa via conversão de mídia
+
+- **Incidente:** Travamento completo do Premiere (normal e beta) e Made in Code durante renderização de projeto contendo duas fotografias específicas.
+- **Causa:** Fotos em formato JPG corrompidas ou com espaço de cores ou perfis ICC complexos (ex: RGB de 16/32 bits, perfis proprietários de celulares ou câmeras específicas, compressão progressiva não-padrão) que causam vazamento de memória e travamento no decodificador de imagem nativo do Mercury Render Engine do Adobe Premiere.
+- **Tentativas malsucedidas:** Reduzir qualidade no Lightroom e exportar novamente em JPG (permaneceu travando devido à retenção dos metadados/perfis idênticos ou limitação na decodificação de imagem estática do Premiere sob aceleração por GPU).
+- **Correção/Workflow de sucesso:** Levar as duas fotos para o CapCut, adicioná-las na timeline, renderizar em formato de vídeo (ex: MP4/H.264), carregar esse arquivo de vídeo gerado na timeline do Premiere e fazer a renderização do projeto principal (que agora funciona perfeitamente, inclusive em 4K).
+- **Instruções futuras para o Suporte Técnico (cto):** 
+  1. Em caso de travamento de render (crash no Premiere/Media Encoder), desativar aceleração de hardware nas configurações para isolar se é render de GPU.
+  2. Isolar elementos de mídia na timeline (especialmente fotos estáticas de altíssima resolução).
+  3. Aplicar o workflow de **"Conversão de Imagem Estática para Vídeo"** (via CapCut ou similar) antes de trazer para a timeline do Premiere quando o Lightroom falhar em re-encodar as fotos.
+
+---
 
 ## 2026-07-22 — Criação do protocolo LOCAL-FIRST
 

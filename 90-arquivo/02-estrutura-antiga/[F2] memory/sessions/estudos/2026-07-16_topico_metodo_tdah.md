@@ -1,0 +1,75 @@
+---
+tema: 07 16 topico metodo tdah
+atualizado_em: 2026-07-22
+---
+
+# Registro — criação de tópico de estudos sobre TDAH
+
+Em 2026-07-16, Jadielson pediu no grupo ESTUDOS/Albert a criação de um tópico para estudar o método comprado: **"Você não é preguiçoso: O método para dominar o TDAH"**.
+
+Foi criado o tópico Telegram:
+- Nome: `Você não é preguiçoso — Método TDAH`
+- Chat: `ESTUDOS`
+- Topic ID: `325`
+
+Foi criada a pasta de continuidade no Cofre:
+- `/data/.openclaw/workspace/[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/`
+
+Uso combinado: Jadielson lançará os ebooks no tópico; Albert organizará, resumirá, debaterá e transformará os aprendizados em práticas/checklists.
+
+## 2026-07-16 — Recebimento de PDFs
+Jadielson avisou no tópico que deixará alguns PDFs sobre o método para que o agente ajude a entender e compreender melhor. Preparar fluxo de ingestão: salvar material bruto em `00_INBOX/`, fichar em `02_EBOOKS/`, sintetizar em `03_RESUMOS_E_NOTAS/` e converter aprendizados em exercícios/checklists em `05_EXERCICIOS/`.
+
+## 2026-07-16 — Ebook principal recebido
+Jadielson enviou o documento do ebook principal no Telegram (mensagem 335, file_id `BQACAgEAAyEFAATqAZWZAAIBT2pYY0PRgbNZ-EoD-nNpIQgdtVQPAAIxBwACcxfARjWR0nQP5J5vPQQ`) e informou que enviará bônus complementares em seguida. Foi criado registro em `00_INBOX/2026-07-16_ebook-principal-recebido.md`.
+
+## 2026-07-16 — Bônus recebidos
+Jadielson enviou 5 PDFs bônus complementares ao método: Bônus 01 a 05. Arquivos copiados para `00_INBOX/pdfs/` dentro do projeto de estudo. A mensagem veio duplicada; considerar apenas um conjunto. Registro criado em `00_INBOX/2026-07-16_bonus-recebidos.md`.
+
+## 2026-07-16 — Síntese inicial dos bônus
+PDFs bônus foram processados por extração de texto local (`pypdf`). Criada síntese em `03_RESUMOS_E_NOTAS/2026-07-16_sintese_bonus.md` e exercício em `05_EXERCICIOS/experimento_7_dias_sair_da_inercia.md`.
+
+## 2026-07-16 — PDFs enviados ao Google Drive
+Por solicitação de Jadielson, foi criada/confirmada pasta `ESTUDOS` no Google Drive conectado via Zapier e criada subpasta `Você não é preguiçoso — Método TDAH`. Os 5 bônus foram enviados para a subpasta. Registro detalhado em `00_INBOX/2026-07-16_upload_drive.md`. Pendência: ebook principal ainda sem caminho local disponível para upload.
+
+## 2026-07-16 — Regra de armazenamento: Drive para não Markdown
+Jadielson definiu que todo arquivo que não seja Markdown deve ser salvo no Drive pessoal, não no Cofre. No Cofre ficam apenas notas/registros em `.md`. Regra adicionada ao `_MAPA.md` do curso e registro em `00_INBOX/2026-07-16_regra_arquivos_drive.md`. PDFs e textos extraídos não-Markdown removidos do Cofre após upload dos bônus ao Drive.
+
+## 2026-07-16 — Extração integral dos bônus em Markdown
+Jadielson esclareceu que quer extrair tudo dos PDFs e converter em `.md`, não apenas resumo/principal. Foram criados arquivos integrais dos 5 bônus em `02_EBOOKS/bonus_extraidos_md/`, mantendo os PDFs brutos somente no Drive. Pendência: ebook principal ainda precisa de arquivo acessível para extração/upload.
+
+## 2026-07-16 — Ebook principal localizado no histórico, mas arquivo não acessível pela ferramenta
+Jadielson respondeu à mensagem original do ebook principal dizendo “EBOOK PRINCIPAL TA AQUI.” O contexto confirma que o ebook principal está na mensagem Telegram 335, porém o arquivo bruto não está disponível em `/data/.openclaw/media/inbound` para extração/upload neste momento. Solicitar reenvio do documento como anexo atual se necessário. Regra mantida: bruto no Drive, extração integral em `.md` no Cofre.
+
+## 2026-07-16 — Reenvio do ebook principal sem arquivo acessível
+Jadielson reenviou uma mensagem com `<media:document>` no tópico (message_id 392), mas a ferramenta não disponibilizou caminho local, nome de arquivo ou file_id do documento em `/data/.openclaw/media/inbound`. Não foi possível subir ao Drive nem extrair para Markdown. Solicitar novo envio como documento/anexo, preferencialmente não apenas resposta/encaminhamento, até que apareça no inbound.
+
+## 2026-07-16 — File ID do ebook principal recebido
+Jadielson reenviou o ebook principal como documento no tópico e informou: “ESTE É O ARQUIVO PRINCIPAL...”. Metadados da mensagem 398: file_id `BQACAgEAAyEFAATqAZWZAAIBjmpYyZpbDpmEVneksQYK5dQ0WPcxAAJnBgACcxfIRsWeZsTtBchKPQQ`. Ainda não apareceu caminho local em `/data/.openclaw/media/inbound`, então falta materialização/download do arquivo para upload ao Drive e extração integral em Markdown.
+
+## 2026-07-16 — Ebook principal extraído via link do Drive
+Jadielson enviou link do Drive para o ebook principal: `https://drive.google.com/file/d/17FWFd39GuEg6AM9maxFSqz0Es9pdQBNo/view?usp=sharing`. O PDF foi baixado temporariamente para extração, convertido integralmente para Markdown em `02_EBOOKS/ebook_principal_extraido_integral.md` (61 páginas, ~79.696 caracteres) e o bruto temporário foi removido. Tentativa de copiar o bruto para a subpasta do curso via Zapier falhou por quota (`insufficient tasks on account`); link bruto registrado no Cofre.
+
+## 2026-07-16 — Zapier desativado; Drive via gog
+Jadielson corrigiu o protocolo: “O zapier tá desativado. Agora é via gog mesmo. Consulte a Lôh.” A partir daqui, não usar Zapier para Drive. Para arquivos do curso: brutos ficam no Google Drive via ferramenta/protocolo `gog`; Cofre guarda apenas Markdown extraído/organizado. Alfred foi acionado, mas não retornou protocolo específico do `gog`; é necessário consultar Lôh/arquitetura quando a ferramenta/protocolo estiver disponível/documentado.
+
+## 2026-07-16 — Confirmação da política Lôh: Google via gog, não Zapier
+Consulta ao Cofre confirmou a decisão vigente de Jadielson/Lôh: Google não deve ser acessado via Zapier; usar `gog` e/ou scripts diretos. Documento consultado: `AGENTS.md` seção “Política Google — gog oficial, Zapier proibido para Google” e `[F2] memory/decisions/2026-07-14-google-zapier-removido-gog-oficial.md`. Também foi consultado `[F2] memory/context/integracoes/google_drive_jadielson.md`, que documenta `gog` como CLI Go com contas autenticadas e Drive em modo readonly.
+
+## 2026-07-16 — Análise integrada gestão do tempo + método TDAH
+Jadielson pediu análise aprofundada sobre seus estudos de gestão do tempo, rotina e produtividade, integrando o método TDAH e bônus. Foram consultados materiais do Cofre, registros do Alfred, relatório COO e Tavily. Relatório salvo em `[F2] memory/outputs/central-pessoal/2026-07-16-analise-gestao-tempo-metodo-tdah-vida-empresario.md`.
+
+## 2026-07-18 — Pedido para despejar rotina e pendências
+Jadielson perguntou se pode deixar no tópico a rotina que já estudou/pesquisou e as pendências atuais para que o agente ajude melhor. Resposta recomendada: sim, usar o tópico como ponto de captura estruturada; pedir envio em blocos simples: rotina ideal, rotina real, pendências, compromissos fixos, projetos, energia/travas e urgências. Depois organizar no Cofre em planejamento/checklist/placar.
+
+## 2026-07-18 — Cofre confirmado como fonte para rotina e pendências
+Jadielson confirmou que rotina e pendências já estão no Cofre e perguntou se o agente consegue acessar por lá. Foi feita busca semântica, que falhou por erro de embeddings/API key; aplicado fallback por leitura direta (`find`, `grep`, `read`). Encontrado resumo consolidado em `[F2] memory/outputs/central-pessoal/2026-07-18-resumo-rotina-pendencias-ja-debatidas.md`, com rotina híbrida, áreas A-G, PG/PD e pendências ativas. Próximo passo: transformar esse conteúdo em mapa operacional do Sistema Empresário 70% e placar único.
+
+## 2026-07-18 — Painel operacional Sistema Empresário 70% criado
+Com autorização de Jadielson, o resumo de rotina e pendências já debatidas foi transformado em painel prático do Sistema Empresário 70%. Arquivos salvos:
+- `[F2] memory/outputs/central-pessoal/2026-07-18-painel-operacional-sistema-empresario-70.md`
+- `[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/01_PLANEJAMENTO/2026-07-18_painel_operacional_sistema_empresario_70.md`
+O painel separa Hoje, Semana, PG, PD, Saúde/SMS imprevisível, modo mínimo para tarde quebrada, check-in diário e placar único simples.
+
+## 2026-07-18 — Semana imaginada do Sistema Empresário 70%
+Jadielson perguntou como ficaria a semana inteira. Foi criado arquivo `[F1] ESTUDOS/EM ANDAMENTO/VOCE NAO E PREGUICOSO - METODO TDAH/01_PLANEJAMENTO/2026-07-18_semana_imaginada_sistema_empresario_70.md`, com semana-tipo de segunda a domingo baseada na rotina híbrida, poços de energia, PG/PD, modo mínimo e pendências atuais.

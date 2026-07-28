@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T11:43:05.366Z",
+  "updatedAt": "2026-07-28T12:24:51.195Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -1667,15 +1667,14 @@
       "endLine": 55,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Aguardando aprovação] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Aguardando aprovação] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Aguardando aprovação] -",
-      "recallCount": 380,
+      "recallCount": 381,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 148.4353010416032,
+      "totalScore": 148.80897752642642,
       "maxScore": 0.46347510218620297,
       "firstRecalledAt": "2026-07-13T09:00:40.345Z",
-      "lastRecalledAt": "2026-07-25T17:18:31.963Z",
+      "lastRecalledAt": "2026-07-28T11:52:26.334Z",
       "queryHashes": [
-        "36749c7e3cac",
         "3e2ff0e58da4",
         "3cb1bdeeacb7",
         "8f1d06b00d80",
@@ -1706,7 +1705,8 @@
         "a5bc94de6f25",
         "117ef814720c",
         "a9140b20e63a",
-        "31d52e81445f"
+        "31d52e81445f",
+        "5104369b39fd"
       ],
       "recallDays": [
         "2026-07-13",
@@ -1714,7 +1714,8 @@
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-28"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -3765,15 +3766,14 @@
       "endLine": 52,
       "source": "memory",
       "snippet": "- 2026-07-24 — SMS São Sebastião — 24/07/2026 — Sexta [Aguardando aprovação] - 2026-07-23 — SMS São Sebastião — 23/07/2026 — Quinta [Aguardando aprovação] - 2026-07-22 — SMS São Sebastião — 22/07/2026 — Quarta [Aguardando aprovação] - 2026-07-21 — SMS São Sebastião — 21/07/2026 — Terça [Aguardando aprovação] - 2026-07-20 — SMS São Sebastião — 20/07/2026 — Segunda [Aguardando aprovação] - 2026-07-17 — SMS São Sebastião — 17/07/2026 — Sexta [Aguardando aprovação] - 2026-07-16 — SMS São Sebastião — 16/07/2026 — Quinta [Publicado] - 2026-07-15 — SMS São Sebastião — 15/07/2026 — Quarta [Publicado] - 2026-07-14 — SMS São Sebastião — 14/07/2026 — Terça [Publicado] - 2026-07-13 — SMS São Sebastião —",
-      "recallCount": 126,
+      "recallCount": 127,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 49.015526918598646,
+      "totalScore": 49.38727745813989,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-21T08:16:42.301Z",
-      "lastRecalledAt": "2026-07-25T17:18:31.963Z",
+      "lastRecalledAt": "2026-07-28T11:52:26.334Z",
       "queryHashes": [
-        "426d29535a34",
         "aabd405c2fcb",
         "f4115d492f19",
         "a35c101dc3ed",
@@ -3804,14 +3804,16 @@
         "37b6505f69c2",
         "d2c4d8ae09e3",
         "a5bc94de6f25",
-        "31d52e81445f"
+        "31d52e81445f",
+        "5104369b39fd"
       ],
       "recallDays": [
         "2026-07-21",
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-28"
       ],
       "conceptTags": [
         "24/07/2026",
@@ -6485,16 +6487,14 @@
       "endLine": 39,
       "source": "memory",
       "snippet": "3. Operação/automação: confirmar base oficial de Leads/Clientes no Notion e desenhar fluxo Make.com. 4. Identidade visual: localizar/validar Drive com identidade atual e ajustar logo/aplicações sem rebranding radical. 5. Produção/agenda imediata: semana de pautas da SMS São Sebastião no Calendar entre 13 e 17/07/2026. 6. Projetos/cliente: Jogos Indígenas Karapotó aceitou pacote MiniDoc; pendências originais incluem logística, materiais terrestres, autorizações, prazo de entrega e pagamento — precisa checar se já foram resolvidas em campo. 7. Projetos estratégicos: O Fio da Memória precisa avançar de pesquisa para escolha de protagonista, narrador-historiador e roteiro/plano de filmagem. 8. E",
-      "recallCount": 171,
+      "recallCount": 173,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 66.90174475495334,
+      "totalScore": 67.65885489468094,
       "maxScore": 0.6881670105885843,
       "firstRecalledAt": "2026-07-22T21:42:42.598Z",
-      "lastRecalledAt": "2026-07-28T11:34:20.196Z",
+      "lastRecalledAt": "2026-07-28T11:55:37.478Z",
       "queryHashes": [
-        "da97571c7b79",
-        "57bbc49137f3",
         "726836ed5a53",
         "756d4f804a3e",
         "9599cc0d3f21",
@@ -6524,7 +6524,9 @@
         "3b5c5c91f8ca",
         "6097ab2fbf9f",
         "f6f9e92d9078",
-        "68db5b06d899"
+        "68db5b06d899",
+        "8de09be00733",
+        "7ac4add3f43b"
       ],
       "recallDays": [
         "2026-07-22",
@@ -6552,17 +6554,14 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "--- tema: 07 13 atualizado_em: 2026-07-22 --- # 2026-07-13 ## Jarvis — auditoria rápida de pendências empresariais Pedido de Jadielson no tópico 1/LÓGIKA: \"jarvis, o que tenho pendente da empresa?\" Fontes consultadas: - `AGENTS.md`, `MAPA.md`, `USER.md`, `SOUL.md`, `MEMORY.md`. - `\\[F2\\] memory/context/pendencias.md`. - `\\[F2\\] memory/databases/matriz-tarefas.md`. - `memory/projects/logika-solucoes-digitais/PLAN.md`, `PROPOSTAS-COMERCIAIS.md`, `NOTION-MAKE-LEADS.md`, `BRIEFING-ID-VISUAL.md`, `SISTEMA-PROPOSTAS.md`. - `memory/logika/topicos/5737-jogos-indigenas-karapoto-terra-nova/README.md`. - `memory/projects/projetos/o-fio-da-memoria/2026-07-07_status_pesquisa_para_jadielson.md`. - `[F",
-      "recallCount": 287,
+      "recallCount": 290,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 110.84752840101719,
+      "totalScore": 111.99603589177131,
       "maxScore": 1,
       "firstRecalledAt": "2026-07-22T21:42:42.598Z",
-      "lastRecalledAt": "2026-07-28T11:34:20.196Z",
+      "lastRecalledAt": "2026-07-28T11:55:37.478Z",
       "queryHashes": [
-        "6e45f963d51b",
-        "725ebd8bd504",
-        "d031643b68c5",
         "d49950e5670d",
         "9b55367fb49f",
         "eadc1e3fa5c4",
@@ -6591,7 +6590,10 @@
         "3b5c5c91f8ca",
         "6097ab2fbf9f",
         "f6f9e92d9078",
-        "68db5b06d899"
+        "68db5b06d899",
+        "5104369b39fd",
+        "8de09be00733",
+        "7ac4add3f43b"
       ],
       "recallDays": [
         "2026-07-22",
@@ -7108,15 +7110,14 @@
       "endLine": 34,
       "source": "memory",
       "snippet": "--- tema: 07 21 atualizado_em: 2026-07-22 --- # 2026-07-21 — Memória Durable ## SAÚDE — Pauta do dia 21/07 (Terça) enviada ao time - Lembrete automático da Lôh acionado às 07:00 BRT / 10:00 UTC. - Calendário consultado: `[F1] Calendário Editorial - Matriz 360 - SAÚDE.md` - **Pilar:** Serviços Especializados - **Tema:** Cuidado que vai além - **Setores:** Espaço Cuidar → Laboratório + 💛 Hepatites → CEO → Regulação → Odontomóvel - **Feed:** Carrossel (6 lâminas) — \"Cuidado especializado e prevenção caminham juntos\" - **Enquete:** \"Sabia que o Odontomóvel vai até sua comunidade?\" - **Enviado ao:** Tópico SAÚDE - SOCIAL MEDIA (topic_id: 3672) no grupo LÓGIKA, message_id: 7779 - **Status:** ✅",
-      "recallCount": 37,
+      "recallCount": 38,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 13.872126829624175,
+      "totalScore": 14.22330150604248,
       "maxScore": 0.40749895870685576,
       "firstRecalledAt": "2026-07-22T22:03:47.420Z",
-      "lastRecalledAt": "2026-07-25T15:28:53.687Z",
+      "lastRecalledAt": "2026-07-28T12:24:41.856Z",
       "queryHashes": [
-        "f3b7a335a549",
         "57b83c8d543f",
         "b9c5818d1934",
         "0ff09fedd38c",
@@ -7147,13 +7148,15 @@
         "92483231abb1",
         "1966498f82d0",
         "2b4cdad2a10d",
-        "14321236e537"
+        "14321236e537",
+        "714483fa41cc"
       ],
       "recallDays": [
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-28"
       ],
       "conceptTags": [
         "atualizado-em",
@@ -7890,15 +7893,14 @@
       "endLine": 108,
       "source": "memory",
       "snippet": "| **30/07 (qui)** | 🚀 **LANÇAMENTO 20h** | --- ## ⚠️ PENDÊNCIAS URGENTES — ALERTAS ### 🔴 1. O Fio da Memória — Risco de Prestação de Contas - **Projeto aprovado no PNAB** (Chamamento 01/2024 — São Sebastião/AL) - **Recurso:** R$ 20.000 — recebido ~05/04/2025 (a confirmar) - **Já realizado:** pesquisa, matriz narrativa, argumento V3 aprovado - **Ainda não feito:** gravação, edição, publicação, relatório - **Risco:** edital indica execução até 31/08/2025 (possível atraso de 321 dias) - **Ação urgente:** solicitar à Secretaria de Cultura cópia do Termo de Execução Cultural; confirmar prazo vigente; entrar em modo emergencial de produção - **Status:** Jadielson informou não ter o termo em m",
-      "recallCount": 68,
+      "recallCount": 69,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 26.47973058386633,
+      "totalScore": 26.830642236908172,
       "maxScore": 0.6798361719849931,
       "firstRecalledAt": "2026-07-23T00:01:38.126Z",
-      "lastRecalledAt": "2026-07-25T17:26:05.325Z",
+      "lastRecalledAt": "2026-07-28T12:24:51.195Z",
       "queryHashes": [
-        "786e12a1c139",
         "1074c9ac3cdf",
         "4e8e2153f306",
         "6a53708780a4",
@@ -7929,12 +7931,14 @@
         "a0a82eaaa456",
         "5be030d917ce",
         "ea914db33122",
-        "7b6846f49302"
+        "7b6846f49302",
+        "ba176a878908"
       ],
       "recallDays": [
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-28"
       ],
       "conceptTags": [
         "30/07",
@@ -8771,15 +8775,14 @@
       "endLine": 46,
       "source": "memory",
       "snippet": "--- tema: Registro diário 2026-07-24 conteudo: Compra Mercado Livre, separação de despesas da mãe, alerta ao My Finance, atualização pendências setor: CFO/Finanças cliente: Jadielson Davi tipo: registro diário prioridade: média atualizado_em: 2026-07-24 --- # 24/07/2026 — Registro Diário ## Compra Mercado Livre — Separação Mãe vs. Empresa Jadielson enviou comprovante de Pix (24/07/2026, 09:00h, R$ 440,52) referente a compras no Mercado Livre. **Itens identificados:** - Kit reparo para vaso (mãe): R$ 186,90 - Spot LED (casa da mãe): R$ 54,90 - Hub USB-C 9 em 1 UGREEN (empresa): R$ 189,98 - Adaptador USB-C em L 90° (empresa, c/ desconto): R$ 8,74 **Rateio:** - 🏠 Mãe: R$ 241,80 - 🏢 Empre",
-      "recallCount": 78,
+      "recallCount": 79,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 29.832316297228193,
+      "totalScore": 30.1826816677402,
       "maxScore": 0.5184939967976416,
       "firstRecalledAt": "2026-07-24T15:50:35.665Z",
-      "lastRecalledAt": "2026-07-26T06:20:39.082Z",
+      "lastRecalledAt": "2026-07-28T12:24:41.856Z",
       "queryHashes": [
-        "568dc3181c75",
         "999eb7aa4b00",
         "79f600f1c4a0",
         "0347df3f8ef4",
@@ -8810,12 +8813,14 @@
         "3dcac0be752c",
         "117ef814720c",
         "a9140b20e63a",
-        "6097ab2fbf9f"
+        "6097ab2fbf9f",
+        "714483fa41cc"
       ],
       "recallDays": [
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ],
       "conceptTags": [
         "cfo/finanças",

@@ -1,0 +1,30 @@
+---
+tipo: inbox
+subtipo: 
+data: 2026-05-22
+hora: 19:01
+origem: Telegram
+---
+
+# - MOVIMENTAR O FIO DA MEMORIA
+
+> - Movimentar o fio da memoria
+
+---
+
+## Destino
+- [ ] TAREFA SIMPLES — executar e encerrar
+- [ ] IDEIA / PROJETO NOVO — mover para [[Possíveis Projetos]]
+- [ ] PROJETO EM ANDAMENTO — mover para a frente certa
+
+---
+
+## TAREFA
+**Prazo:** 
+**Frente:** 
+- [ ] próximo passo
+
+## PROJETO / IDEIA
+**Objetivo:** 
+**Fases:**
+- [ ] Fase 1

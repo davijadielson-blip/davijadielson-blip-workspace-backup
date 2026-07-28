@@ -1,0 +1,11 @@
+---
+tema: LINKS DE DOCUMENTARIOS JA FEITOS PARA REFERENCIAS
+atualizado_em: 2026-07-22
+---
+
+
+
+**Rendares:** [https://youtu.be/mBaxvmeeBaA?si=ECRZ6imI2pjgdYFv](https://youtu.be/mBaxvmeeBaA?si=ECRZ6imI2pjgdYFv)
+
+# **Clarice, um patrimônio vivo de Alagoas:** [https://youtu.be/3aJ9g05ToyQ?si=dgYKSUdDyW5TXt0Y](https://youtu.be/3aJ9g05ToyQ?si=dgYKSUdDyW5TXt0Y)
+

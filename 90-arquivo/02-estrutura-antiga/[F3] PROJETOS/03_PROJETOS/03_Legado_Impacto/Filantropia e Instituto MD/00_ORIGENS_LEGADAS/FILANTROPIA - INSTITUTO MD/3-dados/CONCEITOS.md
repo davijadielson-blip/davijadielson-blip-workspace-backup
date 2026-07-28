@@ -1,0 +1,6 @@
+---
+tema: CONCEITOS
+atualizado_em: 2026-07-22
+---
+
+Os empresários bem-sucedidos geralmente se tornam filantropos bem-sucedidos. Bill Gates é apenas um exemplo dentre muitos. Tony Robbins demonstra que, ao criar recursos ou produzir algo, você adquire os meios para ajudar os outros. Este livro vai ser um guia inestimável para permitir que você faça o mesmo — e em uma escala que jamais pensou ser possível. LIVRO INABALÁVEL - Tony Robbins

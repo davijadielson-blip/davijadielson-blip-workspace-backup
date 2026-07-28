@@ -1,0 +1,109 @@
+---
+tema: 07 13 reorganizacao calendarios por frente google api
+atualizado_em: 2026-07-22
+---
+
+# Reorganização Google Calendar por frentes sugeridas — 13/07/2026
+
+- Marcador: `2026-07-13_2026-07-19_v1`
+- Calendários criados: 10
+- Calendários já existentes reutilizados: 0
+- Eventos encontrados com marcador: 70
+- Eventos movidos/recriados: 70
+- Eventos já no calendário certo: 0
+- Erros: 0
+
+## Calendários por frente
+- 🟡 1P / Estudos: `a33605988341a94fa43ebed30083530619221b3030b9bdb00f18149500d14b9d@group.calendar.google.com`
+- ⚪ Base / Revisão / Ócio: `b52fe9b20317934527d5cde0f0cd670cc2297e142586903ad9697a25f810e5ea@group.calendar.google.com`
+- 🟢 Saúde / Energia: `36b35b19451793132591182f6746b47009ef6faf5dd62c4a8b031d780fb120ec@group.calendar.google.com`
+- 🟠 Família: `7ea7bcb6190578a8ef90688343072180b9d6b5ed649f20bd052199f4095b6cdd@group.calendar.google.com`
+- 🟣 Projetos / Produção: `10aa144c3a6375ab0b00c83c9c5113677c6614420df28b2f707e6829754153dc@group.calendar.google.com`
+- 🔵 Câmara: `019d22bd6dcabcc0a2235193e64a083bf8e0ea70cb8cbba2ea86e9540eec3003@group.calendar.google.com`
+- 🟤 SINDSS: `3d7b78ab42cd8439f651c934a58999c9c2365d7aa0110b27f75bbc668a6e5528@group.calendar.google.com`
+- 💰 Receita / Comercial: `0ea0182e2cdbc852e04550c2f5e0cc3e5234efe9dde14de70460781f69ad21f4@group.calendar.google.com`
+- 🧰 Sistemas / Organização: `a6e81b788fc8611393116729a3eba9e0a3b2b7a4ac2a0b7784cfced12734eb64@group.calendar.google.com`
+
+## Criados
+- 🟡 1P / Estudos: `a33605988341a94fa43ebed30083530619221b3030b9bdb00f18149500d14b9d@group.calendar.google.com`
+- ⚪ Base / Revisão / Ócio: `b52fe9b20317934527d5cde0f0cd670cc2297e142586903ad9697a25f810e5ea@group.calendar.google.com`
+- 🟢 Saúde / Energia: `36b35b19451793132591182f6746b47009ef6faf5dd62c4a8b031d780fb120ec@group.calendar.google.com`
+- 🟢 Saúde / Energia: `f18ff5426c1aac314033a1a5befea6ba934d05206ab2f1083cbbb6104baa3eaf@group.calendar.google.com`
+- 🟠 Família: `7ea7bcb6190578a8ef90688343072180b9d6b5ed649f20bd052199f4095b6cdd@group.calendar.google.com`
+- 🟣 Projetos / Produção: `10aa144c3a6375ab0b00c83c9c5113677c6614420df28b2f707e6829754153dc@group.calendar.google.com`
+- 🔵 Câmara: `019d22bd6dcabcc0a2235193e64a083bf8e0ea70cb8cbba2ea86e9540eec3003@group.calendar.google.com`
+- 🟤 SINDSS: `3d7b78ab42cd8439f651c934a58999c9c2365d7aa0110b27f75bbc668a6e5528@group.calendar.google.com`
+- 💰 Receita / Comercial: `0ea0182e2cdbc852e04550c2f5e0cc3e5234efe9dde14de70460781f69ad21f4@group.calendar.google.com`
+- 🧰 Sistemas / Organização: `a6e81b788fc8611393116729a3eba9e0a3b2b7a4ac2a0b7784cfced12734eb64@group.calendar.google.com`
+
+## Eventos movidos
+- 🟣 Entre Tempo — checagem/lista de peças | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=cjJvMmV0YzFrY2I1dWV1dTdnaTYxZHM3MWcgMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🟢 Saúde — 3h | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=dHU5dWFyMzY4aTduMzJpdHN0Ymkwams3YjQgZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🟣 Drone — captação avulsa | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=c251Zmlia2FybXQzZDJtZmNqYThucDRoMDAgMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🧰 Drone — backup/fechamento | Sistema | TRABALHO → 🧰 Sistemas / Organização | https://www.google.com/calendar/event?eid=OGFvcDliaDM5dDhhOHZyc3I0MTgwNjM1bjQgYTZlODFiNzg4ZmM4NjExMzkzMTE2NzI5YTNlYmE5ZTBhM2IyYjdhNGFjMmEwYjc3ODRjZmNlZDEyNzM0ZWI2NEBn
+- 🟣 MiniDoc índios — abrir material/próxima ação | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=MjFtYmhlOXQzbGZtZWJkZ3UxZTRqNzJhNjAgMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🧰 JD AutoCenter — checar status | Sistema | TRABALHO → 🧰 Sistemas / Organização | https://www.google.com/calendar/event?eid=YzR1cW1xMnJwOWFqMTEwZzNxbTh1ZGM4bWsgYTZlODFiNzg4ZmM4NjExMzkzMTE2NzI5YTNlYmE5ZTBhM2IyYjdhNGFjMmEwYjc3ODRjZmNlZDEyNzM0ZWI2NEBn
+- 🟣 Entre Tempo — plano pré-lançamento | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=Y2tvbm9yN3ZvYTlyN2gxcmRydG1wNWJ0bm8gMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🟢 Saúde — campo/alinhamentos | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=OTBrNDh1cnFwZ3R2aXA0MHFyaWhvOTVoOG8gZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🟢 Saúde — operacional/editorial | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=Mm9pM3R0Y2VhOXZqNzJvcnRyNTd2cjdxY28gZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🔵 Câmara | Câmara | TRABALHO → 🔵 Câmara | https://www.google.com/calendar/event?eid=NzNjZmFsYmo4NXM4ZG85cjYxaW9kZGY4M2sgMDE5ZDIyYmQ2ZGNhYmNjMGEyMjM1MTkzZTY0YTA4M2JmOGUwZWE3MGNiOGNiYmEyZWE4NmU5NTQwZWVjMzAwM0Bn
+- 🟣 MiniDoc índios — estrutura/timeline | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=cnI3ODViOW50amxlcWFqZGw1dTEyYjhwNG8gMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🟢 Saúde — campo/aniversários | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=aXZrYm1vdWhocmU4MThwZTAzYXFwZzF2aG8gZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🟢 Saúde — operacional | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=YjZqZmU0b29iNmJ0dW1sb3BrNGszc280ZTQgZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🟤 SINDSS | SINDSS | TRABALHO → 🟤 SINDSS | https://www.google.com/calendar/event?eid=Z2thaGxxbjZtcjQ5bTkya3M4dnVsczgwMG8gM2Q3Yjc4YWI0MmNkODQzOWY2NTFjOTM0YTU4OTk5YzljMjM2NWQ3YWEwMTEwYjI3Zjc1YmJjNjY4YTZlNTUyOEBn
+- 💰 JJ + Quiel/Kauã/Lídio — checar/rascunhar | Receita | TRABALHO → 💰 Receita / Comercial | https://www.google.com/calendar/event?eid=OTU5cXE4YWtmOTVtZ24yZHRqcXNrbGU4ZjggMGVhMDE4MmUyY2RiYzg1MmUwNDU1MGMyZjVlMGNjM2U1MjM0ZWZlOWRkZTE0ZGU3MDQ2MDc4MWY2OWFkMjFmNEBn
+- 🟣 O Fio da Memória — documento/protagonista/narrador | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=b3Z0ZWQ0aTN0YzE2dTVwNzJzbGxvYmppcmMgMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🟢 Saúde — recepção sem atendimento/campo | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=azlhZnRwdTgxdnFicGFsamRhZTBldGhucmsgZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🟢 Saúde — operacional | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=Z2lmbG5uOW90YmhlNDB0czVwdDNia2U4YTggZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🔵 Câmara | Câmara | TRABALHO → 🔵 Câmara | https://www.google.com/calendar/event?eid=OHYzczg3cTJkcGxwa281aWQ1bGtmZG1jdmsgMDE5ZDIyYmQ2ZGNhYmNjMGEyMjM1MTkzZTY0YTA4M2JmOGUwZWE3MGNiOGNiYmEyZWE4NmU5NTQwZWVjMzAwM0Bn
+- 💰 Orçamento Quiel/Kauã/Lídio | Receita | TRABALHO → 💰 Receita / Comercial | https://www.google.com/calendar/event?eid=bnQybmVxYTZwOHZvYXM4MXJxbzd1YjljamcgMGVhMDE4MmUyY2RiYzg1MmUwNDU1MGMyZjVlMGNjM2U1MjM0ZWZlOWRkZTE0ZGU3MDQ2MDc4MWY2OWFkMjFmNEBn
+- 🟣 Entre Tempo — kit pré-lançamento | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=cmM5cG1pbmlwZjRnM3Fkdmw2aTE3NTE0a2sgMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🟢 Saúde + modelo ASCOM | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=djZwaGtuNWJuY2MzN200MmQ3ZWJlZjc1dnMgZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🟢 Saúde — escolher 1 vídeo pendente | Saúde | TRABALHO → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=anJmbDY4bW5kNGVsazB1YzVxdnRoNjZxbmcgZjE4ZmY1NDI2YzFhYWMzMTQwMzNhMWE1YmVmZWE2YmE5MzRkMDUyMDZhYjJmMTA4M2NiYmI2MTA0YmFhM2VhZkBn
+- 🧰 Template base vídeos/stories | Sistema | TRABALHO → 🧰 Sistemas / Organização | https://www.google.com/calendar/event?eid=cTc3NjFwdnFtNWE3dTQ5dmc5OTlrNjJ2aDQgYTZlODFiNzg4ZmM4NjExMzkzMTE2NzI5YTNlYmE5ZTBhM2IyYjdhNGFjMmEwYjc3ODRjZmNlZDEyNzM0ZWI2NEBn
+- 💰 Francisco Euzébio — rascunho mínimo | Receita | TRABALHO → 💰 Receita / Comercial | https://www.google.com/calendar/event?eid=aXA0dTF0OXM0YzViZ21jcHNhc2U0bW1hOW8gMGVhMDE4MmUyY2RiYzg1MmUwNDU1MGMyZjVlMGNjM2U1MjM0ZWZlOWRkZTE0ZGU3MDQ2MDc4MWY2OWFkMjFmNEBn
+- 💰 JJ/orçamentos/recebimentos/follow-ups | Receita | TRABALHO → 💰 Receita / Comercial | https://www.google.com/calendar/event?eid=b2o4N2R0YmdqOXM0NHR1c292NDhlcjhsY2MgMGVhMDE4MmUyY2RiYzg1MmUwNDU1MGMyZjVlMGNjM2U1MjM0ZWZlOWRkZTE0ZGU3MDQ2MDc4MWY2OWFkMjFmNEBn
+- 🟣 Assembleia de Deus — abrir material/listar ações | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=bnNsYTJ1Y21mOW52bnJkZ3AxcnZxbTQybDQgMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🟣 MiniDoc ou Entre Tempo | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=azFnaXRuc3ZqY2RhMjRkdm40Z3ZmbDY1a2cgMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🟣 O Fio da Memória | Projeto | TRABALHO → 🟣 Projetos / Produção | https://www.google.com/calendar/event?eid=OWtmaDQ1bW9jZGhnaWFtMjJvYjRxMDhkOW8gMTBhYTE0NGMzYTYzNzVhYjBiMDBjODNjOWM1MTEzNjc3YzY2MTQ0MjBkZjI4YjJmNzA3ZTY4Mjk3NTQxNTNkY0Bn
+- 🧰 Arquivos/Drive | Sistema | TRABALHO → 🧰 Sistemas / Organização | https://www.google.com/calendar/event?eid=cHFycGpyYmEwaGo5NWo3cjBvNW5rb2F0bnMgYTZlODFiNzg4ZmM4NjExMzkzMTE2NzI5YTNlYmE5ZTBhM2IyYjdhNGFjMmEwYjc3ODRjZmNlZDEyNzM0ZWI2NEBn
+- 🧰 CRM/Notion/Forms ou sistema propostas | Sistema | TRABALHO → 🧰 Sistemas / Organização | https://www.google.com/calendar/event?eid=bDJjcmNqNzk1MWgzMmk3YTZjNTgwa201YTggYTZlODFiNzg4ZmM4NjExMzkzMTE2NzI5YTNlYmE5ZTBhM2IyYjdhNGFjMmEwYjc3ODRjZmNlZDEyNzM0ZWI2NEBn
+- 🧰 Skills eleja.se | Sistema | TRABALHO → 🧰 Sistemas / Organização | https://www.google.com/calendar/event?eid=YzkycmVobWNjdXZwbmo2Y3E5N2gwMDQzMDAgYTZlODFiNzg4ZmM4NjExMzkzMTE2NzI5YTNlYmE5ZTBhM2IyYjdhNGFjMmEwYjc3ODRjZmNlZDEyNzM0ZWI2NEBn
+- 🟠 Família — escola filha + almoço | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=Zjc0OG0zbTJlYjNsZmEzZmV2Z2JiOGFhZnMgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — passeio/filha/família | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=dDJmbWtmcGJvdWQzajVrZjdrbmplaHZ2ZWcgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — escola filha + almoço | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=Z21icnY1dmtsZTYwZ2Qya3RsajJ1aG41Y3MgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — passeio/filha/família | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=NHFjYTlwdWFiYWVhaDFzNzJhNjlzbzNvYTAgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — escola filha + almoço | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=cjI0cW1hcGJybTVpYmpjdjlidGNyOW5kdWMgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — passeio/filha/família | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=NjJ1ODhnbzlsNXM4NTBsMXZnbTQ0cDc5dTggN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — escola filha + almoço | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=dXBsdW1sbzJuOGFiMmI5NGo2ZXNocjRkZzggN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — passeio/filha/família | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=YjRwbGcyY25wbnZlbW0xajVpaWV1cnI5cWsgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — escola filha + almoço | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=NmV0YW42Ym51M2huam9rY2d1YWlhdThpZGMgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Família — passeio/filha/família | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=MDcxM2xiZmdyNjludThsZWRzcmM2dmM2NmsgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟠 Fotos da Eloáh | Família | Família → 🟠 Família | https://www.google.com/calendar/event?eid=dDAxY3NnMjhuZTRubWpmb3NwcGtuZjl2YjQgN2VhN2JjYjYxOTA1NzhhOGVmOTA2ODgzNDMwNzIxODBiOWQ2YjVlZDY0OWYyMGJkMDUyMTk5ZjQwOTViNmNkZEBn
+- 🟡 1P — estudo ativo parte 1 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=bnM0bTN0ZjQ2cXM2Zmo4cTZncnRiY2E5bWsgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — aplicação prática parte 2 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=NHVxN3Q1anF2NWEyMWJ1NWNjb2puOWY3bTQgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — estudo ativo parte 1 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=b2wyczZidDBzNGt2anFua3NyZ2hzYW5nYWMgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — aplicação prática parte 2 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=Z3F1bXV2Nml0ZDVrcnJwbTMzcmVodWZkMTQgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — estudo ativo parte 1 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=ZzQ2aDQ0OTM0YXY2bnVjcGU3c2V1NDFsbDggYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — aplicação prática parte 2 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=dWE4dmhrdTVmZmJrMDdyOXF1a2IzcXA0YTQgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — estudo ativo parte 1 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=ZnJpanE5M2JvNHB1Nmc4aGFnanAxbjNsdnMgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — aplicação prática parte 2 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=Yjg2c29uaDRhcmE2amNmNThwMzVocDRoN2cgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — estudo ativo parte 1 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=ZXFibDJvbmkyNTdjMjlwdWFtc3BvMTEyNWcgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- 🟡 1P — aplicação prática parte 2 | Estudos | ESTUDOS → 🟡 1P / Estudos | https://www.google.com/calendar/event?eid=MGY5bnNiOHYycmppbnViaHR1cWxwMXA0czQgYTMzNjA1OTg4MzQxYTk0ZmE0M2ViZWQzMDA4MzUzMDYxOTIyMWIzMDMwYjliZGIwMGYxODE0OTUwMGQxNGI5ZEBn
+- ⚪ Base vital — oração/silêncio/direção | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=MDNsZzAwNTNwcmlwMmQ3NGgzM2ZkdW4waDggYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Fechamento — revisão PG/PD + amanhã | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=bjdmYTQ0ZzkyaDlmZzJvdnFsNjV2cDY3bG8gYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Base vital — oração/silêncio/direção | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=NTI1dmRidHE3a2VpbGxvc3VoaW4xcnN1dnMgYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Fechamento — revisão PG/PD + amanhã | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=MHRiaDY4cWQwajVjOTNrczQxNHBqN2Z0aW8gYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Base vital — oração/silêncio/direção | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=bDlkMjBtNzYyZmpwNTRmNm03aDgwaDIxNGcgYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Fechamento — revisão PG/PD + amanhã | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=aTViMWYxb2Q1OHRybnJpbmRhZnFucWJtZm8gYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Base vital — oração/silêncio/direção | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=dDBhN2Q3YWM0bGFyMDdxYzNoZHFqZXNrMGcgYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Fechamento — revisão PG/PD + amanhã | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=dDMyYjhyNzM0b3FtNWY0ZG9oNnAxdGVzYTggYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Base vital — oração/silêncio/direção | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=NjZnZW9sYjNucnZpYTUyZjZ2MjZtbml1ZWcgYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Fechamento — revisão PG/PD + amanhã | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=amM1c2ptazRncWMxdTRsN2tqaWFuOGlsajQgYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Planejamento próxima semana | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=dXFyNHNyN2hxdjQxODhxY2IycmJrcHJpZW8gYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- ⚪ Domingo livre — ócio criativo | Base | ANCORAGEM → ⚪ Base / Revisão / Ócio | https://www.google.com/calendar/event?eid=a3RmMGp1Z2QwMTJnaXYzMmhqMTM5MmlrdWcgYjUyZmU5YjIwMzE3OTM0NTI3ZDVjZGUwZjBjZDY3MGNjMjI5N2UxNDI1ODY5MDNhZDk2OTdhMjVmODEwZTVlYUBn
+- 🟢 Energia — treino/preparo/café | Energia | ENERGIA & BEM-ESTAR → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=dDUzaHVsMTBldGxzdmg4M2d1OTdtYWVtOG8gMzZiMzViMTk0NTE3OTMxMzI1OTExODJmNjc0NmI0NzAwOWVmNmZhZjVkZDYyYzRhOGIwMzFkNzgwZmIxMjBlY0Bn
+- 🟢 Energia — treino/preparo/café | Energia | ENERGIA & BEM-ESTAR → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=ajFjMWNwYTg5bmJ1NWxwMDY0cGZwcGpxOGcgMzZiMzViMTk0NTE3OTMxMzI1OTExODJmNjc0NmI0NzAwOWVmNmZhZjVkZDYyYzRhOGIwMzFkNzgwZmIxMjBlY0Bn
+- 🟢 Energia — treino/preparo/café | Energia | ENERGIA & BEM-ESTAR → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=bTJ2ZW1uZDIwYXJsNTNyZWJ0MGkzcDU2MjggMzZiMzViMTk0NTE3OTMxMzI1OTExODJmNjc0NmI0NzAwOWVmNmZhZjVkZDYyYzRhOGIwMzFkNzgwZmIxMjBlY0Bn
+- 🟢 Energia — treino/preparo/café | Energia | ENERGIA & BEM-ESTAR → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=NjFldjVobnBmdXY3NDA3cTAwOWw5c3R2cm8gMzZiMzViMTk0NTE3OTMxMzI1OTExODJmNjc0NmI0NzAwOWVmNmZhZjVkZDYyYzRhOGIwMzFkNzgwZmIxMjBlY0Bn
+- 🟢 Energia — treino/preparo/café | Energia | ENERGIA & BEM-ESTAR → 🟢 Saúde / Energia | https://www.google.com/calendar/event?eid=c2Y0MWczM3BuNTZ2ODA2OG9nNjVsMjZ1NGcgMzZiMzViMTk0NTE3OTMxMzI1OTExODJmNjc0NmI0NzAwOWVmNmZhZjVkZDYyYzRhOGIwMzFkNzgwZmIxMjBlY0Bn

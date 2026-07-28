@@ -1,0 +1,94 @@
+---
+tema: 07 13 google api publicacao agenda semanal
+atualizado_em: 2026-07-22
+---
+
+# Publicação Google Calendar via API direta — Semana 13–19/07/2026
+
+- Eventos apagados/recriados com marcador anterior: 0
+- Eventos criados: 70
+- Erros: 0
+
+## Calendários usados
+- Base: `26e97c36b69d5bc1daa1d01d36ad17ffd76c353717fc3d50dc85e7b6f6b1cba2@group.calendar.google.com`
+- Estudos: `f3dcda6165592664b702be496fd6e83a64945671239f0fab4714f1953ae1964a@group.calendar.google.com`
+- Energia: `davijadielson@gmail.com`
+- Família: `family15752428690257628091@group.calendar.google.com`
+- Projeto: `efe24b377a67a5e77947c316c8a6342a2de07e180952b32bf614990c20aacd83@group.calendar.google.com`
+- Saúde: `efe24b377a67a5e77947c316c8a6342a2de07e180952b32bf614990c20aacd83@group.calendar.google.com`
+- Câmara: `efe24b377a67a5e77947c316c8a6342a2de07e180952b32bf614990c20aacd83@group.calendar.google.com`
+- SINDSS: `efe24b377a67a5e77947c316c8a6342a2de07e180952b32bf614990c20aacd83@group.calendar.google.com`
+- Receita: `efe24b377a67a5e77947c316c8a6342a2de07e180952b32bf614990c20aacd83@group.calendar.google.com`
+- Sistema: `efe24b377a67a5e77947c316c8a6342a2de07e180952b32bf614990c20aacd83@group.calendar.google.com`
+
+## Eventos criados
+- 2026-07-13 04:00-05:00 | Base | ⚪ Base vital — oração/silêncio/direção | https://www.google.com/calendar/event?eid=aTFnYWxub25kcW9uYXFwbjNxNmRodjVnMnMgMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-13 05:00-06:30 | Estudos | 🟡 1P — estudo ativo parte 1 | https://www.google.com/calendar/event?eid=OTJuYjBiY2x0aTJrbGMxMzdrM2hpdWwwNDQgZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-13 06:30-07:30 | Energia | 🟢 Energia — treino/preparo/café | https://www.google.com/calendar/event?eid=N3ZjZDc5NzlsYnJyZHU4YzM2cnVmbms0cHMgZGF2aWphZGllbHNvbkBt
+- 2026-07-13 11:30-13:00 | Família | 🟠 Família — escola filha + almoço | https://www.google.com/calendar/event?eid=a2VqYXZ2aWZzdWtnc3RxbDZmOHM5ZnZ2MjggZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-13 17:00-19:00 | Família | 🟠 Família — passeio/filha/família | https://www.google.com/calendar/event?eid=OGhuYnJiMWozdDk5Y3FxdWgydGExMmZnYzAgZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-13 19:00-20:30 | Estudos | 🟡 1P — aplicação prática parte 2 | https://www.google.com/calendar/event?eid=bmhwbDlkMTF0dXZzY3AwamdoazNyYzRidWcgZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-13 20:30-21:00 | Base | ⚪ Fechamento — revisão PG/PD + amanhã | https://www.google.com/calendar/event?eid=YnExbmE0ZHJwMHNkbHUzdjJ0Z2hlbGRzdjAgMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-14 04:00-05:00 | Base | ⚪ Base vital — oração/silêncio/direção | https://www.google.com/calendar/event?eid=a25ldWhqajZ0bjNwMnM2anVyMm5wM2IyazggMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-14 05:00-06:30 | Estudos | 🟡 1P — estudo ativo parte 1 | https://www.google.com/calendar/event?eid=MXA1ZjlkMWF1N2ZmdDliNXRzNmNtMWo4YWsgZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-14 06:30-07:30 | Energia | 🟢 Energia — treino/preparo/café | https://www.google.com/calendar/event?eid=NDVuN2dlMDMxdmtxNmkwbjcxazRucDF0dGcgZGF2aWphZGllbHNvbkBt
+- 2026-07-14 11:30-13:00 | Família | 🟠 Família — escola filha + almoço | https://www.google.com/calendar/event?eid=ODl2M3R1NXNyZ3E4Z3M1OXRjNm5laG1raW8gZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-14 17:00-19:00 | Família | 🟠 Família — passeio/filha/família | https://www.google.com/calendar/event?eid=aTFzaHRicG1yY3JvMDBvbTRyNXNnZjZicjggZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-14 19:00-20:30 | Estudos | 🟡 1P — aplicação prática parte 2 | https://www.google.com/calendar/event?eid=YTVjZTZnODl1Y3U5ZXBhMzk5cmZwcG9icG8gZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-14 20:30-21:00 | Base | ⚪ Fechamento — revisão PG/PD + amanhã | https://www.google.com/calendar/event?eid=ZmViaWV1NTExajhpbHBlaXBsajdqNmxzMm8gMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-15 04:00-05:00 | Base | ⚪ Base vital — oração/silêncio/direção | https://www.google.com/calendar/event?eid=azc2b3Z0Mjl2bGZjdWxkaTI4am5lazFlNGsgMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-15 05:00-06:30 | Estudos | 🟡 1P — estudo ativo parte 1 | https://www.google.com/calendar/event?eid=NDMwYzM3ZHUyYnJvZGRtMzlnM2tiaG40am8gZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-15 06:30-07:30 | Energia | 🟢 Energia — treino/preparo/café | https://www.google.com/calendar/event?eid=ODFicmJxMXZmYjQ4bWcydDIwaXQydHIyY28gZGF2aWphZGllbHNvbkBt
+- 2026-07-15 11:30-13:00 | Família | 🟠 Família — escola filha + almoço | https://www.google.com/calendar/event?eid=ZGI4NmlnYWczMm50a2JtbmZiamQzM3ZhdTAgZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-15 17:00-19:00 | Família | 🟠 Família — passeio/filha/família | https://www.google.com/calendar/event?eid=NjQzaXB1NmwyN3VuOTdxMXBiM3B0aHA4YmsgZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-15 19:00-20:30 | Estudos | 🟡 1P — aplicação prática parte 2 | https://www.google.com/calendar/event?eid=dDd2c29jNzRnaTFrcjQ3dGdnbmFsbGI3dmsgZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-15 20:30-21:00 | Base | ⚪ Fechamento — revisão PG/PD + amanhã | https://www.google.com/calendar/event?eid=OG04dXRidTNrdDhkaDBiaW9xcXRuZ3QwZ2MgMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-16 04:00-05:00 | Base | ⚪ Base vital — oração/silêncio/direção | https://www.google.com/calendar/event?eid=YzBmdGZjNzBpc2QxMXBudmhiajZucGo0OGsgMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-16 05:00-06:30 | Estudos | 🟡 1P — estudo ativo parte 1 | https://www.google.com/calendar/event?eid=ZmFoa3RiMWVja3M1OW0wYTA5a3FkNjNsc2cgZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-16 06:30-07:30 | Energia | 🟢 Energia — treino/preparo/café | https://www.google.com/calendar/event?eid=amZicmoyOXA3dHNmMmZtOHFjaGhuYXNycWsgZGF2aWphZGllbHNvbkBt
+- 2026-07-16 11:30-13:00 | Família | 🟠 Família — escola filha + almoço | https://www.google.com/calendar/event?eid=bjVlbWZpZGFicmdsaXYxY3FocDdlaHYwZDAgZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-16 17:00-19:00 | Família | 🟠 Família — passeio/filha/família | https://www.google.com/calendar/event?eid=NGkxYTg1cHFvaGx2dDQwcGRvdHEwNWg3bTQgZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-16 19:00-20:30 | Estudos | 🟡 1P — aplicação prática parte 2 | https://www.google.com/calendar/event?eid=cnYzczl2cjNkYnVvMHFzaG4xNTBzdWVnYWMgZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-16 20:30-21:00 | Base | ⚪ Fechamento — revisão PG/PD + amanhã | https://www.google.com/calendar/event?eid=bjRjcDRicWd1ODlpb2ZobGVlZ2pwaWptam8gMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-17 04:00-05:00 | Base | ⚪ Base vital — oração/silêncio/direção | https://www.google.com/calendar/event?eid=MGMxdDFqZTVhYjV2dXIxOGlyYW1kcTJqMmMgMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-17 05:00-06:30 | Estudos | 🟡 1P — estudo ativo parte 1 | https://www.google.com/calendar/event?eid=ODJkbTNnNjAzYnZ2dG5tdDU0ZDRsZHMzOWsgZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-17 06:30-07:30 | Energia | 🟢 Energia — treino/preparo/café | https://www.google.com/calendar/event?eid=aXZtZGV1Z3FlZnJucW0yMWprNzF2MGpvOW8gZGF2aWphZGllbHNvbkBt
+- 2026-07-17 11:30-13:00 | Família | 🟠 Família — escola filha + almoço | https://www.google.com/calendar/event?eid=MW1wOXQxMmo3ZXExdmJsZWNsaTNjNmV0Ym8gZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-17 17:00-19:00 | Família | 🟠 Família — passeio/filha/família | https://www.google.com/calendar/event?eid=NjdtYW1lb3JlMml1cTdwMm1kOWI1cGUxNm8gZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-17 19:00-20:30 | Estudos | 🟡 1P — aplicação prática parte 2 | https://www.google.com/calendar/event?eid=Zm5xanI4ZDJzZmo1ZDAxZGhwbjdtZ2h0dG8gZjNkY2RhNjE2NTU5MjY2NGI3MDJiZTQ5NmZkNmU4M2E2NDk0NTY3MTIzOWYwZmFiNDcxNGYxOTUzYWUxOTY0YUBn
+- 2026-07-17 20:30-21:00 | Base | ⚪ Fechamento — revisão PG/PD + amanhã | https://www.google.com/calendar/event?eid=anY3amY4NGozbDZlZWdkZ3Zqbm42cW1uZTggMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-13 07:30-08:30 | Projeto | 🟣 Entre Tempo — checagem/lista de peças | https://www.google.com/calendar/event?eid=cTFtcGs5cHFwZGRpZWZuZ2N2aWkzMDJvaXMgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-13 08:30-11:30 | Saúde | 🟢 Saúde — 3h | https://www.google.com/calendar/event?eid=NGJ1N2VsbzZpZ25iZmo5MzRsMzl2MWN1b2MgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-13 13:00-15:00 | Projeto | 🟣 Drone — captação avulsa | https://www.google.com/calendar/event?eid=Y3E5YzZrZTI0bDU2dDdpcWJlbTQ4N3I4bzAgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-13 15:00-15:30 | Sistema | 🧰 Drone — backup/fechamento | https://www.google.com/calendar/event?eid=NXZjMzl1YXJmNXRydTI3b3BsNzNxb2kzdW8gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-13 15:30-16:30 | Projeto | 🟣 MiniDoc índios — abrir material/próxima ação | https://www.google.com/calendar/event?eid=NjVpMDQ4N203cjBjZnZvaW44c21qcmswdXMgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-13 16:30-17:00 | Sistema | 🧰 JD AutoCenter — checar status | https://www.google.com/calendar/event?eid=bWR1Zm5rNzRhNGQ0ajBzZXAyYmoxcWNjdjQgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-14 07:30-10:15 | Projeto | 🟣 Entre Tempo — plano pré-lançamento | https://www.google.com/calendar/event?eid=bDljMWwxajB1dWo4MnM3NjdqNWVub3BtaGMgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-14 10:15-11:30 | Saúde | 🟢 Saúde — campo/alinhamentos | https://www.google.com/calendar/event?eid=Z3UzZGlpc3VkMzJrNnJqb3R1aWdqcGZsMHMgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-14 13:00-15:00 | Saúde | 🟢 Saúde — operacional/editorial | https://www.google.com/calendar/event?eid=Y2NyMDA4NW00OWRjbTNxcDE5amp0Z2tzYTggZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-14 15:00-17:00 | Câmara | 🔵 Câmara | https://www.google.com/calendar/event?eid=N3Nrb2M0MnQwaDJlaDNsMTVqMnN1cnNsbTQgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-15 07:30-10:15 | Projeto | 🟣 MiniDoc índios — estrutura/timeline | https://www.google.com/calendar/event?eid=YWRyMnI3YjZtcWpxNHZuZWFkaWhjY3ZmZTQgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-15 10:15-11:30 | Saúde | 🟢 Saúde — campo/aniversários | https://www.google.com/calendar/event?eid=cDllOXBtMzZhbWg1MmU2a3JqNjJpMDhlODQgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-15 13:00-15:00 | Saúde | 🟢 Saúde — operacional | https://www.google.com/calendar/event?eid=a2dsc2ZsOWZicGNnbXJpbjhnNHNkOHNkNzggZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-15 15:00-16:30 | SINDSS | 🟤 SINDSS | https://www.google.com/calendar/event?eid=YmpwOXY1ZmRtZHNrYjltaWo2YnFhcmY1cG8gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-15 16:30-17:00 | Receita | 💰 JJ + Quiel/Kauã/Lídio — checar/rascunhar | https://www.google.com/calendar/event?eid=M28wbGs1YnB0Y2FhNzgxOW03NjUycGZwNGcgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-16 07:30-10:15 | Projeto | 🟣 O Fio da Memória — documento/protagonista/narrador | https://www.google.com/calendar/event?eid=NDI5a3BqdmFzM3Iyc3Vrc3J0bDdiYWJlZWsgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-16 10:15-11:30 | Saúde | 🟢 Saúde — recepção sem atendimento/campo | https://www.google.com/calendar/event?eid=NzN1OWZydDBxY3Bhb29lNXU3ZDdxMDJmNDAgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-16 13:00-15:00 | Saúde | 🟢 Saúde — operacional | https://www.google.com/calendar/event?eid=c2hyMm9qM24zc2cxM3NqbDVmZG5ncTNwY28gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-16 15:00-16:30 | Câmara | 🔵 Câmara | https://www.google.com/calendar/event?eid=M2JqMDVnbTI0aDJwY3JzMmlpdjRvZDZ2N28gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-16 16:30-17:00 | Receita | 💰 Orçamento Quiel/Kauã/Lídio | https://www.google.com/calendar/event?eid=ZGVzNzNrZzBidnZjNWJjYWJhdjFyZzk3M28gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-17 07:30-10:15 | Projeto | 🟣 Entre Tempo — kit pré-lançamento | https://www.google.com/calendar/event?eid=bmViZzBxMnE1dWM3bWU0djRxdm03MDczMW8gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-17 10:15-11:30 | Saúde | 🟢 Saúde + modelo ASCOM | https://www.google.com/calendar/event?eid=MnYxNGczZDFhdW44dm01cWlwcWh0czk3cW8gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-17 13:00-14:30 | Saúde | 🟢 Saúde — escolher 1 vídeo pendente | https://www.google.com/calendar/event?eid=N3M5c2VtdmtyZDk5c2dlaHZ2cmx2ZmhoMG8gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-17 14:30-15:30 | Sistema | 🧰 Template base vídeos/stories | https://www.google.com/calendar/event?eid=NXM5cG1iMTVjdTYwamk0dDZiNHE4cnFuYWsgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-17 15:30-16:15 | Receita | 💰 Francisco Euzébio — rascunho mínimo | https://www.google.com/calendar/event?eid=aW11NHZnOXUyOHN2ZGpqYm41c3YzbGo2czggZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-17 16:15-17:00 | Receita | 💰 JJ/orçamentos/recebimentos/follow-ups | https://www.google.com/calendar/event?eid=MHJwYml1dnNxNWtkdmhxZmIxMHExbTV1bHMgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-18 08:00-09:30 | Projeto | 🟣 Assembleia de Deus — abrir material/listar ações | https://www.google.com/calendar/event?eid=NWQ2dXFuZ28zYjBvZ2o0Z3FidHBka2wwYzAgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-18 09:30-10:30 | Projeto | 🟣 MiniDoc ou Entre Tempo | https://www.google.com/calendar/event?eid=aThwZHBvcmdsdW9vdmFkbHRidGQ1MTVucGsgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-18 10:30-11:30 | Projeto | 🟣 O Fio da Memória | https://www.google.com/calendar/event?eid=OHFzZWtjNWUxNXExOTRiYnAwaW5tajhzMmsgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-18 14:00-14:45 | Sistema | 🧰 Arquivos/Drive | https://www.google.com/calendar/event?eid=b2huZzBrMjNiMTdjNzBoMGhrNWlsNWJrbW8gZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-18 14:45-15:30 | Sistema | 🧰 CRM/Notion/Forms ou sistema propostas | https://www.google.com/calendar/event?eid=MWJuNzZhdnMwaG1pYnVhdG9tanB2Z3BoZnMgZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-18 15:30-16:00 | Sistema | 🧰 Skills eleja.se | https://www.google.com/calendar/event?eid=N2FlbGR2bTFodXZxOTBnY25hZ2Q5bDdscjggZWZlMjRiMzc3YTY3YTVlNzc5NDdjMzE2YzhhNjM0MmEyZGUwN2UxODA5NTJiMzJiZjYxNDk5MGMyMGFhY2Q4M0Bn
+- 2026-07-18 16:00-16:30 | Família | 🟠 Fotos da Eloáh | https://www.google.com/calendar/event?eid=N2dnMjlpdHQxc3Nja2Nsbmp2NzZuZDNrczAgZmFtaWx5MTU3NTI0Mjg2OTAyNTc2MjgwOTFAZw
+- 2026-07-18 16:30-17:00 | Base | ⚪ Planejamento próxima semana | https://www.google.com/calendar/event?eid=ajY0Y2kybGI3NHE5NTFxb2dlbmFnaHFzN3MgMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn
+- 2026-07-19 08:00-18:00 | Base | ⚪ Domingo livre — ócio criativo | https://www.google.com/calendar/event?eid=NmJqcjlpdDM0M3VhdGtncnR0MHFoZnJhMzggMjZlOTdjMzZiNjlkNWJjMWRhYTFkMDFkMzZhZDE3ZmZkNzZjMzUzNzE3ZmMzZDUwZGM4NWU3YjZmNmIxY2JhMkBn

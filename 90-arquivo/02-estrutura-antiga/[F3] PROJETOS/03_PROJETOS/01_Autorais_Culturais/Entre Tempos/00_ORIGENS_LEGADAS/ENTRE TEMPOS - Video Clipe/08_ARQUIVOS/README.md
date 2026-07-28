@@ -1,0 +1,11 @@
+---
+tema: README
+atualizado_em: 2026-07-22
+---
+
+# 08_ARQUIVOS
+
+## Subpastas
+
+- `REGISTROS DE MATERIAL FOTOGRÁFICO - FOTOS ANTIGAS E HISTÓRICAS/`
+- `FONTES DE LETRAS/`
