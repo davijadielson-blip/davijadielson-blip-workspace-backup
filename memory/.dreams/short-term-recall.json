@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T11:34:20.196Z",
+  "updatedAt": "2026-07-28T11:43:05.366Z",
   "entries": {
     "memory:memory/sessions/sync/2026-06-26.md:1:36": {
       "key": "memory:memory/sessions/sync/2026-06-26.md:1:36",
@@ -9177,6 +9177,99 @@
         "warren",
         "radar",
         "falham"
+      ]
+    },
+    "memory:memory/2026-07-26.md:167:183": {
+      "key": "memory:memory/2026-07-26.md:167:183",
+      "path": "memory/2026-07-26.md",
+      "startLine": 167,
+      "endLine": 183,
+      "source": "memory",
+      "snippet": "\"fallbacks\": [] ``` Nenhum cron deve ser criado com fallback OpenRouter sem autorização explícita de Jadielson. Fonte: confirmação de Jadielson, `memory/2026-07-26-auditoria-gasto-openrouter.md`, `memory/2026-07-26-crons-codex-only.md`, `cron list`, `cron update`. ## 02:54 UTC — Diagnóstico inicial de reorganização do Cofre - Snapshot textual criado em `[F2] archive/snapshots/snapshot-20260726T025413Z.md`. - Criada camada central mínima sem mover arquivos: `00-central/`, `70-agentes/`, `80-handoffs/`. - Arquivos criados: `00-central/regras-de-uso.md`, `00-central/decisoes.md`, `00-central/pendencias.md`, `00-central/diagnostico-e-proposta-reorganizacao-cofre.md`, `70-agentes/mapa-dos-agen",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6802982577566219,
+      "maxScore": 0.6802982577566219,
+      "firstRecalledAt": "2026-07-28T11:43:05.366Z",
+      "lastRecalledAt": "2026-07-28T11:43:05.366Z",
+      "queryHashes": [
+        "8a890c8f2cd8"
+      ],
+      "recallDays": [
+        "2026-07-28"
+      ],
+      "conceptTags": [
+        "router",
+        "00-central",
+        "70-agentes",
+        "80-handoffs",
+        "00-central/regras-de-uso.md",
+        "00-central/decisoes.md",
+        "00-central/pendencias.md",
+        "70-agentes/mapa-dos-agen"
+      ]
+    },
+    "memory:memory/2026-07-26.md:181:199": {
+      "key": "memory:memory/2026-07-26.md:181:199",
+      "path": "memory/2026-07-26.md",
+      "startLine": 181,
+      "endLine": 199,
+      "source": "memory",
+      "snippet": "## 03:05 UTC — Reorganização aprovada e regra dos fluxos reconsiderada - Jadielson aprovou a reorganização e orientou reconsiderar os fluxos: como apenas agentes alimentam o Cofre, não faz sentido manter limitações rígidas de escrita. - Nova diretriz registrada: estrutura firme, colaborativa e favorável ao time; escrita permitida por escopo/necessidade, com rastreabilidade e segurança. - Criados/atualizados: `00-central/mapa-do-cofre.md`, `00-central/glossario.md`, `00-central/regras-de-uso.md`, `00-central/decisoes.md`, `70-agentes/mapa-dos-agentes.md`, `00-central/inventario-md-sem-frontmatter.md`, `00-central/inventario-arquivos-nao-md.md`. - Nenhum arquivo antigo foi movido ou apagado ne",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4152749419212341,
+      "maxScore": 0.4152749419212341,
+      "firstRecalledAt": "2026-07-28T11:43:05.366Z",
+      "lastRecalledAt": "2026-07-28T11:43:05.366Z",
+      "queryHashes": [
+        "8a890c8f2cd8"
+      ],
+      "recallDays": [
+        "2026-07-28"
+      ],
+      "conceptTags": [
+        "escopo/necessidade",
+        "criados/atualizados",
+        "00-central/mapa-do-cofre.md",
+        "00-central/glossario.md",
+        "00-central/regras-de-uso.md",
+        "00-central/decisoes.md",
+        "70-agentes/mapa-dos-agentes.md",
+        "utc"
+      ]
+    },
+    "memory:memory/2026-07-20.md:96:105": {
+      "key": "memory:memory/2026-07-20.md:96:105",
+      "path": "memory/2026-07-20.md",
+      "startLine": 96,
+      "endLine": 105,
+      "source": "memory",
+      "snippet": "- Achados centrais: divergência de contagem PSF/UBS; Setores Complementares lista 26 setores, mas canônico detalha 20; faltam notas canônicas para Epidemiologia, Gabinete, RH, Almoxarifado, CPD e Procuradoria; há material operacional rico fora do canônico em pastas como RECEPÇÃO, PNI, EMULT, RH, Procuradoria, Espaço Cuidar e Laboratório; Recepção/Regulação está subdescrita no núcleo canônico. ## SAÚDE — auditoria ampla da frente completa - Jadielson pediu auditoria em toda a pasta `[F1] 5-Frentes/Saude-Sao-Sebastiao` para localizar divergências e duplicatas que possam ser unidas. - Auditoria ampla primeira versão concluída e salva em `[F2] memory/outputs/saude-sao-sebastiao/auditorias/2026-",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3998920381069183,
+      "maxScore": 0.3998920381069183,
+      "firstRecalledAt": "2026-07-28T11:43:05.366Z",
+      "lastRecalledAt": "2026-07-28T11:43:05.366Z",
+      "queryHashes": [
+        "8a890c8f2cd8"
+      ],
+      "recallDays": [
+        "2026-07-28"
+      ],
+      "conceptTags": [
+        "psf/ubs",
+        "recepção/regulação",
+        "5-frentes/saude-sao-sebastiao",
+        "achados",
+        "centrais",
+        "divergência",
+        "contagem",
+        "psf"
       ]
     }
   }

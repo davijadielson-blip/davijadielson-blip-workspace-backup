@@ -13,6 +13,55 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 
 # Decisões estruturais do Cofre
 
+## 2026-07-28 — Opção A aprovada: migrar fluxos [F0]–[F3] para estrutura numerada
+- **Status:** aprovado por Jadielson.
+- **Decisão:** migrar TODO o conteúdo dos fluxos antigos `[F0]`–`[F3]` para a estrutura numerada (`00-central` a `90-arquivo`), e arquivar os fluxos vazios em `90-arquivo/` como legado.
+- **Mapa de migração:**
+  | Fluxo antigo | Destino novo |
+  |---|---|
+  | `[F0] 0-Inbox/` | `10-pessoal/00-inbox/` (captura pessoal) |
+  | `[F1] 1-Permanentes/` | `00-central/notas-permanentes/` |
+  | `[F1] 2-Literatura/` | `30-estudos/` |
+  | `[F1] 3-Daily/` | `10-pessoal/` |
+  | `[F1] 4-Pessoal/` | `10-pessoal/` (fundir com estrutura existente) |
+  | `[F1] 5-Frentes/` | Resquícios → `20-profissional/` ou `50-clientes/` |
+  | `[F1] ESTUDOS/` | `30-estudos/` |
+  | `[F1] TAREFAS/` | `10-pessoal/` ou `20-profissional/` |
+  | `[F2] memory/` | Incorporar gradualmente às áreas por tema |
+  | `[F2] agentes/` | `70-agentes/` |
+  | `[F2] archive/` | `90-arquivo/` |
+  | `[F3] PROJETOS/` | `40-projetos/` |
+  | `memory/` | Consolidar com `[F2] memory/` → áreas |
+  | `archive/` | `90-arquivo/` |
+  | `areas/` | `20-profissional/` ou `50-clientes/` |
+  | `scripts/` | `60-processos/` |
+  | `skills/` | `60-processos/` |
+  | `ops/` | `60-processos/` |
+  | `checklists/` | `60-processos/` |
+  | `rotinas/` | `60-processos/` |
+- **Regra:** cada lote com log reversível; nada apagado, apenas movido para `90-arquivo/` como backup.
+- **Execução:** em lotes pequenos e seguros, começando pelos mais simples.
+
+## 2026-07-28 — Auditoria de espaço emergencial: limpeza concluída
+- **Status:** concluído.
+- **Decisão:** executar auditoria de espaço para liberar disco de 95% para ~76%.
+- **Ações realizadas:**
+  1. Git garbage removido e shallow clone (`.git` de 753 MB → 8.6 MB)
+  2. Clone duplicado `segundo-cerebro-jadielson/` removido (132 MB)
+  3. Sessões de agentes com +7 dias removidas (~111 MB)
+  4. Backups `openclaw.json.bak*` e `rejected*` antigos removidos (~12 MB)
+  5. Arquivos não-.md movidos para `90-arquivo/99-quarentena-nao-md/` (~12 MB)
+  6. Pastas vazias removidas (143 pastas)
+  7. `trash/` limpo (~8 MB)
+  8. `mission-control-next/node_modules/` removido (~328 MB)
+  9. `media/` (cache) limpo (46 MB)
+  10. `browser/` (cache) limpo (16 MB)
+  11. HTMLs mission-control no workspace removidos (~492 KB)
+- **Preservado:** sessões de agentes com menos de 3 dias (para evitar alucinação).
+- **Backup:** GitHub atualizado com force push do shallow clone.
+- **Resultado:** disco de 9.5G/10G (95%) → 7.6G/10G (76%) — **~1.9 GB liberados**.
+- **Como desfazer:** não há rollback simples; o histórico completo do git foi substituído pelo shallow clone, mas o GitHub preserva o histórico completo do workspace.
+
 ## 2026-07-28 — Protocolo de bootstrap obrigatório: consultar Cofre antes de qualquer resposta
 - **Status:** aprovado e registrado por Jadielson.
 - **Decisão:** ao acordar em sessão nova, a Lôh DEVE consultar o Cofre (IDENTITY.md, SOUL.md, USER.md, CONSTITUICAO.md) ANTES de responder qualquer mensagem, inclusive para se apresentar ou identificar.
