@@ -196,3 +196,11 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Correção técnica:** `agents.defaults.model`, `agents.defaults.subagents.model` e os 21 agentes configurados foram realinhados para `openai-codex/gpt-5.5`; também foi adicionado `params.modelAwareness` nos defaults e nos agentes para declarar explicitamente o modelo oficial e a ordem de fallback.
 - **Fallback preservado:** `openrouter/deepseek/deepseek-v4-flash` → `openrouter/minimax/minimax-m2.5:free` → `openrouter/google/gemini-2.5-flash-lite`.
 - **Como validar:** conferir `/data/.openclaw/openclaw.json` e reiniciar/recarregar o Gateway após qualquer alteração futura de modelo.
+
+## 2026-07-28 — Correção de billing OpenRouter em heartbeat de agente
+- **Status:** executado após erro reportado por Jadielson.
+- **Problema:** o agente `saude-corpo-energia`, em heartbeat, caiu no fallback `openrouter/google/gemini-2.5-flash-lite` e recebeu erro 402 de billing por saldo insuficiente/max tokens alto.
+- **Decisão:** remover o fallback Gemini da cadeia automática e limitar o teto de saída para reduzir risco de erro/custo.
+- **Política aplicada:** defaults e agentes usam `openai-codex/gpt-5.5` como primário, com fallback `openrouter/deepseek/deepseek-v4-flash` → `openrouter/minimax/minimax-m2.5:free`; o agente `saude-corpo-energia` ficou ainda mais restrito, com fallback apenas `openrouter/minimax/minimax-m2.5:free`.
+- **Limites aplicados:** `params.max_tokens` e `params.max_output_tokens` em 4096 nos defaults/agentes; `saude-corpo-energia` em 2048.
+- **Motivo:** manter operação mínima sem tentar modelos OpenRouter que já falharam por saldo insuficiente.
