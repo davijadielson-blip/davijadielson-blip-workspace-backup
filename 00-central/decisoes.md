@@ -161,3 +161,10 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Git:** commit `e50a6f9` → novo commit com todos os lotes.
 - **Onde estão os originais:** `90-arquivo/02-estrutura-antiga/` (estrutura completa preservada).
 - **Como desfazer:** mover os arquivos de `40-projetos/`, `10-pessoal/`, `30-estudos/` de volta para suas origens em `90-arquivo/02-estrutura-antiga/`.
+## 2026-07-28 — Política de custo: agentes e subagentes sem fallback automático para OpenRouter
+- **Status:** executado por solicitação de Jadielson.
+- **Problema:** agentes/subagentes estavam falhando no Codex e caindo em OpenRouter, consumindo créditos.
+- **Decisão:** alinhar agentes e subagentes ao mesmo princípio da Lôh: `openai-codex/gpt-5.5` como primário e `fallbacks: []` para impedir failover automático pago.
+- **Correção técnica:** `agents.defaults.model`, `agents.defaults.subagents.model` e os 21 agentes configurados foram ajustados para Codex sem fallback; perfis `openai-codex` foram propagados do agente `main` para os agentes explícitos sem expor credenciais.
+- **Observação:** OpenRouter permanece apenas como integração disponível/manual no catálogo, mas não como fallback automático de agentes/subagentes.
+- **Como desfazer:** restaurar fallbacks em `/data/.openclaw/openclaw.json` e/ou remover perfis Codex propagados dos diretórios de agentes.
