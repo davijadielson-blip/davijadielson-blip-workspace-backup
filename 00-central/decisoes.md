@@ -136,7 +136,28 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 ## 2026-07-26 — Lote 9 executado: migração Lógika Creative
 - **Status:** concluído.
 - **O que mudou:** migrado o conteúdo profissional legado de `[F1] 5-Frentes/Logika-Creative/` para `20-profissional/10-logika/`.
-- **Movimentações:** 104 arquivos movidos, preservando subpastas operacionais e criando estrutura por área: estratégia, contexto editorial, produção de vídeo, estrutura, financeiro, editais, ideias e recursos.
-- **Onde foi salvo:** `20-profissional/10-logika/`, com índice em `00-indice/indice-geral-legado.md` e log reversível em `90-arquivo/renomeacoes/log-lote9-renomeacoes-20260726.md`.
-- **Como desfazer:** seguir o log do lote 9 e mover cada destino de volta à origem.
-- **Pendentes:** tratar `Projetos` restante em `[F1] 5-Frentes/`.
+- **Movimentações:** 104 arquivos movidos, preservando subpastas operacionais e criando estrutura por área.
+
+## 2026-07-28 — Migração completa [F0]–[F3] para estrutura numerada (L10–L23)
+- **Status:** concluído.
+- **O que mudou:** toda a estrutura antiga `[F0] 0-Inbox` até `[F3] PROJETOS` foi migrada para a estrutura numerada `00-central` a `90-arquivo`.
+- **Lotes executados:**
+  - L10: `[F1] 2-Literatura/` → `30-estudos/10-literatura/`
+  - L11: `[F1] 3-Daily/` → `10-pessoal/`
+  - L12: `[F1] TAREFAS/` → `10-pessoal/tarefas/`
+  - L13: `[F1] 1-Permanentes/` → `00-central/notas-permanentes/`
+  - L14: `[F1] ESTUDOS/` → `30-estudos/cursos/`
+  - L15: `[F1] 4-Pessoal/` → `10-pessoal/` (146 arquivos, organizados por tema: saúde, finanças, família, transporte, etc.)
+  - L16: `[F1] 5-Frentes/` resquícios → `40-projetos/ideias/`
+  - L17: `[F3] PROJETOS/` → `40-projetos/` (1.053 arquivos, organizados em 10-pessoais, 20-profissionais, 30-projetos-autorais, 40-trabalho, 50-produtos)
+  - L18: `[F2] memory/` → `90-arquivo/01-memoria-legada/` (539 arquivos)
+  - L19: `[F2] agentes/` → `70-agentes/`
+  - L20: `scripts/`, `skills/`, `ops/`, `checklists/`, `rotinas/` → `60-processos/`
+  - L21: `[F2] archive/`, `archive/`, `areas/` → `90-arquivo/`
+  - L22: `[F0] 0-Inbox/` → `10-pessoal/inbox/`
+  - L23: Pastas `[F0]`–`[F3]` vazias → `90-arquivo/02-estrutura-antiga/` (1.896 arquivos)
+- **Segurança:** credenciais `.secrets/` removidas do workspace, `.env` removido, não-.md movidos para quarentena.
+- **Disco:** 44 MB (excluindo .git), contra 8.4M só do [F3] PROJETOS original.
+- **Git:** commit `e50a6f9` → novo commit com todos os lotes.
+- **Onde estão os originais:** `90-arquivo/02-estrutura-antiga/` (estrutura completa preservada).
+- **Como desfazer:** mover os arquivos de `40-projetos/`, `10-pessoal/`, `30-estudos/` de volta para suas origens em `90-arquivo/02-estrutura-antiga/`.
