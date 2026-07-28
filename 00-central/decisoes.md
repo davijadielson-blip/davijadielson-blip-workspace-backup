@@ -188,3 +188,11 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Decisão:** após o primário `openai-codex/gpt-5.5`, a cadeia de fallback deve começar por `openrouter/deepseek/deepseek-v4-flash`, por ser a opção mais barata indicada.
 - **Ordem aplicada:** `openrouter/deepseek/deepseek-v4-flash` → `openrouter/minimax/minimax-m2.5:free` → `openrouter/google/gemini-2.5-flash-lite`.
 - **Escopo:** defaults globais, subagents e todos os agentes configurados.
+
+## 2026-07-28 — Consciência de modelo: GPT-5.5 Codex como primário oficial
+- **Status:** executado por solicitação de Jadielson.
+- **Problema:** alguns agentes e subagentes ainda não reconheciam corretamente o modelo oficial `GPT-5.5 Codex`, tratando o runtime como GPT genérico ou versões antigas.
+- **Decisão:** reforçar em configuração que o primário oficial do ecossistema é `openai-codex/gpt-5.5`, chamado operacionalmente de **GPT-5.5 Codex**.
+- **Correção técnica:** `agents.defaults.model`, `agents.defaults.subagents.model` e os 21 agentes configurados foram realinhados para `openai-codex/gpt-5.5`; também foi adicionado `params.modelAwareness` nos defaults e nos agentes para declarar explicitamente o modelo oficial e a ordem de fallback.
+- **Fallback preservado:** `openrouter/deepseek/deepseek-v4-flash` → `openrouter/minimax/minimax-m2.5:free` → `openrouter/google/gemini-2.5-flash-lite`.
+- **Como validar:** conferir `/data/.openclaw/openclaw.json` e reiniciar/recarregar o Gateway após qualquer alteração futura de modelo.
