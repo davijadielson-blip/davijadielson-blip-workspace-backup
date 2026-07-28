@@ -176,3 +176,9 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Política aplicada agora:** `openai-codex/gpt-5.5` como primário; fallback automático restrito a `openrouter/minimax/minimax-m2.5:free` enquanto a autenticação Codex dos agentes/subagentes não estiver validada.
 - **Plano B/C definitivo desejado:** Codex primário; fallback pago/baixo custo só após guardrail contra falha de autenticação ou com autorização explícita por tarefa crítica.
 - **Pendente:** resolver autenticação Codex individual dos agentes (perfil Codex do `main` não é portátil para outros `agentDir`), ou definir arquitetura onde especialistas rodam via runtime autenticado sem compartilhar credenciais indevidamente.
+
+## 2026-07-28 — Correção: fallback DEVE ser para OpenRouter
+- **Status:** corrigido após esclarecimento de Jadielson.
+- **Decisão final:** manter `openai-codex/gpt-5.5` como modelo primário, mas com fallback automático para OpenRouter como plano B/C.
+- **Ordem aplicada:** `openrouter/minimax/minimax-m2.5:free` → `openrouter/google/gemini-2.5-flash-lite` → `openrouter/deepseek/deepseek-v4-flash`.
+- **Motivo:** garantir mínimo de operação quando Codex não rodar, preservando custo menor antes de fallback pago.
