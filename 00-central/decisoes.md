@@ -168,3 +168,11 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Correção técnica:** `agents.defaults.model`, `agents.defaults.subagents.model` e os 21 agentes configurados foram ajustados para Codex sem fallback; perfis `openai-codex` foram propagados do agente `main` para os agentes explícitos sem expor credenciais.
 - **Observação:** OpenRouter permanece apenas como integração disponível/manual no catálogo, mas não como fallback automático de agentes/subagentes.
 - **Como desfazer:** restaurar fallbacks em `/data/.openclaw/openclaw.json` e/ou remover perfis Codex propagados dos diretórios de agentes.
+
+## 2026-07-28 — Ajuste da política de fallback: mínimo de operação sem queimar crédito
+- **Status:** provisório/seguro.
+- **Diretriz de Jadielson:** manter planos B/C para garantir operação mínima quando Codex GPT-5.5 não rodar por limite, mas evitar consumo indevido de OpenRouter.
+- **Diagnóstico:** o fallback nativo não expõe, no schema atual, uma condição clara por motivo de falha (ex.: limite/capacidade vs autenticação). Como falha de autenticação já disparou OpenRouter no passado, fallback pago automático é arriscado.
+- **Política aplicada agora:** `openai-codex/gpt-5.5` como primário; fallback automático restrito a `openrouter/minimax/minimax-m2.5:free` enquanto a autenticação Codex dos agentes/subagentes não estiver validada.
+- **Plano B/C definitivo desejado:** Codex primário; fallback pago/baixo custo só após guardrail contra falha de autenticação ou com autorização explícita por tarefa crítica.
+- **Pendente:** resolver autenticação Codex individual dos agentes (perfil Codex do `main` não é portátil para outros `agentDir`), ou definir arquitetura onde especialistas rodam via runtime autenticado sem compartilhar credenciais indevidamente.
