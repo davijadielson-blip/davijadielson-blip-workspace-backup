@@ -13,6 +13,16 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 
 # Decisões estruturais do Cofre
 
+## 2026-07-29 — Constituição definitiva de memória, backup e limpeza segura
+- **Status:** implementacao inicial segura concluida.
+- **Decisao:** o Cofre (`/data/.openclaw/workspace/`) permanece como memoria permanente oficial; sessoes, trajetorias e historicos sao temporarios e nao podem substituir documentos consolidados.
+- **Backup oficial:** `origin/main` deve apontar exclusivamente para `https://github.com/davijadielson-blip/davijadielson-blip-workspace-backup`.
+- **Ordem obrigatoria:** sessao → identificar conhecimento util → consolidar no Cofre → validar → commit Git → push GitHub → confirmar backup → limpeza/quarentena → relatorio.
+- **Protecao maxima:** nenhuma exclusao permanente automatica. Em caso de duvida, preservar e registrar `revisao necessaria`; limpeza real so depois de backup confirmado e criterio claro.
+- **Automacao criada:** job OpenClaw `governanca-cofre-sessoes-diaria-0000`, ID `df970ab7-4083-433f-b007-b34e6c68d130`, agenda `0 0 * * *`, timezone `America/Maceio`, em modo inicial de auditoria/simulacao conservadora.
+- **Relatorio inicial:** `60-processos/relatorios/limpeza-openclaw/2026-07-29-1256-auditoria-constituicao-loh.md`.
+- **Backup desta implementacao:** commit local criado; push remoto pendente porque o clone atual esta sem credencial GitHub HTTPS. Ate corrigir credencial, nenhuma limpeza/quarentena deve depender de backup confirmado.
+
 ## 2026-07-29 — Governanca de memoria e limpeza do OpenClaw
 - **Status:** aprovado por Jadielson e consolidado como processo operacional.
 - **Decisao:** o Cofre permanece como fonte oficial da verdade; sessoes sao temporarias e nao devem funcionar como memoria permanente.

@@ -112,6 +112,37 @@ A rotina diaria deve:
 
 Priorizar revisao de arquivos temporarios, caches regeneraveis, downloads temporarios, clones temporarios de plugins, logs antigos sem valor operacional, trajetorias ja consolidadas, duplicados, artefatos sem referencia e sessoes antigas ja resumidas.
 
+## Backup oficial
+
+O backup paralelo oficial do Cofre usa exclusivamente:
+
+`https://github.com/davijadielson-blip/davijadielson-blip-workspace-backup`
+
+Branch principal: `main`.
+
+O GitHub e apenas copia de seguranca. O Cofre local continua sendo a fonte oficial de verdade. Nunca tratar o GitHub como workspace ativo.
+
+Antes de qualquer limpeza ou quarentena relevante:
+
+1. verificar estado do Git;
+2. auditar possiveis segredos;
+3. fazer commit seletivo apenas de arquivos seguros;
+4. executar push para `origin/main`;
+5. confirmar que o hash existe no remoto;
+6. somente entao marcar candidatos a limpeza/quarentena.
+
+Nunca executar `git push --force`, `git reset --hard`, `git clean` ou reescrita automatica de historico.
+
+## Job ativo
+
+Em 2026-07-29 foi criado o job OpenClaw `governanca-cofre-sessoes-diaria-0000`, ID `df970ab7-4083-433f-b007-b34e6c68d130`.
+
+- Agenda: todos os dias as 00h00.
+- Fuso: `America/Maceio`.
+- Modo inicial: auditoria/simulacao conservadora.
+- Exclusao permanente: bloqueada.
+- Saida: relatorio em `60-processos/relatorios/limpeza-openclaw/` e resumo para Jadielson.
+
 ## Protecoes obrigatorias
 
 Nunca apagar automaticamente:
