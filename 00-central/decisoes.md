@@ -204,3 +204,11 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Política aplicada:** defaults e agentes usam `openai-codex/gpt-5.5` como primário, com fallback `openrouter/deepseek/deepseek-v4-flash` → `openrouter/minimax/minimax-m2.5:free`; o agente `saude-corpo-energia` ficou ainda mais restrito, com fallback apenas `openrouter/minimax/minimax-m2.5:free`.
 - **Limites aplicados:** `params.max_tokens` e `params.max_output_tokens` em 4096 nos defaults/agentes; `saude-corpo-energia` em 2048.
 - **Motivo:** manter operação mínima sem tentar modelos OpenRouter que já falharam por saldo insuficiente.
+
+## 2026-07-29 — Correção de ID inválido do GPT-5.5 Codex
+- **Status:** executado após novo erro reportado por Jadielson.
+- **Erro observado:** `Model Fallback: openrouter/deepseek/deepseek-v4-flash (selected openai-codex/gpt-5.5; model not found)`.
+- **Diagnóstico:** o ID `openai-codex/gpt-5.5` não é resolvido de forma confiável pelo Gateway/OpenClaw para todos os agentes/tópicos; por isso o sistema caía no fallback OpenRouter com motivo `model not found`.
+- **Correção:** trocar o primário técnico de defaults, subagents e 21 agentes para `openai/gpt-5.5`, mantendo a consciência operacional de que este é o **GPT-5.5 Codex oficial do ecossistema**.
+- **Fallback preservado:** `openrouter/deepseek/deepseek-v4-flash` → `openrouter/minimax/minimax-m2.5:free`; `saude-corpo-energia` permanece mais restrito, com fallback apenas `openrouter/minimax/minimax-m2.5:free`.
+- **Regra nova:** não usar `openai-codex/gpt-5.5` como primário em `openclaw.json`; usar `openai/gpt-5.5` com alias/consciência de GPT-5.5 Codex.
