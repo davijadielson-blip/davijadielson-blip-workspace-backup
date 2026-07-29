@@ -6,12 +6,21 @@ setor: governança do Cofre
 cliente: Jadielson Davi
 tipo: registro de decisões
 prioridade: máxima
-atualizado_em: 2026-07-28
+atualizado_em: 2026-07-29
 usar_quando: verificar decisões finais aprovadas sobre estrutura e operação do Cofre
 nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 ---
 
 # Decisões estruturais do Cofre
+
+## 2026-07-29 — Governanca de memoria e limpeza do OpenClaw
+- **Status:** aprovado por Jadielson e consolidado como processo operacional.
+- **Decisao:** o Cofre permanece como fonte oficial da verdade; sessoes sao temporarias e nao devem funcionar como memoria permanente.
+- **Regra central:** consolidar antes de limpar; registrar decisoes, preferencias, processos, status, proximos passos e aprendizados reutilizaveis no Cofre antes de encerrar tarefa ou sessao.
+- **Retencao:** manter apenas sessoes ativas, recentes nao consolidadas, vinculadas a pendencias, necessarias para auditoria/recuperacao ou ligadas a automacoes/processos ativos.
+- **Limpeza:** apos 00h00, rotina de manutencao deve diagnosticar disco, identificar temporarios, validar consolidacao no Cofre, preservar ativos/pendentes, remover ou isolar apenas descartaveis claros e produzir relatorio.
+- **Protecao:** exclusao permanente continua subordinada a revisao/autorizacao humana; em caso de duvida, classificar como `revisao necessaria` ou mover para quarentena.
+- **Processo oficial:** `60-processos/governanca-memoria-limpeza-openclaw.md`.
 
 ## 2026-07-28 — Opção A aprovada: migrar fluxos [F0]–[F3] para estrutura numerada
 - **Status:** aprovado por Jadielson.
