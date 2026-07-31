@@ -1,3 +1,15 @@
+---
+tema: log de renomeacoes lote 9 Logika Creative
+conteudo: registro de origem e destino dos arquivos migrados da frente Logika Creative em 2026-07-26
+setor: comunicacao e marketing digital
+cliente: Jadielson Davi
+tipo: log de migracao
+prioridade: media
+atualizado_em: 2026-07-31
+usar_quando: auditar renomeacoes e rastrear arquivos legados da Logika
+nao_usar_quando: buscar contexto operacional atual da frente Logika
+---
+
 # Log Lote 9 — Renomeações e migração Lógika Creative
 
 

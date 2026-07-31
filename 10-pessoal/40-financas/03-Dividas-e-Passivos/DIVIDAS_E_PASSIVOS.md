@@ -1,6 +1,6 @@
 ---
 tema: DIVIDAS E PASSIVOS
-atualizado_em: 2026-07-22
+atualizado_em: 2026-07-30
 ---
 
 # Dívidas e Passivos Pessoais
@@ -38,6 +38,14 @@ Ponto de conciliação: há divergência entre o líquido do relatório de consi
 |---|---:|---|
 | Pessoal/Nubank | ~R$ 500,00 | controlado; apenas assinaturas básicas |
 | Empresarial | fora do pessoal | empresa |
+
+## Pagamentos confirmados
+
+| Data do pagamento | Descrição | Valor | Status | Comprovante |
+|---|---|---:|---|---|
+| 2026-07-30 | IPVA do carro — segunda parcela | R$ 111,17 | pago | Drive pessoal > FINANCEIRO > comprovantes pessoais; envio pendente no runtime atual |
+
+Observação Warren: comprovante Caixa recebido no tópico My Finance em 2026-07-30. Identificação da operação no comprovante: "SEGUNDA PARCELA IPVA CARR". Convênio: Secretaria da Fazenda. Data de vencimento e débito: 30/07/2026. Regra reforçada por Jadielson: no Cofre fica apenas `.md`; comprovantes/PDFs devem ir para o Drive pessoal.
 
 ## Pendências
 

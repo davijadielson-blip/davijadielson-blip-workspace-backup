@@ -1,11 +1,26 @@
 ---
 tema: IMPORTACOES MY FINANCE
-atualizado_em: 2026-07-22
+atualizado_em: 2026-07-30
 ---
 
 # Importações My Finance
 
 Registro de dados enviados por Jadielson no tópico My Finance e transformados em resumo seguro por Warren.
+
+## 2026-07-30 — Comprovante: segunda parcela do IPVA
+
+Arquivo de destino atualizado: `03-Dividas-e-Passivos/DIVIDAS_E_PASSIVOS.md`
+
+Resumo extraído do comprovante Caixa:
+
+- Descrição: **segunda parcela IPVA carro**.
+- Valor: **R$ 111,17**.
+- Pagamento realizado em **30/07/2026**, às **14:28**.
+- Convênio: **Secretaria da Fazenda**.
+- Data de vencimento e débito: **30/07/2026**.
+- Destino correto do comprovante: **Drive pessoal > FINANCEIRO > comprovantes pessoais**.
+- Status técnico: envio ao Drive pendente no runtime atual porque `gog` não está disponível; PDF mantido fora do Cofre em área técnica temporária para posterior upload.
+- Regra reforçada por Jadielson: no Cofre fica apenas `.md`; demais arquivos ficam no Drive pessoal.
 
 ## 2026-06-18 — Print: Despesas essenciais e imperdoáveis
 
@@ -110,4 +125,3 @@ Base resumida:
 - Financiamento casa: saldo restante **R$ 63.094,83** em 12/2024.
 
 Diagnóstico inicial: base já negativa em aproximadamente **R$ 645,32** antes de variáveis, cartão e demais pendências; com iCloud, aproximadamente **R$ 712,22**.
-

@@ -122,3 +122,46 @@ Distribuir cortes e conteúdos complementares:
 - Não apagar nem alterar os arquivos originais no Drive.
 - O Drive segue como fonte original; o cofre local segue como base de consulta e planejamento.
 - Antes de publicação externa, confirmar canal, texto final, peça final e autorização de uso quando envolver pessoas/comunidades/imagens históricas.
+
+## Registro aprovado - WhatsApp com trailer e link oficial
+
+Atualizado em 2026-07-30 a partir do tópico Telegram `PROJETOS / ENTRE TEMPOS - Video Clipe`.
+
+Uso: mensagem para enviar no WhatsApp junto com o vídeo do trailer e o link do lançamento oficial. A mensagem deve deixar claro que o vídeo enviado é o trailer, não o clipe completo, e convocar para assistir no link oficial às 20h.
+
+Texto-base aprovado:
+
+> Tem homenagem que a gente assiste com orgulho e sente com o coração.
+>
+> Este é o trailer de **ENTRE TEMPOS**, uma prévia do videoclipe que preparamos com muito carinho para celebrar a história, a memória e a cultura da nossa São Sebastião.
+>
+> O clipe oficial estreia hoje, às **20h**, no YouTube.
+>
+> Assista pelo link oficial e compartilhe esse momento com a gente:
+>
+> **[COLOCAR LINK AQUI]**
+
+Dados confirmados para legenda/ficha técnica:
+- Música: **Minha Querida São Sebastião**
+- Composição: **Prof. Ismael**
+- Produção Musical: **Marcelo Francisco**
+- Participação especial: **Quiel Santos e Raquel Rodrigues**
+
+## Link oficial e remarketing pós-estreia
+
+Atualizado em 2026-07-31 a partir do tópico Telegram `PROJETOS / ENTRE TEMPOS - Video Clipe`.
+
+Link oficial do videoclipe:
+https://youtu.be/5M-W6NMaa-0
+
+Uso: mensagem de remarketing para WhatsApp, voltada a quem ainda não assistiu ao clipe depois da estreia.
+
+Texto-base:
+
+> Se você ainda não assistiu, esse é o momento.
+>
+> O videoclipe **ENTRE TEMPOS** já está no ar: uma homenagem feita com carinho para celebrar a história, a memória e a cultura da nossa São Sebastião.
+>
+> Assista pelo link oficial, sinta essa homenagem com a gente e compartilhe com quem também ama a nossa terra:
+>
+> https://youtu.be/5M-W6NMaa-0

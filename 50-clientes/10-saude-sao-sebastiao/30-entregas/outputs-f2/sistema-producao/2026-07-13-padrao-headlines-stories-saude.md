@@ -3,7 +3,7 @@ frente: saude-sao-sebastiao
 tipo: padrao-editorial-stories
 status: validado-por-jadielson
 data: 2026-07-13
-ultima_revisao: 2026-07-21
+ultima_revisao: 2026-07-30
 origem: Telegram tópico SAÚDE - SOCIAL MEDIA
 validade: vigente — substitui decisões anteriores conflitantes
 ---
@@ -16,8 +16,26 @@ validade: vigente — substitui decisões anteriores conflitantes
 
 Cada story deve ter **duas linhas**:
 
-1. **Linha 1:** benefício percebido pela população, com linguagem humana e inovadora.
-2. **Linha 2:** explicação rápida do que está sendo mostrado — serviço, local, setor.
+1. **Linha 1:** o que é, com o menor texto possível.
+2. **Linha 2:** benefício que traz para a população, com explicação rápida do serviço, local ou setor.
+
+Base padrão reforçada por Jadielson em 2026-07-29: **o que é + benefícios que traz**. Sempre em duas linhas. A primeira linha deve ser a mais curta possível.
+
+## Regra anti-genérico
+
+Antes de sugerir qualquer headline/story da Saúde, aplicar esta checagem:
+
+1. A primeira linha diz claramente **o que é** em poucas palavras?
+2. A segunda linha explica **qual benefício real isso traz para a população**?
+3. A frase evita fórmula repetida, institucional demais ou genérica, como apenas "amplia acesso", "fortalece a rede", "beneficia pacientes" ou "segue cuidando"?
+4. A referência do Cofre foi usada como **base de conceito**, e não como molde para repetir estruturas já aprovadas?
+
+Se a resposta for "não" em qualquer item, refazer antes de enviar.
+
+Exemplo aprovado em 2026-07-30 para ortopedia no Espaço Cuidar:
+
+> Consulta ortopédica.
+> Mais 50 pacientes receberam orientação e cuidado especializado no Espaço Cuidar.
 
 ## Características
 
@@ -75,3 +93,4 @@ Em **todas** as pautas da Saúde, ao sugerir stories/headlines, usar este padrã
 
 - 2026-07-13: Primeira validação por Jadielson (estrutura 2 linhas, exemplos iniciais).
 - 2026-07-21: Reforço e expansão com 7 exemplos aprovados. Determinação de que este padrão substitui decisões anteriores conflitantes no Cofre.
+- 2026-07-29: Reforço da base padrão: "o que é + benefícios que traz", em duas linhas, com a primeira linha no menor texto possível.

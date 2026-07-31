@@ -6,7 +6,7 @@ setor: operações agentivas
 cliente: Jadielson Davi
 tipo: log
 prioridade: alta
-atualizado_em: 2026-07-28
+atualizado_em: 2026-07-30
 usar_quando: revisão de falhas, aprendizado contínuo, melhoria de procedimentos
 nao_usar_quando: informação operacional normal
 ---
@@ -14,6 +14,15 @@ nao_usar_quando: informação operacional normal
 # 📓 Lições Aprendidas — Falhas Operacionais
 
 > Registro de incidentes onde o Cofre não foi consultado primeiro, erros operacionais e aprendizados técnicos para o ecossistema.
+
+## 2026-07-30 — [Operacional] Alucinação por memória técnica contraditória de modelo
+
+- **Incidente:** Jadielson relatou que agentes estavam alucinando e pediu novo checape dos sistemas.
+- **Causa provável encontrada:** o Cofre preservava registros históricos conflitantes sobre o modelo primário (`openai-codex/gpt-5.5` antigo vs `openai/gpt-5.5` atual). A configuração ativa estava correta, mas agentes que leem memórias antigas poderiam tratar instruções superadas como vigentes.
+- **Correção aplicada:** `MEMORY.md` foi atualizado para marcar a política antiga como histórica e registrar `openai/gpt-5.5` como ID técnico canônico atual.
+- **Ação preventiva:** se um agente mostrar `Model Fallback: openrouter/...`, investigar como incidente, pois indica saída do modelo primário atual.
+
+---
 
 ## 2026-07-28 — [Troubleshooting] Crache do Premiere com fotos JPG específicas / Alternativa via conversão de mídia
 

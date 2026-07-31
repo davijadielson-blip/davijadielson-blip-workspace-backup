@@ -41,6 +41,14 @@ A lógica correta é:
 Complemento aprovado em 2026-07-17: fora da terça-feira, serviços especializados só entram na publicação quando reforçam o pilar do dia. Se não reforçarem, devem ser captados e guardados para a próxima terça de Serviços Especializados. A matriz operacional dos cronogramas de captação foi registrada em `[F2] memory/outputs/saude-sao-sebastiao/sistema-producao/2026-07-17-matriz-cronogramas-setores-para-captacao.md`.
 
 Esta regra passa a ser referência para próximos calendários e respostas operacionais da Saúde.
+
+## Reforço operacional — 2026-07-29
+
+Jadielson reforçou no tópico Saúde que a pauta diária **nunca deve ser entregue como peça avulsa ou setor isolado**. Ao responder "qual a pauta de hoje", o agente deve obrigatoriamente puxar primeiro o **pilar editorial do dia** e só depois definir o protagonista do feed/reels.
+
+Regra prática reforçada: **pilar do dia primeiro; protagonista do feed segundo; stories sempre mesclados entre setores do mesmo pilar**.
+
+Exemplo corrigido em 2026-07-29: quarta-feira é pilar **Vigilância/Prevenção**. Mesmo quando o protagonista for PNI/Vacinação, os stories devem mesclar Endemias, PNI, Epidemiologia, Vigilância Sanitária e campanha relacionada, quando houver.
 ---
 frente: saude-sao-sebastiao
 tipo: pauta-operacional-diaria

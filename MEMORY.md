@@ -525,15 +525,29 @@ Quando uma mensagem chegar pelo WhatsApp, o fluxo é:
 
 **Exceção:** se Jadielson disser "pode responder" ou similar, aí responde direto.
 
-## Política oficial de prioridade de modelos dos agentes - 2026-06-26
+## Política histórica de prioridade de modelos dos agentes - 2026-06-26
 
-Sequência definida por Jadielson e obrigatória para todos os agentes:
+Status em 2026-07-30: **superada tecnicamente**. Manter esta seção apenas como histórico do incidente.
+
+Sequência definida à época por Jadielson:
 
 1. Primário: `openai-codex/gpt-5.5` (GPT-5.5 Codex)
 2. Fallback: `openrouter/deepseek/deepseek-v4-flash`
 3. Fallback: `openrouter/google/gemini-2.5-flash-lite`
 
-Esta prioridade deve ser respeitada tanto na configuração quanto nos prompts operacionais. Mudança de modelo fora dessa ordem exige autorização explícita de Jadielson via Lôh.
+Correção canônica posterior: o Gateway/OpenClaw deve usar `openai/gpt-5.5` como ID técnico primário. O ID antigo `openai-codex/gpt-5.5` gerou `model not found` em alguns agentes/tópicos e acionou fallback indevido para OpenRouter.
+
+## Política canônica atual de modelos dos agentes - 2026-07-30
+
+Verificação em 2026-07-30: `/data/.openclaw/openclaw.json`, `openclaw config validate --json`, `openclaw models status --json` e `openclaw agents list --json` estão convergentes.
+
+Regra atual:
+
+1. ID técnico primário em configuração: `openai/gpt-5.5`.
+2. Consciência operacional: este é o GPT-5.5 oficial do ecossistema.
+3. Não usar `openai-codex/gpt-5.5` como primário em `openclaw.json`.
+4. Se aparecer banner `Model Fallback: openrouter/...`, tratar como incidente a investigar, pois indica saída do primário.
+5. Registros antigos que citam `openai-codex/gpt-5.5` devem ser lidos como histórico, não como instrução vigente.
 
 ---
 
@@ -744,7 +758,7 @@ Em 18/07/2026, a extração diária verificou as sessões `.jsonl` do dia anteri
 - **Usuário:** non-root (comandos executados pelo agente, não pelo usuário)
 - **Homebrew:** Instalado e disponível no container
 - **Workspace raiz:** `/data/.openclaw/workspace/`
-- **Modelo de IA:** openai-codex/gpt-5.5 (Lôh). Possibilidade de troca de modelo via nexos.ai se configurado.
+- **Modelo de IA:** `openai/gpt-5.5` como ID técnico canônico atual da Lôh e dos agentes. Registros antigos com `openai-codex/gpt-5.5` são históricos e não devem ser usados como configuração vigente.
 
 ### Regra de execução de comandos
 

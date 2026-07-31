@@ -6,7 +6,7 @@ setor: clientes e frentes externas
 cliente: Saúde São Sebastião
 tipo: índice operacional
 prioridade: alta
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-30
 usar_quando: executar demandas da frente Saúde São Sebastião com contexto organizado
 nao_usar_quando: substituir fontes originais; sempre citar fonte consultada
 ---
@@ -14,9 +14,10 @@ nao_usar_quando: substituir fontes originais; sempre citar fonte consultada
 # Índice de unidades e setores
 
 ## Fontes principais
+- `10-contexto/operacional/` — entrada operacional simplificada para agentes
+- `10-contexto/operacional/01-matrizes/matriz-competencias-por-setor.md` — o que cada setor faz e compete
+- `10-contexto/operacional/03-fichas-setores/fichas-operacionais/` — fichas individuais achatadas por setor
 - `20-fontes/base-legada-f1-frente/`
-- `10-contexto/memoria-operacional-f2/02-estrutura/`
-- `10-contexto/memoria-operacional-f2/05-ambientes-operacionais/`
 
 ## Pastas/setores encontrados na base legada
 - `20-fontes/base-legada-f1-frente/1. IDEIAS E MODELOS/`
@@ -45,10 +46,8 @@ nao_usar_quando: substituir fontes originais; sempre citar fonte consultada
 - `20-fontes/base-legada-f1-frente/VIGILÂNCIA SANITÁRIA/`
 
 ## Ambientes operacionais estruturados
-- `10-contexto/memoria-operacional-f2/05-ambientes-operacionais/01-atencao-basica-territorio/`
-- `10-contexto/memoria-operacional-f2/05-ambientes-operacionais/02-vacinacao-prevencao-programas/`
-- `10-contexto/memoria-operacional-f2/05-ambientes-operacionais/03-servicos-especializados-diagnostico/`
-- `10-contexto/memoria-operacional-f2/05-ambientes-operacionais/04-urgencia-maternidade-movel/`
-- `10-contexto/memoria-operacional-f2/05-ambientes-operacionais/05-rede-apoio-humanizacao/`
-- `10-contexto/memoria-operacional-f2/05-ambientes-operacionais/06-vigilancia-prevencao-riscos/`
-- `10-contexto/memoria-operacional-f2/05-ambientes-operacionais/07-administracao-gestao-bastidores/`
+- `10-contexto/operacional/02-visoes-gerais/`
+- `10-contexto/operacional/03-fichas-setores/fichas-operacionais/`
+- `10-contexto/operacional/03-fichas-setores/servicos-e-competencias/`
+- `10-contexto/operacional/03-fichas-setores/ideias-de-conteudo/`
+- `10-contexto/operacional/03-fichas-setores/lacunas-a-confirmar/`

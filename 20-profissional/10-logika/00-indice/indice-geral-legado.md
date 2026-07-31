@@ -1,3 +1,15 @@
+---
+tema: indice geral legado da Logika Creative
+conteudo: mapeamento de arquivos migrados no lote 9 da frente Logika Creative
+setor: comunicacao e marketing digital
+cliente: Jadielson Davi
+tipo: indice legado
+prioridade: media
+atualizado_em: 2026-07-31
+usar_quando: localizar origem e destino de arquivos legados da Logika
+nao_usar_quando: buscar material operacional atual sem validar caminho vigente
+---
+
 # Índice geral legado — Lógika Creative
 
 
