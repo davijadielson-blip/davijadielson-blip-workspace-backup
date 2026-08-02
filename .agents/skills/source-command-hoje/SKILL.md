@@ -130,9 +130,9 @@ SORT file.mtime DESC
 **PASSO 5b — Se JÁ existir:**
 Leia e exiba o conteúdo atual. Informe: "Daily de hoje já existe." Pergunte se quer editar algum bloco específico.
 
-**PASSO 6 — Registre o log**
+**PASSO 6 — Log operacional**
 
-Crie `[F2] memory/logs/comandos/YYYY-MM-DD-hoje.md`:
+Não crie `memory/*.md` automaticamente. Se Jadielson pedir registro do comando, crie `[F2] memory/logs/comandos/YYYY-MM-DD-hoje.md`:
 ```
 ---
 comando: /hoje

@@ -110,6 +110,6 @@ comando: /planejar-semana
 
 **PASSO 7 — Log**
 
-Crie `[F2] memory/logs/comandos/YYYY-MM-DD-planejar-semana.md` com referência à nota criada.
+Não crie `memory/*.md` automaticamente. Se Jadielson pedir registro do comando, crie `[F2] memory/logs/comandos/YYYY-MM-DD-planejar-semana.md` com referência à nota criada.
 
 Ao finalizar, exiba o resumo das datas e aniversariantes da semana, e confirme: "Planejamento YYYY-Www criado. Preencha o foco por frente quando quiser."

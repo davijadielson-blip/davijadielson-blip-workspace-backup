@@ -61,9 +61,9 @@ Saída agrupada por frente:
 Total: X e-mails | Y frentes | Z ações necessárias
 ```
 
-**PASSO 5 — Salvar em inbox-externa**
+**PASSO 5 — Propor registro em inbox-externa**
 
-Se houver e-mail relevante (não spam), salve resumo em:
+Se houver e-mail relevante (não spam), proponha salvar resumo em:
 `[F2] memory/inbox-externa/email/YYYY-MM-DD.md`
 
 Frontmatter:
@@ -77,4 +77,4 @@ revisado: false
 ---
 ```
 
-Regra: spam e promoções não entram no vault. Dúvida → não salva.
+Regra: spam e promoções não entram no vault. Dúvida → não salva. Só grave o arquivo após autorização explícita de Jadielson.

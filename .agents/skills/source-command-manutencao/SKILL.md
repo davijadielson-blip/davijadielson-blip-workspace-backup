@@ -56,7 +56,7 @@ Se encontrar, liste e sugira destino baseado no conteúdo.
 
 **PASSO 4 — Gerar relatório**
 
-Crie `[F2] memory/logs/manutencao/YYYY-MM-DD.md`:
+Não crie `memory/*.md` automaticamente. Primeiro entregue o relatório na conversa. Se Jadielson autorizar registro, crie `[F2] memory/logs/manutencao/YYYY-MM-DD.md`:
 
 ```
 ---

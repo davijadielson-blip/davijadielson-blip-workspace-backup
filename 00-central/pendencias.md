@@ -25,3 +25,6 @@ nao_usar_quando: registrar decisões finais; use 00-central/decisoes.md
 - [ ] Lote 3: consolidar pastas duplicadas de memória (`memory/`, `[F2] memory/`, `[F2]memory/`, `\[F2\] memory/`) com plano de movimentação reversível.
 - [ ] Lote 4: separar clientes/frentes em `50-clientes/` com índices por cliente.
 - [ ] Lote 5: isolar arquivos não-.md sensíveis/técnicos conforme classificação.
+
+## Backup remoto e auditoria de segurança
+- [ ] Revisar os 2 commits locais ainda não enviados ao `origin/main` antes de qualquer push amplo. Motivo: o lote inclui grande volume de mudanças, arquivos não-`.md` dentro do Cofre (`memory/.dreams/short-term-recall.json.migrated`, `openclaw-workspace-state.json` e estados runtime) e registros de memória migrada que podem conter conteúdo sensível de sessão. Regra aplicada em 2026-07-31: em dúvida, preservar localmente e bloquear push até revisão assistida/humana.

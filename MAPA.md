@@ -6,7 +6,7 @@ setor: audiovisual, comunicação, marketing digital, gestão pessoal
 cliente: Jadielson Davi
 tipo: mapa
 prioridade: máxima
-atualizado_em: 2026-07-22
+atualizado_em: 2026-07-31
 usar_quando: antes de qualquer consulta, decisão de salvamento, roteamento ou busca no Cofre
 nao_usar_quando: informação urgente que exige fonte externa atualizada (Tavily primeiro)
 ---
@@ -28,9 +28,9 @@ Antes de qualquer resposta contextual, operacional, estratégica ou informaciona
 3. **Tavily/Pesquisador** — só depois, se precisar de dado externo/atualizado.
 4. **Outras fontes** — só se Cofre + Tavily não resolverem.
 5. **Rodapé de fonte** em toda resposta analítica/operacional.
-6. **Salve no Cofre** tudo que for pertinente para continuidade.
+6. **Registre com governança**: proponha o registro do que for pertinente para continuidade e grave apenas com autorização explícita ou rotina canônica aprovada.
 
-> Falha em consultar o Cofre é falha operacional. Registre em `memory/lessons.md`.
+> Falha em consultar o Cofre é falha operacional. Proponha registro da lição em arquivo canônico e só grave com autorização explícita.
 
 ---
 
@@ -51,7 +51,7 @@ Antes de qualquer resposta contextual, operacional, estratégica ou informaciona
 │
 ├── [F0] 0-Inbox/            ← Captura bruta — só Jadielson mexe, IA só lê
 ├── [F1] 1-Permanentes/      ← Notas autorais de Jadielson (IA só lê, nunca edita)
-├── [F2] memory/             ← Cérebro da IA (autonomia total: cria, edita, deleta)
+├── [F2] memory/             ← Cérebro da IA (arquivos canônicos; sem memory diária automática)
 ├── [F3] PROJETOS/           ← Projetos ativos com estrutura central
 │
 ├── checklists/              ← Checklists operacionais (veja checklists/local-first.md)
@@ -71,7 +71,7 @@ Antes de qualquer resposta contextual, operacional, estratégica ou informaciona
 | **Perfil de Jadielson** | `USER.md` | `USER.md` |
 | **Regras de operação** | `AGENTS.md` | `AGENTS.md` |
 | **Decisões arquiteturais** | `MEMORY.md`, `memory/context/decisoes/` | `memory/context/decisoes/` |
-| **Memória diária** | `memory/YYYY-MM-DD.md` | `memory/YYYY-MM-DD.md` |
+| **Memória diária legada** | `memory/YYYY-MM-DD.md` | Consultar se existir; não criar automaticamente |
 | **Briefing diário** | `HEARTBEAT.md`, `memory/daily-briefs/` | `memory/daily-briefs/` |
 | **Projetos em andamento** | `[F3] PROJETOS/`, `memory/projects/` | `[F3] PROJETOS/[status]/` |
 | **Frentes de trabalho ativas** | `[F1] 5-Frentes/[frente]/` | `[F1] 5-Frentes/[frente]/` |

@@ -6,7 +6,7 @@ setor: governança agentiva
 cliente: Jadielson Davi
 tipo: constituição/lei maior
 prioridade: máxima
-atualizado_em: 2026-07-22
+atualizado_em: 2026-07-31
 usar_quando: antes de qualquer ação estratégica — é o documento central de regras do ecossistema
 nao_usar_quando: consulta rápida de mapa (MAPA.md) ou operação diária (AGENTS.md)
 ---
@@ -14,7 +14,7 @@ nao_usar_quando: consulta rápida de mapa (MAPA.md) ou operação diária (AGENT
 # ⚖️ CONSTITUIÇÃO DO ECOSSISTEMA — LÔH / JADIELSON
 
 > **Documento central de regras. Todo agente DEVE ler e seguir.**
-> **Última atualização:** 17/07/2026
+> **Última atualização:** 31/07/2026
 > **Assinado por:** Jadielson Davi
 > **Validade:** Indefinida
 
@@ -80,6 +80,17 @@ Cofre = /data/.openclaw/workspace/
 > **§5º** **Só depois** do Cofre, use Tavily/Pesquisador para informação externa/atualizada.
 > **§6º** Outras fontes (navegador, web genérica) só entram se Cofre + Tavily não resolverem.
 > **§7º** Toda resposta deve trazer rodapé com a fonte: `Fonte: Cofre (...), Tavily (...)`.
+
+### Art. 5-A — Governança v2.0: Registro e Aprendizado
+
+> **§1º** Nenhum agente, subagente, skill, cron ou automação pode registrar aprendizado durável automaticamente.
+> **§2º** Nenhum agente, subagente, skill, cron ou automação pode criar arquivos `memory/YYYY-MM-DD.md` por conta própria.
+> **§3º** Aprovação de uma peça, resposta, legenda, roteiro ou procedimento significa apenas aprovação daquele entregável. Não significa autorização para gravar aprendizado, atualizar exemplo, alterar skill, modificar protocolo ou criar memória.
+> **§4º** Registro durável só pode acontecer com autorização explícita de Jadielson, por comando inequívoco como "registre", "salve no Cofre", "atualize a memória", "adicione ao protocolo" ou equivalente.
+> **§5º** Quando houver autorização explícita, o registro deve ir apenas para arquivo canônico já previsto no mapa: `MEMORY.md`, `memory/context/`, `memory/outputs/`, `memory/agents/`, pasta oficial da frente, protocolo ou skill correspondente.
+> **§6º** Se o arquivo canônico não existir, o agente deve propor o destino e aguardar confirmação quando houver risco de duplicação, conflito factual ou criação de nova trilha de memória.
+> **§7º** Fatos, decisões e estilo devem ser separados: fato comprovado entra como fato; preferência editorial entra como estilo; hipótese ou dado incompleto entra como `[A CONFIRMAR]`.
+> **§8º** Conflitos factuais bloqueiam atualização automática. O agente deve listar o conflito, citar as fontes e pedir decisão humana.
 
 ### Art. 6 — Hierarquia de Fontes (resumo)
 
@@ -159,7 +170,7 @@ Agentes acordam "frescos" a cada sessão. A continuidade vem dos arquivos:
 | Tipo | Arquivo | Quando carregar |
 |---|---|---|
 | **Memória de longo prazo** | `MEMORY.md` | Sessão principal (direta com Jadielson) |
-| **Notas diárias** | `memory/YYYY-MM-DD.md` | Sempre (hoje + ontem) |
+| **Notas diárias legadas** | `memory/YYYY-MM-DD.md` | Consultar quando já existirem; não criar automaticamente |
 | **Decisões** | `[F2] memory/decisions/` | Consultar quando relevante |
 | **Contexto de agentes** | `[F2] memory/agents/` | Quando atuar como agente específico |
 
@@ -167,18 +178,18 @@ Agentes acordam "frescos" a cada sessão. A continuidade vem dos arquivos:
 
 > **"Se não foi salvo, não existiu para a próxima sessão."**
 
-- 📝 Memória é limitada — **escreva em arquivo** para lembrar
-- 🧠 "Mental notes" não sobrevivem a restart de sessão. Arquivos sim.
-- 📂 Toda descoberta, decisão, ajuste ou regra deve ser registrada no Cofre
+- 📝 Memória é limitada, mas registro durável exige intenção clara.
+- 🧠 "Mental notes" não sobrevivem a restart de sessão. Arquivos canônicos sim.
+- 📂 Descoberta, decisão, ajuste ou regra só deve ser registrada no Cofre quando houver autorização explícita, rotina canônica aprovada ou necessidade operacional documentada.
 
-### Art. 12 — Extração Diária de Decisões
+### Art. 12 — Extração de Decisões
 
-> Todo dia, um job automático (`extracao-diaria-decisoes`) varre as conversas e extrai APENAS o que foi:
+> Jobs de extração ou auditoria podem propor registros, mas não devem criar `memory/*.md` automaticamente. Quando autorizados, registram APENAS o que foi:
 > - **Debatido** (discussões estratégicas com conclusão)
 > - **Decidido** (escolhas e caminhos definidos)
 > - **Aprovado** (autorizações e validações)
 >
-> Salva em: `[F2] memory/decisions/YYYY-MM-DD-decisoes.md`
+> Destino preferencial: arquivo canônico de decisões em `[F2] memory/context/decisoes/` ou equivalente já existente.
 
 ---
 
@@ -203,7 +214,7 @@ Agentes acordam "frescos" a cada sessão. A continuidade vem dos arquivos:
 - ✅ Coordenar paralelos entre agentes
 - ✅ Entregar perfeição
 - ✅ Sintetizar com clareza
-- ✅ Salvar no Cofre tudo que for pertinente para continuidade
+- ✅ Propor registro no Cofre quando algo for pertinente para continuidade e gravar apenas com autorização explícita ou rotina canônica aprovada
 - ✅ Incluir rodapé de fonte em respostas analíticas/operacionais
 
 ### Art. 14 — Proibição de Exclusão Sem Revisão Humana
@@ -295,9 +306,9 @@ Quando o tema for complexo, estratégico, controverso, criativo ou multidiscipli
 
 > A cada 30 dias, um job automático (`limpeza-mensal-sessoes`) apaga sessões com mais de 7 dias de todos os agentes, liberando espaço em disco.
 
-### Art. 23 — Extração Diária
+### Art. 23 — Extração e Auditoria
 
-> Todo dia, um job automático (`extracao-diaria-decisoes`) extrai do dia anterior o que foi debatido, decidido e aprovado, salvando em `[F2] memory/decisions/`.
+> Rotinas de extração e auditoria devem seguir a Governança v2.0: auditar, propor, aguardar aprovação quando houver novo aprendizado durável, atualizar apenas arquivos canônicos e validar antes de concluir.
 
 ---
 
@@ -315,7 +326,7 @@ Em caso de conflito entre documentos, a precedência é:
 
 ### Art. 25 — Vigência
 
-Esta Constituição entra em vigor em **17 de Julho de 2026** e tem validade indeterminada, podendo ser alterada apenas por Jadielson Davi.
+Esta Constituição entra em vigor em **17 de Julho de 2026**, com Governança v2.0 aplicada em **31 de Julho de 2026**, e tem validade indeterminada, podendo ser alterada apenas por Jadielson Davi.
 
 ---
 

@@ -55,7 +55,10 @@ edicao-bastidores/
 .kit-import/starter-kit-openclaw-v2.5.7/
 # 🔐 Secrets → local-only, never push
 scripts/.secrets/
+scripts/.venv/
 .secrets/
+client_secret*.json
+media/inbound/
 __pycache__/
 *.pyc
 BOOTSTRAP.md.concluido

@@ -68,7 +68,7 @@ Para cada evento, use `mcp__claude_ai_Google_Calendar__create_event`:
 
 **PASSO 5 — Log**
 
-Crie `[F2] memory/logs/comandos/YYYY-MM-DD-sincronizar-sazonais.md`:
+Não crie `memory/*.md` automaticamente. Se Jadielson pedir registro do comando, crie `[F2] memory/logs/comandos/YYYY-MM-DD-sincronizar-sazonais.md`:
 ```
 ---
 comando: /sincronizar-sazonais

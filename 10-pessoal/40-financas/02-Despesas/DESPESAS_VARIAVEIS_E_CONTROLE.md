@@ -1,6 +1,6 @@
 ---
 tema: DESPESAS VARIAVEIS E CONTROLE
-atualizado_em: 2026-07-22
+atualizado_em: 2026-08-01
 ---
 
 # Despesas Variáveis e Controle
@@ -17,6 +17,12 @@ atualizado_em: 2026-07-22
 
 - Mercado: R$ 375,00 por semana.
 - Combustível: R$ 120,00 por semana.
+
+## Lançamentos de combustível
+
+| Data | Descrição | Categoria | Valor pago | Forma | Situação | Observação |
+|---|---|---|---:|---|---|---|
+| 2026-08-01 | Abastecimento carro — Auto Posto Avenida | Transporte | R$ 292,73 | Pix | pago | Desconto de R$ 47,00 já abatido do total pela promoção da seguradora Estrela Brasil; valor antes do desconto: R$ 339,73. |
 
 ## Regra de contenção
 
@@ -48,4 +54,3 @@ Fonte: print enviado no tópico My Finance. A captura contém lançamentos de ja
 - Prioridade prática: tentar cancelar/negociar os cursos antes de assumir novas despesas.
 - Combustível aparece no cartão e em aberto; precisa entrar no controle semanal.
 - Existem categorias dos filhos sem valor informado; devem ser preenchidas apenas quando houver gasto real.
-

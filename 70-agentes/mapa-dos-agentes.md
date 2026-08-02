@@ -34,3 +34,9 @@ Cada agente deve receber apenas o contexto necessário para sua função. `MEMOR
 3. Separar fatos, decisões, pendências e riscos.
 4. Preencher `Pode compartilhar com` e `Não compartilhar com`.
 5. Citar arquivos consultados.
+
+## Protocolo de fechamento com arquivos
+
+Quando uma tarefa gerar arquivo, mídia, documento, planilha, briefing, roteiro, relatório ou entregável externo, o agente deve seguir `70-agentes/protocolo-fechamento-drive.md`.
+
+Regra de fechamento: nenhuma tarefa desse tipo deve ser declarada concluída sem nome do arquivo, destino, conta/pasta usada e link de confirmação.

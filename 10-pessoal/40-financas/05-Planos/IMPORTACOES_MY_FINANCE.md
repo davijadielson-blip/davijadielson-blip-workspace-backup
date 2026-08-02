@@ -1,11 +1,30 @@
 ---
 tema: IMPORTACOES MY FINANCE
-atualizado_em: 2026-07-30
+atualizado_em: 2026-08-01
 ---
 
 # Importações My Finance
 
 Registro de dados enviados por Jadielson no tópico My Finance e transformados em resumo seguro por Warren.
+
+## 2026-08-01 — Comprovante: abastecimento carro
+
+Arquivo de destino atualizado: `02-Despesas/DESPESAS_VARIAVEIS_E_CONTROLE.md`
+
+Resumo extraído do comprovante Caixa e da observação de Jadielson:
+
+- Descrição: **abastecimento carro**.
+- Valor pago: **R$ 292,73**.
+- Pagamento realizado via **Pix** em **01/08/2026**, às **11:37:48**.
+- Recebedor: **Auto Posto Avenida**.
+- CNPJ do recebedor: **18.990.675/0001-90**.
+- Instituição do recebedor: **Itaú Unibanco S.A.**
+- ID da transação: **E00360305202608011437cc5e686ab47**.
+- Desconto informado por Jadielson: **R$ 47,00**, já abatido do total por promoção da seguradora **Estrela Brasil**.
+- Valor antes do desconto: **R$ 339,73**.
+- Destino correto do comprovante: **Drive pessoal > FINANCEIRO > comprovantes pessoais**.
+- Status técnico: envio ao Drive pendente neste runtime. Após correção de Jadielson, foi confirmado que o binário `gog` existe em `/home/linuxbrew/.linuxbrew/Cellar/gogcli/0.21.0/bin/gog`, mas este agente ainda não enxerga credenciais/tokens em `/data/.local/share/gogcli`; PDF movido para área técnica temporária fora do Cofre em `/data/.openclaw/tmp/financeiro-pendente-upload/2026-08/2026-08-01__AUTO-POSTO-AVENIDA__abastecimento-carro__R-292-73__desconto-estrela-brasil-47-00.pdf`.
+- Regra vigente: no Cofre fica apenas `.md`; demais arquivos ficam no Drive pessoal.
 
 ## 2026-07-30 — Comprovante: segunda parcela do IPVA
 
@@ -19,7 +38,7 @@ Resumo extraído do comprovante Caixa:
 - Convênio: **Secretaria da Fazenda**.
 - Data de vencimento e débito: **30/07/2026**.
 - Destino correto do comprovante: **Drive pessoal > FINANCEIRO > comprovantes pessoais**.
-- Status técnico: envio ao Drive pendente no runtime atual porque `gog` não está disponível; PDF mantido fora do Cofre em área técnica temporária para posterior upload.
+- Status técnico: envio ao Drive pendente neste runtime. O binário `gog` foi localizado posteriormente, mas este agente ainda não enxerga credenciais/tokens em `/data/.local/share/gogcli`; PDF mantido fora do Cofre em área técnica temporária para posterior upload.
 - Regra reforçada por Jadielson: no Cofre fica apenas `.md`; demais arquivos ficam no Drive pessoal.
 
 ## 2026-06-18 — Print: Despesas essenciais e imperdoáveis

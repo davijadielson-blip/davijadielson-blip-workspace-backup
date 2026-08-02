@@ -49,6 +49,16 @@ Jadielson reforçou no tópico Saúde que a pauta diária **nunca deve ser entre
 Regra prática reforçada: **pilar do dia primeiro; protagonista do feed segundo; stories sempre mesclados entre setores do mesmo pilar**.
 
 Exemplo corrigido em 2026-07-29: quarta-feira é pilar **Vigilância/Prevenção**. Mesmo quando o protagonista for PNI/Vacinação, os stories devem mesclar Endemias, PNI, Epidemiologia, Vigilância Sanitária e campanha relacionada, quando houver.
+
+## Reforço operacional — 2026-07-31
+
+Jadielson reforçou no tópico Saúde que esta regra não pode ser esquecida ao responder pautas diárias. A resposta correta deve sempre trazer:
+
+1. os **pilares e dias de postagem**;
+2. a **última estratégia vigente**;
+3. a lógica obrigatória de pauta: **pilar do dia primeiro → protagonista do feed segundo → stories mesclados entre setores do mesmo pilar**.
+
+Aplicação prática: quando o dia pedir `Post + Stories`, os stories não devem repetir apenas o protagonista do feed. Eles devem variar dentro do pilar do dia, mantendo unidade editorial e cobrindo setores/serviços relacionados.
 ---
 frente: saude-sao-sebastiao
 tipo: pauta-operacional-diaria

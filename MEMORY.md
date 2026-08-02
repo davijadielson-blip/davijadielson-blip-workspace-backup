@@ -6,7 +6,7 @@ setor: governança, operações, tecnologia
 cliente: Jadielson Davi
 tipo: memória/registro de decisões
 prioridade: máxima
-atualizado_em: 2026-07-22
+atualizado_em: 2026-07-31
 usar_quando: consultar decisões passadas, protocolos vigentes, histórico de ativações e políticas
 nao_usar_quando: operação diária (AGENTS.md) ou mapa do workspace (MAPA.md)
 ---
@@ -573,9 +573,10 @@ Regra atual:
      `Fonte: Cofre (...), Tavily (...), ferramenta específica (...).`
    - Se não encontrou no Cofre após fallback direto, dizer quais caminhos foram verificados.
 
-5. **Salvar automaticamente tudo que for pertinente**
+5. **Registrar com governança**
    - Não confiar em chat/sessão como memória. Chat é transitório. Cofre é continuidade.
-   - Decisões, aprendizados, contexto de cliente/projeto, briefing, roteiro, checklist, plano, ata, diagnóstico, configuração, correção, link importante, resumo de Drive/Trello/WhatsApp/e-mail e qualquer informação útil para continuidade devem ser salvos automaticamente no Cofre.
+   - Decisões, aprendizados, contexto de cliente/projeto, briefing, roteiro, checklist, plano, ata, diagnóstico, configuração, correção, link importante, resumo de Drive/Trello/WhatsApp/e-mail e qualquer informação útil para continuidade devem ser propostos para registro no Cofre.
+   - O registro durável só acontece com autorização explícita de Jadielson, rotina canônica aprovada ou necessidade operacional já prevista. Nenhuma skill deve criar `memory/*.md` automaticamente.
    - Use o destino correto do mapa geral:
      - decisões/configuração: `[F2] memory/context/decisoes/` ou frente equivalente;
      - outputs, roteiros, briefings, drafts: `[F2] memory/outputs/` ou subpasta da frente;

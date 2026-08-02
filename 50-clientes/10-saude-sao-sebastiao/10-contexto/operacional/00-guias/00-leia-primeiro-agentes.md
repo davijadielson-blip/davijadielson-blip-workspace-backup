@@ -22,6 +22,12 @@ Para demandas do tópico Telegram 3672 de Social Media da Saúde, aplicar també
 
 `00-guias/protocolo-topico-telegram-3672-social-media.md`
 
+## Armazenamento no Cofre
+
+Nesta frente, o Cofre deve guardar somente arquivos `.md`.
+
+Arquivos não Markdown — ZIP, imagem, vídeo, áudio, arte, PDF, planilha, pacote de skill, mídia bruta ou binário — devem ir para o Drive profissional quando precisarem ser preservados. No Cofre, registrar apenas a síntese, referência, decisão ou trilha em Markdown.
+
 ## Rotas rápidas
 
 - O que cada setor faz:

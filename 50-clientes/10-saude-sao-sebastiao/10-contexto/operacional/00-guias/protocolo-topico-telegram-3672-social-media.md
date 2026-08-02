@@ -18,6 +18,12 @@ Este tópico da LÓGIKA é a frente diária de trabalho da comunicação da Secr
 
 Cofre organiza, Drive comprova, skill dá o padrão editorial, e Jadielson valida o que for sensível.
 
+## Regra de armazenamento
+
+No Cofre, guardar somente arquivos `.md`.
+
+Arquivos não Markdown — como ZIP, imagem, vídeo, áudio, arte, PDF, planilha, pacote de skill, mídia bruta ou arquivo binário — não devem ser armazenados no Cofre como destino permanente. Quando precisarem ser preservados, encaminhar para o Drive profissional da frente ou manter apenas como anexo transitório até a organização correta.
+
 ## Quando aplicar
 
 Aplicar em toda demanda que envolva:
