@@ -1,9 +1,17 @@
 ---
+tema: regra de rotacao ciclica e mesclagem por pilares da Saude Sao Sebastiao
+conteudo: regras aprovadas por Jadielson para pauta diaria, rotacao de pilares, alternancia de stories e equilibrio entre quinto e sexto dia editorial
+setor: comunicacao institucional
+cliente: Saude Sao Sebastiao
 frente: saude-sao-sebastiao
 tipo: regra-operacional-editorial
+prioridade: alta
 status: validado-por-jadielson
 data: 2026-07-13
+atualizado_em: 2026-08-08
 origem: Telegram tópico SAÚDE - SOCIAL MEDIA
+usar_quando: montar ou revisar pautas diarias, semanais e calendarios editoriais da Saude Sao Sebastiao
+nao_usar_quando: produzir texto final sem fatos locais confirmados ou sem validar dados sensiveis de publicacao
 ---
 
 # Regra operacional — rotação cíclica e mesclagem por pilares
@@ -59,6 +67,15 @@ Jadielson reforçou no tópico Saúde que esta regra não pode ser esquecida ao 
 3. a lógica obrigatória de pauta: **pilar do dia primeiro → protagonista do feed segundo → stories mesclados entre setores do mesmo pilar**.
 
 Aplicação prática: quando o dia pedir `Post + Stories`, os stories não devem repetir apenas o protagonista do feed. Eles devem variar dentro do pilar do dia, mantendo unidade editorial e cobrindo setores/serviços relacionados.
+
+## Reforço operacional — 2026-08-08
+
+Jadielson validou o mapa geral de pilares da Secretaria e reforçou duas regras para a produção de segunda a sexta:
+
+1. Como a proposta operacional é produzir de **segunda a sexta**, o **quinto e o sexto pilar** devem se alternar entre si para manter equilíbrio editorial. Na prática, **Urgência/Serviço** e **Bastidores/Prestação de Contas** não devem ficar sempre presos a um único dia ou a uma ordem rígida; devem revezar conforme oportunidade, necessidade da semana e disponibilidade real de captação.
+2. Mesmo quando houver uma sugestão clara de protagonista do feed dentro do pilar, os **stories devem sempre alternar entre setores, serviços, rotinas ou ângulos do mesmo pilar**, evitando monotonia diária. O feed pode ter um foco principal, mas os stories precisam ampliar o pilar.
+
+Exemplo aplicado: em uma pauta de **Atenção Básica/Território**, se o feed for sobre o médico da família, os stories não devem ficar todos em torno do médico. Devem alternar entre UBS/postinho, médico, enfermagem/triagem, vacinação/prevenção, ACS/território, crônicos, pré-natal, puericultura ou outro serviço do mesmo pilar, conforme disponibilidade e segurança de imagem.
 ---
 frente: saude-sao-sebastiao
 tipo: pauta-operacional-diaria
