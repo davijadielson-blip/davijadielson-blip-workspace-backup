@@ -7,6 +7,21 @@ atualizado_em: 2026-08-01
 
 Registro de dados enviados por Jadielson no tópico My Finance e transformados em resumo seguro por Warren.
 
+## 2026-08-08 — Comprovante: remédio para resfriado — upload pendente
+
+- Arquivo local preservado: `70-agentes/runtime/central-pessoal/media/inbound/openclaw-staged-2ae8fd20-41f3-4ed1-9e76-020506e95974/Comprovante_2026-08-08_013222---3863b466-ac1d-46df-8f62-ec989d781455.pdf`
+- Valor: **R$ 20,00**.
+- Pagamento: Pix efetivado em **06/08/2026 às 19:19:05**.
+- Descrição informada: **remédio para resfriado**; categoria provisória Saúde/Farmácia.
+- ID da transação Pix: `E0036030520260806221872d437b6df3`.
+- Destino pretendido: Drive pessoal > FINANCEIRO > comprovantes pessoais.
+- **Status: NÃO CONCLUÍDO — sem ID de arquivo do Drive.**
+- Erro técnico em 2026-08-08 08:08 UTC: `gog auth doctor --check` identificou falha `aes.KeyUnwrap(): integrity check failed` para os tokens OAuth; 0 tokens legíveis. O `GOG_KEYRING_PASSWORD` está definido, mas não corresponde às credenciais criptografadas armazenadas.
+- Nova tentativa em 2026-08-08 08:23 UTC: falha persistente no `gog auth doctor --check`; 0 tokens legíveis e o Drive não pôde ser consultado. Nenhum upload foi iniciado; portanto, não existe ID nem link.
+- Nova tentativa em 2026-08-08 09:51 UTC: falha persistente no `gog auth doctor --check`; 0 tokens OAuth legíveis (`aes.KeyUnwrap(): integrity check failed`). O upload não foi iniciado.
+- Nova tentativa em 2026-08-08 10:10 UTC: falha persistente no `gog auth doctor --check`; as três contas continuam sem tokens legíveis. O upload não foi iniciado.
+- Ação: não repetir upload mutável indiscriminadamente; aguardar correção/reautorização efetiva do keyring por Alfred/LÔH. Não lançar a despesa no controle sem confirmação explícita.
+
 ## 2026-08-01 — Comprovante: abastecimento carro
 
 Arquivo de destino atualizado: `02-Despesas/DESPESAS_VARIAVEIS_E_CONTROLE.md`

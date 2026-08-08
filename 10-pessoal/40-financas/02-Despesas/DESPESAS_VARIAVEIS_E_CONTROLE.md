@@ -18,6 +18,19 @@ atualizado_em: 2026-08-01
 - Mercado: R$ 375,00 por semana.
 - Combustível: R$ 120,00 por semana.
 
+## Lançamentos — competência julho/2026
+
+| Competência | Descrição | Categoria | Valor pago | Data do pagamento | Forma | Situação | Observação |
+|---|---|---|---:|---|---|---|---|
+| 2026-07 | Cabelo e barba | Beleza | R$ 60,00 | 2026-08-07 | Pix | pago | Serviço acumulado de julho e pago no início de agosto; comprovante salvo no Drive pessoal, pasta 07-Julho. |
+
+## Lançamentos — troca de óleo moto
+
+| Data | Descrição | Categoria | Valor pago | Forma | Km no painel | Situação |
+|---|---|---|---:|---|---:|---|
+| 2026-08-07 | Troca de óleo | Manutenção veículo | R$ 70,00 | Pix | 2450 | pago |
+| 2026-08-07 | Pastilhas garganta | Saúde | R$ 18,00 | Pix | — | pago |
+
 ## Lançamentos de combustível
 
 | Data | Descrição | Categoria | Valor pago | Forma | Situação | Observação |

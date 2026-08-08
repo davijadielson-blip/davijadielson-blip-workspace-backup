@@ -1,12 +1,12 @@
 ---
 tema: regras de operação para todos os agentes
-conteudo: protocolo LOCAL-FIRST, sessão, memória, heartbeats, regras globais, hierarquia, subagentes, preferências de escrita, proibições, habilidades, hooks, git
+conteudo: protocolo LOCAL-FIRST, sessão, memória, salvamento pertinente, heartbeats, regras globais, hierarquia, subagentes, preferências de escrita, proibições, habilidades, hooks, git
 nicho: ecossistema agêntico Lôh/Jadielson
 setor: operações agentivas e governança
 cliente: Jadielson Davi
 tipo: regras operacionais
 prioridade: máxima
-atualizado_em: 2026-07-31
+atualizado_em: 2026-08-08
 usar_quando: toda sessão — ler antes de qualquer ação para saber como operar, o que é proibido e como se comportar
 nao_usar_quando: identidade do agente (SOUL.md) ou constituição/leis maiores (CONSTITUICAO.md)
 ---
@@ -106,6 +106,29 @@ You wake up fresh each session. These files are your continuity:
 
 Capture o que importa primeiro na resposta, proposta ou relatório. Registro durável no Cofre exige autorização explícita de Jadielson ou rotina canônica previamente aprovada.
 
+### 💾 Salvamento pertinente por aprovação leve
+
+**Regra ativada por Jadielson em 2026-08-06 e ampliada em 2026-08-08:** não esperar sempre um pedido explícito como "salve isso" quando houver sinal claro de aprovação/uso.
+
+Quando Jadielson reagir com **👍** ou **❤️**, enviar figurinha coerente de aprovação/uso, ou responder com expressões como **"obrigado"**, **"obg"**, **"muito bom"**, **"vou usar"** ou equivalentes, isso conta como autorização operacional leve para salvar o que for pertinente para continuidade.
+
+O agente deve:
+
+- identificar se a conversa gerou algo reutilizável: decisão, regra, briefing, roteiro, legenda, checklist, plano, contexto de cliente/projeto, diagnóstico, aprendizado, referência importante ou próximo passo;
+- salvar no caminho correto do Cofre sem pedir nova autorização, quando o conteúdo for Markdown;
+- salvar apenas o essencial: título, data, origem, contexto, decisão/conteúdo aprovado, próximos passos e fonte;
+- evitar duplicar respostas inteiras quando um resumo estruturado preservar melhor a continuidade;
+- registrar links/IDs quando o material original estiver no Drive, Gmail, Notion, Telegram ou outra fonte externa;
+- respeitar sigilo, validação humana e regras de publicação: aprovação leve para salvar não é autorização para publicar, enviar e-mail, postar ou compartilhar externamente.
+
+Separação obrigatória:
+
+- **Cofre:** somente arquivos `.md` com contexto, índice, resumo, transcrição textual, briefing, roteiro, checklist ou referência.
+- **Drive:** imagens, vídeos, áudios, PDFs, anexos, arquivos compactados e demais arquivos não Markdown.
+- Quando um arquivo não Markdown for relevante, manter o original no Drive e criar no Cofre apenas um `.md` com resumo, link/ID, status e próximos passos.
+
+Se houver dúvida se algo é pertinente, aplicar a regra de ouro: se pode orientar uma próxima ação, decisão ou continuidade, deve ser salvo.
+
 ### 🧠 MEMORY.md - Your Long-Term Memory
 
 - **ONLY load in main session** (direct chats with your human)
@@ -135,7 +158,7 @@ Esta regra vale para todos os agentes, subagentes e tópicos:
 - Se a busca semântica falhar, faça fallback por leitura direta, `find` e `grep`; falha de embeddings não autoriza resposta genérica.
 - Quando precisar de informação externa/atualizada, use Tavily/Pesquisador como principal fonte externa antes de navegador/web genérica.
 - Toda resposta analítica/operacional deve trazer rodapé curto de fonte.
-- Não registre aprendizado durável automaticamente. Para continuidade, proponha o registro em arquivo canônico e grave apenas com autorização explícita, rotina canônica aprovada ou necessidade operacional já prevista.
+- Não registre aprendizado durável automaticamente fora das permissões vigentes. Para continuidade, proponha o registro em arquivo canônico e grave apenas com autorização explícita, rotina canônica aprovada, necessidade operacional já prevista ou aprovação leve de Jadielson conforme a regra de salvamento pertinente.
 - Nunca confie em “ficar apenas no chat”. Chat é transitório; Cofre é continuidade.
 - É proibido criar workspace paralelo ou cofre próprio fora de `/data/.openclaw/workspace/`.
 

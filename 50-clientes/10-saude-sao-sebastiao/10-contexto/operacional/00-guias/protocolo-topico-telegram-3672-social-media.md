@@ -5,7 +5,7 @@ setor: comunicação institucional e social media
 cliente: Saúde São Sebastião
 tipo: protocolo operacional
 prioridade: máxima
-atualizado_em: 2026-07-31
+atualizado_em: 2026-08-06
 usar_quando: produzir legenda, headline, roteiro, Stories, WhatsApp, release, pauta, carrossel educativo ou planejamento editorial da Saúde São Sebastião
 nao_usar_quando: publicar automaticamente, prometer serviço sem confirmação ou consultar arquivos pessoais
 ---
@@ -17,6 +17,21 @@ Este tópico da LÓGIKA é a frente diária de trabalho da comunicação da Secr
 ## Regra central
 
 Cofre organiza, Drive comprova, skill dá o padrão editorial, e Jadielson valida o que for sensível.
+
+## Trava contra texto genérico
+
+Nenhum conteúdo de produção da Saúde deve ser entregue antes de consultar este protocolo, a entrada operacional do Cofre e a skill `saude-sao-sebastiao-comunicacao`.
+
+Se essa consulta não tiver sido feita, o agente deve parar, consultar as fontes e só então produzir. A resposta não pode depender apenas de memória geral, improviso institucional ou texto "bonito" sem fato concreto.
+
+Antes de entregar, verificar obrigatoriamente:
+
+- a primeira frase segue a pirâmide invertida e abre com o fato principal;
+- o texto mostra o serviço real acontecendo;
+- o benefício prático para a população está claro;
+- há orientação de acesso, continuidade ou próximo passo quando couber;
+- nomes, números, datas, locais e horários vieram de fonte confirmada ou foram marcados como `[A CONFIRMAR]`;
+- o texto não parece genérico, autopromocional ou desconectado da ação registrada.
 
 ## Regra de armazenamento
 

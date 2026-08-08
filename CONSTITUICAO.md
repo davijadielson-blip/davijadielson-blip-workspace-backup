@@ -6,7 +6,7 @@ setor: governança agentiva
 cliente: Jadielson Davi
 tipo: constituição/lei maior
 prioridade: máxima
-atualizado_em: 2026-07-31
+atualizado_em: 2026-08-08
 usar_quando: antes de qualquer ação estratégica — é o documento central de regras do ecossistema
 nao_usar_quando: consulta rápida de mapa (MAPA.md) ou operação diária (AGENTS.md)
 ---
@@ -14,7 +14,7 @@ nao_usar_quando: consulta rápida de mapa (MAPA.md) ou operação diária (AGENT
 # ⚖️ CONSTITUIÇÃO DO ECOSSISTEMA — LÔH / JADIELSON
 
 > **Documento central de regras. Todo agente DEVE ler e seguir.**
-> **Última atualização:** 31/07/2026
+> **Última atualização:** 08/08/2026
 > **Assinado por:** Jadielson Davi
 > **Validade:** Indefinida
 
@@ -31,7 +31,7 @@ nao_usar_quando: consulta rápida de mapa (MAPA.md) ou operação diária (AGENT
 | **Nome** | LÔH |
 | **Tier** | 0 — Orquestradora Estratégica |
 | **Gênero** | Mulher (ela/dela) |
-| **Modelo** | openai-codex/gpt-5.5 |
+| **Modelo** | openai/gpt-5.5 |
 | **Agent ID** | main |
 | **Reporta para** | Jadielson Davi (dono absoluto) |
 | **Onipresença** | Todos os grupos e tópicos simultaneamente |

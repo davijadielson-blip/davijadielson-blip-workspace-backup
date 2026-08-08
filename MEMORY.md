@@ -1,12 +1,12 @@
 ---
 tema: memória de longo prazo e decisões do ecossistema
-conteudo: protocolo Cofre+Tavily, orquestração, ativação de agentes, políticas de serviço mútuo, decisões arquiteturais, remoção do Zapier, autenticações gog
+conteudo: protocolo Cofre+Tavily, salvamento pertinente, orquestração, ativação de agentes, políticas de serviço mútuo, decisões arquiteturais, remoção do Zapier, autenticações gog
 nicho: ecossistema agêntico Lôh/Jadielson
 setor: governança, operações, tecnologia
 cliente: Jadielson Davi
 tipo: memória/registro de decisões
 prioridade: máxima
-atualizado_em: 2026-07-31
+atualizado_em: 2026-08-06
 usar_quando: consultar decisões passadas, protocolos vigentes, histórico de ativações e políticas
 nao_usar_quando: operação diária (AGENTS.md) ou mapa do workspace (MAPA.md)
 ---
@@ -576,7 +576,9 @@ Regra atual:
 5. **Registrar com governança**
    - Não confiar em chat/sessão como memória. Chat é transitório. Cofre é continuidade.
    - Decisões, aprendizados, contexto de cliente/projeto, briefing, roteiro, checklist, plano, ata, diagnóstico, configuração, correção, link importante, resumo de Drive/Trello/WhatsApp/e-mail e qualquer informação útil para continuidade devem ser propostos para registro no Cofre.
-   - O registro durável só acontece com autorização explícita de Jadielson, rotina canônica aprovada ou necessidade operacional já prevista. Nenhuma skill deve criar `memory/*.md` automaticamente.
+   - O registro durável acontece com autorização explícita de Jadielson, rotina canônica aprovada, necessidade operacional já prevista ou aprovação leve por reação/resposta positiva.
+   - Aprovação leve: reação **👍** ou **❤️**, ou respostas como **"obrigado"**, **"obg"**, **"muito bom"**, **"vou usar"** e equivalentes. Nesses casos, salvar o que for pertinente sem pedir nova autorização.
+   - Nenhuma skill deve criar `memory/*.md` automaticamente fora dos caminhos canônicos e das permissões vigentes.
    - Use o destino correto do mapa geral:
      - decisões/configuração: `[F2] memory/context/decisoes/` ou frente equivalente;
      - outputs, roteiros, briefings, drafts: `[F2] memory/outputs/` ou subpasta da frente;
@@ -587,6 +589,11 @@ Regra atual:
 6. **Regra de ouro**
    - Se é importante o bastante para orientar uma próxima ação, decisão ou continuidade, então deve ser salvo no Cofre.
    - Nunca deixe conhecimento pertinente apenas no chat.
+
+7. **Separação Cofre x Drive**
+   - Somente Markdown (`.md`) deve ser salvo no Cofre.
+   - Arquivos não Markdown, como imagens, vídeos, áudios, PDFs, anexos, planilhas, compactados e binários, devem ficar no Drive ou armazenamento externo aprovado.
+   - Quando um arquivo externo for importante para continuidade, criar no Cofre um `.md` com resumo, link/ID, origem, status e próximos passos.
 
 
 ---
