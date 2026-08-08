@@ -1,8 +1,7 @@
 ---
 name: "saude-sao-sebastiao-comunicacao"
-description: "Cria conteúdos da Saúde com Cofre, Drive profissional, fontes oficiais e aprovação humana para aprendizado"
+description: "Atualiza skill principal da Saúde para v1.3.1 com pilares, rotação e stories"
 user-invocable: true
-version: "1.3.0"
 ---
 
 # Comunicação Institucional — Saúde São Sebastião
@@ -120,6 +119,56 @@ Modelo mental:
 
 Não transforme a estrutura em fórmula robótica. Varie o ritmo e o vocabulário.
 
+## Pilares gerais da Secretaria
+
+Use este mapa para pautas diárias, semanais, calendários e organização geral da produção:
+
+1. **Atenção Básica / Território**: UBS, postinhos, PSF/equipe da unidade, ACS, pré-natal, puericultura, crônicos, saúde da criança, sala de vacina quando for rotina da unidade e acompanhamento das famílias.
+2. **Serviços Especializados / Diagnóstico**: Espaço Cuidar, Oftalmologia, Laboratório, CEO, Saúde Bucal especializada, Odontomóvel, marcação, encaminhamento e regulação quando o foco for acesso a exames e especialistas.
+3. **Vigilância / Prevenção**: PNI/vacinação, Endemias, Vigilância Sanitária, Epidemiologia, dengue, hepatites, campanhas preventivas, fiscalização sanitária e controle de riscos.
+4. **Rede de Apoio / Humanização**: CAPS, EMULTI, Melhor em Casa, Serviço Social, Maternidade, cuidado domiciliar, saúde mental, vulnerabilidades e famílias que precisam de apoio contínuo.
+5. **Urgência / Serviço**: Unidade Mista, SAMU, pronto atendimento, equipe móvel, quando procurar urgência, quando ligar 192 e diferença entre UBS e urgência.
+6. **Bastidores / Prestação de Contas**: Secretaria, Recepção/Regulação, RH, Almoxarifado, CPD/Sistemas, Procuradoria, Gabinete, ASCOM, organização de fluxos, insumos, servidores, sistemas e gestão.
+7. **Campanhas Mensais / Datas de Saúde**: eixo transversal que atravessa os demais pilares, como Agosto Dourado, Agosto Verde, Setembro Amarelo, Outubro Rosa, Novembro Azul, vacinação, saúde mental, prevenção e aleitamento.
+
+Resumo mental: **Postinhos / Especializados / Prevenção / Apoio Humano / Urgência / Bastidores / Campanhas**.
+
+## Rotação de segunda a sexta
+
+Quando a proposta operacional for produzir apenas de **segunda a sexta**, os pilares 5 e 6 devem se alternar para manter equilíbrio editorial.
+
+- **Urgência / Serviço** não deve ficar sempre preso ao mesmo dia.
+- **Bastidores / Prestação de Contas** também não deve ficar sempre preso ao mesmo dia.
+- Em uma semana, a sexta pode ser Bastidores; em outra, pode ser Urgência.
+- A escolha depende da oportunidade, necessidade da Secretaria e disponibilidade real de captação.
+- Campanhas mensais entram como eixo transversal e podem ocupar espaço quando houver data forte, sem apagar a lógica dos pilares.
+
+## Stories dentro do pilar
+
+Mesmo quando houver uma sugestão clara de protagonista do feed, os stories devem alternar entre setores, serviços, rotinas ou ângulos do mesmo pilar para evitar monotonia diária.
+
+- O feed ou Reels pode ter um protagonista único.
+- Os stories devem ampliar o pilar, não repetir o mesmo personagem ou setor em todas as telas.
+- Não sair do pilar apenas para variar. A variação deve acontecer dentro do universo daquele pilar.
+- A sequência ideal combina: porta de entrada, serviço, equipe, orientação, rotina, território, acesso e cuidado de imagem.
+
+Exemplo em **Atenção Básica / Território**: se o feed for sobre médico da família, os stories podem alternar entre UBS/postinho, médico, enfermagem/triagem, vacinação/prevenção, ACS/território, crônicos, pré-natal, puericultura ou outro serviço do mesmo pilar.
+
+Exemplo em **Vigilância / Prevenção**: se o feed for sobre Vigilância Sanitária, os stories podem alternar entre fiscalização, orientação aos estabelecimentos, segurança dos alimentos, Endemias, PNI/vacinação, Epidemiologia ou campanha preventiva relacionada.
+
+## Resposta mínima para pauta diária
+
+Ao responder “qual a pauta de hoje” ou “qual a pauta de amanhã”, entregue no mínimo:
+
+1. pilar editorial do dia;
+2. protagonista do feed/Reels/carrossel;
+3. lógica de mesclagem dos stories dentro do pilar;
+4. lembretes de captação por cronograma real, quando houver;
+5. decisão editorial: publicar hoje, captar e guardar ou validar com Jadielson;
+6. cuidados de imagem, privacidade e validação.
+
+Fonte canônica desta atualização: `/data/.openclaw/workspace/50-clientes/10-saude-sao-sebastiao/30-entregas/outputs-f2/sistema-producao/2026-07-13-regra-rotacao-mesclagem-pilares.md`.
+
 ## Profundidade por formato
 
 ### Feed
@@ -136,6 +185,7 @@ Não transforme a estrutura em fórmula robótica. Varie o ritmo e o vocabulári
 - Headline: direta, curta e específica.
 - Complemento: uma frase curta que acrescente informação, sem repetir a headline.
 - Fórmula: `o que está acontecendo + por que importa`.
+- Alterne setores, serviços, rotinas ou ângulos do mesmo pilar.
 - Evite sequência de Stories dizendo a mesma coisa com sinônimos de gravata.
 
 ### WhatsApp e Threads
@@ -302,6 +352,8 @@ Benchmarking institucional:
    - O slogan ficou natural?
    - O CTA é útil?
    - Há repetição?
+   - Os stories alternam dentro do pilar?
+   - O quinto e sexto pilar foram equilibrados na produção de segunda a sexta?
 9. Entregue a versão pronta, sem explicar demais o processo.
 10. Quando o usuário aprovar, trate a aprovação como validação da peça, não como autorização automática para gravar aprendizado.
 11. Quando rejeitar, registre internamente o motivo objetivo apenas se houver autorização explícita ou se for necessário para corrigir a proposta em andamento.
