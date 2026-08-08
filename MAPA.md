@@ -1,12 +1,12 @@
 ---
 tema: mapa geral do workspace
-conteudo: estrutura completa de pastas, arquivos e rotas de cada tipo de informação no Cofre
+conteudo: estrutura completa de pastas, arquivos, salvamento pertinente e rotas de cada tipo de informação no Cofre
 nicho: ecossistema agêntico Lôh/Jadielson
 setor: audiovisual, comunicação, marketing digital, gestão pessoal
 cliente: Jadielson Davi
 tipo: mapa
 prioridade: máxima
-atualizado_em: 2026-07-31
+atualizado_em: 2026-08-08
 usar_quando: antes de qualquer consulta, decisão de salvamento, roteamento ou busca no Cofre
 nao_usar_quando: informação urgente que exige fonte externa atualizada (Tavily primeiro)
 ---
@@ -28,9 +28,15 @@ Antes de qualquer resposta contextual, operacional, estratégica ou informaciona
 3. **Tavily/Pesquisador** — só depois, se precisar de dado externo/atualizado.
 4. **Outras fontes** — só se Cofre + Tavily não resolverem.
 5. **Rodapé de fonte** em toda resposta analítica/operacional.
-6. **Registre com governança**: proponha o registro do que for pertinente para continuidade e grave apenas com autorização explícita ou rotina canônica aprovada.
+6. **Registre com governança**: proponha o registro do que for pertinente para continuidade e grave com autorização explícita, rotina canônica aprovada ou aprovação leve de Jadielson.
 
 > Falha em consultar o Cofre é falha operacional. Proponha registro da lição em arquivo canônico e só grave com autorização explícita.
+
+### 💾 Salvamento pertinente
+
+Reação **👍** ou **❤️**, figurinha coerente de aprovação/uso, ou respostas como **"obrigado"**, **"obg"**, **"muito bom"**, **"vou usar"** e equivalentes autorizam salvar no Cofre o que for pertinente para continuidade, sem pedir nova confirmação.
+
+Somente Markdown (`.md`) vai para o Cofre. Demais arquivos vão para o Drive ou armazenamento externo aprovado, com referência em `.md` quando necessário.
 
 ---
 
@@ -85,6 +91,7 @@ Antes de qualquer resposta contextual, operacional, estratégica ou informaciona
 | **Scripts de automação** | `scripts/` | `scripts/` |
 | **Templates** | `templates/` | `templates/` |
 | **Dados do Google Drive** | `gog drive` (CLI, não Zapier) | Google Drive |
+| **Arquivos não Markdown** | Drive/origem externa + referência `.md` | Google Drive |
 | **Leads/CRM** | Notion (link em MEMORY.md) | Notion |
 | **Calendário Google** | `gog calendar` (CLI, não Zapier) | Google Calendar |
 | **E-mails (Gmail)** | `gog gmail` (CLI, só leitura) | Gmail |
@@ -117,7 +124,7 @@ Antes de qualquer resposta contextual, operacional, estratégica ou informaciona
 ### `[F2] memory/` — Cérebro da IA (autonomia total)
 ```
 memory/
-├── YYYY-MM-DD.md           ← Diários (criar se não existir)
+├── YYYY-MM-DD.md           ← Diários legados (consultar se existirem; não criar automaticamente)
 ├── context/                ← Estado atual: pendências, deadlines, negócio
 │   └── decisoes/           ← Decisões arquiteturais registradas
 ├── sessions/               ← Log diário de sessões + outputs de crons
