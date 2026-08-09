@@ -20,7 +20,7 @@ nao_usar_quando: operação diária (AGENTS.md) ou mapa do workspace (MAPA.md)
 **Regra fundamental:** o **Cofre** (`/data/.openclaw/workspace/`) é a ÚNICA fonte de verdade primária.
 
 - **Tudo** que agentes criam, decidem, aprendem ou anotam → Cofre
-- **GitHub** (`https://github.com/davijadielson-blip/segundo-cerebro-jadielson`) é **backup apenas** - unidirecional
+- **GitHub** (`https://github.com/davijadielson-blip/segundo-cerebro-jadielson` e repositório operacional de backup) é **backup apenas** - unidirecional; pode ser usado quando necessario para recuperacao tecnica, auditoria historica, comparacao de estado e rollback seletivo, sem substituir o Cofre local como fonte primaria
 - **Nunca** escrever direto no GitHub
 - **Nunca** consultar o GitHub como fonte primária
 

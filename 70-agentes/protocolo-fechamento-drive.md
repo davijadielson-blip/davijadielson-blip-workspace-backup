@@ -5,7 +5,7 @@ setor: governanca agentiva, operacoes, producao
 cliente: Jadielson Davi
 tipo: protocolo-operacional
 prioridade: alta
-atualizado_em: 2026-08-02
+atualizado_em: 2026-08-09
 usar_quando: qualquer agente concluir tarefa que gere arquivo, midia, documento, planilha, roteiro, briefing, relatorio ou entregavel externo
 nao_usar_quando: respostas simples em chat que nao gerem arquivo nem entregavel a preservar
 ---
@@ -28,10 +28,18 @@ Nenhuma tarefa com arquivo ou entregavel externo deve ser marcada como concluida
 ```bash
 cd /data/.openclaw/workspace
 source scripts/gog-auth.sh
-gog --account logikacreative.mkt@gmail.com drive upload <arquivo-local> --parent <folder-id>
+gog_drive logika upload <arquivo-local> --parent <folder-id>
 ```
 
-4. Conferir o arquivo no Drive com `gog drive get` ou `gog drive url`.
+Para materiais pessoais autorizados:
+
+```bash
+cd /data/.openclaw/workspace
+source scripts/gog-auth.sh
+gog_drive pessoal upload <arquivo-local> --parent <folder-id>
+```
+
+4. Conferir o arquivo no Drive com `gog_drive <conta> get <file-id>` ou busca pelo nome do arquivo.
 5. Reportar no fechamento:
    - nome do arquivo;
    - conta do Drive usada;
@@ -41,11 +49,13 @@ gog --account logikacreative.mkt@gmail.com drive upload <arquivo-local> --parent
 
 ## Se o agente nao souber a pasta correta
 
-Nao declarar concluido. O agente deve:
+Nao declarar concluido como final. O agente deve:
 
-1. deixar o arquivo salvo localmente no Cofre quando for seguro;
-2. pedir roteamento para Lôh/Jarvis com nome do arquivo, frente, cliente e sugestao de destino;
-3. aguardar a definicao antes de mover para pasta sensivel ou final.
+1. extrair e salvar no Cofre apenas o que for pertinente em `.md`: resumo, metadados, texto extraido, status, origem, pendencia e proximo passo;
+2. manter o arquivo bruto fora do Git e fora do destino canonico do Cofre quando possivel;
+3. pedir roteamento para Lôh/Jarvis com nome do arquivo, frente, cliente e sugestao de destino;
+4. assim que o `gog` estiver disponivel, subir o arquivo ao Drive correto, atualizar o `.md` com link/ID e remover o status de pendente;
+5. se nao houver acesso ao Drive, fechar como `pendente de Drive`, nunca como `concluido`.
 
 ## Proibicoes
 
@@ -53,6 +63,7 @@ Nao declarar concluido. O agente deve:
 - Nao usar Zapier.
 - Nao declarar "concluido" apenas porque o texto foi respondido no chat.
 - Nao usar conta pessoal para frente profissional sem autorizacao explicita.
+- Nao manter arquivo bruto permanente no Cofre quando ja existir `.md` pertinente e Drive disponivel.
 
 ## Frase padrao de fechamento
 

@@ -5,7 +5,7 @@ setor: governanca agentiva
 cliente: Jadielson Davi
 tipo: relatorio operacional
 prioridade: alta
-atualizado_em: 2026-08-08
+atualizado_em: 2026-08-09
 usar_quando: verificar o que foi feito para sanar pendencias locais apos push da auditoria corretiva
 nao_usar_quando: substituir git status, auditoria humana de financeiro ou revisao tecnica de anexos externos
 ---
@@ -35,7 +35,7 @@ Resolver as pendencias locais restantes apos a correcao do GitHub, preservando m
 ## Pendencias conscientes
 
 - Anexos fisicos em runtime ainda dependem de rotina maior de Drive/quarentena externa, pois envolvem arquivos pessoais, imagens, audios e documentos recebidos por agentes.
-- O registro pessoal de remedio segue com upload ao Drive pendente por erro anterior de autenticacao OAuth/keyring.
+- O registro pessoal de remedio foi revalidado em 2026-08-09 apos correcao do `gog`: PDF e imagem auxiliar estao no Drive pessoal com os IDs `13qLh86of8D8AkL8R5GeDK-lX9_dD5i5V` e `1n7HwtYMA1JoIRkQNI1awHgFcevB0qn3-`.
 - A proposta de skill Saude v1.3 foi preservada, mas nao aplicada.
 
 ## Fonte
