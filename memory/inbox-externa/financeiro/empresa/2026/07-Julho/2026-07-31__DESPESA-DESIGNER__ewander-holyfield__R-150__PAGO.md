@@ -5,7 +5,7 @@ setor: financeiro
 cliente: LÓGIKA - SOLUÇÕES DIGITAIS
 tipo: comprovante financeiro
 prioridade: alta
-atualizado_em: 2026-07-31
+atualizado_em: 2026-08-08
 usar_quando: conferir baixa de despesa com designer referente a julho de 2026
 nao_usar_quando: buscar comprovantes de outros fornecedores
 ---
@@ -40,9 +40,9 @@ nao_usar_quando: buscar comprovantes de outros fornecedores
 - **Origem do dado:** comprovante de transferência Nubank recebido por WhatsApp em 2026-07-31
 - **Arquivo recebido:** `media/inbound/openclaw-staged-d3040fac-b91a-4e13-8020-b055a264c304/fd9cfb4b-343a-4266-9697-0dcd30c2fd99.jpg`
 - **Arquivo original recebido posteriormente:** `media/inbound/openclaw-staged-1ca73558-daa7-44a0-81a0-91547305881b/a13262ea-855d-4547-9897-a57578c5ce35.jpg`
-- **Copia local para upload ao Drive:** `memory/inbox-externa/drive-pendente/financeiro/empresa/2026/07-Julho/2026-07-31__DESPESA-DESIGNER__ewander-holyfield__R-150__original-comprovante.jpg`
+- **Arquivo bruto no Cofre:** Nao armazenar. Regra reforcada por Jadielson em 2026-08-08: manter no Cofre apenas texto extraido em Markdown e guardar bruto no Drive/origem externa aprovada.
 - **Status do Drive:** pendente de upload; `gog` nao esta disponivel nesta sessao e a conexao do Google Drive foi solicitada.
 
 ## Observação
 
-Conforme orientação do Cofre, o conteúdo relevante foi registrado em texto. O arquivo original foi preservado temporariamente para envio ao Google Drive assim que a ferramenta autorizada estiver disponivel.
+Conforme orientacao do Cofre, o conteudo relevante foi registrado em texto. Em 2026-08-08, a copia bruta local que estava em `memory/inbox-externa/drive-pendente/` foi retirada do Cofre e movida para area tecnica de revisao fora do workspace, sem exclusao definitiva.

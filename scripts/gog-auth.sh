@@ -6,6 +6,8 @@ set -euo pipefail
 
 export PATH="/home/linuxbrew/.linuxbrew/bin:/data/.local/bin:$PATH"
 export GOG_KEYRING_BACKEND="${GOG_KEYRING_BACKEND:-file}"
+export GOG_ACCOUNT="${GOG_ACCOUNT:-davijadielson@gmail.com}"
+export GOG_CLIENT="${GOG_CLIENT:-openclaw}"
 
 KEYRING_PW_FILE="/data/.openclaw/workspace/scripts/.secrets/gog-keyring-password"
 if [[ -f "$KEYRING_PW_FILE" ]]; then
@@ -21,39 +23,56 @@ resolve_account() {
   esac
 }
 
+resolve_client() {
+  case "$1" in
+    davijadielson@gmail.com) echo "${GOG_CLIENT:-openclaw}" ;;
+    *) echo "default" ;;
+  esac
+}
+
 gog_drive() {
   local account
+  local client
   account="$(resolve_account "${1:-pessoal}")"
+  client="$(resolve_client "$account")"
   shift || true
-  gog --account "$account" drive "$@"
+  gog --account "$account" --client "$client" drive "$@"
 }
 
 gog_gmail() {
   local account
+  local client
   account="$(resolve_account "${1:-pessoal}")"
+  client="$(resolve_client "$account")"
   shift || true
-  gog --account "$account" gmail "$@"
+  gog --account "$account" --client "$client" gmail "$@"
 }
 
 gog_calendar() {
   local account
+  local client
   account="$(resolve_account "${1:-pessoal}")"
+  client="$(resolve_client "$account")"
   shift || true
-  gog --account "$account" calendar "$@"
+  gog --account "$account" --client "$client" calendar "$@"
 }
 
 gog_docs() {
   local account
+  local client
   account="$(resolve_account "${1:-pessoal}")"
+  client="$(resolve_client "$account")"
   shift || true
-  gog --account "$account" docs "$@"
+  gog --account "$account" --client "$client" docs "$@"
 }
 
 gog_sheets() {
   local account
+  local client
   account="$(resolve_account "${1:-pessoal}")"
+  client="$(resolve_client "$account")"
   shift || true
-  gog --account "$account" sheets "$@"
+  gog --account "$account" --client "$client" sheets "$@"
 }
 
 gog_list_accounts() {

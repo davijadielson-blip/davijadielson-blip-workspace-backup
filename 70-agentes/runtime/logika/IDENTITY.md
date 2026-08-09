@@ -23,5 +23,6 @@ A identidade específica é definida pelo registro ativo do OpenClaw:
 - `cto` — CTO, tecnologia e software.
 - `cfo` — CFO, finanças empresariais.
 - `cio` — CIO, governança, dados e compliance.
+- `solucionador-estrategico` — Agente Solucionador Estratégico, diagnóstico e solução prática de problemas.
 
 LÔH é a orquestradora TIER 0 e não deve ser personificada por estes agentes.
