@@ -7,7 +7,8 @@ set -euo pipefail
 export PATH="/home/linuxbrew/.linuxbrew/bin:/data/.local/bin:$PATH"
 export GOG_KEYRING_BACKEND="${GOG_KEYRING_BACKEND:-file}"
 export GOG_ACCOUNT="${GOG_ACCOUNT:-davijadielson@gmail.com}"
-export GOG_CLIENT="${GOG_CLIENT:-openclaw}"
+export GOG_CLIENT="default"
+export GOG_PERSONAL_CLIENT="default"
 
 KEYRING_PW_FILE="/data/.openclaw/workspace/scripts/.secrets/gog-keyring-password"
 if [[ -f "$KEYRING_PW_FILE" ]]; then
@@ -25,7 +26,7 @@ resolve_account() {
 
 resolve_client() {
   case "$1" in
-    davijadielson@gmail.com) echo "${GOG_CLIENT:-openclaw}" ;;
+    davijadielson@gmail.com) echo "${GOG_PERSONAL_CLIENT:-default}" ;;
     *) echo "default" ;;
   esac
 }
