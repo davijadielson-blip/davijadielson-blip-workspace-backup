@@ -18,7 +18,7 @@ aprovacao: Jadielson aprova antes do deploy
 
 > **Para a LÔH:** este é o seu mapa para montar a estrutura da Lógika Creative no Telegram.
 > Você tem permissão para criar a estrutura. **Cada agente só entra em produção após o OK do Jadielson.**
-> Os prompts-fonte de cada agente estão em `[F2] memory/agents/logika-*.md`.
+> Os prompts-fonte de cada agente estão em `memory/agents/logika-*.md`.
 
 ---
 
@@ -83,7 +83,7 @@ Não criar tudo de uma vez. Seguir a ordem que destrava valor mais rápido:
 
 Para cada C-Level, antes de colocar em produção:
 
-- [ ] Ler o prompt-fonte em `[F2] memory/agents/logika-<cargo>.md`.
+- [ ] Ler o prompt-fonte em `memory/agents/logika-<cargo>.md`.
 - [ ] Confirmar o responsável humano (ver frontmatter `responsavel-humano`).
 - [ ] Resolver os itens de **PENDENTE DE CALIBRAGEM** com Jadielson.
 - [ ] Criar o espaço no Telegram.
@@ -99,8 +99,8 @@ Para cada C-Level, antes de colocar em produção:
 - ❌ Não mistura a Central Pessoal com a estrutura da empresa (parede d'água).
 - ❌ Não dá a um agente poder de publicar/pagar/fechar sem humano no loop.
 - ❌ Não usa caracteres proibidos em nomes (`? " * : < > \ |`).
-- ✅ Mantém cópias de referência de cada agente no vault (`[F2] memory/agents/`).
-- ✅ Registra cada deploy em `[F2] memory/sessions/AAAA-MM-DD.md`.
+- ✅ Mantém cópias de referência de cada agente no vault (`memory/agents/`).
+- ✅ Registra cada deploy em `memory/sessions/AAAA-MM-DD.md`.
 
 ---
 
@@ -135,7 +135,7 @@ Para cada C-Level, antes de colocar em produção:
 Você NÃO consegue invocar outros agentes diretamente (sessions_send, message, agents_list não funcionam aqui).
 
 **O jeito certo:**
-1. Escreva seu pedido em: `[F2] memory/outputs/pedidos/SEU-NOME-PEDIDO-ASSUNTO.md`
+1. Escreva seu pedido em: `memory/outputs/pedidos/SEU-NOME-PEDIDO-ASSUNTO.md`
 2. Eu (Lôh) leio a pasta de pedidos, roteio ao agente certo e trago a resposta real.
 3. Seu arquivo deve conter: **quem solicita → para quem → o que precisa → prazo.**
 

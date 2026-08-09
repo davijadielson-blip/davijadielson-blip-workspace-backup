@@ -88,7 +88,7 @@ Lôh lê todos os tópicos e captura a demanda.
 
 **Opção B — Registrar no vault** em:
 ```
-[F0] 0-Inbox/pedido-coordenacao-Loh.md
+80-handoffs/pedido-coordenacao-loh.md
 ```
 Com formato:
 ```yaml
@@ -130,7 +130,7 @@ Lôh confirma recebimento e informa prazo ou se já está em execução.
 - `_MANDATORY.md` — Regra de consulta obrigatória ao vault
 - `agentes/jarvis-workspace/` — Contexto do Jarvis
 - `agentes/logika-c-level-squad/` — Perfis dos C-Levels
-- `[F2] memory/agents/` — Prompts individuais dos agentes
+- `memory/agents/` — Prompts individuais dos agentes
 - MEMORY.md no workspace — Ativações e deploys registrados
 
 ---

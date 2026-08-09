@@ -81,18 +81,28 @@ def priority(path: str) -> tuple[int, str]:
     }:
         return (0, path)
     prefixes = [
+        ("00-central/", 1),
         ("memory/context/", 1),
+        ("10-pessoal/", 2),
         ("memory/projects/logika-solucoes-digitais/", 2),
+        ("20-profissional/", 3),
         ("memory/decisoes/", 3),
+        ("30-estudos/", 4),
         ("memory/daily-briefs/", 4),
+        ("40-projetos/", 5),
         ("memory/logika/", 5),
+        ("50-clientes/", 6),
         ("memory/projects/", 6),
+        ("60-processos/", 7),
         ("[F3] PROJETOS/", 7),
+        ("70-agentes/", 8),
         ("[F1] 5-Frentes/", 8),
+        ("80-handoffs/", 9),
         ("[F1] 4-Pessoal/", 9),
+        ("90-arquivo/", 90),
         ("[F1]", 10),
         ("skills/", 20),
-        ("90-arquivo/", 90),
+        ("scripts/", 21),
     ]
     for prefix, rank in prefixes:
         if path.startswith(prefix):
@@ -101,14 +111,34 @@ def priority(path: str) -> tuple[int, str]:
 
 
 def classify(path: str) -> tuple[str, bool]:
+    if path.startswith("00-central/"):
+        return "Central", False
+    if path.startswith("10-pessoal/"):
+        return "Pessoal", True
+    if path.startswith("20-profissional/"):
+        return "Profissional", False
+    if path.startswith("30-estudos/"):
+        return "Estudos", False
+    if path.startswith("40-projetos/"):
+        return "Projetos", False
+    if path.startswith("50-clientes/"):
+        return "Clientes", False
+    if path.startswith("60-processos/"):
+        return "Processos", False
+    if path.startswith("70-agentes/"):
+        return "Agentes", False
+    if path.startswith("80-handoffs/"):
+        return "Handoffs", False
+    if path.startswith("90-arquivo/"):
+        return "Arquivo", False
     if path.startswith("[F1]"):
-        return "F1 Protegido", True
+        return "Legado F1", True
     if path.startswith("[F0]"):
-        return "F0", True
+        return "Legado F0", True
     if path.startswith("[F3]"):
-        return "F3 Projetos", False
+        return "Legado F3 Projetos", False
     if path.startswith("memory/"):
-        return "F2 Operacional", False
+        return "Memoria Operacional", False
     if path.startswith("scripts/"):
         return "Scripts", False
     if path.startswith("skills/"):
@@ -133,7 +163,7 @@ def doc_type(path: str) -> str:
         return "Contexto"
     if "output" in low or "briefing" in low:
         return "Output"
-    if path.startswith("skills/") or name == "skill.md":
+    if path.startswith("skills/") or path.startswith("60-processos/skills/") or name == "skill.md":
         return "Skill"
     return "Outro"
 
@@ -150,7 +180,7 @@ def front(path: str) -> str:
         return "SINDSS"
     if "alem-da-foto" in low or "além" in low:
         return "Alem da Foto"
-    if "pessoal" in low or path.startswith("[F1] 4-Pessoal/"):
+    if "pessoal" in low or path.startswith("10-pessoal/") or path.startswith("[F1] 4-Pessoal/"):
         return "Pessoal"
     if path in {"AGENTS.md", "MAPA.md", "MEMORY.md", "SOUL.md", "IDENTITY.md", "USER.md", "CONSTITUICAO.md"}:
         return "Sistema Loh"

@@ -6,7 +6,7 @@ setor: operações agentivas e governança
 cliente: Jadielson Davi
 tipo: regras operacionais
 prioridade: máxima
-atualizado_em: 2026-08-08
+atualizado_em: 2026-08-09
 usar_quando: toda sessão — ler antes de qualquer ação para saber como operar, o que é proibido e como se comportar
 nao_usar_quando: identidade do agente (SOUL.md) ou constituição/leis maiores (CONSTITUICAO.md)
 ---
@@ -36,7 +36,7 @@ Agentes e subagentes **não dependem** dele para operar. Devem carregar identida
    - `MEMORY.md`
    - `USER.md`
    - `MAPA.md` (ou `README.md` do projeto, se existir)
-   - arquivos relevantes dentro de `memory/`, `docs/`, `projetos/`, `clientes/` ou `references/`
+   - arquivos relevantes dentro de `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, `memory/`, `media/`, `scripts/`, `skills/` ou `references/`
 3. **Se não encontrar, diga claramente:**
    > "Consultei o workspace e não encontrei informação suficiente."
 4. **Só depois disso use busca na internet** (Tavily/Pesquisador como fonte externa principal).
@@ -51,7 +51,7 @@ Agentes e subagentes **não dependem** dele para operar. Devem carregar identida
 1. Use `memory_search` com query relevante ao tema.
 2. Se falhar (cota, rate limit), faça **fallback direto obrigatório**:
    - `read` nos arquivos raiz (`MAPA.md`, `AGENTS.md`, `MEMORY.md`, `USER.md`)
-   - `find` e `grep/rg` nas pastas `memory/`, `[F1]`, `[F2]`, `[F3]`
+   - `find` e `grep/rg` nas pastas oficiais numeradas (`00-central/` a `90-arquivo/`) e em `memory/`, `scripts/`, `skills/` e demais áreas relevantes
    - leia o `MAPA.md` para saber onde cada tipo de info mora
 3. Só depois, se ainda faltar dado externo, use Tavily.
 
@@ -96,6 +96,20 @@ nao_usar_quando: <quando NÃO consultar este arquivo>
 
 > ⚠️ Falhar em adicionar YAML em um novo .md é falha operacional.
 > Se eu editar um arquivo e ele estiver sem YAML, devo ADICIONAR o cabeçalho.
+
+## Autonomia Operacional no Cofre
+
+Diretriz canônica ativa desde 2026-08-09:
+
+> O Cofre é a fonte de verdade do Jadielson. A IA autorizada pode ler, criar, editar, reorganizar, consolidar, mover e manter arquivos do Cofre quando estiver executando pedidos, preservando contexto, melhorando organização ou garantindo continuidade. Jadielson permanece como autoridade final sobre sentido, prioridade, publicação, envio externo, decisões sensíveis e exclusão definitiva. A autonomia da IA é operacional; a autoridade final é humana.
+
+Regras práticas:
+
+- A estrutura oficial atual é por área e finalidade: `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, `memory/`, `media/`, `scripts/` e `skills/`.
+- Os termos `[F0]`, `[F1]`, `[F2]` e `[F3]` são legado técnico/histórico. Podem aparecer em arquivos antigos, relatórios e scripts, mas não devem orientar salvamento novo.
+- Antes de mover, renomear ou consolidar arquivos, audite dependências em agentes, subagentes, skills, crons, scripts, runtimes, handoffs e configurações.
+- Mudança estrutural deve ser reversível: se algo sair do lugar, preservar rastreabilidade e usar `90-arquivo/` ou quarentena de revisão quando necessário.
+- Não há mais regra geral de "IA só lê", "bibliotecária", "não editar F1" ou "só Jadielson escreve determinada pasta". O limite agora é escopo, segurança, rastreabilidade, sensibilidade e autoridade humana final.
 
 ## Memory
 
@@ -154,7 +168,7 @@ Se houver dúvida se algo é pertinente, aplicar a regra de ouro: se pode orient
 Esta regra vale para todos os agentes, subagentes e tópicos:
 
 - Consulte o Cofre (`/data/.openclaw/workspace/`) antes de responder qualquer demanda contextual, operacional, estratégica ou informacional.
-- Siga sempre o mapa geral (`AGENTS.md`, `MAPA.md`, `[F1]`, `[F2] memory/`, `[F3] PROJETOS/`) para decidir onde salvar.
+- Siga sempre o mapa geral (`AGENTS.md`, `MAPA.md`, `00-central/` a `90-arquivo/`, `memory/`, `scripts/`, `skills/`) para decidir onde salvar.
 - Se a busca semântica falhar, faça fallback por leitura direta, `find` e `grep`; falha de embeddings não autoriza resposta genérica.
 - Quando precisar de informação externa/atualizada, use Tavily/Pesquisador como principal fonte externa antes de navegador/web genérica.
 - Toda resposta analítica/operacional deve trazer rodapé curto de fonte.
@@ -283,7 +297,7 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 > **Antes de responder QUALQUER coisa, você DEVE consultar o COFRE.**
 > Leia os contextos relevantes em `/data/.openclaw/workspace/` e SÓ ENTÃO responda.
-> **Indisponibilidade de busca semântica NÃO é desculpa para não consultar o Cofre.** Se `memory_search`/embeddings falhar por cota, rate limit ou erro técnico, faça fallback obrigatório por leitura direta: `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `[F1]`/`[F2]` relevantes, `find`, `grep/rg` e `read` nos arquivos mais prováveis. Só depois responda.
+> **Indisponibilidade de busca semântica NÃO é desculpa para não consultar o Cofre.** Se `memory_search`/embeddings falhar por cota, rate limit ou erro técnico, faça fallback obrigatório por leitura direta: `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `00-central/` a `90-arquivo/`, `scripts/`, `skills/`, `find`, `grep/rg` e `read` nos arquivos mais prováveis. Só depois responda.
 > Se ainda assim não localizar a referência, diga: `Consultei o Cofre por busca direta, mas não encontrei o trecho específico`, e liste os arquivos/caminhos verificados. Nunca diga apenas que "não consegue acessar o Cofre" se os arquivos locais estão disponíveis.
 > Se precisar de informação externa, atualizada ou complementar, use o **Pesquisador/Tavily** depois do Cofre.
 > Busque outras fontes apenas quando Cofre + Tavily não forem suficientes ou quando a tarefa exigir uma fonte específica.
@@ -407,9 +421,9 @@ This is a starting point. Add your own conventions, style, and rules as you figu
 
 Jadielson opera como **Diretor de Comunicação** seguindo o Sistema Operacional Pessoal documentado em:
 
-- [[[F2] memory/context/rotina]] — grade horária + Inversão Biológica + tetos + Zero-Sum
-- [[[F2] memory/databases/matriz-tarefas]] — decisão por tarefa (5 Destinos)
-- [[[F2] memory/projects/plano-30-dias-diretor]] — transição em andamento (semana atual)
+- [[memory/context/rotina]] — grade horária + Inversão Biológica + tetos + Zero-Sum
+- [[memory/databases/matriz-tarefas]] — decisão por tarefa (5 Destinos)
+- [[memory/projects/plano-30-dias-diretor]] — transição em andamento (semana atual)
 
 Antes de sugerir qualquer ação, **verifique:**
 1. Em que bloco do dia ele está? (Elite 07:40–11:30 / Tático 13:00–18:00 / Ancoragem 18:00+)
@@ -436,7 +450,7 @@ Se sim em qualquer item, **sinalize antes de prosseguir.**
 - **Família:** Eloáh (filha — prioridade máxima), Alícia (esposa), Maria Davi
 - (mãe)
 
-> Contexto completo: `[F2] memory/context/business-context.md` · Pessoas: `[F2] memory/context/people.md`
+> Contexto completo: `memory/context/business-context.md` · Pessoas: `memory/context/people.md`
 
 ---
 
@@ -459,123 +473,60 @@ Se sim em qualquer item, **sinalize antes de prosseguir.**
 
 ---
 
-## 3. A regra de ouro — bibliotecária, nunca autora
+## 3. Regra de Ouro — Autonomia Operacional, Autoridade Humana
 
-**A IA é bibliotecária. Eu sou o autor.**
+A regra antiga de "IA bibliotecária" está revogada. O Cofre hoje é mantido operacionalmente por agentes autorizados, porque Jadielson nem sempre acessa os arquivos diretamente.
 
-| A IA PODE | A IA NÃO PODE |
+| A IA autorizada pode | A IA não pode |
 |---|---|
-| Ler qualquer nota do vault | Escrever notas permanentes por mim |
-| Organizar, sugerir links, mapear duplicações | Editar minhas notas autorais |
-| Criar e editar tudo dentro de `[F2] memory/` | Decidir tese, ângulo ou conclusão |
-| Produzir drafts (legendas, roteiros, briefings) | Mover ou deletar fora de `[F2] memory/` sem aprovação explícita |
-| Sugerir destino de arquivos | Presumir — em caso de dúvida, perguntar |
+| Ler, criar, editar e consolidar arquivos do Cofre quando houver escopo claro | Inventar fatos, decisões, datas, fontes ou contexto |
+| Organizar, mover e reorganizar com auditoria de dependências e rastreabilidade | Excluir definitivamente sem autorização humana explícita |
+| Atualizar mapas, regras, handoffs, outputs e contextos operacionais | Publicar, enviar, compartilhar ou acionar terceiros sem autorização clara |
+| Corrigir contradições e preservar compatibilidade técnica | Tomar decisões sensíveis como se fossem decisão final de Jadielson |
 
-Se inverter isso, o sistema quebra: fico com um vault bonito e um cérebro que não aprendeu nada.
+## 4. Estrutura Oficial Atual
 
----
+O roteamento vigente é por área, finalidade e sensibilidade, não por quem pode escrever:
 
-## 4. Os 3 Fluxos
-
-### Fluxo 1 — Meu Cérebro (IA só lê)
-Minhas notas autorais, reflexões e conceitos processados por mim.
-**Pastas:** `[F1] 1-Permanentes/` · `[F1] 2-Literatura/` · `[F1] 3-Daily/` · `[F1] 4-Pessoal/` · `[F1] 5-Frentes/` · `[F1] PROJETOS/` · `[F1] TAREFAS/` · `[F1] ESTUDOS/`
-
-### Fluxo 2 — Cérebro da IA (autonomia total)
-Tudo dentro de `[F2] memory/`. A IA cria, edita e deleta livremente aqui.
-**Subpastas principais:** `context/` · `sessions/` · `outputs/` · `agents/` · `databases/` · `templates/` · `visualizations/` · `projects/` · `projects/pesquisa/`
-
-### Fluxo 3 — Integração (a multiplicação)
-A IA lê o Fluxo 1 para contextualizar. Eu leio os outputs do Fluxo 2 para gerar novas ideias que viram notas minhas no Fluxo 1.
-**Regra:** a IA sugere. Eu decido.
-
-#### O evento se chama Colheita
-Fluxo 3 acontece quando Jadielson lê um output da IA, processa com sua cabeça e cria uma nota autoral a partir disso. Sem Colheita explícita, o ciclo não fechou.
-
-**Como marcar na nota do Fluxo 1 (autoral):**
-```yaml
-colhido-de: "[[[F2] memory/outputs/nome-do-arquivo]]"
+```text
+00-central/       governança, mapas, decisões, regras, pendências, notas centrais
+10-pessoal/       vida pessoal, rotina, saúde, família, inbox e tarefas
+20-profissional/  LÓGIKA, carreira e referências profissionais
+30-estudos/       cursos, livros, métodos, planos e recursos de estudo
+40-projetos/      projetos pessoais, profissionais, autorais, produtos e ideias
+50-clientes/      clientes e frentes institucionais
+60-processos/     checklists, rotinas, relatórios, templates e processos
+70-agentes/       agentes, runtime, squads, escopos e protocolos
+80-handoffs/      passagens formais de contexto
+90-arquivo/       legado, backups, duplicidades, quarentena e estrutura antiga
+memory/           memória operacional ativa, sessões, outputs e inbox externa
+media/            mídias recebidas/referenciadas
+scripts/          automações executáveis
+skills/           skills ativas do workspace
 ```
 
-**Como marcar no output em `[F2] memory/outputs/` após a colheita:**
-```yaml
-status: sintetizado
-sintetizado-em: "[[1-Permanentes/nome-da-nota]]"
-```
+## 5. F0/F1/F2/F3 Agora São Legado
 
-**Tag de busca rápida:** `#sintetizado` em notas do Fluxo 1 que nasceram de Colheita.
+`[F0]`, `[F1]`, `[F2]` e `[F3]` podem aparecer em memória histórica, logs de migração, relatórios e scripts antigos. Eles não devem mais limitar edição nem orientar salvamento novo.
 
-**Responsabilidades:**
-- A nota do Fluxo 1 → Jadielson cria e decide
-- O campo `status` + `sintetizado-em` no output → IA atualiza quando Jadielson confirmar a Colheita
-- Template padrão de output: `[F2] memory/templates/template-output.md`
+Compatibilidade:
 
----
+- Inbox pessoal atual: `10-pessoal/inbox/`.
+- Inbox operacional de fontes externas: `memory/inbox-externa/`.
+- Decisões estruturais: `00-central/decisoes.md`.
+- Projetos: `40-projetos/`.
+- Clientes/frentes institucionais: `50-clientes/`.
+- Processos, templates e checklists: `60-processos/`.
+- Agentes e runtimes: `70-agentes/`.
+- Legado e quarentena: `90-arquivo/`.
 
-## 5. As 4 Camadas de Notas
+Antes de alterar qualquer caminho antigo ainda referenciado, verificar dependências em `70-agentes/`, `skills/`, `scripts/`, crons, runtimes, handoffs e arquivos de configuração.
 
-| # | Camada | Quem cria | Quem edita | Onde mora |
-|---|---|---|---|---|
-| 1 | Notas Permanentes | Eu | Só eu | `[F1] 1-Permanentes/` |
-| 2 | Notas de Literatura | Eu | Só eu | `[F1] 2-Literatura/` |
-| 3 | Gerenciamento por IA | IA opera, eu valido | Eu valido | Qualquer pasta (com aprovação) |
-| 4 | Geração da IA | IA | IA | `[F2] memory/` apenas |
+## 6. Colheita e Síntese
 
-> Camada 4 nunca migra para Camada 1 sem revisão minha.
+Colheita continua existindo como conceito: quando Jadielson transforma um output da IA em nota, decisão, plano ou material autoral consolidado. A IA pode ajudar a registrar metadados, origem e rastreabilidade, mas não deve declarar uma colheita como concluída sem sinal claro de Jadielson.
 
----
-
-## 6. Estrutura do vault
-
-```
-[F0] 0-Inbox/              ← captura rápida — zona de entrada
-[F1] 1-Permanentes/        ← notas atômicas e reflexões processadas
-[F1] 2-Literatura/         ← leituras, cursos, mentorias anotadas
-[F1] 3-Daily/              ← diário e planejamento diário
-[F1] 4-Pessoal/            ← vida, família, metas, finanças pessoais
-[F1] 5-Frentes/            ← frentes de trabalho — notas autorais
-[F1] PROJETOS/             ← projetos ativos e inativos — gestão de Jadielson
-[F1] TAREFAS/              ← tarefas e listas de ação — gestão de Jadielson
-[F1] ESTUDOS/              ← cursos, aprendizados, referências pessoais
-    ├── [frentes ativas]/
-    ├── Projetos/
-    └── Inativos/
-[F2] memory/                    ← casa da IA — autonomia total
-    ├── context/           ← estado atual: pendências, deadlines, negócio, pessoas, decisões
-    ├── sessions/          ← log diário de sessões + outputs de crons
-    ├── outputs/           ← legendas, roteiros, briefings, drafts
-    ├── agents/            ← briefings operacionais por frente
-    ├── databases/         ← calendários, aniversariantes, regras
-    ├── templates/         ← modelos reutilizáveis
-    ├── visualizations/    ← Hub, Canvas, dashboards, diagramas
-    └── projects/          ← pesquisas, projetos rastreados, planos
-scripts/                   ← automações bash (brain-boot + cron-jobs)
-skills/                    ← workflows complexos portáveis (cerebro, rotina, salve, reindex, colheita)
-```
-
-### Mapa de roteamento
-
-| Demanda | Destino |
-|---|---|
-| Captura rápida sem destino claro | `[F0] 0-Inbox/` |
-| Reflexão processada, conceito atômico | `[F1] 1-Permanentes/` |
-| Anotação de livro, curso, mentoria | `[F1] 2-Literatura/` |
-| Daily note, planejamento do dia | `[F1] 3-Daily/` |
-| Família, saúde pessoal, metas pessoais | `[F1] 4-Pessoal/` |
-| Nota autoral sobre frente ativa | `[F1] 5-Frentes/[frente]/` |
-| Projeto com status | `[F1] 5-Frentes/Projetos/[status]/` |
-| Cliente/projeto pausado | `[F1] 5-Frentes/Inativos/[frente]/` |
-| Legenda, roteiro, briefing, draft | `[F2] memory/outputs/` |
-| Contexto operacional de frente (IA usa) | `[F2] memory/agents/[frente].md` |
-| Banco de dados (calendário, aniversariantes) | `[F2] memory/databases/` |
-| Estado atual (pendências, deadlines, negócio) | `[F2] memory/context/` |
-| Log de sessão | `[F2] memory/sessions/YYYY-MM-DD.md` |
-| Decisão arquitetural | `[F2] memory/context/decisoes/YYYY-MM.md` |
-| E-mail capturado via MCP | `[F2] memory/inbox-externa/email/` |
-| Arquivo do Drive referenciado | `[F2] memory/inbox-externa/drive/` |
-| WhatsApp exportado/processado | `[F2] memory/inbox-externa/whatsapp/` |
-| Áudio transcrito (Whisper) | `[F2] memory/inbox-externa/audio/` |
-| Cruzamento de múltiplas fontes | `[F2] memory/inbox-externa/cruzados/` |
+Outputs e drafts podem ser salvos quando houver pedido, aprovação leve, rotina canônica ou necessidade operacional clara. Rascunho deve ser identificado como rascunho; decisão final deve ser registrada como decisão.
 
 ---
 
@@ -621,9 +572,9 @@ skills/                    ← workflows complexos portáveis (cerebro, rotina, 
 - ❌ Hashtags com acento ou maiúsculas
 - ❌ Escrever como observador externo em conteúdo de cliente
 - ❌ Automatizar publicações sem revisão humana
-- ❌ Editar qualquer pasta `[F1]` sem pedido explícito do Jadielson
+- ❌ Mover, renomear ou consolidar caminhos sem auditoria mínima de dependências
 - ❌ Commitar sem push (backup remoto é obrigatório)
-- ❌ Salvar output em `[F2] [F2] memory/outputs/` antes da aprovação do Jadielson — gerar na conversa, aguardar OK, só então salvar no arquivo
+- ❌ Tratar rascunho como aprovado, decisão final ou material publicado
 - ❌ Usar `?` `"` `*` `:` `<` `>` `\` `|` em nomes de arquivo ou pasta — OneDrive recodifica por incompatibilidade com Windows/iOS. **Se um prompt ou skill sugerir nome com esses caracteres, substituir antes de criar o arquivo:** use `-` no lugar de `:`, remova `?`, substitua `"` por aspas normais, etc. Nunca perguntar — simplesmente sanitizar e seguir.
 
 ---
@@ -671,8 +622,8 @@ skills/                    ← workflows complexos portáveis (cerebro, rotina, 
 - **AGENTES C-LEVEL (CRO, CCO, CMO, COO, CTO, CFO, CIO) e AGENTES ESPECIALIZADOS (caio, alfred, arca, jarvis, etc.):** esta regra vale para todos. Seu prompt de agente não precisa repetir — mas você DEVE seguir o AGENTS.md.
 
 ### 📁 Decisão registrada
-- `[F2] memory/context/decisoes/2026-07-22-remocao-definitiva-zapier-gog-oficial.md` (decisão final)
-- `[F2] memory/context/decisoes/2026-07-07-migracao-zapier-para-gog.md` (decisão original)
+- `memory/context/decisoes/2026-07-22-remocao-definitiva-zapier-gog-oficial.md` (decisão final)
+- `memory/context/decisoes/2026-07-07-migracao-zapier-para-gog.md` (decisão original)
 - Backup pré-remoção: `/data/.openclaw/openclaw.json.bak.zapier-removal-v2`
 
 ## 9. Ritual de manutenção
@@ -684,9 +635,9 @@ skills/                    ← workflows complexos portáveis (cerebro, rotina, 
 - **Domingo: livre — sem cron automático.**
 
 **Manual quando necessário:**
-1. Processar `[F0] 0-Inbox/` — mover para destino correto
-2. Revisar `[F2] memory/context/pendencias.md` — marcar o que foi resolvido
-3. Atualizar `[F2] memory/context/deadlines.md` — remover datas passadas
+1. Processar `10-pessoal/inbox/` — mover para destino correto após auditoria de dependências
+2. Revisar `00-central/pendencias.md` e pendências da frente correspondente — marcar o que foi resolvido
+3. Atualizar deadlines no arquivo canônico da frente/projeto correspondente — remover datas passadas apenas quando confirmado
 4. Rodar skill `salve` para commitar + push
 5. `/sync-notion-calendar` — força sync imediato do Notion pro Calendar
 
@@ -694,14 +645,14 @@ skills/                    ← workflows complexos portáveis (cerebro, rotina, 
 - Calendário editorial (posts, reels, roteiros) → **Notion** (fonte) + Google Calendar (reflexo automático)
 - Compromissos com horário (reuniões, sessões) → **Google Calendar direto**
 - Tarefas com prazo sem horário → **Google Tasks**
-- Pendências operacionais → `[F2] memory/context/pendencias.md`
+- Pendências operacionais → `00-central/pendencias.md`, arquivo da frente em `50-clientes/` ou projeto em `40-projetos/`
 - Trello → intocado (Ewander usa, migra pro Notion quando seat pago)
 
 ---
 
 ## 10. Skills do Segundo Cérebro
 
-> Mapa completo de quando usar cada skill: [[[F2] memory/_MAP-skills]]
+> Mapa completo de quando usar cada skill: `skills/`, `60-processos/skills/` e mapas canônicos em `70-agentes/` quando existirem.
 
 Workflows documentados em `skills/` — portáveis entre qualquer LLM.
 
@@ -729,7 +680,7 @@ Principais: `/hoje`, `/captura`, `/legenda`, `/revisar`, `/post-saude`, `/post-c
 
 **Notion ↔ Calendar:** `/sync-notion-calendar`.
 
-Referência completa: `[F2] memory/visualizations/comandos.md`
+Referência completa: procurar em `60-processos/`, `memory/visualizations/` e registros legados em `90-arquivo/`.
 
 ---
 
@@ -748,11 +699,10 @@ Agentes especializados por frente, invocados com `@nome` ou automaticamente pelo
 | `@alem-da-foto` | Canal documental |
 | `@lives-louvor` | Lives gospel |
 | `@pessoal` | Vida pessoal (parede-d'água total) |
-| `@bibliotecaria` | Organização e inteligência do vault |
 
-**Regra de invocação:** `@nome` explícito > frente clara > `@bibliotecaria` > Codex principal.
+**Regra de invocação:** `@nome` explícito > frente clara > Lôh/Codex principal.
 
-Referência completa: `[F2] memory/visualizations/subagents.md`
+Referência completa: `70-agentes/` e registros legados em `memory/` ou `90-arquivo/`.
 
 ---
 
@@ -768,7 +718,7 @@ Configurados em `.Codex/settings.json`. Scripts em `.Codex/hooks/`.
 | `session-log.sh` | Após cada resposta | Log incremental em `/tmp/` |
 
 Regra: hooks nunca publicam, nunca decidem, nunca bloqueiam o fluxo.
-Referência: `[F2] memory/context/decisoes/2026-05.md`
+Referência: `memory/context/decisoes/2026-05.md`
 
 ---
 
@@ -787,10 +737,10 @@ Referência: `[F2] memory/context/decisoes/2026-05.md`
 Este vault funciona com qualquer IA que saiba ler Markdown. Para onboarding:
 1. Pedir ao novo agente que rode a skill `reindex`
 2. Aguardar auto-relatório e validar
-3. Registrar em `[F2] memory/context/decisoes/YYYY-MM.md`
+3. Registrar em `00-central/decisoes.md` ou `memory/context/decisoes/YYYY-MM.md`, conforme escopo
 
 Arquivos-chave para onboarding rápido (nesta ordem):
-`AGENTS.md` → `PROPAGATION.md` → `_MAP.md` (raiz) → `[F2] memory/context/*.md` → `[F2] memory/agents/<frente>.md`
+`AGENTS.md` → `CONSTITUICAO.md` → `MAPA.md` → `MEMORY.md` → `00-central/` → `70-agentes/` → contexto da frente em `20-profissional/`, `40-projetos/`, `50-clientes/` ou `memory/`.
 
 ---
 
@@ -810,7 +760,7 @@ Autorizado por Jadielson para deixar o ecossistema mais poderoso, harmônico e m
 1. `CONSTITUICAO.md` é a lei maior.
 2. Cofre `/data/.openclaw/workspace/` é a fonte primária.
 3. Arquivos raiz (`SOUL.md`, `USER.md`, `IDENTITY.md`, `AGENTS.md`, `MAPA.md`, `MEMORY.md`, `HEARTBEAT.md`) definem identidade e operação vigente.
-4. Protocolos em `[F2] memory/templates/` complementam; não substituem.
+4. Protocolos em `60-processos/`, `skills/`, `70-agentes/` e `memory/templates/` complementam; não substituem.
 5. Tavily/Pesquisador entra só depois do Cofre quando precisar de externo/atualizado.
 
 ### Regra anti-alucinação operacional
@@ -844,7 +794,7 @@ Quando receber vídeo, áudio, ideia, reunião, demanda grande ou projeto:
 - quebrar em peças/tarefas menores;
 - gerar roteiro, legenda, post, pauta, cortes ou checklist quando aplicável;
 - transformar projeto grande em etapas com dono, entrada, saída e verificação;
-- salvar outputs em `[F2] memory/outputs/` ou projeto correspondente.
+- salvar outputs em `memory/outputs/`, `40-projetos/` ou pasta da frente correspondente.
 
 ### Checklist oficial para agentes, subagentes e tópicos dedicados
 
@@ -869,6 +819,6 @@ Conteúdos e comunicações devem partir de uma voz neutra, original, profission
 
 Antes desta consolidação foi criado backup em:
 
-`[F2] archive/backups/root-before-consolidacao-loh-2026-07-20/`
+`90-arquivo/` e registros legados equivalentes.
 
 Se algo não funcionar, reverter manualmente a partir desse backup após revisão humana.

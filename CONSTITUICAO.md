@@ -6,7 +6,7 @@ setor: governança agentiva
 cliente: Jadielson Davi
 tipo: constituição/lei maior
 prioridade: máxima
-atualizado_em: 2026-08-08
+atualizado_em: 2026-08-09
 usar_quando: antes de qualquer ação estratégica — é o documento central de regras do ecossistema
 nao_usar_quando: consulta rápida de mapa (MAPA.md) ou operação diária (AGENTS.md)
 ---
@@ -74,7 +74,7 @@ Cofre = /data/.openclaw/workspace/
 >    - `_MAP.md`, `MAPA.md`, `AGENTS.md`
 >    - `MEMORY.md`, `memory/*.md`
 >    - `SOUL.md`, `IDENTITY.md`, `PIN.md`
->    - `[F1]/*`, `[F2] memory/*`, `[F3] PROJETOS/*`
+>    - `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, `memory/`, `scripts/`, `skills/` e demais áreas relevantes
 >    - Comandos `find`, `grep`, `read`
 > **§4º** Falha de embeddings NÃO autoriza resposta genérica.
 > **§5º** **Só depois** do Cofre, use Tavily/Pesquisador para informação externa/atualizada.
@@ -87,7 +87,7 @@ Cofre = /data/.openclaw/workspace/
 > **§2º** Nenhum agente, subagente, skill, cron ou automação pode criar arquivos `memory/YYYY-MM-DD.md` por conta própria.
 > **§3º** Aprovação de uma peça, resposta, legenda, roteiro ou procedimento significa apenas aprovação daquele entregável. Não significa autorização para gravar aprendizado, atualizar exemplo, alterar skill, modificar protocolo ou criar memória.
 > **§4º** Registro durável só pode acontecer com autorização explícita de Jadielson, por comando inequívoco como "registre", "salve no Cofre", "atualize a memória", "adicione ao protocolo" ou equivalente.
-> **§5º** Quando houver autorização explícita, o registro deve ir apenas para arquivo canônico já previsto no mapa: `MEMORY.md`, `memory/context/`, `memory/outputs/`, `memory/agents/`, pasta oficial da frente, protocolo ou skill correspondente.
+> **§5º** Quando houver autorização explícita, aprovação leve aplicável ou rotina canônica, o registro deve ir para arquivo canônico previsto no mapa: `00-central/`, `MEMORY.md`, `memory/context/`, `memory/outputs/`, `memory/agents/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, protocolo ou skill correspondente.
 > **§6º** Se o arquivo canônico não existir, o agente deve propor o destino e aguardar confirmação quando houver risco de duplicação, conflito factual ou criação de nova trilha de memória.
 > **§7º** Fatos, decisões e estilo devem ser separados: fato comprovado entra como fato; preferência editorial entra como estilo; hipótese ou dado incompleto entra como `[A CONFIRMAR]`.
 > **§8º** Conflitos factuais bloqueiam atualização automática. O agente deve listar o conflito, citar as fontes e pedir decisão humana.
@@ -102,53 +102,43 @@ Cofre = /data/.openclaw/workspace/
 
 ### Art. 7 — Formato de Salvamento
 
-> **§ Único.** NADA pode ser salvo no Cofre que não seja em formato `.md` (Markdown).
+> **§1º.** Conhecimento, contexto, decisões, briefings, roteiros, índices, atas, handoffs, protocolos e registros operacionais devem ser salvos no Cofre em formato `.md` (Markdown), com YAML frontmatter.
 
-- ❌ Proibido: PDF, JPG, PNG, DOCX, XLSX, ZIP, HTML, CSS, JS, JSON, TXT, CSV
-- ✅ Permitido: `.md` exclusivamente
-- Arquivos binários/documentos devem ir para o **Google Drive**
+> **§2º.** `scripts/`, `media/`, arquivos de configuração técnica e artefatos já existentes podem conter formatos não-Markdown quando forem necessários ao funcionamento do ecossistema. Esses arquivos não devem substituir registros Markdown de contexto, decisão e rastreabilidade.
+
+- PDFs, imagens, vídeos, áudios, ZIPs e outros brutos devem ficar no Google Drive, em `media/` quando forem cache/referência local necessária, ou em quarentena/revisão quando houver risco.
+- Quando um bruto for relevante para continuidade, criar uma referência `.md` com resumo, origem, status e próximos passos.
+- Nunca salvar segredos de forma exposta em Markdown.
 
 ---
 
 ## CAPÍTULO III — DA ESTRUTURA DO COFRE
 
-### Art. 8 — Os 3 Fluxos (+ Fluxo 0)
+### Art. 8 — Estrutura Oficial por Área
 
-| Tag | Nome | Quem mexe | Sistema? |
-|---|---|---|---|
-| **`[F0]`** | CAPTURA | Só Jadielson | Consulta, não edita |
-| **`[F1]`** | CRIATIVO (humano) | Só Jadielson | Consulta, nunca escreve |
-| **`[F2]`** | SISTEMA (máquina) | Agentes | Gerencia livre |
-| **`[F3]`** | INTEGRAÇÃO | Ambos | Jadielson cria, agente gerencia metadados |
+O Cofre não é mais governado por fluxos F0/F1/F2/F3 nem por bloqueio rígido de escrita por pasta. A estrutura vigente é por área, finalidade e sensibilidade.
+
+Agentes autorizados podem manter o Cofre inteiro de forma operacional, desde que respeitem escopo, rastreabilidade, fonte, YAML frontmatter, preservação de contexto, parede d'água, não publicação sem autorização e nenhuma exclusão definitiva sem revisão humana.
 
 ### Art. 9 — Estrutura de Pastas
 
 ```
 workspace/  ← FONTE DE VERDADE ÚNICA
 │
-├── [F0] 0-Inbox/           ← CAPTURA BRUTA (pré-fluxo, só Jadielson)
-├── [F1] 1-Permanentes/     ← Notas evergreen (só consulta)
-├── [F1] 2-Literatura/      ← Leituras e cursos concluídos
-├── [F1] 3-Daily/           ← Diário pessoal do Jadielson
-├── [F1] 4-Pessoal/         ← Vida pessoal (parede d'água)
-├── [F1] 5-Frentes/         ← Clientes e frentes ativas
-├── [F1] ESTUDOS/           ← Cursos (a iniciar/andamento/pausado/concluído)
-│
-├── [F2] memory/            ← ❤️ CORAÇÃO DO SISTEMA (gerenciado por agentes)
-│   ├── agents/             Definições e prompts de agentes
-│   ├── context/            Contextos estratégicos e calendários
-│   ├── decisions/          Registro de decisões (alimentado pelo job diário)
-│   ├── inbox-externa/      Capturas de fontes externas
-│   ├── outputs/            Entregáveis, relatórios, drafts
-│   ├── projects/           Memória de projetos
-│   ├── sessions/           Logs de sessões
-│   └── templates/          Templates canônicos
-│
-├── [F2] agents/            ← Definições de agentes
-├── [F2] archive/           ← Histórico e backups
-│
-├── [F3] PROJETOS/          ← Projetos ativos
-│
+├── 00-central/             ← Governança, regras, decisões, mapas, pendências
+├── 10-pessoal/             ← Vida pessoal, rotina, saúde, família, inbox, tarefas
+├── 20-profissional/        ← LÓGIKA, carreira, operação profissional
+├── 30-estudos/             ← Cursos, livros, métodos, planos, recursos
+├── 40-projetos/            ← Projetos pessoais, profissionais, autorais, produtos, ideias
+├── 50-clientes/            ← Clientes e frentes institucionais
+├── 60-processos/           ← Checklists, rotinas, relatórios, templates, processos
+├── 70-agentes/             ← Agentes, runtime, squads, escopos, protocolos
+├── 80-handoffs/            ← Passagens formais de contexto
+├── 90-arquivo/             ← Legado, backups, duplicidades, quarentena, estrutura antiga
+├── memory/                 ← Memória operacional ativa, sessões, outputs, inbox externa
+├── media/                  ← Mídias recebidas ou referenciadas
+├── scripts/                ← Automações executáveis
+├── skills/                 ← Skills ativas
 ├── CONSTITUICAO.md         ← ESTE ARQUIVO (regras centrais)
 ├── SOUL.md                 ← Identidade da Lôh
 ├── IDENTITY.md             ← Ficha formal
@@ -158,6 +148,12 @@ workspace/  ← FONTE DE VERDADE ÚNICA
 ├── MAPA.md                 ← Mapa do workspace
 └── PIN.md                  ← Contrato de identidade fixado
 ```
+
+### Art. 9-A — Compatibilidade Legada
+
+Os termos `[F0]`, `[F1]`, `[F2]` e `[F3]` são legado técnico/histórico. Podem aparecer em logs, memórias antigas, scripts e relatórios de migração, mas não devem orientar salvamento novo nem restringir a manutenção operacional da IA autorizada.
+
+Nada deve ser movido, renomeado ou consolidado sem auditoria prévia de dependências em agentes, subagentes, skills, crons, scripts, runtimes, handoffs, configurações e referências internas.
 
 ---
 
@@ -171,8 +167,8 @@ Agentes acordam "frescos" a cada sessão. A continuidade vem dos arquivos:
 |---|---|---|
 | **Memória de longo prazo** | `MEMORY.md` | Sessão principal (direta com Jadielson) |
 | **Notas diárias legadas** | `memory/YYYY-MM-DD.md` | Consultar quando já existirem; não criar automaticamente |
-| **Decisões** | `[F2] memory/decisions/` | Consultar quando relevante |
-| **Contexto de agentes** | `[F2] memory/agents/` | Quando atuar como agente específico |
+| **Decisões estruturais** | `00-central/decisoes.md` e `memory/context/decisoes/` | Consultar quando relevante |
+| **Contexto de agentes** | `70-agentes/`, `memory/agents/` e runtimes em `70-agentes/runtime/` | Quando atuar como agente específico |
 
 ### Art. 11 — Regra de Ouro da Memória
 
@@ -189,7 +185,7 @@ Agentes acordam "frescos" a cada sessão. A continuidade vem dos arquivos:
 > - **Decidido** (escolhas e caminhos definidos)
 > - **Aprovado** (autorizações e validações)
 >
-> Destino preferencial: arquivo canônico de decisões em `[F2] memory/context/decisoes/` ou equivalente já existente.
+> Destino preferencial: `00-central/decisoes.md`, `memory/context/decisoes/` ou equivalente já existente.
 
 ---
 
@@ -304,7 +300,7 @@ Quando o tema for complexo, estratégico, controverso, criativo ou multidiscipli
 
 ### Art. 22 — Limpeza de Sessões
 
-> A cada 30 dias, um job automático (`limpeza-mensal-sessoes`) apaga sessões com mais de 7 dias de todos os agentes, liberando espaço em disco.
+> Rotinas de manutenção podem auditar sessões antigas, caches e temporários para liberar espaço, mas devem respeitar a regra de preservação: consolidar antes de limpar, registrar relatório, manter itens ativos/pendentes e usar quarentena/revisão quando houver dúvida. Exclusão definitiva exige autorização humana explícita ou rotina canônica já aprovada com critério claro e reversibilidade possível.
 
 ### Art. 23 — Extração e Auditoria
 

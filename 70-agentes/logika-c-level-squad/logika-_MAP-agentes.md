@@ -85,9 +85,9 @@ A LÔH convoca quando a decisão é complexa. As 5 lentes são representadas pel
 
 ## 6. BLUEPRINTS DE REFERÊNCIA (em `outputs/`)
 
-- Organograma híbrido: `[F2] memory/outputs/organograma-hibrido-logika-c-level-squad.md`
-- Árvore final (8 C-Levels): `[F2] memory/outputs/arvore-logika-ascii-v3-8clevel.txt`
-- Árvore com Central Pessoal isolada: `[F2] memory/outputs/arvore-logika-final-isolada.txt`
+- Organograma híbrido: `memory/outputs/organograma-hibrido-logika-c-level-squad.md`
+- Árvore final (8 C-Levels): `memory/outputs/arvore-logika-ascii-v3-8clevel.txt`
+- Árvore com Central Pessoal isolada: `memory/outputs/arvore-logika-final-isolada.txt`
 
 ---
 
@@ -106,7 +106,7 @@ Os frameworks foram **portados, traduzidos e adaptados** de:
 Você NÃO consegue invocar outros agentes diretamente (sessions_send, message, agents_list não funcionam aqui).
 
 **O jeito certo:**
-1. Escreva seu pedido em: `[F2] memory/outputs/pedidos/SEU-NOME-PEDIDO-ASSUNTO.md`
+1. Escreva seu pedido em: `memory/outputs/pedidos/SEU-NOME-PEDIDO-ASSUNTO.md`
 2. Eu (Lôh) leio a pasta de pedidos, roteio ao agente certo e trago a resposta real.
 3. Seu arquivo deve conter: **quem solicita → para quem → o que precisa → prazo.**
 

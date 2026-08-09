@@ -6,7 +6,7 @@ setor: governança, operações, tecnologia
 cliente: Jadielson Davi
 tipo: memória/registro de decisões
 prioridade: máxima
-atualizado_em: 2026-08-06
+atualizado_em: 2026-08-09
 usar_quando: consultar decisões passadas, protocolos vigentes, histórico de ativações e políticas
 nao_usar_quando: operação diária (AGENTS.md) ou mapa do workspace (MAPA.md)
 ---
@@ -24,6 +24,31 @@ nao_usar_quando: operação diária (AGENTS.md) ou mapa do workspace (MAPA.md)
 - **Nunca** escrever direto no GitHub
 - **Nunca** consultar o GitHub como fonte primária
 
+## 🧭 Estrutura Oficial do Cofre — Modelo Numerado
+
+**Atualizado em 2026-08-09 por autorização de Jadielson via handoff `80-handoffs/prompt-loh-revisao-cofre-2026-08-09.md`.**
+
+O Cofre passou a ser orientado pela estrutura real numerada:
+
+- `00-central/` — governança, mapas, decisões, regras, pendências e notas centrais
+- `10-pessoal/` — vida pessoal, rotina, saúde, família, inbox e tarefas
+- `20-profissional/` — LÓGIKA, carreira e referências profissionais
+- `30-estudos/` — cursos, livros, métodos, planos e recursos de estudo
+- `40-projetos/` — projetos pessoais, profissionais, autorais, produtos e ideias
+- `50-clientes/` — clientes e frentes institucionais
+- `60-processos/` — checklists, rotinas, relatórios, templates e processos
+- `70-agentes/` — agentes, runtime, squads, escopos e protocolos
+- `80-handoffs/` — passagens formais de contexto
+- `90-arquivo/` — legado, backups, duplicidades, quarentena e estrutura antiga
+- `memory/` — memória operacional ativa da IA
+- `media/` — mídias recebidas/referenciadas
+- `scripts/` — automações
+- `skills/` — skills ativas
+
+Os termos `[F0]`, `[F1]`, `[F2]` e `[F3]` ficam como **legado técnico/histórico**. Podem aparecer em registros antigos e dependências temporárias, mas não devem orientar salvamento novo nem limitar a atuação da IA autorizada.
+
+Diretriz canônica: a IA autorizada pode ler, criar, editar, reorganizar, consolidar, mover e manter arquivos do Cofre quando estiver executando pedidos, preservando contexto, melhorando organização ou garantindo continuidade. Jadielson permanece como autoridade final sobre sentido, prioridade, publicação, envio externo, decisões sensíveis e exclusão definitiva.
+
 ## 🧭 Protocolo Infalível de Consulta - Cofre + Tavily
 
 **Ativado por Jadielson em 2026-06-25.**
@@ -36,7 +61,7 @@ Para qualquer pedido, antes de responder, todo agente deve seguir esta ordem:
 2. **Usar Tavily/Pesquisador quando precisar de informação externa, atualizada ou complementar** - especialmente quando o Cofre não tiver resposta suficiente, quando houver fatos mutáveis, notícias, referências de mercado, legislação, tendências ou dados que exigem validação externa.
 3. **Só buscar outras fontes depois** - navegador, web genérica, APIs, GitHub ou outras bases entram apenas se Cofre + Tavily não resolverem ou se a tarefa exigir uma fonte específica.
 4. **Nunca entregar resposta genérica sem lastro** - se não consultou, não finja. Consulte primeiro ou diga claramente que não conseguiu consultar.
-5. **Fallback obrigatório quando embeddings falharem** - erro de cota, rate limit ou indisponibilidade de `memory_search` NÃO autoriza pular o Cofre. O agente deve consultar por leitura direta: `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `[F1]`/`[F2]` relevantes, `find`, `grep/rg` e `read`. Se não encontrar, deve listar os caminhos verificados.
+5. **Fallback obrigatório quando embeddings falharem** - erro de cota, rate limit ou indisponibilidade de `memory_search` NÃO autoriza pular o Cofre. O agente deve consultar por leitura direta: `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `00-central/` a `90-arquivo/`, `scripts/`, `skills/`, `find`, `grep/rg` e `read`. Se não encontrar, deve listar os caminhos verificados.
 6. **Rodapé obrigatório de fontes** - ao final de respostas analíticas, estratégicas, operacionais ou informacionais, incluir uma linha curta: `Fonte: Cofre (...arquivo...), Tavily (...quando usado...), ou ferramenta específica`.
 
 **Objetivo:** tornar as respostas mais humanas, precisas, contextualizadas e profissionais - nunca amadoras ou genéricas.
@@ -557,12 +582,12 @@ Regra atual:
 
 1. **Seguir sempre o mapa geral do Cofre**
    - O Cofre oficial é `/data/.openclaw/workspace/`.
-   - Todo agente deve consultar `AGENTS.md`, `MAPA.md`, `MEMORY.md` quando permitido, e os caminhos `[F1]`, `[F2] memory/` e `[F3] PROJETOS/` relevantes antes de decidir onde salvar.
+   - Todo agente deve consultar `AGENTS.md`, `MAPA.md`, `MEMORY.md` quando permitido, e os caminhos `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, `memory/`, `scripts/` e `skills/` relevantes antes de decidir onde salvar.
    - É proibido criar workspace paralelo, pasta paralela ou "cofre próprio" fora do Cofre.
 
 2. **Consultar o Cofre antes de responder**
    - Antes de qualquer resposta analítica, estratégica, operacional, informacional ou contextual, consultar o Cofre.
-   - Se `memory_search` falhar por cota, rate limit ou indisponibilidade, usar fallback direto: `read`, `find`, `grep`, `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `[F1]`, `[F2]` e `[F3]` relevantes.
+   - Se `memory_search` falhar por cota, rate limit ou indisponibilidade, usar fallback direto: `read`, `find`, `grep`, `_MAP.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `00-central/` a `90-arquivo/`, `scripts/` e `skills/` relevantes.
 
 3. **Usar Tavily/Pesquisador como fonte externa principal**
    - Quando precisar de informação externa, atualizada ou complementar, usar Tavily/Pesquisador como primeira fonte externa.
@@ -580,11 +605,11 @@ Regra atual:
    - Aprovação leve: reação **👍** ou **❤️**, ou respostas como **"obrigado"**, **"obg"**, **"muito bom"**, **"vou usar"** e equivalentes. Nesses casos, salvar o que for pertinente sem pedir nova autorização.
    - Nenhuma skill deve criar `memory/*.md` automaticamente fora dos caminhos canônicos e das permissões vigentes.
    - Use o destino correto do mapa geral:
-     - decisões/configuração: `[F2] memory/context/decisoes/` ou frente equivalente;
-     - outputs, roteiros, briefings, drafts: `[F2] memory/outputs/` ou subpasta da frente;
-     - projetos: `[F3] PROJETOS/` para estrutura central e `[F2] memory/projects/` para acompanhamento operacional da IA;
-     - sessões/logs: `[F2] memory/sessions/`;
-     - agentes/prompts: `[F2] memory/agents/`.
+     - decisões/configuração: `00-central/decisoes.md`, `memory/context/decisoes/` ou frente equivalente;
+     - outputs, roteiros, briefings, drafts: `memory/outputs/`, `50-clientes/` ou subpasta da frente;
+     - projetos: `40-projetos/` para estrutura central e `memory/projects/` para acompanhamento operacional da IA;
+     - sessões/logs: `memory/sessions/`;
+     - agentes/prompts: `70-agentes/` e `memory/agents/`.
 
 6. **Regra de ouro**
    - Se é importante o bastante para orientar uma próxima ação, decisão ou continuidade, então deve ser salvo no Cofre.

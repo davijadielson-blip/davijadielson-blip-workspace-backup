@@ -208,7 +208,7 @@ O CMO é o agente mais perto do seu talento natural — ele estrutura o que voc�
 Você NÃO consegue invocar outros agentes diretamente (sessions_send, message, agents_list não funcionam aqui).
 
 **O jeito certo:**
-1. Escreva seu pedido em: `[F2] memory/outputs/pedidos/SEU-NOME-PEDIDO-ASSUNTO.md`
+1. Escreva seu pedido em: `memory/outputs/pedidos/SEU-NOME-PEDIDO-ASSUNTO.md`
 2. Eu (Lôh) leio a pasta de pedidos, roteio ao agente certo e trago a resposta real.
 3. Seu arquivo deve conter: **quem solicita → para quem → o que precisa → prazo.**
 

@@ -113,7 +113,14 @@ def body_without_frontmatter(markdown: str) -> str:
 
 
 def is_protected(path: str, protected_flag: bool) -> bool:
-    return protected_flag or path.startswith("[F1]") or path.startswith("[F0]") or path == "PIN.md"
+    sensitive_prefixes = ("10-pessoal/",)
+    legacy_sensitive_prefixes = ("[F1]", "[F0]")
+    return (
+        protected_flag
+        or path.startswith(sensitive_prefixes)
+        or path.startswith(legacy_sensitive_prefixes)
+        or path == "PIN.md"
+    )
 
 
 def review_path(cofre_path: str) -> Path:

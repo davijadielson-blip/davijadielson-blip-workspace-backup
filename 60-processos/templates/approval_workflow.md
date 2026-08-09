@@ -7,7 +7,7 @@ tipo: workflow/processo
 prioridade: alta
 atualizado_em: 2026-07-22
 usar_quando: revisar ou aprovar materiais criativos, entender o fluxo de aprovação de ativos
-nao_usar_quando: briefings específicos de cliente ou frente (ver [F1] 5-Frentes/)
+nao_usar_quando: briefings específicos de cliente ou frente (ver 50-clientes/)
 ---
 
 # Fluxo de Aprovação de Ativos Criativos

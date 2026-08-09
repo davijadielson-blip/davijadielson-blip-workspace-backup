@@ -1,6 +1,13 @@
 ---
-tema: MANDATORY
-atualizado_em: 2026-07-22
+tema: regra obrigatória de consulta ao Cofre para agentes
+conteudo: fontes, fallback anti-alucinação e coordenação com Lôh para agentes do ecossistema
+setor: governança agentiva
+cliente: Jadielson Davi
+tipo: protocolo operacional
+prioridade: máxima
+atualizado_em: 2026-08-09
+usar_quando: antes de agentes responderem, buscarem contexto ou pedirem coordenação
+nao_usar_quando: substituir AGENTS.md, MAPA.md ou CONSTITUICAO.md
 ---
 
 # 📖 FONTE DE VERDADE — WORKSPACE NATURAL
@@ -15,9 +22,11 @@ atualizado_em: 2026-07-22
 Busque os arquivos relevantes em `/data/.openclaw/workspace/`
 
 **Caminhos padrão:**
-- `[F2] memory/agents/SUA-FUNCAO.md` — seu prompt-fonte
-- `[F2] memory/context/` — contextos operacionais
-- `[F2] memory/databases/` — bancos de dados (aniversariantes, sazonais)
+- `70-agentes/` — agentes, runtime, squads e protocolos
+- `memory/agents/` — prompts e contextos operacionais ativos quando existirem
+- `memory/context/` — contextos operacionais e decisões recentes
+- `memory/databases/` — bancos de dados (aniversariantes, sazonais), quando existirem
+- `00-central/` — decisões, regras, mapas e pendências estruturais
 - `AGENTS.md` — constituição do ecossistema
 - `MEMORY.md` — memória de longo prazo
 
@@ -42,10 +51,9 @@ Se a busca semântica falhar, o agente deve consultar o Cofre por leitura direta
 
 1. Ler `_MAP.md`, `MAPA.md`, `AGENTS.md` e `MEMORY.md` quando existirem.
 2. Procurar nos caminhos prováveis com `find`, `grep/rg` ou listagem de arquivos.
-3. Ler os arquivos relevantes em `[F1]`, `[F2] memory/`, `[F2] memory/context/`, `[F2] memory/agents/`, `[F2] memory/outputs/` ou na frente do cliente/projeto.
+3. Ler os arquivos relevantes em `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, `memory/`, `scripts/`, `skills/` ou na frente do cliente/projeto.
 4. Só depois responder.
 
 Se mesmo assim não encontrar a referência, a resposta deve dizer: **"Consultei o Cofre por busca direta, mas não encontrei o trecho específico"** e listar os arquivos/caminhos verificados.
 
 É proibido responder genericamente alegando apenas "não consigo acessar o Cofre" quando os arquivos locais estão disponíveis.
-

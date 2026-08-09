@@ -6,7 +6,7 @@ setor: governança do Cofre
 cliente: Jadielson Davi
 tipo: mapa operacional
 prioridade: máxima
-atualizado_em: 2026-07-26
+atualizado_em: 2026-08-09
 usar_quando: decidir onde buscar ou salvar qualquer informação no Cofre
 nao_usar_quando: substituir CONSTITUICAO.md; este mapa operacional complementa a lei maior
 ---
@@ -37,7 +37,17 @@ workspace/
  70-agentes/       mapa, escopos, handbooks e protocolos dos agentes
  80-handoffs/      passagens formais entre agentes
  90-arquivo/       legado, duplicidades, quarentena e revisão
+ memory/           memória operacional ativa, sessões, outputs e inbox externa
+ media/            mídias recebidas ou referenciadas
+ scripts/          automações executáveis
+ skills/           skills ativas do workspace
 ```
+
+## Legado F0/F1/F2/F3
+
+Os fluxos `[F0]`, `[F1]`, `[F2]` e `[F3]` foram migrados para a estrutura numerada e agora são apenas referência histórica/técnica. Use-os somente para interpretar logs, memórias antigas e dependências temporárias.
+
+Antes de mover ou renomear qualquer caminho antigo ainda referenciado, audite agentes, skills, scripts, crons, runtimes, handoffs e configurações.
 
 ## Regra de acesso
 Acesso não é definido por “pode escrever/não pode escrever”, e sim por **necessidade operacional**:
@@ -63,7 +73,6 @@ Acesso não é definido por “pode escrever/não pode escrever”, e sim por **
 | Cliente/frente externa | `50-clientes/` |
 | Checklist/template/processo | `60-processos/` |
 | Legado/duplicado/antigo | `90-arquivo/` somente após aprovação quando envolver mover arquivo |
-```
 
 ## Subpastas-base criadas
 

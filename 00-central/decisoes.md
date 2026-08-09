@@ -6,12 +6,23 @@ setor: governança do Cofre
 cliente: Jadielson Davi
 tipo: registro de decisões
 prioridade: máxima
-atualizado_em: 2026-07-29
+atualizado_em: 2026-08-09
 usar_quando: verificar decisões finais aprovadas sobre estrutura e operação do Cofre
 nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 ---
 
 # Decisões estruturais do Cofre
+
+## 2026-08-09 — Revisão canônica: estrutura numerada e autonomia operacional
+- **Status:** implementado nos arquivos centrais.
+- **Origem:** `80-handoffs/prompt-loh-revisao-cofre-2026-08-09.md`, enviado por Jadielson para execução.
+- **Decisão:** a estrutura oficial do Cofre passa a ser a árvore real numerada: `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, além de `memory/`, `media/`, `scripts/` e `skills/`.
+- **Revogado como regra operacional:** o modelo antigo que limitava a IA como "bibliotecária", "só leitora", "não editar F1" ou "só Jadielson escreve determinada área".
+- **Mantido como legado técnico:** referências `[F0]`, `[F1]`, `[F2]` e `[F3]` em memórias antigas, scripts, relatórios, logs e dependências temporárias.
+- **Nova diretriz:** IA autorizada pode ler, criar, editar, reorganizar, consolidar, mover e manter arquivos do Cofre quando estiver executando pedidos, preservando contexto, melhorando organização ou garantindo continuidade.
+- **Limites humanos preservados:** Jadielson continua autoridade final sobre sentido, prioridade, publicação, envio externo, decisões sensíveis e exclusão definitiva.
+- **Preservação:** nenhuma pasta foi movida, renomeada ou apagada nesta revisão; antes de qualquer mudança estrutural futura, auditar dependências em agentes, subagentes, skills, crons, scripts, runtimes, handoffs, configurações e referências internas.
+- **Arquivos centrais atualizados:** `MAPA.md`, `AGENTS.md`, `CONSTITUICAO.md`, `MEMORY.md`, `00-central/decisoes.md`, `00-central/regras-de-uso.md`, `00-central/mapa-do-cofre.md`.
 
 ## 2026-07-29 — Constituição definitiva de memória, backup e limpeza segura
 - **Status:** implementacao inicial segura concluida.

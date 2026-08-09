@@ -8,7 +8,7 @@ tipo: mapa de agentes
 prioridade: máxima
 atualizado_em: 2026-07-26
 usar_quando: rotear tarefas, limitar contexto por agente e registrar passagem entre agentes
-nao_usar_quando: como prompt completo de cada agente; usar arquivos específicos em [F2] memory/agents quando existirem
+nao_usar_quando: como prompt completo de cada agente; usar arquivos específicos em memory/agents quando existirem
 ---
 
 # Mapa dos agentes

@@ -6,7 +6,7 @@ setor: governança agentiva
 cliente: Jadielson Davi
 tipo: regras operacionais
 prioridade: máxima
-atualizado_em: 2026-07-26
+atualizado_em: 2026-08-09
 usar_quando: antes de qualquer agente responder, pesquisar, decidir, mover arquivo ou passar tarefa adiante
 nao_usar_quando: substituir CONSTITUICAO.md, AGENTS.md ou MAPA.md; estes continuam tendo precedência
 ---
@@ -18,7 +18,7 @@ O Cofre é a fonte primária de verdade do ecossistema. Como ele é alimentado p
 
 ## 2. Ordem obrigatória de busca
 1. Consultar o Cofre.
-2. Se busca semântica falhar, usar leitura direta: `CONSTITUICAO.md`, `AGENTS.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `00-central/`, `[F1]`, `[F2]`, `[F3]` e pastas relevantes.
+2. Se busca semântica falhar, usar leitura direta: `CONSTITUICAO.md`, `AGENTS.md`, `MAPA.md`, `MEMORY.md`, `memory/*.md`, `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, `scripts/`, `skills/` e pastas relevantes.
 3. Se não encontrar, declarar: **“não encontrei no COFRE”**.
 4. Só então usar Tavily/Pesquisador ou outra fonte externa necessária.
 
@@ -32,6 +32,8 @@ Agentes podem criar/editar arquivos em qualquer área quando a tarefa exigir, de
 - registrem pendências transversais em `00-central/pendencias.md`;
 - registrem passagem de contexto em `80-handoffs/`;
 - não apaguem arquivos sem autorização explícita.
+
+Referências `[F0]`, `[F1]`, `[F2]` e `[F3]` são legado técnico/histórico. Não limitam escrita e não orientam salvamento novo.
 
 ## 4. Segurança e contexto mínimo
 Cada agente deve acessar apenas o contexto necessário para sua função. Dados pessoais, financeiros, saúde, clientes, `.env`, segredos e materiais sensíveis não devem ser compartilhados fora do escopo.

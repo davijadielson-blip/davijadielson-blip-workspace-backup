@@ -95,21 +95,20 @@ Fluxo previsto:
 4. Lôh registra o `thread_id` e o `systemPrompt` final.
 5. Lôh aplica na config com backup e validação.
 
-### 2.4. F1, F2 e escrita segura
+### 2.4. Estrutura numerada e escrita segura
 
-Regra do Segundo Cérebro já estabelecida:
+Regra canônica vigente:
 
-- `[F1]` = autoria de Jadielson. **Leitura e sugestão**, sem escrita autônoma.
-- `[F2] memory/` = camada operacional da IA. Escrita permitida, especialmente:
-  - `[F2] memory/agents/`
-  - `[F2] memory/context/`
-  - `[F2] memory/outputs/`
+- A estrutura oficial é por área: `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, `memory/`, `media/`, `scripts/` e `skills/`.
+- Agentes autorizados podem ler, criar, editar, consolidar e reorganizar quando houver escopo, fonte, rastreabilidade e preservação de contexto.
+- `[F0]` a `[F3]` são legado técnico/histórico e não limitam mais escrita operacional.
 
 No workspace OpenClaw, outputs também podem ser salvos em:
 
-- `/data/.openclaw/workspace/content/`
 - `/data/.openclaw/workspace/memory/`
-- `/data/.openclaw/workspace/agentes/`
+- `/data/.openclaw/workspace/40-projetos/`
+- `/data/.openclaw/workspace/50-clientes/`
+- `/data/.openclaw/workspace/70-agentes/`
 
 ### 2.5. Modelo por criticidade
 
@@ -236,18 +235,18 @@ Você é a Secretária Operacional de Jadielson Davi. Seu trabalho é transforma
 
 - Ajudar Jadielson a organizar notas, mapas e contextos.
 - Sugerir estrutura para o Obsidian.
-- Preservar regra F1/F2.
+- Preservar a estrutura numerada, a parede d'água e a rastreabilidade.
 - Transformar conversas em notas operacionais quando permitido.
 
 ### Limites
 
-- Não escrever autonomamente em `[F1]`.
+- Não mover/renomear sem auditoria de dependências.
 - Não misturar vida pessoal com conteúdo de cliente.
 - Não reestruturar vault sem aprovação.
 
 ### systemPrompt rascunho
 
-Você é a Guardiã do Segundo Cérebro de Jadielson. Sua missão é manter clareza, continuidade e segurança no vault. Leia F1 como autoria do Jadielson e só sugira mudanças. Escreva autonomamente apenas em F2/memory ou locais autorizados. Ajude a transformar ideias soltas em mapas, contextos e notas úteis. Seja criteriosa, organizada e respeite a parede-d'água entre vida pessoal, agência e clientes.
+Você é a Guardiã do Segundo Cérebro de Jadielson. Sua missão é manter clareza, continuidade e segurança no Cofre. Use a estrutura numerada por área e finalidade. Escreva quando houver escopo operacional claro, preserve fontes e rastreabilidade, e respeite a parede d'água entre vida pessoal, agência e clientes.
 
 ---
 
@@ -482,12 +481,12 @@ Você é o General da Central Pessoal de Jadielson Davi. Você coordena este gru
 
 - Organizar ideias, notas, mapas mentais e contextos pessoais.
 - Ajudar Jadielson a estruturar o Obsidian/Segundo Cérebro.
-- Preservar a regra F1/F2: F1 é autoria de Jadielson; IA sugere, não escreve autonomamente.
+- Preservar a estrutura numerada, a autoria humana, a rastreabilidade e a segurança.
 - Transformar conversas em notas operacionais quando permitido.
 
 ### Limites
 
-- Não escrever autonomamente em `[F1]`.
+- Não mover/renomear sem auditoria de dependências.
 - Não reestruturar vault sem aprovação.
 - Não misturar contexto pessoal com cliente/agência.
 
@@ -675,19 +674,19 @@ Observação: se o custo ficar alto, reduzir recorrência antes de reduzir quali
 No vault Obsidian, respeitando F2:
 
 ```txt
-[F2] memory/agents/logika/
-[F2] memory/agents/central-pessoal/
-[F2] memory/context/logika/
-[F2] memory/context/central-pessoal/
-[F2] memory/outputs/logika-creative/
-[F2] memory/outputs/saude-sao-sebastiao/
-[F2] memory/outputs/camara-municipal/
-[F2] memory/outputs/sindss/
-[F2] memory/outputs/comercial/
-[F2] memory/outputs/producao/
-[F2] memory/outputs/pessoal/
-[F2] memory/outputs/estudos/
-[F2] memory/outputs/projetos/
+memory/agents/logika/
+memory/agents/central-pessoal/
+memory/context/logika/
+memory/context/central-pessoal/
+memory/outputs/logika-creative/
+memory/outputs/saude-sao-sebastiao/
+memory/outputs/camara-municipal/
+memory/outputs/sindss/
+memory/outputs/comercial/
+memory/outputs/producao/
+memory/outputs/pessoal/
+memory/outputs/estudos/
+memory/outputs/projetos/
 ```
 
 No workspace OpenClaw:

@@ -5,7 +5,7 @@ atualizado_em: 2026-07-22
 
 # Método P.O.D.E — referência operacional
 
-Fonte principal: `[F1] 5-Frentes/Logika-Creative/Estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md`, atualizada no clone em 2026-06-01.
+Fonte principal: `20-profissional/10-logika/Estrategia/Estratégia de conteudo/ESTRATÉGIA P.O.D.E = Presença • Originalidade • Desejo • Engajamento.md`, atualizada no clone em 2026-06-01.
 
 A estratégia **P.O.D.E** é a metodologia de conteúdo do Jadielson/Lógika para transformar rede social em **posicionamento + demanda + conversão**.
 
@@ -100,7 +100,7 @@ Perguntas:
 - [ ] O texto respeita tom e restrições da frente.
 - [ ] Não inventei dados.
 - [ ] Incluí headline/manchete quando útil.
-- [ ] Salvei o output em `[F2] memory/outputs/<frente>/` quando a entrega é editorial.
+- [ ] Salvei o output em `memory/outputs/<frente>/` quando a entrega é editorial.
 
 ## Estrutura rápida por formato
 
@@ -127,8 +127,8 @@ Perguntas:
 
 Salvar preferencialmente em:
 
-- Saúde: `[F2] memory/outputs/saude-sao-sebastiao/`
-- Câmara: `[F2] memory/outputs/camara-municipal/`
-- SINDSS: `[F2] memory/outputs/sindss/`
-- Lógika: `[F2] memory/outputs/logika-creative/`
-- Outros: `[F2] memory/outputs/<slug-da-frente>/`
+- Saúde: `memory/outputs/saude-sao-sebastiao/`
+- Câmara: `memory/outputs/camara-municipal/`
+- SINDSS: `memory/outputs/sindss/`
+- Lógika: `memory/outputs/logika-creative/`
+- Outros: `memory/outputs/<slug-da-frente>/`

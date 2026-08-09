@@ -23,13 +23,13 @@ O usuário digita: `salve`, `fechar sessão`, `encerrar`, `fim de sessão`.
 
 ### Fase 1 — Checagem de drafts revisados
 
-1. Verificar se algum draft em `[F2] memory/outputs/` foi marcado como `revisado: true` durante a sessão
+1. Verificar se algum draft em `memory/outputs/` foi marcado como `revisado: true` durante a sessão
 2. Se sim: listar e perguntar se deve mover/arquivar
-3. Atualizar Hub se houve novos drafts: `[F2] memory/visualizations/Hub.md`
+3. Atualizar Hub se houve novos drafts: `memory/visualizations/Hub.md`
 
 ### Fase 2 — Atualizar log da sessão
 
-4. Abrir ou criar `[F2] memory/sessions/YYYY-MM-DD.md`
+4. Abrir ou criar `memory/sessions/YYYY-MM-DD.md`
 5. Acrescentar ao final (sem sobrescrever):
 
 ```markdown
@@ -49,13 +49,13 @@ O usuário digita: `salve`, `fechar sessão`, `encerrar`, `fim de sessão`.
 
 ### Fase 3 — Atualizar pendências
 
-6. Se houve tarefas concluídas: mover de `- [ ]` para `- [x]` + data em `[F2] memory/context/pendencias.md`
+6. Se houve tarefas concluídas: mover de `- [ ]` para `- [x]` + data em `memory/context/pendencias.md`
 7. Se surgiram novas pendências: adicionar na seção correta (🔴/🟡/⚪)
 
 ### Fase 4 — Git commit + push
 
 8. Verificar arquivos modificados: `git status`
-9. Fazer stage de tudo em `[F2] memory/`: `git add [F2] memory/ CLAUDE.md PROPAGATION.md`
+9. Fazer stage de tudo em `memory/`: `git add memory/ CLAUDE.md PROPAGATION.md`
 10. Commit com mensagem descritiva:
     ```
     git commit -m "sessão: YYYY-MM-DD — [resumo de 1 linha do que foi feito]"
@@ -69,7 +69,7 @@ O usuário digita: `salve`, `fechar sessão`, `encerrar`, `fim de sessão`.
 ## ✅ Sessão salva
 
 - Drafts revisados: [n]
-- Log atualizado: [F2] memory/sessions/YYYY-MM-DD.md
+- Log atualizado: memory/sessions/YYYY-MM-DD.md
 - Pendências atualizadas: [sim/não]
 - Commit: [hash curto] — [mensagem]
 - Push: ✅ GitHub atualizado
@@ -87,6 +87,6 @@ Sessão commitada e pushada. Log atualizado. Pendências refletindo estado real.
 
 ## Notas
 
-- Nunca usar `git add .` sem revisar — preferir `git add [F2] memory/` para não incluir arquivos pessoais acidentalmente
+- Nunca usar `git add .` sem revisar — preferir `git add memory/` para não incluir arquivos pessoais acidentalmente
 - Se o push falhar (sem internet): commitar localmente e sinalizar para Jadielson fazer push depois
 - Não encerrar sem confirmar que o push foi OK
