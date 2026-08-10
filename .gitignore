@@ -59,6 +59,11 @@ scripts/.venv/
 .secrets/
 client_secret*.json
 media/inbound/
+
+# Runtime local state → fora do Git por padrão
+70-agentes/runtime/*/openclaw-workspace-state.json
+70-agentes/runtime/*/memory/
+
 __pycache__/
 *.pyc
 BOOTSTRAP.md.concluido

@@ -15,9 +15,7 @@ nao_usar_quando: registrar decisoes finais; use 00-central/decisoes.md
 
 ## Revisao humana
 
-- [ ] Revisar arquivos de `70-agentes/runtime/*/openclaw-workspace-state.json` antes de versionar, por serem estado operacional nao rastreado.
 - [ ] Revisar, em etapa propria, se `openclaw-workspace-state.json` da raiz deve continuar versionado ou ser tratado como estado tecnico regeneravel.
-- [ ] Decidir se arquivos de midia e anexos ja existentes em `media/inbound/` devem permanecer apenas locais, ser referenciados em Markdown ou ser enviados para Drive por frente. Motivo: sao nao Markdown, podem conter material sensivel e ja estao protegidos por `.gitignore`.
 
 ## Limpeza estrutural restante
 
@@ -28,6 +26,13 @@ nao_usar_quando: registrar decisoes finais; use 00-central/decisoes.md
 
 - [ ] Manter referencias historicas F0/F1/F2/F3 em logs e registros de migracao, mas evitar que aparecam como rota ativa em READMEs, mapas e protocolos.
 - [ ] Antes de mover qualquer script, skill, agente, cron ou runtime, verificar referencias com `rg` e registrar origem/destino no relatorio do lote.
+
+## Politica tecnica ativa
+
+- [x] Manter `70-agentes/runtime/*/openclaw-workspace-state.json` fora do Git por padrao. Motivo: sao estado tecnico regeneravel de runtime local.
+- [x] Manter `70-agentes/runtime/*/memory/` fora do Git por padrao quando surgir como memoria local nao rastreada. Motivo: pode conter contexto operacional ou sensivel; se algo for util, criar resumo Markdown no Cofre ativo.
+- [x] Manter `media/inbound/` fora do Git. Motivo: midias e anexos originais nao sao Markdown, podem conter material sensivel e devem ir para Drive/pasta externa por frente quando forem relevantes.
+- [x] Registrar no Cofre apenas Markdown de rastreabilidade para midia/anexo relevante, com YAML frontmatter, resumo, origem, link/ID, status e proximo passo.
 
 ## Resolvido em 2026-08-10
 
