@@ -6,12 +6,21 @@ setor: governança do Cofre
 cliente: Jadielson Davi
 tipo: registro de decisões
 prioridade: máxima
-atualizado_em: 2026-08-09
+atualizado_em: 2026-08-10
 usar_quando: verificar decisões finais aprovadas sobre estrutura e operação do Cofre
 nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 ---
 
 # Decisões estruturais do Cofre
+
+## 2026-08-10 — Revisão etapa 2: limpeza conservadora da rota ativa
+- **Status:** implementado em lote conservador, sem exclusão definitiva.
+- **Origem:** pedido direto de Jadielson para deixar o Cofre mais limpo, claro e menos contraditório.
+- **Decisão:** documentos superados, inventários antigos e mapas legados não devem permanecer em `00-central/` ou na rota ativa quando puderem confundir agentes.
+- **Movidos para arquivo:** planos/inventários superados de `00-central/` foram para `90-arquivo/30-regras-obsoletas/2026-08-10-planos-e-inventarios-superados/`; itens que exigem revisão humana foram para `90-arquivo/40-revisao-humana/2026-08-10-itens-fora-da-rota-ativa/`.
+- **Atualizados na rota ativa:** `HEARTBEAT.md`, `MAPA.md`, `00-central/mapa-do-cofre.md`, `00-central/pendencias.md`, `00-central/notas-permanentes/_MAP.md`, `10-pessoal/inbox/_README.md` e `40-projetos/00-mapa.md`.
+- **Limite aplicado:** não mover scripts, skills, agentes, crons, runtimes ou bases de cliente com dependência provável sem revisão específica.
+- **Regra reforçada:** nenhuma exclusão definitiva; se houver dúvida, manter parado ou mover para revisão humana com origem e destino registrados.
 
 ## 2026-08-09 — Revisão canônica: estrutura numerada e autonomia operacional
 - **Status:** implementado nos arquivos centrais.
@@ -114,25 +123,25 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 ## 2026-07-26 — Lote 1 executado: frontmatter e mapas centrais
 - **Status:** concluído.
 - **O que mudou:** corrigidos cabeçalhos YAML dos 12 arquivos `.md` identificados sem frontmatter; criados mapa central, glossário e inventários de revisão.
-- **Onde foi salvo:** arquivos originais corrigidos; inventários em `00-central/inventario-md-sem-frontmatter.md` e `00-central/inventario-arquivos-nao-md.md`.
+- **Onde foi salvo originalmente:** arquivos originais corrigidos; inventários em `00-central/inventario-md-sem-frontmatter.md` e `00-central/inventario-arquivos-nao-md.md`. Em 2026-08-10, os inventários foram arquivados em `90-arquivo/30-regras-obsoletas/2026-08-10-planos-e-inventarios-superados/`.
 - **Como desfazer:** remover manualmente os blocos YAML adicionados aos 12 arquivos listados no snapshot textual, se Jadielson solicitar.
 - **Pendentes:** classificar e decidir destino dos arquivos não-`.md`; mover duplicidades apenas em lote aprovado.
 ## 2026-07-26 — Lote 2 executado: estrutura-base e classificação não-.md
 - **Status:** concluído.
 - **O que mudou:** criadas subpastas-base nas áreas `10-pessoal/` a `90-arquivo/`; adicionados `README.md` com finalidade e regra de uso em cada área; regras centrais reorganizadas com texto mais estratégico; arquivos não-.md classificados por risco/destino provável.
-- **Onde foi salvo:** `00-central/classificacao-arquivos-nao-md.md`, `00-central/mapa-do-cofre.md`, `00-central/regras-de-uso.md` e `README.md` das áreas.
+- **Onde foi salvo originalmente:** `00-central/classificacao-arquivos-nao-md.md`, `00-central/mapa-do-cofre.md`, `00-central/regras-de-uso.md` e `README.md` das áreas. Em 2026-08-10, a classificação antiga foi arquivada em `90-arquivo/30-regras-obsoletas/2026-08-10-planos-e-inventarios-superados/`.
 - **Como desfazer:** remover as subpastas-base vazias/índices criados e restaurar versões anteriores pelo snapshot textual; nenhum arquivo antigo foi apagado.
 - **Pendentes:** decidir política para arquivos sensíveis/técnicos e migrar conteúdos legados por lotes.
 ## 2026-07-26 — Lote 3 executado: consolidação segura das memórias
 - **Status:** concluído.
-- **O que mudou:** criado plano de consolidação em `00-central/plano-consolidacao-memorias.md`; criados índices em `memory/README.md` e `[F2] memory/README.md`; pastas duplicadas/vazias com nomes problemáticos foram movidas para `90-arquivo/20-duplicidades/`.
+- **O que mudou:** criado plano de consolidação em `00-central/plano-consolidacao-memorias.md` (arquivado em 2026-08-10 em `90-arquivo/30-regras-obsoletas/2026-08-10-planos-e-inventarios-superados/`); criados índices em `memory/README.md` e `[F2] memory/README.md`; pastas duplicadas/vazias com nomes problemáticos foram movidas para `90-arquivo/20-duplicidades/`.
 - **Decisão:** `memory/` permanece como memória ativa diária/sessão; `[F2] memory/` permanece como memória operacional legada em transição, sem migração em massa.
 - **Como desfazer:** usar o log `90-arquivo/20-duplicidades/log-lote3-memorias-20260726T032315Z.md` e mover as pastas arquivadas de volta à raiz.
 - **Pendentes:** migrar conteúdos de `[F2] memory/` por tema para áreas numeradas.
 ## 2026-07-26 — Lote 4 executado: estrutura canônica de clientes/frentes
 - **Status:** concluído.
 - **O que mudou:** criada estrutura canônica por cliente/frente em `50-clientes/`, com `README.md`, `contexto.md`, `fontes.md`, `pendencias.md` e `handoffs.md` para cada frente principal.
-- **Onde foi salvo:** `50-clientes/` e `00-central/plano-migracao-clientes-frentes.md`.
+- **Onde foi salvo originalmente:** `50-clientes/` e `00-central/plano-migracao-clientes-frentes.md`. Em 2026-08-10, o plano antigo foi arquivado em `90-arquivo/30-regras-obsoletas/2026-08-10-planos-e-inventarios-superados/`.
 - **Como desfazer:** remover os arquivos/índices criados em `50-clientes/`; nenhum conteúdo legado foi movido.
 - **Pendentes:** migrar conteúdos legados por frente, começando por Saúde São Sebastião.
 ## 2026-07-26 — Lote 5 executado: migração real Saúde São Sebastião
@@ -159,7 +168,7 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Status:** concluído.
 - **O que mudou:** migradas frentes menores/legadas para `50-clientes/40-outros-vereadores/` e `50-clientes/50-outros-clientes/`, com índices e logs reversíveis.
 - **Movimentações:** 4 origens migradas, total de 9 arquivos.
-- **Onde foi salvo:** `50-clientes/40-outros-vereadores/`, `50-clientes/50-outros-clientes/`, snapshots em `90-arquivo/50-backups-snapshots/` e inventário `00-central/inventario-frentes-f1-restantes.md`.
+- **Onde foi salvo originalmente:** `50-clientes/40-outros-vereadores/`, `50-clientes/50-outros-clientes/`, snapshots em `90-arquivo/50-backups-snapshots/` e inventário `00-central/inventario-frentes-f1-restantes.md`. Em 2026-08-10, o inventário antigo foi arquivado em `90-arquivo/30-regras-obsoletas/2026-08-10-planos-e-inventarios-superados/`.
 - **Como desfazer:** seguir logs em `90-arquivo/renomeacoes/` de cada frente.
 - **Pendentes:** avaliar `Logika-Creative` e `Projetos` restantes em `[F1] 5-Frentes/`.
 

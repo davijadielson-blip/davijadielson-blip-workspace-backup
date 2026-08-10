@@ -1,6 +1,6 @@
 ---
 tema: README
-atualizado_em: 2026-07-22
+atualizado_em: 2026-08-10
 ---
 
 # 📋 Editais Culturais — Análise e Acompanhamento
@@ -31,7 +31,7 @@ Todos os editais (atuais e futuros) serão armazenados nesta pasta. O agente dev
 
 ## 🔍 Monitoramento
 - **Frequência:** Diário (via cron) para verificar novos arquivos na pasta do Drive
-- **Método:** Browser (perfil logado) ou Zapier/Drive API quando tarefas disponíveis
+- **Método:** Browser com perfil logado, `gog drive` ou API direta do Drive aprovada
 - **Backup:** Jadielson pode também enviar links diretamente neste tópico Telegram
 
 ## Editais analisados

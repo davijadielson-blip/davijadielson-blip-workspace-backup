@@ -6,7 +6,7 @@ setor: governança do Cofre
 cliente: Jadielson Davi
 tipo: mapa operacional
 prioridade: máxima
-atualizado_em: 2026-08-09
+atualizado_em: 2026-08-10
 usar_quando: decidir onde buscar ou salvar qualquer informação no Cofre
 nao_usar_quando: substituir CONSTITUICAO.md; este mapa operacional complementa a lei maior
 ---
@@ -48,6 +48,17 @@ workspace/
 Os fluxos `[F0]`, `[F1]`, `[F2]` e `[F3]` foram migrados para a estrutura numerada e agora são apenas referência histórica/técnica. Use-os somente para interpretar logs, memórias antigas e dependências temporárias.
 
 Antes de mover ou renomear qualquer caminho antigo ainda referenciado, audite agentes, skills, scripts, crons, runtimes, handoffs e configurações.
+
+## Arquivamento sem exclusão
+
+Quando um arquivo ativo estiver obsoleto, duplicado, contraditório ou irrelevante operacionalmente, ele deve sair da rota ativa sem ser apagado:
+
+- `90-arquivo/20-duplicidades/` para duplicidades claras;
+- `90-arquivo/30-regras-obsoletas/` para planos, inventários e regras superadas;
+- `90-arquivo/40-revisao-humana/` quando houver dúvida sobre valor histórico, autoria ou destino;
+- subpastas datadas para cada lote de limpeza.
+
+Toda movimentação deve registrar origem, destino, motivo e dependências verificadas em relatório do lote.
 
 ## Regra de acesso
 Acesso não é definido por “pode escrever/não pode escrever”, e sim por **necessidade operacional**:

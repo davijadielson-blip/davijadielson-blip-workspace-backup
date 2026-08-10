@@ -6,7 +6,7 @@ setor: IA, automação, tecnologia
 cliente: Lógika Creative
 tipo: arquitetura/agente
 prioridade: alta
-atualizado_em: 2026-07-22
+atualizado_em: 2026-08-10
 usar_quando: entender o papel do CAIO, sua stack, como ele monitora novidades de IA, roadmap de automação e integração com outros agentes
 nao_usar_quando: prompt operacional do CAIO (ver memory/agents/prompts/caio-prompt.md) ou regras gerais de operação (AGENTS.md)
 ---
@@ -73,7 +73,7 @@ O CAIO é o **radar de inovação** do ecossistema. Ele monitora, filtra e tradu
 | **Geração de vídeo** | OpenAI Sora, Google Veo, Runway Gen, Pika, Kling, Wan |
 | **Geração de imagem** | Midjourney, DALL-E, Stable Diffusion, Firefly, Ideogram |
 | **Áudio/voz** | ElevenLabs, OpenAI TTS, Google TTS, Play.ht |
-| **Automação agentiva** | OpenClaw, LangChain, CrewAI, AutoGen, Zapier MCP |
+| **Automação agentiva** | OpenClaw, LangChain, CrewAI, AutoGen, integrações diretas via API/CLI aprovadas |
 | **Embeddings/search** | OpenAI, Voyage, Cohere, Qdrant, Chroma |
 | **Orquestração** | OpenClaw Gateway, subagentes, crons, heartbeats |
 

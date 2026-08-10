@@ -6,7 +6,7 @@ setor: audiovisual, comunicação, marketing digital, gestão pessoal
 cliente: Jadielson Davi
 tipo: mapa
 prioridade: máxima
-atualizado_em: 2026-08-09
+atualizado_em: 2026-08-10
 usar_quando: antes de qualquer consulta, decisão de salvamento, roteamento ou busca no Cofre
 nao_usar_quando: informação urgente que exige fonte externa atualizada (Tavily primeiro)
 ---
@@ -156,6 +156,11 @@ Jadielson permanece como autoridade final sobre sentido, prioridade, publicaçã
 ### `90-arquivo/` — Legado e quarentena
 - Legado, backups, duplicidades, estrutura antiga, quarentena e revisão.
 - Usar para preservação e reversibilidade; nunca como lixeira definitiva.
+- Subpastas de revisão usadas na etapa 2:
+  - `90-arquivo/10-legado-f0-f1-f2-f3/` — reservado para legado explícito dos fluxos antigos quando necessário.
+  - `90-arquivo/20-duplicidades/` — duplicidades e reaparecimentos já identificados.
+  - `90-arquivo/30-regras-obsoletas/` — planos, inventários e regras superadas que não devem orientar agentes.
+  - `90-arquivo/40-revisao-humana/` — itens preservados fora da rota ativa que precisam de decisão humana.
 
 ### `memory/` — Memória operacional ativa
 ```

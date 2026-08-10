@@ -5,7 +5,7 @@ setor: governança agentiva
 cliente: Jadielson Davi
 tipo: protocolo operacional
 prioridade: máxima
-atualizado_em: 2026-08-09
+atualizado_em: 2026-08-10
 usar_quando: antes de agentes responderem, buscarem contexto ou pedirem coordenação
 nao_usar_quando: substituir AGENTS.md, MAPA.md ou CONSTITUICAO.md
 ---
@@ -49,7 +49,7 @@ Erro de embeddings, cota OpenAI esgotada, rate limit ou falha de `memory_search`
 
 Se a busca semântica falhar, o agente deve consultar o Cofre por leitura direta antes de responder:
 
-1. Ler `_MAP.md`, `MAPA.md`, `AGENTS.md` e `MEMORY.md` quando existirem.
+1. Ler `MAPA.md`, `AGENTS.md` e `MEMORY.md` quando existirem. `_MAP.md` deve ser tratado como mapa local legado/complementar, nunca como rota principal se conflitar com `MAPA.md`.
 2. Procurar nos caminhos prováveis com `find`, `grep/rg` ou listagem de arquivos.
 3. Ler os arquivos relevantes em `00-central/`, `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/`, `80-handoffs/`, `90-arquivo/`, `memory/`, `scripts/`, `skills/` ou na frente do cliente/projeto.
 4. Só depois responder.

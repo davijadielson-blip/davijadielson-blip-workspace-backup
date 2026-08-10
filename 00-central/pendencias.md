@@ -1,30 +1,33 @@
 ---
-tema: pendências centrais do Cofre
-conteudo: lista de pendências estruturais, auditorias e reorganizações aguardando decisão ou execução
-nicho: ecossistema agêntico Lôh/Jadielson
-setor: governança do Cofre
+tema: pendencias centrais do Cofre
+conteudo: lista atual de pendencias estruturais, revisoes humanas e proximas etapas de limpeza do Cofre
+nicho: ecossistema agentico Loh/Jadielson
+setor: governanca do Cofre
 cliente: Jadielson Davi
-tipo: pendências
+tipo: pendencias
 prioridade: alta
-atualizado_em: 2026-07-26
-usar_quando: acompanhar o que falta decidir, revisar ou executar na reorganização do Cofre
-nao_usar_quando: registrar decisões finais; use 00-central/decisoes.md
+atualizado_em: 2026-08-10
+usar_quando: acompanhar o que falta decidir, revisar ou executar na organizacao do Cofre
+nao_usar_quando: registrar decisoes finais; use 00-central/decisoes.md
 ---
 
-# Pendências centrais
+# Pendencias centrais
 
-## Reorganização do Cofre
-- [ ] Jadielson aprovar/ajustar a estrutura-alvo.
-- [ ] Definir se a nova estrutura numérica substituirá gradualmente os fluxos `[F0]`–`[F3]` ou se funcionará como camada de governança sobre eles.
-- [ ] Auditar arquivos `.md` sem YAML frontmatter e corrigir em lotes pequenos.
-- [ ] Auditar arquivos não-`.md` dentro do Cofre e decidir destino seguro (Google Drive, arquivo externo ou quarentena), sem apagar.
-- [ ] Consolidar duplicidades de pastas (`memory/` vs `[F2] memory/`; `[F2] agentes` vs `[F2] memory/agents`; pastas com escape literal `\[F0\]`, `\[F2\]`).
-- [ ] Criar política final de acesso por agente e por área.
+## Revisao humana
 
-## Próximo lote recomendado
-- [ ] Lote 3: consolidar pastas duplicadas de memória (`memory/`, `[F2] memory/`, `[F2]memory/`, `\[F2\] memory/`) com plano de movimentação reversível.
-- [ ] Lote 4: separar clientes/frentes em `50-clientes/` com índices por cliente.
-- [ ] Lote 5: isolar arquivos não-.md sensíveis/técnicos conforme classificação.
+- [ ] Decidir se materiais do Starter Kit/OpenClaw que ainda vivem na raiz ativa (`README.md`, `CHANGELOG.md`, `FAQ.md`) devem permanecer como referencia de curso ou ir para `90-arquivo/`.
+- [ ] Decidir destino formal dos papeis antigos associados a "bibliotecaria": renomear, arquivar como historico ou manter apenas como referencia.
+- [ ] Revisar arquivos de `70-agentes/runtime/*/openclaw-workspace-state.json` antes de versionar, por serem estado operacional nao rastreado.
+- [ ] Revisar `memory/2026-08-10.md` e demais arquivos nao rastreados antes de incluir em commit amplo, preservando sigilo e pertinencia.
 
-## Backup remoto e auditoria de segurança
-- [ ] Revisar os 2 commits locais ainda não enviados ao `origin/main` antes de qualquer push amplo. Motivo: o lote inclui grande volume de mudanças, arquivos não-`.md` dentro do Cofre (`memory/.dreams/short-term-recall.json.migrated`, `openclaw-workspace-state.json` e estados runtime) e registros de memória migrada que podem conter conteúdo sensível de sessão. Regra aplicada em 2026-07-31: em dúvida, preservar localmente e bloquear push até revisão assistida/humana.
+## Limpeza estrutural restante
+
+- [ ] Atualizar gradualmente `_MAP.md` legados dentro de bases migradas de clientes, sem apagar a origem historica.
+- [ ] Separar, por lote, duplicidades internas da Saude em `50-clientes/10-saude-sao-sebastiao/10-contexto/operacional/03-fichas-setores/`.
+- [ ] Decidir destino de arquivos nao Markdown que ainda aparecem dentro do Cofre: manter tecnico, referenciar Drive ou mover para quarentena de revisao.
+- [ ] Consolidar indices por area onde a navegacao ainda depender de nomes legados longos.
+
+## Compatibilidade
+
+- [ ] Manter referencias historicas F0/F1/F2/F3 em logs e registros de migracao, mas evitar que aparecam como rota ativa em READMEs, mapas e protocolos.
+- [ ] Antes de mover qualquer script, skill, agente, cron ou runtime, verificar referencias com `rg` e registrar origem/destino no relatorio do lote.

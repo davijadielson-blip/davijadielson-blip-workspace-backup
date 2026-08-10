@@ -6,14 +6,14 @@ setor: operações agentivas
 cliente: Jadielson Davi
 tipo: heartbeat/proatividade
 prioridade: alta
-atualizado_em: 2026-07-22
+atualizado_em: 2026-08-10
 usar_quando: verificar o que fazer em heartbeats, formato do briefing diário, regras de proatividade
 nao_usar_quando: consulta de contexto ou decisões (MEMORY.md) ou mapa do workspace (MAPA.md)
 ---
 
 # HEARTBEAT.md — Proatividade segura da Lôh
 
-Atualizado em: 2026-07-20
+Atualizado em: 2026-08-10
 Autorizado por: Jadielson Davi
 
 ## Estado atual
@@ -50,10 +50,14 @@ Antes de gerar briefing, consultar:
 - `MAPA.md`
 - `USER.md`
 - `MEMORY.md` quando apropriado
-- `[F2] memory/context/HOT-Loh-operacional.md`
-- decisões recentes em `[F2] memory/decisions/`
-- outputs recentes em `[F2] memory/outputs/`
-- projetos/frentes relevantes em `[F1] 5-Frentes/` e `[F3] PROJETOS/`
+- `00-central/decisoes.md`
+- `00-central/pendencias.md`
+- `memory/context/` para contexto operacional recente
+- `memory/outputs/` para drafts, roteiros, legendas e briefings recentes
+- `memory/daily-briefs/` e `memory/sessions/` quando houver histórico do dia
+- `10-pessoal/`, `20-profissional/`, `30-estudos/`, `40-projetos/`, `50-clientes/`, `60-processos/`, `70-agentes/` e `80-handoffs/` conforme a frente citada
+
+Referências `[F0]`, `[F1]`, `[F2]` e `[F3]` só devem ser usadas para interpretar histórico já migrado ou logs antigos; não são rota ativa do briefing.
 
 ## Anti-spam
 

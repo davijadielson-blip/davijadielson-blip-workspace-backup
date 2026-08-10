@@ -1,41 +1,43 @@
 ---
-tema: LEIA ME MAPA 360
-atualizado_em: 2026-07-22
+tema: mapa da pasta de projetos
+conteudo: organizacao atual de projetos pessoais, profissionais, autorais, trabalho, produtos e ideias
+nicho: ecossistema agentico Loh/Jadielson
+setor: projetos e iniciativas
+cliente: Jadielson Davi
+tipo: mapa de pasta
+prioridade: alta
+atualizado_em: 2026-08-10
+usar_quando: localizar, salvar ou atualizar projetos no Cofre
+nao_usar_quando: salvar rotina pessoal, cliente recorrente sem formato de projeto, memoria de sessao ou decisao estrutural do Cofre
 ---
 
-# [F3] PROJETOS — Organização canônica pelo Mapa 360
+# Mapa - 40-projetos
 
-**Atualizado em:** 2026-07-19 05:05 UTC
-**Autorização:** Jadielson autorizou reorganizar fisicamente esta pasta no Telegram, tópico `Jack Lemley`, em 2026-07-19.
+`40-projetos/` guarda iniciativas com começo, meio e fim: projetos pessoais, profissionais, autorais, produtos, ideias em amadurecimento e trabalhos temporarios.
 
-## Estrutura oficial
+## Estrutura atual
 
 ```text
-[F3] PROJETOS
-├── 01_PESSOAL
-├── 02_PROFISSIONAL
-├── 03_PROJETOS
-├── 04_TRABALHO
-├── 90_LEGADO_STATUS_ANTIGO_NAO_USAR
-└── _templates
+40-projetos/
+├── 10-pessoais/
+├── 20-profissionais/
+├── 30-projetos-autorais/
+├── 40-trabalho/
+├── 50-produtos/
+└── ideias/
 ```
 
-## Regra
-A gestão não deve mais considerar os antigos 92 itens como projetos soltos.
-Os itens antigos foram consolidados em frentes canônicas. As pastas originais foram preservadas dentro de `00_ORIGENS_LEGADAS/` para não perder histórico.
+## Como usar
 
-Nada foi excluído.
+- `10-pessoais/`: projetos de vida pessoal, familia, saude, financas e base de vida.
+- `20-profissionais/`: carreira, marca pessoal, estudos aplicados e parcerias profissionais.
+- `30-projetos-autorais/`: documentarios, canais, projetos culturais e iniciativas criativas autorais.
+- `40-trabalho/`: iniciativas ligadas a LÓGIKA, clientes, banco de arquivos e operacao profissional.
+- `50-produtos/`: produtos, materiais e execucoes com potencial de oferta ou entrega.
+- `ideias/`: ideias ainda sem estrutura de projeto.
 
-## Protocolo para agentes e próximos tópicos
+## Regra atual
 
-Todo agente/tópico do grupo `PROJETOS` deve seguir o protocolo salvo em:
+A logica antiga de `[F3] PROJETOS` foi migrada e hoje e apenas referencia historica. Agentes devem usar esta estrutura numerada e consultar `MAPA.md` quando houver duvida de destino.
 
-`[F2] memory/agents/projetos-protocolo-mapa360-backlog-inteligente-2026-07-19.md`
-
-Resumo operacional:
-
-1. Consultar o Cofre antes de responder.
-2. Começar por este arquivo e pela macroárea correta.
-3. Não voltar à lógica dos 92 projetos soltos.
-4. Trabalhar pelo Backlog Inteligente: `Macroárea → Frente → Projeto/Subprojeto → Tarefa → Microtarefa`.
-5. Sempre entregar próximas microtarefas claras, pequenas e executáveis.
+Nada deve ser excluido definitivamente. Se um projeto parecer duplicado, obsoleto ou confuso, mover apenas para `90-arquivo/` apos verificar dependencias e registrar origem/destino.
