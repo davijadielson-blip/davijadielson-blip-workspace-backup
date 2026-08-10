@@ -8,7 +8,7 @@ Sincronize as datas sazonais do vault com o Google Calendar. Nada é criado sem 
 
 ```bash
 TODAY=$(date +"%Y-%m-%d")
-grep -rh "^data: " "[F2] memory/databases/datas-sazonais/" | sort | uniq
+grep -rh "^data: " "memory/databases/datas-sazonais/" | sort | uniq
 ```
 
 Para cada data encontrada que seja >= hoje, leia o arquivo correspondente e extraia:
@@ -49,7 +49,7 @@ Se já existirem eventos com o mesmo título no Calendar (verifique com list_eve
 
 **PASSO 4 — Crie após confirmação**
 
-Para cada evento, use `mcp__claude_ai_Google_Calendar__create_event`:
+Para cada evento, use `gog calendar events create`:
 - `summary`: título conforme tabela
 - `allDay`: true
 - `startTime`: YYYY-MM-DDT00:00:00Z (meia-noite UTC)
@@ -61,7 +61,7 @@ Para cada evento, use `mcp__claude_ai_Google_Calendar__create_event`:
 
 **PASSO 5 — Log**
 
-Crie `[F2] memory/logs/comandos/YYYY-MM-DD-sincronizar-sazonais.md`:
+Crie `memory/logs/comandos/YYYY-MM-DD-sincronizar-sazonais.md`:
 ```
 ---
 comando: /sincronizar-sazonais

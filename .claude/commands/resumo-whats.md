@@ -10,7 +10,7 @@ Gere um resumo estilo manchete de jornal para compartilhar no WhatsApp.
 **PASSO 1 — Identificar a legenda de origem**
 
 - Se $ARGUMENTS contiver um caminho de arquivo: leia esse arquivo.
-- Se $ARGUMENTS estiver vazio: liste os arquivos em `[F2] memory/outputs/legendas/` ordenados por data de modificação e use o mais recente.
+- Se $ARGUMENTS estiver vazio: liste os arquivos em `memory/outputs/legendas/` ordenados por data de modificação e use o mais recente.
 - Se não encontrar nenhuma legenda: informe e pergunte qual usar.
 
 **PASSO 2 — Ler e extrair**
@@ -31,7 +31,7 @@ Regras:
 
 **PASSO 4 — Salvar**
 
-Caminho: `[F2] memory/outputs/resumos-whatsapp/YYYY-MM-DD-<frente>-<slug>.md`
+Caminho: `memory/outputs/resumos-whatsapp/YYYY-MM-DD-<frente>-<slug>.md`
 
 (Se o arquivo de destino já existir, sobrescreva.)
 

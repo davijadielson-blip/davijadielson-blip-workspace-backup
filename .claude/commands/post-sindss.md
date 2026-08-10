@@ -12,8 +12,8 @@ Gere conteúdo para o SINDSS. Siga cada passo.
 **PASSO 1 — Carregar agente e calendário**
 
 Leia em paralelo:
-- `[F2] memory/agents/sindss.md` → tom, regras editoriais, tipos de conteúdo
-- `[F2] memory/databases/calendario-sazonal-sindss.md` → datas próximas relevantes
+- `memory/agents/sindss.md` → tom, regras editoriais, tipos de conteúdo
+- `memory/databases/calendario-sazonal-sindss.md` → datas próximas relevantes
 
 **PASSO 2 — Verificar o dia da semana**
 
@@ -49,7 +49,7 @@ Conforme o tipo:
 
 Slug: tipo + tema em kebab-case.
 
-Caminho: `[F2] memory/outputs/drafts/YYYY-MM-DD-sindss-<slug>.md`
+Caminho: `memory/outputs/drafts/YYYY-MM-DD-sindss-<slug>.md`
 
 Frontmatter:
 ```
@@ -67,7 +67,7 @@ slug: <slug>
 
 **PASSO 7 — Manchete WhatsApp** (para feed e depoimento)
 
-Gere manchete ≤15 palavras. Salve em `[F2] memory/outputs/resumos-whatsapp/YYYY-MM-DD-sindss-<slug>.md`.
+Gere manchete ≤15 palavras. Salve em `memory/outputs/resumos-whatsapp/YYYY-MM-DD-sindss-<slug>.md`.
 
 **PASSO 8 — Log e exibição**
 

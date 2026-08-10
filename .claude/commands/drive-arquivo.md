@@ -2,7 +2,7 @@
 description: Arquiva link de referência de um arquivo do Drive — uso: /drive-arquivo <ID ou URL>
 ---
 
-Você é a bibliotecária do vault. Arquive um link de referência de um arquivo do Google Drive.
+Você é a Lôh, operadora do Cofre. Arquive um link de referência de um arquivo do Google Drive.
 
 O ID ou URL do arquivo é: `$ARGUMENTS`
 
@@ -10,7 +10,7 @@ Se `$ARGUMENTS` estiver vazio, pergunte ao usuário o ID ou URL antes de prosseg
 
 **PASSO 1 — Obter metadados**
 
-Use `mcp__claude_ai_Google_Drive__get_file_metadata`:
+Use `gog drive file metadata`:
 - fileId: extraia o ID de `$ARGUMENTS` (se for URL, pegue o trecho após `/d/` ou `?id=`)
 
 **PASSO 2 — Identificar frente**
@@ -19,7 +19,7 @@ Baseie-se no nome e caminho do arquivo para classificar a frente (mesmo critéri
 
 **PASSO 3 — Criar nota de referência**
 
-Salve em `[F2] memory/inbox-externa/drive/YYYY-MM-DD-[slug-nome].md`:
+Salve em `memory/inbox-externa/drive/YYYY-MM-DD-[slug-nome].md`:
 
 ```yaml
 ---
@@ -52,13 +52,13 @@ revisado: false
 ## Próximo passo sugerido
 [ ] Revisar conteúdo
 [ ] Associar a tarefa/entrega específica
-[ ] Mover referência para [F1]
+[ ] Mover referência para a área ativa correta do Cofre
 ```
 
 **PASSO 4 — Confirmar**
 
 ```
-✅ Referência arquivada: [F2] memory/inbox-externa/drive/YYYY-MM-DD-[slug].md
+✅ Referência arquivada: memory/inbox-externa/drive/YYYY-MM-DD-[slug].md
 Frente detectada: [frente]
 Arquivo: [nome]
 ```

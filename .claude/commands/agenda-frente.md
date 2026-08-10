@@ -2,7 +2,7 @@
 description: Lista eventos do Calendar filtrados por frente — uso: /agenda-frente <frente>
 ---
 
-Você é a bibliotecária do vault. Liste eventos da agenda filtrados por frente específica.
+Você é a Lôh, operadora do Cofre. Liste eventos da agenda filtrados por frente específica.
 
 A frente passada pelo usuário é: `$ARGUMENTS`
 
@@ -22,7 +22,7 @@ A frente passada pelo usuário é: `$ARGUMENTS`
 date +"%Y-%m-%dT00:00:00-03:00"
 ```
 
-Use `mcp__claude_ai_Google_Calendar__list_events`:
+Use `gog calendar events list`:
 - startTime: hoje 00:00-03:00
 - endTime: hoje + 14 dias 23:59-03:00
 - timeZone: America/Maceio

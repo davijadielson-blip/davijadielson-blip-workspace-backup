@@ -8,7 +8,7 @@ Rode o script de sync e mostre o relatório.
 python3 scripts/sync/notion-to-calendar.py
 ```
 
-Depois leia o log gerado em `[F2] memory/sessions/sync/YYYY-MM-DD.md` e mostre:
+Depois leia o log gerado em `memory/sessions/sync/YYYY-MM-DD.md` e mostre:
 - Quantos eventos criados
 - Quantos atualizados
 - Erros (se houver)

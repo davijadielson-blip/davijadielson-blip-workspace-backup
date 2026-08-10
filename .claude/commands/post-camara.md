@@ -11,7 +11,7 @@ Gere um post para a Câmara Municipal de São Sebastião. Siga cada passo.
 
 **PASSO 1 — Carregar agente**
 
-Leia `[F2] memory/agents/camara.md` para carregar tom, linha editorial e restrições.
+Leia `memory/agents/camara.md` para carregar tom, linha editorial e restrições.
 
 **PASSO 2 — Identificar o tipo**
 
@@ -46,7 +46,7 @@ Com as informações recebidas, gere o texto seguindo o tom do agente:
 Slug: tipo + detalhe principal em kebab-case.
 Exemplo: `aniversario-vereador-josi`, `projeto-aprovado-pavimentacao`
 
-Caminho: `[F2] memory/outputs/drafts/YYYY-MM-DD-camara-<slug>.md`
+Caminho: `memory/outputs/drafts/YYYY-MM-DD-camara-<slug>.md`
 
 Frontmatter:
 ```
@@ -64,9 +64,9 @@ slug: <slug>
 
 **PASSO 6 — Manchete WhatsApp**
 
-Gere manchete ≤15 palavras estilo jornal. Salve em `[F2] memory/outputs/resumos-whatsapp/YYYY-MM-DD-camara-<slug>.md`.
+Gere manchete ≤15 palavras estilo jornal. Salve em `memory/outputs/resumos-whatsapp/YYYY-MM-DD-camara-<slug>.md`.
 
 **PASSO 7 — Log e exibição**
 
-Logue em `[F2] memory/logs/comandos/YYYY-MM-DD-post-camara-<slug>.md`.
+Logue em `memory/logs/comandos/YYYY-MM-DD-post-camara-<slug>.md`.
 Exiba post + manchete. Pergunte se quer ajustar.

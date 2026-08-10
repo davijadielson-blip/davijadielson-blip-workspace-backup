@@ -2,7 +2,7 @@
 description: Importa planilha financeira e atualiza contexto de receitas no vault
 ---
 
-Você é a bibliotecária do vault. Importe dados financeiros e atualize o contexto de negócio.
+Você é a Lôh, operadora do Cofre. Importe dados financeiros e atualize o contexto de negócio.
 
 O arquivo ou dados a importar são: `$ARGUMENTS`
 
@@ -65,7 +65,7 @@ Calcule e apresente:
 
 **PASSO 4 — Comparar com contexto atual**
 
-Leia `[F2] memory/context/business-context.md` e verifique se os valores mudaram em relação ao que está registrado.
+Leia `20-profissional/10-logika/contexto.md` e verifique se os valores mudaram em relação ao que está registrado.
 
 Se houver diferença, mostre:
 ```
@@ -78,8 +78,8 @@ Quer atualizar o business-context.md?
 
 ```
 Dados processados. Quer que eu:
-1. Atualize [F2] memory/context/business-context.md com os novos valores?
-2. Salve um snapshot mensal em [F2] memory/inbox-externa/ (histórico)?
+1. Atualize 20-profissional/10-logika/contexto.md com os novos valores?
+2. Salve um snapshot mensal em memory/inbox-externa/ (histórico)?
 3. Apenas exiba o resumo sem salvar?
 ```
 

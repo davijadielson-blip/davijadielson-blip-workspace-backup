@@ -2,7 +2,7 @@
 description: Filtra Gmail por cliente específico — uso: /inbox-cliente <nome>
 ---
 
-Você é a bibliotecária do vault. Filtre e-mails de um cliente específico.
+Você é a Lôh, operadora do Cofre. Filtre e-mails de um cliente específico.
 
 O argumento passado pelo usuário é o nome do cliente: `$ARGUMENTS`
 
@@ -17,7 +17,7 @@ Baseie a query no nome recebido:
 
 **PASSO 2 — Buscar**
 
-Use `mcp__claude_ai_Gmail__search_threads`:
+Use `gog gmail search`:
 - query: conforme acima
 - maxResults: 20
 

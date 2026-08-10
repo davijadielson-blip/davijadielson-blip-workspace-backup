@@ -14,7 +14,7 @@ Calcule a próxima segunda-feira a partir de hoje como data de início dos event
 
 **PASSO 2 — Verifique conflitos**
 
-Antes de criar, busque eventos da próxima semana com `mcp__claude_ai_Google_Calendar__list_events` (startTime: próxima segunda, endTime: próximo domingo). Identifique sobreposições de horário e informe.
+Antes de criar, busque eventos da próxima semana com `gog calendar events list` (startTime: próxima segunda, endTime: próximo domingo). Identifique sobreposições de horário e informe.
 
 **PASSO 3 — Lista dos blocos**
 
@@ -48,7 +48,7 @@ Posso criar todos? Ou informe os números dos que quer criar (ex: "1 2 5 6").
 
 **PASSO 5 — Crie os aprovados**
 
-Para cada bloco selecionado, use `mcp__claude_ai_Google_Calendar__create_event`:
+Para cada bloco selecionado, use `gog calendar events create`:
 - `summary`: título conforme tabela
 - `startTime`: próxima ocorrência correta do dia/horário em formato `YYYY-MM-DDTHH:MM:00` (sem offset -03:00)
 - `endTime`: mesmo dia, horário de fim — mesmo formato sem offset

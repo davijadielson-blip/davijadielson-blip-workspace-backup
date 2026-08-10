@@ -57,7 +57,7 @@ Posso criar no Google Calendar?
 
 **PASSO 4 — Crie o evento**
 
-Após confirmação, use `mcp__claude_ai_Google_Calendar__create_event` com os parâmetros abaixo.
+Após confirmação, use `gog calendar events create` com os parâmetros abaixo.
 
 > ⚠️ Formato obrigatório dos horários: `YYYY-MM-DDTHH:MM:00` **sem offset** (ex: `2026-05-26T14:00:00`). O fuso é definido pelo campo `timeZone`, não pelo timestamp.
 
@@ -71,7 +71,7 @@ Após confirmação, use `mcp__claude_ai_Google_Calendar__create_event` com os p
 
 **PASSO 5 — Registre**
 
-Appende em `[F2] memory/logs/eventos-criados.md`.
+Appende em `memory/logs/eventos-criados.md`.
 Se o arquivo não existir, crie com cabeçalho:
 ```
 ---

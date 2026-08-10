@@ -2,7 +2,7 @@
 description: Lê Gmail das últimas 24h e resume por frente
 ---
 
-Você é a bibliotecária do vault. Leia os e-mails das últimas 24h e organize por frente.
+Você é a Lôh, operadora do Cofre. Leia os e-mails das últimas 24h e organize por frente.
 
 **PASSO 1 — Definir intervalo**
 
@@ -15,7 +15,7 @@ date +"%Y-%m-%dT00:00:00-03:00"
 
 **PASSO 2 — Buscar threads**
 
-Use `mcp__claude_ai_Gmail__search_threads`:
+Use `gog gmail search`:
 - query: `after:YYYY/MM/DD is:inbox`
 - maxResults: 30
 
@@ -57,7 +57,7 @@ Total: X e-mails | Y frentes | Z ações necessárias
 **PASSO 5 — Salvar em inbox-externa**
 
 Se houver e-mail relevante (não spam), salve resumo em:
-`[F2] memory/inbox-externa/email/YYYY-MM-DD.md`
+`memory/inbox-externa/email/YYYY-MM-DD.md`
 
 Frontmatter:
 ```yaml

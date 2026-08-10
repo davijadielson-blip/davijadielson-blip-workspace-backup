@@ -20,6 +20,7 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Decisao:** `COCKPIT.md` antigo saiu da raiz ativa por usar rotas antigas e foi preservado em `90-arquivo/30-regras-obsoletas/2026-08-10-dashboards-raiz-obsoletos/`.
 - **Decisao:** `memory/2026-08-10.md` nao deve permanecer como daily note nova na raiz de `memory/`; o conteudo foi movido para `memory/sessions/2026/2026-08-10-contexto-inicial-revisao-cofre.md`.
 - **Saude:** bases antigas de Saúde, Câmara, SINDSS e Outros Vereadores receberam README/avisos de fonte legada. A rota atual da Saúde passou a apontar explicitamente para `50-clientes/10-saude-sao-sebastiao/README.md`, `fontes.md` e `10-contexto/operacional/README.md`.
+- **Complemento solicitado:** apos pedido de Jadielson para nao deixar pendencias resolviveis, os perfis antigos `bibliotecaria` foram arquivados em `90-arquivo/30-regras-obsoletas/2026-08-10-agente-bibliotecaria-legado/`, `03-fichas-setores/README.md` passou a separar rota ativa, apoio editorial e rastreabilidade das fichas de Saude, e comandos/perfis ativos em `.claude/` e `.codex/` foram normalizados para Cofre atual + `gog`.
 - **Limite aplicado:** estados runtime nao rastreados em `70-agentes/runtime/*/openclaw-workspace-state.json` permaneceram fora do commit por risco tecnico/sensivel.
 
 ## 2026-08-10 — Revisão etapa 2: limpeza conservadora da rota ativa

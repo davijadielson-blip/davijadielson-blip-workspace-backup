@@ -11,7 +11,7 @@ Gere um post para o vereador Rogério Rocha. Siga cada passo.
 
 **PASSO 1 — Carregar agente**
 
-Leia `[F2] memory/agents/rogerio.md`. Internalize a regra crítica: **zero menção a eleição, voto, campanha**.
+Leia `memory/agents/rogerio.md`. Internalize a regra crítica: **zero menção a eleição, voto, campanha**.
 
 **PASSO 2 — Identificar o tipo**
 
@@ -42,7 +42,7 @@ Comprimento: 120 a 220 palavras.
 
 Slug: tipo + detalhe em kebab-case.
 
-Caminho: `[F2] memory/outputs/drafts/YYYY-MM-DD-rogerio-<slug>.md`
+Caminho: `memory/outputs/drafts/YYYY-MM-DD-rogerio-<slug>.md`
 
 Frontmatter:
 ```
@@ -60,7 +60,7 @@ slug: <slug>
 
 **PASSO 6 — Manchete WhatsApp**
 
-Gere manchete ≤15 palavras. Salve em `[F2] memory/outputs/resumos-whatsapp/YYYY-MM-DD-rogerio-<slug>.md`.
+Gere manchete ≤15 palavras. Salve em `memory/outputs/resumos-whatsapp/YYYY-MM-DD-rogerio-<slug>.md`.
 
 **PASSO 7 — Log e exibição**
 

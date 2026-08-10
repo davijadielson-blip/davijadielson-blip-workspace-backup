@@ -16,7 +16,7 @@ date +"%Y-%m-%dT00:00:00-03:00"
 
 **PASSO 2 — Busque os eventos**
 
-Use `mcp__claude_ai_Google_Calendar__list_events`:
+Use `gog calendar events list`:
 - startTime / endTime conforme acima
 - orderBy: startTime
 - timeZone: America/Maceio
@@ -24,7 +24,7 @@ Use `mcp__claude_ai_Google_Calendar__list_events`:
 
 **PASSO 3 — Classifique cada evento**
 
-Leia `[F2] memory/databases/regras-classificacao-agenda.md` e aplique o ícone correto a cada evento baseado em palavras-chave do título e descrição.
+Leia `memory/databases/regras-classificacao-agenda.md` e aplique o ícone correto a cada evento baseado em palavras-chave do título e descrição.
 
 **PASSO 4 — Determine o tipo de cada dia**
 

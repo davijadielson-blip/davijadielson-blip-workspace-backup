@@ -11,14 +11,14 @@ Gere comunicação institucional para a Secretaria de Saúde de São Sebastião/
 
 **PASSO 1 — Carregar agente**
 
-Leia `[F2] memory/agents/saude.md` para carregar tom, estrutura preferida e restrições.
+Leia `memory/agents/saude.md` para carregar tom, estrutura preferida e restrições.
 
 **PASSO 2 — Identificar o tema**
 
 Se $ARGUMENTS contiver o tema, use-o. Se for vago ou ausente, pergunte:
 "Qual o tema ou serviço? (ex.: campanha do mês, unidade em destaque, entrega de exames, ação preventiva...)"
 
-Verifique também se o tema corresponde a alguma campanha mensal de saúde nos arquivos de `[F2] memory/databases/datas-sazonais/campanhas-saude/` — se sim, leia o arquivo para contexto adicional.
+Verifique também se o tema corresponde a alguma campanha mensal de saúde nos arquivos de `memory/databases/datas-sazonais/campanhas-saude/` — se sim, leia o arquivo para contexto adicional.
 
 **PASSO 3 — Perguntar detalhes específicos**
 
@@ -45,7 +45,7 @@ Comprimento: 80 a 160 palavras.
 
 Slug: tema em kebab-case.
 
-Caminho: `[F2] memory/outputs/drafts/YYYY-MM-DD-saude-<slug>.md`
+Caminho: `memory/outputs/drafts/YYYY-MM-DD-saude-<slug>.md`
 
 Frontmatter:
 ```
@@ -62,7 +62,7 @@ slug: <slug>
 
 **PASSO 6 — Manchete WhatsApp**
 
-Gere manchete ≤15 palavras. Salve em `[F2] memory/outputs/resumos-whatsapp/YYYY-MM-DD-saude-<slug>.md`.
+Gere manchete ≤15 palavras. Salve em `memory/outputs/resumos-whatsapp/YYYY-MM-DD-saude-<slug>.md`.
 
 **PASSO 7 — Log e exibição**
 

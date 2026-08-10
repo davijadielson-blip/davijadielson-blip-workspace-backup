@@ -21,7 +21,7 @@ Se a frente não for reconhecida ou estiver ausente, **pergunte antes de continu
 
 **PASSO 2 — Carregar briefing da frente**
 
-Leia o arquivo `[F2] memory/agents/<frente>.md` para carregar tom, regras, CTA e hashtags temáticas da frente. Se o arquivo não existir, informe e pergunte como proceder.
+Leia o arquivo `memory/agents/<frente>.md` para carregar tom, regras, CTA e hashtags temáticas da frente. Se o arquivo não existir, informe e pergunte como proceder.
 
 **PASSO 3 — Gerar slug**
 
@@ -48,7 +48,7 @@ Minúsculas, sem acento, sem espaço entre palavras compostas. Combine as hashta
 
 **PASSO 6 — Salvar a legenda**
 
-Caminho: `[F2] memory/outputs/legendas/YYYY-MM-DD-<frente>-<slug>.md`
+Caminho: `memory/outputs/legendas/YYYY-MM-DD-<frente>-<slug>.md`
 
 Frontmatter:
 ```
@@ -82,11 +82,11 @@ Crie uma manchete estilo manchete de jornal:
 - Sem emoji, sem aspas desnecessárias
 - Foco no fato ou benefício principal
 
-Salve em `[F2] memory/outputs/resumos-whatsapp/YYYY-MM-DD-<frente>-<slug>.md` com frontmatter equivalente (tipo: resumo-whatsapp).
+Salve em `memory/outputs/resumos-whatsapp/YYYY-MM-DD-<frente>-<slug>.md` com frontmatter equivalente (tipo: resumo-whatsapp).
 
 **PASSO 8 — Log**
 
-Crie `[F2] memory/logs/comandos/YYYY-MM-DD-legenda-<slug>.md`:
+Crie `memory/logs/comandos/YYYY-MM-DD-legenda-<slug>.md`:
 ```
 ---
 comando: /legenda
@@ -94,8 +94,8 @@ frente: <frente>
 slug: <slug>
 data: YYYY-MM-DD
 arquivos:
-  - [F2] memory/outputs/legendas/YYYY-MM-DD-<frente>-<slug>.md
-  - [F2] memory/outputs/resumos-whatsapp/YYYY-MM-DD-<frente>-<slug>.md
+  - memory/outputs/legendas/YYYY-MM-DD-<frente>-<slug>.md
+  - memory/outputs/resumos-whatsapp/YYYY-MM-DD-<frente>-<slug>.md
 ---
 ```
 

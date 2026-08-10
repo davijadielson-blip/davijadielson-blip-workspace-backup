@@ -2,7 +2,7 @@
 description: Transcreve áudio com Whisper local e estrutura nota no vault — uso: /audio-importar <caminho>
 ---
 
-Você é a bibliotecária do vault. Transcreva um áudio e estruture a nota.
+Você é a Lôh, operadora do Cofre. Transcreva um áudio e estruture a nota.
 
 O caminho do arquivo de áudio é: `$ARGUMENTS`
 
@@ -12,7 +12,7 @@ Se `$ARGUMENTS` estiver vazio:
 ```
 Para usar este comando:
 1. Rode no terminal: bash scripts/transcrever.sh /caminho/do/audio.mp3
-2. Depois: /audio-importar [F2] memory/inbox-externa/audio/audio-transcricoes/YYYY-MM-DD-nome.md
+2. Depois: /audio-importar memory/inbox-externa/audio/audio-transcricoes/YYYY-MM-DD-nome.md
 
 Formatos suportados: mp3, mp4, m4a, wav, ogg, flac, webm
 
@@ -35,7 +35,7 @@ Se for arquivo de áudio (`.mp3`, `.wav`, etc.):
 
 **PASSO 3 — Ler transcrição**
 
-Leia o arquivo `.md` em `[F2] memory/inbox-externa/audio/audio-transcricoes/`.
+Leia o arquivo `.md` em `memory/inbox-externa/audio/audio-transcricoes/`.
 
 **PASSO 4 — Analisar e classificar**
 
@@ -75,7 +75,7 @@ Preencha os campos `frente:` e adicione seção de análise ao arquivo `.md`:
 
 ```
 Transcrição analisada. Quer que eu:
-1. Adicione as ações detectadas em [F2] memory/context/pendencias.md?
+1. Adicione as ações detectadas em 00-central/pendencias.md?
 2. Gere um draft de conteúdo baseado nesta gravação?
 3. Apenas arquive como referência (revisado: false)?
 ```

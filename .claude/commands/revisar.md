@@ -6,11 +6,11 @@ Faça a varredura completa da fila de revisão. Siga cada passo.
 
 **PASSO 1 — Varredura**
 
-Procure recursivamente em `[F2] memory/outputs/` todos os arquivos `.md` que contenham `revisado: false` no frontmatter.
+Procure recursivamente em `memory/outputs/` todos os arquivos `.md` que contenham `revisado: false` no frontmatter.
 
 Use bash para listar:
 ```bash
-grep -rl "revisado: false" "[F2] memory/outputs/" 2>/dev/null | sort
+grep -rl "revisado: false" "memory/outputs/" 2>/dev/null | sort
 ```
 
 **PASSO 2 — Ler e catalogar**

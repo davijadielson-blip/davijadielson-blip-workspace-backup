@@ -2,7 +2,7 @@
 description: Busca no Google Drive por termo — uso: /drive-buscar <termo>
 ---
 
-Você é a bibliotecária do vault. Busque no Google Drive pelo termo informado.
+Você é a Lôh, operadora do Cofre. Busque no Google Drive pelo termo informado.
 
 O termo de busca é: `$ARGUMENTS`
 
@@ -10,7 +10,7 @@ Se `$ARGUMENTS` estiver vazio, pergunte ao usuário o que deseja buscar antes de
 
 **PASSO 1 — Buscar**
 
-Use `mcp__claude_ai_Google_Drive__search_files`:
+Use `gog drive search`:
 - query: `$ARGUMENTS`
 - pageSize: 15
 

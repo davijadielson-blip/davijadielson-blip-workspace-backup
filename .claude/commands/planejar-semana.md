@@ -19,9 +19,9 @@ Identifique também o número da semana anterior: `W(N-1)`.
 
 **PASSO 2 — Recap da semana anterior**
 
-Liste os arquivos de daily em `[F1] 3-Daily/` da semana passada (seg a sáb):
+Liste os arquivos de daily em `10-pessoal/diario/` da semana passada (seg a sáb):
 ```bash
-ls "[F1] 3-Daily/" | grep -E "YYYY-MM-DD pattern da semana anterior"
+ls "10-pessoal/diario/" | grep -E "YYYY-MM-DD pattern da semana anterior"
 ```
 
 Para cada daily encontrada, leia e extraia:
@@ -32,19 +32,19 @@ Se não houver dailies, registre: "Semana anterior sem dailies registradas."
 
 **PASSO 3 — Frentes com e sem atenção**
 
-Verifique em `[F2] memory/outputs/` os arquivos gerados na última semana (por data de criação). Liste quais frentes tiveram outputs e quais ficaram sem nenhuma produção.
+Verifique em `memory/outputs/` os arquivos gerados na última semana (por data de criação). Liste quais frentes tiveram outputs e quais ficaram sem nenhuma produção.
 
 **PASSO 4 — Datas sazonais da semana que vem**
 
-Leia os arquivos em `[F2] memory/databases/datas-sazonais/` e filtre as datas que caem entre segunda e domingo da semana que vem. Liste com frente e tipo.
+Leia os arquivos em `memory/databases/datas-sazonais/` e filtre as datas que caem entre segunda e domingo da semana que vem. Liste com frente e tipo.
 
 **PASSO 5 — Aniversariantes da SMS na semana**
 
-Leia os arquivos em `[F2] memory/databases/aniversariantes/` e filtre os que têm aniversário entre segunda e domingo da semana que vem (pelo campo `aniversario`, verificando mês e dia). Liste com nome e cargo.
+Leia os arquivos em `memory/databases/aniversariantes/` e filtre os que têm aniversário entre segunda e domingo da semana que vem (pelo campo `aniversario`, verificando mês e dia). Liste com nome e cargo.
 
 **PASSO 6 — Criar a nota semanal**
 
-Caminho: `[F1] 3-Daily/Semanais/YYYY-Www.md`
+Caminho: `10-pessoal/diario/Semanais/YYYY-Www.md`
 
 Conteúdo:
 
@@ -103,6 +103,6 @@ comando: /planejar-semana
 
 **PASSO 7 — Log**
 
-Crie `[F2] memory/logs/comandos/YYYY-MM-DD-planejar-semana.md` com referência à nota criada.
+Crie `memory/logs/comandos/YYYY-MM-DD-planejar-semana.md` com referência à nota criada.
 
 Ao finalizar, exiba o resumo das datas e aniversariantes da semana, e confirme: "Planejamento YYYY-Www criado. Preencha o foco por frente quando quiser."

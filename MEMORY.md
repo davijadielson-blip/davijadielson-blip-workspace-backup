@@ -532,7 +532,7 @@ Agentes com prompt pronto mas NÃO ativados por decisão de Jadielson:
 | @vereadores | Josi Curtinhos, Vando da Cana Brava, Manoel do Gongo | Pausa - sem atendimento no momento |
 | @alem-da-foto | Canal documental | Pausa - sem atendimento no momento |
 | @lives-louvor | Lives gospel | Pausa - sem atendimento no momento |
-| @bibliotecaria | Organização do vault | Aguardando ativação |
+| @bibliotecaria | Organização do vault | Legado arquivado em 2026-08-10; não usar como agente ativo |
 
 **Decisão registrada em:** `[F2] memory/context/decisoes/2026-06.md`
 

@@ -2,7 +2,7 @@
 description: Cruza Calendar com Gmail — detecta convites, follow-ups e ações pendentes
 ---
 
-Você é a bibliotecária do vault. Cruze o que está no Calendar com o que está no Gmail para identificar ações pendentes.
+Você é a Lôh, operadora do Cofre. Cruze o que está no Calendar com o que está no Gmail para identificar ações pendentes.
 
 **PASSO 1 — Buscar eventos dos próximos 3 dias**
 
@@ -10,7 +10,7 @@ Você é a bibliotecária do vault. Cruze o que está no Calendar com o que est�
 date +"%Y-%m-%dT00:00:00-03:00"
 ```
 
-Use `mcp__claude_ai_Google_Calendar__list_events`:
+Use `gog calendar events list`:
 - startTime: hoje 00:00-03:00
 - endTime: hoje + 3 dias 23:59-03:00
 - timeZone: America/Maceio
@@ -20,7 +20,7 @@ Use `mcp__claude_ai_Google_Calendar__list_events`:
 
 Para cada evento com título relevante (reunião, entrega, sessão, gravação), busque no Gmail:
 
-Use `mcp__claude_ai_Gmail__search_threads`:
+Use `gog gmail search`:
 - query: `"[palavras do título do evento]" is:inbox`
 - maxResults: 5
 

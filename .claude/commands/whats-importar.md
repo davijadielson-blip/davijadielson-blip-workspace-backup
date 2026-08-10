@@ -2,11 +2,11 @@
 description: Processa exportação .txt do WhatsApp e estrutura por frente
 ---
 
-Você é a bibliotecária do vault. Processe uma exportação do WhatsApp.
+Você é a Lôh, operadora do Cofre. Processe uma exportação do WhatsApp.
 
 **Como exportar do WhatsApp:**
 - Abra o grupo/conversa → ⋮ → Mais → Exportar conversa → Sem mídia
-- O arquivo `.txt` aparece no compartilhamento — salve em `[F2] memory/inbox-externa/whatsapp/whatsapp-raw/`
+- O arquivo `.txt` aparece no compartilhamento — salve em `memory/inbox-externa/whatsapp/whatsapp-raw/`
 
 O arquivo ou texto a processar é: `$ARGUMENTS`
 
@@ -19,7 +19,7 @@ Se `$ARGUMENTS` estiver vazio:
 - Peça ao usuário que cole o texto exportado ou informe o caminho do arquivo:
   ```
   Cole o texto exportado do WhatsApp, ou informe o caminho do arquivo .txt:
-  (ex: [F2] memory/inbox-externa/whatsapp/whatsapp-raw/grupo-camara.txt)
+  (ex: memory/inbox-externa/whatsapp/whatsapp-raw/grupo-camara.txt)
   ```
 
 **PASSO 2 — Identificar o grupo/conversa**
@@ -49,7 +49,7 @@ Filtre e organize:
 
 **PASSO 5 — Gerar nota processada**
 
-Salve em `[F2] memory/inbox-externa/whatsapp/processados/YYYY-MM-DD-[grupo-slug].md`:
+Salve em `memory/inbox-externa/whatsapp/processados/YYYY-MM-DD-[grupo-slug].md`:
 
 ```yaml
 ---
@@ -90,7 +90,7 @@ revisado: false
 ```
 WhatsApp processado — [X] ações detectadas.
 Quer que eu:
-1. Adicione as ações em [F2] memory/context/pendencias.md?
+1. Adicione as ações em 00-central/pendencias.md?
 2. Gere draft de algum conteúdo solicitado?
 3. Apenas arquive como referência?
 ```

@@ -1,5 +1,5 @@
 ---
-description: Registra ideia diretamente na frente correta em [F1] 5-Frentes/<frente>/Ideias/
+description: Registra ideia diretamente na frente correta em 50-clientes/<frente>/Ideias/
 argument-hint: <frente> <texto da ideia>
 ---
 
@@ -17,15 +17,15 @@ Separe:
 - `<ideia>` = tudo que veio depois
 
 Mapeamento de frente para pasta:
-- `logika` → `[F1] 5-Frentes/Logika-Creative/Ideias/`
-- `saude` → `[F1] 5-Frentes/Saude-Sao-Sebastiao/Ideias/`
-- `camara` → `[F1] 5-Frentes/Camara-Municipal/Ideias/`
-- `sindss` → `[F1] 5-Frentes/SINDSS/Ideias/`
-- `rogerio` → `[F1] 5-Frentes/Inativos/Rogerio-Rocha/Ideias/`
-- `alem-da-foto` → `[F1] 5-Frentes/Alem-da-Foto/Ideias/`
-- `lives` → `[F1] 5-Frentes/Lives-Louvor-Reflexao/Ideias/`
-- `outros` → `[F1] 5-Frentes/Outros-Vereadores/Ideias/`
-- `pessoal` → `[F1] 4-Pessoal/`
+- `logika` → `20-profissional/10-logika/Ideias/`
+- `saude` → `50-clientes/10-saude-sao-sebastiao/Ideias/`
+- `camara` → `50-clientes/20-camara-municipal/Ideias/`
+- `sindss` → `50-clientes/30-sindss/Ideias/`
+- `rogerio` → `50-clientes/40-outros-vereadores/rogerio-rocha/Ideias/`
+- `alem-da-foto` → `50-clientes/50-outros-clientes/20-fontes/alem-da-foto/Ideias/`
+- `lives` → `40-projetos/30-projetos-autorais/lives-louvor-reflexao/Ideias/`
+- `outros` → `50-clientes/40-outros-vereadores/Ideias/`
+- `pessoal` → `10-pessoal/`
 
 Se a frente não for reconhecida, pergunte antes de continuar.
 
@@ -39,7 +39,7 @@ Slug: 3 a 5 palavras da ideia em kebab-case, sem acento, minúsculas.
 
 **PASSO 3 — Criar o arquivo**
 
-Caminho: `[F1] 5-Frentes/<pasta-da-frente>/YYYY-MM-DD-<slug>.md`
+Caminho: `50-clientes/<pasta-da-frente>/YYYY-MM-DD-<slug>.md`
 
 Conteúdo:
 ```

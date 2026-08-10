@@ -20,7 +20,7 @@ Converta o número para o nome do mês em português.
 
 **PASSO 2 — Varrer aniversariantes**
 
-Leia todos os arquivos em `[F2] memory/databases/aniversariantes/`.
+Leia todos os arquivos em `memory/databases/aniversariantes/`.
 
 Para cada arquivo, extraia: `nome`, `aniversario`, `cargo`, `frente`.
 

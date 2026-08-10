@@ -14,7 +14,7 @@ Captura rápida. Sem perguntas, sem ritual, sem reformulação.
 date +"%Y-%m-%d|%H:%M"
 ```
 
-2. Localize `[F1] 3-Daily/YYYY-MM-DD.md`.
+2. Localize `10-pessoal/diario/YYYY-MM-DD.md`.
    - Se não existir: crie um arquivo mínimo com frontmatter básico e as seções `## 📝 Captura` e `## 🌙 Revisão (17h–18h)` vazias.
 
 3. Encontre a seção `## 📝 Captura` no arquivo.

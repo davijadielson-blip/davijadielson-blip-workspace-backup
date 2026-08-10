@@ -11,7 +11,7 @@ Gere um post para o Instagram da Lógika Creative. Siga cada passo.
 
 **PASSO 1 — Carregar agente**
 
-Leia `[F2] memory/agents/logika.md` para carregar regras de tom, CTA e hashtags base.
+Leia `memory/agents/logika.md` para carregar regras de tom, CTA e hashtags base.
 
 **PASSO 2 — Extrair contexto**
 
@@ -41,7 +41,7 @@ Minúsculas, sem acento. Combine as hashtags base do agente com tags específica
 
 Slug: 3–5 palavras sobre o conteúdo em kebab-case.
 
-Caminho: `[F2] memory/outputs/legendas/YYYY-MM-DD-logika-<slug>.md`
+Caminho: `memory/outputs/legendas/YYYY-MM-DD-logika-<slug>.md`
 
 Frontmatter:
 ```
@@ -58,7 +58,7 @@ slug: <slug>
 
 **PASSO 6 — Manchete WhatsApp**
 
-Gere manchete ≤15 palavras. Salve em `[F2] memory/outputs/resumos-whatsapp/YYYY-MM-DD-logika-<slug>.md`.
+Gere manchete ≤15 palavras. Salve em `memory/outputs/resumos-whatsapp/YYYY-MM-DD-logika-<slug>.md`.
 
 **PASSO 7 — Log e exibição**
 

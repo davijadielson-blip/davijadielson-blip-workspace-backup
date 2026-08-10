@@ -11,7 +11,7 @@ Gere um roteiro de vídeo para o vereador Rogério Rocha. Siga cada passo.
 
 **PASSO 1 — Carregar agente**
 
-Leia `[F2] memory/agents/rogerio.md` para carregar tom, regras e a restrição crítica sobre eleição.
+Leia `memory/agents/rogerio.md` para carregar tom, regras e a restrição crítica sobre eleição.
 
 **PASSO 2 — Gerar slug**
 
@@ -60,7 +60,7 @@ Estrutura obrigatória em 5 atos, sempre em **1ª pessoa**, tom acolhedor e insp
 
 **PASSO 4 — Salvar**
 
-Caminho: `[F2] memory/outputs/roteiros/YYYY-MM-DD-rogerio-<slug>.md`
+Caminho: `memory/outputs/roteiros/YYYY-MM-DD-rogerio-<slug>.md`
 
 Frontmatter:
 ```
@@ -78,7 +78,7 @@ tema: $ARGUMENTS
 
 **PASSO 5 — Log**
 
-Crie `[F2] memory/logs/comandos/YYYY-MM-DD-roteiro-rogerio-<slug>.md` com referência ao arquivo gerado.
+Crie `memory/logs/comandos/YYYY-MM-DD-roteiro-rogerio-<slug>.md` com referência ao arquivo gerado.
 
 **PASSO 6 — Exibir e perguntar**
 

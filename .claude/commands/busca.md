@@ -17,14 +17,14 @@ Busque o termo em todo o vault usando grep recursivo:
 
 ```bash
 grep -ril "$ARGUMENTS" \
-  "[F1] 1-Permanentes/" \
-  "[F1] 2-Literatura/" \
-  "[F1] 3-Daily/" \
-  "[F1] 4-Pessoal/" \
-  "[F1] 5-Frentes/" \
-  "[F2] memory/outputs/" \
-  "[F2] memory/agents/" \
-  "[F2] memory/databases/" \
+  "00-central/notas-permanentes/" \
+  "30-estudos/" \
+  "10-pessoal/diario/" \
+  "10-pessoal/" \
+  "50-clientes/" \
+  "memory/outputs/" \
+  "memory/agents/" \
+  "memory/databases/" \
   2>/dev/null | sort
 ```
 
@@ -35,8 +35,8 @@ Para cada arquivo encontrado, classifique:
 - **Camada 1 — Notas permanentes:** arquivos em `1-Permanentes/`
 - **Camada 2 — Literatura:** arquivos em `2-Literatura/`
 - **Camada 3 — Daily/Pessoal/Frentes:** arquivos em `3-Daily/`, `4-Pessoal/`, `5-Frentes/`
-- **Camada 4 — Outputs da IA:** arquivos em `[F2] memory/outputs/`
-- **Contexto operacional:** arquivos em `[F2] memory/agents/` ou `databases/`
+- **Camada 4 — Outputs da IA:** arquivos em `memory/outputs/`
+- **Contexto operacional:** arquivos em `memory/agents/` ou `databases/`
 
 **PASSO 3 — Ler contexto de cada resultado**
 

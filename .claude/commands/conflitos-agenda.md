@@ -2,7 +2,7 @@
 description: Detecta conflitos de agenda e sobreposições — uso: /conflitos-agenda [dias]
 ---
 
-Você é a bibliotecária do vault. Detecte conflitos e sobreposições na agenda.
+Você é a Lôh, operadora do Cofre. Detecte conflitos e sobreposições na agenda.
 
 O argumento passado é o número de dias à frente: `$ARGUMENTS` (padrão: 7 se vazio).
 
@@ -16,7 +16,7 @@ N = `$ARGUMENTS` ou 7 se vazio.
 
 **PASSO 2 — Buscar eventos**
 
-Use `mcp__claude_ai_Google_Calendar__list_events`:
+Use `gog calendar events list`:
 - startTime: hoje 00:00-03:00
 - endTime: hoje + N dias 23:59-03:00
 - timeZone: America/Maceio

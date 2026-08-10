@@ -22,9 +22,9 @@ Com o resultado:
 
 **PASSO 2 — Eventos do Google Calendar de hoje**
 
-Leia primeiro `[F2] memory/databases/regras-classificacao-agenda.md` para ter os ícones de cada frente.
+Leia primeiro `memory/databases/regras-classificacao-agenda.md` para ter os ícones de cada frente.
 
-Use `mcp__claude_ai_Google_Calendar__list_events`:
+Use `gog calendar events list`:
 - `startTime`: YYYY-MM-DDT00:00:00-03:00 (data de hoje)
 - `endTime`: YYYY-MM-DDT23:59:59-03:00
 - `orderBy`: startTime
@@ -46,7 +46,7 @@ Se não houver nada além da rotina: escreva `*(agenda livre — apenas rotina f
 Execute via bash para buscar aniversariantes de hoje:
 ```bash
 TODAY_MMDD=$(date +"%m-%d")
-grep -rl "${TODAY_MMDD}$" "[F2] memory/databases/aniversariantes/" 2>/dev/null
+grep -rl "${TODAY_MMDD}$" "memory/databases/aniversariantes/" 2>/dev/null
 ```
 Para cada arquivo encontrado, leia `nome` e `cargo`.
 
@@ -54,11 +54,11 @@ Para datas sazonais dos próximos 3 dias:
 ```bash
 for i in 0 1 2 3; do date -v+${i}d +"%Y-%m-%d"; done
 ```
-Grep cada data em `[F2] memory/databases/datas-sazonais/` e extraia `descricao` e `frente`.
+Grep cada data em `memory/databases/datas-sazonais/` e extraia `descricao` e `frente`.
 
 **PASSO 4 — Verifique se a daily já existe**
 
-Caminho: `[F1] 3-Daily/YYYY-MM-DD.md`
+Caminho: `10-pessoal/diario/YYYY-MM-DD.md`
 
 **PASSO 5a — Se NÃO existir, crie com este conteúdo:**
 
@@ -125,7 +125,7 @@ Leia e exiba o conteúdo atual. Informe: "Daily de hoje já existe." Pergunte se
 
 **PASSO 6 — Registre o log**
 
-Crie `[F2] memory/logs/comandos/YYYY-MM-DD-hoje.md`:
+Crie `memory/logs/comandos/YYYY-MM-DD-hoje.md`:
 ```
 ---
 comando: /hoje

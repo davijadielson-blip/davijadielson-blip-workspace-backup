@@ -20,7 +20,7 @@ Intervalo: de hoje até hoje + N dias (N = argumento ou 30).
 
 **PASSO 2 — Varrer o banco de datas**
 
-Leia todos os arquivos `.md` em `[F2] memory/databases/datas-sazonais/` (recursivo, incluindo subpastas).
+Leia todos os arquivos `.md` em `memory/databases/datas-sazonais/` (recursivo, incluindo subpastas).
 
 Para cada arquivo, extraia do frontmatter: `data`, `descricao`, `frente`, `tipo`, `observacao`.
 

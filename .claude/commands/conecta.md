@@ -22,8 +22,8 @@ Se algum estiver faltando, pergunte antes de continuar.
 
 Execute grep para cada tema no vault (mesmas pastas do `/busca`):
 ```bash
-grep -ril "<tema-A>" "[F1]" "memory" 2>/dev/null
-grep -ril "<tema-B>" "[F1]" "memory" 2>/dev/null
+grep -ril "<tema-A>" "00-central" "10-pessoal" "20-profissional" "30-estudos" "40-projetos" "50-clientes" "memory" 2>/dev/null
+grep -ril "<tema-B>" "00-central" "10-pessoal" "20-profissional" "30-estudos" "40-projetos" "50-clientes" "memory" 2>/dev/null
 ```
 
 **PASSO 3 — Identificar interseções**
@@ -68,4 +68,4 @@ Gere um esqueleto de nota para Jadielson escrever. Não preencha o conteúdo —
 
 **PASSO 6 — Orientar**
 
-Diga: "Esse esqueleto é pra você. Quando quiser transformar em nota permanente, salve em `[F1] 1-Permanentes/`. Posso ajudar a afinar a estrutura, mas o pensamento é seu."
+Diga: "Esse esqueleto é pra você. Quando quiser transformar em nota permanente, salve em `00-central/notas-permanentes/`. Posso ajudar a afinar a estrutura, mas o pensamento é seu."

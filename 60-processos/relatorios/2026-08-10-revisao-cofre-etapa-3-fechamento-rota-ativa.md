@@ -118,6 +118,32 @@ Motivo: impedir que bases legadas sejam lidas como rota operacional atual.
 
 Fazer uma etapa pequena, por frente, para limpar apenas arquivos ativos de estudos/projetos que ainda tenham rotas antigas fora de contexto historico. Nao fazer migracao em massa sem prioridade de uso.
 
+## Complemento apos revisao de pendencias
+
+Pedido posterior de Jadielson: nao deixar como pendencia aquilo que pudesse ser resolvido com seguranca em 2026-08-10.
+
+Resolvido no complemento:
+
+- Arquivados os perfis antigos `bibliotecaria` de `.claude/agents/` e `.codex/agents/` em `90-arquivo/30-regras-obsoletas/2026-08-10-agente-bibliotecaria-legado/`.
+- Criado `90-arquivo/30-regras-obsoletas/2026-08-10-agente-bibliotecaria-legado/README.md` com origem, destino, motivo e dependencias verificadas.
+- Criado `50-clientes/10-saude-sao-sebastiao/10-contexto/operacional/03-fichas-setores/README.md`, separando `fichas-operacionais/` e `servicos-e-competencias/` como rota ativa, `ideias-de-conteudo/` e `lacunas-a-confirmar/` como apoio editorial, e `fontes-f1-incorporadas/`/`conteudo-f1-incorporado/` como rastreabilidade.
+- Normalizados comandos e perfis ativos em `.claude/commands/`, `.claude/agents/` e `.codex/agents/`: removida persona "bibliotecaria", substituidas rotas `[F2] memory/` por `memory/`, trocadas referencias antigas de MCP Google por `gog` e corrigidas rotas `[F1]`/`[F0]` que ainda orientavam salvamento ou busca.
+- Atualizado `00-central/pendencias.md` para manter somente pendencias com risco real, dependencia ativa nao confirmada ou necessidade de decisao humana.
+
+Pendencias removidas por resolucao segura:
+
+- Destino formal do agente `bibliotecaria` legado.
+- Separacao navegacional das duplicidades internas de fichas da Saude.
+- Politica generica de arquivos nao Markdown dentro do Cofre.
+- Referencias operacionais antigas em comandos e perfis ativos `.claude/` e `.codex/`.
+
+Pendencias mantidas por risco real:
+
+- Estados runtime nao rastreados em `70-agentes/runtime/*/openclaw-workspace-state.json`.
+- `openclaw-workspace-state.json` da raiz, por ja estar versionado e poder ter relacao com setup.
+- Midias/anexos locais em `media/inbound/`, por envolverem material sensivel e politica de Drive por frente.
+- Curadoria final de rascunhos/aprovados, por exigir validacao editorial ou leitura caso a caso.
+
 ## Validacao
 
 - `git status`: executado.

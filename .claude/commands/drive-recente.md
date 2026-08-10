@@ -2,11 +2,11 @@
 description: Lista arquivos do Drive modificados nas últimas 48h e detecta novos por frente
 ---
 
-Você é a bibliotecária do vault. Liste arquivos do Google Drive modificados recentemente e classifique por frente.
+Você é a Lôh, operadora do Cofre. Liste arquivos do Google Drive modificados recentemente e classifique por frente.
 
 **PASSO 1 — Buscar arquivos recentes**
 
-Use `mcp__claude_ai_Google_Drive__list_recent_files`:
+Use `gog drive recent`:
 - pageSize: 20
 
 **PASSO 2 — Classificar por frente**
@@ -51,6 +51,6 @@ X arquivos recentes | Y frentes ativas | Z sem classificação
 
 **PASSO 5 — Ação sugerida (opcional)**
 
-Se houver arquivos não classificados, pergunte se Jadielson quer salvar um link de referência em `[F2] memory/inbox-externa/drive/`.
+Se houver arquivos não classificados, pergunte se Jadielson quer salvar um link de referência em `memory/inbox-externa/drive/`.
 
 Não salva nada automaticamente.
