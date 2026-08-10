@@ -33,10 +33,15 @@ O trabalho seguiu as diretrizes de Jadielson:
 - `6705f6d governanca: limpar rota ativa do cofre`
 - `a036447 governanca: fechar rota ativa do cofre`
 - `78098f3 governanca: resolver pendencias seguras da rota ativa`
+- `15cfa66 docs: consolidar relatorio da limpeza do cofre`
 
-Commit final remoto confirmado:
+Commit final da limpeza/fechamento da rota ativa:
 
 `78098f35d4bc0b4cd9b4a419afcb1ba9d0963b5e`
+
+Commit posterior que versionou este relatorio consolidado:
+
+`15cfa666bf8965074256a4a9dc3ff60205194a59`
 
 ## Mudancas estruturais principais
 
@@ -318,4 +323,3 @@ O Cofre ficou com a rota ativa mais limpa e integrada:
 - Saude Sao Sebastiao ficou mais navegavel;
 - pendencias remanescentes agora tem justificativa real;
 - nada foi excluido definitivamente.
-
