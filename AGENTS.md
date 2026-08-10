@@ -6,7 +6,7 @@ setor: operações agentivas e governança
 cliente: Jadielson Davi
 tipo: regras operacionais
 prioridade: máxima
-atualizado_em: 2026-08-09
+atualizado_em: 2026-08-10
 usar_quando: toda sessão — ler antes de qualquer ação para saber como operar, o que é proibido e como se comportar
 nao_usar_quando: identidade do agente (SOUL.md) ou constituição/leis maiores (CONSTITUICAO.md)
 ---
@@ -45,6 +45,18 @@ Agentes e subagentes **não dependem** dele para operar. Devem carregar identida
    - pasta;
    - trecho/resumo encontrado.
 6. **Se você responder sem consultar o workspace quando deveria, considere isso uma falha operacional.** Proponha o registro da lição em arquivo canônico e só grave com autorização explícita de Jadielson.
+
+### Hierarquia de autoridade em conflito operacional
+
+Quando houver conflito entre regras operacionais ativas, priorize nesta ordem:
+
+1. `CONSTITUICAO.md`
+2. `AGENTS.md`
+3. `MAPA.md`
+4. `00-central/decisoes.md`
+5. `00-central/mapa-do-cofre.md`
+
+`MEMORY.md` é memória de apoio e contexto; não deve superar regra canônica ativa. Em grupos ou contextos compartilhados, consulte memória com cuidado e não exponha conteúdo sensível indevido.
 
 ### Como consultar o Cofre na prática
 
@@ -93,6 +105,7 @@ nao_usar_quando: <quando NÃO consultar este arquivo>
 **Campos mínimos obrigatórios:** `tema`, `atualizado_em`.
 **Campos recomendados:** `conteudo`, `tipo`, `prioridade`, `usar_quando`.
 **Para arquivos importantes:** preencher todos os 10 campos padrão.
+**Ao responder sobre salvamento ou roteamento no Cofre, lembrar explicitamente que todo `.md` criado, editado ou padronizado deve ter YAML frontmatter.**
 
 > ⚠️ Falhar em adicionar YAML em um novo .md é falha operacional.
 > Se eu editar um arquivo e ele estiver sem YAML, devo ADICIONAR o cabeçalho.
@@ -169,6 +182,7 @@ Esta regra vale para todos os agentes, subagentes e tópicos:
 
 - Consulte o Cofre (`/data/.openclaw/workspace/`) antes de responder qualquer demanda contextual, operacional, estratégica ou informacional.
 - Siga sempre o mapa geral (`AGENTS.md`, `MAPA.md`, `00-central/` a `90-arquivo/`, `memory/`, `scripts/`, `skills/`) para decidir onde salvar.
+- Ao orientar salvamento, roteamento, criação, edição ou padronização de `.md`, mencione e aplique YAML frontmatter obrigatório.
 - Se a busca semântica falhar, faça fallback por leitura direta, `find` e `grep`; falha de embeddings não autoriza resposta genérica.
 - Quando precisar de informação externa/atualizada, use Tavily/Pesquisador como principal fonte externa antes de navegador/web genérica.
 - Toda resposta analítica/operacional deve trazer rodapé curto de fonte.

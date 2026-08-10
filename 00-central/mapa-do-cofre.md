@@ -21,7 +21,20 @@ Agentes podem criar/editar arquivos quando a tarefa exigir, mas devem:
 2. não apagar arquivos;
 3. não expor segredos;
 4. separar rascunho de decisão;
-5. registrar decisões e pendências nos lugares centrais.
+5. registrar decisões e pendências nos lugares centrais;
+6. usar YAML frontmatter em todo `.md` criado, editado ou padronizado.
+
+## Hierarquia de autoridade
+
+Em conflito de regra operacional, a prioridade e:
+
+1. `CONSTITUICAO.md`
+2. `AGENTS.md`
+3. `MAPA.md`
+4. `00-central/decisoes.md`
+5. `00-central/mapa-do-cofre.md`
+
+`MEMORY.md` serve como memoria de apoio/contexto e nao substitui regra canonica ativa. Em grupos ou contextos compartilhados, memoria deve ser consultada com cuidado para evitar exposicao indevida de conteudo sensivel.
 
 ## Estrutura-alvo
 
@@ -90,6 +103,8 @@ Acesso não é definido por “pode escrever/não pode escrever”, e sim por **
 | Cliente/frente externa | `50-clientes/` |
 | Checklist/template/processo | `60-processos/` |
 | Legado/duplicado/antigo | `90-arquivo/` somente após aprovação quando envolver mover arquivo |
+
+Toda resposta que orientar salvamento ou roteamento deve lembrar que arquivos `.md` criados, editados ou padronizados precisam de YAML frontmatter.
 
 ## Subpastas-base criadas
 

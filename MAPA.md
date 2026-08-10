@@ -32,11 +32,24 @@ Antes de qualquer resposta contextual, operacional, estratégica ou informaciona
 
 > Falha em consultar o Cofre é falha operacional. Proponha registro da lição em arquivo canônico e só grave com autorização explícita.
 
+### Hierarquia de autoridade
+
+Em conflito de regra operacional, seguir esta ordem:
+
+1. `CONSTITUICAO.md`
+2. `AGENTS.md`
+3. `MAPA.md`
+4. `00-central/decisoes.md`
+5. `00-central/mapa-do-cofre.md`
+
+`MEMORY.md` apoia contexto e histórico, mas não substitui regra canônica ativa. Em grupos ou contextos compartilhados, consultar memória com cautela e não expor conteúdo sensível indevido.
+
 ### 💾 Salvamento pertinente
 
 Reação **👍** ou **❤️**, figurinha coerente de aprovação/uso, ou respostas como **"obrigado"**, **"obg"**, **"muito bom"**, **"vou usar"** e equivalentes autorizam salvar no Cofre o que for pertinente para continuidade, sem pedir nova confirmação.
 
 Somente Markdown (`.md`) vai para o Cofre. Demais arquivos vão para o Drive ou armazenamento externo aprovado, com referência em `.md` quando necessário.
+Todo `.md` criado, editado ou padronizado deve ter YAML frontmatter. Respostas sobre salvamento ou roteamento devem lembrar explicitamente essa regra.
 
 ---
 
