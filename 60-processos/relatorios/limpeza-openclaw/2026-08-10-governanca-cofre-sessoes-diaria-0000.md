@@ -69,7 +69,9 @@ Pendencia conservadora: manter monitoramento das sessoes longas e dos anexos de 
 - Hash local antes do relatorio: `8ef74976f7bfc9d357022d9766e8cb5cd6e112c1`.
 - Hash remoto antes do relatorio: `8ef74976f7bfc9d357022d9766e8cb5cd6e112c1`.
 - Worktree inicial: limpo.
-- Acao planejada: commit/push seletivo somente deste relatorio, se a validacao final de diff e segredos permanecer limpa.
+- Acao concluida: commit/push seletivo realizado somente deste relatorio apos validacao final de diff e segredos.
+- Hash remoto confirmado apos push: `eb59f3ed8f58e398aa0dad1cf06da8ab63a7ea88`.
+- Nao houve remocao, quarentena nem limpeza destrutiva nesta rotina.
 
 ## Limpeza e quarentena
 
