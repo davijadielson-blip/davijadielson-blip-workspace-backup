@@ -6,7 +6,7 @@ setor: clientes e governança do Cofre
 cliente: Saúde São Sebastião
 tipo: registro de migração
 prioridade: alta
-atualizado_em: 2026-07-26
+atualizado_em: 2026-08-10
 usar_quando: auditar origem ou desfazer movimentação desta pasta
 nao_usar_quando: consultar conteúdo operacional da frente
 ---
@@ -19,5 +19,6 @@ nao_usar_quando: consultar conteúdo operacional da frente
 - Arquivos movidos: 279
 - Snapshot: `90-arquivo/50-backups-snapshots/lote5-saude-before-20260726T032915Z.md`
 
-## Como desfazer
-Mover esta pasta de volta para `[F1] 5-Frentes/Saude-Sao-Sebastiao`.
+## Observacao
+
+O caminho de origem antigo foi preservado apenas para rastreabilidade. Nao mover esta pasta de volta para a estrutura antiga sem decisao humana e auditoria de dependencias.

@@ -1,6 +1,13 @@
 ---
-tema: README
-atualizado_em: 2026-07-22
+tema: índice do IA Radar
+conteudo: propósito, estrutura atual, rotina e regras da curadoria de IA Radar
+setor: estudos e tecnologia
+cliente: Jadielson Davi
+tipo: índice de estudo
+prioridade: alta
+atualizado_em: 2026-08-10
+usar_quando: operar o tópico IA Radar e localizar varreduras, ferramentas, links e deep dives
+nao_usar_quando: salvar materiais brutos; use Google Drive para binários e esta pasta apenas para Markdown
 ---
 
 # 🧠 IA RADAR — Farol de Novidades em Inteligência Artificial
@@ -26,7 +33,7 @@ Estar sempre por dentro das novidades de IA que podem agregar recursos aos traba
 ## 📂 Estrutura do Cofre
 
 ```
-[F1] ESTUDOS/IA RADAR/
+30-estudos/ia-radar/
 ├── _README.md           ← Este arquivo — visão geral
 ├── 00-cockpit.md        ← Painel de status e histórico
 ├── 01-varreduras/       ← Relatórios semanais de varredura

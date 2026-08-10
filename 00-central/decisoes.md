@@ -13,6 +13,15 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 
 # Decisões estruturais do Cofre
 
+## 2026-08-10 — Revisao etapa 3: fechamento da rota ativa
+- **Status:** implementado como fechamento conservador, sem exclusao definitiva.
+- **Origem:** pedido direto de Jadielson para concluir hoje a limpeza e consolidacao do Cofre como mega sistema operacional claro.
+- **Decisao:** materiais didaticos antigos do Starter Kit/OpenClaw nao ficam mais na raiz ativa quando puderem confundir agentes. Foram preservados em `90-arquivo/30-regras-obsoletas/2026-08-10-starter-kit-raiz/`.
+- **Decisao:** `COCKPIT.md` antigo saiu da raiz ativa por usar rotas antigas e foi preservado em `90-arquivo/30-regras-obsoletas/2026-08-10-dashboards-raiz-obsoletos/`.
+- **Decisao:** `memory/2026-08-10.md` nao deve permanecer como daily note nova na raiz de `memory/`; o conteudo foi movido para `memory/sessions/2026/2026-08-10-contexto-inicial-revisao-cofre.md`.
+- **Saude:** bases antigas de Saúde, Câmara, SINDSS e Outros Vereadores receberam README/avisos de fonte legada. A rota atual da Saúde passou a apontar explicitamente para `50-clientes/10-saude-sao-sebastiao/README.md`, `fontes.md` e `10-contexto/operacional/README.md`.
+- **Limite aplicado:** estados runtime nao rastreados em `70-agentes/runtime/*/openclaw-workspace-state.json` permaneceram fora do commit por risco tecnico/sensivel.
+
 ## 2026-08-10 — Revisão etapa 2: limpeza conservadora da rota ativa
 - **Status:** implementado em lote conservador, sem exclusão definitiva.
 - **Origem:** pedido direto de Jadielson para deixar o Cofre mais limpo, claro e menos contraditório.

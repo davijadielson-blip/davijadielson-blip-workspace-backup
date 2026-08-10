@@ -6,9 +6,9 @@ setor: clientes e frentes externas
 cliente: Outros Vereadores
 tipo: registro de migração
 prioridade: alta
-atualizado_em: 2026-07-26
-usar_quando: executar demandas da frente Outros Vereadores com contexto organizado
-nao_usar_quando: substituir fontes originais; sempre citar fonte consultada
+atualizado_em: 2026-08-10
+usar_quando: auditar origem ou reversibilidade historica da pasta migrada
+nao_usar_quando: executar demandas atuais da frente Outros Vereadores
 ---
 
 # Origem da migração
@@ -19,5 +19,6 @@ nao_usar_quando: substituir fontes originais; sempre citar fonte consultada
 - Arquivos movidos: 1
 - Snapshot: `90-arquivo/50-backups-snapshots/lote8-40-outros-vereadores-before-20260726T035522Z.md`
 
-## Como desfazer
-Mover esta pasta de volta para `[F1] 5-Frentes/Outros-Vereadores`.
+## Observacao
+
+O caminho de origem antigo foi preservado apenas para rastreabilidade. Nao mover esta pasta de volta para a estrutura antiga sem decisao humana e auditoria de dependencias.

@@ -60,6 +60,12 @@ Quando um arquivo ativo estiver obsoleto, duplicado, contraditório ou irrelevan
 
 Toda movimentação deve registrar origem, destino, motivo e dependências verificadas em relatório do lote.
 
+## Raiz do Cofre
+
+A raiz deve ficar reservada a arquivos canônicos do ecossistema (`AGENTS.md`, `CONSTITUICAO.md`, `MAPA.md`, `MEMORY.md`, `SOUL.md`, `USER.md`, `HEARTBEAT.md`, `PIN.md`, `TOOLS.md` e arquivos técnicos realmente usados pelo runtime).
+
+Materiais didáticos do Starter Kit/OpenClaw que não orientam mais a operação atual foram preservados fora da rota ativa em `90-arquivo/30-regras-obsoletas/2026-08-10-starter-kit-raiz/`.
+
 ## Regra de acesso
 Acesso não é definido por “pode escrever/não pode escrever”, e sim por **necessidade operacional**:
 - agente recebe o mínimo de contexto necessário;

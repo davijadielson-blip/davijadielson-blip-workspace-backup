@@ -1,6 +1,13 @@
 ---
-tema: MAPA
-atualizado_em: 2026-07-22
+tema: mapa da Comunidade 1P
+conteudo: estrutura, regra de uso e rotas atuais da pasta de estudos Comunidade 1P
+setor: estudos e comunidade
+cliente: Jadielson Davi
+tipo: mapa de estudo
+prioridade: alta
+atualizado_em: 2026-08-10
+usar_quando: operar o tópico ESTUDOS / COMUNIDADE 1P
+nao_usar_quando: registrar decisões centrais do Cofre; use 00-central/decisoes.md
 ---
 
 # COMUNIDADE 1P — Mapa da pasta
@@ -20,6 +27,6 @@ Pasta de trabalho do tópico **ESTUDOS / COMUNIDADE 1P**.
 
 ## Regra de uso
 
-- Conteúdo criativo/manual de Jadielson permanece em `[F1]`.
-- Memória operacional, logs, contexto e automações ficam em `[F2] memory/projects/estudos/comunidade-1p` ou `[F2] memory/context/estudos/comunidade-1p`.
+- Conteúdo criativo/manual de Jadielson permanece nesta pasta da estrutura atual de `30-estudos/`.
+- Memória operacional, logs, contexto e automações ficam em `memory/projects/estudos/comunidade-1p/` ou `memory/context/estudos/comunidade-1p/`, quando existirem.
 - Google Drive é espelho/apoio para anexos e compartilhamento; o Cofre continua sendo a fonte de verdade.

@@ -1,17 +1,21 @@
 ---
-tipo: moc-operacional
+tema: memoria operacional historica da Saúde São Sebastião
+conteudo: base herdada da antiga memoria operacional, preservada como fonte historica e complemento da rota atual
+tipo: memoria historica
 frente: saude-sao-sebastiao
-camada: f2-memory
-status: ativo
+camada: legado-operacional
+status: historico-consultivo
 criado_em: 2026-07-20
-regra: fonte-operacional-otimizada-para-agentes
+atualizado_em: 2026-08-10
+usar_quando: recuperar contexto historico, regras editoriais ou decisões herdadas da frente Saúde
+nao_usar_quando: decidir a rota atual da frente; use ../operacional/README.md
 ---
 
-# Saúde São Sebastião — Base Operacional Otimizada
+# Saúde São Sebastião - Memória Operacional Histórica
 
-Esta pasta é a **base F2 otimizada** da frente Saúde São Sebastião para consulta rápida de Jarvis, Lôh, agente Saúde e demais agentes.
+Esta pasta preserva a antiga base operacional otimizada da frente Saúde São Sebastião. Ela continua útil como fonte histórica e complemento de contexto, mas a rota atual dos agentes começa em `../operacional/README.md`.
 
-Ela **não substitui** a pasta original em `[F1] 5-Frentes/Saude-Sao-Sebastiao/`, que continua sendo a fonte histórica/autoral. Esta base organiza o conhecimento de forma mais clara, operacional e menos confusa para produção, pauta, atendimento e consulta.
+Os rótulos antigos de origem foram mantidos apenas em registros de migração e auditoria. Não use esses rótulos como destino de salvamento.
 
 ## Regra de ouro
 
@@ -29,15 +33,15 @@ Para comunicação pública, usar linguagem de compreensão popular:
 | PSF / equipes | **17** |
 | Observação | UBS não concorre com PSF; UBS pertence/está vinculada ao território/equipe PSF. |
 
-## Mapa desta base
+## Mapa desta base histórica
 
 - `../operacional/` — **entrada principal simplificada para agentes**: matrizes, visões gerais e fichas por setor com menos níveis de subpastas.
-- `00-moc/` — mapa geral e regras de consulta.
+- `00-moc/` — mapas e decisões antigas, consultar com cuidado.
 - `03-editorial/` — uso em pautas, pilares, linguagem e cuidados.
 - `04-auditorias/` — síntese das auditorias realizadas.
 - `99-fontes-e-regras/` — fontes F1 usadas, decisões e cautelas.
 
-## Como consultar
+## Como consultar hoje
 
 1. Para saber **onde um setor entra na pauta**, leia `../operacional/01-matrizes/matriz-setores-pilares-fontes.md`.
 2. Para saber **o que cada setor faz e compete**, leia `../operacional/01-matrizes/matriz-competencias-por-setor.md`.

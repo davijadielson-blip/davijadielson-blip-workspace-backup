@@ -53,7 +53,6 @@ Somente Markdown (`.md`) vai para o Cofre. Demais arquivos vão para o Drive ou 
 ├── MEMORY.md                ← Memória de longo prazo — decisões, protocolos, histórico
 ├── HEARTBEAT.md             ← Proatividade segura, briefing diário
 ├── MAPA.md                  ← ESTE ARQUIVO — mapa de navegação
-├── README.md                ← Starter Kit OpenClaw (material do curso, não operacional)
 │
 ├── 00-central/              ← Governança, regras, decisões, mapas, pendências, notas centrais
 ├── 10-pessoal/              ← Vida pessoal, rotina, saúde, família, inbox e tarefas pessoais
@@ -105,7 +104,7 @@ Jadielson permanece como autoridade final sobre sentido, prioridade, publicaçã
 | **Frentes de trabalho ativas** | `20-profissional/`, `50-clientes/`, `40-projetos/` | área correspondente |
 | **Contexto operacional de frente** | `memory/agents/[frente].md` | `memory/agents/[frente].md` |
 | **Legendas, roteiros, briefings** | `memory/outputs/` | `memory/outputs/` |
-| **Log de sessão** | `memory/sessions/YYYY-MM-DD.md` | `memory/sessions/YYYY-MM-DD.md` |
+| **Log de sessão** | `memory/sessions/` | `memory/sessions/` |
 | **Checklists operacionais** | `60-processos/checklists/` | `60-processos/checklists/` |
 | **Captura bruta pessoal (inbox)** | `10-pessoal/inbox/` | `10-pessoal/inbox/` |
 | **Notas centrais/permanentes** | `00-central/` | `00-central/` |
@@ -161,14 +160,15 @@ Jadielson permanece como autoridade final sobre sentido, prioridade, publicaçã
   - `90-arquivo/20-duplicidades/` — duplicidades e reaparecimentos já identificados.
   - `90-arquivo/30-regras-obsoletas/` — planos, inventários e regras superadas que não devem orientar agentes.
   - `90-arquivo/40-revisao-humana/` — itens preservados fora da rota ativa que precisam de decisão humana.
+- Materiais didáticos antigos do Starter Kit/OpenClaw que estavam na raiz foram arquivados em `90-arquivo/30-regras-obsoletas/2026-08-10-starter-kit-raiz/`; não são rota operacional do Cofre.
 
 ### `memory/` — Memória operacional ativa
 ```
 memory/
-├── YYYY-MM-DD.md           ← Diários legados (consultar se existirem; não criar automaticamente)
+├── YYYY-MM-DD.md           ← Diários legados antigos (consultar se existirem; não criar automaticamente)
 ├── context/                ← Estado atual: pendências, deadlines, negócio
 │   └── decisoes/           ← Decisões arquiteturais registradas
-├── sessions/               ← Log diário de sessões + outputs de crons
+├── sessions/               ← Logs de sessão, registros de continuidade e outputs de crons
 ├── outputs/                ← Legendas, roteiros, briefings, drafts
 ├── agents/                 ← Briefings operacionais por frente
 │   └── central-pessoal/    ← Prompts dos agentes pessoais

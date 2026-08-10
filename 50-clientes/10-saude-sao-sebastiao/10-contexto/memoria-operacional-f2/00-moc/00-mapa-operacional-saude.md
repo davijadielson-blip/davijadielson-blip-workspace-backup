@@ -1,25 +1,32 @@
 ---
-tipo: mapa-operacional
+tema: mapa historico da antiga base operacional da Saúde
+conteudo: mapa da estrutura operacional antiga, preservado como referência histórica
+tipo: mapa historico
 frente: saude-sao-sebastiao
-status: ativo
+status: historico-consultivo
+atualizado_em: 2026-08-10
+usar_quando: auditar como a antiga base operacional foi organizada
+nao_usar_quando: iniciar operação atual; use ../../operacional/README.md
 ---
 
-# Mapa Operacional — Saúde São Sebastião
+# Mapa Histórico — Saúde São Sebastião
+
+> Aviso: este arquivo pertence à base operacional antiga. Para operação atual, comece em `../../operacional/README.md`.
 
 ## Identidade da frente
 
 - Cliente/frente: Secretaria Municipal de Saúde de São Sebastião — AL.
 - Uso principal: social media institucional, pautas, roteiros, organização editorial e memória operacional.
-- Pasta histórica/autoral: `[F1] 5-Frentes/Saude-Sao-Sebastiao/`.
-- Pasta operacional consolidada: `[F2] memory/saude-sao-sebastiao/`.
+- Fonte histórica migrada: `../../../20-fontes/base-legada-f1-frente/`.
+- Rota operacional atual: `../../operacional/`.
 
 ## Camadas de conhecimento
 
 | Camada | Função | Onde consultar |
 |---|---|---|
-| Base histórica/autoral | Arquivos originais, notas e referências criadas ao longo do tempo | `[F1] 5-Frentes/Saude-Sao-Sebastiao/` |
-| Base operacional F2 | Estrutura otimizada para agentes consultarem rápido | `[F2] memory/saude-sao-sebastiao/` |
-| Entregáveis e pautas | Calendários, drafts, auditorias e materiais produzidos | `[F2] memory/outputs/saude-sao-sebastiao/` |
+| Fonte histórica | Arquivos originais, notas e referências criadas ao longo do tempo | `20-fontes/base-legada-f1-frente/` |
+| Rota operacional atual | Estrutura simplificada para agentes consultarem rápido | `10-contexto/operacional/` |
+| Entregáveis e pautas | Calendários, drafts, auditorias e materiais produzidos | `30-entregas/` |
 
 ## Números operacionais definidos
 
