@@ -13,6 +13,25 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 
 # Decisões estruturais do Cofre
 
+## 2026-08-10 — Parede d'agua do Diario pessoal
+- **Status:** aprovado por Jadielson e implementado na rota do Diario.
+- **Origem:** alinhamento direto de Jadielson no Telegram, no grupo Central Pessoal, apos criacao do topico `DIARIO`.
+- **Decisao:** relatos do Diario pessoal podem conter conteudo intimo e nao devem transitar por rotas empresariais, clientes, propostas, operacao comercial, frentes institucionais ou materiais externos.
+- **Rota ativa:** `10-pessoal/diario/registros/AAAA/MM/`.
+- **Topico Telegram:** `DIARIO`, ID `1867`, no grupo Central Pessoal.
+- **Acesso operacional permitido:** grupo pessoal Central Pessoal, estudos pessoais quando pertinente e Loh.
+- **Regra pratica:** qualquer pesquisa, estudo ou sintese futura deve preservar privacidade e manter separacao clara entre vida pessoal e empresa/clientes.
+
+## 2026-08-10 — Inbox unica ativa do Cofre
+- **Status:** implementado, sem exclusao definitiva.
+- **Origem:** alinhamento direto de Jadielson no Telegram: como ele nao acessa mais o Cofre diretamente e os agentes alimentam o sistema a partir das conversas, a estrutura deve ter mais harmonia e evitar duas inboxes ativas.
+- **Decisao:** a inbox ativa unica do Cofre passa a ser `00-central/inbox/`.
+- **Subpasta autorizada:** entradas de fontes externas, importacoes e automacoes devem usar `00-central/inbox/externa/`.
+- **Topico do Telegram:** o topico de Inbox criado no grupo (`https://t.me/c/3740871403/1854`) deve alimentar `00-central/inbox/`; nao criar rota paralela por frente, pessoa ou area.
+- **Compatibilidade:** os caminhos antigos `10-pessoal/inbox/` e `memory/inbox-externa/` foram arquivados fora da rota ativa em `90-arquivo/30-regras-obsoletas/2026-08-10-inbox-legado/` e nao devem receber conteudo novo.
+- **Movido sem exclusao:** conteudos antes em `memory/inbox-externa/` foram consolidados em `00-central/inbox/externa/`.
+- **Regra de governanca:** toda captura entra na inbox unica quando ainda nao tiver destino claro; apos triagem, deve ir para a area canonica correspondente.
+
 ## 2026-08-10 — Revisao etapa 3: fechamento da rota ativa
 - **Status:** implementado como fechamento conservador, sem exclusao definitiva.
 - **Origem:** pedido direto de Jadielson para concluir hoje a limpeza e consolidacao do Cofre como mega sistema operacional claro.
@@ -28,7 +47,7 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
 - **Origem:** pedido direto de Jadielson para deixar o Cofre mais limpo, claro e menos contraditório.
 - **Decisão:** documentos superados, inventários antigos e mapas legados não devem permanecer em `00-central/` ou na rota ativa quando puderem confundir agentes.
 - **Movidos para arquivo:** planos/inventários superados de `00-central/` foram para `90-arquivo/30-regras-obsoletas/2026-08-10-planos-e-inventarios-superados/`; itens que exigem revisão humana foram para `90-arquivo/40-revisao-humana/2026-08-10-itens-fora-da-rota-ativa/`.
-- **Atualizados na rota ativa:** `HEARTBEAT.md`, `MAPA.md`, `00-central/mapa-do-cofre.md`, `00-central/pendencias.md`, `00-central/notas-permanentes/_MAP.md`, `10-pessoal/inbox/_README.md` e `40-projetos/00-mapa.md`.
+- **Atualizados na rota ativa:** `HEARTBEAT.md`, `MAPA.md`, `00-central/mapa-do-cofre.md`, `00-central/pendencias.md`, `00-central/notas-permanentes/_MAP.md`, `00-central/inbox/_README.md` e `40-projetos/00-mapa.md`.
 - **Limite aplicado:** não mover scripts, skills, agentes, crons, runtimes ou bases de cliente com dependência provável sem revisão específica.
 - **Regra reforçada:** nenhuma exclusão definitiva; se houver dúvida, manter parado ou mover para revisão humana com origem e destino registrados.
 
@@ -203,7 +222,7 @@ nao_usar_quando: registrar ideias, hipóteses ou propostas ainda não aprovadas
   - L19: `[F2] agentes/` → `70-agentes/`
   - L20: `scripts/`, `skills/`, `ops/`, `checklists/`, `rotinas/` → `60-processos/`
   - L21: `[F2] archive/`, `archive/`, `areas/` → `90-arquivo/`
-  - L22: `[F0] 0-Inbox/` → `10-pessoal/inbox/`
+  - L22: `[F0] 0-Inbox/` → `00-central/inbox/`
   - L23: Pastas `[F0]`–`[F3]` vazias → `90-arquivo/02-estrutura-antiga/` (1.896 arquivos)
 - **Segurança:** credenciais `.secrets/` removidas do workspace, `.env` removido, não-.md movidos para quarentena.
 - **Disco:** 44 MB (excluindo .git), contra 8.4M só do [F3] PROJETOS original.

@@ -6,7 +6,7 @@ setor: clientes e frentes externas
 cliente: Câmara Municipal
 tipo: contexto de cliente
 prioridade: alta
-atualizado_em: 2026-07-26
+atualizado_em: 2026-08-14
 usar_quando: executar demandas da frente Câmara Municipal com contexto organizado
 nao_usar_quando: substituir fontes originais; sempre citar fonte consultada
 ---
@@ -24,3 +24,4 @@ Frente de comunicação/conteúdo vinculada a Câmara Municipal.
 ## Cuidados
 - Não misturar contexto com Saúde São Sebastião, SINDSS, Câmara ou outros vereadores.
 - Diferenciar referência, rascunho, produção e decisão final.
+- Em stories de sessão ordinária, manter abordagem neutra quando a pauta não estiver confirmada, pois a pauta pode variar. Evitar afirmar previamente projetos, votações, requerimentos ou deliberações específicas sem validação.

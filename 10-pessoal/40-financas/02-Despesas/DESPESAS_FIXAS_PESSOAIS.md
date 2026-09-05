@@ -28,6 +28,12 @@ atualizado_em: 2026-07-22
 | Seguro carro | R$ 95,00 | 20 | confirmar |
 | Seguro moto | R$ 50,00 | 20 | confirmar |
 
+## Lançamentos confirmados — agosto/2026
+
+| Data | Descrição | Categoria | Valor pago | Forma | Situação | Observação |
+|---|---|---|---:|---|---|---|
+| 2026-08-31 | Academia | Saúde | R$ 85,00 | Pix | pago | Comprovante Banco do Brasil; recebedor Antonio C R Silva; pagamento às 18:33:44. |
+
 ## Observação Warren
 
 Essenciais + transporte já pressionam muito a renda pessoal de R$ 3.820,00.
@@ -85,4 +91,3 @@ Fonte: print enviado no tópico My Finance. A captura mistura lançamentos de fe
 - Separar fevereiro de março antes de fechar o custo mensal real.
 - Confirmar se a prestação da moto de março ficou fora da captura ou se foi assumida por outra pessoa.
 - Internet e academia aparecem como em aberto no print.
-

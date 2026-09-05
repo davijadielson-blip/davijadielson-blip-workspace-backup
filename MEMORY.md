@@ -30,8 +30,8 @@ nao_usar_quando: operação diária (AGENTS.md) ou mapa do workspace (MAPA.md)
 
 O Cofre passou a ser orientado pela estrutura real numerada:
 
-- `00-central/` — governança, mapas, decisões, regras, pendências e notas centrais
-- `10-pessoal/` — vida pessoal, rotina, saúde, família, inbox e tarefas
+- `00-central/` — governança, mapas, decisões, regras, pendências, notas centrais e inbox geral
+- `10-pessoal/` — vida pessoal, rotina, saúde, família e tarefas
 - `20-profissional/` — LÓGIKA, carreira e referências profissionais
 - `30-estudos/` — cursos, livros, métodos, planos e recursos de estudo
 - `40-projetos/` — projetos pessoais, profissionais, autorais, produtos e ideias
@@ -181,6 +181,7 @@ Esta política entra em vigor em **20 de Julho de 2026** e vale para todos os ag
 - 🎙️ Sala de Visita (topic_id: 151) - Estudo de parceria Logika × Sala de Visita
 - 🎬 CapCut Reels (topic_id: 1224) — Produção de Instagram Reels via CapCut Web
 - 📋 Editais Culturais (topic_id: 1495) — Análise de editais culturais e leis de incentivo
+- 📋 KIIRU - Gestão de Projetos (topic_id: 10031) — PMO Kiiru / gestão de tarefas, prazos, duplicidades e Kanban da LÓGIKA
 
 ---
 

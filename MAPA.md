@@ -13,8 +13,8 @@ nao_usar_quando: informação urgente que exige fonte externa atualizada (Tavily
 
 # MAPA — Cofre de Jadielson Davi
 
-> **Cofre** = `/data/.openclaw/workspace/`  
-> Fonte de verdade primária do ecossistema.  
+> **Cofre** = `/data/.openclaw/workspace/`
+> Fonte de verdade primária do ecossistema.
 > Backup no GitHub (`davijadielson-blip/segundo-cerebro-jadielson`) — consultar só emergencial.
 
 ---
@@ -67,8 +67,8 @@ Todo `.md` criado, editado ou padronizado deve ter YAML frontmatter. Respostas s
 ├── HEARTBEAT.md             ← Proatividade segura, briefing diário
 ├── MAPA.md                  ← ESTE ARQUIVO — mapa de navegação
 │
-├── 00-central/              ← Governança, regras, decisões, mapas, pendências, notas centrais
-├── 10-pessoal/              ← Vida pessoal, rotina, saúde, família, inbox e tarefas pessoais
+├── 00-central/              ← Governança, regras, decisões, mapas, pendências, notas centrais e inbox geral
+├── 10-pessoal/              ← Vida pessoal, rotina, saúde, família e tarefas pessoais
 ├── 20-profissional/         ← LÓGIKA, carreira, operação profissional e referências internas
 ├── 30-estudos/              ← Cursos, livros, métodos, planos de estudo e materiais de aprendizagem
 ├── 40-projetos/             ← Projetos pessoais, profissionais, autorais, produtos e ideias
@@ -77,7 +77,7 @@ Todo `.md` criado, editado ou padronizado deve ter YAML frontmatter. Respostas s
 ├── 70-agentes/              ← Agentes, runtime, squads, escopos e protocolos
 ├── 80-handoffs/             ← Passagens formais de contexto entre sessões/agentes
 ├── 90-arquivo/              ← Legado, backups, duplicidades, quarentena e estrutura antiga
-├── memory/                  ← Memória operacional ativa da IA, sessões, outputs e inbox externa
+├── memory/                  ← Memória operacional ativa da IA, sessões e outputs
 ├── media/                   ← Mídias recebidas ou referenciadas
 ├── scripts/                 ← Automações executáveis
 └── skills/                  ← Skills ativas do workspace
@@ -91,8 +91,9 @@ Regra prática:
 - Para salvar ou procurar conteúdo novo, use a estrutura numerada de `00-central/` a `90-arquivo/`, mais `memory/`, `media/`, `scripts/` e `skills/`.
 - Caminhos antigos só devem ser mantidos quando forem referência histórica ou compatibilidade temporária.
 - Nada deve ser movido, renomeado ou consolidado sem antes checar dependências em agentes, skills, scripts, crons, runtimes e handoffs.
-- A inbox física atual é `10-pessoal/inbox/`.
-- A inbox operacional de fontes externas continua em `memory/inbox-externa/`.
+- A inbox ativa unica do Cofre e `00-central/inbox/`.
+- Entradas de fontes externas ou automacoes entram em `00-central/inbox/externa/`.
+- Os caminhos antigos `10-pessoal/inbox/` e `memory/inbox-externa/` foram arquivados fora da rota ativa em `90-arquivo/30-regras-obsoletas/2026-08-10-inbox-legado/` e nao devem receber conteudo novo.
 
 ### Autonomia Operacional da IA
 
@@ -119,7 +120,8 @@ Jadielson permanece como autoridade final sobre sentido, prioridade, publicaçã
 | **Legendas, roteiros, briefings** | `memory/outputs/` | `memory/outputs/` |
 | **Log de sessão** | `memory/sessions/` | `memory/sessions/` |
 | **Checklists operacionais** | `60-processos/checklists/` | `60-processos/checklists/` |
-| **Captura bruta pessoal (inbox)** | `10-pessoal/inbox/` | `10-pessoal/inbox/` |
+| **Capturas brutas e inbox geral** | `00-central/inbox/` | `00-central/inbox/` |
+| **Entradas externas nao triadas** | `00-central/inbox/externa/` | `00-central/inbox/externa/` |
 | **Notas centrais/permanentes** | `00-central/` | `00-central/` |
 | **Skills (workflows)** | `skills/` | `skills/` |
 | **Scripts de automação** | `scripts/` | `scripts/` |
@@ -137,10 +139,10 @@ Jadielson permanece como autoridade final sobre sentido, prioridade, publicaçã
 ### `00-central/` — Governança e notas centrais
 - Regras, decisões, mapa, glossário, pendências transversais, diagnósticos estruturais e notas centrais.
 - É a primeira área para entender decisões oficiais sobre o Cofre.
+- Inbox geral do Cofre: `00-central/inbox/`.
 
-### `10-pessoal/` — Vida pessoal e inbox
-- Rotina, saúde, família, finanças pessoais, tarefas e captura pessoal.
-- Inbox física atual: `10-pessoal/inbox/`.
+### `10-pessoal/` — Vida pessoal
+- Rotina, saúde, família, finanças pessoais e tarefas pessoais.
 - Respeitar parede d'água: contexto pessoal só entra quando a demanda exigir.
 
 ### `20-profissional/` — LÓGIKA e operação profissional
@@ -190,7 +192,6 @@ memory/
 ├── visualizations/         ← Hub, Canvas, dashboards, diagramas
 ├── projects/               ← Pesquisas, projetos rastreados, planos
 ├── daily-briefs/           ← Briefings diários
-├── inbox-externa/          ← E-mail, Drive, WhatsApp, áudio importados
 ├── backup-log.md           ← Log de backups
 └── lessons.md              ← Lições aprendidas (falhas operacionais)
 ```

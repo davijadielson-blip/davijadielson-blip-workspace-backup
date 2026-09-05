@@ -19,7 +19,7 @@ Resolver as pendencias locais restantes apos a correcao do GitHub, preservando m
 ## Acoes executadas
 
 - Diarios soltos em `memory/YYYY-MM-DD.md` foram migrados para `memory/sessions/2026/`, mantendo conteudo e respeitando a regra de nao criar daily notes automaticas.
-- Registro de comprovante pessoal vindo de runtime foi convertido em registro canonico Markdown em `memory/inbox-externa/financeiro/pessoal/2026/08-Agosto/`.
+- Registro de comprovante pessoal vindo de runtime foi convertido em registro canonico Markdown em `00-central/inbox/externa/financeiro/pessoal/2026/08-Agosto/`.
 - Memoria runtime da Logika ja consolidada em output canonico foi movida para quarentena de revisao, sem exclusao.
 - Proposta de skill da Saude v1.3 recebida via runtime foi colocada em quarentena de revisao, sem aplicacao direta.
 - Arquivos JSON superseded de memoria tecnica foram preservados fora do Cofre Markdown em area externa de revisao, com indice no Cofre.

@@ -3,7 +3,7 @@
 Sincronizacao governada Notion -> Cofre.
 
 Por padrao roda em dry-run. Use --apply para gravar arquivos operacionais.
-Notas autorais/protegidas geram proposta em memory/inbox-externa/notion/revisao/.
+Notas autorais/protegidas geram proposta em 00-central/inbox/externa/notion/revisao/.
 """
 
 from __future__ import annotations
@@ -22,7 +22,7 @@ from urllib import error, request
 WORKSPACE = Path(__file__).resolve().parents[2]
 COFRE_INDEX_DS = os.environ.get("NOTION_COFRE_INDEX_DS", "a3803ed8-abf8-47da-9a52-ae8bf889b865")
 NOTION_VERSION = os.environ.get("NOTION_API_VERSION", "2026-03-11")
-REVIEW_DIR = WORKSPACE / "memory" / "inbox-externa" / "notion" / "revisao"
+REVIEW_DIR = WORKSPACE / "00-central" / "inbox" / "externa" / "notion" / "revisao"
 
 
 def ntn_bin() -> str:

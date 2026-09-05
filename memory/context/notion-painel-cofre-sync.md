@@ -92,7 +92,7 @@ Comportamento do script:
 - Roda em `dry-run` por padrao.
 - Usa `--apply` para gravar alteracoes permitidas.
 - Aplica direto apenas em caminhos operacionais liberados.
-- Arquivos protegidos ou Fluxo 1 geram proposta em `memory/inbox-externa/notion/revisao/`.
+- Arquivos protegidos ou Fluxo 1 geram proposta em `00-central/inbox/externa/notion/revisao/`.
 - Teste seco em 2026-08-06: 80 itens verificados, 0 erros, 0 gravacoes.
 
 ## Checkpoint - 2026-08-07

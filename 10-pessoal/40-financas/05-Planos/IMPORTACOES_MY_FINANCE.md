@@ -7,6 +7,41 @@ atualizado_em: 2026-08-01
 
 Registro de dados enviados por Jadielson no tópico My Finance e transformados em resumo seguro por Warren.
 
+## 2026-08-31 — Comprovante: outra parcela do IPVA
+
+- Valor: **R$ 111,17**.
+- Pagamento efetivado em **31/08/2026 às 21:25:37** (horário exibido no comprovante).
+- Convênio: **GOV AL TR ESTADUAIS**.
+- Descrição operacional: **outra parcela do IPVA do carro**.
+- Situação: **pago**.
+- Número da parcela: não informado no comprovante; não classificado como terceira parcela sem confirmação.
+- Origem: comprovante Banco do Brasil enviado por Jadielson no tópico **My Finance (#12)**.
+- Comprovante original: imagem recebida no Telegram; não armazenada no Cofre, conforme orientação de preservar apenas o resumo textual.
+
+## 2026-08-31 — Comprovante Pix: academia
+
+- Valor: **R$ 85,00**.
+- Pagamento efetivado em **31/08/2026 às 18:33:44** (horário exibido no comprovante).
+- Recebedor: **Antonio C R Silva**.
+- Categoria operacional: **Saúde — academia**.
+- Forma: **Pix via QR Code**.
+- Situação: **pago**.
+- Origem: comprovante Banco do Brasil enviado por Jadielson no tópico **My Finance (#12)**.
+- Comprovante original: imagem recebida no Telegram; não armazenada no Cofre, conforme orientação de preservar apenas o resumo textual.
+
+
+## 2026-08-24 — Comprovante Pix: leite e pão
+
+- Valor: **R$ 10,00**.
+- Pagamento efetivado em **24/08/2026 às 19:40:25** (horário exibido no comprovante).
+- Recebedora: **Pauliana S Silva**.
+- Descrição informada no comprovante: **Leite e Pao**.
+- Categoria operacional: **Alimentação**.
+- Forma: **Pix**.
+- Situação: **pago**.
+- Origem: comprovante Banco do Brasil enviado por Jadielson no tópico **My Finance (#12)**.
+- Comprovante original: imagem recebida no Telegram; upload ao Drive pessoal **[A CONFIRMAR]**, pois o acesso de escrita do `gog` não está disponível neste runtime.
+
 ## 2026-08-08 — Comprovante: remédio para resfriado — upload pendente
 
 - Arquivo local preservado: `70-agentes/runtime/central-pessoal/media/inbound/openclaw-staged-2ae8fd20-41f3-4ed1-9e76-020506e95974/Comprovante_2026-08-08_013222---3863b466-ac1d-46df-8f62-ec989d781455.pdf`

@@ -50,7 +50,7 @@ data-criacao: 2026-06-06
 | 📈 CRO | Prospect · SDR · CRM · Intel. Comercial · 🫀 Closer · SAC · CS/Churn · WhatsApp · 🧬 Secretária | [logika-ops-cro-maquina-vendas.md](logika-ops-cro-maquina-vendas.md) |
 | 📣 CMO | Estrategista · Copywriter · Calendário · Performance · Radar · Conteúdo Lógika | [logika-ops-cmo-conteudo.md](logika-ops-cmo-conteudo.md) |
 | 🎬 CCO | Roteiro · Motion · Templates · Gestão de Ativos | [logika-ops-cco-producao.md](logika-ops-cco-producao.md) |
-| ⚙️ COO | PMO · Dashboards/KPI · Relatórios | [logika-ops-coo-operacao.md](logika-ops-coo-operacao.md) |
+| ⚙️ COO | PMO · PMO Kiiru · Dashboards/KPI · Relatórios | [logika-ops-coo-operacao.md](logika-ops-coo-operacao.md) + [logika-ops-coo-pmo-kiiru.md](logika-ops-coo-pmo-kiiru.md) |
 | 💰 CFO | Fluxo de Caixa · Custos · Margem · Auditoria · Controller | [logika-ops-cfo-financeiro.md](logika-ops-cfo-financeiro.md) |
 | 👤 CTO | Infra/DevOps · Suporte · Integração · WhatsApp Bot · Segurança técnica | [logika-ops-cto-tecnico.md](logika-ops-cto-tecnico.md) |
 | 📋 CIO | Política de Dados · Compliance · Auditoria TI · Monitoramento · Acessos · Vendor · RH | [logika-ops-cio-governanca.md](logika-ops-cio-governanca.md) |

@@ -51,7 +51,7 @@ Destino: `90-arquivo/40-revisao-humana/2026-08-10-itens-fora-da-rota-ativa/`
 - `00-central/decisoes.md`: registrada a etapa 2 e atualizadas referencias de documentos arquivados.
 - `00-central/pendencias.md`: pendencias antigas substituidas por lista atual.
 - `00-central/notas-permanentes/_MAP.md`: removida regra antiga de F1/IA somente leitura e substituida pela logica atual.
-- `10-pessoal/inbox/_README.md`: removida regra antiga de F0 e "sistema nao edita".
+- `00-central/inbox/_README.md`: removida regra antiga de F0 e "sistema nao edita".
 - `40-projetos/00-mapa.md`: removida regra antiga de `[F3] PROJETOS` como estrutura atual.
 - `70-agentes/_MANDATORY.md`: `MAPA.md` passa a ser rota principal; `_MAP.md` e local/legado.
 - `20-profissional/90-referencias/caio-architect.md`: removida mencao operacional a Zapier MCP.

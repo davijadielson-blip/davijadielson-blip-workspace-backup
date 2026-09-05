@@ -54,8 +54,10 @@ Thumbs.db
 edicao-bastidores/
 .kit-import/starter-kit-openclaw-v2.5.7/
 # 🔐 Secrets → local-only, never push
+.gog/
 scripts/.secrets/
 scripts/.venv/
+scripts/data/keyring/
 .secrets/
 client_secret*.json
 media/inbound/
@@ -63,7 +65,10 @@ media/inbound/
 # Runtime local state → fora do Git por padrão
 70-agentes/runtime/*/openclaw-workspace-state.json
 70-agentes/runtime/*/memory/
+70-agentes/runtime/*/media/inbound/
+memory/.dreams/*.u4s-*
 
 __pycache__/
 *.pyc
+BOOTSTRAP.md
 BOOTSTRAP.md.concluido

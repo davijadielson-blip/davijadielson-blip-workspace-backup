@@ -5,7 +5,7 @@ setor: operacoes tecnicas e produtividade
 cliente: Jadielson Davi
 tipo: contexto-operacional
 prioridade: alta
-atualizado_em: 2026-08-06
+atualizado_em: 2026-08-11
 usar_quando: conectar, testar, auditar ou operar areas de trabalho do Notion pelo OpenClaw
 nao_usar_quando: buscar tokens, segredos ou credenciais completas
 ---
@@ -64,3 +64,42 @@ Implementacao complementar:
 Regra de seguranca:
 
 Nao registrar token ou segredo completo em Markdown. O Cofre deve guardar apenas status, origem, caminho seguro da credencial, resultado de testes e proximas acoes.
+
+## 2026-08-11 - Producao & Agenda LOGIKA via Loh-bot
+
+Jadielson confirmou que o `MAPA 360` deve ficar mais ligado ao uso pessoal/estrategico, enquanto a base `Producao & Agenda - LOGIKA` deve ser operada por integracao separada de producao.
+
+Status operacional:
+
+- Integracao local de producao configurada em `scripts/.secrets/notion-logika-producao.env`.
+- Token armazenado apenas em arquivo de segredo local, com permissao `600`.
+- Variaveis usadas: `NOTION_LOGIKA_TOKEN`, `NOTION_PRODUCAO_DATABASE_ID` e `NOTION_API_VERSION`.
+- Teste `users/me` validado com sucesso.
+- Integracao identificada como bot `Loh-bot` no workspace `LOGIKA CREATIVE`.
+- Database acessivel pela API: `Producao & Agenda - LOGIKA`.
+- ID operacional: `375207e6-f145-8111-bba0-e132fd820542`.
+- Propriedades lidas na validacao: `Nome`, `Status`, `Data de publicacao`, `Data do evento`, `Frente/Cliente`, `Plataforma`, `Tipo de conteudo`, `Entregas previstas`, `Briefing/Roteiro`, `Observacoes`, `Responsavel`, `Prioridade`, `Arquivos/Links`, `Link de origem`, `Origem`, `Tipo`, `Gera conteudo?`, `Criado em`, `Ultima edicao`.
+
+Teste seco em `scripts/sync/notion-to-calendar.py`:
+
+- A rotina passou a carregar `scripts/.secrets/notion-logika-producao.env` alem do `notion.env`.
+- A consulta da base de producao usa `NOTION_LOGIKA_TOKEN`, preservando o token do `MAPA 360` para o painel pessoal/Cofre.
+- Resultado da leitura seca em 2026-08-11: 56 itens elegiveis no Notion, sendo 54 da Saude e 2 da LOGIKA.
+
+Propagacao para agentes:
+
+- `scripts/notion-env.sh` carrega tanto `notion.env` quanto `notion-logika-producao.env`.
+- `TOOLS.md` documenta os dois escopos Notion e as variaveis que os agentes podem usar.
+- A skill `.agents/skills/source-command-sync-notion-calendar/SKILL.md` orienta agentes a carregar o ambiente, validar leitura seca e so rodar sync completo com confirmacao para atualizar Calendar.
+
+Leitura operacional:
+
+O acesso a base de producao esta funcional neste ambiente. O proximo passo, antes de rodar sincronizacao completa com Google Calendar, e validar se as regras de status, datas e criacao/atualizacao de eventos estao corretas para nao duplicar eventos antigos.
+
+Diretriz operacional confirmada em 2026-08-11:
+
+- Toda pauta definida para producao da LOGIKA deve ser lancada na base `Producao & Agenda - LOGIKA`.
+- Para pautas de cobertura/evento, criar um item por dia/evento, mantendo a pauta de producao dentro da pagina do item.
+- Nao usar a base pessoal `MAPA 360` para lancamento operacional de pautas da producao; ela fica como painel pessoal/estrategico.
+- Usar o acesso de producao da integracao `Loh-bot` e as variaveis carregadas por `scripts/notion-env.sh`.
+- Nao registrar tokens ou segredos no Cofre; manter apenas nomes de integracao, caminhos seguros e regras de uso.

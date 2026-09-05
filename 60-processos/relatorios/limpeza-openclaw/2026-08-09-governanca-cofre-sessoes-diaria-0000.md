@@ -35,7 +35,7 @@ nao_usar_quando: substituir auditoria humana de segredos, anexos ou configuracoe
 - Conhecimento util de 2026-08-08 ja estava consolidado em `memory/2026-08-08.md`.
 - Decisao sobre acesso Google Drive via `gog` para subagentes ja aparece em `memory/context/decisoes/2026-08.md`.
 - Protocolo de arquivos brutos financeiros da Logika ja aparece em `memory/context/financeiro/protocolo-arquivos-brutos-logika.md`.
-- Registro financeiro da agua mineral do escritorio ja aparece em `memory/inbox-externa/financeiro/empresa/2026/08-Agosto/2026-08-08__DESPESA-ESCRITORIO__agua-mineral__R-9-00__PAGO.md`.
+- Registro financeiro da agua mineral do escritorio ja aparece em `00-central/inbox/externa/financeiro/empresa/2026/08-Agosto/2026-08-08__DESPESA-ESCRITORIO__agua-mineral__R-9-00__PAGO.md`.
 - Configuracao do Agente Solucionador Estrategico ja aparece em `memory/agents/solucionador-estrategico.md` e `memory/agents/prompts/solucionador-estrategico-prompt.md`.
 - Alteracoes do runtime Logika citam o novo `solucionador-estrategico` em `70-agentes/runtime/logika/AGENTS.md`, `IDENTITY.md` e `SOUL.md`.
 - Nao foi identificado conhecimento critico recente ficando somente em sessao sem reflexo Markdown; os itens acima ainda precisam de revisao Git por estarem pendentes/untracked.
@@ -63,13 +63,13 @@ nao_usar_quando: substituir auditoria humana de segredos, anexos ou configuracoe
   - `70-agentes/runtime/logika/IDENTITY.md`.
   - `70-agentes/runtime/logika/SOUL.md`.
   - `memory/context/decisoes/2026-08.md`.
-  - `memory/inbox-externa/financeiro/empresa/2026/07-Julho/2026-07-31__DESPESA-DESIGNER__ewander-holyfield__R-150__PAGO.md`.
+  - `00-central/inbox/externa/financeiro/empresa/2026/07-Julho/2026-07-31__DESPESA-DESIGNER__ewander-holyfield__R-150__PAGO.md`.
   - `scripts/gog-auth.sh`.
 - Nao rastreados relevantes:
   - `memory/agents/prompts/solucionador-estrategico-prompt.md`.
   - `memory/agents/solucionador-estrategico.md`.
   - `memory/context/financeiro/protocolo-arquivos-brutos-logika.md`.
-  - `memory/inbox-externa/financeiro/empresa/2026/08-Agosto/2026-08-08__DESPESA-ESCRITORIO__agua-mineral__R-9-00__PAGO.md`.
+  - `00-central/inbox/externa/financeiro/empresa/2026/08-Agosto/2026-08-08__DESPESA-ESCRITORIO__agua-mineral__R-9-00__PAGO.md`.
   - `70-agentes/runtime/tematico/skills/nexus-agente-estrategico-de-solucoes/SKILL.md`.
   - `70-agentes/runtime/*/openclaw-workspace-state.json`.
   - `70-agentes/runtime/central-pessoal/memory/2026-08-08.md` vazio.

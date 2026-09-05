@@ -36,7 +36,7 @@ Resultado observado:
 
 Midia inbound global:
 
-- Manifesto no Cofre: `memory/inbox-externa/drive/2026-08-08-limpeza-media-inbound-global.md`.
+- Manifesto no Cofre: `00-central/inbox/externa/drive/2026-08-08-limpeza-media-inbound-global.md`.
 - Pasta Drive: https://drive.google.com/drive/folders/1Gq2si_EZaqsUsuouedA27bF1X_oL8YnP
 
 Backup Git bundle antigo:

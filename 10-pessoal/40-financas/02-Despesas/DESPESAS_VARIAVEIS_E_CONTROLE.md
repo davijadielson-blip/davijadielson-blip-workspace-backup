@@ -30,6 +30,7 @@ atualizado_em: 2026-08-01
 |---|---|---|---:|---|---:|---|
 | 2026-08-07 | Troca de óleo | Manutenção veículo | R$ 70,00 | Pix | 2450 | pago |
 | 2026-08-07 | Pastilhas garganta | Saúde | R$ 18,00 | Pix | — | pago |
+| 2026-08-24 | Leite e pão — Pauliana S Silva | Alimentação | R$ 10,00 | Pix | — | pago |
 
 ## Lançamentos de combustível
 

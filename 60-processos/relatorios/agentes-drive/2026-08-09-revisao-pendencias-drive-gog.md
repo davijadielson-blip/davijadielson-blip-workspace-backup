@@ -21,13 +21,13 @@ Jadielson pediu para salvar tudo, atualizar o backup e checar o comando de salva
 - `gog auth doctor --check`: `status: ok`.
 - `gog_drive pessoal search "trashed=false" --max 3`: retornou arquivos reais do Drive pessoal.
 - `gog_drive logika search "trashed=false" --max 1`: retornou arquivo real do Drive profissional.
-- `memory/inbox-externa/drive-pendente/`: sem arquivos pendentes.
+- `00-central/inbox/externa/drive-pendente/`: sem arquivos pendentes.
 
 ## Pendencias revisadas
 
 ### Designer - LÓGIKA
 
-Registro: `memory/inbox-externa/financeiro/empresa/2026/07-Julho/2026-07-31__DESPESA-DESIGNER__ewander-holyfield__R-150__PAGO.md`.
+Registro: `00-central/inbox/externa/financeiro/empresa/2026/07-Julho/2026-07-31__DESPESA-DESIGNER__ewander-holyfield__R-150__PAGO.md`.
 
 Resultado:
 
@@ -43,7 +43,7 @@ Arquivo:
 
 ### Remedio - pessoal
 
-Registro: `memory/inbox-externa/financeiro/pessoal/2026/08-Agosto/2026-08-06__DESPESA-SAUDE-FARMACIA__remedio-resfriado__R-20-00__DRIVE-OK.md`.
+Registro: `00-central/inbox/externa/financeiro/pessoal/2026/08-Agosto/2026-08-06__DESPESA-SAUDE-FARMACIA__remedio-resfriado__R-20-00__DRIVE-OK.md`.
 
 Resultado:
 
@@ -69,6 +69,6 @@ Reforcos:
 
 ## Resultado
 
-Nao foi encontrada pendencia fisica restante em `memory/inbox-externa/drive-pendente/`.
+Nao foi encontrada pendencia fisica restante em `00-central/inbox/externa/drive-pendente/`.
 
 As pendencias documentais encontradas foram corrigidas nos registros correspondentes.

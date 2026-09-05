@@ -58,6 +58,6 @@ X arquivos recentes | Y frentes ativas | Z sem classificação
 
 **PASSO 5 — Ação sugerida (opcional)**
 
-Se houver arquivos não classificados, pergunte se Jadielson quer salvar um link de referência em `[F2] memory/inbox-externa/drive/`.
+Se houver arquivos não classificados, pergunte se Jadielson quer salvar um link de referência em `00-central/inbox/externa/drive/`.
 
 Não salva nada automaticamente.

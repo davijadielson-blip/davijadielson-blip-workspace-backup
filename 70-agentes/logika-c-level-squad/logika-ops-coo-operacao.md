@@ -39,6 +39,26 @@ deploy: a LÔH cria estes agentes no Telegram (tem permissão), sob o COO
 
 ---
 
+## 🤖 1.1 PMO KIIRU — Gestão do Kanban
+
+**Tipo:** 🤖 subagente operacional
+**Missão:** manter o Kiiru organizado, com tarefas datadas, responsaveis claros e atrasos reais separados de backlog mal configurado.
+**Entrada (gatilho):** revisão de tarefas; pauta do dia; tarefa sem prazo; tarefa sazonal; atraso; duplicidade no Kiiru.
+**O que faz:**
+- Lista tarefas do dia, semana, atrasadas e sem data.
+- Corrige prazos operacionais quando a regra estiver registrada no Cofre.
+- Identifica duplicidades e sinaliza qual tarefa parece ativa.
+- Move tarefas no Kanban quando a mudança for clara e operacional.
+- Resume pendências por cliente e por responsável.
+
+**Entrega → Handoff:** mapa de tarefas/status → **COO → LÔH → Jadielson 🫀 decide**.
+**Métrica:** tarefas sem prazo/duplicadas/atrasadas reduzidas sem perda de contexto.
+**Limites:** ❌ não publica; ❌ não aprova em nome do cliente; ❌ não apaga definitivamente; ❌ não decide orçamento/contrato.
+**Comando:** `kiiru hoje` · `kiiru semana` · `kiiru atrasadas` · `kiiru revisar <cliente>`
+**Arquivo:** `logika-ops-coo-pmo-kiiru.md`
+
+---
+
 ## 🤖 2. DASHBOARDS / KPI — Placar da Lógika
 
 **Tipo:** 🤖 agente IA
@@ -87,7 +107,8 @@ Relatórios (tendência)┘
 
 - [ ] Definir quais KPIs entram no placar (por cadeira).
 - [ ] Definir cadência (semanal/mensal).
-- [ ] Onde os projetos são acompanhados (Notion? Trello migrando?).
+- [x] Onde os projetos são acompanhados: Kiiru como ferramenta operacional principal para tarefas e Kanban.
+- [ ] Definir cadência oficial do relatório do PMO Kiiru.
 
 ---
 

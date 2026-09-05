@@ -23,7 +23,7 @@ Esta pasta guarda notas permanentes e conceitos centrais ja processados, quando 
 
 ## Nao entra aqui
 
-- capturas brutas: usar `10-pessoal/inbox/` ou `memory/inbox-externa/`, conforme origem;
+- capturas brutas: usar `00-central/inbox/`; quando a origem for externa/importada, usar a subpasta `00-central/inbox/externa/`;
 - memoria operacional de sessao: usar `memory/`;
 - decisoes finais: usar `00-central/decisoes.md`;
 - pendencias: usar `00-central/pendencias.md`;

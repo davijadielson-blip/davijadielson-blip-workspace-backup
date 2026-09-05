@@ -40,7 +40,7 @@ Em conflito de regra operacional, a prioridade e:
 
 ```txt
 workspace/
- 00-central/       governança, mapa, regras, decisões, pendências, glossário
+ 00-central/       governança, mapa, regras, decisões, pendências, glossário e inbox geral
  10-pessoal/       vida pessoal, rotina, saúde, finanças pessoais, família, propósito
  20-profissional/  carreira, Lógika, operação profissional interna
  30-estudos/       cursos, leituras, fichamentos, trilhas de aprendizagem
@@ -50,7 +50,7 @@ workspace/
  70-agentes/       mapa, escopos, handbooks e protocolos dos agentes
  80-handoffs/      passagens formais entre agentes
  90-arquivo/       legado, duplicidades, quarentena e revisão
- memory/           memória operacional ativa, sessões, outputs e inbox externa
+ memory/           memória operacional ativa, sessões e outputs
  media/            mídias recebidas ou referenciadas
  scripts/          automações executáveis
  skills/           skills ativas do workspace

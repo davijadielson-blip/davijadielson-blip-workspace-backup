@@ -30,17 +30,34 @@ TODAY = date.today().isoformat()
 LOG_FILE = LOG_DIR / f"{TODAY}.md"
 
 # ── Notion config ──────────────────────────────────────────────────────────────
-def _load_notion_env():
+def _read_env_file(path):
     env = {}
-    for line in (SECRETS_DIR / "notion.env").read_text().splitlines():
+    if not path.exists():
+        return env
+    for line in path.read_text().splitlines():
         line = line.strip()
         if "=" in line and not line.startswith("#"):
             k, v = line.split("=", 1)
             env[k.strip()] = v.strip().strip('"')
     return env
 
+def _load_notion_env():
+    env = _read_env_file(SECRETS_DIR / "notion.env")
+    env.update(_read_env_file(SECRETS_DIR / "notion-logika-producao.env"))
+    return env
+
 _notion_env   = _load_notion_env()
-NOTION_TOKEN   = _notion_env["NOTION_TOKEN"]
+NOTION_TOKEN   = os.environ.get("NOTION_TOKEN") or _notion_env["NOTION_TOKEN"]
+NOTION_LOGIKA_TOKEN = (
+    os.environ.get("NOTION_LOGIKA_TOKEN")
+    or _notion_env.get("NOTION_LOGIKA_TOKEN")
+    or NOTION_TOKEN
+)
+PRODUCAO_DATABASE_ID = (
+    os.environ.get("NOTION_PRODUCAO_DATABASE_ID")
+    or _notion_env.get("NOTION_PRODUCAO_DATABASE_ID")
+    or "375207e6-f145-8111-bba0-e132fd820542"
+)
 NOTION_VERSION = "2022-06-28"
 CALENDAR_ID    = "primary"
 
@@ -51,7 +68,7 @@ SKIP_STATUS = {"CANCELADO", "ABORTADO", "REPROVADO", "PUBLICADO"}
 # Para novo cliente: adicionar {"id": "...", "frente": "Nome", "color_id": "X"}
 # colorId Google Calendar: 9=Mirtilo · 5=Banana · 6=Tangerina · 11=Tomate
 DATABASES = [
-    {"id": "375207e6-f145-8111-bba0-e132fd820542", "frente": "Saúde",  "color_id": "9"},   # Mirtilo — Produção & Agenda LÓGIKA
+    {"id": PRODUCAO_DATABASE_ID, "frente": "Saúde",  "color_id": "9"},   # Mirtilo — Produção & Agenda LÓGIKA
     # {"id": "...", "frente": "Câmara", "color_id": "5"},   # Banana
     # {"id": "...", "frente": "SINDSS", "color_id": "6"},   # Tangerina
     # {"id": "...", "frente": "...",    "color_id": "11"},  # Tomate   — outros clientes
@@ -63,9 +80,9 @@ DATABASES = [
 def log(msg):
     print(msg)
 
-def notion_headers():
+def notion_headers(token=NOTION_TOKEN):
     return {
-        "Authorization": f"Bearer {NOTION_TOKEN}",
+        "Authorization": f"Bearer {token}",
         "Notion-Version": NOTION_VERSION,
         "Content-Type": "application/json",
     }
@@ -171,7 +188,7 @@ def _fetch_from_producao():
         "page_size": 100
     }).encode()
 
-    req = ur.Request(url, data=payload, headers=notion_headers(), method="POST")
+    req = ur.Request(url, data=payload, headers=notion_headers(NOTION_LOGIKA_TOKEN), method="POST")
     with ur.urlopen(req) as resp:
         data = json.loads(resp.read())
 

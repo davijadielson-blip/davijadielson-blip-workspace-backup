@@ -49,7 +49,7 @@ Use `mcp__claude_ai_Google_Drive__list_recent_files`:
 Identifique arquivos que requerem ação (ex: novos materiais de clientes).
 
 **2d. Inbox processada:**
-Liste arquivos em `[F2] memory/inbox-externa/` com `revisado: false` e data recente (≤3 dias).
+Liste arquivos em `00-central/inbox/externa/` com `revisado: false` e data recente (≤3 dias).
 
 **PASSO 3 — Montar matriz de prioridade**
 

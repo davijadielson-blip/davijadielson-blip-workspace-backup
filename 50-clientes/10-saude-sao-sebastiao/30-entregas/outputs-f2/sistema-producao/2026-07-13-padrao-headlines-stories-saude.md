@@ -5,8 +5,8 @@ frente: saude-sao-sebastiao
 tipo: padrao-editorial-stories
 status: validado-por-jadielson
 data: 2026-07-13
-atualizado_em: 2026-08-03
-ultima_revisao: 2026-08-03
+atualizado_em: 2026-09-01
+ultima_revisao: 2026-09-01
 origem: Telegram tópico SAÚDE - SOCIAL MEDIA
 validade: vigente — substitui decisões anteriores conflitantes
 usar_quando: criar ou revisar headlines, stories e legendas curtas da Secretaria Municipal de Saude de Sao Sebastiao
@@ -46,6 +46,8 @@ Antes de sugerir qualquer headline/story da Saúde, aplicar esta checagem:
 2. A segunda linha explica **qual serviço, local ou setor está sendo mostrado**?
 3. A frase evita fórmula repetida, institucional demais ou genérica, como apenas "amplia acesso", "fortalece a rede", "beneficia pacientes" ou "segue cuidando"?
 4. A referência do Cofre foi usada como **base de conceito**, e não como molde para repetir estruturas já aprovadas?
+5. A sequência evita parecer aviso secundário de agenda quando a pauta é cobertura institucional de serviço acontecendo?
+6. A primeira versão apresentada foge do óbvio e não depende de fórmulas como `amplia acesso`, `reforça cuidado`, `rede municipal` ou `qualidade de vida` sem uma imagem humana específica?
 
 Se a resposta for "não" em qualquer item, refazer antes de enviar.
 
@@ -53,6 +55,14 @@ Exemplo aprovado em 2026-07-30 para ortopedia no Espaço Cuidar:
 
 > Consulta ortopédica.
 > Mais 50 pacientes receberam orientação e cuidado especializado no Espaço Cuidar.
+
+Exemplo aprovado em 2026-09-01 para stories de oftalmologia:
+
+> Enxergar bem faz diferença em cada detalhe da rotina.
+> Nesta quarta, o atendimento oftalmológico reforça esse cuidado na rede municipal de saúde.
+> Uma consulta pode orientar, prevenir agravamentos e melhorar a qualidade de vida de quem precisa.
+
+Observação: esta pauta começou com versões rejeitadas por estarem simples, genéricas e parecidas com entregas anteriores. O aprendizado é que, em pautas recorrentes da Saúde, a headline deve buscar angulo próprio antes de recorrer a expressões institucionais já frequentes.
 
 ## Características
 
@@ -91,6 +101,10 @@ Exemplo aprovado em 2026-07-30 para ortopedia no Espaço Cuidar:
 > O caminho para o especialista começa aqui.
 > Marcação de exames, orientação e encaminhamento na recepção da Secretaria.
 
+### Recepção da Secretaria
+> É aqui que muitos caminhos da saúde começam.
+> Marcação, informação e acolhimento: a porta de entrada para seguir com o cuidado.
+
 ### Odontomóvel
 > Dentista mais perto de você.
 > O Odontomóvel leva atendimento a comunidades e escolas do município.
@@ -112,3 +126,5 @@ Em **todas** as pautas da Saúde, ao sugerir stories/headlines, usar este padrã
 - 2026-07-21: Reforço e expansão com 7 exemplos aprovados. Determinação de que este padrão substitui decisões anteriores conflitantes no Cofre.
 - 2026-07-29: Reforço da base padrão: "o que é + benefícios que traz", em duas linhas, com a primeira linha no menor texto possível.
 - 2026-08-03: Jadielson corrigiu resposta incompleta em story de visita domiciliar no povoado Lagoa Seca. Padrão reforçado: nunca enviar headline em linha única; sempre entregar duas linhas completas e incluir rodapé com fonte de consulta e referência.
+- 2026-08-11: Jadielson aprovou uso de headline em duas linhas para story da recepção da Secretaria, com foco em marcação, informação e acolhimento.
+- 2026-09-01: Jadielson aprovou sequência para stories de oftalmologia e reforçou que versões genéricas, simples ou muito parecidas com entregas anteriores devem ser refeitas antes do envio.

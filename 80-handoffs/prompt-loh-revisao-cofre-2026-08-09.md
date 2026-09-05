@@ -142,8 +142,8 @@ Atualizar o Cofre para que as regras, o mapa e a arvore real estejam alinhados c
 - Substituir a descricao antiga F0/F1/F2/F3 pela arvore real atual.
 - Explicar claramente a funcao de cada pasta principal.
 - Registrar que F0/F1/F2/F3 sao termos legados e nao devem mais orientar o roteamento.
-- Indicar que a inbox fisica atual esta em 10-pessoal/inbox.
-- Indicar que a inbox operacional da IA continua em memory/inbox-externa/.
+- Indicar que a inbox ativa unica do Cofre esta em 00-central/inbox/.
+- Indicar que entradas externas/importadas ficam como subpasta em 00-central/inbox/externa/.
 - Deixar o mapa pratico para qualquer agente saber onde procurar e onde salvar.
 - Quando houver compatibilidade necessaria com caminhos antigos, documentar isso explicitamente.
 
@@ -169,7 +169,7 @@ A separacao do Cofre deve ser por area, finalidade e sensibilidade, nao por quem
 Usar como referencia principal:
 
 - 00-central/ para notas centrais e permanentes
-- 10-pessoal/ para vida pessoal, rotina, saude, familia, inbox e tarefas
+- 10-pessoal/ para vida pessoal, rotina, saude, familia e tarefas
 - 20-profissional/ para LOGIKA e referencias profissionais
 - 30-estudos/ para cursos, livros, metodos e planos de estudo
 - 40-projetos/ para projetos, ideias, produtos e frentes autorais

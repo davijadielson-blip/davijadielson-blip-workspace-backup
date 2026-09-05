@@ -61,15 +61,15 @@ Saída agrupada por frente:
 Total: X e-mails | Y frentes | Z ações necessárias
 ```
 
-**PASSO 5 — Propor registro em inbox-externa**
+**PASSO 5 — Propor registro na entrada externa da Inbox Geral**
 
 Se houver e-mail relevante (não spam), proponha salvar resumo em:
-`[F2] memory/inbox-externa/email/YYYY-MM-DD.md`
+`00-central/inbox/externa/email/YYYY-MM-DD.md`
 
 Frontmatter:
 ```yaml
 ---
-tipo: inbox-externa
+tipo: entrada-externa
 fonte: gmail
 data: YYYY-MM-DD
 frentes: [lista]

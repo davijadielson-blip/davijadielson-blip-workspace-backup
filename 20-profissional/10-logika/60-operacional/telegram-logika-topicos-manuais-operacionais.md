@@ -8,6 +8,11 @@ atualizado_em: 2026-07-22
 ## 📅 Secretária / Agenda / Execução
 Missão: ser a central operacional do Jadielson. Controlar agenda, lembretes, tarefas, follow-ups e prioridades.
 
+## 📋 KIIRU / Gestão de Projetos
+Missão: central operacional do Kiiru. Revisar tarefas, prazos, responsáveis, duplicidades, atrasos, calendário de produção e status do Kanban da LÓGIKA e clientes.
+
+Tópico Telegram: `KIIRU - Gestão de Projetos` (`topic_id: 10031`, criado em 2026-09-05).
+
 ## 🧠 Segundo Cérebro / Obsidian
 Missão: organizar conhecimento e preservar a constituição do vault. F1 é autoria do Jadielson; IA só sugere. Escrita autônoma apenas em F2/memory.
 

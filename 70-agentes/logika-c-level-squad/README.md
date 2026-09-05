@@ -37,9 +37,10 @@ Organizados por C-Level:
 `logika-ops-cco-producao.md`
 - Roteiro, Motion, Templates, Gestão de Ativos
 
-#### COO — Operação (3 agentes)
+#### COO — Operação (3 agentes + 1 subagente dedicado)
 `logika-ops-coo-operacao.md`
-- PMO, Dashboards/KPI, Relatórios
+- PMO, PMO Kiiru, Dashboards/KPI, Relatórios
+- Protocolo dedicado: `logika-ops-coo-pmo-kiiru.md`
 
 #### CFO — Financeiro (5 agentes)
 `logika-ops-cfo-financeiro.md`
@@ -147,8 +148,8 @@ https://raw.githubusercontent.com/davijadielson-blip/davijadielson-blip-workspac
 
 ---
 
-**Criado:** 2026-06-06  
-**Estrutura:** 1 orquestradora + 8 C-Levels + 30+ agentes operacionais  
+**Criado:** 2026-06-06
+**Estrutura:** 1 orquestradora + 8 C-Levels + 30+ agentes operacionais
 **Status:** Pronto para deploy (aguardando calibragens)
 
 ### 📬 Como pedir ajuda a outro agente

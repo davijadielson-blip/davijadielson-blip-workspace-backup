@@ -1,6 +1,6 @@
 ---
 tema: DIVIDAS E PASSIVOS
-atualizado_em: 2026-07-30
+atualizado_em: 2026-09-01
 ---
 
 # Dívidas e Passivos Pessoais
@@ -44,6 +44,7 @@ Ponto de conciliação: há divergência entre o líquido do relatório de consi
 | Data do pagamento | Descrição | Valor | Status | Comprovante |
 |---|---|---:|---|---|
 | 2026-07-30 | IPVA do carro — segunda parcela | R$ 111,17 | pago | Drive pessoal > FINANCEIRO > comprovantes pessoais; envio pendente no runtime atual |
+| 2026-08-31 | IPVA do carro — outra parcela | R$ 111,17 | pago | Comprovante Banco do Brasil; convênio GOV AL TR ESTADUAIS; número da parcela não informado no comprovante. |
 
 Observação Warren: comprovante Caixa recebido no tópico My Finance em 2026-07-30. Identificação da operação no comprovante: "SEGUNDA PARCELA IPVA CARR". Convênio: Secretaria da Fazenda. Data de vencimento e débito: 30/07/2026. Regra reforçada por Jadielson: no Cofre fica apenas `.md`; comprovantes/PDFs devem ir para o Drive pessoal.
 

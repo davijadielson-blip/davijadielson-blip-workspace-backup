@@ -66,7 +66,7 @@ A regra foi reforcada em `.gitignore` para evitar versionamento acidental futuro
    - resposta deve lembrar: Cofre primeiro e `.md` com YAML frontmatter.
 
 2. Ideia pessoal:
-   - destino: `10-pessoal/inbox/` se for captura bruta; `40-projetos/10-pessoais/` ou `40-projetos/ideias/` se ja for projeto;
+   - destino: `00-central/inbox/` se for captura bruta; `40-projetos/10-pessoais/` ou `40-projetos/ideias/` se ja for projeto;
    - resposta deve lembrar: `.md` com YAML frontmatter.
 
 3. Conflito de autoridade:

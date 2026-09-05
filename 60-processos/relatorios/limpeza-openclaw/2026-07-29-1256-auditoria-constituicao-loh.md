@@ -52,7 +52,7 @@ O worktree ja estava sujo antes desta auditoria. Foram observadas alteracoes exi
 - `IDENTITY.md`
 - `memory/2026-07-29.md`
 - `memory/.dreams/short-term-recall.json` removido e `memory/.dreams/short-term-recall.json.migrated` criado
-- novos itens em `70-agentes/runtime/`, `memory/context/regras-operacionais-arquivos.md`, `memory/inbox-externa/`, `memory/outputs/posicionamento-digital-poses-ensaios/`, `memory/sessions/2026-07-29.md` e `openclaw-workspace-state.json`
+- novos itens em `70-agentes/runtime/`, `memory/context/regras-operacionais-arquivos.md`, `00-central/inbox/externa/`, `memory/outputs/posicionamento-digital-poses-ensaios/`, `memory/sessions/2026-07-29.md` e `openclaw-workspace-state.json`
 
 Essas alteracoes parecem relacionadas a recuperacao/reativacao do ecossistema e tarefas anteriores do dia. A automacao futura nao deve fazer `git add .` indiscriminado sem checagem de segredos e sem separar o que foi gerado pela rotina.
 

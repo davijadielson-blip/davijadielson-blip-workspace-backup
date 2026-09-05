@@ -28,7 +28,7 @@ Em 2026-08-08, Jadielson determinou:
 
 ## Aplicacao imediata
 
-- Registros financeiros da Logika devem continuar em `memory/inbox-externa/financeiro/empresa/`.
+- Registros financeiros da Logika devem continuar em `00-central/inbox/externa/financeiro/empresa/`.
 - Comprovantes originais devem ir para o Drive empresarial `logikacreative.mkt@gmail.com`.
 - Se um bruto entrar temporariamente durante processamento, ele deve ser removido do Cofre ao final da rotina, sem exclusao definitiva sem revisao humana.
 

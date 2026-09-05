@@ -5,7 +5,7 @@ setor: governanca agentiva, operacoes, producao
 cliente: Jadielson Davi
 tipo: protocolo-operacional
 prioridade: alta
-atualizado_em: 2026-08-09
+atualizado_em: 2026-08-25
 usar_quando: qualquer agente concluir tarefa que gere arquivo, midia, documento, planilha, roteiro, briefing, relatorio ou entregavel externo
 nao_usar_quando: respostas simples em chat que nao gerem arquivo nem entregavel a preservar
 ---
@@ -23,7 +23,16 @@ Nenhuma tarefa com arquivo ou entregavel externo deve ser marcada como concluida
    - materiais profissionais da Logika/clientes: Google Drive profissional `logikacreative.mkt@gmail.com`;
    - materiais do proprio ecossistema, contexto e decisoes: Cofre em `/data/.openclaw/workspace/`;
    - materiais pessoais: somente quando a tarefa pedir claramente e dentro do escopo pessoal autorizado.
-3. Para Google Drive, usar `gog` oficial carregando o ambiente:
+3. Para Google Drive, usar `gog` oficial. Caminho preferencial para agentes e subagentes: atalhos globais no PATH, sem depender de `source`:
+
+```bash
+gog_drive logika upload <arquivo-local> --parent <folder-id>
+gog_drive pessoal upload <arquivo-local> --parent <folder-id>
+```
+
+Esses atalhos resolvem as contas oficiais e forcam `--client default`, mesmo quando o runtime herdar `GOG_CLIENT=openclaw`.
+
+Fallback canônico, se o atalho global não estiver disponivel:
 
 ```bash
 cd /data/.openclaw/workspace

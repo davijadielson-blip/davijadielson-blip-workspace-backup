@@ -10,3 +10,10 @@ if [[ -f "/data/.openclaw/workspace/scripts/.secrets/notion.env" ]]; then
   . "/data/.openclaw/workspace/scripts/.secrets/notion.env"
   set +a
 fi
+
+if [[ -f "/data/.openclaw/workspace/scripts/.secrets/notion-logika-producao.env" ]]; then
+  set -a
+  # shellcheck disable=SC1091
+  . "/data/.openclaw/workspace/scripts/.secrets/notion-logika-producao.env"
+  set +a
+fi
