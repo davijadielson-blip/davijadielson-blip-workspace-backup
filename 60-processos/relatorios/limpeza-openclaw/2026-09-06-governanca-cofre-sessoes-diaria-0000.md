@@ -86,4 +86,6 @@ Regra aplicada: preservar quando houver qualquer duvida sobre consolidacao, orig
 
 ## Status de backup
 
-- Worktree avaliado como claro para commit seletivo dos registros operacionais e relatorio, condicionado a confirmacao final do `git push`.
+- Commit seletivo de consolidacao realizado e enviado ao `origin/main`.
+- Hash do commit de consolidacao confirmado no remoto: `111ba942207cf347aedc4cbcdaae22bdffe736c4`.
+- Observacao: este relatorio pode receber commit posterior apenas para registrar a confirmacao do hash, sem alterar o conteudo consolidado.
