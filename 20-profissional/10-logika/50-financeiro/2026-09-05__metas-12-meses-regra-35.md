@@ -91,6 +91,41 @@ A meta de 35% e possivel, mas exige aumento forte de receita recorrente. A rota 
 - Investimentos temporarios, como drone, mochila e cursos, devem ser pagos preferencialmente pela sobra/caixa de investimento.
 - Novas despesas fixas so devem entrar quando houver receita recorrente correspondente.
 
+## Monitoramento aprovado - 2026-09-05
+
+Jadielson autorizou guardar esta regua e pediu alertas financeiros continuos.
+
+Regra operacional:
+
+- A cada nova despesa alimentada, o CFO deve responder com:
+  - valor registrado;
+  - categoria: fixo estrutural, operacional semi-fixo, investimento temporario/controlavel ou custo variavel de projeto;
+  - novo impacto no caixa;
+  - comparacao com a meta atual;
+  - alerta se aproximar ou ultrapassar o limite da fase.
+- A cada nova receita alimentada, o CFO deve responder com:
+  - valor registrado;
+  - se e receita recorrente ou avulsa;
+  - novo total recorrente quando aplicavel;
+  - distancia para as metas de 3, 6, 9 e 12 meses;
+  - impacto no percentual despesas + pro-labore.
+- A cada fechamento mensal, gerar balanco geral com:
+  - receitas do mes;
+  - despesas fixas, operacionais semi-fixas, variaveis e investimentos temporarios;
+  - saldo/superavit/deficit;
+  - pro-labore possivel;
+  - percentual despesas + pro-labore sobre faturamento;
+  - comparacao com a regua dos 35%;
+  - alerta e recomendacao para o mes seguinte.
+
+Agendamento ativo atualizado em 2026-09-05:
+
+- Objetivo: balanco mensal no ultimo dia do mes, as **09:00**, horario de Alagoas, no topico CFO.
+- `logika-cfo-balanco-mensal-31` - ID `42a7bd74-5024-4977-b968-1c65eeadf291` - meses com 31 dias.
+- `logika-cfo-balanco-mensal-30` - ID `f7788566-3ae4-42ed-a85c-ace971d6d92d` - meses com 30 dias.
+- `logika-cfo-balanco-mensal-fev-28` - ID `53447120-70ba-465f-803a-eecf087eca47` - fevereiro dia 28.
+- `logika-cfo-balanco-mensal-fev-29` - ID `3c8b6d3b-362f-485d-b1fe-112209a2f8a5` - fevereiro dia 29 em ano bissexto.
+
 ## Fontes
 
 - Cofre: `DESPESAS FIXOS - mensais.md`, `DESPESAS Variáveis - mensais.md`, `RECEITAS.md`, `2026-09-04__meta-faturamento-superavit-prolabore-10.md`, `2026-09-05__pesquisa-regra-35-despesas-prolabore-investimentos.md`.
